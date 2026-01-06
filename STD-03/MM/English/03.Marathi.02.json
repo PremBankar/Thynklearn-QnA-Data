@@ -1,437 +1,193 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.ENG.MAR.02",
+    "chapter_id": "03.MarathiMedium.English.02",
     "standard": "3",
-    "subject": "Marathi Sulabhbharati",
-    "medium": "English",
-    "chapter_name": "सिंह आणि कोल्हा"
+    "subject": "English",
+    "medium": "Marathi Medium",
+    "chapter_name": "Priya in the Village"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "कथेतील मुख्य पात्रे कोणती आहेत?",
+      "question": "What is the name of the girl in the lesson?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "सिंह आणि कोल्हा",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "सिंह आणि हत्ती",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कोल्हा आणि कुत्रा",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "हत्ती आणि कोल्हा",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Riya", "is_correct": false },
+        { "option_id": 2, "text": "Priya", "is_correct": true },
+        { "option_id": 3, "text": "Pooja", "is_correct": false },
+        { "option_id": 4, "text": "Neha", "is_correct": false }
       ],
-      "answer": "सिंह आणि कोल्हा"
+      "answer": "Priya"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "सिंह कशामुळे रागावलेला होता?",
+      "question": "Where does Priya live?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "तो भुकेला होता",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "त्याला दुखापत झाली होती",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कोणी त्याची चेष्टा केली",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "त्याला झोप आली नव्हती",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "In a city", "is_correct": false },
+        { "option_id": 2, "text": "In a village", "is_correct": true },
+        { "option_id": 3, "text": "In a town", "is_correct": false },
+        { "option_id": 4, "text": "In a forest", "is_correct": false }
       ],
-      "answer": "तो भुकेला होता"
+      "answer": "In a village"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "कोल्ह्याने सिंहाशी कसे वागले?",
+      "question": "How are the houses in Priya’s village?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "हुशारीने",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "भीतीने",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "रागाने",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "मूकपणे",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Far apart", "is_correct": false },
+        { "option_id": 2, "text": "Close together", "is_correct": true },
+        { "option_id": 3, "text": "Very big", "is_correct": false },
+        { "option_id": 4, "text": "Very tall", "is_correct": false }
       ],
-      "answer": "हुशारीने"
+      "answer": "Close together"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "कोल्ह्याने सिंहाला काय सांगितले?",
+      "question": "What are there between the houses?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "सत्य बोलले",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खोटे बोलले",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "काहीच सांगितले नाही",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "ओरडले",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Big roads", "is_correct": false },
+        { "option_id": 2, "text": "Small lanes", "is_correct": true },
+        { "option_id": 3, "text": "Rivers", "is_correct": false },
+        { "option_id": 4, "text": "Parks", "is_correct": false }
       ],
-      "answer": "सत्य बोलले"
+      "answer": "Small lanes"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "सिंहाने कोल्ह्याला का मारले नाही?",
+      "question": "What is around the houses in the village?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "कोल्हा हुशार होता",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "कोल्हा लपला",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "सिंह थकला होता",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "कोल्हा पळून गेला",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Cars", "is_correct": false },
+        { "option_id": 2, "text": "Plants and trees", "is_correct": true },
+        { "option_id": 3, "text": "Tall buildings", "is_correct": false },
+        { "option_id": 4, "text": "Shops", "is_correct": false }
       ],
-      "answer": "कोल्हा हुशार होता"
+      "answer": "Plants and trees"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "कथेतील कोल्हा कसा आहे?",
+      "question": "Who is Dajikaka?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "हुशार",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "आळशी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भोळा",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "रागीट",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Priya’s teacher", "is_correct": false },
+        { "option_id": 2, "text": "Priya’s neighbour", "is_correct": true },
+        { "option_id": 3, "text": "Priya’s uncle", "is_correct": false },
+        { "option_id": 4, "text": "Priya’s friend", "is_correct": false }
       ],
-      "answer": "हुशार"
+      "answer": "Priya’s neighbour"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "कथेचा शेवट कसा आहे?",
+      "question": "Which animals does Dajikaka keep?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "कोल्हा वाचतो",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "सिंह मरतो",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "दोघे भांडतात",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "कोणीही वाचत नाही",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Dogs and cats", "is_correct": false },
+        { "option_id": 2, "text": "Cows and buffaloes", "is_correct": true },
+        { "option_id": 3, "text": "Horses and goats", "is_correct": false },
+        { "option_id": 4, "text": "Sheep and hens", "is_correct": false }
       ],
-      "answer": "कोल्हा वाचतो"
+      "answer": "Cows and buffaloes"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "या कथेतून काय समजते?",
+      "question": "What does Dajikaka do every day?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "हुशारी महत्त्वाची आहे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शक्तीच सर्वकाही आहे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण करावे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "खोटे बोलावे",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "He sells vegetables", "is_correct": false },
+        { "option_id": 2, "text": "He milks the animals", "is_correct": true },
+        { "option_id": 3, "text": "He teaches children", "is_correct": false },
+        { "option_id": 4, "text": "He drives a bus", "is_correct": false }
       ],
-      "answer": "हुशारी महत्त्वाची आहे"
+      "answer": "He milks the animals"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "सिंह कोणत्या प्राण्याचे प्रतीक आहे?",
+      "question": "From whom do they buy milk?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "शक्तीचे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "हुशारीचे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भीतीचे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "आळशीपणाचे",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Shopkeeper", "is_correct": false },
+        { "option_id": 2, "text": "Dajikaka", "is_correct": true },
+        { "option_id": 3, "text": "Farmer", "is_correct": false },
+        { "option_id": 4, "text": "Teacher", "is_correct": false }
       ],
-      "answer": "शक्तीचे"
+      "answer": "Dajikaka"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "कोल्हा कोणत्या गुणासाठी ओळखला जातो?",
+      "question": "How is the milk described in the lesson?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "हुशारी",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शक्ती",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "आळस",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भय",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Cold and sour", "is_correct": false },
+        { "option_id": 2, "text": "Nice, fresh and warm", "is_correct": true },
+        { "option_id": 3, "text": "Old and thick", "is_correct": false },
+        { "option_id": 4, "text": "Sweet and coloured", "is_correct": false }
       ],
-      "answer": "हुशारी"
+      "answer": "Nice, fresh and warm"
     },
+
     {
-      "question_id": 11,
-      "question_type": "MCQ",
-      "question": "कथेत सिंह कोणावर रागावतो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "कोल्ह्यावर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "हत्तीवर",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "सर्वांवर",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "कोणावरही नाही",
-          "is_correct": false
-        }
-      ],
-      "answer": "कोल्ह्यावर"
-    },
-    {
-      "question_id": 12,
-      "question_type": "MCQ",
-      "question": "कोल्ह्याने स्वतःचा जीव कसा वाचवला?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "हुशारीने बोलून",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "पळून जाऊन",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "लपून",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भांडून",
-          "is_correct": false
-        }
-      ],
-      "answer": "हुशारीने बोलून"
-    },
-    {
-      "question_id": 13,
+      "question_id": 51,
       "question_type": "SHORT",
-      "question": "कथेतील मुख्य पात्रे कोणती आहेत?",
-      "answer": "कथेतील मुख्य पात्रे सिंह आणि कोल्हा आहेत."
+      "question": "Who is Priya?",
+      "answer": "Priya is a girl who lives in a village."
     },
     {
-      "question_id": 14,
+      "question_id": 52,
       "question_type": "SHORT",
-      "question": "सिंह रागावलेला का होता?",
-      "answer": "सिंह भुकेमुळे रागावलेला होता."
+      "question": "Where does Priya live?",
+      "answer": "Priya lives in a small village."
     },
     {
-      "question_id": 15,
+      "question_id": 53,
       "question_type": "SHORT",
-      "question": "कोल्ह्याने सिंहाशी कसे बोलले?",
-      "answer": "कोल्ह्याने सिंहाशी हुशारीने आणि शांतपणे बोलले."
+      "question": "How are the houses in the village?",
+      "answer": "The houses are close together."
     },
     {
-      "question_id": 16,
+      "question_id": 54,
       "question_type": "SHORT",
-      "question": "कोल्हा हुशार का होता?",
-      "answer": "त्याने योग्य शब्द वापरून आपला जीव वाचवला म्हणून तो हुशार होता."
+      "question": "What are there between the houses?",
+      "answer": "There are small lanes between the houses."
     },
     {
-      "question_id": 17,
+      "question_id": 55,
       "question_type": "SHORT",
-      "question": "सिंहाने कोल्ह्याला का सोडले?",
-      "answer": "कोल्ह्याच्या हुशारीमुळे सिंहाने त्याला सोडले."
+      "question": "What is around the houses?",
+      "answer": "There are many plants and trees around the houses."
     },
     {
-      "question_id": 18,
+      "question_id": 56,
       "question_type": "SHORT",
-      "question": "या कथेतून काय शिकायला मिळते?",
-      "answer": "हुशारीने मोठ्या अडचणी सोडवता येतात हे शिकायला मिळते."
+      "question": "Who is Dajikaka?",
+      "answer": "Dajikaka is Priya’s neighbour."
     },
     {
-      "question_id": 19,
+      "question_id": 57,
       "question_type": "SHORT",
-      "question": "कोल्ह्याचा स्वभाव कसा आहे?",
-      "answer": "कोल्ह्याचा स्वभाव हुशार आहे."
+      "question": "Which animals does Dajikaka keep?",
+      "answer": "He keeps cows and buffaloes."
     },
     {
-      "question_id": 20,
+      "question_id": 58,
       "question_type": "SHORT",
-      "question": "सिंह कसा प्राणी आहे?",
-      "answer": "सिंह शक्तिशाली प्राणी आहे."
+      "question": "What does Dajikaka do every day?",
+      "answer": "He milks the cows and buffaloes every day."
     },
     {
-      "question_id": 21,
+      "question_id": 59,
       "question_type": "SHORT",
-      "question": "कथेचा शेवट कसा आहे?",
-      "answer": "कथेचा शेवट आनंदी आहे कारण कोल्हा वाचतो."
+      "question": "From whom do they buy milk?",
+      "answer": "They buy milk from Dajikaka."
     },
     {
-      "question_id": 22,
+      "question_id": 60,
       "question_type": "SHORT",
-      "question": "कोल्ह्याने स्वतःचा जीव कसा वाचवला?",
-      "answer": "त्याने हुशारीने उत्तर देऊन आपला जीव वाचवला."
-    },
-    {
-      "question_id": 23,
-      "question_type": "SHORT",
-      "question": "ही कथा मुलांना काय शिकवते?",
-      "answer": "ही कथा हुशारीचे महत्त्व शिकवते."
-    },
-    {
-      "question_id": 24,
-      "question_type": "SHORT",
-      "question": "कथेत सिंह आणि कोल्हा कुठे भेटतात?",
-      "answer": "कथेत सिंह आणि कोल्हा जंगलात भेटतात."
-    },
-    {
-      "question_id": 25,
-      "question_type": "SHORT",
-      "question": "सिंह आणि कोल्हा यांच्यात फरक काय आहे?",
-      "answer": "सिंह शक्तिशाली आहे तर कोल्हा हुशार आहे."
-    },
-    {
-      "question_id": 26,
-      "question_type": "SHORT",
-      "question": "तुम्हाला या कथेत कोण आवडतो आणि का?",
-      "answer": "मला कोल्हा आवडतो कारण तो हुशार आहे."
-    },
-    {
-      "question_id": 27,
-      "question_type": "SHORT",
-      "question": "या कथेतून कोणता गुण शिकायला मिळतो?",
-      "answer": "या कथेतून हुशारी हा गुण शिकायला मिळतो."
+      "question": "How is the milk?",
+      "answer": "The milk is nice, fresh and warm."
     }
   ]
 }
+

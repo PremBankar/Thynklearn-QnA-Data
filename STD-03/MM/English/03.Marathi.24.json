@@ -1,721 +1,521 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.ENG.MAR.24",
+    "chapter_id": "03.Marathi.24",
     "standard": "3",
-    "subject": "Marathi Sulabhbharati",
-    "medium": "English",
-    "chapter_name": "सारे कसे छान! (कविता)"
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "h-l-r-s"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which letter comes in the word 'hat'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "h",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "l",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "r",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "s",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "h"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which letter comes in the word 'lion'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
+          "text": "h",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "l",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "राग",
+          "text": "r",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "s",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "l"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which letter comes in the word 'rat'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
+          "text": "h",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "l",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
-          "is_correct": false
+          "text": "r",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "s",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "r"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which letter comes in the word 'sun'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
+          "text": "h",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "l",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "r",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
+          "text": "s",
+          "is_correct": true
         }
       ],
-      "answer": "आनंद"
+      "answer": "s"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word starts with 'h'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Hat",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Lion",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Rat",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Sun",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Hat"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word starts with 'l'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
+          "text": "Hat",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "राग",
+          "text": "Rat",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Sun",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Lion"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word starts with 'r'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
+          "text": "Hat",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Lion",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
-          "is_correct": false
+          "text": "Rat",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Sun",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Rat"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word starts with 's'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
+          "text": "Hat",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Lion",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Rat",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
+          "text": "Sun",
+          "is_correct": true
         }
       ],
-      "answer": "आनंद"
+      "answer": "Sun"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which letter is in the word 'house'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "h",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "l",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "r",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "s",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "h"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which letter is in the word 'rose'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
+          "text": "h",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "l",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
-          "is_correct": false
+          "text": "r",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "s",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "r"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which letter is in the word 'school'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
+          "text": "h",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "l",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "r",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
+          "text": "s",
+          "is_correct": true
         }
       ],
-      "answer": "आनंद"
+      "answer": "s"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word begins with 'h'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Hen",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Lion",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Rat",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Sun",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Hen"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word begins with 'l'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
+          "text": "Hen",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "Lamp",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "राग",
+          "text": "Rat",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Sun",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Lamp"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word begins with 'r'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
+          "text": "Hen",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Lamp",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
-          "is_correct": false
+          "text": "Ring",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Sun",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Ring"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word begins with 's'?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
+          "text": "Hen",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Lamp",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Ring",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
+          "text": "Star",
+          "is_correct": true
         }
       ],
-      "answer": "आनंद"
+      "answer": "Star"
     },
     {
       "question_id": 16,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "Write one word that starts with 'h'.",
+      "answer": "Hat."
     },
     {
       "question_id": 17,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "Write one word that starts with 'l'.",
+      "answer": "Lion."
     },
     {
       "question_id": 18,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "Write one word that starts with 'r'.",
+      "answer": "Rat."
     },
     {
       "question_id": 19,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "Write one word that starts with 's'.",
+      "answer": "Sun."
     },
     {
       "question_id": 20,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "Which letter is in the word 'house'?",
+      "answer": "The letter 'h' is in the word 'house'."
     },
     {
       "question_id": 21,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Which letter is in the word 'rose'?",
+      "answer": "The letter 'r' is in the word 'rose'."
     },
     {
       "question_id": 22,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Which letter is in the word 'school'?",
+      "answer": "The letter 's' is in the word 'school'."
     },
     {
       "question_id": 23,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write a word using the letter 'l'.",
+      "answer": "Lamp."
     },
     {
       "question_id": 24,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write a word using the letter 'h'.",
+      "answer": "Hen."
     },
     {
       "question_id": 25,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write a word using the letter 'r'.",
+      "answer": "Ring."
     },
     {
       "question_id": 26,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write a word using the letter 's'.",
+      "answer": "Star."
     },
     {
       "question_id": 27,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Circle the starting letter of 'hat'.",
+      "answer": "The starting letter is 'h'."
     },
     {
       "question_id": 28,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Circle the starting letter of 'lion'.",
+      "answer": "The starting letter is 'l'."
     },
     {
       "question_id": 29,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Circle the starting letter of 'rat'.",
+      "answer": "The starting letter is 'r'."
     },
     {
       "question_id": 30,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 31,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 32,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 33,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 34,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 35,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 36,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 37,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 38,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 39,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 40,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 41,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 42,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 43,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 44,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 45,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Circle the starting letter of 'sun'.",
+      "answer": "The starting letter is 's'."
     }
   ]
 }

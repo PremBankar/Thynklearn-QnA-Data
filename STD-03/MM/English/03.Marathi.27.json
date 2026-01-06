@@ -1,721 +1,521 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.ENG.MAR.27",
+    "chapter_id": "03.Marathi.27",
     "standard": "3",
-    "subject": "Marathi Sulabhbharati",
-    "medium": "English",
-    "chapter_name": "चिंगी (कविता)"
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "One and Many"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word tells number?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Two",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Run",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Red",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Pen",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Two"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which of these is a plural word?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Apples",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Apple",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Eat",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Red",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Apples"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word means more than one?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Many",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Run",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Red",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Pen",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Many"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which shows one item?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Apple",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Apples",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Many",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Some",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Apple"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which is correct?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "I have two pens.",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "I have two pen.",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "I have pen two.",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "I two have pen.",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "I have two pens."
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word tells number? (27-6)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Two",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Run",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Red",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Pen",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Two"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which of these is a plural word? (27-7)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Apples",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Apple",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Eat",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Red",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Apples"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word means more than one? (27-8)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Many",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Run",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Red",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Pen",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Many"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which shows one item? (27-9)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Apple",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Apples",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Many",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Some",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Apple"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which is correct? (27-10)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "I have two pens.",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "I have two pen.",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "I have pen two.",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "I two have pen.",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "I have two pens."
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word tells number? (27-11)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Two",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Run",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Red",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Pen",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Two"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which of these is a plural word? (27-12)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Apples",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Apple",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Eat",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Red",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Apples"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which word means more than one? (27-13)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Many",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Run",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Red",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Pen",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Many"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which shows one item? (27-14)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "Apple",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "Apples",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "Many",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "Some",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "Apple"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
+      "question": "Which is correct? (27-15)",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "I have two pens.",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्रेम",
+          "text": "I have two pen.",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "I have pen two.",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "I two have pen.",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "I have two pens."
     },
     {
       "question_id": 16,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "What does 'many' mean?",
+      "answer": "'Many' means more than one."
     },
     {
       "question_id": 17,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "Write the plural of 'pen'.",
+      "answer": "The plural of pen is pens."
     },
     {
       "question_id": 18,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "Write one sentence with a number.",
+      "answer": "I have two books."
     },
     {
       "question_id": 19,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "Why do we use plurals?",
+      "answer": "We use plurals to show more than one."
     },
     {
       "question_id": 20,
-      "question_type": "MCQ",
-      "question": "या कवितेतील मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "प्रेम",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "राग",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंद"
+      "question_type": "SHORT",
+      "question": "Write one word that means one.",
+      "answer": "One."
     },
     {
       "question_id": 21,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "What does 'many' mean? (27-6)",
+      "answer": "'Many' means more than one."
     },
     {
       "question_id": 22,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write the plural of 'pen'. (27-7)",
+      "answer": "The plural of pen is pens."
     },
     {
       "question_id": 23,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write one sentence with a number. (27-8)",
+      "answer": "I have two books."
     },
     {
       "question_id": 24,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Why do we use plurals? (27-9)",
+      "answer": "We use plurals to show more than one."
     },
     {
       "question_id": 25,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write one word that means one. (27-10)",
+      "answer": "One."
     },
     {
       "question_id": 26,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "What does 'many' mean? (27-11)",
+      "answer": "'Many' means more than one."
     },
     {
       "question_id": 27,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write the plural of 'pen'. (27-12)",
+      "answer": "The plural of pen is pens."
     },
     {
       "question_id": 28,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write one sentence with a number. (27-13)",
+      "answer": "I have two books."
     },
     {
       "question_id": 29,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Why do we use plurals? (27-14)",
+      "answer": "We use plurals to show more than one."
     },
     {
       "question_id": 30,
       "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 31,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 32,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 33,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 34,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 35,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 36,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 37,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 38,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 39,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 40,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 41,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 42,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 43,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 44,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
-    },
-    {
-      "question_id": 45,
-      "question_type": "SHORT",
-      "question": "या कवितेचा संदेश काय आहे?",
-      "answer": "या कवितेतून सकारात्मक भावना आणि आनंदाचा संदेश मिळतो."
+      "question": "Write one word that means one. (27-15)",
+      "answer": "One."
     }
   ]
 }
