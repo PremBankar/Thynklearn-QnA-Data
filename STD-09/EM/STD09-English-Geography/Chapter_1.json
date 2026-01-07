@@ -1,0 +1,1163 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.01",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Distributional Maps"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main aim of distributional maps?",
+      "options": [
+        { "option_id": 1, "text": "To show routes", "is_correct": false },
+        { "option_id": 2, "text": "To show boundaries", "is_correct": false },
+        { "option_id": 3, "text": "To show distribution of variables", "is_correct": true },
+        { "option_id": 4, "text": "To show directions", "is_correct": false }
+      ],
+      "answer": "To show distribution of variables"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Distributional maps are also called:",
+      "options": [
+        { "option_id": 1, "text": "Political maps", "is_correct": false },
+        { "option_id": 2, "text": "Thematic maps", "is_correct": true },
+        { "option_id": 3, "text": "Outline maps", "is_correct": false },
+        { "option_id": 4, "text": "Route maps", "is_correct": false }
+      ],
+      "answer": "Thematic maps"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which method uses counting data?",
+      "options": [
+        { "option_id": 1, "text": "Choropleth method", "is_correct": false },
+        { "option_id": 2, "text": "Isopleth method", "is_correct": false },
+        { "option_id": 3, "text": "Dot method", "is_correct": true },
+        { "option_id": 4, "text": "Contour method", "is_correct": false }
+      ],
+      "answer": "Dot method"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which variable is best represented using the dot method?",
+      "options": [
+        { "option_id": 1, "text": "Rainfall", "is_correct": false },
+        { "option_id": 2, "text": "Temperature", "is_correct": false },
+        { "option_id": 3, "text": "Population", "is_correct": true },
+        { "option_id": 4, "text": "Altitude", "is_correct": false }
+      ],
+      "answer": "Population"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should be uniform in a dot map?",
+      "options": [
+        { "option_id": 1, "text": "Colour of dots", "is_correct": false },
+        { "option_id": 2, "text": "Size of dots", "is_correct": true },
+        { "option_id": 3, "text": "Distance between dots", "is_correct": false },
+        { "option_id": 4, "text": "Shape of map", "is_correct": false }
+      ],
+      "answer": "Size of dots"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which symbol is used to show urban population in dot maps?",
+      "options": [
+        { "option_id": 1, "text": "Dots", "is_correct": false },
+        { "option_id": 2, "text": "Circles", "is_correct": true },
+        { "option_id": 3, "text": "Triangles", "is_correct": false },
+        { "option_id": 4, "text": "Squares", "is_correct": false }
+      ],
+      "answer": "Circles"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which factor should be considered while placing dots on a map?",
+      "options": [
+        { "option_id": 1, "text": "Physiography", "is_correct": true },
+        { "option_id": 2, "text": "Time zone", "is_correct": false },
+        { "option_id": 3, "text": "Longitude only", "is_correct": false },
+        { "option_id": 4, "text": "Latitude only", "is_correct": false }
+      ],
+      "answer": "Physiography"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which method uses colour shades to represent data?",
+      "options": [
+        { "option_id": 1, "text": "Dot method", "is_correct": false },
+        { "option_id": 2, "text": "Choropleth method", "is_correct": true },
+        { "option_id": 3, "text": "Isopleth method", "is_correct": false },
+        { "option_id": 4, "text": "Symbol method", "is_correct": false }
+      ],
+      "answer": "Choropleth method"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In choropleth maps, how many values are assigned to one unit?",
+      "options": [
+        { "option_id": 1, "text": "Many values", "is_correct": false },
+        { "option_id": 2, "text": "One value", "is_correct": true },
+        { "option_id": 3, "text": "No value", "is_correct": false },
+        { "option_id": 4, "text": "Random value", "is_correct": false }
+      ],
+      "answer": "One value"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How many classes are usually formed in choropleth maps?",
+      "options": [
+        { "option_id": 1, "text": "2–3", "is_correct": false },
+        { "option_id": 2, "text": "3–4", "is_correct": false },
+        { "option_id": 3, "text": "5–7", "is_correct": true },
+        { "option_id": 4, "text": "8–10", "is_correct": false }
+      ],
+      "answer": "5–7"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which method is used for continuous distribution?",
+      "options": [
+        { "option_id": 1, "text": "Dot method", "is_correct": false },
+        { "option_id": 2, "text": "Isopleth method", "is_correct": true },
+        { "option_id": 3, "text": "Choropleth method", "is_correct": false },
+        { "option_id": 4, "text": "Political method", "is_correct": false }
+      ],
+      "answer": "Isopleth method"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which variable is best shown using isopleth maps?",
+      "options": [
+        { "option_id": 1, "text": "Population", "is_correct": false },
+        { "option_id": 2, "text": "Rainfall", "is_correct": true },
+        { "option_id": 3, "text": "Literacy", "is_correct": false },
+        { "option_id": 4, "text": "Cattle population", "is_correct": false }
+      ],
+      "answer": "Rainfall"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Lines joining places of equal value are called:",
+      "options": [
+        { "option_id": 1, "text": "Contours", "is_correct": false },
+        { "option_id": 2, "text": "Isolines", "is_correct": true },
+        { "option_id": 3, "text": "Meridians", "is_correct": false },
+        { "option_id": 4, "text": "Parallels", "is_correct": false }
+      ],
+      "answer": "Isolines"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Closely spaced isopleths indicate:",
+      "options": [
+        { "option_id": 1, "text": "Gentle change", "is_correct": false },
+        { "option_id": 2, "text": "Steep change", "is_correct": true },
+        { "option_id": 3, "text": "Uniform change", "is_correct": false },
+        { "option_id": 4, "text": "No change", "is_correct": false }
+      ],
+      "answer": "Steep change"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which data is used in isopleth maps?",
+      "options": [
+        { "option_id": 1, "text": "Area-related data", "is_correct": false },
+        { "option_id": 2, "text": "Point-related data", "is_correct": true },
+        { "option_id": 3, "text": "Census data", "is_correct": false },
+        { "option_id": 4, "text": "Estimated data", "is_correct": false }
+      ],
+      "answer": "Point-related data"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which method ignores administrative boundaries?",
+      "options": [
+        { "option_id": 1, "text": "Dot method", "is_correct": false },
+        { "option_id": 2, "text": "Isopleth method", "is_correct": true },
+        { "option_id": 3, "text": "Choropleth method", "is_correct": false },
+        { "option_id": 4, "text": "Political method", "is_correct": false }
+      ],
+      "answer": "Isopleth method"
+    },
+
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which map best shows natural trends of a variable?",
+      "options": [
+        { "option_id": 1, "text": "Dot map", "is_correct": false },
+        { "option_id": 2, "text": "Isopleth map", "is_correct": true },
+        { "option_id": 3, "text": "Political map", "is_correct": false },
+        { "option_id": 4, "text": "Outline map", "is_correct": false }
+      ],
+      "answer": "Isopleth map"
+    },
+
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which method is most suitable for population density?",
+      "options": [
+        { "option_id": 1, "text": "Dot method", "is_correct": false },
+        { "option_id": 2, "text": "Choropleth method", "is_correct": true },
+        { "option_id": 3, "text": "Isopleth method", "is_correct": false },
+        { "option_id": 4, "text": "Contour method", "is_correct": false }
+      ],
+      "answer": "Choropleth method"
+    },
+
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which method is suitable for freely scattered variables?",
+      "options": [
+        { "option_id": 1, "text": "Dot method", "is_correct": true },
+        { "option_id": 2, "text": "Choropleth method", "is_correct": false },
+        { "option_id": 3, "text": "Isopleth method", "is_correct": false },
+        { "option_id": 4, "text": "Political method", "is_correct": false }
+      ],
+      "answer": "Dot method"
+    },
+
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which method uses black-and-white patterns?",
+      "options": [
+        { "option_id": 1, "text": "Dot method", "is_correct": false },
+        { "option_id": 2, "text": "Choropleth method", "is_correct": true },
+        { "option_id": 3, "text": "Isopleth method", "is_correct": false },
+        { "option_id": 4, "text": "Contour method", "is_correct": false }
+      ],
+      "answer": "Choropleth method"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are distributional maps?",
+      "answer": "Distributional maps are thematic maps that show how a geographical variable is distributed over a region."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the three methods of showing distribution.",
+      "answer": "Dot method, choropleth method, and isopleth method."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is dot value?",
+      "answer": "Dot value is the numerical value represented by one dot on a dot map."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why should dots be of uniform size?",
+      "answer": "Uniform dot size avoids confusion and ensures correct interpretation."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What type of data is used in dot method?",
+      "answer": "Counting data is used in dot method."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is a choropleth map?",
+      "answer": "A choropleth map shows data using colour shades or patterns."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why are classes formed in choropleth maps?",
+      "answer": "Classes help group data values and represent them clearly."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What do darker shades show in choropleth maps?",
+      "answer": "Darker shades represent higher values."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are isopleths?",
+      "answer": "Isopleths are lines joining places of equal value."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does close spacing of isopleths indicate?",
+      "answer": "Close spacing indicates steep change in the variable."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which data is used in isopleth maps?",
+      "answer": "Point-related data is used in isopleth maps."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are administrative boundaries ignored in isopleth maps?",
+      "answer": "To show continuous natural distribution."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which method is best for rainfall distribution?",
+      "answer": "Isopleth method."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which method is best for population distribution?",
+      "answer": "Dot method."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What helps comparison in choropleth maps?",
+      "answer": "Use of colour shades helps comparison."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does wide spacing of isopleths show?",
+      "answer": "Wide spacing shows gentle change."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is point-related data?",
+      "answer": "Data collected at specific locations is called point-related data."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why are legends important in maps?",
+      "answer": "Legends explain symbols, colours, and values used in maps."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a thematic map?",
+      "answer": "A map showing a single theme or variable is called a thematic map."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is scale important in maps?",
+      "answer": "Scale ensures accurate representation of distance."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does dot concentration show?",
+      "answer": "Dot concentration shows density of a variable."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which method uses classification of values?",
+      "answer": "Choropleth method uses classification of values."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which map shows natural trends clearly?",
+      "answer": "Isopleth maps show natural trends clearly."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why is accurate data important?",
+      "answer": "Accurate data avoids misleading maps."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What affects dot placement?",
+      "answer": "Physiography, water sources, and transport routes affect dot placement."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which map shows averages?",
+      "answer": "Choropleth maps show average values."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which map shows continuity?",
+      "answer": "Isopleth maps show continuity."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why are maps useful in geography?",
+      "answer": "Maps visually explain spatial distribution."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the use of dot maps?",
+      "answer": "Dot maps show distribution and density clearly."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which method ignores administrative units?",
+      "answer": "Isopleth method ignores administrative units."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the purpose of choropleth maps?",
+      "answer": "To compare regions using shaded values."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why are maps important for planning?",
+      "answer": "Maps help identify patterns and plan resources."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What does a legend contain?",
+      "answer": "Symbols, colours, and their meanings."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which map is best for comparison?",
+      "answer": "Choropleth map."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What does a dot represent?",
+      "answer": "A fixed numerical value."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why are distributional maps important?",
+      "answer": "They show spatial distribution of variables."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which map uses equal-value lines?",
+      "answer": "Isopleth map."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What type of distribution does rainfall show?",
+      "answer": "Continuous distribution."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Which method is unsuitable for continuous data?",
+      "answer": "Dot method."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why should dot value be decided carefully?",
+      "answer": "To avoid overcrowding or misleading maps."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What helps in map interpretation?",
+      "answer": "Legend and scale help interpretation."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is choropleth method suitable for population density?",
+      "answer": "It shows average density clearly."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is a sub-administrative unit?",
+      "answer": "A smaller administrative area like a taluka."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why are isopleths drawn at regular intervals?",
+      "answer": "To show uniform change in values."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which map helps identify sparse areas?",
+      "answer": "Dot map helps identify sparse areas."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does dark shading indicate?",
+      "answer": "High value of a variable."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Which method shows exact counts?",
+      "answer": "Dot method shows exact counts."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why are maps called visual tools?",
+      "answer": "They present data in visual form."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which map is used for temperature distribution?",
+      "answer": "Isopleth map."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the role of maps in geography?",
+      "answer": "Maps help understand spatial patterns and relationships."
+    },
+    {
+        "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is meant by continuous distribution?",
+      "answer": "Continuous distribution means the value of a variable changes gradually over space without sudden breaks."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is population considered a freely scattered variable?",
+      "answer": "Population is spread unevenly across regions depending on physical and human factors."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is the use of colour tints in maps?",
+      "answer": "Colour tints help represent different value ranges of a variable clearly."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why are 5–7 classes preferred in choropleth maps?",
+      "answer": "They provide clear differentiation without making the map confusing."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What does gentle change in isopleth maps indicate?",
+      "answer": "It indicates slow and gradual variation of the variable."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which method is suitable for livestock distribution?",
+      "answer": "Dot method is suitable for livestock distribution."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why is rainfall data considered continuous?",
+      "answer": "Rainfall changes gradually over space and is not restricted to boundaries."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is the role of transport routes in dot maps?",
+      "answer": "Transport routes influence settlement and hence dot placement."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What does sparse dot distribution show?",
+      "answer": "It shows low density of the variable."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which map is useful for showing literacy rate?",
+      "answer": "Choropleth map is useful for showing literacy rate."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why are values written on isopleth maps before drawing lines?",
+      "answer": "To accurately join places having equal values."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is meant by map interpretation?",
+      "answer": "Map interpretation is understanding information shown on a map."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why should dot maps avoid overlapping dots?",
+      "answer": "Overlapping dots make the map unclear and misleading."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which method shows distribution using patterns?",
+      "answer": "Choropleth method can use black-and-white patterns."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why are administrative units important in choropleth maps?",
+      "answer": "They form the basic areas for comparison of values."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What kind of data is census data?",
+      "answer": "Census data is counting data."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Which method best shows altitude variation?",
+      "answer": "Isopleth method best shows altitude variation."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is the main limitation of choropleth maps?",
+      "answer": "They show average values and hide internal variation."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why are dots not placed randomly?",
+      "answer": "Random placement does not reflect actual distribution."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Which method is useful for exam comparison questions?",
+      "answer": "Choropleth method is useful for comparison questions."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why are field visits important in geography?",
+      "answer": "They help students understand concepts through direct observation."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What should be studied before a field visit?",
+      "answer": "Location map and route map should be studied."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why should a questionnaire be prepared for field visits?",
+      "answer": "To collect information in a systematic manner."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is meant by report writing?",
+      "answer": "Report writing is recording observations made during a field visit."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why should students not harm the environment during field visits?",
+      "answer": "To maintain environmental balance and safety."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What does dark shading represent in population maps?",
+      "answer": "Dark shading represents high population density."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Which method shows exact number of people?",
+      "answer": "Dot method shows exact number of people."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why are maps useful for administrators?",
+      "answer": "They help in planning and decision-making."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is the use of black-and-white maps?",
+      "answer": "They are useful when colour printing is not possible."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Which method is best for showing temperature distribution?",
+      "answer": "Isopleth method is best for temperature distribution."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What does uniform dot size ensure?",
+      "answer": "It ensures clarity and accurate interpretation."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why is dot value important?",
+      "answer": "It decides how many dots represent the data."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Which method is unsuitable for continuous data?",
+      "answer": "Dot method is unsuitable for continuous data."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What does population density mean?",
+      "answer": "Population density means number of people per unit area."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why are legends essential?",
+      "answer": "They explain symbols and colours used in maps."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is meant by sub-administrative unit?",
+      "answer": "A smaller administrative area such as a taluka."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why are dots placed carefully in hilly areas?",
+      "answer": "Hilly terrain affects settlement patterns."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Which method highlights regional inequality?",
+      "answer": "Choropleth method highlights regional inequality."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What does gradual colour change indicate?",
+      "answer": "Gradual change indicates gradual variation in values."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is accuracy important in maps?",
+      "answer": "Accuracy ensures reliable interpretation and decisions."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Which method helps in identifying dense urban areas?",
+      "answer": "Dot method helps in identifying dense urban areas."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why are isopleth maps useful in climate studies?",
+      "answer": "They show continuous climate patterns clearly."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What does an overcrowded dot map indicate?",
+      "answer": "It indicates improper dot value selection."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Which method is best for examination answers?",
+      "answer": "Choropleth method is often best for exam answers."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why are dots not drawn over water bodies?",
+      "answer": "Water bodies usually have no settlements."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What does light shading show?",
+      "answer": "Light shading shows low values."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Which method is useful for district-wise data?",
+      "answer": "Choropleth method is useful for district-wise data."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is comparison easier in maps?",
+      "answer": "Visual representation makes comparison easier."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is meant by natural trend?",
+      "answer": "Natural trend is the natural pattern of distribution."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why are maps called visual tools?",
+      "answer": "They present data in visual form."
+    },
+
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the dot method of showing distribution.",
+      "answer": "The dot method is used to show the distribution of variables that are freely scattered over a region, such as population. It uses counting data collected through census or surveys. Each dot represents a fixed numerical value called dot value. The size of the dots must be uniform to avoid confusion. Dots are placed considering physiography, transport routes, and water sources. This method clearly shows dense and sparse regions."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "State the precautions to be taken while using the dot method.",
+      "answer": "While using the dot method, dot size should be uniform. Dot value should be decided carefully based on data range. Dots should not overlap excessively. Physiography and settlement patterns should be considered. Urban population should be shown by circles and rural by dots. These precautions ensure accuracy."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain the choropleth method of showing distribution.",
+      "answer": "The choropleth method shows distribution using colour shades or patterns. One value is assigned to each administrative unit. Data is divided into suitable classes. Darker shades represent higher values. Lighter shades show lower values. This method is useful for comparison."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Describe the steps involved in preparing a choropleth map.",
+      "answer": "First, collect accurate statistical data. Identify minimum and maximum values. Divide data into 5–7 classes. Assign appropriate shades to each class. Shade the map accordingly. Prepare a clear legend."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain the isopleth method of showing distribution.",
+      "answer": "The isopleth method is used to show continuous distribution such as rainfall or temperature. It uses lines called isopleths joining places of equal value. Administrative boundaries are ignored. Data is point-related. Closely spaced lines show steep change. This method reveals natural trends."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Why is isopleth method suitable for rainfall distribution?",
+      "answer": "Rainfall varies continuously over space. Isopleth method shows gradual changes accurately. It ignores artificial boundaries. Natural rainfall patterns become visible. Hence, it is suitable for rainfall."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Differentiate between dot method and choropleth method.",
+      "answer": "Dot method uses dots and counting data. Choropleth method uses colour shades and calculated data. Dot maps show exact distribution. Choropleth maps show average values. Both have different uses."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Differentiate between choropleth and isopleth methods.",
+      "answer": "Choropleth method uses administrative units and colour shades. Isopleth method uses equal-value lines and ignores boundaries. Choropleth shows discrete data. Isopleth shows continuous data. Both help interpretation."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain the importance of distributional maps in geography.",
+      "answer": "Distributional maps help understand spatial patterns. They simplify complex data. They support planning and decision-making. They show regional differences. Hence, they are important in geography."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Explain the role of legends and scale in maps.",
+      "answer": "Legends explain symbols and colours. Scale shows distance and size. Together they ensure correct interpretation. They prevent misunderstanding. They are essential map elements."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain how dot maps help identify dense and sparse areas.",
+      "answer": "Dense areas have more dots clustered together. Sparse areas have fewer dots. Visual comparison is easy. Settlement patterns become clear. Thus, dot maps help identification."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain how choropleth maps help in regional comparison.",
+      "answer": "Different shades show different values. Regions can be compared visually. Dark and light areas stand out clearly. It simplifies analysis. Hence, comparison is easy."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Explain how isopleth maps show natural trends.",
+      "answer": "Isopleth maps show continuous variation. They ignore boundaries. Gradual changes are visible. Natural patterns are highlighted. Thus, natural trends are shown."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain the importance of field visits in geography.",
+      "answer": "Field visits provide direct experience. They connect theory with reality. Observation skills improve. Understanding becomes deeper. Learning becomes practical."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Describe preparations required before a field visit.",
+      "answer": "Place and purpose should be decided. Location and route maps must be studied. Transport and time should be planned. A questionnaire should be prepared. Guidance from teachers is important."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain precautions to be taken during a field visit.",
+      "answer": "Students should follow instructions. Safety must be ensured. Remote places should be avoided. Environment should not be harmed. First-aid should be carried."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain the importance of report writing after a field visit.",
+      "answer": "Report writing records observations. It organizes collected data. It improves analytical skills. It helps evaluation. Learning is reinforced."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain how distributional maps help planners.",
+      "answer": "They show problem areas. Resource distribution is understood. Planning becomes scientific. Development gaps are identified. Decisions improve."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain how population distribution reflects human-environment interaction.",
+      "answer": "People settle in favourable environments. Climate and resources influence settlement. Harsh areas are sparsely populated. Maps show this interaction clearly."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Explain how isopleth maps help in climate studies.",
+      "answer": "They show temperature and rainfall patterns. Climate zones are identified. Trends are analysed. Predictions become easier. Hence, they help climate studies."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain why accuracy is important in map preparation.",
+      "answer": "Accurate maps provide correct information. Errors mislead users. Planning decisions may fail. Reliability depends on accuracy. Hence, accuracy is vital."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain the role of transport routes in population distribution.",
+      "answer": "Transport routes attract settlements. Accessibility improves development. Population concentrates near routes. Dot maps reflect this pattern."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Explain how choropleth maps show population density.",
+      "answer": "Population density values are classified. Each class is shaded differently. Dark shades show high density. Light shades show low density. Comparison is easy."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain how distributional maps are useful in examinations.",
+      "answer": "They help understand concepts quickly. They support diagram-based answers. Interpretation skills improve. Answers become more accurate."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Explain how dot maps are prepared.",
+      "answer": "Statistical data is collected. Dot value is decided. Uniform dots are selected. Dots are placed carefully considering terrain. A legend is prepared."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain the importance of class intervals in choropleth maps.",
+      "answer": "Class intervals group values logically. They avoid confusion. Shades represent ranges clearly. Interpretation becomes simple."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Explain why isopleth maps ignore administrative boundaries.",
+      "answer": "Administrative boundaries are artificial. Isopleths show natural variation. Ignoring boundaries ensures continuity. Natural patterns are visible."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Explain how distributional maps help in disaster management.",
+      "answer": "They identify risk-prone areas. Population exposure is known. Planning of relief becomes easier. Losses can be reduced."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain how maps help in environmental studies.",
+      "answer": "Maps show rainfall, temperature, and population. Environmental issues are identified. Planning becomes scientific. Analysis improves."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Explain the role of physiography in population distribution.",
+      "answer": "Plains support dense population. Mountains have sparse population. Physiography affects settlement. Dot maps show this effect."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain how students benefit from preparing maps.",
+      "answer": "Map preparation improves skills. Concepts become clear. Learning becomes active. Interest increases."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain why maps are called visual tools.",
+      "answer": "They present data visually. Patterns are easily understood. Comparison becomes simple. Learning improves."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Explain how choropleth maps help administrators.",
+      "answer": "They show regional variation. Resource planning improves. Development gaps are visible. Policy decisions improve."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Explain how dot maps show exact distribution.",
+      "answer": "Each dot represents a fixed value. Exact numbers are shown. Density is visible. Distribution becomes clear."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain how isopleth maps differ from dot maps.",
+      "answer": "Isopleth maps show continuous data. Dot maps show discrete data. Isopleths use lines. Dot maps use dots."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain the importance of scale in distributional maps.",
+      "answer": "Scale ensures correct size and distance. It affects dot placement. Accurate scale avoids distortion. Interpretation improves."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain why uniform dot size is necessary.",
+      "answer": "Uniform dots avoid confusion. Comparison becomes fair. Map looks clear. Accuracy is maintained."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Explain how distributional maps show regional inequality.",
+      "answer": "High and low value regions are visible. Development gaps appear. Planning becomes focused. Inequality is understood."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain how rainfall maps help farmers.",
+      "answer": "They show rainfall patterns. Crop planning improves. Risk is reduced. Irrigation decisions improve."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Explain why choropleth maps show averages.",
+      "answer": "One value is assigned per unit. It represents average condition. Internal variation is hidden. Comparison becomes easy."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain how isopleth maps are drawn.",
+      "answer": "Values are written at locations. Class interval is decided. Equal values are joined by lines. Map is finalized."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain how maps support planning and development.",
+      "answer": "They show needs and resources. Planning becomes data-based. Development is balanced. Decisions improve."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Explain why maps are important study tools.",
+      "answer": "They simplify information. Visual learning improves. Understanding deepens. Memory retention increases."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain how dot maps help in census studies.",
+      "answer": "They represent census data visually. Population spread is shown. Density is understood. Analysis becomes easy."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Explain how isopleth maps show temperature distribution.",
+      "answer": "Equal temperature values are joined. Gradual changes appear. Climate zones are visible. Analysis improves."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain how distributional maps help in understanding India’s diversity.",
+      "answer": "They show varied population and climate. Regional differences appear. Diversity is understood visually."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Explain the importance of clear legends in exams.",
+      "answer": "They help examiners understand diagrams. Marks are awarded correctly. Answers look complete."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Explain why dot value should not be too small.",
+      "answer": "Too small dot value overcrowds the map. Interpretation becomes difficult. Accuracy is reduced."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Explain how distributional maps make geography interesting.",
+      "answer": "They use visuals. Learning becomes interactive. Concepts are easier. Interest increases."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Explain why distributional maps are essential tools in geography.",
+      "answer": "They show spatial patterns. They support analysis. They help planning. Geography becomes meaningful."
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Political Science.4",
+    "standard": "9",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "The United Nations (UN)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What was the primary catalyst for establishing the United Nations?",
+      "options": [
+        { "option_id": 1, "text": "The desire to promote global trade", "is_correct": false },
+        { "option_id": 2, "text": "The success of the League of Nations", "is_correct": false },
+        { "option_id": 3, "text": "The devastation caused by the two World Wars", "is_correct": true },
+        { "option_id": 4, "text": "A need to standardize international education", "is_correct": false }
+      ],
+      "answer": "The devastation caused by the two World Wars"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which treaty, signed during WWII, initiated plans for a permanent international security mechanism?",
+      "options": [
+        { "option_id": 1, "text": "The Treaty of Versailles", "is_correct": false },
+        { "option_id": 2, "text": "The Atlantic Treaty", "is_correct": true },
+        { "option_id": 3, "text": "The San Francisco Charter", "is_correct": false },
+        { "option_id": 4, "text": "The NATO Agreement", "is_correct": false }
+      ],
+      "answer": "The Atlantic Treaty"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How many countries initially drafted the UN Charter?",
+      "options": [
+        { "option_id": 1, "text": "51", "is_correct": false },
+        { "option_id": 2, "text": "50", "is_correct": true },
+        { "option_id": 3, "text": "193", "is_correct": false },
+        { "option_id": 4, "text": "15", "is_correct": false }
+      ],
+      "answer": "50"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When was the UN Charter signed, officially establishing the organization?",
+      "options": [
+        { "option_id": 1, "text": "14 August 1941", "is_correct": false },
+        { "option_id": 2, "text": "26 June 1945", "is_correct": false },
+        { "option_id": 3, "text": "24 October 1945", "is_correct": true },
+        { "option_id": 4, "text": "1 January 1942", "is_correct": false }
+      ],
+      "answer": "24 October 1945"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which day is celebrated as United Nations Day?",
+      "options": [
+        { "option_id": 1, "text": "14 August", "is_correct": false },
+        { "option_id": 2, "text": "26 June", "is_correct": false },
+        { "option_id": 3, "text": "1 January", "is_correct": false },
+        { "option_id": 4, "text": "24 October", "is_correct": true }
+      ],
+      "answer": "24 October"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "As of the chapter's writing, how many member states does the UN have?",
+      "options": [
+        { "option_id": 1, "text": "50", "is_correct": false },
+        { "option_id": 2, "text": "192", "is_correct": false },
+        { "option_id": 3, "text": "193", "is_correct": true },
+        { "option_id": 4, "text": "195", "is_correct": false }
+      ],
+      "answer": "193"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a primary objective of the United Nations?",
+      "options": [
+        { "option_id": 1, "text": "To establish friendly relations among nations.", "is_correct": false },
+        { "option_id": 2, "text": "To enhance international security by solving disputes.", "is_correct": false },
+        { "option_id": 3, "text": "To create a single global government.", "is_correct": true },
+        { "option_id": 4, "text": "To safeguard and foster human rights and freedom.", "is_correct": false }
+      ],
+      "answer": "To create a single global government."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is a core principle governing member states in the UN?",
+      "options": [
+        { "option_id": 1, "text": "Larger nations have more voting power.", "is_correct": false },
+        { "option_id": 2, "text": "All member nations should solve disputes by peaceful means.", "is_correct": true },
+        { "option_id": 3, "text": "Economic power determines council membership.", "is_correct": false },
+        { "option_id": 4, "text": "Military alliances are encouraged.", "is_correct": false }
+      ],
+      "answer": "All member nations should solve disputes by peaceful means."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT one of the six main organs of the UN?",
+      "options": [
+        { "option_id": 1, "text": "International Criminal Court", "is_correct": true },
+        { "option_id": 2, "text": "Economic and Social Council", "is_correct": false },
+        { "option_id": 3, "text": "Trusteeship Council", "is_correct": false },
+        { "option_id": 4, "text": "Secretariat", "is_correct": false }
+      ],
+      "answer": "International Criminal Court"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which UN specialized agency focuses on improving labor conditions globally?",
+      "options": [
+        { "option_id": 1, "text": "FAO", "is_correct": false },
+        { "option_id": 2, "text": "ILO", "is_correct": true },
+        { "option_id": 3, "text": "WHO", "is_correct": false },
+        { "option_id": 4, "text": "UNESCO", "is_correct": false }
+      ],
+      "answer": "ILO"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where are the headquarters of the United Nations located?",
+      "options": [
+        { "option_id": 1, "text": "Geneva, Switzerland", "is_correct": false },
+        { "option_id": 2, "text": "The Hague, Netherlands", "is_correct": false },
+        { "option_id": 3, "text": "New York, USA", "is_correct": true },
+        { "option_id": 4, "text": "Paris, France", "is_correct": false }
+      ],
+      "answer": "New York, USA"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How many official languages does the UN have?",
+      "options": [
+        { "option_id": 1, "text": "5", "is_correct": false },
+        { "option_id": 2, "text": "6", "is_correct": true },
+        { "option_id": 3, "text": "4", "is_correct": false },
+        { "option_id": 4, "text": "10", "is_correct": false }
+      ],
+      "answer": "6"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the total number of members in the UN Security Council?",
+      "options": [
+        { "option_id": 1, "text": "5", "is_correct": false },
+        { "option_id": 2, "text": "10", "is_correct": false },
+        { "option_id": 3, "text": "15", "is_correct": true },
+        { "option_id": 4, "text": "193", "is_correct": false }
+      ],
+      "answer": "15"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which country is NOT a permanent member of the UN Security Council?",
+      "options": [
+        { "option_id": 1, "text": "France", "is_correct": false },
+        { "option_id": 2, "text": "Germany", "is_correct": true },
+        { "option_id": 3, "text": "China", "is_correct": false },
+        { "option_id": 4, "text": "Russia", "is_correct": false }
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What special power do the five permanent members of the Security Council possess?",
+      "options": [
+        { "option_id": 1, "text": "They can appoint the Secretary-General unilaterally.", "is_correct": false },
+        { "option_id": 2, "text": "They have the power to veto substantive resolutions.", "is_correct": true },
+        { "option_id": 3, "text": "They can declare war on behalf of the UN.", "is_correct": false },
+        { "option_id": 4, "text": "They control the UN budget.", "is_correct": false }
+      ],
+      "answer": "They have the power to veto substantive resolutions."
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How are non-permanent members of the Security Council selected?",
+      "options": [
+        { "option_id": 1, "text": "Appointed by the Secretary-General", "is_correct": false },
+        { "option_id": 2, "text": "Chosen by the General Assembly", "is_correct": true },
+        { "option_id": 3, "text": "Rotated among the permanent members", "is_correct": false },
+        { "option_id": 4, "text": "Elected by regional military alliances", "is_correct": false }
+      ],
+      "answer": "Chosen by the General Assembly"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the main responsibility of the UN Security Council?",
+      "options": [
+        { "option_id": 1, "text": "To pass the annual UN budget", "is_correct": false },
+        { "option_id": 2, "text": "To coordinate global economic policies", "is_correct": false },
+        { "option_id": 3, "text": "To maintain international peace and security", "is_correct": true },
+        { "option_id": 4, "text": "To adjudicate disputes between countries", "is_correct": false }
+      ],
+      "answer": "To maintain international peace and security"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which organ of the UN has the power to impose economic sanctions or authorize military action?",
+      "options": [
+        { "option_id": 1, "text": "General Assembly", "is_correct": false },
+        { "option_id": 2, "text": "Security Council", "is_correct": true },
+        { "option_id": 3, "text": "International Court of Justice", "is_correct": false },
+        { "option_id": 4, "text": "Secretariat", "is_correct": false }
+      ],
+      "answer": "Security Council"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How many members are there in the Economic and Social Council (ECOSOC)?",
+      "options": [
+        { "option_id": 1, "text": "15", "is_correct": false },
+        { "option_id": 2, "text": "54", "is_correct": true },
+        { "option_id": 3, "text": "193", "is_correct": false },
+        { "option_id": 4, "text": "5", "is_correct": false }
+      ],
+      "answer": "54"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the primary objective of the Economic and Social Council (ECOSOC)?",
+      "options": [
+        { "option_id": 1, "text": "To command UN peacekeeping forces", "is_correct": false },
+        { "option_id": 2, "text": "To coordinate the economic and social policies of the UN", "is_correct": true },
+        { "option_id": 3, "text": "To issue binding legal judgments", "is_correct": false },
+        { "option_id": 4, "text": "To administer trust territories", "is_correct": false }
+      ],
+      "answer": "To coordinate the economic and social policies of the UN"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is the administrative head of the United Nations Secretariat?",
+      "options": [
+        { "option_id": 1, "text": "President of the General Assembly", "is_correct": false },
+        { "option_id": 2, "text": "Chief Justice of the ICJ", "is_correct": false },
+        { "option_id": 3, "text": "The UN Secretary-General", "is_correct": true },
+        { "option_id": 4, "text": "The Security Council President", "is_correct": false }
+      ],
+      "answer": "The UN Secretary-General"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who selects the UN Secretary-General?",
+      "options": [
+        { "option_id": 1, "text": "The General Assembly alone", "is_correct": false },
+        { "option_id": 2, "text": "The Security Council alone", "is_correct": false },
+        { "option_id": 3, "text": "A joint decision by the General Assembly and Security Council", "is_correct": true },
+        { "option_id": 4, "text": "The Economic and Social Council", "is_correct": false }
+      ],
+      "answer": "A joint decision by the General Assembly and Security Council"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Where is the International Court of Justice (ICJ) located?",
+      "options": [
+        { "option_id": 1, "text": "New York, USA", "is_correct": false },
+        { "option_id": 2, "text": "Geneva, Switzerland", "is_correct": false },
+        { "option_id": 3, "text": "The Hague, Netherlands", "is_correct": true },
+        { "option_id": 4, "text": "Paris, France", "is_correct": false }
+      ],
+      "answer": "The Hague, Netherlands"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the tenure of a judge at the International Court of Justice (ICJ)?",
+      "options": [
+        { "option_id": 1, "text": "5 years", "is_correct": false },
+        { "option_id": 2, "text": "9 years", "is_correct": true },
+        { "option_id": 3, "text": "Life tenure", "is_correct": false },
+        { "option_id": 4, "text": "3 years", "is_correct": false }
+      ],
+      "answer": "9 years"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of the following is a function of the International Court of Justice?",
+      "options": [
+        { "option_id": 1, "text": "To pass the UN budget", "is_correct": false },
+        { "option_id": 2, "text": "To send peacekeeping forces", "is_correct": false },
+        { "option_id": 3, "text": "To settle disputes between member nations", "is_correct": true },
+        { "option_id": 4, "text": "To impose economic sanctions", "is_correct": false }
+      ],
+      "answer": "To settle disputes between member nations"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the jurisdiction of the International Criminal Court (ICC)?",
+      "options": [
+        { "option_id": 1, "text": "Disputes between countries over borders.", "is_correct": false },
+        { "option_id": 2, "text": "Prosecuting individuals for genocide, crimes against humanity, and war crimes.", "is_correct": true },
+        { "option_id": 3, "text": "Economic sanctions against aggressor states.", "is_correct": false },
+        { "option_id": 4, "text": "Administering UN trust territories.", "is_correct": false }
+      ],
+      "answer": "Prosecuting individuals for genocide, crimes against humanity, and war crimes."
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "When did the work of the UN Trusteeship Council effectively end?",
+      "options": [
+        { "option_id": 1, "text": "1945", "is_correct": false },
+        { "option_id": 2, "text": "1990", "is_correct": false },
+        { "option_id": 3, "text": "1994", "is_correct": true },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1994"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which country's independence marked the end of the Trusteeship Council's main work?",
+      "options": [
+        { "option_id": 1, "text": "Namibia", "is_correct": false },
+        { "option_id": 2, "text": "Palau", "is_correct": true },
+        { "option_id": 3, "text": "Cambodia", "is_correct": false },
+        { "option_id": 4, "text": "Somalia", "is_correct": false }
+      ],
+      "answer": "Palau"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "In which year were the UN Millennium Development Goals (MDGs) adopted?",
+      "options": [
+        { "option_id": 1, "text": "1995", "is_correct": false },
+        { "option_id": 2, "text": "2000", "is_correct": true },
+        { "option_id": 3, "text": "2005", "is_correct": false },
+        { "option_id": 4, "text": "2010", "is_correct": false }
+      ],
+      "answer": "2000"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following is a Millennium Development Goal?",
+      "options": [
+        { "option_id": 1, "text": "Establishing a world army", "is_correct": false },
+        { "option_id": 2, "text": "Eliminating poverty and hunger", "is_correct": true },
+        { "option_id": 3, "text": "Creating a single global currency", "is_correct": false },
+        { "option_id": 4, "text": "Abolishing national borders", "is_correct": false }
+      ],
+      "answer": "Eliminating poverty and hunger"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which UN agency is mentioned as helping India with workshops to overcome child malnutrition?",
+      "options": [
+        { "option_id": 1, "text": "WHO", "is_correct": false },
+        { "option_id": 2, "text": "UNESCO", "is_correct": false },
+        { "option_id": 3, "text": "UNICEF", "is_correct": true },
+        { "option_id": 4, "text": "IMF", "is_correct": false }
+      ],
+      "answer": "UNICEF"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the primary purpose of United Nations Peacekeeping operations?",
+      "options": [
+        { "option_id": 1, "text": "To wage war on aggressor states", "is_correct": false },
+        { "option_id": 2, "text": "To create circumstances favourable for permanent peace in conflict areas", "is_correct": true },
+        { "option_id": 3, "text": "To govern territories directly", "is_correct": false },
+        { "option_id": 4, "text": "To enforce international trade laws", "is_correct": false }
+      ],
+      "answer": "To create circumstances favourable for permanent peace in conflict areas"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of the following is listed as a supplementary action to UN peacekeeping?",
+      "options": [
+        { "option_id": 1, "text": "Issuing currency", "is_correct": false },
+        { "option_id": 2, "text": "Prevention of conflict and mediation", "is_correct": true },
+        { "option_id": 3, "text": "Building military bases", "is_correct": false },
+        { "option_id": 4, "text": "Setting global interest rates", "is_correct": false }
+      ],
+      "answer": "Prevention of conflict and mediation"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What notable contribution did India make to UN Peacekeeping, as mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "It provides the largest financial contribution.", "is_correct": false },
+        { "option_id": 2, "text": "It hosts the UN headquarters.", "is_correct": false },
+        { "option_id": 3, "text": "It has sent an all-woman peacekeeping force.", "is_correct": true },
+        { "option_id": 4, "text": "It commands all peacekeeping operations.", "is_correct": false }
+      ],
+      "answer": "It has sent an all-woman peacekeeping force."
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What issue did India first raise at the UN in 1946?",
+      "options": [
+        { "option_id": 1, "text": "Disarmament", "is_correct": false },
+        { "option_id": 2, "text": "The question of racism", "is_correct": true },
+        { "option_id": 3, "text": "Decolonisation", "is_correct": false },
+        { "option_id": 4, "text": "Climate change", "is_correct": false }
+      ],
+      "answer": "The question of racism"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "According to the chapter, what is India actively seeking in the UN Security Council?",
+      "options": [
+        { "option_id": 1, "text": "To abolish the veto power", "is_correct": false },
+        { "option_id": 2, "text": "To host the Security Council meetings", "is_correct": false },
+        { "option_id": 3, "text": "Permanent membership", "is_correct": true },
+        { "option_id": 4, "text": "To reduce the number of permanent members", "is_correct": false }
+      ],
+      "answer": "Permanent membership"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the term of office for the UN Secretary-General?",
+      "options": [
+        { "option_id": 1, "text": "3 years", "is_correct": false },
+        { "option_id": 2, "text": "5 years", "is_correct": true },
+        { "option_id": 3, "text": "7 years", "is_correct": false },
+        { "option_id": 4, "text": "Life tenure", "is_correct": false }
+      ],
+      "answer": "5 years"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which UN organ is described as the 'judicial branch' of the organization?",
+      "options": [
+        { "option_id": 1, "text": "The Secretariat", "is_correct": false },
+        { "option_id": 2, "text": "The Security Council", "is_correct": false },
+        { "option_id": 3, "text": "The International Court of Justice", "is_correct": true },
+        { "option_id": 4, "text": "The Trusteeship Council", "is_correct": false }
+      ],
+      "answer": "The International Court of Justice"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What does UNESCO primarily promote?",
+      "options": [
+        { "option_id": 1, "text": "Global financial stability", "is_correct": false },
+        { "option_id": 2, "text": "Peace and security through education, science, and culture", "is_correct": true },
+        { "option_id": 3, "text": "Children's healthcare", "is_correct": false },
+        { "option_id": 4, "text": "Labour rights", "is_correct": false }
+      ],
+      "answer": "Peace and security through education, science, and culture"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "In the General Assembly, decisions are taken in the form of:",
+      "options": [
+        { "option_id": 1, "text": "Laws", "is_correct": false },
+        { "option_id": 2, "text": "Resolutions", "is_correct": true },
+        { "option_id": 3, "text": "Vetoes", "is_correct": false },
+        { "option_id": 4, "text": "Treaties", "is_correct": false }
+      ],
+      "answer": "Resolutions"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Why did the League of Nations fail?",
+      "options": [],
+      "answer": "The chapter implies it did not succeed in preventing conflict, leading to the need for the UN after WWII. (Exact reason not detailed, but context given)."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the two leaders who signed the Atlantic Treaty in 1941.",
+      "options": [],
+      "answer": "British Prime Minister Winston Churchill and American President Franklin D. Roosevelt."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "In which city was the UN Charter drafted?",
+      "options": [],
+      "answer": "San Francisco, America."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "List the five permanent members of the UN Security Council.",
+      "options": [],
+      "answer": "America, Russia, England, France, and China."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What does the 'veto power' in the Security Council mean?",
+      "options": [],
+      "answer": "The power of a permanent member to reject a substantive resolution by voting 'no'."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How many non-permanent members are there in the Security Council?",
+      "options": [],
+      "answer": "Ten."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the tenure of a non-permanent member in the Security Council?",
+      "options": [],
+      "answer": "Two years."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What are the two main functions of the UN General Assembly mentioned?",
+      "options": [],
+      "answer": "To discuss global issues and pass resolutions; To elect non-permanent Security Council members and approve the budget."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "How are members of the Economic and Social Council (ECOSOC) chosen?",
+      "options": [],
+      "answer": "They are selected by the General Assembly."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the tenure of an ECOSOC member?",
+      "options": [],
+      "answer": "Three years."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the main function of the UN Secretariat?",
+      "options": [],
+      "answer": "To carry out the administrative tasks of the United Nations."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How many judges serve on the International Court of Justice (ICJ)?",
+      "options": [],
+      "answer": "Fifteen."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one function of the International Court of Justice.",
+      "options": [],
+      "answer": "To settle disputes between member nations of the UN."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Where is the International Criminal Court (ICC) headquartered?",
+      "options": [],
+      "answer": "The Hague, Netherlands."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was the main responsibility of the Trusteeship Council?",
+      "options": [],
+      "answer": "To oversee the administration and development of trust territories until they attained independence."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name one of the Millennium Development Goals related to health.",
+      "options": [],
+      "answer": "To fight diseases like AIDS and malaria. OR To reduce infant mortality rate."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the acronym UNICEF stand for?",
+      "options": [],
+      "answer": "United Nations Children's Fund."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does the acronym UNESCO stand for?",
+      "options": [],
+      "answer": "United Nations Educational, Scientific and Cultural Organisation."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "List one example of how the UN helps restore normalcy in conflict zones.",
+      "options": [],
+      "answer": "By starting schools or conducting elections."
+    },
+    {
+      "question_type": "SHORT",
+      "question_id": 60,
+      "question": "What is 'peace-building' in the context of UN activities?",
+      "options": [],
+      "answer": "Activities that support long-term peace and stability in post-conflict areas, going beyond just stopping fighting."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "In which year did India first raise the issue of racism at the UN?",
+      "options": [],
+      "answer": "1946."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What major global issues has India brought to the UN platform according to the chapter?",
+      "options": [],
+      "answer": "Decolonisation, disarmament, and racial segregation."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Do all member countries have equal status in the UN General Assembly?",
+      "options": [],
+      "answer": "Yes, all member nations have the same status regardless of size or power."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is required for a decision to pass in the Security Council, regarding votes?",
+      "options": [],
+      "answer": "The assent of all five permanent members and at least four non-permanent members (9 out of 15), with no permanent member using its veto."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Name two specialised agencies of the UN mentioned in the chapter.",
+      "options": [],
+      "answer": "Any two: ILO, FAO, WHO, World Bank, IMF, UNICEF, UNESCO."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are the months during which the UN General Assembly typically holds its annual session?",
+      "options": [],
+      "answer": "September to December."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the role of the UN Secretary-General in relation to international conferences?",
+      "options": [],
+      "answer": "To call international conferences on global problems."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Is the Trusteeship Council still active in its original role? Why or why not?",
+      "options": [],
+      "answer": "No, its main work is over as there are no trust territories left to administer."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does the chapter say about the progress of Millennium Development Goals in India?",
+      "options": [],
+      "answer": "India has made considerable progress with the help of UNICEF and UNESCO."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What modern threats are mentioned as challenging human security and the UN's peace role?",
+      "options": [],
+      "answer": "Terrorism, racist conflict, and religious conflict."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the historical context and the sequence of events that led to the establishment of the United Nations in 1945.",
+      "options": [],
+      "answer": "The UN was established after the devastation of the two World Wars. The process began with the Atlantic Treaty signed by Churchill and Roosevelt in 1941, which proposed a post-war security mechanism. This was followed by detailed discussions among allied powers in conferences in 1944 and 1945. Finally, representatives of 50 countries drafted the UN Charter in San Francisco, which was signed on 24 October 1945, officially creating the UN as an organization of sovereign nations aimed at preventing future wars."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the main objectives of the United Nations as outlined in the chapter.",
+      "options": [],
+      "answer": "The main objectives of the UN are: 1) To establish friendly relations among nations. 2) To enhance international security by solving international disputes peacefully. 3) To safeguard and foster human rights and fundamental freedoms. Additionally, it aims to enhance economic cooperation at the international level."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Discuss the key principles that form the foundation of the United Nations, as stated in its Charter.",
+      "options": [],
+      "answer": "The UN is based on three key principles: 1) All member nations have equal status, with no discrimination based on size, economy, or military power. 2) All members must respect the freedom and geographical unity of other member nations. 3) All members should solve their international disputes and mutual differences by peaceful means."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Compare and contrast the roles and powers of the UN General Assembly and the UN Security Council.",
+      "options": [],
+      "answer": "The General Assembly is a deliberative body where all 193 member states have equal representation and vote. It discusses global issues, passes non-binding resolutions, and handles budgetary and electoral functions (e.g., electing non-permanent Security Council members). The Security Council has 15 members (5 permanent with veto power) and holds primary responsibility for maintaining international peace and security. Its decisions, such as imposing sanctions or authorizing military action, are binding on all UN members, giving it significantly more executive power than the Assembly."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Explain the structure, composition, and primary function of the UN Security Council. Why is the veto power significant?",
+      "options": [],
+      "answer": "The Security Council has 15 members: 5 permanent (US, Russia, UK, France, China) and 10 non-permanent elected for 2-year terms. Its primary function is to maintain international peace and security. It can investigate disputes, recommend solutions, impose sanctions, or authorize military action. The veto power allows any permanent member to block any substantive resolution, ensuring major powers must agree on critical actions. This reflects post-WWII power realities but can also lead to paralysis."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the role and functions of the Economic and Social Council (ECOSOC) of the United Nations.",
+      "options": [],
+      "answer": "ECOSOC has 54 members elected by the General Assembly for 3-year terms. Its main objective is to coordinate the UN's economic and social policies. Its functions include initiating global discussions on issues like poverty, unemployment, and inequality; addressing women's empowerment, human rights, and global trade; fostering international cultural and educational cooperation; and coordinating the work of various UN specialized agencies."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "What are the main responsibilities of the UN Secretariat and its head, the Secretary-General?",
+      "options": [],
+      "answer": "The Secretariat is the UN's administrative organ, responsible for executing day-to-day tasks. Its head, the Secretary-General (appointed for a 5-year term by the GA on the SC's recommendation), has functions including calling international conferences on global issues, organizing meetings of the GA and SC, compiling information, and supplying information to the media. The Secretary-General also plays a key diplomatic role in conflict prevention and mediation."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the purpose, location, and jurisdiction of the International Court of Justice (ICJ). How does it differ from the International Criminal Court (ICC)?",
+      "options": [],
+      "answer": "The ICJ, located in The Hague, Netherlands, is the UN's principal judicial organ. It settles legal disputes between states and gives advisory opinions to UN bodies. It has 15 judges with 9-year terms. The ICC, also in The Hague, is an independent treaty-based court not part of the UN system. Its jurisdiction is to prosecute individuals (not states) for the most serious international crimes: genocide, crimes against humanity, and war crimes."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What was the role of the UN Trusteeship Council? Explain why its active work is considered complete.",
+      "options": [],
+      "answer": "The Trusteeship Council was established to supervise the administration of trust territories—non-self-governing territories placed under the responsibility of developed nations after WWII. Its role was to promote their advancement towards self-government or independence. Its work is considered complete because all trust territories have achieved independence, the last being Palau in 1994. Therefore, the Council has suspended its operations."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Describe the UN's Millennium Development Goals (MDGs). List at least four specific goals mentioned in the chapter.",
+      "options": [],
+      "answer": "The MDGs were a set of eight time-bound development targets adopted by UN member states in 2000 to address global poverty and improve living standards by 2015. Specific goals mentioned include: 1) To eliminate poverty and hunger. 2) To make primary education universally available. 3) To promote women's empowerment and reduce infant mortality. 4) To improve maternal health. 5) To combat diseases like AIDS and malaria. 6) To ensure environmental sustainability and enhance global partnership."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "How do specialized agencies like UNICEF and UNESCO contribute to the work of the United Nations? Provide specific examples from the chapter.",
+      "options": [],
+      "answer": "UN specialized agencies are autonomous organizations that work with the UN in specific fields. UNICEF focuses on children's welfare, providing nutritious food and healthcare. The chapter notes it conducted workshops in India to tackle child malnutrition. UNESCO promotes peace through international cooperation in education, science, and culture. It helped India make progress towards the Millennium Development Goals. These agencies operationalize the UN's broad objectives in targeted, practical ways."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain the concept and purpose of United Nations Peacekeeping operations. What are some supplementary actions that accompany peacekeeping?",
+      "options": [],
+      "answer": "UN Peacekeeping involves deploying military and civilian personnel to conflict zones to create conditions for lasting peace. Its purpose is not to fight but to monitor ceasefires, separate hostile forces, protect civilians, and support political processes. Supplementary actions include: 1) Conflict prevention and mediation to stop wars before they start. 2) Peacemaking (diplomatic efforts to end conflicts). 3) Peace enforcement (coercive measures under Chapter VII). 4) Peace-building (long-term efforts to prevent relapse by strengthening institutions, economies, and societies)."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Analyze the role of India in the United Nations, based on the information provided in the chapter.",
+      "options": [],
+      "answer": "India has played a significant and active role in the UN since its inception. It participated in the founding conferences and was the first country to raise the issue of racism in 1946. India consistently champions the causes of decolonization, disarmament, and developing countries' interests. It is a major contributor to UN peacekeeping forces, including pioneering an all-women contingent, demonstrating commitment to peaceful conflict resolution. India is also actively campaigning for permanent membership in a reformed UN Security Council."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "How does the United Nations Charter propose to settle international conflicts peacefully? Outline the steps or means mentioned.",
+      "options": [],
+      "answer": "The UN Charter outlines a graduated approach to peaceful conflict resolution: 1) Appointing an intermediary acceptable to the conflicting parties for mediation. 2) Using legal procedures, such as referring the dispute to the International Court of Justice. 3) Appointing an arbitrator to make a binding decision. 4) As a last resort, and only when authorized by the Security Council, taking recourse to collective military action to restore peace and security, ensuring the conflict does not recur."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "What are the arguments for reforming the UN Security Council as suggested in the chapter? What is India's position in this regard?",
+      "options": [],
+      "answer": "The chapter suggests the Security Council should be reformed to become more democratic and representative of the contemporary world, as its permanent membership reflects the post-WWII power structure. Arguments include giving greater voice to developing regions like Africa, Asia, and Latin America. India's position is at the forefront of this reform movement; it is making concerted efforts to gain a permanent seat on the Security Council, arguing that as the world's largest democracy and a major contributor to peacekeeping, it deserves a place at the high table of global decision-making."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Describe the various ways in which the UN attempts to restore normalcy and build peace in post-conflict societies.",
+      "options": [],
+      "answer": "The UN uses a multi-faceted approach to restore normalcy: 1) **Security:** Deploying peacekeepers to protect civilians and maintain order. 2) **Governance:** Assisting in conducting free and fair elections and building political institutions. 3) **Human Rights:** Creating awareness about rights and freedoms. 4) **Basic Services:** Restarting schools and providing healthcare. 5) **Economic Revival:** Facilitating access to social and economic opportunities. 6) **Rule of Law:** Supporting judicial and police reform. These integrated efforts aim to address root causes of conflict and build a sustainable peace."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Why is the principle of 'sovereign equality' of all member states important for the functioning of the UN General Assembly?",
+      "options": [],
+      "answer": "The principle of sovereign equality—where all member states, regardless of size or power, have equal status—is fundamental to the General Assembly. It ensures that every nation, from the smallest island state to the largest superpower, has one vote. This fosters inclusivity, gives a voice to weaker nations, and legitimizes the Assembly as a truly global forum for discussion. It underpins the democratic character of the UN, even though the Security Council has a different, power-based structure for enforcement actions."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What is the significance of the UN's official languages? How does this relate to its global character?",
+      "options": [],
+      "answer": "The UN has six official languages: Arabic, Chinese, English, French, Russian, and Spanish. This is significant because it reflects the linguistic and cultural diversity of its global membership. It ensures that important documents, meetings, and communications are accessible to a wide audience, promoting transparency and participation. This multilingual policy embodies the UN's commitment to inclusivity and respect for all member states, reinforcing its role as a universal organization."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How have modern threats like terrorism changed the nature of the UN's peace and security function?",
+      "options": [],
+      "answer": "Modern threats like terrorism, along with religious and ethnic conflicts, have complicated the UN's peace and security function. These are often non-state, transnational threats that do not fit traditional interstate war models. This requires the UN to adapt its tools, focusing more on conflict prevention, counter-terrorism cooperation, protecting civilians in civil wars, and addressing root causes like inequality and poor governance. The chapter notes that these new challenges have made the UN's peace role more complex and critically important."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Based on the chapter, evaluate the successes and challenges of the United Nations in achieving its primary objective of maintaining world peace.",
+      "options": [],
+      "answer": "**Successes:** The UN has successfully prevented another world war, mediated numerous conflicts (e.g., in Cambodia, Namibia), pioneered peacekeeping, set global norms on human rights and development (MDGs), and provided a vital forum for dialogue. **Challenges:** It has faced failures to prevent atrocities (e.g., Rwanda, Srebrenica), paralysis due to Security Council vetoes, difficulties adapting to non-state actors like terrorists, and resource constraints. Overall, while imperfect and often constrained by member states' politics, it remains the indispensable global organization for cooperative problem-solving."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain the process for appointing judges to the International Court of Justice. Why is this a joint process?",
+      "options": [],
+      "answer": "Judges of the ICJ are elected by both the UN General Assembly and the Security Council, voting separately. A candidate must obtain an absolute majority in both bodies. This joint process ensures a balance between the democratic principle of the Assembly (one state, one vote) and the great power oversight of the Security Council (where permanent members have significant influence). It aims to select judges who are not only legally qualified but also enjoy broad international support and legitimacy, reflecting the court's role in adjudicating disputes between sovereign states."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What role did the conferences of 1944 and 1945 play in the formation of the United Nations?",
+      "options": [],
+      "answer": "The conferences held among the Allied powers in 1944 (Dumbarton Oaks) and 1945 (Yalta) were crucial in transforming the idea of a post-war organization into a concrete plan. At Dumbarton Oaks, the basic framework and structure of the UN, including the Security Council veto, were proposed. At Yalta, key decisions about the voting procedure and the timing of a founding conference were finalized. These meetings bridged the gap between the 1941 Atlantic Charter's vision and the detailed drafting of the UN Charter in San Francisco later in 1945."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Describe the function of the UN in coordinating its various specialized agencies through the Economic and Social Council.",
+      "options": [],
+      "answer": "A key function of ECOSOC is to coordinate the work of the UN's numerous specialized agencies (like WHO, UNESCO, ILO) and other bodies. It does this by setting broad policy agendas, facilitating communication between agencies to avoid duplication of efforts, reviewing their reports, and making recommendations to the General Assembly. This coordination role is vital for ensuring a coherent UN system-wide approach to complex global economic, social, health, and educational challenges, maximizing the impact of their collective work."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Why is the UN's role in fostering international economic cooperation considered one of its objectives? How does it pursue this?",
+      "options": [],
+      "answer": "Fostering international economic cooperation is a UN objective because economic instability, poverty, and inequality are root causes of conflict and barriers to peace. The UN pursues this through: 1) **Policy Forums:** ECOSOC and the General Assembly discuss global economic issues. 2) **Specialized Agencies:** The World Bank and IMF provide financial assistance and stability. 3) **Development Programs:** UNDP and others work directly on poverty reduction. 4) **Setting Goals:** Initiatives like the MDGs mobilize global action. By promoting shared prosperity, the UN aims to create a more stable and peaceful world."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What does the chapter suggest about the relationship between human rights, development, and peace?",
+      "options": [],
+      "answer": "The chapter suggests a strong interlinkage between human rights, development, and peace. It states that safeguarding human rights is a core UN objective. It further shows that development goals (MDGs) include targets related to health, education, and gender equality—all aspects of human rights. The text implies that peace is not merely the absence of war but requires addressing underlying issues like poverty, inequality, and lack of freedom. Therefore, the UN's work in development and human rights is integral to its primary mission of securing lasting international peace."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Imagine you are a UN peacekeeper deployed to a conflict zone. Based on the chapter, what might your duties involve beyond just military observation?",
+      "options": [],
+      "answer": "As a UN peacekeeper, my duties would extend beyond military observation to include: 1) **Civilian Protection:** Ensuring the safety of local populations. 2) **Supporting Ceasefires:** Monitoring and verifying truce agreements. 3) **Facilitating Humanitarian Aid:** Helping deliver food and medical supplies. 4) **Assisting Political Processes:** Supporting the organization of elections or peace talks. 5) **Community Engagement:** Working with local leaders to build trust. 6) **Human Rights Monitoring:** Reporting violations. The role is multidimensional, aimed at creating a secure environment conducive to long-term peace-building."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "How does the principle of 'solving disputes by peaceful means' bind UN member states? What happens if a state violates this?",
+      "options": [],
+      "answer": "The UN Charter obligates all member states to settle their international disputes by peaceful means (Article 2(3)). This is a foundational principle, not just a suggestion. If a state violates this by resorting to aggression or force, the UN, primarily through the Security Council, can take action. This may include calling for a ceasefire, imposing diplomatic and economic sanctions, or, as a last resort, authorizing collective military action to repel the aggression and restore peace. The system relies on collective security to enforce this principle."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Discuss the relevance of the United Nations in today's world, citing examples of its functions from the chapter.",
+      "options": [],
+      "answer": "The UN remains highly relevant today as the only universal organization addressing global challenges. Examples from the chapter include: 1) **Peace & Security:** Peacekeeping in strife-torn regions. 2) **Human Rights:** Campaigns to foster freedoms. 3) **Development:** Implementing MDGs and fighting poverty. 4) **Health:** WHO's role in fighting diseases. 5) **Law:** ICJ settling state disputes. 6) **Forum for Dialogue:** GA discussing climate change, disarmament. 7) **Humanitarian Aid:** UNICEF helping malnourished children. In an interconnected world facing pandemics, climate change, and terrorism, the UN's coordinating and normative role is more critical than ever."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "What is the significance of the phrase 'We the Peoples' in the preamble of the UN Charter, in light of the organization's structure as described?",
+      "options": [],
+      "answer": "The phrase 'We the Peoples' signifies that the UN's ultimate authority and purpose derive from the world's people, not just its governments. This is significant because while the UN's structure is an assembly of sovereign states (represented by governments), its goals—peace, human rights, better standards of life—are for all individuals. This phrase reminds member states that their sovereignty comes with the responsibility to serve their people's welfare and that the UN's work, from peacekeeping to development, ultimately aims to benefit ordinary people everywhere, embodying a people-centric vision of global governance."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the entire chapter 'The United Nations (UN)' in your own words, covering its origin, structure, key organs, and major roles.",
+      "options": [],
+      "answer": "The chapter covers the United Nations, established in 1945 after WWII to prevent future wars and promote global cooperation. It originated from the Atlantic Charter and wartime conferences. The UN has 193 member states and is based on principles like sovereign equality and peaceful dispute settlement. Its six main organs are: 1) **General Assembly** (deliberative forum), 2) **Security Council** (enforces peace, with 5 veto-wielding permanent members), 3) **ECOSOC** (coordinates economic/social policies), 4) **Secretariat** (administration led by Secretary-General), 5) **ICJ** (judicial organ), and 6) **Trusteeship Council** (inactive). It works through specialized agencies like UNICEF and WHO. Key roles include maintaining international peace through diplomacy, peacekeeping, and conflict resolution; promoting human rights and development via goals like the MDGs; and providing a platform for global dialogue on issues from disarmament to the environment. India has been an active participant, contributing to peacekeeping and advocating for Security Council reform."
+    }
+  ]
+}

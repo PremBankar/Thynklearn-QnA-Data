@@ -1,0 +1,1491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Political_Science.16",
+    "standard": "9",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "International Problems"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT considered an international problem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Border dispute between Maharashtra and Karnataka",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Problems of refugees",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Environmental degradation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Terrorism",
+          "is_correct": false
+        }
+      ],
+      "answer": "Border dispute between Maharashtra and Karnataka"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "From which concept did the idea of human rights emerge?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Legal rights",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Natural rights",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Constitutional rights",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Civil rights",
+          "is_correct": false
+        }
+      ],
+      "answer": "Natural rights"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which revolutions proclaimed Liberty, Equality, Fraternity, and Justice as human rights?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Industrial and Russian Revolutions",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The American and French Revolutions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The Chinese and Cuban Revolutions",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The Glorious and Haitian Revolutions",
+          "is_correct": false
+        }
+      ],
+      "answer": "The American and French Revolutions"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When was the Universal Declaration of Human Rights adopted by the UN General Assembly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "10th December 1948",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "20th November 1959",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "24th October 1945",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "26th June 1945",
+          "is_correct": false
+        }
+      ],
+      "answer": "10th December 1948"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a human right as per the Universal Declaration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Right to work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Right to information",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Right to education",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Right to health",
+          "is_correct": false
+        }
+      ],
+      "answer": "Right to information"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In which year did the UN General Assembly adopt the International Covenant on Civil and Political Rights (ICCPR) and the International Covenant on Economic, Social and Cultural Rights (ICESCR)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1948",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1966",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1972",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1993",
+          "is_correct": false
+        }
+      ],
+      "answer": "1966"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "When was the Declaration of the Rights of the Child proclaimed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "10th December 1948",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "20th November 1959",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "22nd April 1970",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "5th June 1972",
+          "is_correct": false
+        }
+      ],
+      "answer": "20th November 1959"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "In which year was the Human Rights Protection Act passed in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1948",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1976",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1993",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "2002",
+          "is_correct": false
+        }
+      ],
+      "answer": "1993"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which commission was established in India as per the Human Rights Protection Act?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Election Commission",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Finance Commission",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "National Human Rights Commission",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Planning Commission",
+          "is_correct": false
+        }
+      ],
+      "answer": "National Human Rights Commission"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "When was the first Earth Day celebrated?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5th June 1972",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "22nd April 1970",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "20th November 1959",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10th December 1948",
+          "is_correct": false
+        }
+      ],
+      "answer": "22nd April 1970"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a cause of environmental degradation as per the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chemical fertilizers and pesticides",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Radiation from nuclear reactors",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Traffic jams",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Oil leakages",
+          "is_correct": false
+        }
+      ],
+      "answer": "Traffic jams"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is a visible effect of environmental decline?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Privatisation of economy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thinning of ozone layer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Empowerment of weaker sections",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Secessionism",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinning of ozone layer"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where was the first United Nations Conference on Human Environment held?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rio de Janeiro",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stockholm",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Kyoto",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stockholm"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which UN programme was created after the Stockholm Conference?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "UNICEF",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "UNESCO",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "UNEP",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "WHO",
+          "is_correct": false
+        }
+      ],
+      "answer": "UNEP"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which concept was stressed at the Rio environmental conference in 1992?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Globalisation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Non-alignment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sustainable development",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Disarmament",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sustainable development"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which conference laid down the Kyoto Protocol for developed countries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris Conference (2015)",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rio Conference (1992)",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Kyoto Conference (1997)",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Stockholm Conference (1972)",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kyoto Conference (1997)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the main aim of a terrorist attack as per the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To endanger geographical boundaries",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To challenge a regime or deny the existence of the state",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To win territory",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To control natural resources",
+          "is_correct": false
+        }
+      ],
+      "answer": "To challenge a regime or deny the existence of the state"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a reason people become refugees?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Persecution based on race or religion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Natural disasters",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traffic jams",
+          "is_correct": true
+        }
+      ],
+      "answer": "Traffic jams"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In which year were international provisions made regarding refugees?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1948",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1951",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1966",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1971",
+          "is_correct": false
+        }
+      ],
+      "answer": "1951"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is considered a global resource?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Private land",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "National parks",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oceans and atmosphere",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Urban infrastructure",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oceans and atmosphere"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is terrorism, according to the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A war between two nations",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Organized and planned violence to spread fear for political goals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Peaceful protest against the government",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic sanctions against a country",
+          "is_correct": false
+        }
+      ],
+      "answer": "Organized and planned violence to spread fear for political goals"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of the following problems is inherently global in nature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kaveri water sharing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thinning of the ozone layer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Naxalism in Andhra Pradesh",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Privatisation of economy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinning of the ozone layer"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What was a key feature of the Stockholm Conference?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only government representatives were allowed.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Non-governmental organisations were also present.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It focused only on economic development.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It was held in Paris.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Non-governmental organisations were also present."
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a national issue?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lack of public hygiene",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Terrorism",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Violation of human rights",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Problems of refugees",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lack of public hygiene"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What major challenge do refugees face after reaching a safe place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Finding work and shelter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Choosing a new nationality",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Starting a new government",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Building new cities",
+          "is_correct": false
+        }
+      ],
+      "answer": "Finding work and shelter"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of the following is a reason for environmental awareness rising in the 1970s?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Cold War ended.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Large-scale industrialization and energy needs endangered the environment.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The United Nations was established.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Globalisation began.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Large-scale industrialization and energy needs endangered the environment."
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What does the term 'global commons' refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Resources owned by private companies",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Resources belonging to all nations, like oceans and atmosphere",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "National parks within a country",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Urban public transport",
+          "is_correct": false
+        }
+      ],
+      "answer": "Resources belonging to all nations, like oceans and atmosphere"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a long-term effect of environmental decline?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Extinction of species",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water shortage",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Traffic jam",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Global warming",
+          "is_correct": false
+        }
+      ],
+      "answer": "Traffic jam"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What was the appeal made at the Paris Climate Conference in 2015?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Developed countries should not help others.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "All nations should make concerted efforts to stop climate change.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only developing countries should take action.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Environmental protection should be left to NGOs.",
+          "is_correct": false
+        }
+      ],
+      "answer": "All nations should make concerted efforts to stop climate change."
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "In India, where are human rights placed within the Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Directive Principles of State Policy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fundamental Rights",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Preamble",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Schedules",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fundamental Rights"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is one major difference between traditional war and terrorism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Traditional war is cheaper.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Terrorism involves only two nations.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Traditional war is between sovereign states; terrorism can be transnational.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Terrorism always has clear geographical boundaries.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Traditional war is between sovereign states; terrorism can be transnational."
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of the following is a problem caused by an influx of refugees in a host nation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Increase in essential goods",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shortage of essential goods and potential inflation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Immediate economic boom",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Decrease in crime rates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shortage of essential goods and potential inflation"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is the primary responsibility of the State regarding human rights?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To limit the rights of citizens",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect citizens' rights",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To ignore international covenants",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To focus only on economic growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect citizens' rights"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of these is a broader goal included in human rights today?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Privatisation of economy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protection of the environment and sustainable development",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Secessionism",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Empowerment of weaker sections",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protection of the environment and sustainable development"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of the following international days is mentioned in the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers' Day",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flag Day",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earth Day",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Children's Day",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth Day"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What do developing nations believe regarding environmental degradation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They are solely responsible.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Developed nations are more responsible and should take the lead.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It is not a serious problem.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only NGOs can solve it.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Developed nations are more responsible and should take the lead."
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which of the following is a cause of people becoming refugees from Syria recently?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lack of public hygiene",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "War-like situation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Traffic jam",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Privatisation of economy",
+          "is_correct": false
+        }
+      ],
+      "answer": "War-like situation"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What was established in 1951 to help solve refugee problems?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "International Court of Justice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Office of the High Commissioner for Refugees (UNHCR)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "World Health Organization",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "International Monetary Fund",
+          "is_correct": false
+        }
+      ],
+      "answer": "Office of the High Commissioner for Refugees (UNHCR)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of environmental degradation reaching global proportions?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A local water shortage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thinning of the ozone layer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A single polluted river",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise pollution in one city",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinning of the ozone layer"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is necessary to curb terrorism effectively?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Isolation of nations",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Concerted efforts and cooperation between security mechanisms of different nations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring the issue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Focusing only on economic development",
+          "is_correct": false
+        }
+      ],
+      "answer": "Concerted efforts and cooperation between security mechanisms of different nations"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What are problems that affect many or all countries of the world called?",
+      "answer": "International problems."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "From which older concept did the modern concept of human rights emerge?",
+      "answer": "Natural rights."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Name two revolutions that proclaimed liberty, equality, and fraternity as human rights.",
+      "answer": "The American and French Revolutions."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "In which year and on what date was the Universal Declaration of Human Rights adopted?",
+      "answer": "10th December 1948."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What are the two international covenants adopted in 1966 related to human rights?",
+      "answer": "International Covenant on Civil and Political Rights (ICCPR) and International Covenant on Economic, Social and Cultural Rights (ICESCR)."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the Indian law passed in 1993 for the protection of human rights?",
+      "answer": "The Human Rights Protection Act."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Which commission was established at the national level in India for human rights?",
+      "answer": "The National Human Rights Commission (NHRC)."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "When is Earth Day celebrated?",
+      "answer": "22nd April."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Give one example of a factor that makes the environment unsafe.",
+      "answer": "Oil leakages / Chemical gas leakages / Radiation from nuclear reactors / Sound pollution from vehicles."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is one visible effect of environmental decline?",
+      "answer": "Extinction of species / Water shortage / Global warming / Thinning of the ozone layer."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Where and when was the first United Nations Conference on Human Environment held?",
+      "answer": "Stockholm, from 5th to 16th June 1972."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does UNEP stand for?",
+      "answer": "United Nations Environment Programme."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which concept was stressed at the Rio Conference in 1992?",
+      "answer": "Sustainable development."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Where was the climate change conference held in 2015?",
+      "answer": "Paris."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is terrorism defined as in the chapter?",
+      "answer": "Organised and planned violence to spread fear and terror in society for achieving political goals."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How is traditional war different from terrorism in terms of actors?",
+      "answer": "Traditional war is between sovereign states; terrorism involves non-state groups."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are people called who are forced to leave their country for safety?",
+      "answer": "Refugees."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name one country mentioned as a source of refugees in recent years.",
+      "answer": "Syria / Iraq."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "In which year were important international provisions made regarding refugees?",
+      "answer": "1951."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is one major economic strain a host nation faces due to refugees?",
+      "answer": "Shortage of essential goods / Increase in crime / Inflation."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Give an example of a global resource.",
+      "answer": "Oceans / Atmosphere / Outer space / Genetic resources."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does the broader concept of human rights include today?",
+      "answer": "Protection of the environment and sustainable development."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which day is internationally observed for children's rights?",
+      "answer": "20th November (Declaration of the Rights of the Child)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What was the key outcome of the Kyoto Conference in 1997?",
+      "answer": "The Kyoto Protocol, setting targets for developed countries to reduce greenhouse gas emissions."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is one challenge refugees face during their journey?",
+      "answer": "Shortage of food / Sickness / Pursuit by enemies / Natural elements like heat and storms."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the primary goal of a terrorist attack?",
+      "answer": "To challenge a political regime or deny the existence of the state."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is cooperation between nations essential to solve environmental problems?",
+      "answer": "Because pollution and its effects do not remain restricted to one nation and have long-term consequences."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name one treaty signed at the Rio Conference in 1992.",
+      "answer": "Convention on Biological Diversity / United Nations Framework Convention on Climate Change (UNFCCC)."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the main responsibility of the state regarding citizens' rights?",
+      "answer": "To protect them."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What did the 1951 provision state about refugees?",
+      "answer": "Refugees will not be forcefully sent back to their country against their wishes (non-refoulement)."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain what human rights are and their historical origin.",
+      "answer": "Human rights are rights necessary for living as a human being and as a member of society. They emerged from the concept of natural rights—rights we are endowed with simply by being born human. Historically, the American and French Revolutions were pivotal in proclaiming Liberty, Equality, Fraternity, and Justice as fundamental human rights, strengthening the idea that a democratic form of government is essential to realize these rights."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the role and significance of the United Nations in the development of human rights law.",
+      "answer": "The United Nations played a crucial role in codifying and promoting human rights globally. After its establishment, it adopted the Universal Declaration of Human Rights (UDHR) on 10th December 1948, which set a common standard for all nations. Later, in 1966, the UN General Assembly adopted two legally binding covenants: the International Covenant on Civil and Political Rights (ICCPR) and the International Covenant on Economic, Social and Cultural Rights (ICESCR). These instruments form part of international law, and member states are bound to observe them, significantly advancing the global human rights framework."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "How has India institutionalized the protection of human rights?",
+      "answer": "India has placed human rights within its Constitution as Fundamental Rights, ensuring their protection. The government also has a responsibility to protect weaker sections like women and minorities. Institutionally, India passed the Human Rights Protection Act in 1993. Under this Act, the National Human Rights Commission (NHRC) was established at the national level, and State Human Rights Commissions were set up at the state level. These commissions are responsible for receiving complaints about human rights violations and taking appropriate action."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "What is environmental degradation? List its major causes and visible effects.",
+      "answer": "Environmental degradation is the deterioration of the environment through the depletion of resources and destruction of ecosystems. Major causes include large-scale industrialization, overuse of chemical fertilizers and pesticides, pollution from vehicles, radiation from nuclear reactors, and oil or chemical gas leakages. Visible effects are the extinction of plant and animal species, decreased soil fertility, water shortages, erratic rainfall patterns, global warming, drying of rivers and lakes, pollution of water bodies, new diseases, acid rain, and the thinning of the ozone layer."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Trace the key milestones in international environmental cooperation from Stockholm to Paris.",
+      "answer": "International environmental cooperation began with the UN Conference on Human Environment in Stockholm (1972), which stressed shared responsibility for pollution and led to the creation of UNEP. The next major step was the Earth Summit in Rio de Janeiro (1992), which emphasized sustainable development and produced treaties on biodiversity and climate change (UNFCCC). The Kyoto Conference (1997) established the Kyoto Protocol, setting emission reduction targets for developed nations. Finally, the Paris Conference (2015) resulted in a global agreement where all nations committed to concerted efforts to combat climate change, with developed countries pledging to help developing ones with technology and resources."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "What is sustainable development? Why was it emphasized at the Rio Conference?",
+      "answer": "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs. It was emphasized at the Rio Conference in 1992 because it became clear that unchecked economic growth and resource exploitation were causing severe environmental damage. The conference recognized the need to balance economic development with environmental protection and social equity to ensure long-term planetary health and human well-being."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain why terrorism is considered a global problem and different from traditional war.",
+      "answer": "Terrorism is considered a global problem because terrorist groups operate transnationally, can strike anywhere, and no single nation can counter them entirely on its own. It is different from traditional war, which is a conflict between two or more sovereign states with defined geographical boundaries and armies. Terrorism involves non-state actors using organized, planned violence against civilians to spread fear and achieve political goals, challenging regimes or the state's existence itself. It threatens both internal and external security, requiring international cooperation to combat."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Who are refugees? Describe the problems they face during their flight and after reaching a host country.",
+      "answer": "Refugees are people forced to leave their homeland against their will due to persecution, war, or disaster, seeking safety in another country. During their flight, they face immense physical and emotional stress, dangers from natural elements (heat, storms), shortages of food and water, sickness, and the threat of pursuit. Upon reaching a host country, new challenges arise: finding work and shelter, adapting to a different language and culture, and potential non-acceptance by locals. The influx can strain the host nation's economy, causing shortages of essential goods, inflation, increased crime, and social tensions."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What are 'global commons'? Why is their protection a shared international responsibility?",
+      "answer": "'Global commons' refer to resource domains or areas that lie outside the political reach of any one nation and are shared by all humanity. Examples include the high seas, deep seabeds, the atmosphere, outer space, and genetic resources. Their protection is a shared international responsibility because they belong to all nations and their degradation (like ozone depletion or ocean pollution) affects the entire planet. No single country can manage or protect them alone; cooperative governance through international treaties and organizations is essential for their sustainable use and preservation for future generations."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "How has the concept of human rights broadened in modern times?",
+      "answer": "In modern times, the concept of human rights has broadened beyond traditional civil and political rights (like liberty and equality) to include a wider range of issues. It now encompasses economic, social, and cultural rights (like the right to work and health). More significantly, it has expanded to address global challenges. Today, human rights include the right to a safe and healthy environment, sustainable development, and protection from global threats like contagious diseases and natural disasters. This reflects an understanding that dignity and well-being depend on a stable global ecosystem and equitable development."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Discuss the importance of non-governmental organizations (NGOs) in international environmental governance.",
+      "answer": "Non-governmental organizations (NGOs) play a vital role in international environmental governance. They raise public awareness, conduct research, and advocate for stronger environmental policies. Since the Stockholm Conference in 1972, NGOs have been included in international environmental negotiations, bringing grassroots perspectives and expertise. They hold governments and corporations accountable, monitor treaty implementation, and often provide innovative solutions. Their involvement ensures that environmental decision-making is more transparent, inclusive, and responsive to the needs of civil society, strengthening global efforts to protect the planet."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "What is the principle of 'common but differentiated responsibilities' in the context of environmental protection?",
+      "answer": "The principle of 'common but differentiated responsibilities' acknowledges that while all nations share a common responsibility to protect the global environment, developed countries bear a greater burden. This is because their historical industrialization has contributed disproportionately to current environmental problems like climate change. Therefore, developed nations are expected to take the lead in reducing emissions, providing financial resources, and transferring clean technology to developing countries to help them pursue sustainable development paths without hindering their economic growth."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain the challenges in achieving international cooperation to combat terrorism.",
+      "answer": "Achieving international cooperation to combat terrorism is challenging due to several factors. First, nations often have differing definitions of terrorism and prioritize their own national security interests. Second, geopolitical rivalries and mistrust can hinder intelligence sharing and joint operations. Third, some states may provide covert support to groups they see as useful proxies. Fourth, terrorism's transnational nature requires complex legal frameworks for extradition and prosecution. Overcoming these challenges requires building mutual trust, establishing clear international legal norms, and creating effective multilateral institutions focused on counter-terrorism."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Why did the problem of refugees gain international attention, and what legal framework was created to address it?",
+      "answer": "The problem of refugees gained international attention due to the massive displacement caused by the World Wars and subsequent conflicts, highlighting the need for a coordinated humanitarian response. In response, the international community established a legal framework centered on the 1951 United Nations Convention relating to the Status of Refugees and its 1967 Protocol. This framework defines who is a refugee, sets out their rights (such as non-refoulement—the right not to be returned to a dangerous country), and establishes the Office of the United Nations High Commissioner for Refugees (UNHCR) to lead and coordinate global action to protect refugees and resolve refugee problems."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How are human rights, environmental protection, and the fight against terrorism interconnected?",
+      "answer": "Human rights, environmental protection, and the fight against terrorism are deeply interconnected. A degraded environment violates the human right to a safe and healthy life. Environmental crises can also create conditions of scarcity and displacement that fuel conflict and terrorism. Conversely, terrorism severely violates basic human rights like the right to life and security. Effectively protecting human rights requires safeguarding the environment and eliminating terrorism. All three issues demand international cooperation, as they transcend borders and impact global peace, security, and human dignity collectively."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What was the significance of the Stockholm Conference (1972) in the history of environmentalism?",
+      "answer": "The United Nations Conference on the Human Environment in Stockholm (1972) was a landmark event that placed environmental issues firmly on the global political agenda for the first time. It established that environmental protection was an international responsibility, stressed the need for cooperation to overcome pollution, and recognized the link between development and the environment. It led to the creation of the United Nations Environment Programme (UNEP). Crucially, it included non-governmental organizations, setting a precedent for civil society participation in global governance. The Stockholm Declaration laid the philosophical foundation for future environmental treaties and the concept of sustainable development."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Describe the impact of globalization on the nature of international problems.",
+      "answer": "Globalization has profoundly impacted the nature of international problems by making them more interconnected and diffuse. Economic interdependence means that financial crises in one region can spread globally. Environmental problems like climate change and pollution recognize no borders. Terrorism exploits global networks for finance, communication, and movement. The refugee crisis is often a result of conflicts and failures in distant states. Globalization has thus transformed local or national issues into transnational challenges that require coordinated, multilateral solutions rather than isolated national actions."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What are the arguments of developing countries regarding environmental responsibility, as seen in international conferences?",
+      "answer": "Developing countries argue that developed nations bear historical responsibility for environmental degradation due to their early and extensive industrialization. They contend that developed countries should therefore take the lead in reducing emissions and provide financial aid and clean technology to developing nations. Developing countries also emphasize their right to economic development and poverty eradication, stating that stringent environmental regulations should not unfairly hinder their growth. They advocate for the principle of 'common but differentiated responsibilities' to ensure a fair and equitable global effort in tackling environmental issues."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How does terrorism threaten both internal and external security of a nation?",
+      "answer": "Terrorism threatens a nation's internal security by creating fear and chaos within its society, disrupting daily life, and undermining public trust in government institutions. It can incite communal violence, destabilize the political system, and damage economic activity. Externally, terrorism threatens security because terrorist groups often operate across borders, requiring international engagement. Attacks on a nation's assets or citizens abroad can strain diplomatic relations. Furthermore, the need to secure borders and cooperate with other nations on counter-terrorism diverts significant military and diplomatic resources, impacting a country's overall external security posture."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What are the potential social and economic consequences for a country hosting a large number of refugees?",
+      "answer": "Hosting a large number of refugees can strain a country's social and economic fabric. Economically, it can lead to shortages of essential goods, inflation, increased competition for jobs (potentially lowering wages), and pressure on public services like healthcare and education, leading to increased public spending. Socially, cultural and linguistic differences can cause tension and discrimination against refugees. A large influx may also lead to a rise in crime, pose law and order challenges, and fuel xenophobia among the local population. While refugees can contribute to the economy, the initial strain and need for integration support are significant challenges."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain the role of the Paris Agreement (2015) in the global fight against climate change.",
+      "answer": "The Paris Agreement, adopted in 2015, is a landmark international treaty on climate change. Its key role is to unite almost all the world's nations in a common cause: to limit global warming to well below 2°C, preferably to 1.5°C, compared to pre-industrial levels. Unlike its predecessor (the Kyoto Protocol), it requires action from all countries—developed and developing—based on Nationally Determined Contributions (NDCs). It establishes a framework for financial, technological, and capacity-building support from developed to developing countries and includes a system for transparency and global stocktake to assess collective progress, representing a crucial step in global cooperative climate action."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Why is the issue of refugees described as having 'global proportions'?",
+      "answer": "The refugee issue is described as having 'global proportions' because it is no longer a localized phenomenon. Conflicts, persecution, and disasters in one part of the world force people to flee across continents, affecting countries far from the crisis origin. The scale of displacement is massive, involving millions of people, as seen from Syria, Afghanistan, and other regions. The responsibility of hosting and protecting refugees falls on the international community as a whole, and the search for durable solutions (resettlement, integration, return) requires global cooperation. The crisis impacts international relations, security, and humanitarian systems worldwide."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How did the Cold War context influence discussions on human rights in the United Nations?",
+      "answer": "During the Cold War, discussions on human rights in the United Nations were heavily influenced by the ideological rivalry between the US-led capitalist bloc and the Soviet-led communist bloc. The US and its allies emphasized civil and political rights (like freedom of speech and elections), while the USSR and its allies prioritized economic, social, and cultural rights (like the right to work and education). This division often led to politicization and deadlock, with each side using human rights accusations as a tool against the other. However, it also helped bring issues like decolonization, racial segregation (e.g., apartheid in South Africa), and self-determination onto the UN agenda as human rights concerns."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What is the importance of the principle of 'non-refoulement' in refugee law?",
+      "answer": "The principle of 'non-refoulement' is a cornerstone of international refugee law. It prohibits states from returning a refugee to a territory where their life or freedom would be threatened on account of race, religion, nationality, membership of a particular social group, or political opinion. This principle is considered a rule of customary international law, meaning it binds all states, even those not party to the 1951 Refugee Convention. It is crucial because it provides the most fundamental protection to refugees, ensuring they are not sent back to persecution, torture, or death, thereby upholding the basic right to seek asylum."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Compare and contrast the approaches to environmental protection before and after the 1972 Stockholm Conference.",
+      "answer": "Before the 1972 Stockholm Conference, environmental protection was largely viewed as a national or local issue, with little international coordination. Focus was on conservation of specific natural resources, and industrialization was rarely questioned for its environmental cost. After Stockholm, the approach became globally integrated. The conference established that environmental problems are interconnected and require international cooperation. It led to the creation of UNEP, kickstarting a era of multilateral environmental agreements (MEAs) on issues like ozone depletion, biodiversity, and climate change. The focus shifted from mere conservation to sustainable development, balancing ecological health with economic needs, and involving non-state actors like NGOs in governance."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Why is it argued that a secure environment is a human right?",
+      "answer": "It is argued that a secure environment is a human right because a clean, healthy, and sustainable environment is fundamental to the enjoyment of almost all other human rights. The rights to life, health, food, water, and an adequate standard of living cannot be achieved in a degraded environment plagued by pollution, climate change, and resource depletion. Environmental harm disproportionately affects the poor and vulnerable, violating principles of equality. Recognizing a safe environment as a human right obligates states to protect it, provides a legal basis for holding polluters accountable, and empowers communities to advocate for environmental justice, linking ecological well-being directly to human dignity and survival."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Analyze the statement: 'Terrorism is a problem that no nation can solve alone.'",
+      "answer": "The statement is accurate because terrorism is inherently transnational. Terrorist networks operate across borders, raising funds, recruiting members, and planning attacks internationally. Their ideologies and online propaganda spread globally. A crackdown in one country can simply displace activities to another. Therefore, intelligence sharing, joint investigations, coordinated financial tracking, and extradition agreements are essential. Military or police action by one nation is insufficient if safe havens exist elsewhere. Combating terrorism requires a unified global strategy, strong international legal frameworks, and cooperation between security agencies worldwide to dismantle networks, counter extremist narratives, and address root causes like political instability and inequality."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What lessons can be learned from the international response to the Syrian refugee crisis?",
+      "answer": "The Syrian refugee crisis highlighted both failures and lessons for the international community. It showed the devastating human cost when political solutions to conflict fail. It exposed the limitations of the existing refugee protection system, with a disproportionate burden falling on neighboring countries like Turkey, Lebanon, and Jordan, while many wealthier nations were reluctant to offer resettlement. The crisis underscored the need for more equitable responsibility-sharing, increased and predictable funding for humanitarian agencies like UNHCR, and long-term development support for host communities. It also reinforced the importance of addressing root causes—conflict and instability—through diplomacy and peacebuilding to prevent such large-scale displacement."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How can technology be both a cause of and a solution to international problems like environmental degradation and terrorism?",
+      "answer": "Technology is a double-edged sword. It causes environmental degradation through polluting industries, resource-intensive manufacturing, and fossil fuel-based energy systems. It aids terrorism through encrypted communication, online radicalization, and drone technology. However, technology also offers critical solutions. For the environment, renewable energy tech (solar, wind), energy efficiency, pollution control systems, and satellite monitoring are vital. To counter terrorism, surveillance technology, cybersecurity tools, data analytics for tracking financing, and platforms to counter online extremism are essential. The challenge lies in governing and directing technological innovation towards sustainable and peaceful ends while mitigating its harmful applications."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize how the study of international problems like human rights, environment, and terrorism leads us to the conclusion that global cooperation is not a choice but a necessity.",
+      "answer": "The study of international problems reveals their interconnected and borderless nature. Human rights violations in one country can create refugee flows that strain others. Environmental damage (like climate change) caused by some nations impacts agriculture, sea levels, and weather patterns globally, threatening lives and livelihoods everywhere. Terrorism exploits global networks and threatens international peace. No single nation, regardless of its power, can unilaterally solve these issues. Their scale and complexity demand shared responsibility, pooled resources, and coordinated action. Therefore, global cooperation through international law, institutions like the UN, and multilateral treaties is not merely an idealistic choice but an absolute necessity for survival, security, and justice in the modern world."
+    }
+  ]
+}

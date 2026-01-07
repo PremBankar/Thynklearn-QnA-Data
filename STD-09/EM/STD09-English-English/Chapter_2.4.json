@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.2.4",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Fall of Troy"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT one of the two great epics of European literature mentioned in the passage?",
+      "options": [
+        { "option_id": 1, "text": "The Iliad", "is_correct": false },
+        { "option_id": 2, "text": "The Odyssey", "is_correct": false },
+        { "option_id": 3, "text": "The Aeneid", "is_correct": true },
+        { "option_id": 4, "text": "Both A and B are mentioned", "is_correct": false }
+      ],
+      "answer": "The Aeneid"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is believed to have composed 'The Iliad' and 'The Odyssey'?",
+      "options": [
+        { "option_id": 1, "text": "Virgil", "is_correct": false },
+        { "option_id": 2, "text": "Socrates", "is_correct": false },
+        { "option_id": 3, "text": "Homer", "is_correct": true },
+        { "option_id": 4, "text": "Odysseus", "is_correct": false }
+      ],
+      "answer": "Homer"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What was the primary cause of the ten-year war between the Greeks and Trojans?",
+      "options": [
+        { "option_id": 1, "text": "Trade disputes over grain", "is_correct": false },
+        { "option_id": 2, "text": "The elopement of Helen with Paris", "is_correct": true },
+        { "option_id": 3, "text": "A Greek invasion for Troy's riches", "is_correct": false },
+        { "option_id": 4, "text": "Religious differences", "is_correct": false }
+      ],
+      "answer": "The elopement of Helen with Paris"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How was the city of Troy protected during wartime?",
+      "options": [
+        { "option_id": 1, "text": "By its location on an island", "is_correct": false },
+        { "option_id": 2, "text": "By a deep moat filled with water", "is_correct": false },
+        { "option_id": 3, "text": "By a strong, broad wall and its gates", "is_correct": true },
+        { "option_id": 4, "text": "By a magical force field", "is_correct": false }
+      ],
+      "answer": "By a strong, broad wall and its gates"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which Greek hero was killed by a poisoned arrow in his heel?",
+      "options": [
+        { "option_id": 1, "text": "Hector", "is_correct": false },
+        { "option_id": 2, "text": "Odysseus", "is_correct": false },
+        { "option_id": 3, "text": "Achilles", "is_correct": true },
+        { "option_id": 4, "text": "Agamemnon", "is_correct": false }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was Odysseus's plan to finally capture Troy?",
+      "options": [
+        { "option_id": 1, "text": "To dig a tunnel under the walls", "is_correct": false },
+        { "option_id": 2, "text": "To build a huge wooden horse as a trick", "is_correct": true },
+        { "option_id": 3, "text": "To poison the Trojan water supply", "is_correct": false },
+        { "option_id": 4, "text": "To bribe the Trojan guards", "is_correct": false }
+      ],
+      "answer": "To build a huge wooden horse as a trick"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How did the Greek ships remain hidden before their final attack?",
+      "options": [
+        { "option_id": 1, "text": "They were painted black", "is_correct": false },
+        { "option_id": 2, "text": "They sailed far across the sea", "is_correct": false },
+        { "option_id": 3, "text": "They hid behind an island and waited for night", "is_correct": true },
+        { "option_id": 4, "text": "They used a magic cloak of invisibility", "is_correct": false }
+      ],
+      "answer": "They hid behind an island and waited for night"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did the Trojans do to bring the wooden horse into the city?",
+      "options": [
+        { "option_id": 1, "text": "They pulled it through the main gate", "is_correct": false },
+        { "option_id": 2, "text": "They used a giant crane", "is_correct": false },
+        { "option_id": 3, "text": "They broke down part of their own wall", "is_correct": true },
+        { "option_id": 4, "text": "They dismantled it and reassembled it inside", "is_correct": false }
+      ],
+      "answer": "They broke down part of their own wall"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What was Helen's fate at the end of the war?",
+      "options": [
+        { "option_id": 1, "text": "She was killed by Menelaus", "is_correct": false },
+        { "option_id": 2, "text": "She became a slave", "is_correct": false },
+        { "option_id": 3, "text": "She was forgiven by Menelaus and taken back", "is_correct": true },
+        { "option_id": 4, "text": "She escaped with another Trojan prince", "is_correct": false }
+      ],
+      "answer": "She was forgiven by Menelaus and taken back"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "According to the passage, who was known as the 'Father of European Poetry'?",
+      "options": [
+        { "option_id": 1, "text": "Sophocles", "is_correct": false },
+        { "option_id": 2, "text": "Homer", "is_correct": true },
+        { "option_id": 3, "text": "Hesiod", "is_correct": false },
+        { "option_id": 4, "text": "Virgil", "is_correct": false }
+      ],
+      "answer": "Homer"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Name the two great Sanskrit epics mentioned in the text.",
+      "answer": "The Ramayana and The Mahabharata."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What is an epic?",
+      "answer": "An epic is a long poem that relates the deeds of a great national hero or a great national war."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "How were epics like The Iliad transmitted before being written down?",
+      "answer": "They were composed and sung or recited by wandering poets for many years before being written down."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "Which mountain is mentioned as being at the back of Troy?",
+      "answer": "Mount Ida."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "Who led the defence of Troy for nine years?",
+      "answer": "Hector."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Why did the Greeks pretend to sail away?",
+      "answer": "To trick the Trojans into thinking the siege was over and to make them bring the wooden horse into the city."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What false tale did the captured Greek man tell the Trojans?",
+      "answer": "He said the horse was an offering to the sea-god from the Greeks, who were afraid of the long voyage home."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What was the signal for the Greeks inside the horse to come out?",
+      "answer": "A red light on the mast of Agamemnon's ship."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What happened to King Priam and his sons?",
+      "answer": "They were killed when the Greeks sacked the city."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the 'Dramatic Present Tense' as defined in the workshop?",
+      "answer": "It is when an event that occurred in the past is narrated in the Present Tense to create a dramatic effect."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What was the location of Troy advantageous for?",
+      "answer": "For both commerce and agriculture."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Who warned the Trojans not to bring the wooden horse into the city?",
+      "answer": "A wise priest."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "How long did the siege of Troy last?",
+      "answer": "Ten years."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Who was Helen's original husband?",
+      "answer": "Menelaus, a Greek king."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What was the fate of Hector's family after the fall of Troy?",
+      "answer": "His wife, mother, and sister were carried off as slaves."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Building a Story' group activity in the Warming Up section?",
+      "answer": "To collaboratively create a coherent story from disjointed sentences and then improve it, fostering teamwork and narrative skills."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "In the interview activity, what is the condition for the questions in part (a)?",
+      "answer": "All questions must begin with 'Why...?'"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What type of clause is 'who lived about 900 BCE' in the sentence about Homer?",
+      "answer": "It is a dependent (or subordinate) clause."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Find an antonym for 'barren' from the passage.",
+      "answer": "Fertile."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the word 'eloped' mean in the context of the story?",
+      "answer": "To run away secretly to get married."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Explain how the geographical location of Troy contributed to its wealth and prosperity before the war.",
+      "answer": "Troy was a rich trading city in Asia Minor, strategically situated near the narrow sea leading from the Aegean to the Black Sea. This made it ideal for commerce, as ships could easily carry goods and grain. At its back rose Mount Ida, with many flowing rivers and streams that provided water. The valleys were well-watered and fertile, allowing corn to grow in fields and cattle to feed on rich meadows, while sheep grazed on the hillsides. This combination of a prime location for sea trade and fertile land for agriculture made Troy a very prosperous city."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Describe the initial 'Warming up!' activity 'Building a Story'. What skills does it aim to develop in students?",
+      "answer": "In the 'Building a Story' activity, students form groups of eight. The leader prepares slips with the beginnings of seven sentences (e.g., 'Once there was a...'). Each member completes one sentence without sharing it. The leader then reads all sentences as one continuous passage. The group then works together to make the disjointed story more meaningful and interesting. This activity aims to develop collaborative skills, creative thinking, narrative coherence, and the ability to edit and improve a written text. It emphasizes the unpredictable nature of collaborative creation and the importance of revision."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "What role did Homer play in the preservation of Greek epics, and why is he significant?",
+      "answer": "Homer is believed to be a blind poet who lived around 900 BCE. He is credited with composing and reciting 'The Iliad' and 'The Odyssey'. He wandered from city to village, singing his poems to audiences who provided him hospitality. In this oral tradition, he was crucial in preserving, shaping, and transmitting these stories. He is honored as the 'Father of European Poetry' because his epics laid the foundation for Western literature, providing timeless narratives about heroism, war, and human nature that have influenced countless writers and artists for centuries."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Analyze the character of Odysseus as depicted in Part II. What qualities does he display in planning the fall of Troy?",
+      "answer": "In Part II, Odysseus is depicted as exceptionally cunning, strategic, and intelligent. Instead of relying on continued brute force, he devises a clever trick—the Trojan Horse. This plan shows his understanding of psychology, as he anticipates the Trojans' exhaustion and their potential to let down their guard. The plan's complexity, involving a decoy retreat, a constructed offering, and hidden soldiers, highlights his meticulousness and leadership. Odysseus embodies the archetype of the clever hero who wins through wit and deception rather than sheer strength, a key theme in many epics."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "Summarize the key events that led to the final fall of Troy as described in Part II.",
+      "answer": "The fall of Troy was achieved through a trick. The Greeks, on Odysseus's advice, built a giant wooden horse to hide their best warriors. They then burned their tents and pretended to sail away, hiding their ships behind a nearby island. A single Greek was left behind to deceive the Trojans. The Trojans, believing the war was over, celebrated and dragged the horse into the city by breaking part of their own wall, ignoring their priest's warning. After the Trojans fell asleep, the Greek fleet returned. The hidden warriors emerged from the horse, opened the city gates, and signaled the army. The Greeks entered, set fire to the city, and killed its defenders, leading to the complete destruction of Troy."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "What was the fatal mistake made by the Trojans, and how could the fall of Troy have been avoided according to the text?",
+      "answer": "The Trojans' fatal mistake was acting on impulse and excitement rather than reason and caution. They trusted the deceptive story of the lone Greek and brought the giant wooden horse into their city, even breaking their own protective wall to do so. They ignored the wise warning of their priest. The fall could have been avoided if they had been more skeptical, investigated the 'gift' thoroughly, or simply left the horse outside their walls. Their desire for peace after ten long years clouded their judgment, making them vulnerable to the Greek trick. Prudence and adherence to their own defensive principles would have saved the city."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "Compare and contrast the fates of Helen and Hector's family after the fall of Troy. What does this contrast reveal?",
+      "answer": "After Troy's fall, Helen was found by her former husband, Menelaus. She was ashamed and sorrowful, but Menelaus forgave her, and she returned with him to Greece. In contrast, Hector's wife, mother, and sister were carried off as slaves by the Greek conquerors. This stark contrast reveals the different values and social positions at play. Helen, whose beauty was the war's cause, was seen as a prize to be reclaimed and forgiven, perhaps due to her status and the divine influence (Aphrodite) blamed for her actions. Hector's family, as members of the defeated Trojan royalty with no such divine 'excuse', suffered the brutal, typical fate of women in a sacked city—enslavement—highlighting the harsh realities of war beyond the main heroes."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'counter-action' as asked in the workshop. Provide one example from the story.",
+      "answer": "A 'counter-action' is a response or reaction to an initial action. It is the consequence or retaliation that follows an event. In the workshop, students are asked to state the counter-action for given actions from the story. For example, for the action 'Helen eloped with Paris,' the counter-action was 'The Greeks sailed to Troy and attacked it.' This exercise helps in understanding the cause-and-effect chain of events that drives the narrative of the epic war."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "What is the purpose of the 'Interviews' activity in the Warming Up section, and how do the 'Why?' and 'How?' variations differ?",
+      "answer": "The 'Interviews' activity aims to develop questioning skills, perspective-taking, and creative thinking. Students choose a character from an epic, and one plays the role while others interview them. The 'Why?' variation forces interviewers to probe motivations, reasons, and justifications behind the character's actions (e.g., 'Why did you leave your home?'). The 'How?' variation focuses on processes, methods, and experiences (e.g., 'How did you plan your escape?'). This difference helps students explore different dimensions of a character: 'Why' delves into psychology and cause, while 'How' explores action and procedure. Both culminate in scriptwriting, integrating language and performance skills."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "Based on the entire chapter, what lessons about war, strategy, and human nature can be drawn from the story of the Fall of Troy?",
+      "answer": "The story of Troy offers several enduring lessons: 1) **The Cost of War**: Even a ten-year conflict stemming from a personal grievance causes immense suffering, death, and destruction for both sides. 2) **Cunning over Brute Force**: The war was ultimately won not by prolonged siege but by clever deception (the Trojan Horse), highlighting the value of strategy and intelligence. 3) **Hubris and Complacency**: The Trojans' overconfidence and desire for quick peace led them to drop their guard and ignore wise counsel, resulting in disaster. 4) **The Fickleness of Fortune**: A rich, strong city can be utterly destroyed in a single night. 5) **Complex Morality**: Characters like Helen are portrayed with complexity, showing how actions can be influenced by external forces (gods) and that forgiveness is possible. The story warns against reckless passion and celebrates strategic wisdom."
+    }
+  ]
+}

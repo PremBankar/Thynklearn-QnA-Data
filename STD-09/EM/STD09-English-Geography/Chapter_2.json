@@ -1,0 +1,1529 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.02",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Endogenetic Movements"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are endogenetic movements?",
+      "options": [
+        { "option_id": 1, "text": "Movements caused by rivers", "is_correct": false },
+        { "option_id": 2, "text": "Movements originating inside the Earth", "is_correct": true },
+        { "option_id": 3, "text": "Movements caused by wind", "is_correct": false },
+        { "option_id": 4, "text": "Movements on the Earth’s surface", "is_correct": false }
+      ],
+      "answer": "Movements originating inside the Earth"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which energy causes endogenetic movements?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Wind energy", "is_correct": false },
+        { "option_id": 3, "text": "Internal heat energy", "is_correct": true },
+        { "option_id": 4, "text": "Gravitational energy", "is_correct": false }
+      ],
+      "answer": "Internal heat energy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which type of endogenetic movement occurs very slowly?",
+      "options": [
+        { "option_id": 1, "text": "Sudden movements", "is_correct": false },
+        { "option_id": 2, "text": "Slow movements", "is_correct": true },
+        { "option_id": 3, "text": "Volcanic eruptions", "is_correct": false },
+        { "option_id": 4, "text": "Earthquakes", "is_correct": false }
+      ],
+      "answer": "Slow movements"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is a slow endogenetic movement?",
+      "options": [
+        { "option_id": 1, "text": "Earthquake", "is_correct": false },
+        { "option_id": 2, "text": "Volcanic eruption", "is_correct": false },
+        { "option_id": 3, "text": "Folding", "is_correct": true },
+        { "option_id": 4, "text": "Tsunami", "is_correct": false }
+      ],
+      "answer": "Folding"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which landform is created due to folding?",
+      "options": [
+        { "option_id": 1, "text": "Plateau", "is_correct": false },
+        { "option_id": 2, "text": "Fold mountains", "is_correct": true },
+        { "option_id": 3, "text": "Rift valley", "is_correct": false },
+        { "option_id": 4, "text": "Delta", "is_correct": false }
+      ],
+      "answer": "Fold mountains"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which force causes folding?",
+      "options": [
+        { "option_id": 1, "text": "Tensile force", "is_correct": false },
+        { "option_id": 2, "text": "Compressional force", "is_correct": true },
+        { "option_id": 3, "text": "Gravitational force", "is_correct": false },
+        { "option_id": 4, "text": "Centrifugal force", "is_correct": false }
+      ],
+      "answer": "Compressional force"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which mountains are formed due to folding?",
+      "options": [
+        { "option_id": 1, "text": "Aravalli", "is_correct": false },
+        { "option_id": 2, "text": "Himalayas", "is_correct": true },
+        { "option_id": 3, "text": "Western Ghats", "is_correct": false },
+        { "option_id": 4, "text": "Nilgiris", "is_correct": false }
+      ],
+      "answer": "Himalayas"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is faulting?",
+      "options": [
+        { "option_id": 1, "text": "Bending of rocks", "is_correct": false },
+        { "option_id": 2, "text": "Breaking of rocks due to tension", "is_correct": true },
+        { "option_id": 3, "text": "Weathering of rocks", "is_correct": false },
+        { "option_id": 4, "text": "Deposition of sediments", "is_correct": false }
+      ],
+      "answer": "Breaking of rocks due to tension"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which force causes faulting?",
+      "options": [
+        { "option_id": 1, "text": "Compressional force", "is_correct": false },
+        { "option_id": 2, "text": "Tensile force", "is_correct": true },
+        { "option_id": 3, "text": "Magnetic force", "is_correct": false },
+        { "option_id": 4, "text": "Solar force", "is_correct": false }
+      ],
+      "answer": "Tensile force"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which landform is formed due to faulting?",
+      "options": [
+        { "option_id": 1, "text": "Fold mountain", "is_correct": false },
+        { "option_id": 2, "text": "Block mountain", "is_correct": true },
+        { "option_id": 3, "text": "Delta", "is_correct": false },
+        { "option_id": 4, "text": "Sand dune", "is_correct": false }
+      ],
+      "answer": "Block mountain"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is a rift valley?",
+      "options": [
+        { "option_id": 1, "text": "Raised land between faults", "is_correct": false },
+        { "option_id": 2, "text": "Depressed land between faults", "is_correct": true },
+        { "option_id": 3, "text": "Mountain peak", "is_correct": false },
+        { "option_id": 4, "text": "River valley", "is_correct": false }
+      ],
+      "answer": "Depressed land between faults"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which is an example of a rift valley?",
+      "options": [
+        { "option_id": 1, "text": "Narmada Valley", "is_correct": true },
+        { "option_id": 2, "text": "Ganga Valley", "is_correct": false },
+        { "option_id": 3, "text": "Brahmaputra Valley", "is_correct": false },
+        { "option_id": 4, "text": "Godavari Delta", "is_correct": false }
+      ],
+      "answer": "Narmada Valley"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which movements are responsible for earthquakes?",
+      "options": [
+        { "option_id": 1, "text": "Slow movements", "is_correct": false },
+        { "option_id": 2, "text": "Sudden movements", "is_correct": true },
+        { "option_id": 3, "text": "Weathering", "is_correct": false },
+        { "option_id": 4, "text": "Erosion", "is_correct": false }
+      ],
+      "answer": "Sudden movements"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the focus of an earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Point on Earth’s surface", "is_correct": false },
+        { "option_id": 2, "text": "Point inside Earth where earthquake originates", "is_correct": true },
+        { "option_id": 3, "text": "Epicentre", "is_correct": false },
+        { "option_id": 4, "text": "Seismic station", "is_correct": false }
+      ],
+      "answer": "Point inside Earth where earthquake originates"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the epicentre?",
+      "options": [
+        { "option_id": 1, "text": "Origin of earthquake inside Earth", "is_correct": false },
+        { "option_id": 2, "text": "Point directly above the focus", "is_correct": true },
+        { "option_id": 3, "text": "Fault line", "is_correct": false },
+        { "option_id": 4, "text": "Seismic wave", "is_correct": false }
+      ],
+      "answer": "Point directly above the focus"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which waves cause maximum destruction?",
+      "options": [
+        { "option_id": 1, "text": "P waves", "is_correct": false },
+        { "option_id": 2, "text": "S waves", "is_correct": false },
+        { "option_id": 3, "text": "Surface waves", "is_correct": true },
+        { "option_id": 4, "text": "Sound waves", "is_correct": false }
+      ],
+      "answer": "Surface waves"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which instrument records earthquakes?",
+      "options": [
+        { "option_id": 1, "text": "Barometer", "is_correct": false },
+        { "option_id": 2, "text": "Thermometer", "is_correct": false },
+        { "option_id": 3, "text": "Seismograph", "is_correct": true },
+        { "option_id": 4, "text": "Altimeter", "is_correct": false }
+      ],
+      "answer": "Seismograph"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which scale measures earthquake intensity?",
+      "options": [
+        { "option_id": 1, "text": "Richter scale", "is_correct": true },
+        { "option_id": 2, "text": "Celsius scale", "is_correct": false },
+        { "option_id": 3, "text": "Beaufort scale", "is_correct": false },
+        { "option_id": 4, "text": "Kelvin scale", "is_correct": false }
+      ],
+      "answer": "Richter scale"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which phenomenon may occur due to undersea earthquakes?",
+      "options": [
+        { "option_id": 1, "text": "Cyclone", "is_correct": false },
+        { "option_id": 2, "text": "Tsunami", "is_correct": true },
+        { "option_id": 3, "text": "Flood", "is_correct": false },
+        { "option_id": 4, "text": "Drought", "is_correct": false }
+      ],
+      "answer": "Tsunami"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which is a sudden endogenetic movement?",
+      "options": [
+        { "option_id": 1, "text": "Folding", "is_correct": false },
+        { "option_id": 2, "text": "Faulting", "is_correct": false },
+        { "option_id": 3, "text": "Earthquake", "is_correct": true },
+        { "option_id": 4, "text": "Upliftment", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What causes volcanic eruptions?",
+      "options": [
+        { "option_id": 1, "text": "Pressure of magma", "is_correct": true },
+        { "option_id": 2, "text": "Wind pressure", "is_correct": false },
+        { "option_id": 3, "text": "Rainfall", "is_correct": false },
+        { "option_id": 4, "text": "River erosion", "is_correct": false }
+      ],
+      "answer": "Pressure of magma"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is magma called when it reaches the surface?",
+      "options": [
+        { "option_id": 1, "text": "Magma", "is_correct": false },
+        { "option_id": 2, "text": "Lava", "is_correct": true },
+        { "option_id": 3, "text": "Basalt", "is_correct": false },
+        { "option_id": 4, "text": "Ash", "is_correct": false }
+      ],
+      "answer": "Lava"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which type of volcano erupts frequently?",
+      "options": [
+        { "option_id": 1, "text": "Extinct", "is_correct": false },
+        { "option_id": 2, "text": "Dormant", "is_correct": false },
+        { "option_id": 3, "text": "Active", "is_correct": true },
+        { "option_id": 4, "text": "Dead", "is_correct": false }
+      ],
+      "answer": "Active"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which volcano has not erupted for a long time but may erupt again?",
+      "options": [
+        { "option_id": 1, "text": "Active", "is_correct": false },
+        { "option_id": 2, "text": "Dormant", "is_correct": true },
+        { "option_id": 3, "text": "Extinct", "is_correct": false },
+        { "option_id": 4, "text": "Shield", "is_correct": false }
+      ],
+      "answer": "Dormant"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which volcano will never erupt again?",
+      "options": [
+        { "option_id": 1, "text": "Active", "is_correct": false },
+        { "option_id": 2, "text": "Dormant", "is_correct": false },
+        { "option_id": 3, "text": "Extinct", "is_correct": true },
+        { "option_id": 4, "text": "Composite", "is_correct": false }
+      ],
+      "answer": "Extinct"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which layer of the Earth is the source of magma?",
+      "options": [
+        { "option_id": 1, "text": "Crust", "is_correct": false },
+        { "option_id": 2, "text": "Mantle", "is_correct": true },
+        { "option_id": 3, "text": "Outer core", "is_correct": false },
+        { "option_id": 4, "text": "Inner core", "is_correct": false }
+      ],
+      "answer": "Mantle"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of the following is an effect of volcanoes?",
+      "options": [
+        { "option_id": 1, "text": "Formation of fertile soil", "is_correct": true },
+        { "option_id": 2, "text": "Decrease in temperature permanently", "is_correct": false },
+        { "option_id": 3, "text": "Formation of rivers", "is_correct": false },
+        { "option_id": 4, "text": "Only destruction", "is_correct": false }
+      ],
+      "answer": "Formation of fertile soil"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which plate boundary causes folding?",
+      "options": [
+        { "option_id": 1, "text": "Divergent boundary", "is_correct": false },
+        { "option_id": 2, "text": "Convergent boundary", "is_correct": true },
+        { "option_id": 3, "text": "Transform boundary", "is_correct": false },
+        { "option_id": 4, "text": "Passive boundary", "is_correct": false }
+      ],
+      "answer": "Convergent boundary"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which plate boundary leads to rift valley formation?",
+      "options": [
+        { "option_id": 1, "text": "Convergent", "is_correct": false },
+        { "option_id": 2, "text": "Divergent", "is_correct": true },
+        { "option_id": 3, "text": "Transform", "is_correct": false },
+        { "option_id": 4, "text": "Collision", "is_correct": false }
+      ],
+      "answer": "Divergent"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which endogenetic movement is responsible for plate tectonics?",
+      "options": [
+        { "option_id": 1, "text": "External movements", "is_correct": false },
+        { "option_id": 2, "text": "Internal movements", "is_correct": true },
+        { "option_id": 3, "text": "Erosional movements", "is_correct": false },
+        { "option_id": 4, "text": "Depositional movements", "is_correct": false }
+      ],
+      "answer": "Internal movements"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which landform is formed when a block of land moves upward?",
+      "options": [
+        { "option_id": 1, "text": "Rift valley", "is_correct": false },
+        { "option_id": 2, "text": "Block mountain", "is_correct": true },
+        { "option_id": 3, "text": "Delta", "is_correct": false },
+        { "option_id": 4, "text": "Fold mountain", "is_correct": false }
+      ],
+      "answer": "Block mountain"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which landform is formed when land subsides between faults?",
+      "options": [
+        { "option_id": 1, "text": "Block mountain", "is_correct": false },
+        { "option_id": 2, "text": "Plateau", "is_correct": false },
+        { "option_id": 3, "text": "Rift valley", "is_correct": true },
+        { "option_id": 4, "text": "Plain", "is_correct": false }
+      ],
+      "answer": "Rift valley"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which waves travel fastest during an earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Surface waves", "is_correct": false },
+        { "option_id": 2, "text": "S waves", "is_correct": false },
+        { "option_id": 3, "text": "P waves", "is_correct": true },
+        { "option_id": 4, "text": "T waves", "is_correct": false }
+      ],
+      "answer": "P waves"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which waves cannot travel through liquids?",
+      "options": [
+        { "option_id": 1, "text": "P waves", "is_correct": false },
+        { "option_id": 2, "text": "S waves", "is_correct": true },
+        { "option_id": 3, "text": "Surface waves", "is_correct": false },
+        { "option_id": 4, "text": "Rayleigh waves", "is_correct": false }
+      ],
+      "answer": "S waves"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which natural disaster is directly related to plate boundaries?",
+      "options": [
+        { "option_id": 1, "text": "Flood", "is_correct": false },
+        { "option_id": 2, "text": "Earthquake", "is_correct": true },
+        { "option_id": 3, "text": "Cyclone", "is_correct": false },
+        { "option_id": 4, "text": "Drought", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which volcano type has broad, gently sloping sides?",
+      "options": [
+        { "option_id": 1, "text": "Composite volcano", "is_correct": false },
+        { "option_id": 2, "text": "Shield volcano", "is_correct": true },
+        { "option_id": 3, "text": "Cinder cone", "is_correct": false },
+        { "option_id": 4, "text": "Caldera", "is_correct": false }
+      ],
+      "answer": "Shield volcano"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which of the following is a constructive effect of volcanoes?",
+      "options": [
+        { "option_id": 1, "text": "Loss of life", "is_correct": false },
+        { "option_id": 2, "text": "Destruction of property", "is_correct": false },
+        { "option_id": 3, "text": "Formation of new land", "is_correct": true },
+        { "option_id": 4, "text": "Air pollution", "is_correct": false }
+      ],
+      "answer": "Formation of new land"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which plate movement causes earthquakes along transform boundaries?",
+      "options": [
+        { "option_id": 1, "text": "Plates moving apart", "is_correct": false },
+        { "option_id": 2, "text": "Plates sliding past each other", "is_correct": true },
+        { "option_id": 3, "text": "Plates colliding", "is_correct": false },
+        { "option_id": 4, "text": "Plates sinking", "is_correct": false }
+      ],
+      "answer": "Plates sliding past each other"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which Indian region is earthquake-prone?",
+      "options": [
+        { "option_id": 1, "text": "Deccan Plateau", "is_correct": false },
+        { "option_id": 2, "text": "Himalayan region", "is_correct": true },
+        { "option_id": 3, "text": "Coastal plains", "is_correct": false },
+        { "option_id": 4, "text": "Thar Desert", "is_correct": false }
+      ],
+      "answer": "Himalayan region"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which phenomenon releases energy suddenly?",
+      "options": [
+        { "option_id": 1, "text": "Folding", "is_correct": false },
+        { "option_id": 2, "text": "Faulting", "is_correct": false },
+        { "option_id": 3, "text": "Earthquake", "is_correct": true },
+        { "option_id": 4, "text": "Upliftment", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which internal movement forms plateaus?",
+      "options": [
+        { "option_id": 1, "text": "Upliftment", "is_correct": true },
+        { "option_id": 2, "text": "Subsidence", "is_correct": false },
+        { "option_id": 3, "text": "Volcanism", "is_correct": false },
+        { "option_id": 4, "text": "Erosion", "is_correct": false }
+      ],
+      "answer": "Upliftment"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which movement causes cracks in the Earth’s crust?",
+      "options": [
+        { "option_id": 1, "text": "Folding", "is_correct": false },
+        { "option_id": 2, "text": "Faulting", "is_correct": true },
+        { "option_id": 3, "text": "Weathering", "is_correct": false },
+        { "option_id": 4, "text": "Deposition", "is_correct": false }
+      ],
+      "answer": "Faulting"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which natural event can trigger landslides?",
+      "options": [
+        { "option_id": 1, "text": "Earthquake", "is_correct": true },
+        { "option_id": 2, "text": "Drought", "is_correct": false },
+        { "option_id": 3, "text": "Heat wave", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which layer of Earth is most affected by endogenetic movements?",
+      "options": [
+        { "option_id": 1, "text": "Crust", "is_correct": true },
+        { "option_id": 2, "text": "Mantle", "is_correct": false },
+        { "option_id": 3, "text": "Outer core", "is_correct": false },
+        { "option_id": 4, "text": "Inner core", "is_correct": false }
+      ],
+      "answer": "Crust"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which is a constructive effect of earthquakes?",
+      "options": [
+        { "option_id": 1, "text": "Loss of life", "is_correct": false },
+        { "option_id": 2, "text": "Formation of lakes", "is_correct": true },
+        { "option_id": 3, "text": "Destruction of buildings", "is_correct": false },
+        { "option_id": 4, "text": "Tsunami", "is_correct": false }
+      ],
+      "answer": "Formation of lakes"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which area is safest from earthquakes?",
+      "options": [
+        { "option_id": 1, "text": "Plate boundary areas", "is_correct": false },
+        { "option_id": 2, "text": "Stable shield areas", "is_correct": true },
+        { "option_id": 3, "text": "Fold mountain regions", "is_correct": false },
+        { "option_id": 4, "text": "Rift valleys", "is_correct": false }
+      ],
+      "answer": "Stable shield areas"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which natural disaster is linked to volcanic eruption?",
+      "options": [
+        { "option_id": 1, "text": "Cyclone", "is_correct": false },
+        { "option_id": 2, "text": "Ash fall", "is_correct": true },
+        { "option_id": 3, "text": "Flood", "is_correct": false },
+        { "option_id": 4, "text": "Drought", "is_correct": false }
+      ],
+      "answer": "Ash fall"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which force pulls rocks apart?",
+      "options": [
+        { "option_id": 1, "text": "Compressional force", "is_correct": false },
+        { "option_id": 2, "text": "Tensile force", "is_correct": true },
+        { "option_id": 3, "text": "Shearing force", "is_correct": false },
+        { "option_id": 4, "text": "Gravitational force", "is_correct": false }
+      ],
+      "answer": "Tensile force"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which plate movement forms fold mountains?",
+      "options": [
+        { "option_id": 1, "text": "Divergent movement", "is_correct": false },
+        { "option_id": 2, "text": "Convergent movement", "is_correct": true },
+        { "option_id": 3, "text": "Transform movement", "is_correct": false },
+        { "option_id": 4, "text": "Vertical movement", "is_correct": false }
+      ],
+      "answer": "Convergent movement"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which endogenetic movement changes Earth’s surface suddenly?",
+      "options": [
+        { "option_id": 1, "text": "Folding", "is_correct": false },
+        { "option_id": 2, "text": "Upliftment", "is_correct": false },
+        { "option_id": 3, "text": "Earthquake", "is_correct": true },
+        { "option_id": 4, "text": "Subsidence", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are endogenetic movements?",
+      "answer": "Endogenetic movements are internal movements originating inside the Earth due to internal heat energy."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the two types of endogenetic movements.",
+      "answer": "Slow movements and sudden movements."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is folding?",
+      "answer": "Folding is the bending of rock layers due to compressional forces."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is faulting?",
+      "answer": "Faulting is the breaking of rocks due to tensile forces."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are fold mountains?",
+      "answer": "Fold mountains are mountains formed due to folding of rock layers."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name one example of a fold mountain.",
+      "answer": "The Himalayas are an example of fold mountains."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is a block mountain?",
+      "answer": "A block mountain is formed when a block of land moves upward between faults."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a rift valley?",
+      "answer": "A rift valley is a depressed block of land between two faults."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one rift valley in India.",
+      "answer": "Narmada Valley is a rift valley in India."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is an earthquake?",
+      "answer": "An earthquake is a sudden shaking of the Earth’s crust due to release of energy."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the focus of an earthquake?",
+      "answer": "The focus is the point inside the Earth where an earthquake originates."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the epicentre of an earthquake?",
+      "answer": "The epicentre is the point on the Earth’s surface directly above the focus."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which instrument records earthquakes?",
+      "answer": "A seismograph records earthquakes."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name the scale used to measure earthquake intensity.",
+      "answer": "Richter scale is used to measure earthquake intensity."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are seismic waves?",
+      "answer": "Seismic waves are energy waves released during an earthquake."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which seismic waves cause maximum damage?",
+      "answer": "Surface waves cause maximum damage."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is a tsunami?",
+      "answer": "A tsunami is a series of large sea waves caused by undersea earthquakes."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is a volcano?",
+      "answer": "A volcano is an opening through which magma erupts onto the Earth’s surface."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is magma?",
+      "answer": "Magma is molten material present inside the Earth."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is lava?",
+      "answer": "Lava is magma that reaches the Earth’s surface."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Name the three types of volcanoes.",
+      "answer": "Active, dormant, and extinct volcanoes."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is an active volcano?",
+      "answer": "An active volcano erupts frequently."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is a dormant volcano?",
+      "answer": "A dormant volcano has not erupted for a long time but may erupt again."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is an extinct volcano?",
+      "answer": "An extinct volcano will never erupt again."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Name one constructive effect of volcanoes.",
+      "answer": "Volcanoes form fertile soil."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name one destructive effect of earthquakes.",
+      "answer": "Earthquakes cause loss of life and property."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which plate boundary causes folding?",
+      "answer": "Convergent plate boundary causes folding."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which plate boundary causes rift valleys?",
+      "answer": "Divergent plate boundary causes rift valleys."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is plate tectonics?",
+      "answer": "Plate tectonics is the movement of lithospheric plates."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which Indian region is earthquake-prone?",
+      "answer": "The Himalayan region is earthquake-prone."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is upliftment?",
+      "answer": "Upliftment is the vertical upward movement of the Earth’s crust."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is subsidence?",
+      "answer": "Subsidence is the sinking of the Earth’s crust."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which force causes folding?",
+      "answer": "Compressional force causes folding."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which force causes faulting?",
+      "answer": "Tensile force causes faulting."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which layer of Earth is affected most by endogenetic movements?",
+      "answer": "The Earth’s crust is most affected."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which waves travel fastest during an earthquake?",
+      "answer": "P waves travel fastest."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which waves cannot travel through liquids?",
+      "answer": "S waves cannot travel through liquids."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is ash fall?",
+      "answer": "Ash fall is the deposition of volcanic ash after an eruption."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Which areas are safest from earthquakes?",
+      "answer": "Stable shield areas are safest from earthquakes."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Which movement releases energy suddenly?",
+      "answer": "Sudden endogenetic movement releases energy suddenly."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Name one effect of earthquakes.",
+      "answer": "Earthquakes cause destruction of buildings."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Name one effect of volcanoes.",
+      "answer": "Volcanoes create fertile soil."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What causes cracks in the Earth’s crust?",
+      "answer": "Faulting causes cracks in the Earth’s crust."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Which disaster may cause landslides?",
+      "answer": "Earthquakes may cause landslides."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is internal heat?",
+      "answer": "Internal heat is heat energy present inside the Earth."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which plate movement causes earthquakes at transform boundaries?",
+      "answer": "Sliding of plates past each other causes earthquakes."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the role of magma pressure?",
+      "answer": "Magma pressure causes volcanic eruptions."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is a shield volcano?",
+      "answer": "A shield volcano has broad, gently sloping sides."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is a constructive effect of earthquakes?",
+      "answer": "Formation of lakes is a constructive effect."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why are endogenetic movements important?",
+      "answer": "They shape major landforms on Earth."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is meant by slow endogenetic movements?",
+      "answer": "Slow endogenetic movements are internal movements that occur gradually over a long period of time."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why are slow movements not easily noticeable?",
+      "answer": "They occur very slowly over thousands of years and hence are not easily noticed."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What type of rocks are mainly affected by folding?",
+      "answer": "Sedimentary rocks are mainly affected by folding."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which force bends rock layers?",
+      "answer": "Compressional force bends rock layers."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What happens to rocks during faulting?",
+      "answer": "Rocks break and move vertically or horizontally along faults."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why do block mountains have steep sides?",
+      "answer": "They are formed due to vertical displacement along faults."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which landform is formed due to subsidence?",
+      "answer": "Rift valley is formed due to subsidence."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why are earthquakes called sudden movements?",
+      "answer": "They release energy suddenly causing shaking of the Earth."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What causes seismic energy to be released?",
+      "answer": "Sudden movement of rocks along faults causes seismic energy release."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the importance of the epicentre?",
+      "answer": "Maximum damage occurs near the epicentre."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why do surface waves cause more damage?",
+      "answer": "They travel along the Earth’s surface with high amplitude."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which seismic waves are recorded first?",
+      "answer": "P waves are recorded first."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why can S waves not pass through liquids?",
+      "answer": "Liquids do not support shear motion."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is liquefaction?",
+      "answer": "Liquefaction is when saturated soil behaves like liquid during earthquakes."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why are coastal areas vulnerable to tsunamis?",
+      "answer": "They are affected by large sea waves caused by undersea earthquakes."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is volcanic vent?",
+      "answer": "A volcanic vent is an opening through which magma erupts."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why does magma rise to the surface?",
+      "answer": "Due to pressure and lower density compared to surrounding rocks."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is a lava plateau?",
+      "answer": "A lava plateau is formed by repeated volcanic eruptions spreading lava over large areas."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Which rock type is formed from lava?",
+      "answer": "Igneous rock is formed from lava."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why are volcanic soils fertile?",
+      "answer": "They are rich in minerals."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is a plate boundary?",
+      "answer": "A plate boundary is the edge where two tectonic plates meet."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Which boundary causes earthquakes without volcanism?",
+      "answer": "Transform boundary causes earthquakes without volcanism."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is the Himalayan region unstable?",
+      "answer": "It lies along an active convergent plate boundary."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is an earthquake zone?",
+      "answer": "An earthquake zone is an area prone to frequent earthquakes."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why should buildings be earthquake resistant?",
+      "answer": "To reduce loss of life and property during earthquakes."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is the Ring of Fire?",
+      "answer": "It is a zone of frequent earthquakes and volcanoes around the Pacific Ocean."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why do volcanoes often occur near plate boundaries?",
+      "answer": "Because magma escapes easily along weak zones."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Which movement creates new ocean floor?",
+      "answer": "Divergent plate movement creates new ocean floor."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is continental drift?",
+      "answer": "Continental drift is the movement of continents over geological time."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why are endogenetic movements important?",
+      "answer": "They are responsible for formation of major landforms."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Which landform is formed due to upliftment?",
+      "answer": "Plateau is formed due to upliftment."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is vertical movement of the crust called?",
+      "answer": "Vertical movement is called upliftment or subsidence."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Which process forms cracks in rocks?",
+      "answer": "Faulting forms cracks in rocks."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is an example of block mountain in India?",
+      "answer": "The Satpura range is an example of block mountain."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why do earthquakes occur suddenly?",
+      "answer": "Due to sudden release of accumulated energy."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is the role of internal heat?",
+      "answer": "Internal heat drives endogenetic movements."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Which natural hazard is linked to fault lines?",
+      "answer": "Earthquakes are linked to fault lines."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is a seismic zone?",
+      "answer": "A seismic zone is an area with frequent seismic activity."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why do rift valleys have steep sides?",
+      "answer": "They are formed due to faulting and subsidence."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Which movement causes folding of continents?",
+      "answer": "Convergent plate movement causes folding."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is an aftershock?",
+      "answer": "An aftershock is a smaller earthquake following a main shock."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why are earthquakes unpredictable?",
+      "answer": "Because exact release of underground stress cannot be predicted."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is a crater?",
+      "answer": "A crater is a bowl-shaped depression around a volcanic vent."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Which volcano type is most dangerous?",
+      "answer": "Composite volcanoes are most dangerous."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why do volcanic eruptions affect climate temporarily?",
+      "answer": "Ash and gases block sunlight."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is pyroclastic material?",
+      "answer": "It includes ash, lava fragments, and gases from volcanoes."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why are igneous rocks important?",
+      "answer": "They form the base of all other rocks."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Which endogenetic process creates new land?",
+      "answer": "Volcanism creates new land."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why are earthquakes dangerous?",
+      "answer": "They cause destruction of life and property."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the importance of studying endogenetic movements?",
+      "answer": "It helps understand landform formation and disasters."
+    },
+
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain endogenetic movements.",
+      "answer": "Endogenetic movements are movements originating inside the Earth due to internal heat energy. They are responsible for major changes in the Earth’s crust. These movements are classified into slow and sudden movements. Slow movements occur gradually and form features like fold mountains and plateaus. Sudden movements include earthquakes and volcanic eruptions. Endogenetic movements play a major role in shaping landforms."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain slow endogenetic movements with examples.",
+      "answer": "Slow endogenetic movements occur over a long period of time. They include processes like folding, faulting, upliftment, and subsidence. Folding forms fold mountains such as the Himalayas. Faulting leads to formation of block mountains and rift valleys. These movements gradually change the Earth’s surface. They are not easily noticeable."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain folding and its landforms.",
+      "answer": "Folding occurs due to compressional forces acting on sedimentary rocks. The rock layers bend without breaking. This process results in formation of fold mountains. Anticlines and synclines are formed during folding. The Himalayas are an example of fold mountains. Folding is a slow endogenetic movement."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain faulting and the landforms created by it.",
+      "answer": "Faulting occurs due to tensile forces acting on rocks. The rocks break and move along faults. Block mountains are formed when land moves upward. Rift valleys are formed when land subsides between faults. Faulting is a slow endogenetic movement. It creates steep-sided landforms."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain earthquakes.",
+      "answer": "An earthquake is a sudden shaking of the Earth’s crust. It occurs due to sudden release of energy along faults. The point of origin inside the Earth is called focus. The point directly above it is epicentre. Seismic waves spread energy in all directions. Earthquakes can cause great destruction."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain seismic waves.",
+      "answer": "Seismic waves are energy waves released during an earthquake. They include P waves, S waves, and surface waves. P waves travel fastest and pass through solids and liquids. S waves travel only through solids. Surface waves cause maximum damage. Seismic waves are recorded by seismographs."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain the causes of earthquakes.",
+      "answer": "Earthquakes are caused by sudden movement of rocks along fault lines. Accumulated stress inside the Earth is released suddenly. Plate movements are a major cause. Volcanic activity can also trigger earthquakes. Human activities like mining may cause minor earthquakes."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Explain the effects of earthquakes.",
+      "answer": "Earthquakes cause loss of life and property. Buildings and infrastructure are damaged. Landslides may occur in hilly areas. Tsunamis may occur due to undersea earthquakes. Sometimes lakes are formed due to crustal movement."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain volcanoes.",
+      "answer": "A volcano is an opening in the Earth’s crust through which magma erupts. Magma rises due to internal pressure. When it reaches the surface it is called lava. Volcanoes may be active, dormant, or extinct. They are associated with plate boundaries."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Explain types of volcanoes.",
+      "answer": "Volcanoes are classified as active, dormant, and extinct. Active volcanoes erupt frequently. Dormant volcanoes have not erupted for a long time but may erupt again. Extinct volcanoes will never erupt again. This classification is based on activity."
+    },
+
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain the constructive effects of volcanoes.",
+      "answer": "Volcanoes form fertile soil suitable for agriculture. They create new landforms and islands. Lava plateaus are formed due to repeated eruptions. Valuable minerals are found in volcanic regions. Hot springs and geothermal energy are also benefits."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain the destructive effects of volcanoes.",
+      "answer": "Volcanic eruptions cause loss of life and property. Lava destroys settlements and forests. Ash fall affects climate and agriculture. Toxic gases harm living beings. Air and water pollution also occur."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Explain plate tectonics.",
+      "answer": "Plate tectonics is the theory explaining movement of lithospheric plates. Plates float on the semi-molten asthenosphere. Their movement causes earthquakes, volcanoes, and mountain building. Plate boundaries are convergent, divergent, and transform. Plate tectonics explains major geological phenomena."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain convergent plate boundaries.",
+      "answer": "At convergent boundaries, plates move towards each other. Compression occurs at the boundary. Fold mountains are formed. Earthquakes and volcanoes may occur. The Himalayan mountains are formed due to convergence."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain divergent plate boundaries.",
+      "answer": "At divergent boundaries, plates move away from each other. Magma rises to fill the gap. New crust is formed. Rift valleys and mid-ocean ridges are formed. Volcanic activity is common."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain transform plate boundaries.",
+      "answer": "At transform boundaries, plates slide past each other. No new crust is formed or destroyed. Stress builds up along the boundary. Earthquakes occur frequently. Volcanism is absent."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain why the Himalayan region is earthquake-prone.",
+      "answer": "The Himalayan region lies along an active convergent boundary. The Indian plate is pushing against the Eurasian plate. Stress accumulates continuously. Sudden release causes earthquakes. Hence, the region is earthquake-prone."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain the Ring of Fire.",
+      "answer": "The Ring of Fire is a zone around the Pacific Ocean. It has frequent earthquakes and volcanoes. It lies along active plate boundaries. Many active volcanoes are located here. It is one of the most unstable regions."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain why earthquakes cannot be predicted accurately.",
+      "answer": "Stress accumulation inside the Earth cannot be measured precisely. Fault movements are complex. Earth’s interior cannot be observed directly. Hence, exact time and place of earthquakes cannot be predicted."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Explain the importance of earthquake-resistant construction.",
+      "answer": "Earthquake-resistant buildings reduce loss of life. They absorb seismic energy. Structural damage is minimized. Safety of people increases. Such construction is essential in seismic zones."
+    },
+
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain upliftment and subsidence.",
+      "answer": "Upliftment is the upward movement of the Earth’s crust. It forms plateaus and mountains. Subsidence is the downward sinking of the crust. It leads to formation of basins and rift valleys. Both are slow endogenetic movements."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain how endogenetic movements shape landforms.",
+      "answer": "Endogenetic movements create mountains, plateaus, and valleys. Folding and faulting shape major relief features. Earthquakes and volcanoes alter the surface suddenly. Plate movements form new land. Thus, landforms are shaped."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Explain why volcanoes are found near plate boundaries.",
+      "answer": "Plate boundaries are zones of weakness. Magma can easily rise through cracks. Convergent and divergent boundaries allow magma escape. Hence, volcanoes are common near boundaries."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain the causes of tsunamis.",
+      "answer": "Tsunamis are caused by undersea earthquakes. Sudden displacement of ocean floor generates waves. Volcanic eruptions and landslides may also cause tsunamis. These waves travel at high speed."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Explain the impact of earthquakes on human life.",
+      "answer": "Earthquakes cause death and injuries. Homes and infrastructure are destroyed. Economic losses occur. Psychological trauma affects people. Recovery takes long time."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain the role of internal heat in Earth’s movements.",
+      "answer": "Internal heat generates magma. It causes convection currents in mantle. These currents move tectonic plates. Endogenetic movements result from this heat. Earth’s surface is reshaped."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Explain why volcanic regions are densely populated.",
+      "answer": "Volcanic soils are fertile. Agriculture prospers. Minerals are available. Economic activities increase. Hence, people settle in volcanic regions despite risks."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Explain the difference between slow and sudden endogenetic movements.",
+      "answer": "Slow movements occur gradually over long periods. They form mountains and plateaus. Sudden movements occur abruptly. They cause earthquakes and volcanic eruptions. Both shape Earth differently."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain how plate tectonics explains earthquakes.",
+      "answer": "Plates move continuously. Stress accumulates at boundaries. Sudden release causes earthquakes. Transform boundaries are especially earthquake-prone. Plate tectonics explains seismic activity."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Explain how volcanic eruptions affect climate.",
+      "answer": "Ash and gases block sunlight. Temperature may decrease temporarily. Rainfall patterns may change. Climate effects are short-term but significant."
+    },
+
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain the importance of studying endogenetic movements.",
+      "answer": "They explain formation of landforms. They help understand disasters. Planning and safety improve. Resource distribution is understood. Geography becomes meaningful."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain how earthquakes cause secondary disasters.",
+      "answer": "Earthquakes trigger landslides and tsunamis. Fires may break out. Infrastructure collapse causes floods. These secondary disasters increase damage."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Explain the formation of rift valleys.",
+      "answer": "Tensile forces pull crust apart. Faults develop. Central block subsides. Steep-sided valley is formed. This valley is called rift valley."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Explain the formation of block mountains.",
+      "answer": "Faulting causes blocks of land to move vertically. Some blocks rise upward. These raised blocks form block mountains. They have steep sides."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain how folding forms mountains.",
+      "answer": "Compressional forces act on sedimentary rocks. Layers bend instead of breaking. Large folds develop. These folds rise to form mountains."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain why stable shield areas are less earthquake-prone.",
+      "answer": "They lie away from plate boundaries. Rocks are old and stable. Stress accumulation is minimal. Hence, earthquakes are rare."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain how seismographs work.",
+      "answer": "Seismographs record ground vibrations. A suspended mass remains still. Ground movement is recorded on a drum. Seismic waves are analysed."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Explain the causes of volcanic eruptions.",
+      "answer": "High temperature melts rocks. Magma forms under pressure. Cracks develop in crust. Magma erupts through vents. Volcanic eruption occurs."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain the role of faults in earthquakes.",
+      "answer": "Faults are cracks in Earth’s crust. Stress builds along faults. Sudden movement releases energy. Earthquakes occur along faults."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Explain why earthquakes cause more damage in cities.",
+      "answer": "High population density exists. Buildings are closely packed. Infrastructure is complex. Damage spreads quickly. Losses are greater."
+    },
+
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain how volcanic eruptions create new landforms.",
+      "answer": "Lava spreads and solidifies. New layers build up. Islands and plateaus form. Landforms are created over time."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain how earthquakes affect the economy.",
+      "answer": "Infrastructure is damaged. Industries stop functioning. Reconstruction costs are high. Economic growth slows down."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Explain the relationship between plate boundaries and volcanoes.",
+      "answer": "Volcanoes occur near plate boundaries. Magma escapes along weak zones. Convergent and divergent boundaries are active. Volcanism is common."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain the importance of disaster preparedness in seismic zones.",
+      "answer": "Preparedness reduces loss of life. Emergency response improves. Infrastructure safety increases. Recovery is faster."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Explain how internal forces differ from external forces.",
+      "answer": "Internal forces originate inside Earth. They build landforms. External forces act on surface. They wear down landforms."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain how earthquakes influence human settlement patterns.",
+      "answer": "People avoid risky areas. Construction methods change. Settlement density reduces. Planning becomes cautious."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Explain the long-term impact of volcanic eruptions.",
+      "answer": "Landforms change permanently. Soil fertility increases. New ecosystems develop. Climate may change temporarily."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Explain why endogenetic movements cannot be stopped.",
+      "answer": "They are driven by internal heat. Earth’s processes are continuous. Human control is impossible. Only mitigation is possible."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Explain how geography helps in understanding natural disasters.",
+      "answer": "Geography explains causes and effects. Risk zones are identified. Planning improves. Disaster management becomes effective."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Explain why studying endogenetic movements is essential.",
+      "answer": "They explain landform formation. They help disaster preparedness. Resource planning improves. Understanding Earth processes becomes complete."
+    }
+    ]
+}

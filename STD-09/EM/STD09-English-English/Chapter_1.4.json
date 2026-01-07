@@ -1,0 +1,251 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.1.4",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Have you thought of the verb ‘have’..."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "As a helping verb, 'have' is used to form which of the following?",
+      "options": [
+        { "option_id": 1, "text": "Continuous tenses", "is_correct": false },
+        { "option_id": 2, "text": "Future tenses", "is_correct": false },
+        { "option_id": 3, "text": "Perfect tenses", "is_correct": true },
+        { "option_id": 4, "text": "Simple tenses", "is_correct": false }
+      ],
+      "answer": "Perfect tenses"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In the sentence 'I have a headache', how is the verb 'have' used?",
+      "options": [
+        { "option_id": 1, "text": "As an auxiliary verb", "is_correct": false },
+        { "option_id": 2, "text": "To show possession", "is_correct": false },
+        { "option_id": 3, "text": "To refer to a medical condition", "is_correct": true },
+        { "option_id": 4, "text": "To refer to an event", "is_correct": false }
+      ],
+      "answer": "To refer to a medical condition"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following sentences correctly uses 'have' to indicate a relationship?",
+      "options": [
+        { "option_id": 1, "text": "He has a new bicycle.", "is_correct": false },
+        { "option_id": 2, "text": "I have two sisters.", "is_correct": true },
+        { "option_id": 3, "text": "They have breakfast at 7 am.", "is_correct": false },
+        { "option_id": 4, "text": "She has a meeting now.", "is_correct": false }
+      ],
+      "answer": "I have two sisters."
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sentence incorrectly uses the present continuous form of 'have' as a main verb?",
+      "options": [
+        { "option_id": 1, "text": "I am having a great time.", "is_correct": false },
+        { "option_id": 2, "text": "He is having a bath.", "is_correct": false },
+        { "option_id": 3, "text": "She is having a bicycle.", "is_correct": true },
+        { "option_id": 4, "text": "We are having a party.", "is_correct": false }
+      ],
+      "answer": "She is having a bicycle."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How is the negative form of the main verb 'have' typically constructed?",
+      "options": [
+        { "option_id": 1, "text": "By adding 'not' after 'have'.", "is_correct": false },
+        { "option_id": 2, "text": "By using the auxiliary 'do' + not + have.", "is_correct": true },
+        { "option_id": 3, "text": "By using 'have' + no.", "is_correct": false },
+        { "option_id": 4, "text": "By adding the prefix 'un-'.", "is_correct": false }
+      ],
+      "answer": "By using the auxiliary 'do' + not + have."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the verb 'have' indicate in the sentence 'The Municipality has six vans'?",
+      "options": [
+        { "option_id": 1, "text": "Relationship", "is_correct": false },
+        { "option_id": 2, "text": "Eating/Drinking", "is_correct": false },
+        { "option_id": 3, "text": "Possession/Ownership", "is_correct": true },
+        { "option_id": 4, "text": "An experience", "is_correct": false }
+      ],
+      "answer": "Possession/Ownership"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which sentence uses 'have' to refer to an event or activity?",
+      "options": [
+        { "option_id": 1, "text": "He has a good idea.", "is_correct": false },
+        { "option_id": 2, "text": "I have a cold.", "is_correct": false },
+        { "option_id": 3, "text": "Let's have a game of chess.", "is_correct": true },
+        { "option_id": 4, "text": "She has blue eyes.", "is_correct": false }
+      ],
+      "answer": "Let's have a game of chess."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Identify the function of 'have' in the sentence: 'Can I have a glass of water, please?'",
+      "options": [
+        { "option_id": 1, "text": "To indicate possession", "is_correct": false },
+        { "option_id": 2, "text": "To refer to eating/drinking", "is_correct": true },
+        { "option_id": 3, "text": "To show a relationship", "is_correct": false },
+        { "option_id": 4, "text": "To form a perfect tense", "is_correct": false }
+      ],
+      "answer": "To refer to eating/drinking"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why is the sentence 'He hasn't a car' considered incorrect?",
+      "options": [
+        { "option_id": 1, "text": "It uses the wrong pronoun.", "is_correct": false },
+        { "option_id": 2, "text": "It uses 'have' in the past tense.", "is_correct": false },
+        { "option_id": 3, "text": "It uses the negative form of 'have' as a main verb.", "is_correct": true },
+        { "option_id": 4, "text": "It should use 'got'.", "is_correct": false }
+      ],
+      "answer": "It uses the negative form of 'have' as a main verb."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following is a correct example of using 'have' as a helping verb?",
+      "options": [
+        { "option_id": 1, "text": "They have a big house.", "is_correct": false },
+        { "option_id": 2, "text": "They have come to visit.", "is_correct": true },
+        { "option_id": 3, "text": "We have lunch together.", "is_correct": false },
+        { "option_id": 4, "text": "I have a brother.", "is_correct": false }
+      ],
+      "answer": "They have come to visit."
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "List the two primary grammatical functions of the verb 'have' mentioned in the chapter.",
+      "answer": "The verb 'have' functions as an auxiliary (helping) verb and as a main verb."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What do we call the tenses formed using the helping verb 'have'?",
+      "answer": "They are called perfect tenses."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "Give one example from the chapter where 'have' indicates ownership.",
+      "answer": "'Our school has six computers.' is an example where 'have' indicates ownership."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "In which tense form should the main verb 'have' NOT be used according to the chapter?",
+      "answer": "The main verb 'have' should not be used in the present continuous tense."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What is the correct way to make the sentence 'I have a bicycle' negative?",
+      "answer": "The correct negative form is 'I don't have a bicycle.'"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What does the verb 'have' refer to in the sentence 'Grandfather had a heart attack'?",
+      "answer": "It refers to a medical or physical condition."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Name one context, other than possession, where 'have' is used as a main verb.",
+      "answer": "'Have' is used to refer to eating or drinking, for example, 'Have a slice of cake.'"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What must be added to form the negative of the main verb 'have'?",
+      "answer": "The auxiliary verb 'do' (doesn't/don't) must be added."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Provide an example from the chapter where 'have' refers to an experience.",
+      "answer": "'Did you have a good time at the wedding?' is an example where 'have' refers to an experience."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'ENGLISH WORKSHOP' activity mentioned at the end of the chapter?",
+      "answer": "The purpose is to practice and illustrate the various uses of the verb 'have' and to explore different uses of other listed verbs."
+    },
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "Explain the versatility of the verb 'have' by describing its various uses as a main verb with one example for each.",
+      "answer": "The verb 'have' is highly versatile as a main verb. It can indicate possession (e.g., I have a new pen), show relationships (e.g., I have two sisters), refer to eating or drinking (e.g., We have breakfast at 8 am), denote events, activities, or experiences (e.g., Let us have a party), and describe medical or physical conditions (e.g., I have a headache). This wide range of uses makes it a fundamental and frequently used verb in English."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "Differentiate between the use of 'have' as an auxiliary verb and as a main verb. Provide two examples for each.",
+      "answer": "As an auxiliary verb, 'have' helps to form perfect tenses (e.g., They have come) and negative sentences (e.g., They haven't come). It does not carry the main meaning but assists another verb. As a main verb, 'have' carries the core meaning of the sentence. It can express possession (e.g., My friend has a pet cat) or denote an activity (e.g., I have a meeting this evening). The auxiliary verb is used grammatically to show tense, while the main verb conveys the action or state."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "Why is it grammatically incorrect to say 'I am having a bicycle' or 'He is having a cold'? What is the correct form for such sentences?",
+      "answer": "It is incorrect because when 'have' functions as a main verb to show possession, relationship, or a permanent/characteristic state (like having a cold or a bicycle), it is not used in the present continuous tense. The present continuous is typically used for temporary actions happening now. The correct form for such sentences is the simple present: 'I have a bicycle' and 'He has a cold'. For temporary situations like 'having a bath' or 'having a party', the continuous form can be used."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "Describe the rule for forming negative sentences with 'have' as a main verb. Why can't we simply add 'not' after it?",
+      "answer": "To form a negative sentence with 'have' as a main verb, we must use the auxiliary verb 'do' (do/does/did) + 'not' + the base form 'have'. For example, 'He doesn't have a car' or 'I don't have a cold'. We cannot simply say 'He hasn't a car' because in modern English, the main verb 'have' (when not used as an auxiliary) typically requires the 'do'-support for negation in the simple present and past tenses. This grammatical rule helps maintain clarity and standard sentence structure, distinguishing it from its auxiliary function where 'not' is added directly (e.g., They have not come)."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "Summarize the key points of the chapter 'Have you thought of the verb 'have'...' in your own words.",
+      "answer": "The chapter highlights the verb 'have' as one of the most common and versatile verbs in English. It serves two key roles: as an auxiliary verb to form perfect tenses and negatives, and more broadly as a main verb with diverse meanings. As a main verb, 'have' can express possession, relationships, consumption of food/drink, participation in events/activities, and experiencing physical conditions. The chapter emphasizes important grammatical rules, such as avoiding the present continuous form for its main verb uses indicating possession or states, and correctly using the 'do' auxiliary for negation. It encourages observation and practice of these varied uses."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "How does the chapter suggest a learner can become more aware of the different uses of common verbs like 'have'?",
+      "answer": "The chapter suggests a practical, observational approach. First, it recommends keeping a count of how often 'have' is used in conversation or writing over a short period to realize its frequency. Second, it encourages active analysis by categorizing its different uses (possession, relationship, etc.) and adding one's own examples. Finally, the 'ENGLISH WORKSHOP' extends this method to other common verbs like 'go', 'get', and 'put' by having learners look up and list their various uses, including with prepositions and in idioms. This combination of observation, classification, and research helps build deeper awareness of verb versatility."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "Compare and contrast the use of 'have' in the sentences: 'I have two sisters' and 'I am having lunch'. Explain the grammatical correctness of each.",
+      "answer": "In 'I have two sisters', 'have' is used as a main verb in the simple present tense to indicate a permanent family relationship. This is grammatically correct as 'have' for possession or relationships is not used in the continuous form. In 'I am having lunch', 'have' is also a main verb, but it is used in the present continuous tense to describe the temporary activity of eating a meal that is happening now. This is also grammatically correct because 'have' can be used in continuous forms when referring to activities like eating, drinking, or participating in an event. The difference lies in what 'have' expresses: a permanent state versus a temporary action."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "What is the significance of the activity in the chapter that asks to add one's own sentences to illustrate the uses of 'have'?",
+      "answer": "This activity is significant because it moves learners from passive recognition to active production. By creating their own sentences for each category (possession, relationship, eating, etc.), students internalize the different contextual meanings of 'have'. It tests their understanding of the distinctions, promotes creative application of the rules, and helps solidify the grammatical concepts. This active engagement is more effective for memory and practical usage than simply reading examples. It also allows for personalization, making the learning more relevant and memorable."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "Explain the potential confusion a learner might face between 'hasn't/don't have' and how the chapter clarifies it.",
+      "answer": "A learner might be confused about when to use 'hasn't' (e.g., He hasn't a car) versus 'doesn't have' (e.g., He doesn't have a car). The chapter clarifies that when 'have' is the main verb (showing possession, etc.), the negative is formed with 'do/does + not + have'. The form 'hasn't/haven't' as a negative is typically reserved for when 'have' is an auxiliary verb (e.g., He hasn't come). The chapter explicitly labels sentences like 'He hasn't a car' as incorrect, providing the correct version 'He doesn't have a car'. This direct comparison and rule explanation help eliminate the confusion."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "Based on the chapter, how would you explain to someone why the verb 'have' is considered so important and frequently used in English?",
+      "answer": "The verb 'have' is fundamentally important and frequent for several reasons. Grammatically, it is essential as an auxiliary verb to construct perfect tenses, which are crucial for expressing completed actions relevant to the present or past. Semantically, as a main verb, it covers an exceptionally wide range of everyday concepts: owning things, family relations, consuming food/drink, engaging in activities, and describing health. This versatility allows it to appear in countless daily situations. Its dual role and broad meaning make it a cornerstone verb for constructing basic and complex sentences alike, which is why mastering its uses is key to fluency."
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.10",
+    "standard": "10",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Urbanisation"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "According to the 1961 Census of India, what percentage of the male working population must be engaged in non-agricultural occupations for an area to be defined as 'urban'?",
+      "options": [
+        { "option_id": 1, "text": "50%", "is_correct": false },
+        { "option_id": 2, "text": "60%", "is_correct": false },
+        { "option_id": 3, "text": "75%", "is_correct": true },
+        { "option_id": 4, "text": "80%", "is_correct": false }
+      ],
+      "answer": "75%"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What was the approximate increase in India's urban population from 1981 to 2011?",
+      "options": [
+        { "option_id": 1, "text": "5.5%", "is_correct": false },
+        { "option_id": 2, "text": "10.2%", "is_correct": false },
+        { "option_id": 3, "text": "13.73%", "is_correct": true },
+        { "option_id": 4, "text": "20.1%", "is_correct": false }
+      ],
+      "answer": "13.73%"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a main reason for urbanisation?",
+      "options": [
+        { "option_id": 1, "text": "Industrialisation", "is_correct": false },
+        { "option_id": 2, "text": "Trade", "is_correct": false },
+        { "option_id": 3, "text": "Mechanisation and technology", "is_correct": false },
+        { "option_id": 4, "text": "Decrease in population", "is_correct": true }
+      ],
+      "answer": "Decrease in population"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is a major problem of urbanisation caused by rapid population increase without adequate housing?",
+      "options": [
+        { "option_id": 1, "text": "Traffic jams", "is_correct": false },
+        { "option_id": 2, "text": "Slums", "is_correct": true },
+        { "option_id": 3, "text": "Modernisation", "is_correct": false },
+        { "option_id": 4, "text": "Social harmony", "is_correct": false }
+      ],
+      "answer": "Slums"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following is an advantage of urbanisation?",
+      "options": [
+        { "option_id": 1, "text": "Increase in pollution", "is_correct": false },
+        { "option_id": 2, "text": "Development of amenities and facilities", "is_correct": true },
+        { "option_id": 3, "text": "Rise in crime rate", "is_correct": false },
+        { "option_id": 4, "text": "Formation of slums", "is_correct": false }
+      ],
+      "answer": "Development of amenities and facilities"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the 'Smart City' programme aim to do?",
+      "options": [
+        { "option_id": 1, "text": "Reduce urban population", "is_correct": false },
+        { "option_id": 2, "text": "Use ICT for planned urban development", "is_correct": true },
+        { "option_id": 3, "text": "Promote agricultural occupations in cities", "is_correct": false },
+        { "option_id": 4, "text": "Encourage migration to villages", "is_correct": false }
+      ],
+      "answer": "Use ICT for planned urban development"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which type of migration is a major factor affecting urbanisation?",
+      "options": [
+        { "option_id": 1, "text": "Rural to rural", "is_correct": false },
+        { "option_id": 2, "text": "Urban to rural", "is_correct": false },
+        { "option_id": 3, "text": "Rural to urban", "is_correct": true },
+        { "option_id": 4, "text": "International only", "is_correct": false }
+      ],
+      "answer": "Rural to urban"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is one effect of mechanisation in agriculture on urbanisation?",
+      "options": [
+        { "option_id": 1, "text": "It decreases urban population", "is_correct": false },
+        { "option_id": 2, "text": "It increases agricultural employment", "is_correct": false },
+        { "option_id": 3, "text": "It leads to migration of displaced workers to cities", "is_correct": true },
+        { "option_id": 4, "text": "It reduces industrial growth", "is_correct": false }
+      ],
+      "answer": "It leads to migration of displaced workers to cities"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which city is given as an example of growth due to trade location?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Nagpur", "is_correct": true },
+        { "option_id": 3, "text": "Pune", "is_correct": false },
+        { "option_id": 4, "text": "Bhusawal", "is_correct": false }
+      ],
+      "answer": "Nagpur"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is a common consequence of increased private vehicles in growing cities?",
+      "options": [
+        { "option_id": 1, "text": "Decrease in pollution", "is_correct": false },
+        { "option_id": 2, "text": "Traffic jams and longer commute times", "is_correct": true },
+        { "option_id": 3, "text": "Reduced need for public transport", "is_correct": false },
+        { "option_id": 4, "text": "Increase in social harmony", "is_correct": false }
+      ],
+      "answer": "Traffic jams and longer commute times"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Why is Suresh thinking of going to the factory for work?",
+      "answer": "To get a monthly salary, overtime pay, and a Diwali bonus for better financial security."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What is Tatya worried about in the dialogue?",
+      "answer": "He is worried about managing both the factory work and the fields simultaneously."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What changes does Suresh predict will occur in the village?",
+      "answer": "Development of roads, hospitals, schools, colleges, administrative offices, tall buildings, and an increase in population and sprawl."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What are the three criteria used by the Census of India in 1961 to define 'urban'?",
+      "answer": "1) >75% male working population in non-agricultural occupations; 2) Population >5000; 3) Density >400 persons/sq.km."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What is industrialisation's role in urbanisation?",
+      "answer": "It attracts people from surrounding areas for jobs, leading to population growth and transformation of rural areas into urban settlements."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "How does trade contribute to urbanisation?",
+      "answer": "Favorable locations for transport and storage develop trade, leading to growth of businesses, banks, housing, and related services."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What is the impact of mechanisation in agriculture on rural employment?",
+      "answer": "It reduces the need for manual labour, displacing workers who then migrate to cities for employment."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Name one factor that accelerates urbanisation along transport routes.",
+      "answer": "Development of roads and railways."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What is a major social advantage of urbanisation?",
+      "answer": "Social harmony due to cultural exchange among people from different regions living together."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is a slum?",
+      "answer": "An area of temporary, overcrowded, illegal housing with poor basic facilities, often inhabited by economically weak migrants."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Why do traffic jams occur in cities?",
+      "answer": "Due to increased private vehicles, insufficient public transport, and commuting from suburbs to city centers."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name three types of pollution common in urban areas.",
+      "answer": "Air pollution, noise pollution, and water pollution."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "How does migration affect crime rates in cities?",
+      "answer": "Unemployment among migrants can lead some to turn to illegal activities, increasing crime rates."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What is the 'Smart City' programme?",
+      "answer": "A scheme using ICT to collect urban data for planned development, improving infrastructure and emergency responses."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is one health-related issue caused by slums?",
+      "answer": "Spread of diseases due to poor sanitation and overcrowding."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the effect of urbanisation on land use?",
+      "answer": "Agricultural land is converted for industrial, residential, or commercial use."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why do educational facilities develop well in urban areas?",
+      "answer": "Because urban areas attract many students seeking higher education and related services."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is a positive effect of good transportation in cities?",
+      "answer": "Easier travel, benefiting freight transport, markets, and trade."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is a common reason for rural-to-urban migration?",
+      "answer": "Attraction of a higher standard of living and better employment opportunities."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the role of a Municipal Corporation in an urban area?",
+      "answer": "To provide basic services like drinking water, roads, sewage, street lighting, and town planning."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Explain how industrialisation leads to urbanisation with an example.",
+      "answer": "Industrialisation involves setting up factories and industries in a region, which creates job opportunities. People from surrounding rural areas migrate to these industrial hubs for employment. This influx increases population, leading to demand for housing, transport, schools, hospitals, and other services. Over time, the area transforms from rural to urban. For example, Mumbai grew rapidly in the 19th century due to large-scale textile mills, absorbing nearby fishing villages into its metropolitan area."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Describe the advantages of urbanisation in terms of social harmony and modernisation.",
+      "answer": "Urbanisation promotes social harmony as people from diverse regions and cultures live together, exchanging customs and traditions, fostering mutual understanding. It also drives modernisation: cities attract skilled migrants, facilitating the exchange of knowledge and innovation. Urban areas are early adopters of new technologies, updated literature, and advanced projects in industry and business. This improves the standard of living and keeps the population abreast of global developments."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "What are slums and why do they emerge in urban areas?",
+      "answer": "Slums are overcrowded, informal settlements with temporary or semi-structured houses, often built illegally on open land. They emerge due to rapid urban population growth outpacing housing development. Migrants, typically economically weak, cannot afford proper housing. Unemployment or low-income jobs force them to settle in slums, which lack basic amenities like clean water, sanitation, and healthcare. Poor planning and insufficient government services exacerbate their growth, leading to health and social issues."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Discuss the relationship between migration and urban problems such as crime and pollution.",
+      "answer": "Migration increases urban population, straining resources and infrastructure. Many migrants struggle to find jobs, leading some to engage in criminal activities like theft or burglary, raising crime rates. Additionally, rapid urban expansion often lacks proper planning, resulting in pollution: increased vehicles cause air and noise pollution; inadequate waste management leads to water and land pollution. Overcrowding and industrial growth further degrade the environment, making pollution a grave urban issue."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "How does transport and communication development contribute to urbanisation?",
+      "answer": "Improved transport (roads, railways) and communication networks connect remote areas to urban centers, facilitating movement of people and goods. This accessibility attracts businesses, industries, and services to develop along these routes. For example, after Konkan railway development, nearby villages urbanised rapidly. Better communication enables information flow, encouraging migration for education and jobs. Thus, transport and communication act as catalysts for urban growth and regional integration."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "Explain the effects of urbanisation on amenities and facilities in cities.",
+      "answer": "Urbanisation leads to the development of various amenities and facilities: transportation networks expand, educational institutions (especially for higher education) proliferate, and advanced medical services become available. Fire brigades, communication systems, and recreational spaces like parks also grow. These improvements enhance the quality of life, attract more migrants, and support economic activities. However, if growth is unplanned, these facilities may become inadequate, leading to issues like traffic congestion and overburdened healthcare."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "What measures can be taken to address traffic jams in urban areas?",
+      "answer": "To reduce traffic jams, cities can: improve and expand public transportation (buses, metros) to reduce private vehicle use; develop dedicated cycling lanes and pedestrian paths; implement intelligent traffic management systems (like smart signals); promote carpooling and flexible work hours; and invest in ring roads or bypasses to divert through traffic. Urban planning should integrate land use with transport to minimise commute distances and congestion."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "Describe the 'Smart City' programme and its potential benefits.",
+      "answer": "The 'Smart City' programme uses Information and Communication Technology (ICT) to collect real-time data on urban aspects like traffic, water supply, and waste management. This enables planned development, efficient resource use, and quick emergency responses. Benefits include: strengthened transport and communication systems, reduced pollution through monitoring, improved public services, enhanced citizen safety, and sustainable urban growth. It aims to make cities more liveable, resilient, and economically vibrant."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "Why does urbanisation lead to pollution, and what are its types?",
+      "answer": "Urbanisation leads to pollution due to industrial emissions, increased vehicles, construction activities, and waste generation. Types include: 1) Air pollution from factories and vehicles releasing harmful gases; 2) Noise pollution from traffic, industries, and urban hustle; 3) Water pollution from industrial discharge and improper sewage disposal. These pollutants harm health, cause environmental degradation, and reduce quality of life, making pollution a critical urban challenge."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "How can urbanisation affect rural areas nearby?",
+      "answer": "Urbanisation impacts nearby rural areas by: altering occupations as farming gives way to industrial jobs; increasing land prices and converting agricultural land to urban use; improving connectivity through road/rail links; and providing access to urban amenities like hospitals and schools. However, it may also lead to out-migration of youth, neglect of agriculture, and cultural shifts. Rural areas may gradually integrate into the urban sprawl, losing their traditional character."
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is the minimum population required for an area to be considered urban as per the 1961 Census?",
+      "options": [
+        { "option_id": 1, "text": "1000", "is_correct": false },
+        { "option_id": 2, "text": "3000", "is_correct": false },
+        { "option_id": 3, "text": "5000", "is_correct": true },
+        { "option_id": 4, "text": "10,000", "is_correct": false }
+      ],
+      "answer": "5000"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which city's growth is attributed to the development of the Konkan railway?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Savarde", "is_correct": true },
+        { "option_id": 3, "text": "Pune", "is_correct": false },
+        { "option_id": 4, "text": "Nagpur", "is_correct": false }
+      ],
+      "answer": "Savarde"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What is a quaternary occupation?",
+      "options": [
+        { "option_id": 1, "text": "Farming", "is_correct": false },
+        { "option_id": 2, "text": "Manufacturing", "is_correct": false },
+        { "option_id": 3, "text": "Services like IT and research", "is_correct": true },
+        { "option_id": 4, "text": "Trade", "is_correct": false }
+      ],
+      "answer": "Services like IT and research"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What leads to the emergence of slums?",
+      "options": [
+        { "option_id": 1, "text": "High standard of living", "is_correct": false },
+        { "option_id": 2, "text": "Rapid population growth and lack of affordable housing", "is_correct": true },
+        { "option_id": 3, "text": "Excess of amenities", "is_correct": false },
+        { "option_id": 4, "text": "Decreased migration", "is_correct": false }
+      ],
+      "answer": "Rapid population growth and lack of affordable housing"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a problem of urbanisation?",
+      "options": [
+        { "option_id": 1, "text": "Increased social harmony", "is_correct": true },
+        { "option_id": 2, "text": "Traffic jams", "is_correct": false },
+        { "option_id": 3, "text": "Pollution", "is_correct": false },
+        { "option_id": 4, "text": "Crime", "is_correct": false }
+      ],
+      "answer": "Increased social harmony"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What does migration refer to in the context of urbanisation?",
+      "answer": "The movement of people from rural to urban areas (or between urban areas) for employment, better living, or other opportunities."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "How does trade location favour urban growth?",
+      "answer": "A central or strategically located place facilitates transport, storage, and business activities, attracting trade and related services, which spurs urban development."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the population density criterion for an urban area?",
+      "answer": "More than 400 persons per square kilometer."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Why do people migrate from rural to urban areas?",
+      "answer": "For better job opportunities, higher income, improved amenities, education, healthcare, and a higher standard of living."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the impact of urbanisation on rural occupations?",
+      "answer": "It shifts focus from agriculture to non-agricultural jobs like industry, services, and trade."
+    },
+    {
+      "question_id": 51,
+      "question_type": "LONG",
+      "question": "Explain how mechanisation in agriculture contributes to urbanisation.",
+      "answer": "Mechanisation in agriculture involves using machines (tractors, harvesters) that reduce the need for manual labour. This displaces farm workers, who then seek employment elsewhere. With limited opportunities in rural areas, many migrate to cities where industries and services offer jobs. This rural-to-urban migration increases urban population, driving the expansion of urban settlements and accelerating urbanisation."
+    },
+    {
+      "question_id": 52,
+      "question_type": "LONG",
+      "question": "Discuss the positive and negative effects of urbanisation on health and education.",
+      "answer": "Positive effects: Urban areas offer advanced healthcare facilities and specialized hospitals, improving health outcomes. Educational institutions, especially for higher education, are more accessible, raising literacy and skill levels. Negative effects: Overcrowding in slums leads to poor sanitation, spreading diseases. Pollution causes respiratory and other health issues. Overburdened schools may compromise quality, and migrants might lack access to affordable education, creating disparities."
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "What are the main factors responsible for the growth of cities?",
+      "answer": "Key factors include: 1) Industrialisation – creating jobs; 2) Trade – central locations boosting commerce; 3) Transport and communication – improving connectivity; 4) Mechanisation in agriculture – displacing rural labour; 5) Migration – people moving for better opportunities; 6) Government policies and investments in infrastructure. These elements combine to attract population and services, transforming rural areas into urban centers."
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "How can urban planning mitigate the problems of urbanisation?",
+      "answer": "Effective urban planning can: 1) Develop affordable housing projects to reduce slums; 2) Design efficient public transport to ease traffic; 3) Implement zoning laws to separate industrial and residential areas, curbing pollution; 4) Create green spaces and waste management systems; 5) Enhance policing and community programs to lower crime; 6) Use smart technologies for resource management. Planned growth ensures sustainable development and better quality of life."
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "Compare rural and urban areas in terms of occupations and lifestyle.",
+      "answer": "Rural areas are predominantly agricultural, with farming and allied activities as main occupations. Lifestyle is often traditional, close-knit, and reliant on natural resources. Urban areas have diverse non-agricultural jobs in industry, services, and trade. Lifestyle is faster-paced, with greater access to amenities like education, healthcare, and entertainment. Urban life offers more economic opportunities but also faces issues like pollution and congestion, unlike the simpler, quieter rural life."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "Why is pollution considered a grave problem in urban areas?",
+      "answer": "Pollution in urban areas is severe due to high concentrations of industries, vehicles, and population. Air pollution from emissions causes respiratory diseases; noise pollution leads to stress and hearing loss; water pollution from industrial waste and sewage harms health and ecosystems. It degrades the environment, reduces quality of life, and poses long-term health risks, making it a critical issue requiring urgent action and regulation."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "Describe the changes in a village as it urbanises, based on the chapter.",
+      "answer": "As a village urbanises: agricultural land shrinks, giving way to factories, roads, and buildings; population increases due to migration; occupations shift from farming to industry/services; amenities like schools, hospitals, and markets develop; local governance changes from Gram Panchayat to Municipal Council; and social dynamics evolve with cultural mixing. The village expands spatially, becomes more connected, and eventually transforms into a town or city."
+    },
+    {
+      "question_id": 58,
+      "question_type": "LONG",
+      "question": "What role does technology play in modern urbanisation?",
+      "answer": "Technology accelerates urbanisation by improving productivity in agriculture (freeing labour for urban jobs), enhancing industrial efficiency, and enabling better transport and communication. ICT supports smart city initiatives for data-driven planning. Technology also provides urban amenities like e-governance, online education, and telemedicine, making cities more attractive. However, it can also widen digital divides and contribute to e-waste pollution if not managed sustainably."
+    },
+    {
+      "question_id": 59,
+      "question_type": "LONG",
+      "question": "How does urbanisation affect the environment?",
+      "answer": "Urbanisation impacts the environment through deforestation for construction, loss of agricultural land, increased carbon emissions from industries and vehicles, and waste accumulation. It leads to air, water, and soil pollution, reduces biodiversity, and exacerbates heat island effects. While urbanisation drives economic growth, unsustainable practices harm ecosystems, necessitating green initiatives like parks, waste recycling, and pollution controls to mitigate damage."
+    },
+    {
+      "question_id": 60,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'social harmony' in urban areas and its importance.",
+      "answer": "Social harmony in urban areas refers to peaceful coexistence and mutual respect among people from diverse cultural, religious, and regional backgrounds. It is important because it reduces conflicts, fosters cooperation, and enhances community well-being. In cities, interaction among different groups promotes tolerance, shared values, and collective problem-solving. Social harmony strengthens urban resilience, supports economic growth, and improves quality of life, making cities more inclusive and stable."
+    },
+    {
+      "question_id": 61,
+      "question_type": "MCQ",
+      "question": "Which body replaces Gram Panchayat when a village becomes urban?",
+      "options": [
+        { "option_id": 1, "text": "State Government", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Council or Corporation", "is_correct": true },
+        { "option_id": 3, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 4, "text": "Panchayat Samiti", "is_correct": false }
+      ],
+      "answer": "Municipal Council or Corporation"
+    },
+    {
+      "question_id": 62,
+      "question_type": "MCQ",
+      "question": "What is a major cause of water pollution in cities?",
+      "options": [
+        { "option_id": 1, "text": "Afforestation", "is_correct": false },
+        { "option_id": 2, "text": "Industrial discharge and improper sewage", "is_correct": true },
+        { "option_id": 3, "text": "Increased rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Use of bicycles", "is_correct": false }
+      ],
+      "answer": "Industrial discharge and improper sewage"
+    },
+    {
+      "question_id": 63,
+      "question_type": "MCQ",
+      "question": "Which of the following is a tertiary occupation?",
+      "options": [
+        { "option_id": 1, "text": "Farming", "is_correct": false },
+        { "option_id": 2, "text": "Manufacturing", "is_correct": false },
+        { "option_id": 3, "text": "Teaching or retail", "is_correct": true },
+        { "option_id": 4, "text": "Research and development", "is_correct": false }
+      ],
+      "answer": "Teaching or retail"
+    },
+    {
+      "question_id": 64,
+      "question_type": "MCQ",
+      "question": "What does the 'Swachh Bharat Abhiyan' aim to address?",
+      "options": [
+        { "option_id": 1, "text": "Traffic congestion", "is_correct": false },
+        { "option_id": 2, "text": "Solid waste management and sanitation", "is_correct": true },
+        { "option_id": 3, "text": "Crime prevention", "is_correct": false },
+        { "option_id": 4, "text": "Industrial growth", "is_correct": false }
+      ],
+      "answer": "Solid waste management and sanitation"
+    },
+    {
+      "question_id": 65,
+      "question_type": "MCQ",
+      "question": "Which factor is directly linked to the rise of crime in cities?",
+      "options": [
+        { "option_id": 1, "text": "High literacy rates", "is_correct": false },
+        { "option_id": 2, "text": "Unemployment among migrants", "is_correct": true },
+        { "option_id": 3, "text": "Excess housing", "is_correct": false },
+        { "option_id": 4, "text": "Good street lighting", "is_correct": false }
+      ],
+      "answer": "Unemployment among migrants"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the main occupation in rural areas of India?",
+      "answer": "Agriculture."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does 'urban sprawl' refer to?",
+      "answer": "The uncontrolled expansion of urban areas into surrounding rural land."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How does industrialisation affect land use?",
+      "answer": "It converts agricultural or open land into industrial zones and associated infrastructure."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a common characteristic of slum housing?",
+      "answer": "Temporary, semi-structured, often illegal, with high density and poor facilities."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why are public transport systems often insufficient in growing cities?",
+      "answer": "Because urban population growth outpaces the development and capacity of public transport infrastructure."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Discuss the interrelationship between industrialisation and air pollution in urban areas.",
+      "answer": "Industrialisation drives urban growth by creating jobs and attracting migrants, but it also leads to significant air pollution. Factories emit pollutants like sulphur dioxide, particulate matter, and greenhouse gases. As industries concentrate in cities, air quality deteriorates, causing smog, respiratory illnesses, and environmental damage. While industrialisation boosts the economy, inadequate pollution controls and reliance on fossil fuels exacerbate air pollution, posing health risks and necessitating stricter regulations and cleaner technologies."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "How can urbanisation be managed to balance development and sustainability?",
+      "answer": "Urbanisation can be managed through: integrated urban planning that includes green spaces and efficient public transport; promoting renewable energy and waste recycling; enforcing environmental regulations to curb pollution; developing affordable housing to prevent slums; investing in education and healthcare for inclusive growth; and using smart technologies for resource management. Community participation and government policies must focus on sustainable practices to ensure urban development does not compromise ecological and social well-being."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Explain the term 'migration' and its different types mentioned in the chapter.",
+      "answer": "Migration is the movement of people from one place to another. Types include: 1) Short-term migration (temporary movement for work or season); 2) Long-term migration (extended stay without permanent settlement); 3) Permanent migration (relocating indefinitely). Based on direction: rural-to-rural, rural-to-urban, urban-to-urban. Migration is a key factor in urbanisation, as rural-to-urban migration increases city populations, driving growth and associated challenges."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "What are the educational implications of urbanisation?",
+      "answer": "Urbanisation improves access to education by concentrating schools, colleges, and universities in cities. This attracts students from rural areas, raising literacy and skill levels. However, overcrowded schools, high costs, and unequal access can create disparities. Urban areas also offer diverse educational opportunities (vocational, technical), fostering innovation. But migration may strain resources, leading to inadequate infrastructure in some urban schools, highlighting the need for planned educational expansion."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Describe how urbanisation influences cultural exchange and social dynamics.",
+      "answer": "Urbanisation brings together people from varied cultural, linguistic, and religious backgrounds. This interaction promotes cultural exchange—sharing festivals, food, arts, and traditions—enriching urban life. Social dynamics become more complex, with increased tolerance and cosmopolitan attitudes. However, it can also lead to conflicts if integration fails. Overall, urbanisation fosters a melting pot of cultures, encouraging inclusivity and broadening social perspectives, which strengthens community bonds and innovation."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Why is the population density criterion important in defining urban areas?",
+      "answer": "Population density indicates how crowded an area is, reflecting urban characteristics like compact housing, infrastructure concentration, and non-agricultural land use. A high density (>400 persons/sq.km) suggests intensive human activity, typical of cities where space is limited and services are centralized. This criterion helps distinguish urban settlements from sparsely populated rural areas, ensuring accurate classification for planning, resource allocation, and policy-making."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "What measures can reduce slum formation in cities?",
+      "answer": "To reduce slums, governments can: provide affordable housing projects with basic amenities; offer subsidised loans for home construction; regularise existing slums with improved infrastructure; create employment opportunities to increase incomes; implement strict zoning laws to prevent illegal settlements; and involve communities in planning. Integrated policies focusing on poverty alleviation and urban regeneration can curb slum growth and improve living conditions."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "How does urbanisation affect the economic structure of a region?",
+      "answer": "Urbanisation shifts the economic structure from primary sectors (agriculture) to secondary (industry) and tertiary/quaternary sectors (services, IT). This diversification increases GDP, creates diverse jobs, and attracts investments. Urban economies become hubs for trade, finance, and innovation, driving regional growth. However, it may also lead to income inequality, informal employment, and dependency on urban-centric policies, requiring balanced development to ensure inclusive economic benefits."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the role of communication in urban development.",
+      "answer": "Communication networks (internet, mobile, media) facilitate information flow, essential for business, education, and governance in urban areas. They enable real-time coordination, e-services, and smart city applications. Good communication attracts companies and skilled workers, boosting economic growth. It also enhances social connectivity and access to services, making cities more efficient and livable. Inadequate communication can hinder development, highlighting its role as a critical urban infrastructure."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "What are the challenges of providing amenities in rapidly urbanising areas?",
+      "answer": "Challenges include: insufficient funding for infrastructure; rapid population growth outpacing amenity provision; unequal distribution leading to disparities; land scarcity for new facilities; maintenance of existing amenities; and coordination among various government agencies. Unplanned growth exacerbates these issues, resulting in inadequate water supply, poor sanitation, traffic congestion, and overburdened healthcare and education systems. Strategic planning and public-private partnerships are needed to address these challenges."
+    },
+    {
+      "question_id": 81,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of urbanisation due to transport development?",
+      "options": [
+        { "option_id": 1, "text": "A village near a new railway line growing into a town", "is_correct": true },
+        { "option_id": 2, "text": "A city losing population", "is_correct": false },
+        { "option_id": 3, "text": "Increase in agricultural land", "is_correct": false },
+        { "option_id": 4, "text": "Decline in trade", "is_correct": false }
+      ],
+      "answer": "A village near a new railway line growing into a town"
+    },
+    {
+      "question_id": 82,
+      "question_type": "MCQ",
+      "question": "What is a key feature of urban areas according to the census?",
+      "options": [
+        { "option_id": 1, "text": "Low population density", "is_correct": false },
+        { "option_id": 2, "text": "Predominantly agricultural jobs", "is_correct": false },
+        { "option_id": 3, "text": "High male engagement in non-agriculture", "is_correct": true },
+        { "option_id": 4, "text": "Less than 5000 population", "is_correct": false }
+      ],
+      "answer": "High male engagement in non-agriculture"
+    },
+    {
+      "question_id": 83,
+      "question_type": "MCQ",
+      "question": "Which of the following is a result of urbanisation on culture?",
+      "options": [
+        { "option_id": 1, "text": "Cultural isolation", "is_correct": false },
+        { "option_id": 2, "text": "Exchange and blending of traditions", "is_correct": true },
+        { "option_id": 3, "text": "Loss of all traditional practices", "is_correct": false },
+        { "option_id": 4, "text": "Decrease in social harmony", "is_correct": false }
+      ],
+      "answer": "Exchange and blending of traditions"
+    },
+    {
+      "question_id": 84,
+      "question_type": "MCQ",
+      "question": "What does the term 'standard of living' refer to in urban contexts?",
+      "options": [
+        { "option_id": 1, "text": "Level of income and access to amenities", "is_correct": true },
+        { "option_id": 2, "text": "Number of vehicles owned", "is_correct": false },
+        { "option_id": 3, "text": "Size of house only", "is_correct": false },
+        { "option_id": 4, "text": "Distance from workplace", "is_correct": false }
+      ],
+      "answer": "Level of income and access to amenities"
+    },
+    {
+      "question_id": 85,
+      "question_type": "MCQ",
+      "question": "Which programme is related to cleanliness and sanitation in India?",
+      "options": [
+        { "option_id": 1, "text": "Smart City", "is_correct": false },
+        { "option_id": 2, "text": "Swachh Bharat Abhiyan", "is_correct": true },
+        { "option_id": 3, "text": "Make in India", "is_correct": false },
+        { "option_id": 4, "text": "Digital India", "is_correct": false }
+      ],
+      "answer": "Swachh Bharat Abhiyan"
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the primary economic activity in urban areas?",
+      "answer": "Non-agricultural activities like industry, trade, and services."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How does urbanisation affect the demand for medical facilities?",
+      "answer": "It increases demand due to larger population and health issues from pollution and congestion."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is a 'cold storage' in the context of trade?",
+      "answer": "A facility for preserving perishable goods at low temperatures."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why might migrants not find relevant jobs in cities?",
+      "answer": "Due to skill mismatches, high competition, or limited job opportunities in their field."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the purpose of town planning?",
+      "answer": "To organise land use, infrastructure, and services for orderly urban development."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Analyse the trends in India's urban population from 1961 to 2011 based on the table provided.",
+      "answer": "India's urban population percentage rose steadily from 17.79% in 1961 to 37.07% in 2011. The number of urban settlements also increased from 2,270 to 7,935. Growth was slower from 1961-1981 (about 5.5% increase) but accelerated from 1981-2011 (about 13.73% increase). This indicates rapid urbanisation, especially post-1981, driven by industrialisation, migration, and economic changes. The rising trend reflects a significant shift from rural to urban living in India."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What are the implications of urbanisation for future generations?",
+      "answer": "Future generations will likely live in increasingly urbanised environments, facing both opportunities and challenges. Opportunities include better access to education, jobs, and technology. Challenges involve managing pollution, congestion, housing shortages, and social inequalities. Sustainable urban planning, green technologies, and inclusive policies will be crucial to ensure that urbanisation provides a healthy, equitable, and prosperous future for coming generations."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How can citizens contribute to solving urban problems?",
+      "answer": "Citizens can: use public transport to reduce traffic and pollution; practice waste segregation and recycling; participate in community cleanliness drives; report illegal activities to authorities; conserve water and energy; support local governance initiatives; and promote social harmony through inclusive behavior. Active civic engagement and responsible lifestyle choices are essential for addressing urban challenges and improving quality of life."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Discuss the potential of 'Smart Cities' to address urban issues.",
+      "answer": "Smart Cities leverage ICT to optimise urban services: intelligent traffic management reduces jams; sensors monitor pollution levels for timely action; digital platforms improve governance and citizen participation; efficient waste and water management systems enhance sanitation; and data analytics enable proactive planning. By integrating technology, Smart Cities can become more sustainable, resilient, and livable, effectively tackling problems like congestion, pollution, and resource mismanagement."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Why is it important to study urbanisation in geography?",
+      "answer": "Studying urbanisation in geography helps understand spatial patterns of human settlement, economic activities, and environmental impacts. It reveals how cities grow, function, and interact with surrounding regions. This knowledge aids in planning sustainable development, managing resources, and addressing issues like migration, pollution, and infrastructure. Geography provides a holistic view of urbanisation's causes, effects, and solutions, essential for informed policy-making and future readiness."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does 'loading-unloading' refer to in trade?",
+      "answer": "The process of transferring goods to and from transport vehicles."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How does urbanisation affect the cost of land?",
+      "answer": "It typically increases land prices due to higher demand for housing and commercial space."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is a 'fire brigade' service?",
+      "answer": "A emergency service for firefighting and rescue operations in urban areas."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why might urban areas have better recreational facilities?",
+      "answer": "Due to higher population density and demand, leading to investment in parks, cinemas, sports complexes, etc."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the significance of the 1961 Census in defining urban areas?",
+      "answer": "It established standardized criteria (population, density, occupation) to consistently identify and classify urban settlements across India."
+    }
+  ]
+}

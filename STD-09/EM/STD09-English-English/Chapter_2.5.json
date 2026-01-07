@@ -1,0 +1,251 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.2.5",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Autumn"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In the poem, Autumn is personified as:",
+      "options": [
+        { "option_id": 1, "text": "A powerful king", "is_correct": false },
+        { "option_id": 2, "text": "A maiden fair", "is_correct": true },
+        { "option_id": 3, "text": "A tired old woman", "is_correct": false },
+        { "option_id": 4, "text": "A playful child", "is_correct": false }
+      ],
+      "answer": "A maiden fair"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does Autumn have in her hair, according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Lilies", "is_correct": false },
+        { "option_id": 2, "text": "Multitudinous stars", "is_correct": false },
+        { "option_id": 3, "text": "Nodding rice-stems", "is_correct": true },
+        { "option_id": 4, "text": "Flowers of grasses", "is_correct": false }
+      ],
+      "answer": "Nodding rice-stems"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the cooing of birds compared to in the poem?",
+      "options": [
+        { "option_id": 1, "text": "A lullaby", "is_correct": false },
+        { "option_id": 2, "text": "A tinkling song of a bracelet", "is_correct": true },
+        { "option_id": 3, "text": "The whistling wind", "is_correct": false },
+        { "option_id": 4, "text": "A whispering stream", "is_correct": false }
+      ],
+      "answer": "A tinkling song of a bracelet"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What adorns the night in the second stanza?",
+      "options": [
+        { "option_id": 1, "text": "The radiant moon", "is_correct": false },
+        { "option_id": 2, "text": "A diadem of multitudinous stars", "is_correct": true },
+        { "option_id": 3, "text": "Silken robes of clouds", "is_correct": false },
+        { "option_id": 4, "text": "Bewitching smiles", "is_correct": false }
+      ],
+      "answer": "A diadem of multitudinous stars"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is Autumn's 'silken robe' according to the poet?",
+      "options": [
+        { "option_id": 1, "text": "Flowers of grasses", "is_correct": false },
+        { "option_id": 2, "text": "White moonlight set free from cloudy bars", "is_correct": true },
+        { "option_id": 3, "text": "Nodding rice-stems", "is_correct": false },
+        { "option_id": 4, "text": "A crown of stars", "is_correct": false }
+      ],
+      "answer": "White moonlight set free from cloudy bars"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The poet suggests that the slender maiden Autumn will soon become:",
+      "options": [
+        { "option_id": 1, "text": "A queen", "is_correct": false },
+        { "option_id": 2, "text": "A woman grown", "is_correct": true },
+        { "option_id": 3, "text": "A mother", "is_correct": false },
+        { "option_id": 4, "text": "A powerful force", "is_correct": false }
+      ],
+      "answer": "A woman grown"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which season in the Indian calendar is equivalent to Autumn, as per the Warming Up activity?",
+      "options": [
+        { "option_id": 1, "text": "Vasant (Spring)", "is_correct": false },
+        { "option_id": 2, "text": "Grishma (Summer)", "is_correct": false },
+        { "option_id": 3, "text": "Sharad", "is_correct": true },
+        { "option_id": 4, "text": "Hemant (Late Autumn)", "is_correct": false }
+      ],
+      "answer": "Sharad"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does the word 'diadem' mean as given in the glossary?",
+      "options": [
+        { "option_id": 1, "text": "Necklace", "is_correct": false },
+        { "option_id": 2, "text": "Bracelet", "is_correct": false },
+        { "option_id": 3, "text": "Crown", "is_correct": true },
+        { "option_id": 4, "text": "Robe", "is_correct": false }
+      ],
+      "answer": "Crown"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In the Warming Up activity, which natural element is personified as 'playful' and 'whistled among the trees'?",
+      "options": [
+        { "option_id": 1, "text": "The sun", "is_correct": false },
+        { "option_id": 2, "text": "The wind", "is_correct": true },
+        { "option_id": 3, "text": "The car", "is_correct": false },
+        { "option_id": 4, "text": "The bird", "is_correct": false }
+      ],
+      "answer": "The wind"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The poem 'Autumn' translated by Prof. A. W. Ryder is originally by which poet?",
+      "options": [
+        { "option_id": 1, "text": "John Keats", "is_correct": false },
+        { "option_id": 2, "text": "Kalidasa", "is_correct": true },
+        { "option_id": 3, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 4, "text": "Alfred Lord Tennyson", "is_correct": false }
+      ],
+      "answer": "Kalidasa"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What does Autumn have in her face, according to the first stanza?",
+      "answer": "Lilies."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What are the 'cloudy bars' from which moonlight is set free?",
+      "answer": "Patches or obstructions of clouds."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of the poem 'Autumn'?",
+      "answer": "The poem follows an AABB rhyme scheme (couplets)."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "Name one of the six seasons according to the Indian calendar.",
+      "answer": "Vasant (Spring), Grishma (Summer), Varsha (Monsoon), Sharad (Autumn), Hemant (Late Autumn), Shishir (Winter). (Any one)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What human change is mentioned in the Warming Up activity when seasons change?",
+      "answer": "Changes in clothes, diet, or celebrations. (Any one specific, e.g., wearing warmer clothes)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "In the poem, what is Autumn clad in?",
+      "answer": "Flowers of grasses."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What does the word 'slender' mean?",
+      "answer": "Slim."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is personified as 'the rising ... stretched its arms' in the Warming Up activity?",
+      "answer": "The sun."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What does the poem suggest is on the radiant moon's face?",
+      "answer": "Bewitching smiles."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the ENGLISH WORKSHOP ask students to compare the Indian Monsoon season to?",
+      "answer": "A powerful king of a prosperous kingdom."
+    },
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "Why is Autumn personified as a 'maiden fair' in the poem? Describe her attributes as given by the poet.",
+      "answer": "Autumn is personified as a 'maiden fair' to capture its beauty, youthfulness, and gentle grace. The poet describes her as slender and graceful, adorned with natural elements: nodding rice-stems in her hair, lilies in her face, and clad in flowers of grasses. She moves with elegance, and birds greet her gladly. This personification emphasizes the season's refreshing beauty, abundance, and the sense of gentle transition it represents in the natural world, much like a young maiden blooming into maturity."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "Contrast the description of Autumn during the day and at night as given in the poem. What imagery is used for each?",
+      "answer": "During the day, Autumn is depicted as a maiden adorned with agricultural and floral imagery: rice-stems in her hair, lilies on her face, and clad in grass flowers. The soundscape includes the glad cooing of birds. At night, the imagery shifts to the celestial. The night sky is a 'diadem' or crown of countless stars. Autumn's robe becomes the 'white moonlight' freed from clouds, and her face is the radiant moon wearing 'bewitching smiles.' Day imagery is earthy and vibrant; night imagery is ethereal, silvery, and serene."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "Explain the significance of the line 'She seems a slender maid, who soon / Will be a woman grown.' What change in nature does this imply?",
+      "answer": "This line uses the metaphor of a girl maturing into a woman to symbolize the transition of the season itself. Autumn is the 'slender maid'—a time of ripening and mature beauty, but not yet the end of the cycle. The implication is that this phase will soon pass into the next season (likely early winter or 'Hemant'), which is the 'woman grown.' This suggests nature's constant cycle of growth, maturity, and decay. The fullness of harvest and stable weather of autumn will give way to the starker, more dormant phase that follows."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "How does the poet use similes and metaphors in the poem? Provide one example of each and explain their effect.",
+      "answer": "The poet uses a simile in the line 'Birds greet her with their cooing glad / Like a bracelet’s tinkling song.' This compares the pleasant, light sound of birdsong to the delicate tinkling of jewelry, enhancing the musical and joyful quality of autumn. A metaphor is used in 'A diadem adorns the night! / Of multitudinous stars.' Here, the cluster of stars is directly called a 'diadem' or crown, attributing regal, dazzling beauty to the night sky. Both devices enrich the description by creating vivid, imaginative connections between nature and human experiences of beauty and sound."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "What is the purpose of the 'Warming up!' activity that asks students to fill in personification gaps (e.g., 'The playful ____ whistled')? How does it relate to the main poem?",
+      "answer": "The activity serves as a preparatory exercise to understand the literary device of personification—giving human qualities to non-human things. By identifying that the 'wind' whistles playfully or the 'sun' stretches its arms, students practice recognizing and creating personification. This directly relates to the main poem, where the entire season of Autumn is personified as a maiden. The activity builds the foundational skill needed to appreciate and analyze the extended personification used by Kalidasa in the poem, making the abstract concept of a season more relatable and vivid."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "According to the Warming Up section, how do human lives change with seasons? Discuss with reference to clothes, diet, and celebrations.",
+      "answer": "Human lives adapt significantly with seasonal changes. In terms of clothes, people switch from light cotton in summer to warmer woolens in winter. During monsoons, raincoats and umbrellas are used. Diet changes with seasonal availability; summers see more watery fruits (melons), winters include nuts and warm foods, and autumn might feature harvest produce. Celebrations are often tied to seasons: Holi (spring), Makar Sankranti (winter harvest), Diwali (autumn), and monsoon festivals like Teej. These adaptations show humanity's deep connection with and dependence on natural cycles."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "What poetic devices, apart from personification, can you identify in the description of Autumn's nighttime appearance?",
+      "answer": "Apart from personification, the description of Autumn's night uses metaphor ('diadem' for stars, 'silken robe' for moonlight), visual imagery ('multitudinous stars,' 'white moonlight,' 'radiant moon'), and tactile imagery ('silken robe'). The 'bewitching smiles' on the moon's face could be seen as an example of allusion to the common perception of the 'man in the moon' or simply as metaphorical imagery. The language is rich in adjectives ('silken,' 'radiant,' 'bewitching') that create a luxurious and enchanting picture of the autumn night."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "The ENGLISH WORKSHOP asks to find words that describe Autumn, stars, etc., and substitute them. Why is this a useful exercise for understanding poetry?",
+      "answer": "This exercise is useful because it builds vocabulary and deepens comprehension. First, it makes students actively identify the descriptive, often poetic, words the author chose (e.g., 'maiden fair,' 'diadem'). Then, by finding synonyms or simpler phrases ('beautiful young woman,' 'crown'), students must unpack the meaning and connotation of the original words. This process moves beyond passive reading to active engagement, revealing nuances and ensuring they grasp the precise image or emotion the poet intended to convey, which is essential for literary analysis."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "If you were to personify the Indian Monsoon season as a 'powerful king,' as suggested in the workshop, what attributes would you give it? Write a short description.",
+      "answer": "If personified as a powerful king, the Indian Monsoon would be a mighty, temperamental, and life-giving ruler. His arrival would be announced by booming thunder (his royal drum) and flashes of lightning (his scepter). His robe would be made of dark, sweeping clouds. He would command his army of raindrops to march upon the parched earth, quenching its thirst and turning it lush green. His mood could shift from generous (gentle showers) to fierce (violent storms). His kingdom prospers under his rule—rivers fill, crops grow, and the land celebrates his presence, yet it also fears his occasional wrath in the form of floods."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "How does the poem 'Autumn' reflect the Indian cultural or agricultural context, especially through its imagery?",
+      "answer": "The poem 'Autumn' reflects the Indian context deeply through its choice of imagery. The 'nodding rice-stems in her hair' directly references the harvest of paddy, a staple crop, associating autumn with abundance and agricultural prosperity. This is a season (Sharad) known for harvest festivals. The 'lilies in her face' and 'flowers of grasses' depict the floral beauty specific to the Indian autumn landscape. By using these culturally resonant images, the poem grounds the universal theme of seasonal beauty in the specific natural and agricultural reality of the Indian subcontinent, making it relatable to its readers."
+    }
+  ]
+}

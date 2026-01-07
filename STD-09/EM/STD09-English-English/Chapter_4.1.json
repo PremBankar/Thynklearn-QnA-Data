@@ -1,0 +1,471 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.4.1",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Please Listen!"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the central theme of the poem 'Please Listen!'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The importance of giving good advice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The need for someone to simply listen without offering solutions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The value of self-reliance in all situations",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Criticism of prayer and faith",
+          "is_correct": false
+        }
+      ],
+      "answer": "The need for someone to simply listen without offering solutions"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "According to the poem, what does the speaker feel when the listener tries to solve their problem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Relieved and grateful",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Encouraged and supported",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Failed and even more fearful",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Angry and misunderstood",
+          "is_correct": false
+        }
+      ],
+      "answer": "Failed and even more fearful"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The line 'Advice is cheap; 20 cents will get you both Dear Abby and Billy Graham in the same newspaper' suggests that:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Newspaper advice is very expensive.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Advice is easily available but may not be what the speaker needs.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only famous columnists give good advice.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The speaker reads the newspaper daily.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Advice is easily available but may not be what the speaker needs."
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How does the poet describe God's way of helping people who pray?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God gives clear instructions and fixes things.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "God listens silently and lets people work things out themselves.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "God sends signs and miracles.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "God offers advice through religious leaders.",
+          "is_correct": false
+        }
+      ],
+      "answer": "God listens silently and lets people work things out themselves."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the poetic style of 'Please Listen!' as mentioned in the ENGLISH WORKSHOP?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Traditional Poetry with strict rhyme",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Colloquial or Free Verse",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sonnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Epic poetry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Colloquial or Free Verse"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In the 'Warming up!' activity 'Agreements and Disagreements', which phrase is suggested for asking a friend's opinion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I totally disagree.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Exactly!",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "What do you think?",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Let's agree to disagree!",
+          "is_correct": false
+        }
+      ],
+      "answer": "What do you think?"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the speaker mean by 'Irrational feelings make sense when we understand what's behind them'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Irrational feelings should be ignored.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Once the root cause of a feeling is understood, the feeling itself becomes logical.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only smart people have irrational feelings.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Understanding feelings is impossible.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Once the root cause of a feeling is understood, the feeling itself becomes logical."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Based on the poem, what is the primary thing the speaker wants from the listener?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A quick solution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Financial help",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Validation of their feelings through active listening",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To be left alone",
+          "is_correct": false
+        }
+      ],
+      "answer": "Validation of their feelings through active listening"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What rule applies to the 'Twenty Questions' warming-up activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "You can ask direct questions like 'What is it?'",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The leader can give false answers to mislead.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The maximum number of questions the group can ask is 20.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only 'Yes/No' questions are allowed.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The maximum number of questions the group can ask is 20."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the final promise the speaker makes to the listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To never ask for help again",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To listen in return when it's the listener's turn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To follow all the advice given",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To solve their own problems immediately",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen in return when it's the listener's turn"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What does the speaker say happens when the listener begins to tell them why they shouldn't feel a certain way?",
+      "answer": "The listener is 'trampling on my feelings.'"
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "According to the speaker, what two states might they be in, but they are definitely not?",
+      "answer": "They might be 'discouraged and faltering, but not helpless.'"
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What does the speaker say the listener contributes to when they do something the speaker can do for themselves?",
+      "answer": "They 'contribute to my fear and inadequacy.'"
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'irrational' as given in the glossary?",
+      "answer": "Illogical, without any reason or base."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "In the 'Agreements and Disagreements' activity, what is one suggested topic for discussion?",
+      "answer": "Clothes, latest fashion (or any other from the list like Traffic, Cleanliness, etc.)."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the primary difference between 'hear' and 'listen' as implied by the poem's title?",
+      "answer": "'Hear' is the physical act of perceiving sound, while 'listen' implies active, attentive, and empathetic engagement with the speaker's words and feelings."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What does the speaker ask the listener NOT to do?",
+      "answer": "Don't talk or do - just hear me."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What happens when the speaker's feelings are accepted as a 'simple fact'?",
+      "answer": "The speaker can stop trying to convince the listener and start understanding the root of the feeling."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Name one activity from the ENGLISH WORKSHOP that involves self-reflection over a week.",
+      "answer": "Maintaining a diary about interactions with people."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What type of letter are students asked to write in the ENGLISH WORKSHOP?",
+      "answer": "An informal letter from a teenager to a parent expressing thoughts from the poem."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What are the two poems compared in the ENGLISH WORKSHOP activity 10?",
+      "answer": "'Invictus' and 'Please Listen!'."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "In the 'Twenty Questions' game, what must the leader write on the slip of paper?",
+      "answer": "The reference to one item (a picture, paragraph, or lesson) from a 9th standard textbook."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is a proverb or axiom that conveys a message similar to 'Self-help is the best help'? (Name one)",
+      "answer": "Example: 'God helps those who help themselves.' (Any appropriate proverb is acceptable)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What does the speaker imply about their own ability by saying 'I can do for myself'?",
+      "answer": "They are capable and self-sufficient, even if they are currently struggling."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is the intended outcome when someone truly listens, according to the poem?",
+      "answer": "The answers become obvious to the speaker, and they no longer need advice."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the tone of the poem 'Please Listen!'?",
+      "answer": "The tone is pleading, assertive, and conversational."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "In the comparison table between 'Invictus' and 'Please Listen', which one is an example of Free Verse?",
+      "answer": "'Please Listen' is an example of Free Verse."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What does the poet suggest is more valuable than giving advice?",
+      "answer": "Simply listening and accepting the speaker's feelings."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is one 'Don't' listed in the poem's message?",
+      "answer": "Do not give advice. / Do not try to solve the problem for me. / Do not tell me why I shouldn't feel that way."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What activity in the chapter helps practice formulating different types of questions?",
+      "answer": "The 'Twenty Questions' warming-up activity."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Explain the significance of the line 'God just listens and lets you work it out for yourself.' in the context of the poem's overall message.",
+      "answer": "This line serves as a powerful analogy to reinforce the poem's central message. The speaker suggests that even in prayer, what makes it effective for some people is the perceived silent, non-judgmental listening of God, who doesn't offer immediate advice or intervention. By comparing the ideal human listener to God, the poet elevates the act of simple listening to a sacred, profoundly helpful practice. It implies that true support and empowerment come not from taking over someone's problem, but from providing a silent, accepting space that allows the individual to find their own clarity and strength, thereby fostering self-reliance and genuine understanding."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Describe the 'Agreements and Disagreements' warming-up activity. What communication skills does it aim to develop?",
+      "answer": "In the 'Agreements and Disagreements' activity, students form pairs and prepare a list of ten topics (e.g., fashion, careers, news). They then discuss these topics to find out on which they share the same opinion and on which they differ. The activity provides useful phrases for agreement ('I totally agree'), disagreement ('I'm not sure about that'), and asking for opinions ('What do you think?'). This activity aims to develop crucial communication skills: expressing one's own viewpoint clearly and respectfully, actively listening to another's perspective, agreeing or disagreeing politely, using appropriate conversational phrases, and engaging in constructive dialogue on everyday subjects. It prepares students for real-life conversations where differing opinions are common."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "Analyze how the poem 'Please Listen!' uses a conversational or colloquial style. Provide examples from the text to support your answer.",
+      "answer": "The poem 'Please Listen!' is written in a direct, conversational, or colloquial style, making it feel like a heartfelt monologue or a personal plea rather than a formal literary piece. This is evident in several ways: 1) **Direct Address**: It uses 'you' and 'me' throughout, creating an intimate, one-on-one dialogue (e.g., 'When I ask you to listen to me'). 2) **Informal Diction**: It uses everyday language like 'cheap,' 'get you,' and 'wait a minute.' 3) **Sentence Structure**: It uses straightforward, sometimes fragmented sentences that mimic spoken speech ('Listen! All I ask is that you listen.'). 4) **Parenthetical Remarks**: It includes asides like 'strange as that may seem,' which is typical of casual conversation. 5) **Contemporary References**: It mentions newspaper advice columns ('Dear Abby'), anchoring it in modern everyday life. This style makes the poem's emotional message more immediate and relatable to the reader."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "What does the poem suggest about the relationship between listening and solving one's own problems? Discuss with reference to specific lines.",
+      "answer": "The poem suggests that empathetic listening is the essential first step that enables a person to solve their own problems. It argues that premature advice or intervention ('you feel you have to do something to solve my problem') actually hinders this process by fostering 'fear and inadequacy.' True listening—'accept[ing] as a simple fact that I feel what I feel'—creates a safe psychological space. In this space, the speaker can stop defending their feelings ('stop trying to convince you') and begin the 'business of understanding what's behind this irrational feeling.' The poem concludes that 'when that's clear, the answers are obvious and I don't need advice.' Therefore, listening isn't passive; it's an active catalyst that empowers self-discovery and problem-solving."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "Based on the poem's message, why should seniors (parents, teachers) avoid over-protecting or over-pampering juniors? Connect the poem's ideas to this life lesson.",
+      "answer": "The poem's core idea is that doing for someone what they can and need to do for themselves undermines their confidence and growth. Applying this to seniors and juniors: over-protection or over-pampering is equivalent to the listener who immediately 'has to do something to solve my problem.' When seniors constantly intervene, they 'contribute to [the junior's] fear and inadequacy,' sending the message that the junior is not capable. This prevents the junior from developing resilience, problem-solving skills, and self-belief. Just as the poem advocates for listening that allows self-work, seniors should provide guidance and a supportive ear, but also the space for juniors to face challenges, make mistakes, and 'work it out' themselves. This fosters true independence and strength."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "What is the purpose of the 'Twenty Questions' warming-up activity, and how does it relate to the chapter's theme of listening?",
+      "answer": "The 'Twenty Questions' activity serves as an engaging exercise in focused inquiry and deduction. One person thinks of an item, and the rest of the group must guess it by asking up to 20 thoughtful questions (Wh- or Yes/No questions, not direct ones). This activity directly relates to the chapter's theme of listening in two key ways. First, it requires **active listening**: participants must carefully listen to each answer to formulate their next logical question, avoiding repetition. Second, it models **restraint in jumping to conclusions**: just as the poem advises against jumping to give advice, the game teaches players to gather full information (listen) before guessing the answer (acting/solving). It underscores that effective communication often involves asking good questions and processing the answers carefully before responding."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "Compare and contrast the poetic forms of 'Invictus' (from a previous chapter) and 'Please Listen!' as outlined in the ENGLISH WORKSHOP activity 10.",
+      "answer": "The comparison highlights the difference between Traditional Poetry and Free Verse. **'Invictus'** is an example of **Traditional Poetry**. It features a steady rhythm, a consistent rhyme scheme (ABAB), uniformity in the length of lines and the number of lines per stanza (quatrains), and uses formal, figurative language (e.g., 'night that covers me,' 'bludgeonings of chance'). **'Please Listen!'** is an example of **Free Verse** or Colloquial style. It lacks a regular rhyme scheme, has no steady rhythm, features lines of vastly different lengths, has stanzas of unequal number of lines, and uses simple, conversational language with few traditional poetic devices. 'Invictus' is structured and declamatory, while 'Please Listen!' is unstructured and mimics intimate speech, showing how form supports content—one is a formal declaration of defiance, the other an informal, personal plea."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "The poet says, 'Irrational feelings make sense when we understand what's behind them.' Explain this psychological insight with an example and relate it to the importance of listening.",
+      "answer": "This line presents a key psychological insight: even emotions that seem illogical on the surface have an underlying cause, often rooted in past experiences, fears, or unmet needs. For example, a student might feel intense anxiety (irrational feeling) about a minor test. The feeling 'makes sense' when understood that behind it is a deep fear of disappointing their parents, stemming from a past incident. The importance of listening comes in here. If a friend immediately says, 'Don't be silly, it's just a small test!' (giving advice/ dismissing the feeling), the cause remains buried. But if the friend simply listens, allowing the student to talk freely, the student might themselves uncover the root fear ('I'm scared because last time I failed, my parents were so upset...'). The listening process facilitates this self-discovery, transforming the 'irrational' anxiety into a comprehensible reaction to a specific worry."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "How do the activities in the ENGLISH WORKSHOP (like writing a diary, an informal letter, and finding proverbs) help students internalize the poem's message?",
+      "answer": "The ENGLISH WORKSHOP activities use multiple modes of engagement to help students internalize the abstract message of the poem. 1) **Writing a Diary**: This reflective practice requires students to observe and analyze their own real-life interactions, judging if they felt heard or not. It connects the poem's theory to their personal experience. 2) **Writing an Informal Letter**: This creative task asks students to adopt the poem's perspective and articulate those feelings to a specific audience (a parent). This fosters empathy and allows them to practice expressing the need for listening in their own words. 3) **Finding Proverbs**: This research activity connects the poem's theme ('self-help is the best help') to wider cultural wisdom, showing its universal and timeless value. Together, these activities move learning from comprehension (understanding the poem) to application (diary), creation (letter), and connection (proverbs), ensuring a deeper, more personal understanding of the importance of listening and self-reliance."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "Summarize the key life lessons about communication and emotional support that a reader can learn from the poem 'Please Listen!'.",
+      "answer": "The poem 'Please Listen!' offers profound life lessons about communication and emotional support. Firstly, it teaches that **listening is an active, powerful form of support** that is often more valuable than speaking or doing. Secondly, it highlights that **premature advice or problem-solving can be disempowering**, making the person feel more inadequate and fearful. Thirdly, it underscores the **importance of validating feelings**, even irrational ones, as a step towards self-understanding. Fourthly, it champions **self-reliance and intrinsic capability**, reminding us that people are often not helpless but just need a space to find their own answers. Finally, it models **reciprocity in relationships** by ending with the speaker's promise to listen in return. The ultimate lesson is that true help empowers the other person to help themselves, and this begins with the simple, profound act of listening."
+    }
+  ]
+}

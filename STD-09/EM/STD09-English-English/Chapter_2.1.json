@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.2.1",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Invictus"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The word 'Invictus' means:",
+      "options": [
+        { "option_id": 1, "text": "Victorious", "is_correct": false },
+        { "option_id": 2, "text": "Unconquered", "is_correct": true },
+        { "option_id": 3, "text": "Invisible", "is_correct": false },
+        { "option_id": 4, "text": "Brave", "is_correct": false }
+      ],
+      "answer": "Unconquered"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the 'place of wrath and fears' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "A prison", "is_correct": false },
+        { "option_id": 2, "text": "The poet's past life", "is_correct": true },
+        { "option_id": 3, "text": "A battlefield", "is_correct": false },
+        { "option_id": 4, "text": "A nightmare", "is_correct": false }
+      ],
+      "answer": "The poet's past life"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the poet thank the gods for?",
+      "options": [
+        { "option_id": 1, "text": "His wealth", "is_correct": false },
+        { "option_id": 2, "text": "His unconquerable soul", "is_correct": true },
+        { "option_id": 3, "text": "His health", "is_correct": false },
+        { "option_id": 4, "text": "His friends", "is_correct": false }
+      ],
+      "answer": "His unconquerable soul"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does the phrase 'bludgeonings of chance' refer to?",
+      "options": [
+        { "option_id": 1, "text": "Unexpected strokes of bad luck", "is_correct": true },
+        { "option_id": 2, "text": "Physical attacks from enemies", "is_correct": false },
+        { "option_id": 3, "text": "Chance meetings with friends", "is_correct": false },
+        { "option_id": 4, "text": "Opportunities for success", "is_correct": false }
+      ],
+      "answer": "Unexpected strokes of bad luck"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which line shows that the poet has suffered bravely?",
+      "options": [
+        { "option_id": 1, "text": "\"Out of the night that covers me\"", "is_correct": false },
+        { "option_id": 2, "text": "\"I have not winced nor cried aloud.\"", "is_correct": true },
+        { "option_id": 3, "text": "\"I thank whatever gods may be\"", "is_correct": false },
+        { "option_id": 4, "text": "\"It matters not how strait the gate.\"", "is_correct": false }
+      ],
+      "answer": "\"I have not winced nor cried aloud.\""
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the poet say he is the master of?",
+      "options": [
+        { "option_id": 1, "text": "His country", "is_correct": false },
+        { "option_id": 2, "text": "His enemies", "is_correct": false },
+        { "option_id": 3, "text": "His fate", "is_correct": true },
+        { "option_id": 4, "text": "The gods", "is_correct": false }
+      ],
+      "answer": "His fate"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the 'Horror of the shade' most likely symbolize?",
+      "options": [
+        { "option_id": 1, "text": "Cool relief", "is_correct": false },
+        { "option_id": 2, "text": "Death", "is_correct": true },
+        { "option_id": 3, "text": "A pleasant memory", "is_correct": false },
+        { "option_id": 4, "text": "A dark room", "is_correct": false }
+      ],
+      "answer": "Death"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "In the warming-up activity, what does a 'tall mountain' symbolize?",
+      "options": [
+        { "option_id": 1, "text": "Beauty", "is_correct": false },
+        { "option_id": 2, "text": "Strength/Firmness", "is_correct": true },
+        { "option_id": 3, "text": "Freedom", "is_correct": false },
+        { "option_id": 4, "text": "Hope", "is_correct": false }
+      ],
+      "answer": "Strength/Firmness"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the central theme of the poem 'Invictus'?",
+      "options": [
+        { "option_id": 1, "text": "The beauty of nature", "is_correct": false },
+        { "option_id": 2, "text": "The pain of love", "is_correct": false },
+        { "option_id": 3, "text": "The triumph of the human spirit over adversity", "is_correct": true },
+        { "option_id": 4, "text": "The fear of death", "is_correct": false }
+      ],
+      "answer": "The triumph of the human spirit over adversity"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the 'scroll' mentioned in the last stanza refer to?",
+      "options": [
+        { "option_id": 1, "text": "A map", "is_correct": false },
+        { "option_id": 2, "text": "A book of laws or life's record of misdeeds", "is_correct": true },
+        { "option_id": 3, "text": "A prize certificate", "is_correct": false },
+        { "option_id": 4, "text": "A piece of art", "is_correct": false }
+      ],
+      "answer": "A book of laws or life's record of misdeeds"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Who is the author of the poem 'Invictus'?",
+      "answer": "William Ernest Henley."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of the poem 'Invictus'?",
+      "answer": "The rhyme scheme is ABAB CDCD EFEF GHGH."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What is meant by 'fell clutch' as used in the poem?",
+      "answer": "'Fell clutch' means a wicked or cruel trap."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by 'My head is bloody, but unbowed'?",
+      "answer": "It means he is wounded and beaten by life's struggles, but he remains defiant and unbroken in spirit."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What feeling does the poet claim the 'menace of the years' cannot instill in him?",
+      "answer": "Fear."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "According to the warming-up, what does a 'dark night' symbolize?",
+      "answer": "Deep distress."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Name one feeling listed in the warming-up activity that one might experience in grave danger.",
+      "answer": "Panic (or hopelessness, helplessness, etc.)."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'looms' as given in the glossary?",
+      "answer": "Hangs overhead."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Which two things does the poet declare himself to be the captain and master of?",
+      "answer": "He is the master of his fate and the captain of his soul."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the other poem suggested for reading in the ENGLISH WORKSHOP?",
+      "answer": "'Where lies the land...' by A. C. Clough."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What does the poet compare the night to in the first stanza?",
+      "answer": "He compares it to a pit that is black from pole to pole."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What is the 'strait gate' a metaphor for?",
+      "answer": "It is a metaphor for the narrow and difficult path of life or the passage to the afterlife."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Warming up!' activity before the poem?",
+      "answer": "It helps students introspect and connect their personal feelings about adversity to the themes of the poem."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "According to the matching activity, what does a 'rose' symbolize?",
+      "answer": "Beauty."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does 'winced' mean?",
+      "answer": "Jerked with pain."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "In the context of the poem, what is 'circumstance'?",
+      "answer": "It refers to the difficult situations or events in the poet's life."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What does the poet imply by saying 'Beyond this place of wrath and tears'?",
+      "answer": "He is referring to what lies after the struggles and sufferings of the present life."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the tone of the poem 'Invictus'?",
+      "answer": "The tone is defiant, resolute, and courageous."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What literary device is primarily used in the line 'Black as the Pit from pole to pole'?",
+      "answer": "Simile."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the main lesson a reader can take from the poem 'Invictus'?",
+      "answer": "To remain strong and in control of one's inner self despite external hardships."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Explain the significance of the title 'Invictus' in relation to the poem's message.",
+      "answer": "The title 'Invictus', meaning 'unconquered', is the central theme of the poem. It signifies the indomitable human spirit that refuses to be subdued by suffering, misfortune ('bludgeonings of chance'), or fear ('menace of the years'). The poet declares that although his body may be battered ('head is bloody'), his soul remains 'unconquered'. He asserts ultimate control over his own destiny ('master of my fate') and inner self ('captain of my soul'). The title, therefore, encapsulates the poem's core message of resilience, self-mastery, and triumph in the face of extreme adversity."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Analyze the use of imagery in the first stanza of 'Invictus'. How does it set the tone for the poem?",
+      "answer": "The first stanza uses powerful, dark imagery to set a tone of profound struggle and isolation. The 'night that covers me' and the comparison to a 'Pit' that is 'Black... from pole to pole' create a vivid picture of complete and inescapable darkness, symbolizing overwhelming despair or hardship. This imagery makes the poet's gratitude—'I thank whatever gods may be / For my unconquerable soul'—even more striking. By establishing such a bleak backdrop, Henley immediately highlights the contrast between the external darkness and the internal, unyielding light of his spirit, thereby emphasizing the poem's central theme of inner strength prevailing against all odds."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "What do the phrases 'place of wrath and tears' and 'Horror of the shade' refer to? Explain their significance in the poem.",
+      "answer": "The 'place of wrath and tears' refers to the poet's current life, filled with anger, suffering, and sorrow. The 'Horror of the shade' refers to the ominous threat of death or the unknown that lies beyond this life. Their significance lies in showcasing the poet's fearlessness. He acknowledges the pain of his present existence and the looming uncertainty of the future (death), yet he declares himself 'unafraid'. By confronting both the misery of life and the terror of what comes after, the poet demonstrates the absolute depth of his courage and the extent of his unconquerable soul, making his final declaration of self-mastery even more powerful."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Describe the personal introspection activity in the 'Warming up!' section. What is its purpose in the context of this chapter?",
+      "answer": "The 'Warming up!' activity asks students to introspect by responding 'YES' or 'NO' to a list of potential feelings (like panic, hopelessness, calmness) and reactions (like praying, asking for help, taking it as a challenge) they might experience when faced with serious problems or danger. They then write about these feelings and discuss them in groups. The purpose is to make the theme of the poem personal and relatable before reading it. By reflecting on their own vulnerabilities and coping mechanisms, students can better understand and appreciate the poet's extreme resilience and conscious choice to remain 'unbowed' and in control, creating a personal connection to the abstract concept of an 'unconquerable soul'."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "How does the poet use contrast to highlight his resilience in the second stanza?",
+      "answer": "In the second stanza, the poet uses stark contrasts between violent external forces and his own steadfast reaction. The 'fell clutch of circumstance' and the 'bludgeonings of chance' are metaphors for cruel, unpredictable, and brutal hardships. These are contrasted with his personal response: 'I have not winced nor cried aloud' and 'My head is bloody, but unbowed.' The contrast lies between the severity of the attacks and the poet's silent, unyielding endurance. He acknowledges the physical and emotional damage ('bloody') but emphasizes that his spirit remains defiant and upright ('unbowed'). This juxtaposition powerfully magnifies the image of his resilience."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "Explain the meaning and impact of the final two lines: 'I am the master of my fate: / I am the captain of my soul.'",
+      "answer": "These concluding lines are the powerful climax of the poem. 'Master of my fate' means the poet takes full responsibility for the direction and outcomes of his life, refusing to be a victim of circumstance or destiny. 'Captain of my soul' means he has supreme command over his inner life—his thoughts, emotions, and moral choices. The impact is one of ultimate empowerment and defiance. After detailing his sufferings, he proclaims an unshakeable, sovereign self-control. These lines inspire readers by asserting that true victory lies not in avoiding suffering, but in maintaining authority over one's own response and inner being, regardless of external conditions."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "Discuss the symbolism matching activity in the 'Warming up!' section. How does understanding symbolism help in interpreting poetry?",
+      "answer": "The activity asks students to match symbols like 'a tall mountain' (strength), 'a dark night' (distress), and a 'flying bird' (freedom) with their common symbolic meanings. Understanding symbolism is crucial for interpreting poetry because poets often use concrete images to represent abstract ideas, emotions, or themes. For instance, in 'Invictus', 'night', 'pit', and 'bludgeonings' are not just literal descriptions but symbols of despair, entrapment, and brutal hardship. By practicing with common symbols first, students develop the skill to look beyond the literal meaning in the poem and grasp the deeper, figurative layers that convey the poet's message about the human condition and inner strength."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "What is the role of the glossary provided with the poem? Choose two words from it and explain how knowing their meanings changes the understanding of the lines they appear in.",
+      "answer": "The glossary provides definitions for archaic, complex, or poetically charged words, ensuring students can access the poem's full meaning. For example: 1) 'Bludgeonings' means 'violent beating with a club'. Knowing this turns the line from a vague mention of chance into a visceral image of relentless, brutal assault, intensifying the sense of suffering. 2) 'Unbowed' means 'not bowed down'. Understanding this clarifies that 'bloody but unbowed' is not just about injury but specifically about remaining proud, defiant, and unsubmissive despite the injury. Without the glossary, students might misinterpret or miss the intensity and precise nuance of the poet's struggle and stance."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "Summarize the journey of the speaker's spirit as depicted through the four stanzas of 'Invictus'.",
+      "answer": "The journey begins in Stanza 1 with the speaker in utter darkness ('night that covers me'), yet he immediately establishes the core of his being—his 'unconquerable soul'—for which he is thankful. Stanza 2 details the brutal hardships ('fell clutch', 'bludgeonings') he has endured, highlighting his silent, unbowed resilience. Stanza 3 looks forward to the future, acknowledging the ongoing 'menace' and the 'Horror' of death, but reaffirming his lack of fear. The journey culminates in Stanza 4 with the speaker's ultimate declaration of self-sovereignty, asserting he is the 'master' and 'captain' of his own destiny and inner self. The journey is from acknowledging suffering, to enduring it, to facing future fears, to finally claiming complete personal empowerment."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "Why is 'Invictus' considered an inspirational poem? Connect its themes to real-life situations.",
+      "answer": "'Invictus' is inspirational because it champions the human capacity for endurance, courage, and self-determination in the face of seemingly insurmountable odds. Its themes are universally applicable to real-life situations such as overcoming personal illness (like Henley did), recovering from failure, enduring social injustice, battling depression, or facing any profound loss or challenge. The poem inspires by teaching that while we cannot always control what happens to us, we can always control our attitude and response. It encourages individuals to find their inner 'captain', to refuse to be defined by their circumstances, and to take ownership of their life's narrative, making it a timeless source of strength for anyone in adversity."
+    }
+  ]
+}

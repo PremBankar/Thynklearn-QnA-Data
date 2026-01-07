@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.1.2",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "1.2 A Synopsis - The Swiss Family Robinson"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the primary genre of 'The Swiss Family Robinson'?",
+      "options": [
+        { "option_id": 1, "text": "Romance", "is_correct": false },
+        { "option_id": 2, "text": "Adventure novel", "is_correct": true },
+        { "option_id": 3, "text": "Mystery", "is_correct": false },
+        { "option_id": 4, "text": "Historical fiction", "is_correct": false }
+      ],
+      "answer": "Adventure novel"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where were William and Elizabeth Robinson traveling when their ship encountered the storm?",
+      "options": [
+        { "option_id": 1, "text": "To Australia for a new life", "is_correct": false },
+        { "option_id": 2, "text": "To visit relatives in Switzerland", "is_correct": false },
+        { "option_id": 3, "text": "The text does not specify their destination", "is_correct": true },
+        { "option_id": 4, "text": "On a scientific expedition", "is_correct": false }
+      ],
+      "answer": "The text does not specify their destination"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did the family find growing on a tree trunk that they used for utensils?",
+      "options": [
+        { "option_id": 1, "text": "Coconuts", "is_correct": false },
+        { "option_id": 2, "text": "Gourds", "is_correct": true },
+        { "option_id": 3, "text": "Bamboo shoots", "is_correct": false },
+        { "option_id": 4, "text": "Wild berries", "is_correct": false }
+      ],
+      "answer": "Gourds"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did Fritz discover that exuded a rubbery sap?",
+      "options": [
+        { "option_id": 1, "text": "A vine", "is_correct": false },
+        { "option_id": 2, "text": "A type of mushroom", "is_correct": false },
+        { "option_id": 3, "text": "A tree", "is_correct": true },
+        { "option_id": 4, "text": "A root", "is_correct": false }
+      ],
+      "answer": "A tree"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the main difference between a work of fiction and a fact file as described in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "A fiction has more pictures.", "is_correct": false },
+        { "option_id": 2, "text": "A fiction stretches reality and aims to tell a story, while a fact file provides verified data.", "is_correct": true },
+        { "option_id": 3, "text": "A fact file is always longer.", "is_correct": false },
+        { "option_id": 4, "text": "There is no difference.", "is_correct": false }
+      ],
+      "answer": "A fiction stretches reality and aims to tell a story, while a fact file provides verified data."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What tool did they primarily use to carve out their cave?",
+      "options": [
+        { "option_id": 1, "text": "Their bare hands", "is_correct": false },
+        { "option_id": 2, "text": "Axes, chisels, hammers, and shovels", "is_correct": true },
+        { "option_id": 3, "text": "Sharp stones", "is_correct": false },
+        { "option_id": 4, "text": "Knives from the ship", "is_correct": false }
+      ],
+      "answer": "Axes, chisels, hammers, and shovels"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why did the cave house initially feel oppressive?",
+      "options": [
+        { "option_id": 1, "text": "It was too small.", "is_correct": false },
+        { "option_id": 2, "text": "It was damp and cold.", "is_correct": false },
+        { "option_id": 3, "text": "Because of low light.", "is_correct": true },
+        { "option_id": 4, "text": "It smelled bad.", "is_correct": false }
+      ],
+      "answer": "Because of low light."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What was the 'smoking rock' mentioned in the albatross's message most likely referring to?",
+      "options": [
+        { "option_id": 1, "text": "A geyser", "is_correct": false },
+        { "option_id": 2, "text": "A campfire", "is_correct": false },
+        { "option_id": 3, "text": "A volcano", "is_correct": true },
+        { "option_id": 4, "text": "Steam from hot springs", "is_correct": false }
+      ],
+      "answer": "A volcano"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How long had Jenny Montrose been stranded according to her father's belief?",
+      "options": [
+        { "option_id": 1, "text": "One year", "is_correct": false },
+        { "option_id": 2, "text": "Three years", "is_correct": true },
+        { "option_id": 3, "text": "Six months", "is_correct": false },
+        { "option_id": 4, "text": "Ten years", "is_correct": false }
+      ],
+      "answer": "Three years"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What human attribute is reflected when the father teaches the boys geometry to measure the tree?",
+      "options": [
+        { "option_id": 1, "text": "Courage and daring", "is_correct": false },
+        { "option_id": 2, "text": "Knowledge and its application", "is_correct": true },
+        { "option_id": 3, "text": "Humanity and sensitivity", "is_correct": false },
+        { "option_id": 4, "text": "Family bonds", "is_correct": false }
+      ],
+      "answer": "Knowledge and its application"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What did the other passengers on the ship do when the storm hit?",
+      "answer": "They evacuated (left the ship) without the Robinsons."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "Name the two dogs that swam to the island with the family.",
+      "answer": "Turk and Juno."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What did the father collect from the beach to build a 'sledge'?",
+      "answer": "He collected driftwood."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What was the diameter of the tree trunk Elizabeth identified for their tree-house?",
+      "answer": "Nearly forty feet."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What did the family use to make candles, according to Fritz's exploration?",
+      "answer": "They used the waxy fruit from a plant."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What did the huge footprints and trampled fields indicate had attacked their camp?",
+      "answer": "An elephant herd."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "How many rooms did they carve out in their cave residence?",
+      "answer": "Four rooms."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What did the family use a spyglass for when they saw the ship?",
+      "answer": "To check (observe) the people on the ship's encampment."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What was the name of the young woman Fritz rescued?",
+      "answer": "Jenny Montrose."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the compound word 'armloads'?",
+      "answer": "As much as can be carried in one's arms."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Use the word 'value' as a noun in a sentence.",
+      "answer": "The sentimental value of the old journal was immense."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Use the word 'knock' as a verb in a sentence.",
+      "answer": "Fritz had to knock down the albatross to defend himself."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is the literary term for the most exciting point of a story?",
+      "answer": "Climax."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "In the 'Warming up!' activity, what is one of the three difficult situations a group can imagine themselves in?",
+      "answer": "Marooned on an island, lost in a forest, or stranded on the highway."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the instruction 'Write the reactions of the companions using exclamations' ask you to do?",
+      "answer": "To express the characters' sudden feelings like fear or surprise using exclamatory sentences (e.g., 'Help!', 'What a sight!')."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What does the word 'reef' mean in the context of the chapter?",
+      "answer": "Rocks and sand close to the surface of the sea."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What does the word 'abutting' mean as per the glossary?",
+      "answer": "Having a common boundary."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What did the family's first tent home use as beds?",
+      "answer": "Armloads of grass they cut and spread on the floor."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "How did the boys create their first ladder?",
+      "answer": "By knotting a rope at intervals and attaching bamboo pieces at each knot."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What was the 'only ray of hope' activity in the Warming Up section asking students to imagine?",
+      "answer": "The one positive thing or chance of rescue the characters in their imagined scenario have."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Describe the cargo from the ship that survived the storm and proved useful to the family.",
+      "answer": "The ship's cargo that survived included livestock, guns and gunpowder, carpentry tools, books, a disassembled pinnace (a small boat), and various provisions. These items were crucial for their survival, providing food (livestock and provisions), materials for building and hunting (tools, guns), knowledge (books), and a potential means of further travel or fishing (the pinnace)."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Explain the steps involved in building the family's tree-house as described in the synopsis.",
+      "answer": "First, Elizabeth identified a suitable tree with a massive trunk and long, straight branches. Next, the father used geometry (triangles and measured rods) to calculate the height of the lowest branch, finding it to be thirty feet high. Then, to reach it, they constructed a ladder by knotting a rope at intervals and attaching bamboo pieces at each knot for steps. After securing access, they presumably built a platform and structure on the sturdy branches to create their elevated home safe from ground-based dangers."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "How did the Robinson family demonstrate 'prudent use of resources' on the island? Give specific examples.",
+      "answer": "The family demonstrated prudent use of resources by carefully utilizing everything available. They used old kegs (barrels) to build a boat. They transformed natural gourds into bowls and spoons. They used driftwood to build a sledge for transport. They identified a tree with rubbery sap for potential boot-making and waxy fruit for candles. They even used salvaged items like the ship's oil lamp, repurposing it with a bamboo pole to light their cave. Nothing was wasted."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Analyze how the character of Fritz evolves from a young boy to a young man over the ten years on the island.",
+      "answer": "Fritz evolves from a boy surviving with his family to a courageous, responsible, and compassionate young man. He actively explores the island, making discoveries like the sap tree and the albatross. His determination to rescue Jenny Montrose, based on just a note, shows great initiative and bravery. By the end, he takes the lead in deciding to return to civilization, declares his love for Jenny, and shows maturity in his plans for the future, contrasting with his siblings who choose to stay."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "Compare the educational approach of the father on the island with a traditional classroom setting. What was unique about it?",
+      "answer": "The father's educational approach was entirely practical and experiential, integrated into daily survival tasks, unlike the theoretical nature of a traditional classroom. For example, he taught geometry by having the boys measure the height of a tree branch for their house. Lessons in natural sciences came from identifying plants and animals for food and materials. This 'learning by doing' method made knowledge immediately relevant and essential for their well-being."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "Why do you think William and Elizabeth decided to stay on the island even after being rescued? Support your answer with reasons from the text.",
+      "answer": "William and Elizabeth decided to stay because the island had become their true home. The text states they 'had been there for so long and had grown used to their life.' They had built a prosperous, self-sufficient life through immense effort, creating multiple homes, a farm, and a strong community with their children. Leaving would mean abandoning the civilization they had painstakingly created over a decade for an uncertain return to their old world."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "Describe the scene when the rescue ship's crew first sees the Robinsons' settlement. What might have amazed them?",
+      "answer": "When the crew of the British vessel visited New Switzerland, they were amazed by the 'prosperity and good health of the survivors.' They likely saw well-built homes (tree-houses, a cave house), cultivated fields with healthy crops (corn, melons, pumpkins), managed livestock, and a family that was not just surviving but thriving. This contrasted sharply with their expectation of finding desperate, ragged castaways."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "What is the significance of the father keeping a journal of their adventures? What purpose does it serve by the end of the story?",
+      "answer": "The father keeping a journal served as a record of their experiences, knowledge gained, and the family's history on the island. By the end, it transforms from a personal log into a legacy. Handing it to the captain to be published turns their private survival story into a public one—the very novel 'The Swiss Family Robinson' we are reading. It immortalizes their lessons in self-reliance and adventure for others."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "Based on the chapter, how does the story 'The Swiss Family Robinson' go beyond mere adventure to become instructive?",
+      "answer": "The story goes beyond adventure by embedding instruction within the narrative. It teaches practical skills like building, farming, and applying math and science. More importantly, it instills moral values: perseverance in the face of storms, cooperation in building homes, love for family in staying together, resourcefulness in using available materials, and humanity in rescuing Jenny. The father's constant teaching moments turn every challenge into a lesson."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "Imagine you are part of a group 'marooned on an island' as per the Warming Up activity. Describe your surroundings and the 'only ray of hope' you might conceive.",
+      "answer": "Our surroundings would be a seemingly endless expanse of blue ocean meeting a sandy shore lined with palm trees. Dense, unknown jungle lies inland, filled with strange sounds. The only signs of life are birds and crabs. The 'only ray of hope' might be finding a source of fresh water inland, spotting a distant but regular ship route on the horizon, or discovering a cave that could provide shelter and possibly contain resources left by previous inhabitants."
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "What does the synopsis suggest about the importance of family bonds in overcoming adversity?",
+      "answer": "The synopsis strongly suggests that strong family bonds are the foundation for overcoming adversity. The Robinsons face every challenge—storms, building shelters, finding food, and evading danger—as a united team. Each member contributes according to their ability: the parents lead and teach, while the sons explore and labor. Their mutual love, trust, and cooperation are what turn a desperate situation into a successful, long-term home, proving that unity is a key survival tool."
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "Explain the process of how they illuminated their dark cave house. What does this solution reveal about their ingenuity?",
+      "answer": "To illuminate the dark cave, father and Jack rigged up a light. They found a tall bamboo pole that reached from the cave floor to the ceiling. After securing it in place, Jack climbed to the top and hung a large oil lamp they had salvaged from the ship. This solution reveals high ingenuity: it repurposes salvaged items (lamp, bamboo), uses local materials (bamboo pole), and solves a practical problem (low light) by creating a stable, elevated light source that brightens the entire room without taking up floor space."
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "How does the chapter connect the changes in the family's residence to the 'history of man's evolution'?",
+      "answer": "The chapter prompts a connection by showing the family progressing through different types of dwellings similar to human evolution. They start with a temporary tent (nomadic shelter), then build a tree-house (like early arboreal habitats or elevated protection), then carve a cave (like prehistoric cave dwellers), and finally construct a sophisticated house on strong tree foundations (advanced, permanent architecture). This mirrors humanity's journey from simple, mobile shelters to complex, secure, and permanent homes."
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "Summarize the key events that occur from the moment Fritz finds the albatross's message to the reunion of Jenny with her father.",
+      "answer": "Fritz knocks down an attacking albatross and finds a message from Jenny Montrose stranded on 'smoking rock.' He sends a hopeful reply. Determined, he later finds and rescues her. She joins the family. Later, a ship arrives whose captain reveals he was inspired to search by Jenny's father, who believed she was still alive after three years. The captain's meeting with the Robinsons leads to the revelation of Jenny's presence, resulting in a joyful reunion facilitated by the family's hospitality and Fritz's bravery."
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "Discuss the role of Elizabeth (Mother) in the family's survival, beyond just tending the garden.",
+      "answer": "Elizabeth played a crucial strategic and nurturing role. She identified the need for and the location of the safer tree-house, showing foresight. She managed the home, softened their first beds with grass, and provided sustenance through her garden, ensuring a steady food supply. She maintained family morale and domestic order, creating a sense of normalcy and care that was as vital for psychological survival as food and shelter were for physical survival."
+    },
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "What precaution did the family take before building their fourth residence, and why was it necessary?",
+      "answer": "Before building their fourth residence, they decided against using stilts. This precaution was necessary because they had just witnessed the destructive power of the elephant herd, which trampled their fields and could easily knock down a stilt house. Instead, they chose to use four naturally strong, closely spaced trees as the foundational pillars. This design was a direct precautionary measure to create a home that was elevated and safe from large, powerful ground animals."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "How does the 'ENGLISH WORKSHOP' activity on compound words and noun/verb usage help in understanding the chapter's language?",
+      "answer": "The workshop activities deepen understanding of the chapter's specific language. Identifying compound words like 'driftwood' or 'fireplace' breaks down their meaning, helping visualize key elements from the story (e.g., wood that drifts, a place for a fire). Practicing words like 'hold' or 'value' as both nouns and verbs builds vocabulary flexibility, allowing students to grasp their different uses in the text (e.g., ship's hold vs. to hold a bag). This makes reading more precise and enriches comprehension."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "In the context of the story, what does the albatross symbolize?",
+      "answer": "In this story, the albatross symbolizes both a threat and a lifeline. Initially, it is a physical threat attacking Fritz. However, it becomes a crucial messenger, carrying the plea for help from Jenny and later Fritz's message of hope. Thus, it symbolizes unexpected connection and the role of chance in rescue. Unlike its traditional symbolism as a burden (from 'The Rime of the Ancient Mariner'), here it is a catalyst for a positive turning point, bridging two separate castaways."
+    },
+    {
+      "question_id": 49,
+      "question_type": "LONG",
+      "question": "Describe the 'cross-currents of air' the family created in their cave and their purpose.",
+      "answer": "The 'cross-currents of air' refer to the airflow they created by cutting windows in opposite walls of the cave rooms. This allowed fresh air to enter from one side and stale air to exit from the other, creating ventilation. The purpose was to make the cave habitable by preventing it from becoming stuffy, damp, or oppressive. It also allowed sunlight to enter, addressing the low light problem and making the space healthier and more pleasant to live in."
+    },
+    {
+      "question_id": 50,
+      "question_type": "LONG",
+      "question": "What is the overall message about human adaptability and resilience conveyed by the synopsis of this novel?",
+      "answer": "The synopsis conveys a powerful message that humans are highly adaptable and resilient when faced with extreme challenges. Thrown into an unknown environment, the Robinsons don't merely survive; they learn, innovate, and thrive. They adapt their skills, use their intelligence, cooperate, and maintain hope. Their journey from shipwrecked victims to prosperous settlers of 'New Switzerland' shows that with courage, knowledge, and family unity, humans can not only endure but also build a new and fulfilling life against all odds."
+    },
+    {
+      "question_id": 51,
+      "question_type": "LONG",
+      "question": "Explain the meaning of 'anticlimax' and how it differs from a story's climax.",
+      "answer": "The climax is the most intense, exciting, or turning point in a story, often near the end. An 'anticlimax' is a disappointing or letdown that follows a significant event or build-up. It is a weak or trivial conclusion that fails to meet the expectations created by the preceding action. For example, if a story builds tension for a great battle but the conflict is resolved by a sudden rainstorm stopping the fight, that would be an anticlimax. A climax heightens emotion, while an anticlimax deflates it."
+    },
+    {
+      "question_id": 52,
+      "question_type": "LONG",
+      "question": "How did the family's approach to problem-solving change after the elephant attack?",
+      "answer": "After the elephant attack, which destroyed their hut and fields, their problem-solving became more defensive and strategic regarding large-scale threats. Previously, they built shelters for comfort and safety from weather or small animals. After the attack, they specifically designed their next residence (the fourth home) to deter large, powerful wild animals. They abandoned the idea of a house on stilts, recognizing its vulnerability, and instead engineered a home integrated into the unshakeable strength of multiple large trees, showing a shift towards more robust, long-term security planning."
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "What can a reader learn about self-reliance from the Robinson family's experience?",
+      "answer": "A reader learns that self-reliance is not just about independence but about using one's own skills, intelligence, and available resources to meet needs without external help. The Robinsons relied on themselves to find food (hunting, farming), build shelter (from tents to tree-houses), create tools (from gourds), and solve problems (lighting the cave). It teaches that self-reliance is built through continuous effort, learning from the environment, and trusting in one's own and one's family's capabilities to create a sustainable life."
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "Why is it significant that the novel has been made into graphic novels and films?",
+      "answer": "It is significant because it shows the enduring popularity and universal appeal of the story's core themes—adventure, family, and survival. Adaptations into different media like graphic novels and films make the story accessible to new generations and different types of learners (visual vs. textual). It proves that the lessons of courage, resourcefulness, and cooperation are timeless and can be effectively retold across various formats, expanding the novel's educational and inspirational impact beyond its original pages."
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "Describe the method used to transport materials for building, as mentioned in the text.",
+      "answer": "To transport heavy building materials, the father built a 'sledge.' He collected driftwood from the beach to construct it. A sledge is a vehicle that moves on runners (long, smooth strips) instead of wheels, making it ideal for dragging over rough or sandy ground where wheels would sink. This ingenious use of available materials allowed them to move heavy items like wood, rocks, or tools more efficiently from the beach or forest to their various construction sites across the island."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "How does the chapter introduce the concept of 'good husbandry'?",
+      "answer": "The chapter introduces 'good husbandry'—the careful management of resources, especially in farming and animal care—through the family's actions. Elizabeth tending her garden (growing corn, melons, pumpkins) is an example of crop husbandry. The survival of the ship's livestock implies they had to care for animals. Their prudent use of plants (like the gourd tree and wax-fruit plant) and planning for winter storage also fall under good husbandry, showing foresight in managing the island's natural bounty for sustained living."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "What was the final act of the father that ensured their story would be known to the world?",
+      "answer": "The father's final act was handing over his journals—the detailed record of all their adventures, discoveries, and life on the island—to the captain of the rescue ship. He requested that these journals be published. This act ensured that their firsthand account of survival, ingenuity, and family unity would be shared with the world, ultimately becoming the novel 'The Swiss Family Robinson' itself."
+    },
+    {
+      "question_id": 58,
+      "question_type": "LONG",
+      "question": "In the 'Individual Project' suggestion, what is the purpose of creating a chapterwise outline before writing a synopsis?",
+      "answer": "Creating a chapterwise outline first serves to organize thoughts and identify the major events in their correct sequence. It breaks down the novel's structure, ensuring no key plot point is missed. By listing events chapter by chapter, one can see the logical links between them—how one event causes or leads to the next. This structured approach makes it easier to then condense and synthesize this information into a coherent, brief synopsis that captures the essence and flow of the entire story without getting lost in minor details."
+    },
+    {
+      "question_id": 59,
+      "question_type": "LONG",
+      "question": "How does the story handle the theme of 'hope'?",
+      "answer": "The story treats hope as an essential, active force for survival. Initially, hope is the sight of the island. Later, it's the small successes like a good harvest or a safe home. Most powerfully, hope is embodied in messages: the family's hope for rescue persists for ten years, and Jenny's message is an act of hope that Fritz reciprocates with his own note ('Do not despair. Hope is near!'). Hope drives exploration, building, and rescue missions. The happy ending validates that sustained hope, combined with action, leads to salvation."
+    },
+    {
+      "question_id": 60,
+      "question_type": "LONG",
+      "question": "Based on the synopsis, what is the ultimate fate of the Robinson family?",
+      "answer": "The ultimate fate of the Robinson family is a bittersweet separation that respects individual choice. The family unit, as it lived for ten years, dissolves. William and Elizabeth, along with Ernest and Jack, choose to remain permanently on New Switzerland, the home they built. Fritz and the youngest son, Franz, choose to return to Europe with the rescue ship. Fritz plans to marry Jenny Montrose. Thus, the family's fate is not an end but a new beginning on two different paths, united by their shared history and the father's published journals."
+    }
+  ]
+}

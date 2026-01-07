@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.12",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Tourism"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the primary definition of tourism?",
+      "options": [
+        { "option_id": 1, "text": "Staying at home for a vacation", "is_correct": false },
+        { "option_id": 2, "text": "Visiting various places away from home for joy, entertainment, or trading", "is_correct": true },
+        { "option_id": 3, "text": "Moving permanently to another country", "is_correct": false },
+        { "option_id": 4, "text": "Working in a local factory", "is_correct": false }
+      ],
+      "answer": "Visiting various places away from home for joy, entertainment, or trading"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Tourism within the limits of one's own country is called ______.",
+      "options": [
+        { "option_id": 1, "text": "International tourism", "is_correct": false },
+        { "option_id": 2, "text": "Foreign tourism", "is_correct": false },
+        { "option_id": 3, "text": "Domestic tourism", "is_correct": true },
+        { "option_id": 4, "text": "Eco-tourism", "is_correct": false }
+      ],
+      "answer": "Domestic tourism"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which document is essential to travel to a foreign country?",
+      "options": [
+        { "option_id": 1, "text": "Aadhaar Card", "is_correct": false },
+        { "option_id": 2, "text": "Passport", "is_correct": true },
+        { "option_id": 3, "text": "Ration Card", "is_correct": false },
+        { "option_id": 4, "text": "School ID", "is_correct": false }
+      ],
+      "answer": "Passport"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Tourism is considered a type of ______ trade.",
+      "options": [
+        { "option_id": 1, "text": "Visible", "is_correct": false },
+        { "option_id": 2, "text": "Invisible", "is_correct": true },
+        { "option_id": 3, "text": "Wholesale", "is_correct": false },
+        { "option_id": 4, "text": "Barter", "is_correct": false }
+      ],
+      "answer": "Invisible"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the concept of tourism that emphasizes environment conservation?",
+      "options": [
+        { "option_id": 1, "text": "Agro-tourism", "is_correct": false },
+        { "option_id": 2, "text": "Health tourism", "is_correct": false },
+        { "option_id": 3, "text": "Ecotourism", "is_correct": true },
+        { "option_id": 4, "text": "Film tourism", "is_correct": false }
+      ],
+      "answer": "Ecotourism"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which special train originates at Mumbai and visits places like Nashik, Ellora, and Ajanta?",
+      "options": [
+        { "option_id": 1, "text": "Palace on Wheels", "is_correct": false },
+        { "option_id": 2, "text": "Deccan Odyssey", "is_correct": true },
+        { "option_id": 3, "text": "Rajdhani Express", "is_correct": false },
+        { "option_id": 4, "text": "Shatabdi Express", "is_correct": false }
+      ],
+      "answer": "Deccan Odyssey"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The 'Vistadome' coaches are special attractions because they have ______.",
+      "options": [
+        { "option_id": 1, "text": "Wooden floors", "is_correct": false },
+        { "option_id": 2, "text": "Transparent ceilings", "is_correct": true },
+        { "option_id": 3, "text": "Open windows", "is_correct": false },
+        { "option_id": 4, "text": "No seats", "is_correct": false }
+      ],
+      "answer": "Transparent ceilings"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where is the MTDC 'scuba diving' training centre of international standards located?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Tarkarli", "is_correct": true },
+        { "option_id": 3, "text": "Pune", "is_correct": false },
+        { "option_id": 4, "text": "Nagpur", "is_correct": false }
+      ],
+      "answer": "Tarkarli"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is a pollution-free location away from the city that shows a glimpse of agricultural life?",
+      "options": [
+        { "option_id": 1, "text": "Film City", "is_correct": false },
+        { "option_id": 2, "text": "Agro-tourism center", "is_correct": true },
+        { "option_id": 3, "text": "Sanctuary", "is_correct": false },
+        { "option_id": 4, "text": "Historical monument", "is_correct": false }
+      ],
+      "answer": "Agro-tourism center"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What technology is largely used for tourism navigation in smartphones?",
+      "options": [
+        { "option_id": 1, "text": "Bluetooth", "is_correct": false },
+        { "option_id": 2, "text": "GPS", "is_correct": true },
+        { "option_id": 3, "text": "WiFi", "is_correct": false },
+        { "option_id": 4, "text": "NFC", "is_correct": false }
+      ],
+      "answer": "GPS"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Tourism is an important ______ occupation.",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": true },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Tertiary"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of a social project mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Ramoji City", "is_correct": false },
+        { "option_id": 2, "text": "Anandwan", "is_correct": true },
+        { "option_id": 3, "text": "Deccan Odyssey", "is_correct": false },
+        { "option_id": 4, "text": "Tarkarli", "is_correct": false }
+      ],
+      "answer": "Anandwan"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The 'Palace on Wheels' train covers which major route?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai-Goa", "is_correct": false },
+        { "option_id": 2, "text": "Delhi-Jaipur-Udaipur-Agra", "is_correct": true },
+        { "option_id": 3, "text": "Kolkata-Darjeeling", "is_correct": false },
+        { "option_id": 4, "text": "Chennai-Kanyakumari", "is_correct": false }
+      ],
+      "answer": "Delhi-Jaipur-Udaipur-Agra"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Medical tourism in India is popular because treatment is ______.",
+      "options": [
+        { "option_id": 1, "text": "Expensive", "is_correct": false },
+        { "option_id": 2, "text": "Cost-effective", "is_correct": true },
+        { "option_id": 3, "text": "Unavailable", "is_correct": false },
+        { "option_id": 4, "text": "Only for locals", "is_correct": false }
+      ],
+      "answer": "Cost-effective"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an eco-friendly practice in tourism?",
+      "options": [
+        { "option_id": 1, "text": "Recycle and reuse", "is_correct": false },
+        { "option_id": 2, "text": "Throwing litter at tourist sites", "is_correct": true },
+        { "option_id": 3, "text": "Judicious use of water", "is_correct": false },
+        { "option_id": 4, "text": "Avoiding noise pollution", "is_correct": false }
+      ],
+      "answer": "Throwing litter at tourist sites"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In tourism planning, what helps in knowing exact locations and routes?",
+      "options": [
+        { "option_id": 1, "text": "Printed newspapers", "is_correct": false },
+        { "option_id": 2, "text": "Google Map applications", "is_correct": true },
+        { "option_id": 3, "text": "Radio broadcasts", "is_correct": false },
+        { "option_id": 4, "text": "Personal diaries", "is_correct": false }
+      ],
+      "answer": "Google Map applications"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is 'film tourism'?",
+      "options": [
+        { "option_id": 1, "text": "Making a movie at home", "is_correct": false },
+        { "option_id": 2, "text": "Visiting locations where films are shot", "is_correct": true },
+        { "option_id": 3, "text": "Buying DVDs of movies", "is_correct": false },
+        { "option_id": 4, "text": "Watching a movie in a local theater", "is_correct": false }
+      ],
+      "answer": "Visiting locations where films are shot"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Health tourism in India often includes ______.",
+      "options": [
+        { "option_id": 1, "text": "Indian Ayurveda and Yoga", "is_correct": true },
+        { "option_id": 2, "text": "Mountaineering only", "is_correct": false },
+        { "option_id": 3, "text": "Shopping in malls", "is_correct": false },
+        { "option_id": 4, "text": "Eating junk food", "is_correct": false }
+      ],
+      "answer": "Indian Ayurveda and Yoga"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which type of tourism gives a 'social dimension' by including tribal life?",
+      "options": [
+        { "option_id": 1, "text": "International tourism", "is_correct": false },
+        { "option_id": 2, "text": "Social development tourism", "is_correct": true },
+        { "option_id": 3, "text": "Film tourism", "is_correct": false },
+        { "option_id": 4, "text": "Commercial tourism", "is_correct": false }
+      ],
+      "answer": "Social development tourism"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "To go to a foreign country, one needs to exchange currency value with that of the destination country. This is called ______.",
+      "options": [
+        { "option_id": 1, "text": "Barter exchange", "is_correct": false },
+        { "option_id": 2, "text": "Currency exchange", "is_correct": true },
+        { "option_id": 3, "text": "Credit card payment", "is_correct": false },
+        { "option_id": 4, "text": "Local donation", "is_correct": false }
+      ],
+      "answer": "Currency exchange"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The Vistadome coach runs on the ______ route.",
+      "options": [
+        { "option_id": 1, "text": "Mumbai-Pune", "is_correct": false },
+        { "option_id": 2, "text": "Vishakhapatnam-Kirandul", "is_correct": true },
+        { "option_id": 3, "text": "Delhi-Agra", "is_correct": false },
+        { "option_id": 4, "text": "Chennai-Bengaluru", "is_correct": false }
+      ],
+      "answer": "Vishakhapatnam-Kirandul"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of these is a model village mentioned for social consciousness in tourism?",
+      "options": [
+        { "option_id": 1, "text": "Hiwre Bazaar", "is_correct": true },
+        { "option_id": 2, "text": "New York", "is_correct": false },
+        { "option_id": 3, "text": "Mumbai Film City", "is_correct": false },
+        { "option_id": 4, "text": "Konkan", "is_correct": false }
+      ],
+      "answer": "Hiwre Bazaar"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "When visiting a seaside, one should make sure to know the timings of ______.",
+      "options": [
+        { "option_id": 1, "text": "Local market hours", "is_correct": false },
+        { "option_id": 2, "text": "High and low tides", "is_correct": true },
+        { "option_id": 3, "text": "Movie screenings", "is_correct": false },
+        { "option_id": 4, "text": "School timings", "is_correct": false }
+      ],
+      "answer": "High and low tides"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What should be avoided at sea-cliffs and hill edges?",
+      "options": [
+        { "option_id": 1, "text": "Drinking water", "is_correct": false },
+        { "option_id": 2, "text": "Clicking 'selfies'", "is_correct": true },
+        { "option_id": 3, "text": "Using a map", "is_correct": false },
+        { "option_id": 4, "text": "Talking to guides", "is_correct": false }
+      ],
+      "answer": "Clicking 'selfies'"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Foreign tourists contribute to the economy by increasing ______.",
+      "options": [
+        { "option_id": 1, "text": "Local pollution", "is_correct": false },
+        { "option_id": 2, "text": "Foreign currency", "is_correct": true },
+        { "option_id": 3, "text": "Soil erosion", "is_correct": false },
+        { "option_id": 4, "text": "Import taxes", "is_correct": false }
+      ],
+      "answer": "Foreign currency"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which organization implemented programmes providing guest houses and water sports in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "IRCTC", "is_correct": false },
+        { "option_id": 2, "text": "MTDC", "is_correct": true },
+        { "option_id": 3, "text": "BCCI", "is_correct": false },
+        { "option_id": 4, "text": "ISRO", "is_correct": false }
+      ],
+      "answer": "MTDC"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Agro-tourism centers have been developed in which districts of Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai and Thane", "is_correct": false },
+        { "option_id": 2, "text": "Pune and Kolhapur", "is_correct": true },
+        { "option_id": 3, "text": "Nagpur and Wardha", "is_correct": false },
+        { "option_id": 4, "text": "Dhule and Jalgaon", "is_correct": false }
+      ],
+      "answer": "Pune and Kolhapur"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is an example of a sanctuary mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Melghat", "is_correct": true },
+        { "option_id": 2, "text": "Ajanta Caves", "is_correct": false },
+        { "option_id": 3, "text": "Gateway of India", "is_correct": false },
+        { "option_id": 4, "text": "Pune Railway Station", "is_correct": false }
+      ],
+      "answer": "Melghat"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the meaning of \"Atithi Devo Bhava\"?",
+      "options": [
+        { "option_id": 1, "text": "Guest is our enemy", "is_correct": false },
+        { "option_id": 2, "text": "Guest is our God", "is_correct": true },
+        { "option_id": 3, "text": "Tourism is business", "is_correct": false },
+        { "option_id": 4, "text": "Travel is dangerous", "is_correct": false }
+      ],
+      "answer": "Guest is our God"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of these is a religious site in India?",
+      "options": [
+        { "option_id": 1, "text": "Kaziranga", "is_correct": false },
+        { "option_id": 2, "text": "Varanasi", "is_correct": true },
+        { "option_id": 3, "text": "Port Blair", "is_correct": false },
+        { "option_id": 4, "text": "Jodhpur", "is_correct": false }
+      ],
+      "answer": "Varanasi"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Eco-friendly tourism includes not hurting ______.",
+      "options": [
+        { "option_id": 1, "text": "Rocks", "is_correct": false },
+        { "option_id": 2, "text": "Trees, birds, and animals", "is_correct": true },
+        { "option_id": 3, "text": "Tourist shops", "is_correct": false },
+        { "option_id": 4, "text": "Paved roads", "is_correct": false }
+      ],
+      "answer": "Trees, birds, and animals"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which city is famous for its seabed biodiversity and scuba diving?",
+      "options": [
+        { "option_id": 1, "text": "Nashik", "is_correct": false },
+        { "option_id": 2, "text": "Tarkarli", "is_correct": true },
+        { "option_id": 3, "text": "Aurangabad", "is_correct": false },
+        { "option_id": 4, "text": "Kolhapur", "is_correct": false }
+      ],
+      "answer": "Tarkarli"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The Deccan Odyssey is coordinated by MTDC, Indian Railways, and ______.",
+      "options": [
+        { "option_id": 1, "text": "Ministry of Defence", "is_correct": false },
+        { "option_id": 2, "text": "Ministry of Tourism", "is_correct": true },
+        { "option_id": 3, "text": "Ministry of Agriculture", "is_correct": false },
+        { "option_id": 4, "text": "Ministry of Education", "is_correct": false }
+      ],
+      "answer": "Ministry of Tourism"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'model village' associated with social activist Baba Amte?",
+      "options": [
+        { "option_id": 1, "text": "Ralegansiddhi", "is_correct": false },
+        { "option_id": 2, "text": "Anandwan", "is_correct": true },
+        { "option_id": 3, "text": "Melghat", "is_correct": false },
+        { "option_id": 4, "text": "Tarkarli", "is_correct": false }
+      ],
+      "answer": "Anandwan"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of an international tourist trip?",
+      "options": [
+        { "option_id": 1, "text": "An Indian visiting Switzerland", "is_correct": true },
+        { "option_id": 2, "text": "A person from Nagpur visiting Ellora", "is_correct": false },
+        { "option_id": 3, "text": "Traveling from Mumbai to Pune", "is_correct": false },
+        { "option_id": 4, "text": "A student from Delhi visiting Agra", "is_correct": false }
+      ],
+      "answer": "An Indian visiting Switzerland"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What is the main objective of ecotourism?",
+      "options": [
+        { "option_id": 1, "text": "Maximum profit", "is_correct": false },
+        { "option_id": 2, "text": "Environmentally friendly touring", "is_correct": true },
+        { "option_id": 3, "text": "Fastest travel", "is_correct": false },
+        { "option_id": 4, "text": "Building more concrete roads", "is_correct": false }
+      ],
+      "answer": "Environmentally friendly touring"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "A trip planning includes estimating travel ______ per person.",
+      "options": [
+        { "option_id": 1, "text": "Weight", "is_correct": false },
+        { "option_id": 2, "text": "Cost", "is_correct": true },
+        { "option_id": 3, "text": "Speed", "is_correct": false },
+        { "option_id": 4, "text": "Height", "is_correct": false }
+      ],
+      "answer": "Cost"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Natural beauty, pleasant weather, and forest areas are major ______ for tourists.",
+      "options": [
+        { "option_id": 1, "text": "Obstacles", "is_correct": false },
+        { "option_id": 2, "text": "Attractions", "is_correct": true },
+        { "option_id": 3, "text": "Expenses", "is_correct": false },
+        { "option_id": 4, "text": "Pollutants", "is_correct": false }
+      ],
+      "answer": "Attractions"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of these is a place famous for its hot springs in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Vajreshwar", "is_correct": true },
+        { "option_id": 2, "text": "Pune", "is_correct": false },
+        { "option_id": 3, "text": "Mumbai", "is_correct": false },
+        { "option_id": 4, "text": "Nashik", "is_correct": false }
+      ],
+      "answer": "Vajreshwar"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What does a tourist accept from farmers in agro-tourism?",
+      "options": [
+        { "option_id": 1, "text": "Free gifts", "is_correct": false },
+        { "option_id": 2, "text": "Hospitality on payment", "is_correct": true },
+        { "option_id": 3, "text": "Agricultural land", "is_correct": false },
+        { "option_id": 4, "text": "Modern cars", "is_correct": false }
+      ],
+      "answer": "Hospitality on payment"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define tourism.",
+      "answer": "Visiting various places away from our homes for getting joy, entertainment, trading, staying, etc. is called tourism."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is domestic tourism?",
+      "answer": "Tourism within the limits of a country is called domestic tourism."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is international tourism?",
+      "answer": "Crossing country's boundaries and visiting some other country for tourism is called international tourism."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Name two documents required for foreign tourism.",
+      "answer": "To go to a foreign country, one needs a passport and a visa."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Why is currency exchange necessary for international tourists?",
+      "answer": "Tourists need the currency of the country they are visiting to pay for goods and services."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Which mobile application is largely used for tourism navigation?",
+      "answer": "Google Maps is a special application largely used for tourism."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What information does GPS provide to a tourist?",
+      "answer": "GPS helps tourists know their exact location, travel routes, distances, and time required."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Why is tourism called an 'invisible trade'?",
+      "answer": "It is called invisible trade because it is a service-based tertiary occupation where no physical goods are traded."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is ecotourism?",
+      "answer": "Ecotourism is an eco-friendly type of tourism developed to ensure the environment is not degraded or damaged by tourists."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Define agro-tourism.",
+      "answer": "Agro-tourism is a pollution-free location away from the city holding agricultural activities where tourists can glimpse agricultural life."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name two districts in Maharashtra where agro-tourism is developed.",
+      "answer": "Agro-tourism centers have been developed in Pune and Kolhapur districts of Maharashtra."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is film tourism?",
+      "answer": "Film tourism is a type of tourism where people visit locations where films are shot."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Mention two examples of locations for film tourism.",
+      "answer": "Mumbai Film City and Ramoji City are examples of film tourism locations."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What activities can tourists do at Tarkarli in Konkan?",
+      "answer": "Tourists can do snorkelling and scuba diving at Tarkarli."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the main objective of health tourism in India?",
+      "answer": "The objective is to achieve mental peace and physical strength through Indian Ayurveda, Yoga, and Pranayam."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why do patients from developing countries come to Indian hospitals?",
+      "answer": "They come for medicinal and surgical treatment because it is cost-effective in Indian hospitals."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How does tourism give a social dimension to development?",
+      "answer": "It includes neglected components like rural lifestyle, tribal life, and culture in development."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name one model village that creates social consciousness through tourism.",
+      "answer": "Anandwan project, Ralegansiddhi, or Hiwre Bazaar are model villages creating social consciousness."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why should tourists avoid clicking 'selfies' at hill edges?",
+      "answer": "It is dangerous and can lead to accidents; tourists are advised to avoid this temptation for safety."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What precautions should be taken at a seaside?",
+      "answer": "One should know the timings of high and low tides and avoid going near unknown caves without a guide."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Mention two factors to consider when planning a trip.",
+      "answer": "Factors like duration of the trip, means of transport, and travel cost per person should be considered."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does tourism benefit the local residents of a region?",
+      "answer": "It provides employment opportunities and makes them aware of conserving their natural beauty and culture."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the 'Deccan Odyssey'?",
+      "answer": "The Deccan Odyssey is a special train like a moving palace started for tourism in Maharashtra."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is unique about the Vistadome coach ceiling?",
+      "answer": "The Vistadome coach has a transparent ceiling to provide a panoramic view of nature."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Where does the Vistadome coach run in India?",
+      "answer": "It runs on the Vishakhapatnam-Kirandul route."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How does tourism help the economy directly?",
+      "answer": "It helps through the development of restaurants, shops, transportation systems, and recreational places."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does eco-friendly development in tourism process apply?",
+      "answer": "It applies the concept of recycle and reuse and judicious use of electricity and water."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the objective of ecotourism precautions?",
+      "answer": "The objective is to avoid littering, noise pollution, and hurting trees or wild animals."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Mention one historical monument mentioned in the text.",
+      "answer": "Historical monuments include the Ajanta and Ellora caves or the Taj Mahal."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is advertisement important for tourism?",
+      "answer": "Advertisement in various media helps in the growth and promotion of tourism."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the importance of tourism as an invisible trade and its economic benefits.",
+      "answer": "Tourism is a tertiary occupation where services like transport, accommodation, and food are provided. It is called an 'invisible trade' because it generates income and foreign currency without the physical transfer of goods. Foreign tourists bring foreign currency into the economy, and the development of tourist sites creates employment for local residents, directly and indirectly boosting the national economy."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Distinguish between domestic tourism and international tourism with appropriate examples.",
+      "answer": "Domestic tourism refers to travel within the political boundaries of one's own country, such as a person from Nagpur visiting the Ellora Caves in Aurangabad. International tourism involves crossing national boundaries to visit another country, like an Indian going to Switzerland. International tourism requires documents like a passport and visa, and involves currency exchange, whereas domestic tourism does not."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Describe the factors one should consider while planning a trip to a favorite destination.",
+      "answer": "While planning a trip, one must first select the destination and find the best route using websites or maps. Factors to consider include the duration of the trip, the materials required for travel, and the best means of transport. It is also important to consider the availability of routes and estimate the travel cost per person to ensure the trip is well-organized and stays within budget."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain how technology like GPS and Google Maps has revolutionized modern tourism.",
+      "answer": "The GPS system in smartphones has made navigation easier for tourists. By using applications like Google Maps, tourists can know their exact location and find various routes to their destination. The apps provide information on distances, time required for different vehicles, and available amenities like petrol pumps, restaurants, and lodges along the way, making trip planning and travel more efficient."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "What is Ecotourism? Discuss the precautions tourists should take to practice it.",
+      "answer": "Ecotourism is an eco-friendly form of tourism that focuses on preserving the environment while touring. Tourists should take precautions like not throwing litter at sites, avoiding noise pollution, and ensuring they do not hurt trees, birds, or animals. The goal is to develop tourism without degrading or damaging the natural environment, ensuring that natural locations and sanctuaries are maintained for future generations."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the concept of Agro-tourism and why it is gaining popularity in districts like Pune and Kolhapur.",
+      "answer": "Agro-tourism involves tourists living on farms away from the city to experience agricultural life and accept farmer hospitality on payment. It is a pollution-free location where tourists can learn about farming activities. It is gaining popularity in Pune and Kolhapur because it offers urban dwellers a change from city life and provides a peaceful, educational environment while supporting the rural economy."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe the features of the Deccan Odyssey train and its importance in Maharashtra tourism.",
+      "answer": "The Deccan Odyssey is a luxury train, often described as a 'moving palace,' operated by MTDC and the Indian Railways. It originates in Mumbai and takes tourists to famous sites like Nashik, Ellora, Ajanta, Kolhapur, and Goa before returning to Mumbai. It is a major attraction for both domestic and foreign tourists, providing a unique and comfortable way to explore the diverse cultural and historical heritage of Maharashtra."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "How does tourism contribute to environmental development and conservation?",
+      "answer": "Tourism can lead to positive environmental development when the government invests in natural locations, sanctuaries, and national parks. Under the concept of eco-friendly tourism, housing, resorts, and routes are designed to be sustainable. This process often includes the judicious use of electricity and water, the application of recycle and reuse concepts, and maintaining the natural environment while allowing for tourism growth."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the significance of Medical Tourism in India.",
+      "answer": "Medical Tourism involves tourists visiting India to avail of health facilities like surgical treatments or traditional practices like Ayurveda, Yoga, and Pranayam for mental peace. Many patients from developing countries come to India because the medicinal treatments are cost-effective and of high quality. This industry develops specialized facilities to cater to these tourists, significantly contributing to the economy and the health sector."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Discuss how tourism can be a tool for social development with examples of social projects.",
+      "answer": "Tourism gets a social dimension when it includes rural life, tribal culture, and social projects in its scope. Visiting projects like 'Anandwan' (started by Baba Amte) or model villages like Hiwre Bazaar creates social consciousness among tourists. This inclusion helps in the development of neglected components of society, gives a flip to local economies, and fosters a sense of responsibility toward social issues."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "What are the key safety precautions tourists must follow while visiting seaside or hilltop locations?",
+      "answer": "Tourists should always check the timings of high and low tides before visiting a seaside. They should avoid going into deep waters or unknown caves and jungles without a local guide. Additionally, tourists must avoid the dangerous temptation of clicking 'selfies' at sea-cliffs, hill edges, or with wild animals. Following the instructions on local boards and keeping tourist places clean are also essential for safety and conservation."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain the concept and significance of Film Tourism with examples.",
+      "answer": "Film tourism is a new type of tourism where locations used for shooting films become major attractions for crowds. Significant facilities are provided to attract tourists to these sites. Examples include Mumbai Film City and Ramoji City in Hyderabad. This form of tourism not only promotes the film industry but also generates revenue and creates employment in the hospitality and service sectors near these iconic locations."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Analyze the potential for tourism development in India based on its natural and cultural diversity.",
+      "answer": "India has immense tourism potential due to its richness in natural beauty, landscapes like the Himalayas, and exquisite coastal areas. Cultural diversity, including various festivals, traditions, costumes, and hospitality, further attracts tourists. The availability of unique spices and a variety of Indian dishes also adds to the tourist experience. These factors combined create vast opportunities for various forms of tourism, from adventure to cultural and culinary."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Describe the Vistadome coach and the panoramic experience it offers to tourists.",
+      "answer": "The Indian Railways introduced the Vistadome coach, which features a transparent ceiling and air-conditioned interiors, as a special tourist attraction. It runs on the Vishakhapatnam-Kirandul route, allowing passengers to see a panoramic view of the Araku Valley, Anantagiri Ghat, and Borra Caves. This coach is designed to let tourists enjoy the nature-rich region's scenery while traveling in comfort, enhancing the joy of the journey."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Why is it important to preserve historical monuments and cultural heritage for the tourism industry?",
+      "answer": "Historical monuments and cultural heritage are major attractions that draw tourists from around the world. Preserving them is necessary to maintain the country's identity and attract future visitors. Well-preserved sites like the Ajanta and Ellora caves or ancient forts provide educational value and a sense of history. Preservation also ensures that these sites continue to generate income and employment for the local population through tourism."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain how tourism acts as a tertiary occupation and its role in introducing regions to the world.",
+      "answer": "As a tertiary occupation, tourism provides services rather than manufacturing products. It introduces the region's natural, social, and cultural environment to the global community. Through tourism, people from different parts of the world learn about a region's traditions and lifestyle. This global introduction helps in cultural exchange, fosters international respect, and promotes the region as a destination for further investment and growth."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What role does MTDC play in promoting tourism in Maharashtra?",
+      "answer": "The Maharashtra Tourism Development Corporation (MTDC) implements various programs to boost tourism, such as providing guest houses, water sports, and tourist houses near coastal areas. It operates the Deccan Odyssey luxury train in coordination with the Railways. MTDC also establishes training centers, like the scuba diving center at Tarkarli, and works to promote regional attractions through media and facilities, making Maharashtra a preferred tourist destination."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Discuss the necessity of advertisements in the growth of the tourism sector.",
+      "answer": "Advertisements in various media are crucial for promoting tourist sites and attracting domestic and international visitors. They highlight a region's unique features, such as natural beauty or historical significance, and inform potential tourists about available facilities. Effective advertising campaigns can significantly increase tourist footfall, thereby boosting the local economy, increasing foreign currency reserves, and creating more employment opportunities."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Atithi Devo Bhava' and its relevance to the tourism industry in India.",
+      "answer": "The concept 'Atithi Devo Bhava' means 'Guest is our God.' It reflects the traditional Indian value of hospitality, where guests are treated with the utmost respect and care. In the tourism industry, this philosophy is central to attracting tourists. High standards of hospitality ensure that visitors have a positive experience, encouraging them to return and recommend India to others, which is vital for the long-term growth and reputation of the tourism sector."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "How do tourism activities help local residents become more aware of conservation?",
+      "answer": "When tourism thrives, local residents realize the economic value of their region's natural beauty and cultural heritage. This awareness encourages them to conserve and protect these assets, as they are the primary source of their livelihood and employment. Residents become more vigilant about preventing pollution and damage to historical sites, leading to a community-led effort in sustainable tourism and environmental protection."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Describe the economic contribution of transportation systems and restaurants to tourism.",
+      "answer": "Transportation systems and restaurants are core components of the tourism infrastructure. As tourism develops, the demand for efficient travel routes and diverse dining options increases, leading to the growth of these sectors. They contribute directly to the economy by providing services for payment and indirectly by creating a wide range of jobs for local people, from drivers and pilots to chefs and waitstaff, thereby strengthening the regional economic fabric."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What are the common problems arising at tourist places, and what measures can be suggested to solve them?",
+      "answer": "Common problems at tourist places include pollution, littering, overcrowding, and lack of basic amenities. To solve these, the government and local bodies should develop better waste management systems and provide basic facilities like clean water and toilets. Encouraging eco-friendly tourism, using advertisements to educate tourists on behavior, and implementing strict rules against damaging monuments or clicking dangerous selfies are also effective measures."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Discuss the importance of preserving the buildings of famous people as memorials for tourism.",
+      "answer": "Preserving the buildings of famous people who have contributed to various sectors serves as an important memorial and educational site. These buildings attract tourists interested in history and the lives of significant figures. They provide inspiration and a tangible connection to the past, while also contributing to the tourism economy by adding diverse historical sites that visitors can explore, thereby enriching the cultural tourism sector."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Explain the correlation between the physiography of a region and its tourist attractions.",
+      "answer": "The physical features or physiography of a region often dictate the type of tourism that develops there. Regions with high mountains like the Himalayas attract adventure and nature tourists. Coastal areas with sea-beaches and biodiversity, like Konkan, attract those interested in water sports and relaxation. Similarly, hot springs or forest areas become centers for health and ecotourism, showing that natural geography is a primary factor in a place's fame."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Explain the importance of basic facilities at tourist sites for promoting tourism.",
+      "answer": "Basic facilities such as clean drinking water, electricity, hygienic toilets, and comfortable lodging are essential to ensure a positive experience for tourists. Without these, even the most beautiful site may fail to attract visitors. Developing these facilities makes a destination more accessible and hospitable, which is crucial for encouraging domestic and international tourists to stay longer and spend more, thereby supporting the local economy."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Describe the features of Tarkarli and how it has been developed as a tourist center.",
+      "answer": "Tarkarli in Konkan is famous for its clean seabed and rich biodiversity. MTDC has developed it into a premier destination for water sports like snorkelling and scuba diving. A scuba diving training center of international standards has been established there. These developments, along with tourist houses near the coast, have made Tarkarli a major hub for sea tourism, attracting adventure enthusiasts from across the country."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "How does tourism foster international understanding and respect for other cultures?",
+      "answer": "International tourism allows people to travel across borders and interact with individuals from different cultural backgrounds. Tourists learn to respect other countries' cultures, traditions, and lifestyles by experiencing them firsthand. This interaction helps break stereotypes and promotes mutual understanding and peace. It encourages a global community where diversity is celebrated, and shared humanity is recognized through travel and shared experiences."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Discuss the concept of 'invisible trade' in relation to foreign currency and economic benefit.",
+      "answer": "Tourism is called an 'invisible trade' because it provides services that generate income without the exchange of physical goods. When foreign tourists visit, they spend money on services like hotels and travel, which increases the country's foreign currency reserves. This inflow of currency strengthens the national economy. It operates similarly to visible trade in terms of revenue generation but relies on the quality and appeal of regional services and attractions."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Explain the role of social activists like Baba Amte in creating new dimensions of tourism in Maharashtra.",
+      "answer": "Social activists like Baba Amte have developed projects like 'Anandwan' that focus on social welfare and community building. When these projects are included as tourist destinations, they add a social dimension to tourism. Visitors gain social consciousness by seeing the transformation of rural or neglected communities. Such tourism supports these social projects financially and spreads awareness about their mission, contributing to the region's overall social development."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the overall benefits of developing the hidden potential of various sites for tourism.",
+      "answer": "Developing the hidden potential of unexplored sites can diversify the tourism industry and reduce the burden on over-crowded popular destinations. It opens up new employment opportunities for local residents in remote areas and brings infrastructure development like better roads and electricity to those regions. This balanced growth helps in preserving more natural and historical sites and ensures that the economic benefits of tourism are distributed more widely across the country."
+    }
+  ]
+}

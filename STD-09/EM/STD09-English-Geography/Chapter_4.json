@@ -1,0 +1,1549 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.04",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Exogenetic Processes – Part II"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which agents perform erosion, transportation and deposition?",
+      "options": [
+        { "option_id": 1, "text": "Only rivers", "is_correct": false },
+        { "option_id": 2, "text": "Endogenetic forces", "is_correct": false },
+        { "option_id": 3, "text": "Rivers, glaciers, wind, sea waves and groundwater", "is_correct": true },
+        { "option_id": 4, "text": "Earthquakes and volcanoes", "is_correct": false }
+      ],
+      "answer": "Rivers, glaciers, wind, sea waves and groundwater"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which factor affects the work of rivers?",
+      "options": [
+        { "option_id": 1, "text": "Slope of land", "is_correct": true },
+        { "option_id": 2, "text": "Magnetic field", "is_correct": false },
+        { "option_id": 3, "text": "Latitude", "is_correct": false },
+        { "option_id": 4, "text": "Rotation of Earth", "is_correct": false }
+      ],
+      "answer": "Slope of land"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by erosional work of rivers?",
+      "options": [
+        { "option_id": 1, "text": "Delta", "is_correct": false },
+        { "option_id": 2, "text": "Flood plain", "is_correct": false },
+        { "option_id": 3, "text": "V-shaped valley", "is_correct": true },
+        { "option_id": 4, "text": "Lagoon", "is_correct": false }
+      ],
+      "answer": "V-shaped valley"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which landform is also known as a canyon?",
+      "options": [
+        { "option_id": 1, "text": "Gorge", "is_correct": true },
+        { "option_id": 2, "text": "Delta", "is_correct": false },
+        { "option_id": 3, "text": "Flood plain", "is_correct": false },
+        { "option_id": 4, "text": "Alluvial fan", "is_correct": false }
+      ],
+      "answer": "Gorge"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which landform is formed at foothills due to deposition?",
+      "options": [
+        { "option_id": 1, "text": "Waterfall", "is_correct": false },
+        { "option_id": 2, "text": "Alluvial fan", "is_correct": true },
+        { "option_id": 3, "text": "Meander", "is_correct": false },
+        { "option_id": 4, "text": "Canyon", "is_correct": false }
+      ],
+      "answer": "Alluvial fan"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which river feature is formed due to reduced speed?",
+      "options": [
+        { "option_id": 1, "text": "Gorge", "is_correct": false },
+        { "option_id": 2, "text": "Waterfall", "is_correct": false },
+        { "option_id": 3, "text": "Meander", "is_correct": true },
+        { "option_id": 4, "text": "V-shaped valley", "is_correct": false }
+      ],
+      "answer": "Meander"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by deposition along river banks?",
+      "options": [
+        { "option_id": 1, "text": "Flood levees", "is_correct": true },
+        { "option_id": 2, "text": "Gorges", "is_correct": false },
+        { "option_id": 3, "text": "Waterfalls", "is_correct": false },
+        { "option_id": 4, "text": "Canyons", "is_correct": false }
+      ],
+      "answer": "Flood levees"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which landform is formed at the mouth of a river?",
+      "options": [
+        { "option_id": 1, "text": "Flood plain", "is_correct": false },
+        { "option_id": 2, "text": "Delta", "is_correct": true },
+        { "option_id": 3, "text": "Meander", "is_correct": false },
+        { "option_id": 4, "text": "Alluvial fan", "is_correct": false }
+      ],
+      "answer": "Delta"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by glacier erosion?",
+      "options": [
+        { "option_id": 1, "text": "U-shaped valley", "is_correct": true },
+        { "option_id": 2, "text": "Delta", "is_correct": false },
+        { "option_id": 3, "text": "Sand dune", "is_correct": false },
+        { "option_id": 4, "text": "Lagoon", "is_correct": false }
+      ],
+      "answer": "U-shaped valley"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which glacier landform is also called sheepback?",
+      "options": [
+        { "option_id": 1, "text": "Cirque", "is_correct": false },
+        { "option_id": 2, "text": "Horn", "is_correct": false },
+        { "option_id": 3, "text": "Rôche moutonnées", "is_correct": true },
+        { "option_id": 4, "text": "Arête", "is_correct": false }
+      ],
+      "answer": "Rôche moutonnées"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What are sediments deposited by glaciers called?",
+      "options": [
+        { "option_id": 1, "text": "Alluvium", "is_correct": false },
+        { "option_id": 2, "text": "Moraines", "is_correct": true },
+        { "option_id": 3, "text": "Loess", "is_correct": false },
+        { "option_id": 4, "text": "Barchans", "is_correct": false }
+      ],
+      "answer": "Moraines"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which moraine is found at the end of a glacier?",
+      "options": [
+        { "option_id": 1, "text": "Lateral moraine", "is_correct": false },
+        { "option_id": 2, "text": "Medial moraine", "is_correct": false },
+        { "option_id": 3, "text": "Terminal moraine", "is_correct": true },
+        { "option_id": 4, "text": "Ground moraine", "is_correct": false }
+      ],
+      "answer": "Terminal moraine"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which landform is produced by wind erosion?",
+      "options": [
+        { "option_id": 1, "text": "Delta", "is_correct": false },
+        { "option_id": 2, "text": "Mushroom rock", "is_correct": true },
+        { "option_id": 3, "text": "Flood plain", "is_correct": false },
+        { "option_id": 4, "text": "Lagoon", "is_correct": false }
+      ],
+      "answer": "Mushroom rock"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which wind landform has a crescent shape?",
+      "options": [
+        { "option_id": 1, "text": "Seif", "is_correct": false },
+        { "option_id": 2, "text": "Barchan", "is_correct": true },
+        { "option_id": 3, "text": "Yardang", "is_correct": false },
+        { "option_id": 4, "text": "Loess", "is_correct": false }
+      ],
+      "answer": "Barchan"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by sea wave erosion?",
+      "options": [
+        { "option_id": 1, "text": "Beach", "is_correct": false },
+        { "option_id": 2, "text": "Sea cliff", "is_correct": true },
+        { "option_id": 3, "text": "Lagoon", "is_correct": false },
+        { "option_id": 4, "text": "Sand bar", "is_correct": false }
+      ],
+      "answer": "Sea cliff"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by deposition of sea waves?",
+      "options": [
+        { "option_id": 1, "text": "Sea cave", "is_correct": false },
+        { "option_id": 2, "text": "Sea arch", "is_correct": false },
+        { "option_id": 3, "text": "Beach", "is_correct": true },
+        { "option_id": 4, "text": "Wave-cut platform", "is_correct": false }
+      ],
+      "answer": "Beach"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which coastal landform is a hollow formed by erosion?",
+      "options": [
+        { "option_id": 1, "text": "Lagoon", "is_correct": false },
+        { "option_id": 2, "text": "Sea cave", "is_correct": true },
+        { "option_id": 3, "text": "Beach", "is_correct": false },
+        { "option_id": 4, "text": "Sand bar", "is_correct": false }
+      ],
+      "answer": "Sea cave"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which landform connects land with an island?",
+      "options": [
+        { "option_id": 1, "text": "Lagoon", "is_correct": false },
+        { "option_id": 2, "text": "Sand bar", "is_correct": true },
+        { "option_id": 3, "text": "Sea arch", "is_correct": false },
+        { "option_id": 4, "text": "Sea stack", "is_correct": false }
+      ],
+      "answer": "Sand bar"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by groundwater erosion?",
+      "options": [
+        { "option_id": 1, "text": "Stalagmite", "is_correct": false },
+        { "option_id": 2, "text": "Sinkhole", "is_correct": true },
+        { "option_id": 3, "text": "Beach", "is_correct": false },
+        { "option_id": 4, "text": "Delta", "is_correct": false }
+      ],
+      "answer": "Sinkhole"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which groundwater landform is formed by deposition?",
+      "options": [
+        { "option_id": 1, "text": "Cave", "is_correct": false },
+        { "option_id": 2, "text": "Stalactite", "is_correct": true },
+        { "option_id": 3, "text": "Sinkhole", "is_correct": false },
+        { "option_id": 4, "text": "Karst", "is_correct": false }
+      ],
+      "answer": "Stalactite"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the upper surface of groundwater called?",
+      "options": [
+        { "option_id": 1, "text": "Water table", "is_correct": true },
+        { "option_id": 2, "text": "Aquifer", "is_correct": false },
+        { "option_id": 3, "text": "Permeable layer", "is_correct": false },
+        { "option_id": 4, "text": "Karst layer", "is_correct": false }
+      ],
+      "answer": "Water table"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which season has the highest water table?",
+      "options": [
+        { "option_id": 1, "text": "Summer", "is_correct": false },
+        { "option_id": 2, "text": "Winter", "is_correct": false },
+        { "option_id": 3, "text": "Rainy season", "is_correct": true },
+        { "option_id": 4, "text": "Autumn", "is_correct": false }
+      ],
+      "answer": "Rainy season"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which rocks favour groundwater movement?",
+      "options": [
+        { "option_id": 1, "text": "Hard rocks", "is_correct": false },
+        { "option_id": 2, "text": "Non-porous rocks", "is_correct": false },
+        { "option_id": 3, "text": "Porous rocks", "is_correct": true },
+        { "option_id": 4, "text": "Igneous rocks", "is_correct": false }
+      ],
+      "answer": "Porous rocks"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Landforms formed in limestone regions are called?",
+      "options": [
+        { "option_id": 1, "text": "Fluvial", "is_correct": false },
+        { "option_id": 2, "text": "Aeolian", "is_correct": false },
+        { "option_id": 3, "text": "Karst", "is_correct": true },
+        { "option_id": 4, "text": "Glacial", "is_correct": false }
+      ],
+      "answer": "Karst"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which agent has the most kinetic energy?",
+      "options": [
+        { "option_id": 1, "text": "Glacier", "is_correct": false },
+        { "option_id": 2, "text": "Wind", "is_correct": false },
+        { "option_id": 3, "text": "River", "is_correct": true },
+        { "option_id": 4, "text": "Groundwater", "is_correct": false }
+      ],
+      "answer": "River"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which landform is NOT formed by rivers?",
+      "options": [
+        { "option_id": 1, "text": "Delta", "is_correct": false },
+        { "option_id": 2, "text": "Flood plain", "is_correct": false },
+        { "option_id": 3, "text": "Drumlin", "is_correct": true },
+        { "option_id": 4, "text": "Meander", "is_correct": false }
+      ],
+      "answer": "Drumlin"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which glacier landform is a bowl-shaped depression?",
+      "options": [
+        { "option_id": 1, "text": "Horn", "is_correct": false },
+        { "option_id": 2, "text": "Cirque", "is_correct": true },
+        { "option_id": 3, "text": "Arête", "is_correct": false },
+        { "option_id": 4, "text": "Eskers", "is_correct": false }
+      ],
+      "answer": "Cirque"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by wind deposition?",
+      "options": [
+        { "option_id": 1, "text": "Yardang", "is_correct": false },
+        { "option_id": 2, "text": "Ripple marks", "is_correct": true },
+        { "option_id": 3, "text": "Mushroom rock", "is_correct": false },
+        { "option_id": 4, "text": "Deflation hollow", "is_correct": false }
+      ],
+      "answer": "Ripple marks"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which sea wave landform is a flat rocky surface?",
+      "options": [
+        { "option_id": 1, "text": "Sea cliff", "is_correct": false },
+        { "option_id": 2, "text": "Wave-cut platform", "is_correct": true },
+        { "option_id": 3, "text": "Lagoon", "is_correct": false },
+        { "option_id": 4, "text": "Beach", "is_correct": false }
+      ],
+      "answer": "Wave-cut platform"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which groundwater landform hangs from cave roof?",
+      "options": [
+        { "option_id": 1, "text": "Stalagmite", "is_correct": false },
+        { "option_id": 2, "text": "Stalactite", "is_correct": true },
+        { "option_id": 3, "text": "Sinkhole", "is_correct": false },
+        { "option_id": 4, "text": "Pillar", "is_correct": false }
+      ],
+      "answer": "Stalactite"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which landform is formed when stalactite and stalagmite join?",
+      "options": [
+        { "option_id": 1, "text": "Sinkhole", "is_correct": false },
+        { "option_id": 2, "text": "Pillar", "is_correct": true },
+        { "option_id": 3, "text": "Cave", "is_correct": false },
+        { "option_id": 4, "text": "Karst", "is_correct": false }
+      ],
+      "answer": "Pillar"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which landform is NOT formed by wind?",
+      "options": [
+        { "option_id": 1, "text": "Barchan", "is_correct": false },
+        { "option_id": 2, "text": "Seif", "is_correct": false },
+        { "option_id": 3, "text": "Delta", "is_correct": true },
+        { "option_id": 4, "text": "Yardang", "is_correct": false }
+      ],
+      "answer": "Delta"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which agent forms eskers?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Wind", "is_correct": false },
+        { "option_id": 3, "text": "Glacier", "is_correct": true },
+        { "option_id": 4, "text": "Sea waves", "is_correct": false }
+      ],
+      "answer": "Glacier"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which landform indicates depositional work of glacier?",
+      "options": [
+        { "option_id": 1, "text": "Horn", "is_correct": false },
+        { "option_id": 2, "text": "Arête", "is_correct": false },
+        { "option_id": 3, "text": "Drumlin", "is_correct": true },
+        { "option_id": 4, "text": "Cirque", "is_correct": false }
+      ],
+      "answer": "Drumlin"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which agent works at sea coast?",
+      "options": [
+        { "option_id": 1, "text": "Wind only", "is_correct": false },
+        { "option_id": 2, "text": "Sea waves", "is_correct": true },
+        { "option_id": 3, "text": "River", "is_correct": false },
+        { "option_id": 4, "text": "Groundwater", "is_correct": false }
+      ],
+      "answer": "Sea waves"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which coastal landform encloses seawater?",
+      "options": [
+        { "option_id": 1, "text": "Beach", "is_correct": false },
+        { "option_id": 2, "text": "Lagoon", "is_correct": true },
+        { "option_id": 3, "text": "Sea cliff", "is_correct": false },
+        { "option_id": 4, "text": "Sea arch", "is_correct": false }
+      ],
+      "answer": "Lagoon"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which factor controls groundwater level?",
+      "options": [
+        { "option_id": 1, "text": "Rainfall", "is_correct": true },
+        { "option_id": 2, "text": "Latitude", "is_correct": false },
+        { "option_id": 3, "text": "Wind speed", "is_correct": false },
+        { "option_id": 4, "text": "Earth rotation", "is_correct": false }
+      ],
+      "answer": "Rainfall"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which agent dissolves soluble minerals?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Groundwater", "is_correct": true },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Glacier", "is_correct": false }
+      ],
+      "answer": "Groundwater"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which landform is NOT coastal?",
+      "options": [
+        { "option_id": 1, "text": "Sea arch", "is_correct": false },
+        { "option_id": 2, "text": "Lagoon", "is_correct": false },
+        { "option_id": 3, "text": "Mushroom rock", "is_correct": true },
+        { "option_id": 4, "text": "Sea stack", "is_correct": false }
+      ],
+      "answer": "Mushroom rock"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which agent forms flood plains?",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "River", "is_correct": true },
+        { "option_id": 3, "text": "Glacier", "is_correct": false },
+        { "option_id": 4, "text": "Sea waves", "is_correct": false }
+      ],
+      "answer": "River"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by river erosion at higher altitude?",
+      "options": [
+        { "option_id": 1, "text": "Delta", "is_correct": false },
+        { "option_id": 2, "text": "V-shaped valley", "is_correct": true },
+        { "option_id": 3, "text": "Meander", "is_correct": false },
+        { "option_id": 4, "text": "Flood plain", "is_correct": false }
+      ],
+      "answer": "V-shaped valley"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which glacier landform is knife-edged ridge?",
+      "options": [
+        { "option_id": 1, "text": "Horn", "is_correct": false },
+        { "option_id": 2, "text": "Arête", "is_correct": true },
+        { "option_id": 3, "text": "Cirque", "is_correct": false },
+        { "option_id": 4, "text": "Drumlin", "is_correct": false }
+      ],
+      "answer": "Arête"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which wind landform is elongated?",
+      "options": [
+        { "option_id": 1, "text": "Barchan", "is_correct": false },
+        { "option_id": 2, "text": "Seif", "is_correct": true },
+        { "option_id": 3, "text": "Ripple mark", "is_correct": false },
+        { "option_id": 4, "text": "Loess", "is_correct": false }
+      ],
+      "answer": "Seif"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which sea landform is formed after sea cave and arch?",
+      "options": [
+        { "option_id": 1, "text": "Sea stack", "is_correct": true },
+        { "option_id": 2, "text": "Beach", "is_correct": false },
+        { "option_id": 3, "text": "Lagoon", "is_correct": false },
+        { "option_id": 4, "text": "Sand bar", "is_correct": false }
+      ],
+      "answer": "Sea stack"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which landform results from groundwater deposition?",
+      "options": [
+        { "option_id": 1, "text": "Sinkhole", "is_correct": false },
+        { "option_id": 2, "text": "Stalagmite", "is_correct": true },
+        { "option_id": 3, "text": "Cave", "is_correct": false },
+        { "option_id": 4, "text": "Karst plain", "is_correct": false }
+      ],
+      "answer": "Stalagmite"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which agent forms loess plains?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Wind", "is_correct": true },
+        { "option_id": 3, "text": "Glacier", "is_correct": false },
+        { "option_id": 4, "text": "Sea waves", "is_correct": false }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by river deposition over large area?",
+      "options": [
+        { "option_id": 1, "text": "Flood plain", "is_correct": true },
+        { "option_id": 2, "text": "Gorge", "is_correct": false },
+        { "option_id": 3, "text": "Waterfall", "is_correct": false },
+        { "option_id": 4, "text": "Canyon", "is_correct": false }
+      ],
+      "answer": "Flood plain"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which landform is NOT glacial?",
+      "options": [
+        { "option_id": 1, "text": "Cirque", "is_correct": false },
+        { "option_id": 2, "text": "Horn", "is_correct": false },
+        { "option_id": 3, "text": "Eskers", "is_correct": false },
+        { "option_id": 4, "text": "Alluvial fan", "is_correct": true }
+      ],
+      "answer": "Alluvial fan"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which agent is gaseous?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Wind", "is_correct": true },
+        { "option_id": 3, "text": "Glacier", "is_correct": false },
+        { "option_id": 4, "text": "Groundwater", "is_correct": false }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which agent works everywhere without limitation?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Wind", "is_correct": true },
+        { "option_id": 3, "text": "Glacier", "is_correct": false },
+        { "option_id": 4, "text": "Sea waves", "is_correct": false }
+      ],
+      "answer": "Wind"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are exogenetic agents?",
+      "answer": "Exogenetic agents are rivers, glaciers, wind, sea waves and groundwater."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What factors affect the work of rivers?",
+      "answer": "Slope, volume of water, sediments and length of river."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a gorge?",
+      "answer": "A gorge is a deep narrow valley formed by river erosion."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is an alluvial fan?",
+      "answer": "A triangular deposit of sediments at foothills."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a meander?",
+      "answer": "A bend formed in a river due to slow flow."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is a flood plain?",
+      "answer": "A flat area formed by river deposition during floods."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is a delta?",
+      "answer": "A depositional landform at river mouth."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a cirque?",
+      "answer": "A bowl-shaped depression formed by glacier erosion."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is a moraine?",
+      "answer": "Sediments deposited by glaciers."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is a mushroom rock?",
+      "answer": "A wind-eroded rock with narrow base and wide top."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is a barchan?",
+      "answer": "A crescent-shaped sand dune formed by wind."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a yardang?",
+      "answer": "A ridge formed by wind erosion."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a sea cliff?",
+      "answer": "A steep rock face formed by sea wave erosion."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a sea cave?",
+      "answer": "A hollow formed by sea wave erosion."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is a lagoon?",
+      "answer": "A shallow water body separated from sea."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is groundwater?",
+      "answer": "Water stored below the Earth’s surface."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is water table?",
+      "answer": "The upper surface of groundwater."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is a sinkhole?",
+      "answer": "A depression formed by groundwater erosion."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is stalactite?",
+      "answer": "A deposit hanging from cave roof."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is stalagmite?",
+      "answer": "A deposit rising from cave floor."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are Karst landforms?",
+      "answer": "Landforms formed in limestone regions."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which agent has maximum kinetic energy?",
+      "answer": "River has maximum kinetic energy."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why does river erosion occur at high altitude?",
+      "answer": "Due to steep slope and high speed."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why are deltas absent in Konkan coast?",
+      "answer": "Due to strong sea waves and steep slope."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why does glacier erosion occur?",
+      "answer": "Due to heavy mass of ice."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why is wind erosion common in deserts?",
+      "answer": "Due to dry climate and loose sediments."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why are beaches formed?",
+      "answer": "Due to deposition by sea waves."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why does groundwater dissolve limestone?",
+      "answer": "Due to soluble minerals."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which season is best for digging a well?",
+      "answer": "Summer season."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is groundwater lower in summer?",
+      "answer": "Due to evaporation and low rainfall."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is transportation by rivers?",
+      "answer": "Carrying of sediments downstream."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is deposition?",
+      "answer": "Settling of sediments when speed reduces."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is an esker?",
+      "answer": "A ridge formed by glacier deposition."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is a drumlin?",
+      "answer": "An oval mound formed by glacier deposition."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is a seif?",
+      "answer": "An elongated sand dune."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is a sand bar?",
+      "answer": "A sand deposit connecting land and island."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is a wave-cut platform?",
+      "answer": "A flat surface formed by sea erosion."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is a sea stack?",
+      "answer": "An isolated pillar formed by sea erosion."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is a horn?",
+      "answer": "A sharp peak formed by glacier erosion."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is an arête?",
+      "answer": "A sharp ridge formed by glacier erosion."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is loess?",
+      "answer": "Fine wind-deposited soil."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why do glaciers move slowly?",
+      "answer": "Due to friction and heavy mass."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is river speed reduced near sea?",
+      "answer": "Due to gentle slope."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why are ripple marks formed?",
+      "answer": "Due to wind deposition."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why are limestone caves formed?",
+      "answer": "Due to groundwater erosion."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is attrition?",
+      "answer": "Wearing of sediments by collision."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Which agent acts in coastal areas?",
+      "answer": "Sea waves."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is a hanging valley?",
+      "answer": "A valley formed by glacier erosion above main valley."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is groundwater important?",
+      "answer": "It supplies water and forms landforms."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why are exogenetic processes important?",
+      "answer": "They shape Earth’s surface continuously."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why does river erosion dominate in upper course?",
+      "answer": "Because the slope is steep and river speed is high."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why are gorges narrow and deep?",
+      "answer": "Due to vertical erosion by fast flowing rivers."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why do meanders form in plains?",
+      "answer": "Because the slope is gentle and lateral erosion dominates."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why are flood plains fertile?",
+      "answer": "They are formed of fine alluvial soil deposited by rivers."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why do rivers deposit sediments near the mouth?",
+      "answer": "Because river speed reduces near the sea."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why are deltas triangular in shape?",
+      "answer": "Due to deposition of sediments in distributaries."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why are deltas absent on steep coasts?",
+      "answer": "Strong sea waves wash away sediments."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why do glaciers erode landforms?",
+      "answer": "Due to their heavy mass and movement."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why are U-shaped valleys formed?",
+      "answer": "Due to glacial erosion."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why are cirques bowl-shaped?",
+      "answer": "Due to rotational erosion of glaciers."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why do moraines consist of unsorted material?",
+      "answer": "Because glaciers deposit sediments directly."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why does wind erosion dominate in deserts?",
+      "answer": "Because of dry climate and lack of vegetation."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why are mushroom rocks narrow at base?",
+      "answer": "Due to maximum wind erosion near ground."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why do barchans move?",
+      "answer": "Because wind continuously pushes sand."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is loess fertile?",
+      "answer": "Because it is fine and rich in minerals."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why do sea cliffs retreat inland?",
+      "answer": "Due to continuous wave erosion."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why are beaches formed?",
+      "answer": "Due to deposition by sea waves."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why are lagoons shallow?",
+      "answer": "They are formed by deposition behind sand bars."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why do sea caves enlarge?",
+      "answer": "Due to continuous wave action."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why does groundwater dissolve limestone?",
+      "answer": "Because limestone is soluble."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why are karst regions uneven?",
+      "answer": "Due to underground erosion by groundwater."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why does water table fluctuate?",
+      "answer": "Due to seasonal rainfall changes."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is groundwater important?",
+      "answer": "It supplies drinking water and irrigation."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why are wells dry in summer?",
+      "answer": "Because water table falls due to evaporation."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why do rivers carry sediments?",
+      "answer": "Because erosion loosens materials."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is river deposition maximum in lower course?",
+      "answer": "Due to very gentle slope."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why do glaciers move slowly?",
+      "answer": "Due to friction and ice mass."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why are wind ripples formed?",
+      "answer": "Due to deposition of sand by wind."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why are sea stacks isolated?",
+      "answer": "Due to erosion of surrounding rock."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is groundwater cleaner than surface water?",
+      "answer": "It is naturally filtered through rocks."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Which river landform indicates deposition?",
+      "answer": "Flood plain indicates deposition."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Which glacier landform indicates erosion?",
+      "answer": "Cirque indicates erosion."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Which wind landform indicates deposition?",
+      "answer": "Sand dunes indicate deposition."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Which sea landform indicates erosion?",
+      "answer": "Sea cliff indicates erosion."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Which groundwater landform indicates deposition?",
+      "answer": "Stalagmite indicates deposition."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is erosion called a destructive process?",
+      "answer": "It removes land material."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is deposition called constructive?",
+      "answer": "It builds new landforms."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why are river plains densely populated?",
+      "answer": "Due to fertile soil and water availability."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why are deserts sparsely populated?",
+      "answer": "Due to water scarcity."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why are coastal areas important?",
+      "answer": "They support fishing and trade."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why is glacier erosion powerful?",
+      "answer": "Because of immense weight of ice."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why is wind erosion limited?",
+      "answer": "Because it depends on dry conditions."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why does groundwater act slowly?",
+      "answer": "Because it moves very slowly."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why are river valleys wide in plains?",
+      "answer": "Due to lateral erosion."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why do waves deposit sand on beaches?",
+      "answer": "Because wave energy reduces."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why are limestone caves formed?",
+      "answer": "Due to groundwater erosion."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is groundwater conservation important?",
+      "answer": "Because it is a limited resource."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why do rivers change their course?",
+      "answer": "Due to erosion and deposition."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why are exogenetic agents interrelated?",
+      "answer": "They work together in shaping landforms."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is study of landforms important?",
+      "answer": "It helps understand Earth’s surface."
+    },
+
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the erosional work of rivers.",
+      "answer": "Rivers erode land mainly in their upper course due to steep slope and high velocity. Vertical erosion dominates and forms V-shaped valleys and gorges. Waterfalls are also formed where hard and soft rocks exist. Continuous erosion deepens river valleys. This process shapes mountainous landscapes."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain the depositional work of rivers.",
+      "answer": "When river speed decreases, sediments are deposited. Flood plains are formed during floods. Natural levees develop along river banks. At the river mouth, deltas are formed. Depositional work creates fertile plains."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain the erosional work of glaciers.",
+      "answer": "Glaciers erode land due to their heavy mass. They carve U-shaped valleys and cirques. Abrasion and plucking are major erosional processes. Mountain peaks become sharp. Glacial erosion modifies high altitude regions."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain depositional work of glaciers.",
+      "answer": "Glaciers deposit unsorted material called moraines. Terminal, lateral and medial moraines are formed. Eskers and drumlins are depositional landforms. These deposits change the landscape. Glacial plains are formed."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain erosional work of wind.",
+      "answer": "Wind erodes loose material in deserts. Deflation and abrasion are major processes. Mushroom rocks and yardangs are formed. Wind erosion shapes arid landscapes. Vegetation absence increases erosion."
+    },
+
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain depositional work of wind.",
+      "answer": "Wind deposits sand when speed reduces. Sand dunes like barchans and seifs are formed. Loess plains are also created. These deposits are fertile. Wind deposition changes desert landscapes."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain erosional work of sea waves.",
+      "answer": "Sea waves erode coastlines continuously. Sea cliffs, caves and arches are formed. Wave-cut platforms develop at cliff bases. Erosion causes coastline retreat. This process reshapes coasts."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Explain depositional work of sea waves.",
+      "answer": "Sea waves deposit sediments when energy decreases. Beaches and sand bars are formed. Lagoons develop behind bars. Deposition smoothens coastlines. Coastal plains may develop."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain erosional work of groundwater.",
+      "answer": "Groundwater dissolves soluble rocks like limestone. Sinkholes and caves are formed. Underground channels develop. Karst topography is created. This process acts slowly."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Explain depositional work of groundwater.",
+      "answer": "Groundwater deposits minerals in caves. Stalactites hang from roofs. Stalagmites rise from floors. Pillars form when both join. These are deposition landforms."
+    },
+
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain factors affecting the work of rivers.",
+      "answer": "Slope, volume of water, sediment load and river length affect river work. Steep slope increases erosion. Gentle slope increases deposition. Seasonal rainfall also influences river action."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain why deltas are absent along Konkan coast.",
+      "answer": "Konkan coast has steep slope. Rivers are short and fast. Strong sea waves wash away sediments. Hence deltas do not form."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Explain why glaciers are powerful erosional agents.",
+      "answer": "Glaciers have huge mass. They move slowly but exert pressure. Abrasion and plucking occur. Rocks are carved deeply. Landscapes are transformed."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain why wind is an effective agent in deserts.",
+      "answer": "Deserts are dry with loose sediments. Vegetation is absent. Wind speed is high. Wind easily erodes and deposits material."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain why sea waves shape coastlines.",
+      "answer": "Sea waves act continuously. Erosion and deposition occur. Coastal landforms develop. Coastlines keep changing."
+    },
+
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain groundwater as an agent of erosion.",
+      "answer": "Groundwater dissolves soluble rocks. Underground cavities form. Sinkholes develop on surface. Karst landscapes emerge. Erosion is slow but effective."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain groundwater as an agent of deposition.",
+      "answer": "Minerals are deposited in caves. Stalactites and stalagmites form. Pillars are created. Decorative cave features develop."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain importance of rivers to human life.",
+      "answer": "Rivers provide water for drinking and irrigation. Fertile plains support agriculture. Transportation and power generation occur. Civilizations developed along rivers."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain importance of glaciers.",
+      "answer": "Glaciers store fresh water. They supply rivers. Landscapes are shaped. They influence climate. They are important natural resources."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Explain importance of wind processes.",
+      "answer": "Wind shapes deserts. Fertile loess is formed. Landforms develop. Wind processes influence climate and soil."
+    },
+
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain importance of sea waves.",
+      "answer": "Sea waves shape coastlines. Beaches support tourism. Marine resources are affected. Coastal ecosystems develop."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain importance of groundwater.",
+      "answer": "Groundwater supplies drinking water. Supports agriculture. Forms landforms. Acts as natural reservoir."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Explain how erosion and deposition work together.",
+      "answer": "Erosion removes material. Deposition settles it elsewhere. Both processes reshape land. Landforms evolve continuously."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain why exogenetic processes are continuous.",
+      "answer": "Solar energy and gravity act constantly. Natural agents keep working. Landforms change continuously."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Explain how landforms affect human activities.",
+      "answer": "Landforms influence settlement. Agriculture depends on plains. Transport depends on terrain. Resources vary with landforms."
+    },
+
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain why river plains are densely populated.",
+      "answer": "They have fertile soil. Water is easily available. Transport is easy. Economic activities develop."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Explain why deserts are sparsely populated.",
+      "answer": "Water scarcity exists. Harsh climate prevails. Vegetation is limited. Human activities are restricted."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Explain why coastal regions are economically important.",
+      "answer": "Fishing is common. Ports support trade. Tourism develops. Resources are available."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the role of climate in exogenetic processes.",
+      "answer": "Climate controls erosion type. Rainfall affects rivers. Temperature affects glaciers. Wind depends on aridity."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Explain how landforms are indicators of processes.",
+      "answer": "Each landform shows its origin. Erosional and depositional features indicate agents. Processes can be identified."
+    },
+
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain how river work changes from source to mouth.",
+      "answer": "Upper course has erosion. Middle course has transportation. Lower course has deposition. Landforms vary accordingly."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain why glaciers are found at high altitudes.",
+      "answer": "Low temperatures allow ice accumulation. Snowfall is heavy. Ice persists year-round."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Explain why wind cannot act in humid regions.",
+      "answer": "Moist soil binds particles. Vegetation reduces wind action. Hence erosion is limited."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Explain why sea waves have both erosional and depositional roles.",
+      "answer": "Strong waves erode coast. Weak waves deposit sediments. Both processes occur alternately."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain how groundwater forms caves.",
+      "answer": "Groundwater dissolves limestone. Cavities enlarge. Underground caves develop. Surface features change."
+    },
+
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain why groundwater level is highest after monsoon.",
+      "answer": "Rainwater percolates into soil. Aquifers fill up. Water table rises."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain human dependence on exogenetic processes.",
+      "answer": "Soil formation supports agriculture. Rivers supply water. Landforms support settlement."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Explain why landforms are not permanent.",
+      "answer": "Continuous erosion and deposition modify them. Processes never stop."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain importance of conserving groundwater.",
+      "answer": "It prevents water scarcity. Supports agriculture. Maintains water table."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Explain the balance between erosion and deposition.",
+      "answer": "Erosion removes material. Deposition builds land. Balance maintains surface stability."
+    },
+
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain how rivers, wind and glaciers differ as agents.",
+      "answer": "Rivers act in humid areas. Wind acts in deserts. Glaciers act in cold regions. Each has unique landforms."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain why rivers are called lifelines.",
+      "answer": "They provide water, fertile soil, transport and energy. Civilizations depend on rivers."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Explain how coastal landforms evolve over time.",
+      "answer": "Continuous wave action erodes and deposits. Coastlines retreat or advance."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain how exogenetic processes affect environment.",
+      "answer": "They shape land. Influence soil and water. Affect ecosystems."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Explain why exogenetic processes are essential.",
+      "answer": "They balance internal forces. Shape Earth’s surface. Support life."
+    },
+
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain how deposition creates fertile land.",
+      "answer": "Fine sediments are deposited. Soil fertility increases. Agriculture improves."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Explain how erosion can be both harmful and useful.",
+      "answer": "It removes soil but creates landforms. Balance is necessary."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Explain why geography studies landforms.",
+      "answer": "Landforms influence human life. They show Earth processes."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Explain the interdependence of natural agents.",
+      "answer": "They work together. One process prepares for another."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Explain why exogenetic processes are important for Earth’s balance.",
+      "answer": "They counter internal forces. Maintain surface equilibrium."
+    }
+  ]
+}

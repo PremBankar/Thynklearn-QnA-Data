@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Biology.16",
+    "standard": "9",
+    "subject": "Biology",
+    "medium": "English",
+    "chapter_name": "Heredity and Variation"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following is the branch of biology that studies the transfer of characteristics from one generation to the next?",
+      "options": [
+        { "option_id": 1, "text": "Physiology", "is_correct": false },
+        { "option_id": 2, "text": "Genetics", "is_correct": true },
+        { "option_id": 3, "text": "Ecology", "is_correct": false },
+        { "option_id": 4, "text": "Taxonomy", "is_correct": false }
+      ],
+      "answer": "Genetics"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which type of reproduction results in offspring with greater variations?",
+      "options": [
+        { "option_id": 1, "text": "Asexual reproduction", "is_correct": false },
+        { "option_id": 2, "text": "Binary fission", "is_correct": false },
+        { "option_id": 3, "text": "Sexual reproduction", "is_correct": true },
+        { "option_id": 4, "text": "Budding", "is_correct": false }
+      ],
+      "answer": "Sexual reproduction"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What are the segments of DNA that contain information for protein synthesis called?",
+      "options": [
+        { "option_id": 1, "text": "Chromosomes", "is_correct": false },
+        { "option_id": 2, "text": "Nucleotides", "is_correct": false },
+        { "option_id": 3, "text": "Genes", "is_correct": true },
+        { "option_id": 4, "text": "Ribosomes", "is_correct": false }
+      ],
+      "answer": "Genes"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following nitrogenous bases is NOT found in RNA?",
+      "options": [
+        { "option_id": 1, "text": "Adenine", "is_correct": false },
+        { "option_id": 2, "text": "Guanine", "is_correct": false },
+        { "option_id": 3, "text": "Thymine", "is_correct": true },
+        { "option_id": 4, "text": "Uracil", "is_correct": false }
+      ],
+      "answer": "Thymine"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the phenotypic ratio in the F₂ generation of a monohybrid cross?",
+      "options": [
+        { "option_id": 1, "text": "1:2:1", "is_correct": false },
+        { "option_id": 2, "text": "3:1", "is_correct": true },
+        { "option_id": 3, "text": "9:3:3:1", "is_correct": false },
+        { "option_id": 4, "text": "1:1", "is_correct": false }
+      ],
+      "answer": "3:1"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which genetic disorder is caused by trisomy of the 21st chromosome?",
+      "options": [
+        { "option_id": 1, "text": "Turner syndrome", "is_correct": false },
+        { "option_id": 2, "text": "Klinefelter syndrome", "is_correct": false },
+        { "option_id": 3, "text": "Down syndrome", "is_correct": true },
+        { "option_id": 4, "text": "Albinism", "is_correct": false }
+      ],
+      "answer": "Down syndrome"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which type of chromosome has its centromere exactly at the midpoint?",
+      "options": [
+        { "option_id": 1, "text": "Telocentric", "is_correct": false },
+        { "option_id": 2, "text": "Acrocentric", "is_correct": false },
+        { "option_id": 3, "text": "Sub-metacentric", "is_correct": false },
+        { "option_id": 4, "text": "Metacentric", "is_correct": true }
+      ],
+      "answer": "Metacentric"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "In humans, how many autosomes are present in a somatic cell?",
+      "options": [
+        { "option_id": 1, "text": "22", "is_correct": false },
+        { "option_id": 2, "text": "44", "is_correct": true },
+        { "option_id": 3, "text": "23", "is_correct": false },
+        { "option_id": 4, "text": "46", "is_correct": false }
+      ],
+      "answer": "44"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which molecule is referred to as the 'Master Molecule' because it controls cell functioning and reproduction?",
+      "options": [
+        { "option_id": 1, "text": "RNA", "is_correct": false },
+        { "option_id": 2, "text": "Protein", "is_correct": false },
+        { "option_id": 3, "text": "DNA", "is_correct": true },
+        { "option_id": 4, "text": "Lipid", "is_correct": false }
+      ],
+      "answer": "DNA"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following is a recessive trait in humans according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Rolling tongue", "is_correct": false },
+        { "option_id": 2, "text": "Black and curly hair", "is_correct": false },
+        { "option_id": 3, "text": "Attached earlobe", "is_correct": true },
+        { "option_id": 4, "text": "Presence of hair on arms", "is_correct": false }
+      ],
+      "answer": "Attached earlobe"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the genotypic ratio in the F₂ generation of a monohybrid cross?",
+      "options": [
+        { "option_id": 1, "text": "3:1", "is_correct": false },
+        { "option_id": 2, "text": "1:2:1", "is_correct": true },
+        { "option_id": 3, "text": "9:3:3:1", "is_correct": false },
+        { "option_id": 4, "text": "1:1", "is_correct": false }
+      ],
+      "answer": "1:2:1"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following RNA types carries amino acids to the ribosomes?",
+      "options": [
+        { "option_id": 1, "text": "mRNA", "is_correct": false },
+        { "option_id": 2, "text": "rRNA", "is_correct": false },
+        { "option_id": 3, "text": "tRNA", "is_correct": true },
+        { "option_id": 4, "text": "snRNA", "is_correct": false }
+      ],
+      "answer": "tRNA"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who discovered the double helix model of DNA?",
+      "options": [
+        { "option_id": 1, "text": "Gregor Mendel", "is_correct": false },
+        { "option_id": 2, "text": "Frederick Miescher", "is_correct": false },
+        { "option_id": 3, "text": "Watson and Crick", "is_correct": true },
+        { "option_id": 4, "text": "Charles Darwin", "is_correct": false }
+      ],
+      "answer": "Watson and Crick"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In a dihybrid cross, how many different genotypes are possible in the F₂ generation?",
+      "options": [
+        { "option_id": 1, "text": "4", "is_correct": false },
+        { "option_id": 2, "text": "9", "is_correct": true },
+        { "option_id": 3, "text": "16", "is_correct": false },
+        { "option_id": 4, "text": "8", "is_correct": false }
+      ],
+      "answer": "9"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which genetic disorder is characterized by the inability to produce melanin?",
+      "options": [
+        { "option_id": 1, "text": "Sickle cell anaemia", "is_correct": false },
+        { "option_id": 2, "text": "Albinism", "is_correct": true },
+        { "option_id": 3, "text": "Haemophilia", "is_correct": false },
+        { "option_id": 4, "text": "Down syndrome", "is_correct": false }
+      ],
+      "answer": "Albinism"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the chromosomal constitution of a female with Turner syndrome?",
+      "options": [
+        { "option_id": 1, "text": "44+XX", "is_correct": false },
+        { "option_id": 2, "text": "44+X", "is_correct": true },
+        { "option_id": 3, "text": "44+XXY", "is_correct": false },
+        { "option_id": 4, "text": "44+XY", "is_correct": false }
+      ],
+      "answer": "44+X"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of the following is a polygenic disorder?",
+      "options": [
+        { "option_id": 1, "text": "Albinism", "is_correct": false },
+        { "option_id": 2, "text": "Sickle cell anaemia", "is_correct": false },
+        { "option_id": 3, "text": "Haemophilia", "is_correct": false },
+        { "option_id": 4, "text": "Diabetes", "is_correct": true }
+      ],
+      "answer": "Diabetes"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "In DNA, adenine always pairs with:",
+      "options": [
+        { "option_id": 1, "text": "Cytosine", "is_correct": false },
+        { "option_id": 2, "text": "Guanine", "is_correct": false },
+        { "option_id": 3, "text": "Thymine", "is_correct": true },
+        { "option_id": 4, "text": "Uracil", "is_correct": false }
+      ],
+      "answer": "Thymine"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the process of analyzing a person's unique DNA sequence for identification purposes called?",
+      "options": [
+        { "option_id": 1, "text": "Genome sequencing", "is_correct": false },
+        { "option_id": 2, "text": "DNA fingerprinting", "is_correct": true },
+        { "option_id": 3, "text": "Gene therapy", "is_correct": false },
+        { "option_id": 4, "text": "PCR", "is_correct": false }
+      ],
+      "answer": "DNA fingerprinting"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of Mendel's laws is illustrated by the independent assortment of alleles during gamete formation in a dihybrid cross?",
+      "options": [
+        { "option_id": 1, "text": "Law of Dominance", "is_correct": false },
+        { "option_id": 2, "text": "Law of Segregation", "is_correct": false },
+        { "option_id": 3, "text": "Law of Independent Assortment", "is_correct": true },
+        { "option_id": 4, "text": "Law of Inheritance", "is_correct": false }
+      ],
+      "answer": "Law of Independent Assortment"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "How many chromosomes are present in a human somatic cell?",
+      "options": [
+        { "option_id": 1, "text": "23", "is_correct": false },
+        { "option_id": 2, "text": "46", "is_correct": true },
+        { "option_id": 3, "text": "22", "is_correct": false },
+        { "option_id": 4, "text": "44", "is_correct": false }
+      ],
+      "answer": "46"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which genetic disorder is caused by a mutation in the gene responsible for haemoglobin structure?",
+      "options": [
+        { "option_id": 1, "text": "Down syndrome", "is_correct": false },
+        { "option_id": 2, "text": "Turner syndrome", "is_correct": false },
+        { "option_id": 3, "text": "Sickle cell anaemia", "is_correct": true },
+        { "option_id": 4, "text": "Klinefelter syndrome", "is_correct": false }
+      ],
+      "answer": "Sickle cell anaemia"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the constricted region of a chromosome called?",
+      "options": [
+        { "option_id": 1, "text": "Telomere", "is_correct": false },
+        { "option_id": 2, "text": "Centromere", "is_correct": true },
+        { "option_id": 3, "text": "Chromatid", "is_correct": false },
+        { "option_id": 4, "text": "Gene", "is_correct": false }
+      ],
+      "answer": "Centromere"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a nitrogenous base found in DNA?",
+      "options": [
+        { "option_id": 1, "text": "Adenine", "is_correct": false },
+        { "option_id": 2, "text": "Uracil", "is_correct": true },
+        { "option_id": 3, "text": "Thymine", "is_correct": false },
+        { "option_id": 4, "text": "Cytosine", "is_correct": false }
+      ],
+      "answer": "Uracil"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What term describes the observable physical characteristics of an organism?",
+      "options": [
+        { "option_id": 1, "text": "Genotype", "is_correct": false },
+        { "option_id": 2, "text": "Phenotype", "is_correct": true },
+        { "option_id": 3, "text": "Allele", "is_correct": false },
+        { "option_id": 4, "text": "Heterozygous", "is_correct": false }
+      ],
+      "answer": "Phenotype"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of these is a symptom of sickle cell anaemia?",
+      "options": [
+        { "option_id": 1, "text": "Mental retardation", "is_correct": false },
+        { "option_id": 2, "text": "Sterility", "is_correct": false },
+        { "option_id": 3, "text": "Sickle-shaped RBCs", "is_correct": true },
+        { "option_id": 4, "text": "Absence of melanin", "is_correct": false }
+      ],
+      "answer": "Sickle-shaped RBCs"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What are homologous chromosomes?",
+      "options": [
+        { "option_id": 1, "text": "Chromosomes that carry different genes", "is_correct": false },
+        { "option_id": 2, "text": "Chromosomes of different shapes", "is_correct": false },
+        { "option_id": 3, "text": "Chromosomes that pair during meiosis and are similar in shape and gene sequence", "is_correct": true },
+        { "option_id": 4, "text": "Chromosomes that determine sex", "is_correct": false }
+      ],
+      "answer": "Chromosomes that pair during meiosis and are similar in shape and gene sequence"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "In the context of genetics, what does 'F₁' stand for?",
+      "options": [
+        { "option_id": 1, "text": "First Filial generation", "is_correct": true },
+        { "option_id": 2, "text": "First Paternal generation", "is_correct": false },
+        { "option_id": 3, "text": "Final generation", "is_correct": false },
+        { "option_id": 4, "text": "Fertile generation", "is_correct": false }
+      ],
+      "answer": "First Filial generation"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a mitochondrial disorder?",
+      "options": [
+        { "option_id": 1, "text": "Leber hereditary optic neuropathy", "is_correct": true },
+        { "option_id": 2, "text": "Down syndrome", "is_correct": false },
+        { "option_id": 3, "text": "Sickle cell anaemia", "is_correct": false },
+        { "option_id": 4, "text": "Turner syndrome", "is_correct": false }
+      ],
+      "answer": "Leber hereditary optic neuropathy"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "According to the chapter, what is the main objective of the National Health Mission?",
+      "options": [
+        { "option_id": 1, "text": "To conduct genetic research", "is_correct": false },
+        { "option_id": 2, "text": "To strengthen rural and urban health facilities and increase public awareness", "is_correct": true },
+        { "option_id": 3, "text": "To promote tobacco consumption", "is_correct": false },
+        { "option_id": 4, "text": "To sequence the human genome", "is_correct": false }
+      ],
+      "answer": "To strengthen rural and urban health facilities and increase public awareness"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the role of rRNA in the cell?",
+      "options": [
+        { "option_id": 1, "text": "Carries amino acids", "is_correct": false },
+        { "option_id": 2, "text": "Carries genetic message", "is_correct": false },
+        { "option_id": 3, "text": "Forms part of the ribosome for protein synthesis", "is_correct": true },
+        { "option_id": 4, "text": "Replicates DNA", "is_correct": false }
+      ],
+      "answer": "Forms part of the ribosome for protein synthesis"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "If both parents are carriers (AS) for sickle cell anaemia, what percentage of their offspring will be normal (AA)?",
+      "options": [
+        { "option_id": 1, "text": "0%", "is_correct": false },
+        { "option_id": 2, "text": "25%", "is_correct": true },
+        { "option_id": 3, "text": "50%", "is_correct": false },
+        { "option_id": 4, "text": "100%", "is_correct": false }
+      ],
+      "answer": "25%"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which chromosome type appears like the letter 'j'?",
+      "options": [
+        { "option_id": 1, "text": "Metacentric", "is_correct": false },
+        { "option_id": 2, "text": "Sub-metacentric", "is_correct": false },
+        { "option_id": 3, "text": "Acrocentric", "is_correct": true },
+        { "option_id": 4, "text": "Telocentric", "is_correct": false }
+      ],
+      "answer": "Acrocentric"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the primary cause of variation in offspring produced by sexual reproduction?",
+      "options": [
+        { "option_id": 1, "text": "Identical copying of DNA", "is_correct": false },
+        { "option_id": 2, "text": "Combination of genetic material from two parents", "is_correct": true },
+        { "option_id": 3, "text": "Lack of cell division", "is_correct": false },
+        { "option_id": 4, "text": "Mutation in every gene", "is_correct": false }
+      ],
+      "answer": "Combination of genetic material from two parents"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does the Human Genome Project aim to achieve?",
+      "options": [
+        { "option_id": 1, "text": "Create genetically modified organisms", "is_correct": false },
+        { "option_id": 2, "text": "Sequence the complete DNA of the human genome", "is_correct": true },
+        { "option_id": 3, "text": "Treat all genetic diseases", "is_correct": false },
+        { "option_id": 4, "text": "Increase human intelligence", "is_correct": false }
+      ],
+      "answer": "Sequence the complete DNA of the human genome"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of the following is a dominant trait in pea plants according to Mendel?",
+      "options": [
+        { "option_id": 1, "text": "Wrinkled seeds", "is_correct": false },
+        { "option_id": 2, "text": "Green pods", "is_correct": false },
+        { "option_id": 3, "text": "Dwarf plants", "is_correct": false },
+        { "option_id": 4, "text": "Axillary flowers", "is_correct": true }
+      ],
+      "answer": "Axillary flowers"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "In DNA replication, which enzyme is responsible for joining nucleotides?",
+      "options": [
+        { "option_id": 1, "text": "Helicase", "is_correct": false },
+        { "option_id": 2, "text": "Polymerase", "is_correct": true },
+        { "option_id": 3, "text": "Ligase", "is_correct": false },
+        { "option_id": 4, "text": "Primase", "is_correct": false }
+      ],
+      "answer": "Polymerase"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of these is a monogenic disorder?",
+      "options": [
+        { "option_id": 1, "text": "Cleft lip", "is_correct": false },
+        { "option_id": 2, "text": "Asthma", "is_correct": false },
+        { "option_id": 3, "text": "Phenylketonuria", "is_correct": true },
+        { "option_id": 4, "text": "Diabetes", "is_correct": false }
+      ],
+      "answer": "Phenylketonuria"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the name of the model used to predict the outcome of genetic crosses?",
+      "options": [
+        { "option_id": 1, "text": "Mendelian Square", "is_correct": false },
+        { "option_id": 2, "text": "Punnett Square", "is_correct": true },
+        { "option_id": 3, "text": "Genetic Chart", "is_correct": false },
+        { "option_id": 4, "text": "Crossing Grid", "is_correct": false }
+      ],
+      "answer": "Punnett Square"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which harmful chemical in tobacco smoke is primarily responsible for its addictive nature?",
+      "options": [
+        { "option_id": 1, "text": "Carbon monoxide", "is_correct": false },
+        { "option_id": 2, "text": "Nicotine", "is_correct": true },
+        { "option_id": 3, "text": "Ammonia", "is_correct": false },
+        { "option_id": 4, "text": "Sulphur dioxide", "is_correct": false }
+      ],
+      "answer": "Nicotine"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define heredity.",
+      "options": [],
+      "answer": "Heredity is the transfer of characteristics from parents to offspring."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What are genes?",
+      "options": [],
+      "answer": "Genes are segments of DNA that contain the information for the synthesis of a particular protein and are the functional units of heredity."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Name the four nitrogenous bases present in DNA.",
+      "options": [],
+      "answer": "Adenine, Guanine, Cytosine, and Thymine."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How many types of RNA are mentioned in the chapter?",
+      "options": [],
+      "answer": "Three types: mRNA, tRNA, and rRNA."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the chromosomal composition of a normal human male?",
+      "options": [],
+      "answer": "44 autosomes + XY sex chromosomes."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "State Mendel's Law of Dominance.",
+      "options": [],
+      "answer": "In a pair of contrasting characters, one is dominant (expressed in F1) and the other is recessive (masked in F1)."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is a karyotype?",
+      "options": [],
+      "answer": "A karyotype is a chart or photograph of the chromosomes of an individual, arranged in pairs according to size and shape."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name the scientist who discovered the principles of heredity using pea plants.",
+      "options": [],
+      "answer": "Gregor Johann Mendel."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What causes sickle cell anaemia at the molecular level?",
+      "options": [],
+      "answer": "The substitution of valine for glutamic acid at the 6th position in the beta chain of haemoglobin."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is a monohybrid cross?",
+      "options": [],
+      "answer": "A cross between two individuals considering only one pair of contrasting characteristics."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "List two symptoms of Down syndrome.",
+      "options": [],
+      "answer": "Mental retardation and a short, wide neck."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the function of mRNA?",
+      "options": [],
+      "answer": "mRNA carries the genetic information from DNA in the nucleus to the ribosomes in the cytoplasm for protein synthesis."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define genotype.",
+      "options": [],
+      "answer": "Genotype is the genetic constitution or the pair of genes (alleles) responsible for a particular trait in an organism."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are autosomes?",
+      "options": [],
+      "answer": "Autosomes are chromosomes that are not sex chromosomes; they carry genes for somatic characteristics."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is DNA fingerprinting used for?",
+      "options": [],
+      "answer": "It is used to identify individuals based on their unique DNA sequence, useful in forensic science and paternity tests."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the phenotypic ratio in the F2 generation of a dihybrid cross?",
+      "options": [],
+      "answer": "9:3:3:1."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one genetic disorder caused by a chromosomal abnormality.",
+      "options": [],
+      "answer": "Down syndrome (Trisomy 21)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are homologous chromosomes?",
+      "options": [],
+      "answer": "Homologous chromosomes are a pair of chromosomes that are similar in shape, size, and gene sequence, one inherited from each parent."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the difference between purines and pyrimidines?",
+      "options": [],
+      "answer": "Purines (Adenine and Guanine) are double-ring nitrogenous bases, while pyrimidines (Cytosine and Thymine/Uracil) are single-ring bases."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why are mitochondrial disorders inherited only from the mother?",
+      "options": [],
+      "answer": "Because mitochondria (and their DNA) are contributed to the zygote only by the egg cell (ovum), not by the sperm."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the role of the centromere?",
+      "options": [],
+      "answer": "The centromere is the constricted region of a chromosome that holds the two sister chromatids together and is the site for spindle fiber attachment during cell division."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Define mutation.",
+      "options": [],
+      "answer": "A mutation is a sudden, heritable change in the DNA sequence of a gene or chromosome."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Give an example of a polygenic trait in humans.",
+      "options": [],
+      "answer": "Height, skin color, or susceptibility to diseases like diabetes and hypertension."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the significance of the Human Genome Project?",
+      "options": [],
+      "answer": "It mapped the entire human genome, identifying all human genes and their sequences, which aids in understanding genetic diseases and human evolution."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does 'F₂ generation' mean?",
+      "options": [],
+      "answer": "The second filial generation, which is the offspring resulting from the crossing of individuals of the F₁ generation."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Name the pigment whose absence causes albinism.",
+      "options": [],
+      "answer": "Melanin."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What are allosomes?",
+      "options": [],
+      "answer": "Allosomes are the sex chromosomes (X and Y in humans) that determine the sex of an individual."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is a dihybrid cross?",
+      "options": [],
+      "answer": "A cross between two individuals considering two pairs of contrasting characteristics simultaneously."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "List two dominant traits in humans as per the chapter.",
+      "options": [],
+      "answer": "Rolling tongue and black, curly hair."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is tobacco consumption harmful?",
+      "options": [],
+      "answer": "It contains harmful chemicals like nicotine and carbon monoxide which can cause cancer, respiratory diseases, and cardiovascular problems."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the relationship between genes, DNA, and chromosomes.",
+      "options": [],
+      "answer": "Chromosomes are thread-like structures located in the nucleus of a cell, primarily made up of DNA and proteins. DNA (Deoxyribonucleic Acid) is the hereditary material that carries genetic instructions. A gene is a specific segment of DNA that contains the code for producing a particular protein or RNA molecule, thereby determining a specific trait. Multiple genes are arranged linearly on a chromosome. Thus, chromosomes carry genes, which are made of DNA."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the Watson and Crick model of DNA structure.",
+      "options": [],
+      "answer": "The Watson and Crick model describes DNA as a double helix. It consists of two long strands (polynucleotide chains) that run anti-parallel to each other and twist around a central axis, resembling a twisted ladder. The sides of the ladder are made of alternating sugar (deoxyribose) and phosphate molecules. The rungs are formed by pairs of nitrogenous bases (A with T, and G with C) held together by hydrogen bonds. This structure explains how DNA stores and replicates genetic information."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Explain Mendel's monohybrid cross experiment with tall and dwarf pea plants, including the P₁, F₁, and F₂ generations.",
+      "options": [],
+      "answer": "Mendel crossed pure breeding tall (TT) and dwarf (tt) pea plants as the Parental (P₁) generation. The gametes produced were T and t. All offspring in the First Filial (F₁) generation were tall (Tt) phenotypically, showing dominance of the tall allele. When these F₁ plants were self-fertilized, the Second Filial (F₂) generation showed both tall and dwarf plants. The phenotypic ratio was 3 tall : 1 dwarf. The genotypic ratio was 1 TT (pure tall) : 2 Tt (hybrid tall) : 1 tt (dwarf). This demonstrated the principles of segregation and dominance."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Compare and contrast autosomal disorders and sex chromosomal disorders. Give one example of each.",
+      "options": [],
+      "answer": "Autosomal disorders are caused by abnormalities in the autosomes (non-sex chromosomes). They affect somatic traits and can be dominant or recessive. Example: Down syndrome (Trisomy 21). Sex chromosomal disorders are caused by abnormalities in the number or structure of X or Y chromosomes. They primarily affect sexual development and fertility. Example: Turner syndrome (Monosomy X in females, 44+X). While autosomal disorders often involve physical and mental anomalies, sex chromosomal disorders typically lead to sterility and underdeveloped secondary sexual characteristics."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Describe the causes, symptoms, and inheritance pattern of sickle cell anaemia.",
+      "options": [],
+      "answer": "Sickle cell anaemia is caused by a mutation in the HBB gene, leading to the substitution of valine for glutamic acid in the haemoglobin beta chain. This causes haemoglobin to form rigid, sickle-shaped red blood cells under low oxygen conditions. Symptoms include chronic anaemia, pain crises, swelling in hands/feet, fatigue, and increased risk of infections. It is inherited in an autosomal recessive pattern. Two carrier parents (AS) have a 25% chance of having an affected child (SS), a 50% chance of carriers (AS), and a 25% chance of a normal child (AA)."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "How does sexual reproduction contribute to greater variation compared to asexual reproduction?",
+      "options": [],
+      "answer": "Sexual reproduction involves the fusion of gametes (sperm and egg) from two genetically distinct parents. This process combines their genetic material, leading to new combinations of alleles in the offspring. Mechanisms like crossing over during meiosis and independent assortment of chromosomes further shuffle the genes. In contrast, asexual reproduction involves a single parent producing genetically identical offspring (clones) through mitosis, with variation arising only from random mutations. Therefore, sexual reproduction generates significantly more genetic diversity, which is crucial for adaptation and evolution."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the different types of chromosomes based on centromere position with diagrams (describe if diagrams cannot be drawn).",
+      "options": [],
+      "answer": "Chromosomes are classified into four types based on centromere position: 1) Metacentric: Centromere is at the middle, forming two equal arms (V-shaped). 2) Sub-metacentric: Centromere is slightly off-centre, resulting in one arm slightly longer than the other (L-shaped). 3) Acrocentric: Centromere is near one end, creating one very long arm and one very short arm (j-shaped). 4) Telocentric: Centromere is at the terminal end, forming a single arm (i-shaped). The position affects chromosome separation during cell division."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "What is DNA fingerprinting? Explain its principle and two applications.",
+      "options": [],
+      "answer": "DNA fingerprinting is a technique used to identify individuals based on their unique DNA patterns. Its principle relies on the fact that every person (except identical twins) has a unique sequence of non-coding, repetitive DNA regions called Variable Number Tandem Repeats (VNTRs). These regions are extracted, cut with restriction enzymes, separated by gel electrophoresis, and visualized to produce a banding pattern. Applications include: 1) Forensic Science: Identifying criminals from biological evidence like blood or hair at crime scenes. 2) Paternity Testing: Establishing biological relationships by comparing the DNA profiles of the child, mother, and alleged father."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe the structure and functions of the three types of RNA.",
+      "options": [],
+      "answer": "1) Messenger RNA (mRNA): It is a single-stranded, linear molecule that carries the genetic code from DNA in the nucleus to the ribosomes in the cytoplasm. It acts as a template for protein synthesis. 2) Transfer RNA (tRNA): It has a clover-leaf structure. Its function is to bring specific amino acids to the ribosome as per the codon sequence on the mRNA. It has an anticodon loop that pairs with the mRNA codon. 3) Ribosomal RNA (rRNA): It is a structural and catalytic component of ribosomes. It helps in the assembly of ribosomes and catalyzes the formation of peptide bonds during protein synthesis. Together, these RNAs are essential for translating genetic information into proteins."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Discuss the inter-relationship between tobacco addiction and cancer as mentioned in the chapter.",
+      "options": [],
+      "answer": "Tobacco addiction, primarily due to nicotine, leads to the consumption of tobacco in various forms (smoking, chewing). Tobacco smoke contains numerous carcinogens like nicotine, carbon monoxide, ammonia, and aldehydes. These chemicals cause mutations in the DNA of cells, leading to uncontrolled cell division – the hallmark of cancer. Smoking specifically damages lung tissue, turning it black and thickened, and is a major cause of lung, mouth, larynx, and bladder cancer. Chewing tobacco can cause oral cancers. The addiction perpetuates exposure, increasing cancer risk, while cancer itself is a severe health consequence that reinforces the need to avoid tobacco."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain why it is necessary for couples to undergo blood tests before marriage, with specific reference to genetic disorders.",
+      "options": [],
+      "answer": "Pre-marital blood tests are crucial to identify carriers of genetic disorders like thalassemia or sickle cell anaemia. These tests can reveal if individuals carry recessive alleles for such conditions. If both partners are carriers, they have a significant risk (25%) of having an affected child. Knowing this risk allows couples to make informed reproductive choices, seek genetic counseling, consider prenatal diagnostic tests, or explore options like adoption. It helps in preventing the transmission of severe hereditary diseases, reducing future medical, emotional, and financial burdens on families and the healthcare system."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Summarize Mendel's dihybrid cross experiment with round-yellow and wrinkled-green seeds. What was the key conclusion?",
+      "options": [],
+      "answer": "Mendel crossed pure breeding pea plants with round-yellow seeds (RRYY) and wrinkled-green seeds (rryy). The F₁ generation all had round-yellow seeds (RrYy), showing dominance of round and yellow traits. Selfing the F₁ plants produced an F₂ generation with four phenotypes: round-yellow, round-green, wrinkled-yellow, and wrinkled-green in a 9:3:3:1 ratio. The key conclusion was the Law of Independent Assortment, which states that alleles for different traits segregate independently of one another during gamete formation. This means the inheritance of seed shape is independent of seed color."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "What are polygenic disorders? How do they differ from monogenic disorders? Provide examples.",
+      "options": [],
+      "answer": "Polygenic disorders are caused by the combined effect of mutations in multiple genes, often influenced by environmental factors. They do not follow simple Mendelian inheritance patterns. Examples include diabetes, hypertension, heart disease, asthma, and cleft lip. In contrast, monogenic disorders are caused by a mutation in a single gene and follow clear Mendelian patterns (autosomal or sex-linked dominant/recessive). Examples are sickle cell anaemia, cystic fibrosis, and haemophilia. Polygenic disorders are more complex, with a spectrum of severity, while monogenic disorders typically have a more direct cause-effect relationship."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Describe Down syndrome, including its cause, symptoms, and karyotype.",
+      "options": [],
+      "answer": "Down syndrome is a chromosomal disorder caused by trisomy of chromosome 21, meaning there are three copies instead of the normal two. The karyotype is represented as 47, XX or XY, +21. This usually occurs due to non-disjunction during meiosis. Symptoms include intellectual disability (mental retardation), characteristic facial features (flat nasal bridge, upward slanting eyes), short stature, a single palmar crease, short wide neck, and congenital heart defects. Individuals often have a shortened life expectancy and may experience delayed developmental milestones. It is the most common autosomal trisomy."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Explain the difference between phenotype and genotype using an example from Mendel's experiments.",
+      "options": [],
+      "answer": "Phenotype refers to the observable physical or biochemical characteristics of an organism, while genotype refers to the genetic makeup or the specific combination of alleles for a trait. In Mendel's tall and dwarf pea plant cross, a plant with the genotype 'TT' or 'Tt' will have the tall phenotype. However, a plant with 'tt' will have the dwarf phenotype. In the F₂ generation, both 'TT' and 'Tt' plants look tall (same phenotype), but their genotypes are different ('TT' is homozygous dominant, 'Tt' is heterozygous). This shows that the same phenotype can result from different genotypes, and the genotype determines the potential phenotype, which is expressed based on dominance relationships."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "How do environmental factors interact with genetic predisposition in causing diseases?",
+      "options": [],
+      "answer": "Many diseases, especially polygenic and complex disorders, result from an interaction between genetic predisposition and environmental factors. An individual may inherit genes that increase susceptibility to a condition like heart disease or diabetes. However, the actual development and severity of the disease are often influenced by lifestyle factors such as diet, physical activity, smoking, and stress. For example, a person genetically prone to high blood pressure may only develop hypertension if they consume a high-salt diet and lead a sedentary life. This gene-environment interaction is central to understanding the etiology of common non-communicable diseases."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What is the significance of the National Health Mission in the context of genetic disorders?",
+      "options": [],
+      "answer": "The National Health Mission (NHM), encompassing the National Rural and Urban Health Missions, plays a vital role in addressing genetic disorders. It aims to strengthen healthcare infrastructure, making diagnostic tests (like the solubility test for sickle cell anaemia) and genetic counseling more accessible in rural and urban areas. The mission increases public awareness about hereditary diseases, promotes pre-marital and prenatal screening, and provides financial assistance for treatment. By integrating genetic disorder management into primary healthcare, the NHM works towards early detection, prevention, and better management of conditions like sickle cell anaemia, thereby improving public health outcomes."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Explain the process of gamete formation and how it relates to Mendel's Law of Segregation.",
+      "options": [],
+      "answer": "Gamete formation occurs through meiosis. In diploid organisms, chromosomes (and the alleles on them) exist in pairs. During meiosis I, homologous chromosomes separate. This means the two alleles for a gene segregate (separate) from each other so that each gamete receives only one allele for each gene. This is the physical basis of Mendel's Law of Segregation. For a heterozygous individual (Aa), half the gametes will carry the 'A' allele and half will carry the 'a' allele. When two such gametes fuse during fertilization, the offspring's genotype is determined by the combination of alleles from each parent, explaining the patterns of inheritance Mendel observed."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Compare the chromosomal disorders: Turner syndrome and Klinefelter syndrome.",
+      "options": [],
+      "answer": "Turner syndrome affects females and is caused by monosomy X (45, X or 44+X). Characteristics include short stature, webbed neck, underdeveloped ovaries leading to sterility, and absence of secondary sexual characteristics. Intelligence is usually normal. Klinefelter syndrome affects males and is caused by an extra X chromosome (47, XXY or 44+XXY). Characteristics include tall stature, small testes, gynecomastia (breast development), infertility, and often learning disabilities or speech delays. Both are sex chromosome aneuploidies causing infertility, but Turner syndrome involves a missing chromosome, while Klinefelter involves an extra one, leading to different phenotypic effects based on sex."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Why is genetic variation important for a species?",
+      "options": [],
+      "answer": "Genetic variation is crucial for the survival and evolution of a species. It provides the raw material for natural selection. In a changing environment, individuals with certain genetic variations may have traits that make them better adapted, increasing their chances of survival and reproduction. This leads to the gradual evolution of the population. Variation also reduces the risk of extinction from diseases or environmental changes, as a genetically diverse population is less likely to be wiped out by a single threat. Furthermore, in agriculture, genetic variation is used for breeding crops and livestock with desirable traits like higher yield or disease resistance."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Describe the central dogma of molecular biology and the roles of DNA and RNA in it.",
+      "options": [],
+      "answer": "The central dogma of molecular biology describes the flow of genetic information: DNA -> RNA -> Protein. First, in transcription, the genetic code in a DNA strand is copied into a complementary messenger RNA (mRNA) molecule in the nucleus. This mRNA then moves to the cytoplasm. Next, in translation, the mRNA sequence is read by ribosomes (composed of rRNA). Transfer RNA (tRNA) molecules bring specific amino acids to the ribosome according to the mRNA codons. The ribosome links these amino acids together to form a protein. DNA stores and transmits genetic information, while the different types of RNA are essential intermediaries in converting that information into functional proteins."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What are the ethical considerations associated with genetic testing and DNA fingerprinting?",
+      "options": [],
+      "answer": "Genetic testing and DNA fingerprinting raise several ethical issues: 1) Privacy and Confidentiality: Genetic information is highly personal; misuse could lead to discrimination by employers or insurers. 2) Informed Consent: Individuals must fully understand the implications before testing. 3) Psychological Impact: Results may cause anxiety, guilt, or family discord, especially for untreatable conditions. 4) Paternity and Forensics: While useful, results can disrupt families or be used to wrongly convict if mishandled. 5) Eugenics: There's a risk of misusing technology for selective breeding or 'designer babies'. Therefore, these powerful tools must be governed by strict ethical guidelines, laws, and counseling to protect individuals and society."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain how a recessive trait can 'skip' a generation.",
+      "options": [],
+      "answer": "A recessive trait can appear to skip a generation because it is only expressed when an individual has two copies of the recessive allele (homozygous recessive). Carriers (heterozygous individuals) have one dominant and one recessive allele; the dominant allele masks the recessive one, so they do not show the trait but can pass the recessive allele to their offspring. For example, if two carrier parents (Aa) have a child, that child has a 25% chance of being homozygous recessive (aa) and expressing the trait. The trait was present but hidden in the carrier parent generation (the skipped generation) and then reappeared in the grandchildren when two recessive alleles came together."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Discuss the role of genetics in personalized medicine.",
+      "options": [],
+      "answer": "Personalized medicine uses an individual's genetic profile to guide decisions about disease prevention, diagnosis, and treatment. By analyzing a person's genes, doctors can: 1) Predict susceptibility to certain diseases (like BRCA genes for breast cancer). 2) Choose the most effective drugs with the fewest side effects (pharmacogenomics). For instance, genetic tests can determine how a patient will metabolize a drug. 3) Diagnose conditions more accurately. 4) Develop targeted therapies for diseases like cancer, where treatments attack specific genetic mutations in the tumor. This approach moves away from 'one-size-fits-all' medicine, leading to more efficient, safer, and cost-effective healthcare tailored to each person's genetic makeup."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "How can public awareness campaigns help in the prevention of genetic disorders?",
+      "options": [],
+      "answer": "Public awareness campaigns are vital for preventing genetic disorders. They can: 1) Educate people about the nature of hereditary diseases and the importance of carrier screening before marriage or conception. 2) Dispel myths and reduce stigma associated with genetic conditions. 3) Promote healthy lifestyle choices that can mitigate the effects of genetic predispositions (e.g., diet for diabetes). 4) Encourage participation in government health programs offering free screenings. 5) Inform about the risks of consanguineous marriages, which increase the chance of recessive disorders. By increasing knowledge, such campaigns empower individuals to make informed reproductive and health decisions, leading to early detection, reduced incidence, and better management of genetic disorders."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'carrier' in the context of recessive genetic disorders with an example.",
+      "options": [],
+      "answer": "A carrier is an individual who carries one copy of a recessive allele for a genetic disorder but does not show symptoms because they also have a normal, dominant allele. The recessive allele is masked. Carriers can, however, pass the recessive allele to their offspring. For example, in sickle cell anaemia, the normal allele is 'A' and the disease-causing allele is 'S'. A person with genotype 'AS' is a carrier. They are generally healthy but can produce both 'A' and 'S' gametes. If two carriers marry, each child has a 25% chance of inheriting 'S' from both parents, resulting in the disease (SS). Identifying carriers through blood tests is crucial for genetic counseling."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "What are the different ways in which chromosomal abnormalities can occur?",
+      "options": [],
+      "answer": "Chromosomal abnormalities can occur in several ways: 1) Non-disjunction: The failure of homologous chromosomes or sister chromatids to separate properly during meiosis or mitosis, leading to aneuploidy (extra or missing chromosome), e.g., Down syndrome (trisomy 21). 2) Deletion: A segment of a chromosome is lost. 3) Duplication: A segment is repeated. 4) Inversion: A segment breaks off and reattaches in reverse order. 5) Translocation: A segment moves from one chromosome to a non-homologous chromosome. These abnormalities can arise spontaneously due to errors in cell division or be induced by mutagens like radiation or chemicals. They can affect any chromosome and cause various genetic disorders."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Describe the process of protein synthesis in the cell.",
+      "options": [],
+      "answer": "Protein synthesis involves two main steps: transcription and translation. Transcription occurs in the nucleus. The DNA double helix unwinds at a specific gene. RNA polymerase enzyme synthesizes a complementary mRNA strand using the DNA template. This mRNA then exits the nucleus. Translation occurs in the cytoplasm on ribosomes. The mRNA strand binds to a ribosome. tRNA molecules, each carrying a specific amino acid, have anticodons that pair with complementary codons on the mRNA. The ribosome moves along the mRNA, reading each codon and catalyzing the formation of peptide bonds between the incoming amino acids. This builds a polypeptide chain, which folds into a functional protein. The process requires mRNA, tRNA, rRNA, amino acids, and ATP."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How does the structure of a nucleotide contribute to the structure of DNA?",
+      "options": [],
+      "answer": "A nucleotide, the building block of DNA, consists of three parts: a deoxyribose sugar, a phosphate group, and a nitrogenous base (A, T, G, or C). In the DNA double helix, nucleotides link together via covalent bonds between the sugar of one nucleotide and the phosphate of the next, forming the sugar-phosphate backbone of each strand. The two strands run anti-parallel. The nitrogenous bases project inward and form hydrogen bonds with complementary bases on the opposite strand (A with T, G with C). This specific base pairing holds the two strands together, creating the ladder-like structure. The sequence of these bases along the backbone encodes genetic information, while the helical structure allows for compact storage and replication."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Imagine you are a genetic counselor. What advice would you give to a couple who are both carriers for sickle cell anaemia?",
+      "options": [],
+      "answer": "As a genetic counselor, I would explain to the couple that as carriers (AS x AS), they have a 25% chance with each pregnancy of having a child with sickle cell anaemia (SS), a 50% chance of having a carrier child (AS), and a 25% chance of having a child without the allele (AA). I would discuss the symptoms and management of sickle cell anaemia. I would inform them about prenatal diagnostic options like chorionic villus sampling (CVS) or amniocentesis to determine the fetus's genotype. I would also discuss reproductive alternatives like adoption or using donor gametes. The goal is to provide non-directive information, emotional support, and resources so they can make the best decision for their family based on their values and circumstances."
+    }
+  ]
+}

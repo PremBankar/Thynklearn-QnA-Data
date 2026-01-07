@@ -1,0 +1,1491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Political_Science.12",
+    "standard": "9",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "India’s Foreign Policy"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the theoretical framework in which a country decides its relations with other nations called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "National Interest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign Policy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "International Law",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Political System",
+          "is_correct": false
+        }
+      ],
+      "answer": "Foreign Policy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "According to the chapter, what is considered the highest national interest of any country?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Economic Development",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defence and protection of independence, sovereignty, and integrity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "International Peace",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Participation in world trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defence and protection of independence, sovereignty, and integrity"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a factor influencing foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Geographical Location",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Political System",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Religious Beliefs of Leaders",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Economy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Religious Beliefs of Leaders"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In a democratic political system, which body plays a major role in evolving foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Army",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The Nation's Parliament",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The Corporate Sector",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Nation's Parliament"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which constitutional article lays down the broad framework for India's foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Article 19",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Article 32",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Article 51",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Article 370",
+          "is_correct": false
+        }
+      ],
+      "answer": "Article 51"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister contributed the policy of non-alignment to India's foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indira Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajiv Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pandit Jawaharlal Nehru",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Atal Bihari Vajpayee",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "When was the South Asian Association for Regional Cooperation (SAARC) established?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1974",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1980s",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1991",
+          "is_correct": false
+        }
+      ],
+      "answer": "1980s"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is a feature of India's foreign policy in the early phase (1947-1990)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Adoption of free market policy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Policy of non-alignment",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Active participation in G-20",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Focus primarily on trade relations",
+          "is_correct": false
+        }
+      ],
+      "answer": "Policy of non-alignment"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In which year did India conduct its first nuclear tests?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1974",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1991",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1998",
+          "is_correct": false
+        }
+      ],
+      "answer": "1974"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which international grouping includes India as a member?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "NATO",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "OPEC",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "BRICS",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ASEAN",
+          "is_correct": false
+        }
+      ],
+      "answer": "BRICS"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the term 'national interest' primarily imply?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The cultural heritage of a nation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The means to safeguard a country's independence and sovereignty",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The popularity of the ruling party",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The number of international treaties signed",
+          "is_correct": false
+        }
+      ],
+      "answer": "The means to safeguard a country's independence and sovereignty"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why is economic development considered an important national interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It helps in winning elections.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An economically weak nation cannot maintain its independence.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It is a requirement for joining the UN.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It allows for more military spending.",
+          "is_correct": false
+        }
+      ],
+      "answer": "An economically weak nation cannot maintain its independence."
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How does a federal political system affect foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It centralizes all foreign policy decisions.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It requires considering the inclinations of constituent states because neighboring nations' affairs affect them.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It prevents the country from having an independent foreign policy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It makes foreign policy static.",
+          "is_correct": false
+        }
+      ],
+      "answer": "It requires considering the inclinations of constituent states because neighboring nations' affairs affect them."
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these is an objective of India's foreign policy as per Article 51?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Promote colonialism",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Resolve international disputes by peaceful means",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Achieve military dominance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isolate itself from the world",
+          "is_correct": false
+        }
+      ],
+      "answer": "Resolve international disputes by peaceful means"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What was a central feature of India's foreign policy during the early phase shaped by Nehru?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Military aggression",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Peace",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Economic protectionism",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cultural isolation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peace"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which treaty has India NOT signed, as mentioned in the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nuclear Non-Proliferation Treaty (NNPT)",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Comprehensive Test Ban Treaty (CTBT)",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both NNPT and CTBT",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "SAARC Charter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both NNPT and CTBT"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does the chapter say about the relationship between national interest and foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They are unrelated.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "National interest is the goal, foreign policy is the means to achieve it.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign policy is the goal, national interest is the means.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They are the same thing.",
+          "is_correct": false
+        }
+      ],
+      "answer": "National interest is the goal, foreign policy is the means to achieve it."
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which ministry is primarily involved in the administrative aspects of creating foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ministry of Defence",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ministry of Home Affairs",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ministry of External Affairs",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ministry of Finance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ministry of External Affairs"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In the second stage of India's foreign policy (post-1991), what dimension gained more priority?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only political relations",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only military relations",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Economy, trade, education, and technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cultural supremacy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economy, trade, education, and technology"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "According to the chapter, why is peace and stability in neighboring countries important for India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It makes tourism easier.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It is as important as peace within India, as events there can affect Indian states.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It is required by international law.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It helps India export more goods.",
+          "is_correct": false
+        }
+      ],
+      "answer": "It is as important as peace within India, as events there can affect Indian states."
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What was the main purpose behind establishing the Indian Atomic Energy Commission as per the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To enhance military capacity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To conduct nuclear tests",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Production of atomic energy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To stop nuclear proliferation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Production of atomic energy"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister is credited with taking a lead in improving relations with Pakistan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indira Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajiv Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Atal Bihari Vajpayee",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pandit Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "Atal Bihari Vajpayee"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is one of the reasons India has not signed the Nuclear Non-Proliferation Treaty (NNPT)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "India supports unlimited nuclear proliferation.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The treaty puts unfair restrictions on developing countries and benefits big nuclear powers.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "India does not believe in disarmament.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The treaty is too old.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The treaty puts unfair restrictions on developing countries and benefits big nuclear powers."
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "In the context of foreign policy, what role do embassies play?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They are part of the military command.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They protect the interests of Indian citizens living in other countries.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They make final decisions on foreign policy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They are only for tourism promotion.",
+          "is_correct": false
+        }
+      ],
+      "answer": "They protect the interests of Indian citizens living in other countries."
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of the following is a stated objective of India's foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To compromise on geographical boundaries for peace.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To establish economic relations for India's development.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To participate in all military pacts.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To ignore international law.",
+          "is_correct": false
+        }
+      ],
+      "answer": "To establish economic relations for India's development."
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What does the chapter suggest about foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It is always static and unchanging.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It is always dynamic and changes with conditions and time.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It is decided solely by the military.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It is irrelevant for small countries.",
+          "is_correct": false
+        }
+      ],
+      "answer": "It is always dynamic and changes with conditions and time."
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which superpowers helped India with defence technology in the first stage (1947-1990)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "USA and UK only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Soviet Russia, France, and Germany",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "China and Pakistan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Japan and Australia",
+          "is_correct": false
+        }
+      ],
+      "answer": "Soviet Russia, France, and Germany"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What concept did Asian and African countries that did not join military pacts support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Colonialism",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Non-alignment",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Military dominance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic isolation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Non-alignment"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "After 1991, what policy did India adopt regarding its economy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Increased government controls",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Free market policy and reduced government controls",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Complete economic isolation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only agricultural focus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Free market policy and reduced government controls"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is India's stated position regarding nuclear weapons and world peace?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "India believes in using them for dominance.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "India has consistently supported efforts for disarmament, believing in world peace and security.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "India wants every country to have nuclear weapons.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "India thinks nuclear weapons are harmless.",
+          "is_correct": false
+        }
+      ],
+      "answer": "India has consistently supported efforts for disarmament, believing in world peace and security."
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which factor includes the size, population, topography, and coastline of a country?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political System",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Geographical Location",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Economy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Administrative Factors",
+          "is_correct": false
+        }
+      ],
+      "answer": "Geographical Location"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who collects information, analyzes it, and gives advice to shape foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prime Minister alone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Administrative officers of the Ministry of External Affairs",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The general public",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign media",
+          "is_correct": false
+        }
+      ],
+      "answer": "Administrative officers of the Ministry of External Affairs"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What was the outcome of the 1971 war between India and Pakistan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pakistan won.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "India lost territory.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pakistan broke apart and independent Bangladesh was created.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A ceasefire was established with no changes.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pakistan broke apart and independent Bangladesh was created."
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "In the second stage, India's relations strengthened with which of the following South Asian countries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Singapore, Thailand, Vietnam",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "USA and UK",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Russia only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All European countries",
+          "is_correct": false
+        }
+      ],
+      "answer": "Singapore, Thailand, Vietnam"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is the role of the National Security Advisor in foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To lead the army",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To collect information, analyze it, and give advice (similar to administrative officers)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To manage the country's finances",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To conduct diplomatic meetings alone",
+          "is_correct": false
+        }
+      ],
+      "answer": "To collect information, analyze it, and give advice (similar to administrative officers)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "According to the chapter, what should be the basis for decisions to nurture national interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What is beneficial and good for the country",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The wishes of powerful countries",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Popular trends on social media",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ancient scriptures",
+          "is_correct": false
+        }
+      ],
+      "answer": "What is beneficial and good for the country"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What did India's nuclear tests in 1998 prove?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "India's commitment to disarmament",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "India's nuclear weapons capability",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "India's desire to start a nuclear war",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "India's technological backwardness",
+          "is_correct": false
+        }
+      ],
+      "answer": "India's nuclear weapons capability"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of how the economy impacts foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Countries with strong economies can have a more independent foreign policy.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Economy has no impact on foreign policy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only poor countries care about economy in foreign policy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic security is less important than cultural ties.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Countries with strong economies can have a more independent foreign policy."
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What does the chapter say is necessary to understand a country?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Its cuisine and festivals",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Its Constitution and its foreign policy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Its population size only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Its military strength only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Its Constitution and its foreign policy"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What was a challenge India faced in the first stage of its foreign policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conflict with China and Pakistan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Membership in the European Union",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Global economic recession",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lack of natural resources",
+          "is_correct": false
+        }
+      ],
+      "answer": "Conflict with China and Pakistan"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the meaning of Foreign Policy?",
+      "answer": "Foreign Policy is the theoretical framework in which a country decides its relations with other nations, including with whom to be friendly, which blocs to join, and what position to take in international relations."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the two most important components of National Interest.",
+      "answer": "Defence (protection of independence, sovereignty, and integrity) and Economic Development."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Which article of the Indian Constitution provides the broad framework for foreign policy?",
+      "answer": "Article 51 of the Directive Principles of State Policy."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Who was the first Chairman of the Indian Atomic Energy Commission?",
+      "answer": "Dr Homi Bhabha."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What does the policy of Non-alignment mean?",
+      "answer": "It means not joining any of the military blocs led by superpowers during the Cold War, and maintaining friendly relations with all nations."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Name the regional cooperation organization established in South Asia in the 1980s.",
+      "answer": "South Asian Association for Regional Cooperation (SAARC)."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Where did India conduct its nuclear tests in 1974?",
+      "answer": "Pokharan."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What are the two treaties mentioned that aim to stop the spread of nuclear weapons?",
+      "answer": "Nuclear Non-Proliferation Treaty (NNPT) and Comprehensive Test Ban Treaty (CTBT)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name one international grouping that India is a part of in the post-1990 period.",
+      "answer": "G-20 or BRICS."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the relationship between national interest and foreign policy?",
+      "answer": "National interest is the goal, and foreign policy is the means to achieve that goal."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "List two factors that influence a country's foreign policy.",
+      "answer": "Geographical Location and Political System. (Also Economy, Political Leadership, Administrative Factors)"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is economic security important in today's world according to the chapter?",
+      "answer": "Economic security is as important as national security, and a strong economy allows for a more independent foreign policy."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which Prime Minister contributed significantly to improving Sino-Indian relations?",
+      "answer": "Atal Bihari Vajpayee."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is one objective of India's foreign policy regarding its boundaries?",
+      "answer": "Not to compromise about the geographical boundaries of the nation."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What major change occurred in India's economic policy after 1991 that affected its foreign policy?",
+      "answer": "India reduced government controls and adopted a free market policy."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How did the policy of non-alignment benefit India during the Cold War?",
+      "answer": "It allowed India to get aid from both superpowers (USA and USSR)."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the responsibility of Indian embassies in other countries?",
+      "answer": "To protect the interests of Indian citizens living in those countries."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does CTBT stand for?",
+      "answer": "Comprehensive Test Ban Treaty."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one value on which India's foreign policy is said to be based.",
+      "answer": "International peace, human rights, or security."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does BRICS stand for?",
+      "answer": "Brazil, Russia, India, China, South Africa."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What was the outcome of the wars between India and Pakistan in 1947-48 and 1965?",
+      "answer": "They were fought over the Kashmir question. (Specific outcome not detailed, but conflict occurred)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which ministry's administrative officers help in shaping foreign policy?",
+      "answer": "Ministry of External Affairs."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is meant by 'national interest'?",
+      "answer": "It implies the means through which the independence and sovereignty of a country can be safeguarded, including efforts for economic development and increasing national power."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why does a federal political system need to consider constituent states in foreign policy?",
+      "answer": "Because affairs in neighboring nations can affect those constituent states directly."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What did India prove by conducting nuclear tests in 1974?",
+      "answer": "India proved its nuclear capability."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Name one challenge India faced in foreign policy between 1947 and 1990.",
+      "answer": "Conflict with Pakistan over Kashmir or conflict with China."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does the chapter suggest is a similarity between India and the USA?",
+      "answer": "Both are democracies."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the full form of SAARC?",
+      "answer": "South Asian Association for Regional Cooperation."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is India's position on the use of nuclear weapons?",
+      "answer": "India has a 'no first use' policy and supports disarmament for world peace."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are the two stages in which the chapter reviews India's foreign policy?",
+      "answer": "First stage: 1947 to 1990. Second stage: 1991 till date."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the meaning and importance of Foreign Policy.",
+      "answer": "Foreign Policy is the theoretical framework through which a sovereign country decides its relations with other nations in the international system. It involves decisions on which countries to befriend, which blocs to participate in, and what stance to take on global issues. Its importance lies in the fact that no country is completely self-reliant; mutual interdependence exists. A well-thought-out foreign policy ensures that this interdependence benefits the nation, safeguards its national interests (like defence and economic development), enhances its security, and increases its stature and influence in the world. It is essential for maintaining peaceful relations, resolving disputes, and achieving developmental goals through international cooperation."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the relationship between National Interest and Foreign Policy.",
+      "answer": "National Interest and Foreign Policy are intrinsically linked. National Interest represents the core goals of a nation, primarily the safeguarding of its independence, sovereignty, integrity, and the achievement of its economic development and security. Foreign Policy is the strategic means or instrument used to foster and achieve these national interests. National interest is considered the end goal, while foreign policy is the pathway to reach it. The goals encapsulated in national interest (e.g., defence, economic growth) guide the formulation of foreign policy decisions, such as forming alliances, engaging in trade, or taking diplomatic stances. As conditions and times change, national interests may evolve, and this dynamism is reflected in corresponding adjustments to the country's foreign policy."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "List and explain the factors that influence the making of a country's Foreign Policy.",
+      "answer": "Several key factors influence the formulation of a country's Foreign Policy: (1) **Geographical Location**: Size, population, topography, coastline, and natural resources determine strategic needs and vulnerabilities. (2) **Political System**: In democracies, parliament and opposition parties debate and shape policy. In federal systems, the interests of constituent states, especially those bordering other nations, must be considered. (3) **Economy**: The need for economic security, trade relations, import-export dynamics, and participation in the global economy heavily shape foreign policy. A strong economy allows for a more independent policy. (4) **Political Leadership**: Key leaders like the Prime Minister, Foreign Minister, and others imprint their vision and can change or maintain policy continuity (e.g., Nehru with non-alignment, Vajpayee with Sino-Indian relations). (5) **Administrative Factors**: The Ministry of External Affairs, diplomats, embassies, and the National Security Advisor collect information, analyze global developments, and provide crucial advice that feeds into policy decisions."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "What are the objectives of India's Foreign Policy as outlined in the chapter?",
+      "answer": "The objectives of India's Foreign Policy, as derived from Article 51 of the Constitution and other stated goals, include: (1) Promoting international peace and security. (2) Resolving international disputes by peaceful means and arbitration. (3) Maintaining just and honorable relations with other nations and fostering respect for international law. (4) Safeguarding India's defence and security while maintaining friendly relations with neighbours, without compromising on geographical boundaries. (5) Protecting the unity and integrity of India. (6) Protecting the interests of Indian citizens living abroad through embassies. (7) Establishing economic and commercial relations with other countries to achieve India's economic development. These objectives aim to balance national security with peaceful coexistence and economic progress."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Compare and contrast the first stage (1947-1990) and the second stage (1991 onwards) of India's Foreign Policy.",
+      "answer": "**First Stage (1947-1990):** This period was dominated by the Cold War context. India's foreign policy was characterized by the **policy of non-alignment**, refusing to join either US or Soviet blocs. The focus was on political and military relations, maintaining friendly ties with all to secure development aid from both sides. Defence strengthening was a priority, with technology imports from USSR, France, and Germany. The period saw conflicts with Pakistan (1947-48, 1965, 1971) and China. Peace, anti-colonialism, and self-reliance were key principles.\n\n**Second Stage (1991 onwards):** Post-Cold War and post-economic reforms, India's policy became **more comprehensive and dynamic**. The focus expanded beyond politics to include **economy, trade, education, and technology**. India adopted a **free market policy**, leading to increased global trade and integration. Participation in international forums like **G-20 and BRICS** increased. Relations strengthened with USA, Southeast Asia (Singapore, Thailand), Israel, Japan, and the EU. The nuclear tests in 1998 affirmed strategic capability. Foreign policy became multi-dimensional, aiming for economic growth and a larger global role while maintaining core principles of peace and security."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the significance of the policy of Non-alignment in India's early foreign policy.",
+      "answer": "The policy of Non-alignment was a cornerstone of India's foreign policy in the early decades after independence. Its significance was multi-fold: (1) **Strategic Autonomy**: It allowed India to maintain independence in thought and action, free from the pressure of the two rival superpower blocs led by the USA and USSR during the Cold War. (2) **Development Aid**: By not taking sides, India could access economic and technological assistance from both blocs, which was crucial for its nation-building and industrialisation projects. (3) **Moral Leadership**: It positioned India as a leader of the newly independent Asian and African nations, advocating for peace, decolonisation, and a more equitable world order. (4) **Peaceful Coexistence**: It reinforced India's commitment to resolving disputes peacefully and promoting global peace, which was a fundamental principle of its foreign policy under Nehru. (5) **Global South Solidarity**: It fostered solidarity among developing nations that chose not to be entangled in great power rivalries."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "What is India's nuclear policy, and how does it relate to its foreign policy?",
+      "answer": "India's nuclear policy is an integral part of its foreign policy, shaped by considerations of security, sovereignty, and global disarmament. Initiated soon after independence for peaceful energy generation under Dr. Homi Bhabha, it later evolved to include military capability for deterrence. Key aspects include: (1) **Peaceful Beginnings**: The initial aim was atomic energy for electricity. (2) **Strategic Deterrence**: Nuclear tests in 1974 (peaceful explosion) and 1998 (weapon tests) established India as a nuclear weapon state, primarily in response to security threats from nuclear-armed neighbours China and Pakistan. (3) **Responsible Power**: India has declared a 'no first use' policy and positions itself as a responsible nuclear power. (4) **Disarmament Advocacy**: India consistently supports global nuclear disarmament efforts but has not signed the NNPT or CTBT, viewing them as discriminatory treaties that perpetuate the monopoly of existing nuclear powers. Thus, India's nuclear policy serves its national interest of security while its foreign policy advocates for a world free of nuclear weapons."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Why has India not signed the Nuclear Non-Proliferation Treaty (NNPT) and the Comprehensive Test Ban Treaty (CTBT)?",
+      "answer": "India has not signed the Nuclear Non-Proliferation Treaty (NNPT) and the Comprehensive Test Ban Treaty (CTBT) because it considers their provisions to be unfair and discriminatory. According to India's perspective, these treaties create a system of 'nuclear haves' and 'have-nots'. They permanently legitimize the nuclear weapons possession of the five original nuclear powers (USA, Russia, UK, France, China) while restricting all other countries from acquiring such weapons, even for their security. India views this as an unequal obligation that undermines its national security interests, especially given its volatile neighborhood with nuclear-armed Pakistan and China. India believes in the goal of universal, non-discriminatory nuclear disarmament, but until that is achieved, it cannot accept treaties that curb its sovereign right to ensure its security through a credible minimum deterrent. Therefore, while supporting disarmament in principle, India has chosen to stay outside these specific treaties."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "How does the geographical location of a country influence its foreign policy? Give examples related to India.",
+      "answer": "A country's geographical location profoundly influences its foreign policy by defining its opportunities, vulnerabilities, and strategic priorities. For India: (1) **Vast Size and Population**: Its large territory and huge population make it a significant regional power, compelling it to adopt a policy that asserts this status. (2) **Long Coastline**: A long coastline necessitates a strong naval focus and policies to secure sea lanes for trade and energy imports. (3) **Himalayan Borders**: The Himalayan mountain range with China and Nepal defines a crucial security frontier, making relations with these neighbours and border security a top foreign policy concern. (4) **Shared Land Borders with Multiple Nations**: India shares borders with Pakistan, China, Nepal, Bhutan, Bangladesh, and Myanmar. This necessitates a complex foreign policy that manages diverse bilateral relations, as instability in any neighbor (e.g., Sri Lanka affecting Tamil Nadu, Bangladesh affecting West Bengal) can directly impact India's internal security and regional stability, forcing India to actively engage in regional diplomacy and peace efforts."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Describe the role of political leadership in shaping India's foreign policy with examples.",
+      "answer": "Political leadership plays a decisive role in shaping and giving direction to India's foreign policy. Key leaders imprint their vision and respond to contemporary challenges: (1) **Pandit Jawaharlal Nehru**: As the first Prime Minister, he laid the foundation. He championed **non-alignment**, **peaceful coexistence**, and an independent understanding of world affairs. He opposed colonialism and prioritized global peace. (2) **Indira Gandhi**: She displayed strong realism. She took the decision for the 1971 war leading to Bangladesh's creation, asserting regional power. She also authorized the first nuclear test in 1974. (3) **Atal Bihari Vajpayee**: He contributed significantly to improving **Sino-Indian relations** and took a bold lead in engaging with **Pakistan** (e.g., Lahore bus diplomacy). His government conducted the 1998 nuclear tests and declared India a nuclear weapon state with a 'no first use' policy. (4) Post-1991 leaders have focused on economic diplomacy ('Look East' policy, increasing FDI) and integrating India into global groupings like G-20 and BRICS. Thus, leadership provides both continuity and change in foreign policy."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "What does Article 51 of the Indian Constitution state regarding foreign policy?",
+      "answer": "Article 51 of the Indian Constitution, part of the Directive Principles of State Policy, lays down the broad philosophical framework for India's foreign policy. It states that the State shall endeavor to: (a) Promote international peace and security; (b) Maintain just and honorable relations between nations; (c) Foster respect for international law and treaty obligations in the dealings of organized peoples with one another; and (d) Encourage settlement of international disputes by arbitration. This article enshrines the core values of peace, justice, respect for international law, and peaceful dispute resolution as the guiding principles for India's conduct in the international arena. All foreign policy objectives and actions are expected to align with this constitutional mandate."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "How did the economic reforms of 1991 impact India's foreign policy?",
+      "answer": "The economic reforms of 1991, which liberalized the Indian economy and reduced government controls, had a transformative impact on India's foreign policy. It shifted the policy from being predominantly political and security-focused to becoming **economy-centric and multi-dimensional**. (1) **Trade and Investment Focus**: Foreign policy began to actively pursue the goal of increasing trade, attracting Foreign Direct Investment (FDI), and integrating India into the global economy. (2) **Expanded Engagement**: Relations with economically dynamic regions like Southeast Asia (via 'Look East' policy), Israel, Japan, and the European Union strengthened significantly. (3) **New Partnerships**: The pursuit of economic growth led to deeper engagement with the USA, which became a major trade and investment partner. (4) **Participation in Economic Forums**: India actively participated in global economic forums like G-20 and BRICS, seeking a larger role in global economic governance. In essence, economic imperatives became a primary driver of foreign policy, making it more pragmatic, outward-looking, and integrated with global markets."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain why peace and stability in neighboring countries is important for India.",
+      "answer": "Peace and stability in neighboring countries are critically important for India's own security, stability, and development for several reasons: (1) **Direct Security Impact**: Instability, conflict, or the rise of hostile regimes in neighboring countries can directly threaten India's borders, lead to cross-border terrorism (as from Pakistan), or cause refugee influxes (as from Bangladesh in 1971 or Myanmar). (2) **Impact on Indian States**: In a federal system, events in neighboring countries directly affect bordering Indian states. For example, the ethnic conflict in Sri Lanka affected Tamil Nadu, and events in Bangladesh impact West Bengal and the Northeast. This can create internal law and order challenges. (3) **Regional Development**: A peaceful neighborhood is essential for regional economic cooperation, trade, connectivity projects, and collective prosperity through organizations like SAARC. (4) **Strategic Space**: A stable periphery allows India to focus on its own development and play a larger global role without being preoccupied with regional crises. Therefore, India's foreign policy actively works to promote democracy and stability in its neighborhood."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "What are the administrative factors involved in the making of foreign policy?",
+      "answer": "The making of foreign policy involves several key administrative factors that provide the necessary infrastructure, information, and expertise: (1) **Ministry of External Affairs (MEA)**: The nodal ministry responsible for formulating and executing foreign policy. (2) **Foreign Secretary**: The senior-most civil servant in the MEA who oversees diplomatic operations and advises the political leadership. (3) **Embassies and High Commissions**: Indian missions abroad act as the eyes and ears on the ground. They collect vital information about host countries, analyze local developments, protect Indian interests, and implement policy directives. (4) **Diplomatic Officers (IFS officers)**: Trained professionals who man the MEA and missions, conducting negotiations, preparing reports, and providing ground-level insights. (5) **National Security Advisor (NSA)**: Provides integrated advice on foreign, security, and strategic policy matters. While final decisions are taken by the Prime Minister and External Affairs Minister, this administrative machinery collects data, analyses global trends, prepares policy options, and ensures smooth implementation, forming the backbone of foreign policy formulation."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Discuss India's relations with the United States in the context of its evolving foreign policy.",
+      "answer": "India's relations with the United States have undergone a significant transformation, mirroring the evolution of its foreign policy. In the **first stage (1947-1990)**, during the Cold War, relations were often strained due to India's non-aligned stance and close ties with the Soviet Union. The US saw India as leaning towards the rival bloc. The 1974 nuclear test led to technology denial. However, in the **second stage (post-1991)**, relations improved dramatically. India's economic liberalization opened opportunities for US trade and investment. Shared democratic values became a stronger bonding factor. Strategic convergence grew, especially after India's 1998 nuclear tests (despite initial sanctions) and in the context of counter-terrorism and managing China's rise. Cooperation expanded to defence, space, technology, and counter-terrorism. India's status rose in the US-led international order, with support for a permanent UNSC seat. Today, the US is a major strategic partner, reflecting India's more pragmatic, multi-aligned foreign policy focused on economic and security interests, while maintaining strategic autonomy."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What is the concept of 'national interest', and what factors are included in it?",
+      "answer": "The concept of 'national interest' refers to the set of core goals and objectives that are deemed essential for the survival, security, and well-being of a nation-state. It implies the means through which a country safeguards its independence, sovereignty, and territorial integrity. Factors included in national interest, in order of priority, are: (1) **Defence and Security**: The protection of the country's independence, sovereignty, and territorial integrity from external threats and internal subversion. This is the highest national interest. (2) **Economic Development**: Building a strong and self-reliant economy is crucial, as an economically weak nation cannot preserve its independence or ensure the welfare of its people. (3) **Enhancement of National Power**: This includes increasing the country's influence in international affairs through diplomatic, military, economic, and cultural means. (4) **Preservation of Core Values**: Upholding the nation's political system (e.g., democracy) and societal values. Decisions taken to achieve what is beneficial and good for the country are said to nurture its national interest."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "How has India's participation in international organizations changed from the first to the second stage of its foreign policy?",
+      "answer": "India's participation in international organizations has evolved significantly from the first to the second stage of its foreign policy, reflecting its changing global outlook and priorities. **First Stage (1947-1990)**: Participation was largely within the **UN system** and **Non-Aligned Movement (NAM)**, which it helped found. The focus was on political issues like decolonization, disarmament, and development equity. Involvement in economic institutions was limited, and it was not part of power-centric clubs. **Second Stage (post-1991)**: Participation became more **diverse, active, and assertive**. India joined and actively engages in **economic and strategic forums** that shape global governance, such as the **G-20** (premier forum for international economic cooperation) and **BRICS** (grouping of major emerging economies). It seeks a larger role, including a permanent seat in the UN Security Council. Engagement with regional bodies like ASEAN and connectivity initiatives increased. This shift shows India's move from a primarily political and developmental focus within the Global South to seeking a seat at the high table of global economic and strategic decision-making as an emerging power."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Explain the statement: 'Foreign policy is always dynamic'.",
+      "answer": "The statement 'Foreign policy is always dynamic' means that a country's foreign policy is not static or fixed; it continuously evolves and adapts in response to changing circumstances both domestically and internationally. This dynamism arises because the **national interest** it serves is not constant. Factors such as shifts in the global balance of power (e.g., end of Cold War), emergence of new threats (e.g., terrorism), changes in economic conditions (e.g., globalization), domestic political changes (new government with different ideology), technological advancements, and developments in neighboring countries all necessitate adjustments in foreign policy. For example, India's foreign policy shifted from non-alignment during the bipolar Cold War to multi-alignment and economic diplomacy in the multipolar, globalized post-1991 world. While core principles like peace may remain, the strategies, priorities, and partnerships change, making foreign policy a living, responsive framework rather than a rigid doctrine."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "What role does the Parliament play in shaping foreign policy in a democratic system like India's?",
+      "answer": "In India's democratic political system, the Parliament plays a crucial and multi-faceted role in shaping foreign policy: (1) **Debate and Discussion**: Important international treaties, agreements, and major foreign policy decisions are discussed in Parliament. This brings transparency and allows for diverse viewpoints to be expressed. (2) **Scrutiny and Accountability**: The opposition parties, through questions, debates, and parliamentary committees (like the Standing Committee on External Affairs), scrutinize the government's foreign policy actions. They can question the rationale behind decisions, demand explanations, and suggest alternatives, thereby regulating and influencing policy. (3) **Approval for Treaties**: While not all treaties require parliamentary ratification, major international commitments often do, giving Parliament a direct say. (4) **Representing Public Opinion**: Parliament acts as a channel for public sentiment on foreign issues, ensuring policy has a democratic mandate. Thus, Parliament ensures that foreign policy is not solely an executive prerogative but is subject to democratic oversight and reflects national consensus."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "How does a country's economy impact its foreign policy in two ways, as mentioned in the chapter?",
+      "answer": "As mentioned in the chapter, a country's economy impacts its foreign policy in two primary, interconnected ways: (1) **Foreign Policy as a Tool for Economic Strengthening**: A major objective of foreign policy becomes to establish beneficial economic relations with other countries. This includes promoting imports and exports, securing foreign investment and technology, participating in world trade organizations, and negotiating trade agreements. Foreign policy is actively shaped to open markets, ensure energy security, and attract capital—all aimed at strengthening the domestic economy. (2) **Economic Strength Enabling an Independent Foreign Policy**: Conversely, a strong and secure economy empowers a nation. Countries with robust economies are less dependent on foreign aid or concessions. This economic self-sufficiency grants them greater freedom and leverage to pursue an independent and assertive foreign policy that aligns with their national interests, without being pressured or unduly influenced by economically powerful nations. In essence, the economy is both a key objective and a crucial enabler of foreign policy."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Why is it said that to understand a country, one must understand its Constitution and its foreign policy?",
+      "answer": "It is said that to understand a country, one must understand its Constitution and its foreign policy because these two documents/frameworks reveal the fundamental character, values, and aspirations of the nation. The **Constitution** is the supreme law of the land. It outlines the structure of government, rights of citizens, and the core principles on which the state is founded (e.g., democracy, secularism, socialism in India's case). It defines 'who we are' domestically. **Foreign Policy**, on the other hand, is how a country projects itself and interacts with the rest of the world. It is an extension of its domestic values and interests onto the global stage. It reveals 'how we see the world and our place in it'. For India, Article 51 of the Constitution directly links the two, mandating peace and respect for international law as foreign policy goals. Together, they provide a complete picture: the Constitution shows the internal social contract and ideals, while foreign policy shows how those ideals guide its external behavior and strategic priorities."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What were the three things that influenced India's foreign policy in the early phase under Nehru?",
+      "answer": "In the early phase under Prime Minister Jawaharlal Nehru, three key things influenced the shaping of India's foreign policy: (1) **Independent Understanding and Peace**: India insisted on understanding all international events and developments independently, without succumbing to pressure from any major power bloc. A commitment to global peace and security was a central, driving feature of this independent stance. (2) **Security Threats**: The emerging threats from neighbouring countries, specifically China and Pakistan, were taken into serious account. These security considerations necessitated a foreign policy that could manage these adversarial relationships while seeking peace. (3) **Insistence on Self-Reliance**: There was a strong emphasis on achieving self-reliance in economic and strategic matters. This meant reducing dependence on external powers and building indigenous capabilities, which influenced foreign policy choices towards non-alignment and selective partnerships that aided this goal without compromising autonomy."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Describe the contribution of Pandit Jawaharlal Nehru to India's foreign policy.",
+      "answer": "Pandit Jawaharlal Nehru, as India's first Prime Minister and the main architect of its early foreign policy, made foundational contributions: (1) **Policy of Non-Alignment**: He conceptualized and championed non-alignment, allowing India to stay out of the Cold War blocs and maintain strategic autonomy. This gave India a unique moral voice and enabled it to receive aid from both sides. (2) **Emphasis on Peace**: He made peace a central tenet, advocating for peaceful coexistence ('Panchsheel') and resolution of disputes through dialogue and arbitration. (3) **Anti-Colonialism**: He used India's foreign policy to actively oppose colonialism and racism, supporting liberation movements in Asia and Africa. (4) **Focus on Afro-Asian Solidarity**: He worked to build solidarity among newly independent nations through conferences like Bandung (1955), positioning India as a leader of the developing world. (5) **Independent Analysis**: He insisted that India should independently analyze world affairs rather than follow any great power's narrative. Nehru's vision established the core principles—peace, independence, anti-imperialism, and solidarity with the Global South—that defined India's foreign policy for decades."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What is meant by 'economic security' in the context of foreign policy, and why is it important?",
+      "answer": "In the context of foreign policy, 'economic security' refers to a state's ability to safeguard its economic sovereignty, ensure stable access to vital resources (like energy, food, critical minerals), protect its financial systems, maintain sustainable economic growth, and shield itself from external economic shocks or coercive measures (like sanctions). It is important because, in today's interconnected world, **economic security is as crucial as traditional military security**. A nation's power and influence are increasingly measured by its economic strength. A country with strong economic security is less vulnerable to external pressure, can pursue its national interests more confidently, and can provide a better standard of living for its citizens. Weak economic security makes a nation dependent on others, limiting its foreign policy options and making it susceptible to manipulation. Therefore, modern foreign policy actively works to build economic partnerships, secure supply chains, and create a stable external economic environment to ensure this security."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "How did the end of the Cold War affect India's foreign policy?",
+      "answer": "The end of the Cold War in the early 1990s had a profound impact on India's foreign policy, necessitating a major recalibration: (1) **Diminished Relevance of Non-Alignment**: With the collapse of the bipolar world, the strategic context for non-alignment changed dramatically. The policy lost its earlier salience as the defining principle, though its spirit of strategic autonomy continued. (2) **Economic Imperatives Gained Primacy**: The new unipolar moment, dominated by the US and globalization, forced India to focus on economic integration. This led to the 1991 economic reforms and a foreign policy geared towards attracting investment, technology, and expanding trade. (3) **Re-evaluation of Partnerships**: India had to reassess its special relationship with the now-weakened Russia and build new partnerships, particularly with the United States and other Western nations, as well as with dynamic East Asian economies. (4) **Multidimensional Engagement**: Foreign policy expanded to include non-traditional issues like environment, climate change, and intellectual property rights. In essence, the end of the Cold War pushed India from an ideologically framed, political-diplomatic foreign policy to a more pragmatic, economically driven, and multi-aligned policy."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "What are the principles on which India's foreign policy is based?",
+      "answer": "India's foreign policy is based on several enduring principles derived from its constitutional values, historical experience, and national interests. These include: (1) **Peaceful Coexistence and Non-alignment**: Commitment to resolving disputes peacefully and maintaining independence of judgment in international affairs. (2) **Respect for International Law and UN Charter**: Upholding the rules-based international order. (3) **Anti-colonialism and Anti-racism**: Supporting the right to self-determination and opposing discrimination. (4) **Disarmament**: Advocating for global nuclear disarmament and peace. (5) **South-South Cooperation**: Solidarity and mutual assistance with other developing countries. (6) **Strategic Autonomy**: Making foreign policy decisions based on sovereign national interest, free from bloc politics. (7) **Development Partnership**: Using foreign policy to secure resources, technology, and markets for India's economic development. These principles, while adapted over time, provide a consistent ethical and strategic foundation for India's engagement with the world."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Discuss India's stance on nuclear disarmament.",
+      "answer": "India's stance on nuclear disarmament is principled and consistent. India is a strong advocate for **universal, verifiable, and non-discriminatory nuclear disarmament**. It believes that the only complete guarantee against the use of nuclear weapons is their total elimination. India has: (1) **Consistently supported** global disarmament initiatives in multilateral forums like the UN. (2) **Declared a 'No First Use' (NFU) policy**, committing not to use nuclear weapons first in a conflict. (3) **Maintained a posture of credible minimum deterrence**, implying its arsenal is for defensive retaliation only and not for aggression or blackmail. However, India has **not signed the Nuclear Non-Proliferation Treaty (NPT) or the Comprehensive Test Ban Treaty (CTBT)**. It views these treaties as discriminatory because they perpetuate a division between nuclear 'haves' and 'have-nots' without imposing a time-bound disarmament obligation on the existing nuclear powers. India's position is that disarmament must be mutual and balanced, not imposed selectively on some nations while others retain their arsenals indefinitely."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What was the 'Look East' policy, and which Prime Minister is associated with it?",
+      "answer": "The 'Look East' policy was a strategic shift in India's foreign policy initiated in the early 1990s. It aimed to re-orient India's external focus towards the rapidly growing economies of Southeast Asia and East Asia to strengthen economic and strategic ties. The policy is primarily associated with Prime Minister **P.V. Narasimha Rao**, whose government launched the economic reforms in 1991. The policy sought to integrate India with the dynamic Asia-Pacific region through increased trade, investment, infrastructure connectivity, and strategic dialogue. It marked a move away from a predominantly Pakistan- and West-centric policy. Over time, it evolved into the 'Act East' policy under later governments, deepening engagement with ASEAN countries, Japan, South Korea, and Australia, and encompassing security and defense cooperation alongside economic links."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How does the chapter define the goal of 'world peace' in the context of foreign policy?",
+      "answer": "In the context of foreign policy, the chapter defines 'world peace' not merely as the absence of war but as a stable, just, and secure international order. It is a fundamental objective that guides a nation's external relations. For India, as per Article 51 of its Constitution, promoting international peace and security is a stated goal. This involves: (1) **Peaceful Settlement of Disputes**: Encouraging the use of dialogue, negotiation, and arbitration to resolve international conflicts. (2) **Disarmament**: Supporting efforts to reduce and eliminate weapons of mass destruction, particularly nuclear weapons, which are seen as a major threat to world peace. (3) **Respect for Sovereignty**: Upholding the principle of non-interference in the internal affairs of other states. (4) **Cooperation over Confrontation**: Fostering cooperative relationships based on mutual respect and shared interests. (5) **Supporting a Rules-Based Order**: Strengthening international law and institutions like the UN. Thus, world peace is an active, constructive pursuit of a global environment where nations can coexist without fear of aggression or domination."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarise the evolution of India's foreign policy from 1947 to the present day as presented in the chapter.",
+      "answer": "The evolution of India's foreign policy from 1947 to the present, as presented in the chapter, can be summarized in two broad stages: **First Stage (1947-1990)**: Forged in the crucible of the Cold War and nation-building, it was shaped by Prime Minister Nehru's vision. Core features were **Non-alignment** (strategic autonomy), **Peaceful Coexistence**, **Anti-colonialism**, and **Self-reliance**. The focus was political and security-centric, managing conflicts with Pakistan and China, while receiving developmental aid from both blocs. Landmarks included the 1971 war (creation of Bangladesh) and the 1974 peaceful nuclear test. The 1980s saw initiatives like SAARC for regional cooperation and a dialogue with China. **Second Stage (1991 onwards)**: Triggered by the end of the Cold War and an economic crisis, foreign policy underwent a paradigm shift. It became **comprehensive, dynamic, and economy-driven**. Economic liberalization led to a focus on trade, investment, and integration with the global economy ('Look East', ties with USA, EU). Strategic dimensions expanded with the 1998 nuclear tests establishing deterrence. Participation in forums like G-20 and BRICS increased. Relations became multi-aligned, balancing ties with major powers while maintaining core principles of peace, sovereignty, and independent decision-making. The journey reflects a transition from an idealistic, post-colonial policy to a pragmatic one of an emerging global power seeking security and prosperity in an interconnected world."
+    }
+  ]
+}

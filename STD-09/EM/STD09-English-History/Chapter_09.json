@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Social Science.09",
+    "standard": "9",
+    "subject": "Social Science",
+    "medium": "English",
+    "chapter_name": "Changing Life : 1"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "According to the Constitution, Indian citizens cannot be discriminated against on which of the following bases?",
+      "options": [
+        { "option_id": 1, "text": "Religion and Race only", "is_correct": false },
+        { "option_id": 2, "text": "Religion, Race, and Caste only", "is_correct": false },
+        { "option_id": 3, "text": "Religion, Race, Caste, Gender, and Place of birth", "is_correct": true },
+        { "option_id": 4, "text": "Only on the basis of Income", "is_correct": false }
+      ],
+      "answer": "Religion, Race, Caste, Gender, and Place of birth"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In which year was the Ministry of Social Welfare constituted by the Government of India?",
+      "options": [
+        { "option_id": 1, "text": "14 June 1950", "is_correct": false },
+        { "option_id": 2, "text": "14 June 1964", "is_correct": true },
+        { "option_id": 3, "text": "26 January 1965", "is_correct": false },
+        { "option_id": 4, "text": "1 April 1971", "is_correct": false }
+      ],
+      "answer": "14 June 1964"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who is credited with designing the 'Jaipur Foot'?",
+      "options": [
+        { "option_id": 1, "text": "Dr. N. Gopinath", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Pramod Sethi", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Mohan Rao", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Subhash Mukhopadhyaya", "is_correct": false }
+      ],
+      "answer": "Dr. Pramod Sethi"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In which city was the first successful open heart surgery in India performed in 1962?",
+      "options": [
+        { "option_id": 1, "text": "Chennai", "is_correct": false },
+        { "option_id": 2, "text": "Vellore", "is_correct": true },
+        { "option_id": 3, "text": "Mumbai", "is_correct": false },
+        { "option_id": 4, "text": "Kolkata", "is_correct": false }
+      ],
+      "answer": "Vellore"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which medical system was NOT mentioned as being given recognition alongside Allopathy?",
+      "options": [
+        { "option_id": 1, "text": "Unani", "is_correct": false },
+        { "option_id": 2, "text": "Homeopathy", "is_correct": false },
+        { "option_id": 3, "text": "Ayurveda", "is_correct": false },
+        { "option_id": 4, "text": "Siddha", "is_correct": true }
+      ],
+      "answer": "Siddha"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who supervised the first successful 'test-tube baby' experiment in India in 1978?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Pramod Sethi", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Johny", "is_correct": false },
+        { "option_id": 3, "text": "Dr. Subhash Mukhopadhyaya", "is_correct": true },
+        { "option_id": 4, "text": "Dr. N. Gopinath", "is_correct": false }
+      ],
+      "answer": "Dr. Subhash Mukhopadhyaya"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The 'Pulse Polio' immunisation programme was started in which year?",
+      "options": [
+        { "option_id": 1, "text": "1978", "is_correct": false },
+        { "option_id": 2, "text": "1985", "is_correct": false },
+        { "option_id": 3, "text": "1995", "is_correct": true },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1995"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which railway minister ended the 'third class' compartment system in 1978?",
+      "options": [
+        { "option_id": 1, "text": "Lal Bahadur Shastri", "is_correct": false },
+        { "option_id": 2, "text": "George Fernandes", "is_correct": false },
+        { "option_id": 3, "text": "Madhu Dandawate", "is_correct": true },
+        { "option_id": 4, "text": "Mamata Banerjee", "is_correct": false }
+      ],
+      "answer": "Madhu Dandawate"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "According to the chapter, what percentage of India's population lived in villages in 1971?",
+      "options": [
+        { "option_id": 1, "text": "82%", "is_correct": false },
+        { "option_id": 2, "text": "80.01%", "is_correct": true },
+        { "option_id": 3, "text": "75%", "is_correct": false },
+        { "option_id": 4, "text": "70%", "is_correct": false }
+      ],
+      "answer": "80.01%"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which body was established in 1969 to promote electricity in rural areas?",
+      "options": [
+        { "option_id": 1, "text": "Village Industries Planning Committee", "is_correct": false },
+        { "option_id": 2, "text": "Rural Electrification Corporation", "is_correct": true },
+        { "option_id": 3, "text": "Gram Panchayat Development Committee", "is_correct": false },
+        { "option_id": 4, "text": "National Hydroelectric Power Corporation", "is_correct": false }
+      ],
+      "answer": "Rural Electrification Corporation"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In which Five Year Plan was the objective to make primary health services available to rural people included?",
+      "options": [
+        { "option_id": 1, "text": "Fourth", "is_correct": false },
+        { "option_id": 2, "text": "Fifth", "is_correct": false },
+        { "option_id": 3, "text": "Sixth", "is_correct": true },
+        { "option_id": 4, "text": "Seventh", "is_correct": false }
+      ],
+      "answer": "Sixth"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a major challenge for rural development?",
+      "options": [
+        { "option_id": 1, "text": "Bringing about economic development", "is_correct": false },
+        { "option_id": 2, "text": "Developing facilities to meet social needs", "is_correct": false },
+        { "option_id": 3, "text": "Encouraging migration to cities", "is_correct": true },
+        { "option_id": 4, "text": "Bringing about a change of attitude in social and cultural matters", "is_correct": false }
+      ],
+      "answer": "Encouraging migration to cities"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What was the name of the first Indian girl born through test-tube baby technology?",
+      "options": [
+        { "option_id": 1, "text": "Gita", "is_correct": false },
+        { "option_id": 2, "text": "Durga", "is_correct": true },
+        { "option_id": 3, "text": "Sita", "is_correct": false },
+        { "option_id": 4, "text": "Lakshmi", "is_correct": false }
+      ],
+      "answer": "Durga"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which State Government started 'Vidya Niketan' residential high schools?",
+      "options": [
+        { "option_id": 1, "text": "Gujarat", "is_correct": false },
+        { "option_id": 2, "text": "Karnataka", "is_correct": false },
+        { "option_id": 3, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 4, "text": "Uttar Pradesh", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "According to the chapter, what is a 'hamlet'?",
+      "options": [
+        { "option_id": 1, "text": "A large metropolitan city", "is_correct": false },
+        { "option_id": 2, "text": "A dense cluster of houses surrounded by farmland", "is_correct": false },
+        { "option_id": 3, "text": "A settlement smaller than a village", "is_correct": true },
+        { "option_id": 4, "text": "A planned urban township", "is_correct": false }
+      ],
+      "answer": "A settlement smaller than a village"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The first two trains in India to have no class divisions were:",
+      "options": [
+        { "option_id": 1, "text": "Rajdhani Express and Shatabdi Express", "is_correct": false },
+        { "option_id": 2, "text": "Sinhagad Express and Gitanjali Express", "is_correct": true },
+        { "option_id": 3, "text": "Deccan Queen and Flying Ranee", "is_correct": false },
+        { "option_id": 4, "text": "Howrah Mail and Gujarat Mail", "is_correct": false }
+      ],
+      "answer": "Sinhagad Express and Gitanjali Express"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which commission's recommendations led to the starting of Agricultural Universities in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Sarkaria Commission", "is_correct": false },
+        { "option_id": 2, "text": "Kothari Commission", "is_correct": true },
+        { "option_id": 3, "text": "Mandal Commission", "is_correct": false },
+        { "option_id": 4, "text": "Radhakrishnan Commission", "is_correct": false }
+      ],
+      "answer": "Kothari Commission"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "By 1973, electricity had reached how many villages in India?",
+      "options": [
+        { "option_id": 1, "text": "3,000", "is_correct": false },
+        { "option_id": 2, "text": "50,000", "is_correct": false },
+        { "option_id": 3, "text": "1,38,646", "is_correct": true },
+        { "option_id": 4, "text": "5,00,000", "is_correct": false }
+      ],
+      "answer": "1,38,646"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What was the aim of the immunisation programme started before 1978?",
+      "options": [
+        { "option_id": 1, "text": "To overcome threats of diseases like polio, measles, and tetanus", "is_correct": true },
+        { "option_id": 2, "text": "To eradicate malaria completely", "is_correct": false },
+        { "option_id": 3, "text": "To provide free nutrition to infants", "is_correct": false },
+        { "option_id": 4, "text": "To train rural health workers", "is_correct": false }
+      ],
+      "answer": "To overcome threats of diseases like polio, measles, and tetanus"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is a feature of urban communities as per the chapter's table?",
+      "options": [
+        { "option_id": 1, "text": "Priority to farming", "is_correct": false },
+        { "option_id": 2, "text": "Homogeneous culture", "is_correct": false },
+        { "option_id": 3, "text": "Trend towards nuclear families", "is_correct": true },
+        { "option_id": 4, "text": "Larger proportion of family-run vocations", "is_correct": false }
+      ],
+      "answer": "Trend towards nuclear families"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the Constitution guarantee regarding language and culture?",
+      "options": [
+        { "option_id": 1, "text": "Only Hindi must be promoted.", "is_correct": false },
+        { "option_id": 2, "text": "Citizens have no rights to preserve their language.", "is_correct": false },
+        { "option_id": 3, "text": "Citizens have the right to nurture their language, script, and culture.", "is_correct": true },
+        { "option_id": 4, "text": "Only classical languages are protected.", "is_correct": false }
+      ],
+      "answer": "Citizens have the right to nurture their language, script, and culture."
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In which year were Zilla Parishads established in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "1950", "is_correct": false },
+        { "option_id": 2, "text": "1962", "is_correct": true },
+        { "option_id": 3, "text": "1971", "is_correct": false },
+        { "option_id": 4, "text": "1978", "is_correct": false }
+      ],
+      "answer": "1962"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is described as the process of concentration of population in a city or urban area?",
+      "options": [
+        { "option_id": 1, "text": "Globalisation", "is_correct": false },
+        { "option_id": 2, "text": "Industrialisation", "is_correct": false },
+        { "option_id": 3, "text": "Urbanisation", "is_correct": true },
+        { "option_id": 4, "text": "Migration", "is_correct": false }
+      ],
+      "answer": "Urbanisation"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What major change in post-independence India is highlighted regarding expressing opinions?",
+      "options": [
+        { "option_id": 1, "text": "Citizens cannot criticise the government.", "is_correct": false },
+        { "option_id": 2, "text": "Citizens have the right to express opinions against the government.", "is_correct": true },
+        { "option_id": 3, "text": "Only elected representatives can express opinions.", "is_correct": false },
+        { "option_id": 4, "text": "Media is banned from criticising policies.", "is_correct": false }
+      ],
+      "answer": "Citizens have the right to express opinions against the government."
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of these was a significant effect of the Constitution on the caste system?",
+      "options": [
+        { "option_id": 1, "text": "It reinforced the caste hierarchy.", "is_correct": false },
+        { "option_id": 2, "text": "It made the practice of family vocations obsolete.", "is_correct": true },
+        { "option_id": 3, "text": "It mandated caste-based reservations in private jobs.", "is_correct": false },
+        { "option_id": 4, "text": "It abolished all caste identities.", "is_correct": false }
+      ],
+      "answer": "It made the practice of family vocations obsolete."
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who helped Dr. Pramod Sethi in designing the Jaipur Foot?",
+      "options": [
+        { "option_id": 1, "text": "Dr. N. Gopinath", "is_correct": false },
+        { "option_id": 2, "text": "Ramchandra Sharma", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Johny", "is_correct": false },
+        { "option_id": 4, "text": "A team of foreign engineers", "is_correct": false }
+      ],
+      "answer": "Ramchandra Sharma"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The 'Nutritious Diet Scheme' in Maharashtra was launched in which years?",
+      "options": [
+        { "option_id": 1, "text": "1962-63", "is_correct": false },
+        { "option_id": 2, "text": "1965-66", "is_correct": false },
+        { "option_id": 3, "text": "1970-71", "is_correct": true },
+        { "option_id": 4, "text": "1978-79", "is_correct": false }
+      ],
+      "answer": "1970-71"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a factor contributing to urbanisation mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Reduction in mortality rate", "is_correct": false },
+        { "option_id": 2, "text": "Industrialisation", "is_correct": false },
+        { "option_id": 3, "text": "Job opportunities in cities", "is_correct": false },
+        { "option_id": 4, "text": "Increase in agricultural subsidies", "is_correct": true }
+      ],
+      "answer": "Increase in agricultural subsidies"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the primary duty of the government regarding public health as per the Constitution?",
+      "options": [
+        { "option_id": 1, "text": "To build more private hospitals", "is_correct": false },
+        { "option_id": 2, "text": "To raise the standard of living, ensure proper nutrition, and improve public health", "is_correct": true },
+        { "option_id": 3, "text": "To promote only Allopathic medicine", "is_correct": false },
+        { "option_id": 4, "text": "To focus only on urban health care", "is_correct": false }
+      ],
+      "answer": "To raise the standard of living, ensure proper nutrition, and improve public health"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following is a unique feature of an Indian village as described?",
+      "options": [
+        { "option_id": 1, "text": "Skyscrapers", "is_correct": false },
+        { "option_id": 2, "text": "A dense cluster of houses surrounded by farmland", "is_correct": true },
+        { "option_id": 3, "text": "Large industrial complexes", "is_correct": false },
+        { "option_id": 4, "text": "Extensive subway networks", "is_correct": false }
+      ],
+      "answer": "A dense cluster of houses surrounded by farmland"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "By 1972, how many people got employment under the Village Industries Planning Committee scheme?",
+      "options": [
+        { "option_id": 1, "text": "10,000", "is_correct": false },
+        { "option_id": 2, "text": "50,000", "is_correct": false },
+        { "option_id": 3, "text": "1,06,000", "is_correct": true },
+        { "option_id": 4, "text": "5,00,000", "is_correct": false }
+      ],
+      "answer": "1,06,000"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What was the purpose of establishing 'Vidya Niketan' residential schools?",
+      "options": [
+        { "option_id": 1, "text": "To provide military training", "is_correct": false },
+        { "option_id": 2, "text": "To provide the best quality education to intelligent village students in unfavourable conditions", "is_correct": true },
+        { "option_id": 3, "text": "To promote sports only", "is_correct": false },
+        { "option_id": 4, "text": "To teach foreign languages", "is_correct": false }
+      ],
+      "answer": "To provide the best quality education to intelligent village students in unfavourable conditions"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What international prize did Maharashtra receive in 1972 for its work in education?",
+      "options": [
+        { "option_id": 1, "text": "Nobel Peace Prize", "is_correct": false },
+        { "option_id": 2, "text": "UNESCO's international prize for the spread of literacy", "is_correct": true },
+        { "option_id": 3, "text": "World Health Award", "is_correct": false },
+        { "option_id": 4, "text": "Grammy Award", "is_correct": false }
+      ],
+      "answer": "UNESCO's international prize for the spread of literacy"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What does the chapter identify as a significant change brought by Dr. Babasaheb Ambedkar?",
+      "options": [
+        { "option_id": 1, "text": "He started the Green Revolution.", "is_correct": false },
+        { "option_id": 2, "text": "He brought a sea change in the traditional mindset through the Indian Constitution.", "is_correct": true },
+        { "option_id": 3, "text": "He invented the Jaipur Foot.", "is_correct": false },
+        { "option_id": 4, "text": "He performed the first kidney transplant.", "is_correct": false }
+      ],
+      "answer": "He brought a sea change in the traditional mindset through the Indian Constitution."
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What was the traditional economic characteristic of an Indian village?",
+      "options": [
+        { "option_id": 1, "text": "Dependent on imports", "is_correct": false },
+        { "option_id": 2, "text": "Economically self-sufficient", "is_correct": true },
+        { "option_id": 3, "text": "Reliant on industrial goods", "is_correct": false },
+        { "option_id": 4, "text": "Focused on the service sector", "is_correct": false }
+      ],
+      "answer": "Economically self-sufficient"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of these is a facility currently lacking in many rural areas as per the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Year-round provision of drinking water", "is_correct": true },
+        { "option_id": 2, "text": "Excess of entertainment malls", "is_correct": false },
+        { "option_id": 3, "text": "Over-supply of electricity", "is_correct": false },
+        { "option_id": 4, "text": "Too many universities", "is_correct": false }
+      ],
+      "answer": "Year-round provision of drinking water"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What does the chapter say is the trend in the institution of the family due to globalisation?",
+      "options": [
+        { "option_id": 1, "text": "Strengthening of the joint family system", "is_correct": false },
+        { "option_id": 2, "text": "Impetus to the system of nuclear families", "is_correct": true },
+        { "option_id": 3, "text": "Complete disappearance of the family unit", "is_correct": false },
+        { "option_id": 4, "text": "Return to medieval family structures", "is_correct": false }
+      ],
+      "answer": "Impetus to the system of nuclear families"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What was the major reason for infant health problems before 1978?",
+      "options": [
+        { "option_id": 1, "text": "Lack of immunisation against preventable diseases", "is_correct": true },
+        { "option_id": 2, "text": "Lack of clean drinking water", "is_correct": false },
+        { "option_id": 3, "text": "Overpopulation", "is_correct": false },
+        { "option_id": 4, "text": "Poor quality of food grains", "is_correct": false }
+      ],
+      "answer": "Lack of immunisation against preventable diseases"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which state is NOT mentioned as having Rural Electrification Co-operative Societies?",
+      "options": [
+        { "option_id": 1, "text": "Andhra Pradesh", "is_correct": false },
+        { "option_id": 2, "text": "Gujarat", "is_correct": false },
+        { "option_id": 3, "text": "Maharashtra", "is_correct": false },
+        { "option_id": 4, "text": "Rajasthan", "is_correct": true }
+      ],
+      "answer": "Rajasthan"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the aim of social welfare programmes as per the Constitution?",
+      "options": [
+        { "option_id": 1, "text": "To provide opportunities for full-time employment, healthcare, education, and development to all citizens.", "is_correct": true },
+        { "option_id": 2, "text": "To promote religious institutions.", "is_correct": false },
+        { "option_id": 3, "text": "To focus only on urban development.", "is_correct": false },
+        { "option_id": 4, "text": "To increase military spending.", "is_correct": false }
+      ],
+      "answer": "To provide opportunities for full-time employment, healthcare, education, and development to all citizens."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What does the Constitution say about equality before the law?",
+      "answer": "All Indians are equal before the law and cannot be discriminated against on the basis of religion, race, caste, gender, or place of birth."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the first two trains in India that had no class divisions.",
+      "answer": "Sinhagad Express (Pune-Mumbai) and Gitanjali Express (Mumbai-Kolkata)."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the definition of urbanisation given in the chapter?",
+      "answer": "Urbanisation is the process of concentration of population in a city or urban area."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Who is known as the father of the 'Jaipur Foot'?",
+      "answer": "Dr. Pramod Sethi."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "In which year was the first successful kidney transplant performed in India?",
+      "answer": "1971."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What was the name given to the first test-tube baby born in India?",
+      "answer": "Durga."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Which programme helped control polio in India?",
+      "answer": "The 'Pulse Polio' immunisation programme started in 1995."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is a 'hamlet'?",
+      "answer": "A settlement smaller than a village."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Which Ministry was constituted on 14th June 1964 to handle social welfare?",
+      "answer": "The Ministry of Social Welfare."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What was the primary economic activity of rural society in the pre-globalisation period?",
+      "answer": "Farming and ancillary vocations (jobs)."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name one advantage of the Jaipur foot technology mentioned in the chapter.",
+      "answer": "It allows the differently abled to walk bare-foot on rough surfaces, run, or cycle."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Which city's hospital is associated with the first successful open heart surgery in India?",
+      "answer": "Christian Medical College Hospital, Vellore."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What percentage of India's population belonged to Scheduled Castes and Tribes according to the 1971 Census?",
+      "answer": "22%."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the main aim of the 'Collective Development Scheme' for rural areas?",
+      "answer": "Rural development through improved farming, irrigation, education, and land reforms."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name the skilled craftsman who assisted Dr. Pramod Sethi.",
+      "answer": "Ramchandra Sharma."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which state started the 'Rural Water Supply Scheme' for sinking wells and providing piped water?",
+      "answer": "Maharashtra."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is one key feature of an urban community as per the table?",
+      "answer": "It is large in size and heterogeneous in terms of languages, cultures, and traditions."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What right do Indian citizens have regarding occupation?",
+      "answer": "The freedom to practice any occupation."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which plan period aimed at making primary health services available to rural people?",
+      "answer": "The Sixth Five Year Plan."
+    },
+    {
+      "question_type": "SHORT",
+      "question_id": 60,
+      "question": "What did the 'Village Industries Planning Committee' aim to do?",
+      "answer": "To help the development of industry in rural areas."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name an Agricultural University location in Maharashtra mentioned in the chapter.",
+      "answer": "Rahuri, Akola, Parbhani, or Dapoli."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is one factor mentioned as reducing the strain on cities?",
+      "answer": "Making jobs available in villages."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which global wave has given an impetus to nuclear families?",
+      "answer": "The wave of globalisation."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does the Constitution guarantee regarding freedom of speech?",
+      "answer": "The right to freedom of speech and expression."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How many small dams had been built in Maharashtra by 1971?",
+      "answer": "1677."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What was the traditional form of payment to artisans in self-sufficient villages?",
+      "answer": "Farm produce was distributed among artisans as payment for their work."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name one disease targeted by the immunisation programme.",
+      "answer": "Polio, measles, tetanus, TB, diphtheria, or whooping cough."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What are the three major challenges of rural development?",
+      "answer": "Economic development, developing social facilities, and changing social/cultural attitudes."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which Indian state was awarded a UNESCO prize for literacy in 1972?",
+      "answer": "Maharashtra."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the unique feature of an Indian village settlement?",
+      "answer": "A dense cluster of houses surrounded by farmland."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain how the Indian Constitution brought about a significant change in the traditional mindset, as stated in the chapter.",
+      "answer": "The Indian Constitution, as highlighted by Dr. Babasaheb Ambedkar's contribution, brought a sea change in the traditional mindset. It established the fundamental principle that all Indians are equal before the law, prohibiting discrimination based on religion, race, caste, gender, or place of birth. This shook the foundations of the deeply entrenched caste system and made the practice of hereditary family vocations obsolete. By guaranteeing rights like freedom of speech, assembly, and occupation, it empowered individuals over their birth-based identities. This legal framework challenged age-old hierarchies and promoted a society based on citizenship and individual rights, marking a radical departure from traditional social structures."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the significance and benefits of the 'Jaipur Foot' technology.",
+      "answer": "The 'Jaipur Foot' technology, invented by Dr. Pramod Sethi with craftsman Ramchandra Sharma, revolutionised the lives of the differently abled in India. Before its invention in 1968, losing a limb meant lifelong suffering and limited mobility. The Jaipur Foot is a low-cost, durable, and highly functional prosthetic. Its significance lies in its design tailored for Indian conditions. It allows users to walk bare-foot on rough surfaces, run, cycle, work in fields, climb trees, and even mountains. It enables them to sit cross-legged, work in water, and saves on footwear expenses. By restoring mobility and enabling productive work, it provided immense social and economic empowerment, transforming users from dependents into active participants in daily life and work."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Compare and contrast rural and urban communities based on the table provided in the chapter.",
+      "answer": "Based on the chapter's table, rural and urban communities in the pre-globalisation period differed significantly. Rural communities were small, homogeneous in language and culture, and prioritized farming and related jobs. They had a larger proportion of family-run vocations and sent villagers to cities rather than accommodating outsiders. The joint family system was prevalent, with priority given to the family head and the family as an institution. In contrast, urban communities were large, heterogeneous in languages and cultures, and prioritized non-agricultural production and the service sector. They featured large industries producing for global consumption and were more accommodating of outsiders. Family-run vocations were less common, the trend was towards nuclear families, and priority was given to the individual over the family institution."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the various factors that contribute to the process of urbanisation in post-independence India.",
+      "answer": "Urbanisation in post-independence India is driven by multiple interconnected factors. A key reason is the increasing overall population. Specific contributing factors include a reduction in the mortality rate leading to population growth, and rapid industrialisation which creates job clusters in cities. The unavailability of sufficient means of livelihood and economic opportunities in rural areas pushes people to migrate. Simultaneously, the perceived and real job opportunities, better infrastructure, education, and healthcare facilities in cities act as a strong pull factor. This rural-to-urban migration significantly adds to the urban population concentration. The chapter also implies that imbalances in regional development exacerbate this trend."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "What were the major milestones in the field of public health in India as described in the chapter?",
+      "answer": "The chapter highlights several major milestones in Indian public health. In 1962, the first successful open heart surgery was performed at Vellore under Dr. N. Gopinath. In 1968, the invention of the 'Jaipur Foot' by Dr. Pramod Sethi transformed rehabilitation. The first successful kidney transplant in India took place in 1971 at Vellore by Dr. Johny and Dr. Mohan Rao. A landmark event in reproductive health was the birth of India's first test-tube baby, Durga, in 1978 under Dr. Subhash Mukhopadhyaya's supervision. To combat childhood diseases, a national immunisation programme was launched before 1978, which was later bolstered by the 'Pulse Polio' campaign starting in 1995, effectively controlling polio. These achievements reduced the need for seeking advanced medical treatment abroad."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the aims and objectives of social welfare programmes in India as per the chapter.",
+      "answer": "The aims and objectives of social welfare programmes in India are deeply rooted in the constitutional goal of establishing a welfare state. Their primary objective is to make opportunities for full-time employment, healthcare, education, and overall development available to all Indian citizens. Recognizing the large-scale economic, social, educational, and cultural inequalities in Indian society, these programmes specifically aim to ensure that development opportunities reach the most vulnerable sections. This includes women, children, the differently abled, Scheduled Castes and Tribes, and other minorities. The overarching challenge is to bridge these inequalities and create an inclusive society where every citizen has the means and opportunity to live a dignified and productive life. The Ministry of Social Welfare, constituted in 1964, oversees programmes for nutrition, child-development, social security, and women's welfare to achieve these aims."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Why is rural electrification considered essential for rural development? Explain with examples from the chapter.",
+      "answer": "Rural electrification is considered essential for rural development because it acts as a catalyst for economic and social progress. Electricity powers automatic pumps for irrigation, directly boosting agricultural productivity. It is crucial for preserving perishable food items like milk, eggs, fruits, and vegetables, enabling farmers to reduce waste and increase income. Electricity runs fertiliser projects, further aiding agriculture. Beyond farming, it provides lighting for studying at night, powering fans, and televisions, improving the quality of life and education. Recognizing this, the government established the Rural Electrification Corporation in 1969 and promoted co-operative societies in several states. By 1973, electricity had reached 1,38,646 villages, demonstrating its role as foundational infrastructure for comprehensive rural development."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "What are the key challenges facing rural development in India? What steps were taken to address them?",
+      "answer": "Rural development in India faces three key challenges: bringing about economic development, developing facilities to meet social needs, and changing attitudes concerning society, culture, and ways of thinking. To address economic development, steps included implementing the Collective Development Scheme focusing on improved farming technology, expanding irrigated land, and expediting irrigation projects and land reforms. The Village Industries Planning Committee was formed to create industrial employment. For social needs, efforts were made to provide public hygiene, healthcare, year-round drinking water (e.g., Rural Water Supply Scheme in Maharashtra), toilets, better roads, electrification, and educational facilities from primary to higher levels, including 'Vidya Niketan' schools and Agricultural Universities. Changing attitudes was to be achieved through empowerment via Gram Panchayats and inclusive development schemes."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the changing economic life from traditional self-sufficient villages to the present scenario.",
+      "answer": "Traditionally, Indian villages were economically self-sufficient units. The majority depended on farming, and a system of barter existed where farm produce was distributed among local artisans (like carpenters, blacksmiths) as payment for their services. This created a closed, interdependent local economy. However, this situation has changed significantly. Rural areas are now primarily engaged in agriculture and occupations directly ancillary to farming. In contrast, urban society is focused on non-agricultural production (industries) and the service sector. The rural economy is no longer isolated; it supplies food grains and raw materials to urban areas and provides labour to urban industries. This shift signifies integration into a larger national market economy, moving away from localized self-sufficiency."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "How did the government structure and policies promote rural development in Maharashtra? Give specific examples.",
+      "answer": "The government of Maharashtra actively promoted rural development through specific policies and structural changes. In 1962, it established Zilla Parishads, decentralising power for local planning and implementation. It launched the 'Nutritious Diet Scheme' in 1970-71 to address child malnutrition. To solve water scarcity, the 'Rural Water Supply Scheme' was started for sinking wells and providing piped water. By 1971, 1,677 small dams had been built for irrigation. In education, it started 'Vidya Niketan' residential high schools in places like Satara and Aurangabad to provide quality education to meritorious village students. Following the Kothari Commission's advice, Agricultural Universities were established at Rahuri, Akola, Parbhani, and Dapoli. These concerted efforts led UNESCO to award Maharashtra its international prize for literacy in 1972."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "What is the role of the 'Collective Development Scheme' and how was it implemented through local governance?",
+      "answer": "The 'Collective Development Scheme' was a cornerstone of early post-independence rural development policy, featuring prominently in the first four Five-Year Plans. Its role was to achieve holistic rural development by improving farming technology, increasing irrigated land area, extending educational facilities, and enacting land reform laws. The scheme aimed to boost agricultural produce and expand transport, health services, and educational scope in villages. It was decided to implement this work through Gram Panchayats, which were made more inclusive by involving people from all castes and tribes. To ensure effective implementation, more authority was devolved to the three-tier Panchayati Raj system – Gram Panchayats (village level), Panchayat Samitis (block level), and Zilla Parishads (district level). This approach linked national development goals with grassroots democratic institutions."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Analyze the statement: 'The provisions in the Constitution shook the foundations of the caste system.'",
+      "answer": "The statement is accurate as the constitutional provisions fundamentally challenged the caste system's legitimacy and practice. The Constitution declared all citizens equal before the law and prohibited discrimination based on caste. This legal equality directly contradicted the caste hierarchy's core principle of graded inequality. By guaranteeing fundamental freedoms (speech, occupation, movement) to every individual regardless of birth, it empowered people to break free from caste-assigned roles. The right to practice any occupation made hereditary family vocations, a pillar of the caste system, obsolete. While social attitudes change slowly, the Constitution provided a powerful legal and moral framework that delegitimized caste-based discrimination, enabling social movements and policies (like reservations) to further erode its foundations in public life."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Describe the advancements in medical science that reduced India's dependence on foreign treatment.",
+      "answer": "Several advancements in medical science reduced India's need to seek treatment abroad. In 1962, the first successful open heart surgery at Vellore's Christian Medical College under Dr. N. Gopinath demonstrated high cardiac care capability. In 1971, the first successful kidney transplant at the same hospital by Dr. Johny and Dr. Mohan Rao made advanced renal care accessible domestically. The development of the indigenous 'Jaipur Foot' in 1968 provided world-class, affordable prosthetics, eliminating the need for expensive imports. The successful conception and birth of the test-tube baby 'Durga' in 1978 under Dr. Subhash Mukhopadhyaya placed India among the leaders in reproductive technology. These milestones, coupled with the recognition of traditional medicine systems, created a robust healthcare infrastructure, allowing complex treatments within the country and even attracting patients from other underdeveloped nations."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "What are the social needs and facilities that are currently lacking in rural areas according to the chapter?",
+      "answer": "According to the chapter, rural areas still face significant gaps in basic social needs and facilities. A major issue is the lack of year-round provision of safe drinking water. Sanitation remains poor, with inadequate toilets and open drainage systems. Infrastructure is lacking, with narrow roads and inadequate electrification hindering development. Access to medical treatment facilities is limited. On the educational front, there is a shortage of good quality educational institutions from the primary level right up to higher education. Furthermore, rural areas lack centres for recreation (like community halls, parks) and libraries, which are important for cultural and intellectual development. Addressing these deficiencies in public hygiene, healthcare, education, and recreation is critical for improving the quality of life in villages."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How does the chapter illustrate the change in citizens' rights to express dissent in the post-independence era?",
+      "answer": "The chapter illustrates a profound change in citizens' rights to express dissent by contrasting the pre and post-independence eras. Earlier, during colonial and possibly princely rule, there were strict limits on expressing opinions against political rulers, often leading to repression. In the post-independence period, this changed dramatically. The Constitution guaranteed the fundamental right to freedom of speech and expression. As a result, Indian citizens gained the legal right to register their protest against government policies. This could be done openly through various media channels such as newspapers, public speeches, rallies, and other forms of peaceful assembly. This shift signifies the transition from subjecthood under a ruling authority to active citizenship in a democracy, where holding the government accountable is a protected right."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the significance of ending the 'third class' railway compartments in 1978.",
+      "answer": "The abolition of the 'third class' railway compartments in the 1978 Railway Budget by Madhu Dandawate held deep social significance. During the British era, the four-class system (first, second, inter, third) was more than just a pricing tier; the nominal facilities and negative attitude towards third-class passengers mirrored the harsh inequalities of the Indian social hierarchy. Ending the third class was a symbolic step towards dismantling this visible marker of class-based discrimination in public transport. It was a move towards creating a more egalitarian travel experience. The subsequent introduction of trains like the Sinhagad Express and Gitanjali Express with no class divisions further emphasized this commitment to equality, making train travel a more unified and dignified experience for all citizens, irrespective of their economic or social background."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What measures were taken to improve the health and nutritional status of the rural population?",
+      "answer": "Several measures were taken to improve rural health and nutrition. Constitutionally, raising living standards and ensuring proper nutrition was made a primary duty of the government. The Sixth Five Year Plan specifically aimed to make primary health services and medical care available to rural people, tribals, and the poor. The government promoted a pluralistic medical approach by recognizing Unani, Homeopathy, Ayurveda, and Naturopathy alongside Allopathy. To combat malnutrition, especially among children, the 'Nutritious Diet Scheme' was launched in Maharashtra in 1970-71. Public health initiatives like the immunisation programme (and later Pulse Polio) protected children from fatal diseases. Providing clean drinking water through schemes like the 'Rural Water Supply Scheme' also contributed to better health by preventing water-borne diseases."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Discuss the impact of globalisation on the Indian family structure as mentioned in the chapter.",
+      "answer": "The chapter states that the wave of globalisation has given an impetus to the system of nuclear families in India. Traditionally, India was renowned worldwide for its joint family system, where multiple generations lived together under one roof, sharing resources and responsibilities. This institution was a key identifying feature of Indian society. Globalisation, with its associated trends like increased mobility for education and jobs, urbanization, and the spread of individualistic values, has challenged this traditional structure. The economic opportunities and lifestyles promoted by a globalised economy often favour smaller, more mobile family units. As a result, the nuclear family – consisting of parents and their children – is becoming more prevalent, marking a significant shift in one of India's core social institutions from extended kinship networks to smaller, independent households."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How did the government attempt to balance development between urban and rural areas?",
+      "answer": "The government attempted to balance development between urban and rural areas through several strategies. To reduce the strain on cities caused by migration, a key approach was to make jobs available in villages themselves, thereby stemming the outflow of people. This involved achieving a more balanced regional economic development so that growth was not concentrated only in metros. The 'Collective Development Scheme' and the establishment of the 'Village Industries Planning Committee' were direct efforts to spur economic activity in rural areas. Controlling the unplanned expansion of metropolitan cities was another measure. Simultaneously, the government focused on providing necessary services and facilities (like water, electricity, education, health) in rural areas to improve the quality of life and make villages more livable and economically viable, reducing the push factors for migration."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What was the role of education in rural development as depicted in the chapter?",
+      "answer": "Education played a multifaceted and crucial role in rural development as depicted in the chapter. It was a key component of the Collective Development Scheme, with plans to extend educational facilities. The government of Maharashtra established 'Vidya Niketan' residential high schools to provide the best quality education to intelligent and meritorious students from villages living in unfavourable conditions, aiming to nurture talent at the grassroots. Based on the Kothari Commission's recommendations, Agricultural Universities were started at various locations in Maharashtra to provide higher education and research specifically tailored to improve farming practices and rural economies. UNESCO's 1972 international literacy prize awarded to Maharashtra recognized the state's successful efforts in spreading education, which is fundamental for changing attitudes, enabling skill development, and driving long-term socio-economic progress in rural areas."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain the importance of the right to 'practice any occupation' granted by the Constitution.",
+      "answer": "The constitutional right to 'practice any occupation' is of paramount importance as it dismantles the traditional link between birth and livelihood, a cornerstone of the caste system. For centuries, occupations in India were largely hereditary, dictated by one's caste. This right guarantees every citizen the freedom to choose their vocation based on interest, skill, and economic opportunity, not their birth. It fosters social mobility by allowing individuals to break free from predetermined roles. Economically, it enables a more efficient allocation of talent and labour, as people can enter fields where they are most productive. This freedom is essential for creating a modern, dynamic economy and for building an egalitarian society where an individual's profession is a matter of personal choice and merit, not an accident of birth."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Describe the steps taken for the development of Scheduled Castes and Tribes after independence.",
+      "answer": "After independence, specific steps were taken for the development of Scheduled Castes and Tribes (SCs & STs), who together constituted 22% of the population in 1971. Recognizing their historical social exclusion and backwardness, the Constitution itself provided the framework for their upliftment. Laws were enacted to ensure they received educational scholarships to improve access to learning. To facilitate political representation and participation, seats were reserved for them in Parliament and State Legislative Assemblies. Furthermore, a policy of reservations was implemented in government services, setting aside a percentage of jobs to ensure their entry into public employment. These measures aimed at providing educational opportunities, political voice, and economic security to help these communities overcome centuries of discrimination and integrate into the mainstream of national life."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How did the recognition of alternative medical systems contribute to public health?",
+      "answer": "The recognition of alternative medical systems like Unani, Homoeopathy, Ayurveda, and Naturopathy alongside Allopathy significantly contributed to public health in India by promoting a holistic and inclusive approach to healthcare. This pluralistic policy acknowledged the rich medical heritage and diverse health beliefs of the population. It made healthcare more accessible and acceptable, especially in rural and remote areas where traditional systems often have deep roots and greater trust. By integrating these systems into the national health framework, the government could leverage their practitioners and knowledge to reach a wider population. This approach helped in maintaining good health through preventive care, chronic disease management, and offering a range of treatment options. It fostered a comprehensive healthcare ecosystem that catered to varied needs and preferences, ultimately strengthening the overall public health infrastructure."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What does the chapter suggest about the relationship between rural and urban areas in India's economy?",
+      "answer": "The chapter suggests a shifting yet interdependent relationship between rural and urban areas in India's economy. Traditionally, villages were self-sufficient. In the post-independence development model, a new dynamic emerged. Rural areas shouldered the responsibility of providing essential food grains and raw materials to sustain urban populations and industries. They also supplied labour to the industrial and service sectors in cities. This indicates a functional interdependence where rural areas support urban growth through primary production and human resources. However, this relationship is often imbalanced, with cities being the centres of economic opportunity and infrastructure, leading to migration. The chapter implies the need for a more balanced relationship where rural development is prioritized to reduce strain on cities and create a more equitable economic landscape."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Analyze the changes in the social fabric of India as a result of constitutional values and modernisation.",
+      "answer": "Constitutional values and modernization have significantly altered India's social fabric. The Constitution, by enshrining equality, non-discrimination, and individual freedoms, directly attacked rigid hierarchies like the caste system and promoted social justice. This led to the decline of hereditary occupations and the practice of untouchability. Modernization, driven by education, urbanization, and technology, further accelerated change. It encouraged a shift from ascribed status (based on birth) to achieved status (based on merit). The joint family system, once a hallmark, is giving way to nuclear families due to globalisation and mobility. There's greater (though still imperfect) mixing in public spaces like restaurants and trains, symbolizing reduced social segregation. Citizens now actively express dissent, reflecting a confident democratic ethos. While challenges of inequality persist, the combined force of constitutional mandates and modern processes has made Indian society more dynamic, fluid, and oriented towards individual rights and opportunities."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Why was the immunisation programme critical for India's infants? What diseases did it target?",
+      "answer": "The immunisation programme was critically important for India's infants because, before its implementation, the infant mortality rate was devastatingly high. The chapter states that before 1978, six out of every ten Indian infants faced fatal health problems in their very first year. Many of these deaths were caused by vaccine-preventable diseases. The programme was specifically taken up to overcome the deadly threat posed by a group of such diseases: polio, measles, tetanus, tuberculosis (TB), diphtheria, and whooping cough. These illnesses could cause severe disability (like polio) or death, especially in malnourished children with weak immune systems. By providing widespread immunisation, the programme aimed to drastically reduce infant mortality and morbidity, ensuring more children survived their crucial early years and grew up healthy, which is fundamental for the nation's human capital and future."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "What is the concept of a welfare state as incorporated in the Indian Constitution?",
+      "answer": "The concept of a welfare state, as incorporated in the Indian Constitution, signifies that the state has a positive duty to ensure the well-being and social security of its citizens. It moves beyond the minimal 'night-watchman' state role (maintaining law and order) to actively promote social and economic justice. India is noted in the chapter as the first country in the world to incorporate this objective into its constitution itself. This means the government is obligated to work towards creating conditions where all citizens have opportunities for full-time employment, healthcare, education, and overall development. The aim is to reduce large-scale inequalities and ensure that the benefits of progress reach the weakest sections of society, including women, children, the differently abled, and marginalized communities like Scheduled Castes and Tribes. The establishment of the Ministry of Social Welfare in 1964 was an institutional step towards fulfilling this constitutional goal."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Describe the evolution of local self-government institutions (Panchayati Raj) for rural development.",
+      "answer": "The evolution of local self-government institutions for rural development focused on decentralization and empowerment. Keeping the goal of rural development in mind, the 'Collective Development Scheme' was implemented through these local bodies. To achieve inclusive and effective implementation, Gram Panchayats were reformed to include people from all castes and tribes, making them more representative. Importantly, these local institutions – the Gram Panchayats (village level), Panchayat Samitis (block level), and Zilla Parishads (district level) – were empowered with more authority and responsibilities. This devolution of power meant that planning and execution of development projects like irrigation, education, health, and land reforms could be tailored to local needs and monitored closely. This three-tier Panchayati Raj system became the primary vehicle for channeling development efforts and ensuring community participation in rural progress."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How did technological innovations like the test-tube baby and kidney transplant address specific social and medical concerns?",
+      "answer": "Technological innovations like the test-tube baby and kidney transplant addressed profound social and medical concerns in India. The test-tube baby technology, successfully implemented in 1978, addressed the deep social and emotional concern of childlessness in the Indian family system, where having children is considered of utmost importance. It provided hope and a scientific solution to couples who could not conceive naturally, alleviating social stigma and personal grief. The kidney transplant, first successfully performed in India in 1971, addressed the critical medical concern of end-stage renal disease, which was otherwise fatal. It offered a life-saving treatment option within the country, saving patients' lives and reducing the need and cost of going abroad. Both innovations not only showcased India's advancing medical prowess but also directly improved the quality of life by fulfilling a core social desire and combating a lethal medical condition."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarise the overall transformation in Indian life as depicted in this chapter, covering social, medical, and rural-urban aspects.",
+      "answer": "This chapter depicts a comprehensive transformation in Indian life from the mid-20th century onwards. Socially, the Constitution engineered a radical shift by establishing equality, banning discrimination, and granting fundamental freedoms, which challenged the caste system and traditional hierarchies. The joint family system began yielding to nuclear families under globalisation. Medically, India achieved self-reliance with milestones like open-heart surgery (1962), the Jaipur Foot (1968), kidney transplant (1971), and the test-tube baby (1978). Immunisation programmes dramatically improved child survival. In rural-urban dynamics, while urbanisation accelerated due to migration, concerted efforts were made for rural development through the Panchayati Raj, electrification, water schemes, agricultural universities, and industrial planning to create jobs locally. The economy shifted from self-sufficient villages to an interdependent national system. Overall, life became more rights-based, healthier, and dynamically interconnected, though challenges of inequality and balanced development persisted."
+    }
+  ]
+}
