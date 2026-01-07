@@ -1,0 +1,1055 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Science.02",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Work and Energy"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In physics, work is said to be done when:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Any mental or physical activity is performed.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A force is applied on an object.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A force applied on an object causes displacement of the object.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "An object possesses energy.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A force applied on an object causes displacement of the object."
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The general formula for work done is:",
+      "options": [
+        { "option_id": 1, "text": "Work = Force / Displacement", "is_correct": false },
+        { "option_id": 2, "text": "Work = Force × Displacement", "is_correct": true },
+        { "option_id": 3, "text": "Work = Mass × Acceleration", "is_correct": false },
+        { "option_id": 4, "text": "Work = Energy × Time", "is_correct": false }
+      ],
+      "answer": "Work = Force × Displacement"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When the displacement is not in the direction of the applied force, work is calculated as:",
+      "options": [
+        { "option_id": 1, "text": "W = F × s", "is_correct": false },
+        { "option_id": 2, "text": "W = F s cos θ", "is_correct": true },
+        { "option_id": 3, "text": "W = F s sin θ", "is_correct": false },
+        { "option_id": 4, "text": "W = F / s", "is_correct": false }
+      ],
+      "answer": "W = F s cos θ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "If the force and displacement are in the same direction (θ = 0°), the work done is:",
+      "options": [
+        { "option_id": 1, "text": "Zero", "is_correct": false },
+        { "option_id": 2, "text": "Positive", "is_correct": true },
+        { "option_id": 3, "text": "Negative", "is_correct": false },
+        { "option_id": 4, "text": "Maximum negative", "is_correct": false }
+      ],
+      "answer": "Positive"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When the force and displacement are opposite (θ = 180°), the work done is:",
+      "options": [
+        { "option_id": 1, "text": "W = F s", "is_correct": false },
+        { "option_id": 2, "text": "W = 0", "is_correct": false },
+        { "option_id": 3, "text": "W = - F s", "is_correct": true },
+        { "option_id": 4, "text": "W = F s cos 90°", "is_correct": false }
+      ],
+      "answer": "W = - F s"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The work done is zero when:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Force and displacement are in the same direction.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Force and displacement are perpendicular (θ = 90°).",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Force is applied but there is no displacement.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Both B and C are correct.",
+          "is_correct": true
+        }
+      ],
+      "answer": "Both B and C are correct."
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The SI unit of work is:",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Watt", "is_correct": false },
+        { "option_id": 3, "text": "Joule", "is_correct": true },
+        { "option_id": 4, "text": "Erg", "is_correct": false }
+      ],
+      "answer": "Joule"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "1 Joule is defined as:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Work done by a force of 1 N moving an object 1 cm.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Work done by a force of 1 dyne moving an object 1 m.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Work done by a force of 1 N moving an object 1 m in the direction of force.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Work done by a force of 1 N in 1 second.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Work done by a force of 1 N moving an object 1 m in the direction of force."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The CGS unit of work is:",
+      "options": [
+        { "option_id": 1, "text": "Newton-metre", "is_correct": false },
+        { "option_id": 2, "text": "Joule", "is_correct": false },
+        { "option_id": 3, "text": "Dyne-centimetre or Erg", "is_correct": true },
+        { "option_id": 4, "text": "Watt", "is_correct": false }
+      ],
+      "answer": "Dyne-centimetre or Erg"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The relationship between joule and erg is:",
+      "options": [
+        { "option_id": 1, "text": "1 J = 10³ erg", "is_correct": false },
+        { "option_id": 2, "text": "1 J = 10⁵ erg", "is_correct": false },
+        { "option_id": 3, "text": "1 J = 10⁷ erg", "is_correct": true },
+        { "option_id": 4, "text": "1 erg = 10⁷ J", "is_correct": false }
+      ],
+      "answer": "1 J = 10⁷ erg"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following involves negative work done by the applied force?",
+      "options": [
+        { "option_id": 1, "text": "Pushing a stalled vehicle forward.", "is_correct": false },
+        {
+          "option_id": 2,
+          "text": "Catching a ball thrown towards you.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lifting a book from the floor.",
+          "is_correct": false
+        },
+        { "option_id": 4, "text": "Pulling a toy cart.", "is_correct": false }
+      ],
+      "answer": "Catching a ball thrown towards you."
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The energy an object possesses due to its motion is called:",
+      "options": [
+        { "option_id": 1, "text": "Potential Energy", "is_correct": false },
+        { "option_id": 2, "text": "Kinetic Energy", "is_correct": true },
+        { "option_id": 3, "text": "Chemical Energy", "is_correct": false },
+        { "option_id": 4, "text": "Thermal Energy", "is_correct": false }
+      ],
+      "answer": "Kinetic Energy"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The formula for kinetic energy (K.E.) of mass m moving with velocity v is:",
+      "options": [
+        { "option_id": 1, "text": "K.E. = m v", "is_correct": false },
+        { "option_id": 2, "text": "K.E. = ½ m v", "is_correct": false },
+        { "option_id": 3, "text": "K.E. = m v²", "is_correct": false },
+        { "option_id": 4, "text": "K.E. = ½ m v²", "is_correct": true }
+      ],
+      "answer": "K.E. = ½ m v²"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "If the mass of a moving body is doubled, its kinetic energy becomes:",
+      "options": [
+        { "option_id": 1, "text": "Half", "is_correct": false },
+        { "option_id": 2, "text": "Same", "is_correct": false },
+        { "option_id": 3, "text": "Double", "is_correct": true },
+        { "option_id": 4, "text": "Four times", "is_correct": false }
+      ],
+      "answer": "Double"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The energy stored in an object because of its position or state is called:",
+      "options": [
+        { "option_id": 1, "text": "Kinetic Energy", "is_correct": false },
+        { "option_id": 2, "text": "Potential Energy", "is_correct": true },
+        { "option_id": 3, "text": "Mechanical Energy", "is_correct": false },
+        { "option_id": 4, "text": "Chemical Energy", "is_correct": false }
+      ],
+      "answer": "Potential Energy"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The gravitational potential energy of an object of mass m at height h is:",
+      "options": [
+        { "option_id": 1, "text": "P.E. = m g h", "is_correct": true },
+        { "option_id": 2, "text": "P.E. = ½ m g h", "is_correct": false },
+        { "option_id": 3, "text": "P.E. = m g / h", "is_correct": false },
+        { "option_id": 4, "text": "P.E. = m v² / h", "is_correct": false }
+      ],
+      "answer": "P.E. = m g h"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Potential energy is:",
+      "options": [
+        { "option_id": 1, "text": "Absolute", "is_correct": false },
+        { "option_id": 2, "text": "Relative", "is_correct": true },
+        { "option_id": 3, "text": "Zero for all objects on ground", "is_correct": false },
+        { "option_id": 4, "text": "Independent of height", "is_correct": false }
+      ],
+      "answer": "Relative"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "According to the law of conservation of energy:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Energy can be created but not destroyed.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Energy can be destroyed but not created.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Energy can be transformed from one form to another but total energy remains constant.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Total energy of the universe increases.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Energy can be transformed from one form to another but total energy remains constant."
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "For an object in free fall, ignoring air resistance:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Potential energy remains constant.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kinetic energy remains constant.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Total mechanical energy (P.E. + K.E.) remains constant.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Total energy decreases.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Total mechanical energy (P.E. + K.E.) remains constant."
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Power is defined as:",
+      "options": [
+        { "option_id": 1, "text": "Total work done.", "is_correct": false },
+        { "option_id": 2, "text": "Force × Displacement", "is_correct": false },
+        {
+          "option_id": 3,
+          "text": "The rate at which work is done.",
+          "is_correct": true
+        },
+        { "option_id": 4, "text": "Energy stored.", "is_correct": false }
+      ],
+      "answer": "The rate at which work is done."
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The SI unit of power is:",
+      "options": [
+        { "option_id": 1, "text": "Joule", "is_correct": false },
+        { "option_id": 2, "text": "Watt", "is_correct": true },
+        { "option_id": 3, "text": "Newton", "is_correct": false },
+        { "option_id": 4, "text": "Erg per second", "is_correct": false }
+      ],
+      "answer": "Watt"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "1 Watt is equal to:",
+      "options": [
+        { "option_id": 1, "text": "1 Joule per second", "is_correct": true },
+        { "option_id": 2, "text": "1 Joule per minute", "is_correct": false },
+        { "option_id": 3, "text": "1 Newton per metre", "is_correct": false },
+        { "option_id": 4, "text": "1 Erg per second", "is_correct": false }
+      ],
+      "answer": "1 Joule per second"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "A common unit of power used in industry is:",
+      "options": [
+        { "option_id": 1, "text": "Kilowatt", "is_correct": false },
+        { "option_id": 2, "text": "Horse power", "is_correct": true },
+        { "option_id": 3, "text": "Megawatt", "is_correct": false },
+        { "option_id": 4, "text": "Joule/hour", "is_correct": false }
+      ],
+      "answer": "Horse power"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "1 Horse power (hp) is approximately equal to:",
+      "options": [
+        { "option_id": 1, "text": "746 Watts", "is_correct": true },
+        { "option_id": 2, "text": "550 Watts", "is_correct": false },
+        { "option_id": 3, "text": "1000 Watts", "is_correct": false },
+        { "option_id": 4, "text": "1.34 Watts", "is_correct": false }
+      ],
+      "answer": "746 Watts"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The commercial unit of electrical energy is:",
+      "options": [
+        { "option_id": 1, "text": "Watt-hour", "is_correct": false },
+        { "option_id": 2, "text": "Kilowatt-hour", "is_correct": true },
+        { "option_id": 3, "text": "Joule", "is_correct": false },
+        { "option_id": 4, "text": "Horse power-hour", "is_correct": false }
+      ],
+      "answer": "Kilowatt-hour"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "1 Kilowatt-hour (kWh) is equal to:",
+      "options": [
+        { "option_id": 1, "text": "1000 J", "is_correct": false },
+        { "option_id": 2, "text": "3600 J", "is_correct": false },
+        { "option_id": 3, "text": "3.6 × 10^6 J", "is_correct": true },
+        { "option_id": 4, "text": "10^7 J", "is_correct": false }
+      ],
+      "answer": "3.6 × 10^6 J"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a form of energy?",
+      "options": [
+        { "option_id": 1, "text": "Work", "is_correct": true },
+        { "option_id": 2, "text": "Heat", "is_correct": false },
+        { "option_id": 3, "text": "Light", "is_correct": false },
+        { "option_id": 4, "text": "Sound", "is_correct": false }
+      ],
+      "answer": "Work"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "When a stretched rubber band is released, the stored elastic potential energy is converted to:",
+      "options": [
+        { "option_id": 1, "text": "Heat energy only", "is_correct": false },
+        { "option_id": 2, "text": "Kinetic energy of the band", "is_correct": true },
+        { "option_id": 3, "text": "Sound energy only", "is_correct": false },
+        { "option_id": 4, "text": "Chemical energy", "is_correct": false }
+      ],
+      "answer": "Kinetic energy of the band"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "In the activity with two coupled pendulums, energy is transferred from one pendulum to the other. This demonstrates:",
+      "options": [
+        { "option_id": 1, "text": "Transformation of energy", "is_correct": true },
+        { "option_id": 2, "text": "Destruction of energy", "is_correct": false },
+        { "option_id": 3, "text": "Creation of energy", "is_correct": false },
+        { "option_id": 4, "text": "That energy is a scalar.", "is_correct": false }
+      ],
+      "answer": "Transformation of energy"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The work done on an object moving in a uniform circular motion is zero because:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The force is zero.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The displacement is zero.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The centripetal force and displacement are perpendicular at every point.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The speed is constant.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The centripetal force and displacement are perpendicular at every point."
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "If the velocity of a car is doubled, its kinetic energy becomes:",
+      "options": [
+        { "option_id": 1, "text": "Double", "is_correct": false },
+        { "option_id": 2, "text": "Four times", "is_correct": true },
+        { "option_id": 3, "text": "Half", "is_correct": false },
+        { "option_id": 4, "text": "One fourth", "is_correct": false }
+      ],
+      "answer": "Four times"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "An object is lifted vertically upwards. The work done by the gravitational force is:",
+      "options": [
+        { "option_id": 1, "text": "Positive", "is_correct": false },
+        { "option_id": 2, "text": "Zero", "is_correct": false },
+        { "option_id": 3, "text": "Negative", "is_correct": true },
+        {
+          "option_id": 4,
+          "text": "Positive initially, then negative",
+          "is_correct": false
+        }
+      ],
+      "answer": "Negative"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which force does negative work when you lift a book from the floor?",
+      "options": [
+        { "option_id": 1, "text": "Muscular force (applied)", "is_correct": false },
+        {
+          "option_id": 2,
+          "text": "Gravitational force",
+          "is_correct": true
+        },
+        { "option_id": 3, "text": "Frictional force", "is_correct": false },
+        { "option_id": 4, "text": "Normal force", "is_correct": false }
+      ],
+      "answer": "Gravitational force"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The capacity of a body to perform work is called its:",
+      "options": [
+        { "option_id": 1, "text": "Power", "is_correct": false },
+        { "option_id": 2, "text": "Energy", "is_correct": true },
+        { "option_id": 3, "text": "Momentum", "is_correct": false },
+        { "option_id": 4, "text": "Force", "is_correct": false }
+      ],
+      "answer": "Energy"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "In the 'cup and nut' activity, when one nut hangs and pulls the cup (Figure A), the work done by the weight of the nut is:",
+      "options": [
+        { "option_id": 1, "text": "Zero", "is_correct": false },
+        { "option_id": 2, "text": "Positive", "is_correct": true },
+        { "option_id": 3, "text": "Negative", "is_correct": false },
+        { "option_id": 4, "text": "Cannot be determined", "is_correct": false }
+      ],
+      "answer": "Positive"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "In the 'cup and nut' activity, when the cup is stopped by a ruler (Figure B), the work done by the ruler's force is:",
+      "options": [
+        { "option_id": 1, "text": "Zero", "is_correct": false },
+        { "option_id": 2, "text": "Positive", "is_correct": false },
+        { "option_id": 3, "text": "Negative", "is_correct": true },
+        { "option_id": 4, "text": "Positive then negative", "is_correct": false }
+      ],
+      "answer": "Negative"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The scientist honoured by naming the unit of power as 'Watt' is:",
+      "options": [
+        { "option_id": 1, "text": "Isaac Newton", "is_correct": false },
+        { "option_id": 2, "text": "James Joule", "is_correct": false },
+        { "option_id": 3, "text": "James Watt", "is_correct": true },
+        { "option_id": 4, "text": "Albert Einstein", "is_correct": false }
+      ],
+      "answer": "James Watt"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of the following is a scalar quantity?",
+      "options": [
+        { "option_id": 1, "text": "Force", "is_correct": false },
+        { "option_id": 2, "text": "Displacement", "is_correct": false },
+        { "option_id": 3, "text": "Work", "is_correct": true },
+        { "option_id": 4, "text": "Velocity", "is_correct": false }
+      ],
+      "answer": "Work"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "For work to be done, which condition is necessary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Force should be applied.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Object should be displaced.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Force should have a component in the direction of displacement.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All of the above.",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of the above."
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "When a stone is thrown vertically upwards, at the highest point its:",
+      "options": [
+        { "option_id": 1, "text": "Kinetic energy is maximum.", "is_correct": false },
+        {
+          "option_id": 2,
+          "text": "Potential energy is minimum.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Kinetic energy is zero and potential energy is maximum.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Both kinetic and potential energy are zero.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kinetic energy is zero and potential energy is maximum."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define work in physics.",
+      "options": [],
+      "answer": "Work is said to be done when a force applied on an object causes a displacement of the object."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "State the general formula for work done when force and displacement are in the same direction.",
+      "options": [],
+      "answer": "Work = Force × Displacement (W = F × s)."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "How is work calculated when the displacement is not in the direction of the applied force?",
+      "options": [],
+      "answer": "Work = Force × Displacement × cos θ (W = F s cos θ), where θ is the angle between the force and displacement vectors."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the value of work done when the angle between force and displacement is 90°?",
+      "options": [],
+      "answer": "Work done is zero (W = F s cos 90° = 0)."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Define 1 Joule of work.",
+      "options": [],
+      "answer": "1 Joule is the work done when a force of 1 Newton displaces an object by 1 metre in the direction of the force."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Define 1 Erg of work.",
+      "options": [],
+      "answer": "1 Erg is the work done when a force of 1 Dyne displaces an object by 1 centimetre in the direction of the force."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Give the relation between Joule and Erg.",
+      "options": [],
+      "answer": "1 Joule = 10⁷ Ergs."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is meant by positive work?",
+      "options": [],
+      "answer": "When the force and displacement are in the same direction (θ = 0°), the work done by the force is positive."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is meant by negative work?",
+      "options": [],
+      "answer": "When the force and displacement are in opposite directions (θ = 180°), the work done by the force is negative."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Give an example of zero work done.",
+      "options": [],
+      "answer": "A person holding a heavy load stationary on his head. Force is applied but there is no displacement."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define kinetic energy.",
+      "options": [],
+      "answer": "The energy possessed by an object due to its motion is called kinetic energy."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Write the formula for kinetic energy.",
+      "options": [],
+      "answer": "Kinetic Energy (K.E.) = ½ × mass × (velocity)² = ½ m v²."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define potential energy.",
+      "options": [],
+      "answer": "The energy stored in an object because of its specific position or state is called potential energy."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Write the formula for gravitational potential energy.",
+      "options": [],
+      "answer": "Gravitational Potential Energy (P.E.) = mass × acceleration due to gravity × height = m g h."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Is potential energy absolute or relative?",
+      "options": [],
+      "answer": "Potential energy is relative; it depends on the reference point chosen (like the ground level)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "State the law of conservation of energy.",
+      "options": [],
+      "answer": "Energy can neither be created nor destroyed. It can only be transformed from one form to another. The total energy in an isolated system remains constant."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is free fall?",
+      "options": [],
+      "answer": "An object is said to be in free fall when it is moving under the influence of gravitational force only, with no other forces (like air resistance) acting on it."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What happens to the total mechanical energy of an object during free fall (ignoring air resistance)?",
+      "options": [],
+      "answer": "The total mechanical energy (sum of potential and kinetic energy) remains constant throughout the free fall."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Define power.",
+      "options": [],
+      "answer": "Power is the rate at which work is done or energy is transferred. Power = Work done / Time taken."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of power?",
+      "options": [],
+      "answer": "The SI unit of power is Watt (W)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Define 1 Watt.",
+      "options": [],
+      "answer": "1 Watt is the power when 1 Joule of work is done in 1 second. (1 W = 1 J/s)"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a kilowatt-hour (kWh)?",
+      "options": [],
+      "answer": "Kilowatt-hour is a commercial unit of electrical energy. It is the energy consumed when a power of 1 kilowatt is used for 1 hour."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Convert 1 kWh into Joules.",
+      "options": [],
+      "answer": "1 kWh = 3.6 × 10^6 Joules."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is the work done by the centripetal force on an object in uniform circular motion zero?",
+      "options": [],
+      "answer": "Because the centripetal force is always perpendicular to the instantaneous displacement (tangential direction) of the object. Work done = F s cos 90° = 0."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Name the scientist associated with the invention of the steam engine and the unit of power.",
+      "options": [],
+      "answer": "James Watt."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Give one example of transformation of chemical energy into light and sound energy.",
+      "options": [],
+      "answer": "Explosion of a firecracker."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "In the activity with two pendulums coupled by a thread, what is observed when one pendulum is set swinging?",
+      "options": [],
+      "answer": "The second pendulum, initially at rest, begins to swing as the first one slows down, demonstrating energy transfer."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What type of energy does a stretched bow possess?",
+      "options": [],
+      "answer": "Elastic potential energy."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the energy conversion when water stored in an overhead tank flows down through a tap?",
+      "options": [],
+      "answer": "Potential energy of water is converted into kinetic energy."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "If an object has zero momentum, does it have kinetic energy?",
+      "options": [],
+      "answer": "No. Momentum p = m v. If v = 0, then K.E. = ½ m v² = 0."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain with suitable examples the conditions under which work is said to be (i) positive, (ii) negative, and (iii) zero.",
+      "options": [],
+      "answer": "(i) Positive Work: When force and displacement are in the same direction. Example: Pushing a stalled car forward. Force applied by you and car's displacement are both forward. (ii) Negative Work: When force and displacement are in opposite directions. Example: A ball thrown upwards. Gravitational force acts downwards, displacement is upwards. Work done by gravity is negative. (iii) Zero Work: (a) When force is applied but there is no displacement. Example: Pushing a wall that doesn't move. (b) When force is perpendicular to displacement. Example: A person carrying a load horizontally. The force (upwards) and displacement (horizontal) are perpendicular."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Derive the expression for kinetic energy (K.E. = ½ mv²) of an object of mass m moving with velocity v, starting from rest.",
+      "options": [],
+      "answer": "Let a constant force F act on a stationary object of mass m, giving it an acceleration a. Initial velocity u = 0. After time t, final velocity = v, and displacement = s. Work done W = F × s. From Newton's 2nd law, F = m a. From equation of motion: s = u t + ½ a t² = 0 + ½ a t² = ½ a t². Also, v = u + a t = 0 + a t ⇒ a t = v ⇒ (a t)² = v². Now, W = F s = (m a) × (½ a t²) = ½ m (a t)² = ½ m v². This work done is stored as kinetic energy. Hence, K.E. = ½ m v²."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Derive the expression for gravitational potential energy (P.E. = mgh) of an object raised to a height h.",
+      "options": [],
+      "answer": "To lift an object of mass m vertically to a height h at constant velocity, an upward force F equal to its weight (mg) must be applied against gravity. The displacement s is the height h. The work done by this applied force is W = Force × Displacement = (m g) × h = m g h. This work is stored in the object as gravitational potential energy. Therefore, P.E. = m g h."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "State and prove the law of conservation of energy for a freely falling body.",
+      "options": [],
+      "answer": "The law states that for a freely falling body (neglecting air resistance), the total mechanical energy (sum of potential and kinetic energy) remains constant at all points. Proof: Consider an object of mass m falling from point A (height h, velocity u=0). At A: P.E. = mgh, K.E. = 0. Total Energy E_A = mgh. At an intermediate point B (height x from A, so height from ground = h-x). Let its velocity be v_B. Using v² = u² + 2gs, v_B² = 0 + 2gx = 2gx. K.E. at B = ½ m v_B² = ½ m (2gx) = mgx. P.E. at B = mg(h-x) = mgh - mgx. Total Energy E_B = mgx + (mgh - mgx) = mgh. At ground C (height=0). Let velocity be v_C. v_C² = 0 + 2gh = 2gh. K.E. = ½ m (2gh) = mgh. P.E. = 0. Total Energy E_C = mgh. Since E_A = E_B = E_C, total energy is conserved."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Explain the concept of power. How is it different from energy? Give the relation between watt, kilowatt, and horsepower.",
+      "options": [],
+      "answer": "Power is defined as the rate of doing work or the rate of transfer of energy. It measures how fast work is done. Energy is the capacity to do work; it's the total amount of work that can be done. Power tells us the speed of using that energy. Relation: 1 Kilowatt (kW) = 1000 Watts (W). 1 Horsepower (hp) ≈ 746 Watts. Therefore, 1 hp ≈ 0.746 kW."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the 'cup and nut' activity and explain what it demonstrates about positive, negative, and zero work.",
+      "options": [],
+      "answer": "Activity: A cup with a hole has a thread passing through it. Two nuts are tied to the thread ends. Figure A: One nut in cup, other hanging. The hanging nut's weight pulls the cup. Force (weight) and cup's displacement are in the same direction → Positive work. Figure B: Cup is sliding and is stopped by a ruler. The ruler applies a force opposite to the cup's motion → Negative work. Figure C: Cup at centre, two nuts hanging on opposite sides exerting equal pulls. Net force is zero, no displacement → Zero work. The activity visually demonstrates the three cases of work done based on the direction of force relative to displacement."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "What is transformation of energy? Give three examples from daily life and explain the energy conversions involved.",
+      "options": [],
+      "answer": "Transformation of energy is the change of energy from one form to another. Examples: 1. Electric Heater: Electrical energy is converted into heat energy. 2. Solar Cell: Light energy from the sun is converted into electrical energy. 3. Microphone: Sound energy is converted into electrical energy. 4. Loudspeaker: Electrical energy is converted back into sound energy. 5. Battery (in use): Chemical energy is converted into electrical energy."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Solve: A force of 50 N is applied to pull a box. The force makes an angle of 30° with the horizontal. If the box is displaced by 4 m in the direction of the horizontal component of the force, calculate the work done. (cos 30° = √3/2 ≈ 0.866)",
+      "options": [],
+      "answer": "Given: F = 50 N, θ = 30°, s = 4 m. Work done W = F s cos θ = 50 × 4 × cos 30° = 200 × (√3/2) = 100√3 J ≈ 100 × 1.732 = 173.2 J."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain why potential energy is called a 'relative' quantity with an example.",
+      "options": [],
+      "answer": "Potential energy depends on the reference level chosen for zero potential energy. Its value changes with the reference point. Example: A ball of mass m is on a table of height h from the ground. For a person (Ajay) on the ground, P.E. = mgh relative to the ground. For another person (Atul) sitting on a chair of height equal to the table, the ball is at his eye level, so its height relative to him is 0, thus P.E. = 0. The same ball has two different potential energies depending on the observer's reference level. Hence, potential energy is relative."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Calculate the power of an electric motor that can lift 200 kg of water to a tank at a height of 15 m in 30 seconds. (g = 10 m/s²)",
+      "options": [],
+      "answer": "Given: m = 200 kg, h = 15 m, t = 30 s, g = 10 m/s². Work done W = m g h = 200 × 10 × 15 = 30,000 J. Power P = W / t = 30000 J / 30 s = 1000 W or 1 kW."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "A 40 W electric lamp is used for 5 hours daily. Calculate the energy consumed in kilowatt-hours in the month of May (31 days).",
+      "options": [],
+      "answer": "Given: Power P = 40 W = 0.04 kW. Time per day = 5 hours. Total time in May = 5 hr/day × 31 days = 155 hours. Energy consumed = Power × Time = 0.04 kW × 155 h = 6.2 kWh (or 6.2 units)."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Describe the activity with two aluminium channels and two balls. What does it demonstrate about the conservation of energy?",
+      "options": [],
+      "answer": "Activity: Two channels of different lengths but same height at the top are taken. Two identical balls are released from the top simultaneously. Observations: 1. At release, balls have maximum potential energy (mgh). 2. As they roll down, potential energy converts to kinetic energy. 3. Both balls cover the same distance on the floor after leaving the channels. Explanation: The balls start with the same P.E. (same m and h). As they roll, total mechanical energy is conserved (ignoring friction). The kinetic energy gained at the bottom is the same (½ m v² = mgh), so they leave with the same speed. Since they are projected horizontally from the same height with the same speed, they cover the same horizontal distance. This demonstrates the law of conservation of energy."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Why is the work done by gravitational force on a satellite moving in a circular orbit zero? Explain with diagram.",
+      "options": [],
+      "answer": "A satellite in a circular orbit is under the influence of the Earth's gravitational force, which acts as the centripetal force, directed radially inward towards the centre of the Earth. The instantaneous displacement of the satellite is along the tangent to the circular path, which is perpendicular to the radius (and thus to the gravitational force). Work done = Force × Displacement × cos θ. Here, θ = 90°, so cos 90° = 0. Therefore, work done by gravity is zero at every instant. Although gravity changes the direction of velocity, it does not change the speed (for a circular orbit), hence no work is done."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Differentiate between kinetic energy and potential energy with two points each.",
+      "options": [],
+      "answer": "Kinetic Energy: 1. It is the energy possessed by an object due to its motion. 2. It depends on mass (m) and the square of velocity (v²), K.E. = ½ m v². 3. It is relative to the frame of reference (speed is relative). Potential Energy: 1. It is the energy stored in an object due to its position or configuration. 2. Gravitational P.E. depends on mass (m), height (h), and gravity (g), P.E. = mgh. 3. It is relative to a chosen reference level (zero point)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "A car of mass 1200 kg increases its speed from 36 km/h to 72 km/h. Calculate the work done by the engine. (Assume no energy loss)",
+      "options": [],
+      "answer": "Given: m = 1200 kg. Initial speed u = 36 km/h = (36 × 1000) / 3600 = 10 m/s. Final speed v = 72 km/h = 20 m/s. Work done by engine = Change in Kinetic Energy = Final K.E. - Initial K.E. = ½ m v² - ½ m u² = ½ m (v² - u²) = ½ × 1200 × (20² - 10²) = 600 × (400 - 100) = 600 × 300 = 180,000 J or 180 kJ."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the term 'commercial unit of energy' (kilowatt-hour) with its importance.",
+      "options": [],
+      "answer": "The commercial unit of energy is the kilowatt-hour (kWh). It is defined as the energy consumed (or work done) when a power of 1 kilowatt (1000 watts) is used for 1 hour. 1 kWh = 1 kW × 1 h = 1000 W × 3600 s = 3.6 × 10^6 J. Importance: It is a convenient and practical unit for billing electrical energy consumption in households and industries because joules are too small a unit for large-scale energy transactions. Electricity meters measure energy in kWh (units)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "A man pushes a wall with a force of 100 N but fails to move it. What is the work done by him? Is energy spent? Explain.",
+      "options": [],
+      "answer": "Work done W = Force × Displacement × cos θ. Here, the wall does not move, so displacement s = 0. Therefore, W = 100 N × 0 × cos θ = 0 J. So, no work is done in the physics sense. However, the man's muscles are contracting and relaxing, converting chemical energy into heat energy within his body. So, biological energy is spent, but it is not transferred to the wall to do mechanical work. The energy spent is dissipated as heat."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "How does the principle of conservation of energy explain the motion of a simple pendulum?",
+      "options": [],
+      "answer": "In a simple pendulum, at the highest point of its swing, it has maximum potential energy (height is max) and zero kinetic energy (momentarily at rest). As it swings down, P.E. decreases and K.E. increases, reaching maximum K.E. and minimum P.E. at the lowest point. As it swings to the other side, K.E. converts back to P.E. Ignoring air resistance and friction at the pivot, the sum of P.E. and K.E. remains constant throughout the motion. This constant total energy explains the continuous to-and-fro oscillation. The amplitude gradually decreases due to air resistance, where the energy is transformed into heat and sound."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Solve: A ball is dropped from a height of 10 m. If 40% of its energy is lost on striking the ground, to what height will it rebound? (g = 10 m/s²)",
+      "options": [],
+      "answer": "Initial potential energy at height H = m g H = m × 10 × 10 = 100m J. Energy lost on impact = 40% of 100m = 40m J. Energy remaining after impact = 100m - 40m = 60m J. This remaining energy is converted back to potential energy at the rebound height h. So, m g h = 60m ⇒ 10 × h = 60 ⇒ h = 6 m. The ball will rebound to a height of 6 metres."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "A pump is used to lift 1000 kg of water per minute from a well 20 m deep. Calculate the power of the pump. (g = 10 m/s²)",
+      "options": [],
+      "answer": "Given: Mass of water per minute, m = 1000 kg. Time t = 1 minute = 60 seconds. Height h = 20 m. g = 10 m/s². Work done per minute W = m g h = 1000 × 10 × 20 = 200,000 J. Power P = Work/Time = 200000 J / 60 s ≈ 3333.33 W or about 3.33 kW."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain with reasons: (a) A teacher moving around in the class does no work. (b) Work done by friction can be negative or zero. (c) Potential energy of a book on a table is different for a child and an adult standing next to it.",
+      "options": [],
+      "answer": "(a) When the teacher moves around, she applies muscular force. However, if she walks at constant speed on a horizontal floor, the vertical force (against gravity) is perpendicular to her horizontal displacement. So, the work done against gravity is zero. The work done against friction might be present, but often considered negligible. In physics terms, if no net external force causes displacement in its direction, net work is zero. (b) Friction always opposes relative motion. If an object is moving, friction acts opposite to displacement → Negative work (e.g., sliding a box to a stop). If there is no relative motion (static friction), displacement is zero → Work done is zero. (c) Potential energy P.E. = mgh, where h is height relative to a chosen reference (usually ground). For the child, the reference level might be his eye level, making h smaller or zero. For the adult, the reference might be the floor, making h = table height. Since their reference levels differ, the calculated P.E. is different."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "List the different forms of energy mentioned in the chapter. Give one natural source for each.",
+      "options": [],
+      "answer": "Forms of energy mentioned: Mechanical (Kinetic & Potential), Heat, Light, Sound, Electromagnetic, Chemical, Nuclear, Solar. Natural sources: 1. Mechanical: Flowing water (hydro). 2. Heat: Sun. 3. Light: Sun. 4. Sound: Vibrating objects (thunder). 5. Electromagnetic: Sunlight, Radio waves. 6. Chemical: Food, Fossil fuels. 7. Nuclear: Uranium, Sun's core. 8. Solar: Sun directly."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Draw a labelled diagram showing the energy transformation in a hydroelectric power plant.",
+      "options": [],
+      "answer": "(Description for diagram): Water stored at a height in a dam has gravitational potential energy. When released, it flows down through penstocks, converting P.E. to kinetic energy of moving water. The fast-moving water strikes the blades of a turbine, rotating it (kinetic energy of water → mechanical energy of turbine). The turbine shaft is connected to a generator, which converts mechanical energy into electrical energy. Transformers then step up the voltage for transmission. Key stages: Potential Energy (water in dam) → Kinetic Energy (flowing water) → Mechanical Energy (turbine) → Electrical Energy (generator)."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "A machine does 600 J of work in 2 minutes. What is its power in watts and horsepower?",
+      "options": [],
+      "answer": "Given: Work W = 600 J, Time t = 2 minutes = 120 s. Power P = W/t = 600 J / 120 s = 5 W. In horsepower: 1 hp = 746 W. So, P (in hp) = 5 W / 746 W/hp ≈ 0.0067 hp."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Why is it said that 'work and energy have the same units'?",
+      "options": [],
+      "answer": "Work is defined as the product of force and displacement in the direction of force. Energy is defined as the capacity to do work. When work is done on an object, energy is transferred to that object. The amount of work done is a measure of the energy transferred. For example, if you do 10 Joules of work lifting a box, you have transferred 10 Joules of your energy (chemical) into potential energy of the box. Since we measure the 'capacity to do work' by the 'amount of work that can be done', both quantities share the same fundamental units: Joule in SI and erg in CGS."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "A cyclist does 1200 J of work against friction to travel a distance of 50 m on a level road. Calculate the average frictional force.",
+      "options": [],
+      "answer": "Work done against friction W = Force of friction × distance. Here, W = 1200 J, s = 50 m. The force of friction F_friction opposes motion, so the work done by the cyclist (against friction) is positive in this context (he applies force in direction of motion to overcome friction). Therefore, 1200 J = F_friction × 50 m ⇒ F_friction = 1200 / 50 = 24 N. The average frictional force is 24 N."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Describe the role of the National Physical Laboratory (NPL) as mentioned in the chapter.",
+      "options": [],
+      "answer": "The National Physical Laboratory (NPL), New Delhi, functions under the Council of Scientific and Industrial Research (CSIR). Its main objectives are: 1. To conduct basic research in various branches of physics. 2. To establish and maintain national standards of various physical quantities (like length, mass, time, etc.). 3. To help various industries and institutes engaged in developmental work by providing calibration services and precise measurements. It plays a crucial role in ensuring measurement accuracy and standardization in the country."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "If a force F = (5 i + 3 j) N acts on a body and produces a displacement s = (2 i - j) m, calculate the work done.",
+      "options": [],
+      "answer": "Work done W = F · s (dot product). F = (5, 3), s = (2, -1). W = (5 × 2) + (3 × -1) = 10 - 3 = 7 Joules."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "A spring is compressed by 0.1 m. If the force required to compress it is 20 N, calculate the potential energy stored in the spring. (Assume Hooke's law, i.e., F = kx)",
+      "options": [],
+      "answer": "Given: Compression x = 0.1 m, Force F = 20 N. Spring constant k = F / x = 20 N / 0.1 m = 200 N/m. Elastic potential energy stored U = ½ k x² = ½ × 200 × (0.1)² = 100 × 0.01 = 1 Joule."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the key concepts covered in the chapter 'Work and Energy' in 5-6 points.",
+      "options": [],
+      "answer": "1. Work: Defined as force causing displacement. W = F s cos θ. It's a scalar with units Joule (SI) and erg (CGS). Can be positive, negative, or zero. 2. Energy: Capacity to do work. Same units as work. Various forms exist. 3. Kinetic Energy: Energy due to motion. K.E. = ½ m v². 4. Potential Energy: Stored energy due to position/state. Gravitational P.E. = mgh. It is relative. 5. Law of Conservation of Energy: Energy cannot be created or destroyed, only transformed. Total energy constant in an isolated system. Demonstrated in free fall. 6. Power: Rate of doing work. P = W/t. SI unit: Watt. Commercial unit of energy: kilowatt-hour (kWh)."
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "15.Biology.15",
+    "standard": "9",
+    "subject": "Biology",
+    "medium": "English",
+    "chapter_name": "Life Processes in Living Organisms"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which plant tissue is responsible for conducting water and minerals from roots to other parts?",
+      "options": [
+        { "option_id": 1, "text": "Phloem", "is_correct": false },
+        { "option_id": 2, "text": "Xylem", "is_correct": true },
+        { "option_id": 3, "text": "Epidermis", "is_correct": false },
+        { "option_id": 4, "text": "Cortex", "is_correct": false }
+      ],
+      "answer": "Xylem"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the function of phloem in plants?",
+      "options": [
+        { "option_id": 1, "text": "Transport of water", "is_correct": false },
+        { "option_id": 2, "text": "Transport of food and other substances", "is_correct": true },
+        { "option_id": 3, "text": "Absorption of minerals", "is_correct": false },
+        { "option_id": 4, "text": "Gaseous exchange", "is_correct": false }
+      ],
+      "answer": "Transport of food and other substances"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The pressure exerted by turgid root cells on adjacent cells is called:",
+      "options": [
+        { "option_id": 1, "text": "Transpiration pull", "is_correct": false },
+        { "option_id": 2, "text": "Root pressure", "is_correct": true },
+        { "option_id": 3, "text": "Osmotic pressure", "is_correct": false },
+        { "option_id": 4, "text": "Capillary action", "is_correct": false }
+      ],
+      "answer": "Root pressure"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which process helps in the absorption and distribution of water and minerals in plants?",
+      "options": [
+        { "option_id": 1, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 2, "text": "Transpiration", "is_correct": true },
+        { "option_id": 3, "text": "Respiration", "is_correct": false },
+        { "option_id": 4, "text": "Translocation", "is_correct": false }
+      ],
+      "answer": "Transpiration"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What are the needle-shaped crystals of calcium oxalate in plants called?",
+      "options": [
+        { "option_id": 1, "text": "Raphides", "is_correct": true },
+        { "option_id": 2, "text": "Stomata", "is_correct": false },
+        { "option_id": 3, "text": "Lenticels", "is_correct": false },
+        { "option_id": 4, "text": "Trichomes", "is_correct": false }
+      ],
+      "answer": "Raphides"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which part of the human excretory system stores urine?",
+      "options": [
+        { "option_id": 1, "text": "Kidney", "is_correct": false },
+        { "option_id": 2, "text": "Ureter", "is_correct": false },
+        { "option_id": 3, "text": "Urinary bladder", "is_correct": true },
+        { "option_id": 4, "text": "Urethra", "is_correct": false }
+      ],
+      "answer": "Urinary bladder"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The functional unit of the kidney is:",
+      "options": [
+        { "option_id": 1, "text": "Neuron", "is_correct": false },
+        { "option_id": 2, "text": "Nephron", "is_correct": true },
+        { "option_id": 3, "text": "Alveoli", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus", "is_correct": false }
+      ],
+      "answer": "Nephron"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the cup-like upper part of a nephron called?",
+      "options": [
+        { "option_id": 1, "text": "Glomerulus", "is_correct": false },
+        { "option_id": 2, "text": "Bowman’s capsule", "is_correct": true },
+        { "option_id": 3, "text": "Loop of Henle", "is_correct": false },
+        { "option_id": 4, "text": "Collecting duct", "is_correct": false }
+      ],
+      "answer": "Bowman’s capsule"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which process is used to separate nitrogenous waste from blood when kidneys fail?",
+      "options": [
+        { "option_id": 1, "text": "Filtration", "is_correct": false },
+        { "option_id": 2, "text": "Dialysis", "is_correct": true },
+        { "option_id": 3, "text": "Transfusion", "is_correct": false },
+        { "option_id": 4, "text": "Respiration", "is_correct": false }
+      ],
+      "answer": "Dialysis"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The systematic regulation of different processes in the body is called:",
+      "options": [
+        { "option_id": 1, "text": "Excretion", "is_correct": false },
+        { "option_id": 2, "text": "Co-ordination", "is_correct": true },
+        { "option_id": 3, "text": "Transportation", "is_correct": false },
+        { "option_id": 4, "text": "Digestion", "is_correct": false }
+      ],
+      "answer": "Co-ordination"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Growth of a plant part in response to light is called:",
+      "options": [
+        { "option_id": 1, "text": "Phototropic movement", "is_correct": true },
+        { "option_id": 2, "text": "Gravitropic movement", "is_correct": false },
+        { "option_id": 3, "text": "Hydrotropic movement", "is_correct": false },
+        { "option_id": 4, "text": "Chemotropic movement", "is_correct": false }
+      ],
+      "answer": "Phototropic movement"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which plant hormone helps in cell enlargement?",
+      "options": [
+        { "option_id": 1, "text": "Auxin", "is_correct": true },
+        { "option_id": 2, "text": "Gibberellin", "is_correct": false },
+        { "option_id": 3, "text": "Cytokinin", "is_correct": false },
+        { "option_id": 4, "text": "Abscisic acid", "is_correct": false }
+      ],
+      "answer": "Auxin"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which part of the brain controls voluntary movements and intellectual activities?",
+      "options": [
+        { "option_id": 1, "text": "Cerebellum", "is_correct": false },
+        { "option_id": 2, "text": "Medulla oblongata", "is_correct": false },
+        { "option_id": 3, "text": "Cerebrum", "is_correct": true },
+        { "option_id": 4, "text": "Spinal cord", "is_correct": false }
+      ],
+      "answer": "Cerebrum"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which part of the brain is responsible for maintaining body balance?",
+      "options": [
+        { "option_id": 1, "text": "Cerebrum", "is_correct": false },
+        { "option_id": 2, "text": "Cerebellum", "is_correct": true },
+        { "option_id": 3, "text": "Medulla oblongata", "is_correct": false },
+        { "option_id": 4, "text": "Hypothalamus", "is_correct": false }
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Involuntary activities like heartbeat and breathing are controlled by:",
+      "options": [
+        { "option_id": 1, "text": "Cerebrum", "is_correct": false },
+        { "option_id": 2, "text": "Cerebellum", "is_correct": false },
+        { "option_id": 3, "text": "Medulla oblongata", "is_correct": true },
+        { "option_id": 4, "text": "Spinal cord", "is_correct": false }
+      ],
+      "answer": "Medulla oblongata"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which type of neuron carries impulses from sensory organs to the brain?",
+      "options": [
+        { "option_id": 1, "text": "Motor neuron", "is_correct": false },
+        { "option_id": 2, "text": "Sensory neuron", "is_correct": true },
+        { "option_id": 3, "text": "Association neuron", "is_correct": false },
+        { "option_id": 4, "text": "Interneuron", "is_correct": false }
+      ],
+      "answer": "Sensory neuron"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The space between two adjacent neurons where chemicals are passed is called:",
+      "options": [
+        { "option_id": 1, "text": "Dendrite", "is_correct": false },
+        { "option_id": 2, "text": "Axon", "is_correct": false },
+        { "option_id": 3, "text": "Synapse", "is_correct": true },
+        { "option_id": 4, "text": "Node of Ranvier", "is_correct": false }
+      ],
+      "answer": "Synapse"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which nervous system is not under voluntary control?",
+      "options": [
+        { "option_id": 1, "text": "Central nervous system", "is_correct": false },
+        { "option_id": 2, "text": "Peripheral nervous system", "is_correct": false },
+        { "option_id": 3, "text": "Autonomic nervous system", "is_correct": true },
+        { "option_id": 4, "text": "Somatic nervous system", "is_correct": false }
+      ],
+      "answer": "Autonomic nervous system"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "An immediate and involuntary response to a stimulus is called:",
+      "options": [
+        { "option_id": 1, "text": "Voluntary action", "is_correct": false },
+        { "option_id": 2, "text": "Reflex action", "is_correct": true },
+        { "option_id": 3, "text": "Hormonal action", "is_correct": false },
+        { "option_id": 4, "text": "Conditioned reflex", "is_correct": false }
+      ],
+      "answer": "Reflex action"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which gland is known as the 'master gland'?",
+      "options": [
+        { "option_id": 1, "text": "Thyroid gland", "is_correct": false },
+        { "option_id": 2, "text": "Adrenal gland", "is_correct": false },
+        { "option_id": 3, "text": "Pituitary gland", "is_correct": true },
+        { "option_id": 4, "text": "Pancreas", "is_correct": false }
+      ],
+      "answer": "Pituitary gland"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which hormone regulates blood glucose levels by stimulating the liver to convert glycogen into glucose?",
+      "options": [
+        { "option_id": 1, "text": "Insulin", "is_correct": false },
+        { "option_id": 2, "text": "Glucagon", "is_correct": true },
+        { "option_id": 3, "text": "Thyroxine", "is_correct": false },
+        { "option_id": 4, "text": "Adrenaline", "is_correct": false }
+      ],
+      "answer": "Glucagon"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which gland secretes adrenaline?",
+      "options": [
+        { "option_id": 1, "text": "Thyroid", "is_correct": false },
+        { "option_id": 2, "text": "Adrenal", "is_correct": true },
+        { "option_id": 3, "text": "Pancreas", "is_correct": false },
+        { "option_id": 4, "text": "Pituitary", "is_correct": false }
+      ],
+      "answer": "Adrenal"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The hormone responsible for secondary sexual characteristics in males is:",
+      "options": [
+        { "option_id": 1, "text": "Oestrogen", "is_correct": false },
+        { "option_id": 2, "text": "Progesterone", "is_correct": false },
+        { "option_id": 3, "text": "Testosterone", "is_correct": true },
+        { "option_id": 4, "text": "Insulin", "is_correct": false }
+      ],
+      "answer": "Testosterone"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which gland controls the activity of the pituitary gland?",
+      "options": [
+        { "option_id": 1, "text": "Hypothalamus", "is_correct": true },
+        { "option_id": 2, "text": "Thyroid", "is_correct": false },
+        { "option_id": 3, "text": "Adrenal", "is_correct": false },
+        { "option_id": 4, "text": "Pancreas", "is_correct": false }
+      ],
+      "answer": "Hypothalamus"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The movement of a plant in response to touch is called:",
+      "options": [
+        { "option_id": 1, "text": "Thigmotropism", "is_correct": true },
+        { "option_id": 2, "text": "Phototropism", "is_correct": false },
+        { "option_id": 3, "text": "Geotropism", "is_correct": false },
+        { "option_id": 4, "text": "Hydrotropism", "is_correct": false }
+      ],
+      "answer": "Thigmotropism"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which part of a neuron receives information?",
+      "options": [
+        { "option_id": 1, "text": "Axon", "is_correct": false },
+        { "option_id": 2, "text": "Dendrite", "is_correct": true },
+        { "option_id": 3, "text": "Cell body", "is_correct": false },
+        { "option_id": 4, "text": "Myelin sheath", "is_correct": false }
+      ],
+      "answer": "Dendrite"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "How many pairs of cranial nerves are present in humans?",
+      "options": [
+        { "option_id": 1, "text": "12", "is_correct": true },
+        { "option_id": 2, "text": "31", "is_correct": false },
+        { "option_id": 3, "text": "24", "is_correct": false },
+        { "option_id": 4, "text": "43", "is_correct": false }
+      ],
+      "answer": "12"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which hormone is secreted by the pineal gland?",
+      "options": [
+        { "option_id": 1, "text": "Melatonin", "is_correct": true },
+        { "option_id": 2, "text": "Insulin", "is_correct": false },
+        { "option_id": 3, "text": "Thyroxine", "is_correct": false },
+        { "option_id": 4, "text": "Adrenaline", "is_correct": false }
+      ],
+      "answer": "Melatonin"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The process of translocation in plants requires energy from:",
+      "options": [
+        { "option_id": 1, "text": "Sunlight", "is_correct": false },
+        { "option_id": 2, "text": "ATP", "is_correct": true },
+        { "option_id": 3, "text": "Glucose", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "ATP"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following is a waste product useful to humans?",
+      "options": [
+        { "option_id": 1, "text": "Urea", "is_correct": false },
+        { "option_id": 2, "text": "Gum", "is_correct": true },
+        { "option_id": 3, "text": "Ammonia", "is_correct": false },
+        { "option_id": 4, "text": "Uric acid", "is_correct": false }
+      ],
+      "answer": "Gum"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which part of the brain controls artistic abilities and creativity?",
+      "options": [
+        { "option_id": 1, "text": "Left hemisphere", "is_correct": false },
+        { "option_id": 2, "text": "Right hemisphere", "is_correct": true },
+        { "option_id": 3, "text": "Cerebellum", "is_correct": false },
+        { "option_id": 4, "text": "Medulla oblongata", "is_correct": false }
+      ],
+      "answer": "Right hemisphere"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The hormone that contracts the uterus during childbirth is:",
+      "options": [
+        { "option_id": 1, "text": "Oxytocin", "is_correct": true },
+        { "option_id": 2, "text": "Prolactin", "is_correct": false },
+        { "option_id": 3, "text": "Oestrogen", "is_correct": false },
+        { "option_id": 4, "text": "Progesterone", "is_correct": false }
+      ],
+      "answer": "Oxytocin"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which plant shows growth-irrelevant movement?",
+      "options": [
+        { "option_id": 1, "text": "Touch-me-not (Mimosa)", "is_correct": true },
+        { "option_id": 2, "text": "Sunflower", "is_correct": false },
+        { "option_id": 3, "text": "Bean plant", "is_correct": false },
+        { "option_id": 4, "text": "Maize", "is_correct": false }
+      ],
+      "answer": "Touch-me-not (Mimosa)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the main role of root pressure?",
+      "options": [
+        { "option_id": 1, "text": "To pull water up during the day", "is_correct": false },
+        { "option_id": 2, "text": "To push water up during the night", "is_correct": true },
+        { "option_id": 3, "text": "To absorb minerals", "is_correct": false },
+        { "option_id": 4, "text": "To store food", "is_correct": false }
+      ],
+      "answer": "To push water up during the night"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a part of the human excretory system?",
+      "options": [
+        { "option_id": 1, "text": "Kidneys", "is_correct": false },
+        { "option_id": 2, "text": "Ureters", "is_correct": false },
+        { "option_id": 3, "text": "Lungs", "is_correct": false },
+        { "option_id": 4, "text": "Heart", "is_correct": true }
+      ],
+      "answer": "Heart"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "The hormone thymosin is secreted by which gland?",
+      "options": [
+        { "option_id": 1, "text": "Thymus", "is_correct": true },
+        { "option_id": 2, "text": "Thyroid", "is_correct": false },
+        { "option_id": 3, "text": "Adrenal", "is_correct": false },
+        { "option_id": 4, "text": "Pancreas", "is_correct": false }
+      ],
+      "answer": "Thymus"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What protects the central nervous system from shock?",
+      "options": [
+        { "option_id": 1, "text": "Meninges", "is_correct": false },
+        { "option_id": 2, "text": "Cerebrospinal fluid", "is_correct": true },
+        { "option_id": 3, "text": "Skull", "is_correct": false },
+        { "option_id": 4, "text": "Vertebral column", "is_correct": false }
+      ],
+      "answer": "Cerebrospinal fluid"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of these is a chemotropic movement in plants?",
+      "options": [
+        { "option_id": 1, "text": "Root growing towards water", "is_correct": false },
+        { "option_id": 2, "text": "Shoot growing towards light", "is_correct": false },
+        { "option_id": 3, "text": "Pollen tube growing towards ovule", "is_correct": true },
+        { "option_id": 4, "text": "Tendril coiling around a support", "is_correct": false }
+      ],
+      "answer": "Pollen tube growing towards ovule"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "How many nephrons are approximately present in each kidney?",
+      "options": [
+        { "option_id": 1, "text": "10 lakh", "is_correct": true },
+        { "option_id": 2, "text": "1 lakh", "is_correct": false },
+        { "option_id": 3, "text": "1 million", "is_correct": false },
+        { "option_id": 4, "text": "10 million", "is_correct": false }
+      ],
+      "answer": "10 lakh"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which plant hormone is effective in preventing growth and causing leaf wilting?",
+      "options": [
+        { "option_id": 1, "text": "Auxin", "is_correct": false },
+        { "option_id": 2, "text": "Gibberellin", "is_correct": false },
+        { "option_id": 3, "text": "Cytokinin", "is_correct": false },
+        { "option_id": 4, "text": "Abscisic acid", "is_correct": true }
+      ],
+      "answer": "Abscisic acid"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the process of removing waste or harmful substances from the body called?",
+      "options": [],
+      "answer": "Excretion"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the two types of conducting tissues in plants.",
+      "options": [],
+      "answer": "Xylem and Phloem"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the role of guard cells?",
+      "options": [],
+      "answer": "They control the opening and closing of stomata."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Define translocation in plants.",
+      "options": [],
+      "answer": "It is the transport of food and other materials in plants, carried out by the phloem."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Where is urine stored in the human body?",
+      "options": [],
+      "answer": "In the urinary bladder."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Name the structural and functional unit of the nervous system.",
+      "options": [],
+      "answer": "Neuron or nerve cell."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is a reflex action?",
+      "options": [],
+      "answer": "An immediate and involuntary response to a stimulus."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Which gland secretes insulin?",
+      "options": [],
+      "answer": "Pancreas (Beta cells)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the main function of the cerebellum?",
+      "options": [],
+      "answer": "Coordination of voluntary movements and maintaining body balance."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Name the hormone that stimulates milk production.",
+      "options": [],
+      "answer": "Prolactin."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are the two systems responsible for control and coordination in humans?",
+      "options": [],
+      "answer": "Nervous system and Endocrine system."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How do plants excrete gaseous waste?",
+      "options": [],
+      "answer": "Through diffusion via stomata and lenticels."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the myelin sheath?",
+      "options": [],
+      "answer": "It insulates the axon and speeds up the conduction of nerve impulses."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which mineral is essential for the formation of chlorophyll in plants?",
+      "options": [],
+      "answer": "Magnesium."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is homeostasis?",
+      "options": [],
+      "answer": "It is the state of steady internal conditions maintained by the body (a state of equilibrium)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name the plant that shows a trap to catch insects.",
+      "options": [],
+      "answer": "Venus fly trap."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the difference between sensory and motor neurons?",
+      "options": [],
+      "answer": "Sensory neurons carry impulses from receptors to the CNS, while motor neurons carry impulses from the CNS to effectors."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is the surface of the cerebrum folded into convolutions?",
+      "options": [],
+      "answer": "To increase the surface area to accommodate more nerve cells."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which part of the nephron filters blood?",
+      "options": [],
+      "answer": "Glomerulus within Bowman's capsule."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name the hormone that regulates the water level in the body.",
+      "options": [],
+      "answer": "Antidiuretic hormone (ADH) or Vasopressin."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What causes the itching sensation when cutting elephant's foot or arum leaves?",
+      "options": [],
+      "answer": "Needle-shaped crystals of calcium oxalate called raphides."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the main function of the medulla oblongata?",
+      "options": [],
+      "answer": "To control involuntary activities like heartbeat, breathing, and blood circulation."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How many pairs of spinal nerves are there in humans?",
+      "options": [],
+      "answer": "31 pairs."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the chemical used to stain xylem in the root pressure experiment?",
+      "options": [],
+      "answer": "Safranin or Eosin."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which plant's flower opens at night?",
+      "options": [],
+      "answer": "Tuberose (Polyanthus)."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the term for growth movements in plants in response to gravity?",
+      "options": [],
+      "answer": "Gravitropism or Geotropism."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name the fluid that fills the space between meninges.",
+      "options": [],
+      "answer": "Cerebrospinal fluid."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the function of parathyroid hormone?",
+      "options": [],
+      "answer": "It controls the metabolism of calcium and phosphorus."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is less urine produced in summer compared to monsoon?",
+      "options": [],
+      "answer": "Due to increased water loss through sweating, the body conserves water by producing less urine."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the name of the thread-like structure at the end of the spinal cord?",
+      "options": [],
+      "answer": "Filum terminale."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain how root pressure helps in the transportation of water in plants.",
+      "options": [],
+      "answer": "Root cells absorb water and minerals from the soil, becoming turgid. These turgid cells exert pressure on adjacent cells, creating root pressure. This pressure pushes the water column up through the xylem, helping in water transport, especially during the night when transpiration pull is low."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the process of transpiration and its significance in plants.",
+      "options": [],
+      "answer": "Transpiration is the loss of water vapour from plant leaves through stomata. It creates a transpiration pull that helps in the upward movement of water and minerals from roots to leaves. It also aids in absorption and distribution, cools the plant, and maintains turgor pressure."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "How does excretion occur in plants? Why is it considered simpler than in animals?",
+      "options": [],
+      "answer": "Plants excrete waste by storing it in vacuoles of leaf cells, flowers, fruits, or bark, which later fall off. Gaseous waste diffuses out. There is no specialized excretory organ. It is simpler because most waste is stored and removed passively, unlike animals which have complex systems to actively remove waste."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the structure and function of a nephron in the human excretory system.",
+      "options": [],
+      "answer": "A nephron consists of Bowman’s capsule, glomerulus, proximal tubule, loop of Henle, distal tubule, and collecting duct. Blood is filtered in the glomerulus, useful substances are reabsorbed in the tubules, and waste forms urine. It is the functional unit that removes urea and maintains water and salt balance."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Differentiate between tropic movements and nastic movements in plants with examples.",
+      "options": [],
+      "answer": "Tropic movements are directional growth responses to stimuli (e.g., phototropism – shoot towards light). Nastic movements are non-directional and independent of stimulus direction (e.g., folding of Mimosa leaves on touch). Tropisms are growth-related, while nastic movements are often due to changes in turgor pressure."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the pathway of a nerve impulse from stimulus to response.",
+      "options": [],
+      "answer": "Stimulus is detected by receptors. Sensory neurons carry the impulse to the CNS (spinal cord/brain). The CNS processes the information. Motor neurons carry the response impulse to effectors (muscles/glands), which execute the action. Synapses allow transmission between neurons using neurotransmitters."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Compare and contrast nervous control and hormonal control in humans.",
+      "options": [],
+      "answer": "Nervous control involves electrical impulses via neurons; it is fast, short-lived, and precise. Hormonal control involves chemicals (hormones) via blood; it is slow, long-lasting, and widespread. Both systems work together for coordination, but nerves act on specific targets, while hormones affect many cells."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the role of the pituitary gland as the 'master gland'.",
+      "options": [],
+      "answer": "The pituitary gland secretes hormones that regulate other endocrine glands. For example, it secretes TSH (stimulates thyroid), ACTH (stimulates adrenal), FSH and LH (control gonads), and growth hormone. It is controlled by the hypothalamus, making it a central coordinator of the endocrine system."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What is dialysis? When and why is it necessary?",
+      "options": [],
+      "answer": "Dialysis is an artificial process to remove nitrogenous wastes from blood when kidneys fail. It uses a machine to filter blood, mimicking kidney function. It is necessary to prevent the accumulation of toxins like urea, which can be fatal if not removed from the body."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "How does the autonomic nervous system function? Give examples of its actions.",
+      "options": [],
+      "answer": "The autonomic nervous system controls involuntary functions of internal organs. It has two divisions: sympathetic (prepares for 'fight or flight' – increases heart rate) and parasympathetic (promotes 'rest and digest' – slows heart rate). Examples include heartbeat regulation, digestion, and breathing rate control."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Describe the transportation of food in plants through phloem (translocation).",
+      "options": [],
+      "answer": "Food (sucrose) produced in leaves is transported via phloem to all plant parts. ATP provides energy for loading sucrose into phloem, increasing osmotic pressure. Water enters, creating pressure that pushes sap to areas of lower pressure (sink). This process allows bidirectional movement as per plant needs."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Why is coordination important in living organisms? Explain with an example.",
+      "options": [],
+      "answer": "Coordination ensures that different organ systems work together harmoniously in response to internal and external changes. For example, during exercise, the nervous system increases heart and breathing rates (via hormones like adrenaline) to supply more oxygen and glucose to muscles, while also removing excess heat through sweating."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain how plant hormones influence growth and development.",
+      "options": [],
+      "answer": "Plant hormones regulate growth and responses. Auxin promotes cell elongation and phototropism. Gibberellin stimulates stem elongation and seed germination. Cytokinin promotes cell division. Abscisic acid inhibits growth and causes stomatal closure. Ethylene promotes fruit ripening and leaf fall. They work together to coordinate plant life cycles."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "What are the functions of the cerebrum, cerebellum, and medulla oblongata?",
+      "options": [],
+      "answer": "Cerebrum controls voluntary actions, intelligence, memory, and sensory processing. Cerebellum coordinates voluntary movements and maintains posture and balance. Medulla oblongata controls involuntary vital functions like heartbeat, breathing, and blood pressure. Together, they ensure proper body functioning and response to the environment."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How do reflex actions protect the body? Give an example and explain the pathway.",
+      "options": [],
+      "answer": "Reflex actions provide quick, automatic protection. Example: Touching a hot object. Pain receptors in skin send impulse via sensory neuron to spinal cord. Interneuron processes it and sends impulse via motor neuron to arm muscles, causing withdrawal. This happens before the brain perceives pain, preventing severe injury."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Describe the endocrine glands involved in regulating blood glucose levels.",
+      "options": [],
+      "answer": "The pancreas regulates blood glucose. Alpha cells secrete glucagon, which raises blood sugar by converting glycogen to glucose in the liver. Beta cells secrete insulin, which lowers blood sugar by promoting glucose uptake and glycogen storage. These hormones work antagonistically to maintain homeostasis."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "How do plants coordinate without a nervous system?",
+      "options": [],
+      "answer": "Plants use hormones (like auxin, gibberellin) and electrochemical impulses for coordination. Hormones regulate growth and responses to stimuli (tropisms). Electrical signals can travel through cells to trigger responses, such as leaf folding in Mimosa. This allows plants to adapt to light, gravity, touch, and chemicals."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Explain the concept of homeostasis and its importance.",
+      "options": [],
+      "answer": "Homeostasis is the maintenance of a stable internal environment despite external changes. It is crucial for optimal enzyme function and cell survival. Examples include maintaining body temperature, blood pH, and glucose levels. The nervous and endocrine systems work together to detect changes and initiate corrective responses."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "What are the differences between excretion in plants and humans?",
+      "options": [],
+      "answer": "In plants, excretion is passive: wastes are stored and removed by shedding parts or diffusion. No specialized organs exist. In humans, excretion is active: specialized organs (kidneys, skin, lungs) remove wastes like urea, CO2, and salts. Humans produce more nitrogenous waste due to higher metabolic rates."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Describe the experiment to demonstrate root pressure in plants.",
+      "options": [],
+      "answer": "Take a small plant with intact roots, wash them, and place in water stained with safranin/eosin. After 2–3 hours, observe the stem and leaf veins. The stain will be seen in xylem vessels due to root pressure pushing the coloured water upwards. Cutting a stem cross-section and viewing under a microscope confirms xylem staining."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How does the human brain process information from sensory organs?",
+      "options": [],
+      "answer": "Sensory organs detect stimuli and send impulses via sensory neurons to specific brain areas. The thalamus relays most sensory data to the cerebral cortex. The cortex interprets the information (e.g., visual cortex for sight, auditory cortex for sound). The brain integrates this with memory and sends motor commands via motor neurons for response."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What is the significance of transpiration pull in tall trees?",
+      "options": [],
+      "answer": "In tall trees, root pressure alone cannot lift water to great heights. Transpiration pull, created by water loss from leaves, generates strong tension in the xylem column. Cohesion and adhesion of water molecules allow this continuous column to be pulled upwards against gravity, enabling water transport to the top of the tree."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the role of hormones in secondary sexual characteristic development.",
+      "options": [],
+      "answer": "Testosterone (from testes) promotes male characteristics like beard growth, deep voice, and muscle development. Oestrogen (from ovaries) promotes female characteristics like breast development and hip widening. These hormones are released during puberty under the influence of pituitary gonadotropins (FSH and LH), leading to sexual maturation."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "How do kidneys maintain water and electrolyte balance in the body?",
+      "options": [],
+      "answer": "Kidneys filter blood and reabsorb needed water and electrolytes (like Na+, K+, Cl-) back into the bloodstream under hormonal control. Antidiuretic hormone (ADH) increases water reabsorption when the body is dehydrated. Aldosterone increases sodium reabsorption. Excess water and electrolytes are excreted in urine to maintain homeostasis."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Describe the adaptations of insectivorous plants for nutrition.",
+      "options": [],
+      "answer": "Insectivorous plants like Venus flytrap and Drosera grow in nitrogen-deficient soil. They have modified leaves as traps: sticky tentacles (Drosera) or hinged lobes (Venus flytrap) to catch insects. They secrete digestive enzymes to break down the prey and absorb nutrients, especially nitrogen, to supplement their photosynthetic nutrition."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "What happens if the medulla oblongata is injured? Why?",
+      "options": [],
+      "answer": "Injury to the medulla oblongata can be fatal because it controls vital involuntary functions such as heartbeat, breathing, and blood pressure. Damage disrupts these processes, leading to cardiac arrest, respiratory failure, or severe blood pressure drop, which are incompatible with life without immediate medical intervention."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "How does the endocrine system respond to stress?",
+      "options": [],
+      "answer": "During stress, the hypothalamus stimulates the pituitary to release ACTH, which triggers the adrenal glands to secrete adrenaline and cortisol. Adrenaline increases heart rate, blood pressure, and energy supply. Cortisol increases blood glucose and suppresses non-essential functions like digestion and immunity, preparing the body for 'fight or flight'."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Explain the importance of cerebrospinal fluid.",
+      "options": [],
+      "answer": "Cerebrospinal fluid (CSF) cushions the brain and spinal cord against mechanical shocks. It supplies nutrients and removes waste from nervous tissue. It also helps maintain stable pressure and chemical environment for proper neuronal function. CSF circulates through ventricles and the subarachnoid space, providing essential protection and support."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Compare xylem and phloem in terms of structure and function.",
+      "options": [],
+      "answer": "Xylem consists of dead, hollow tracheids and vessels for upward transport of water and minerals. It provides mechanical strength. Phloem consists of living sieve tubes and companion cells for bidirectional transport of organic nutrients (food). Xylem transport is passive (via transpiration pull and root pressure), while phloem transport is active (requires energy)."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "How do plants and humans achieve coordination differently?",
+      "options": [],
+      "answer": "Plants use hormones and slow electrochemical signals for coordination, resulting in growth movements (tropisms) and nastic movements. They lack a dedicated nervous system. Humans use a fast nervous system (electrical impulses via neurons) and an endocrine system (chemical hormones via blood) for rapid responses, complex behavior, and homeostasis."
+    }
+  ]
+}

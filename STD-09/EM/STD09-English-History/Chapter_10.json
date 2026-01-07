@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.History.10",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Changing Life : 2"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which Indian cricket captain led the team to victory in the 1983 World Cup?",
+      "options": [
+        { "option_id": 1, "text": "Sunil Gavaskar", "is_correct": false },
+        { "option_id": 2, "text": "Kapil Dev", "is_correct": true },
+        { "option_id": 3, "text": "Sayyad Kirmani", "is_correct": false },
+        { "option_id": 4, "text": "Sandip Patil", "is_correct": false }
+      ],
+      "answer": "Kapil Dev"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which language has been gaining importance in India due to globalization after 1990?",
+      "options": [
+        { "option_id": 1, "text": "Punjabi", "is_correct": false },
+        { "option_id": 2, "text": "French", "is_correct": false },
+        { "option_id": 3, "text": "English", "is_correct": true },
+        { "option_id": 4, "text": "Hindi", "is_correct": false }
+      ],
+      "answer": "English"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was the first Indian woman to win an Olympic medal?",
+      "options": [
+        { "option_id": 1, "text": "P. T. Usha", "is_correct": false },
+        { "option_id": 2, "text": "Karnam Malleshwari", "is_correct": true },
+        { "option_id": 3, "text": "Sania Mirza", "is_correct": false },
+        { "option_id": 4, "text": "Saina Nehwal", "is_correct": false }
+      ],
+      "answer": "Karnam Malleshwari"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In which year did India win the 'Benson and Hedges' World cricket trophy?",
+      "options": [
+        { "option_id": 1, "text": "1983", "is_correct": false },
+        { "option_id": 2, "text": "1985", "is_correct": true },
+        { "option_id": 3, "text": "1990", "is_correct": false },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What has replaced mythological and historical themes in modern Indian theatre according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Musicals", "is_correct": false },
+        { "option_id": 2, "text": "Political and social subjects", "is_correct": true },
+        { "option_id": 3, "text": "Children's plays", "is_correct": false },
+        { "option_id": 4, "text": "Silent theatre", "is_correct": false }
+      ],
+      "answer": "Political and social subjects"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the current trend in the duration of movies as compared to earlier times?",
+      "options": [
+        { "option_id": 1, "text": "Movies have become longer", "is_correct": false },
+        { "option_id": 2, "text": "Movies are now 3-4 hours long", "is_correct": false },
+        { "option_id": 3, "text": "Movies are now one or one and a half hours long", "is_correct": true },
+        { "option_id": 4, "text": "There is no change in duration", "is_correct": false }
+      ],
+      "answer": "Movies are now one or one and a half hours long"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which medium proved its popularity in India through the telecast of serials like Ramayana and Mahabharat?",
+      "options": [
+        { "option_id": 1, "text": "Radio", "is_correct": false },
+        { "option_id": 2, "text": "Newspapers", "is_correct": false },
+        { "option_id": 3, "text": "Theatre", "is_correct": false },
+        { "option_id": 4, "text": "Television", "is_correct": true }
+      ],
+      "answer": "Television"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What has replaced the concept of one screen in one cinema hall?",
+      "options": [
+        { "option_id": 1, "text": "Drive-in cinemas", "is_correct": false },
+        { "option_id": 2, "text": "Multiplexes", "is_correct": true },
+        { "option_id": 3, "text": "Single-screen theatres", "is_correct": false },
+        { "option_id": 4, "text": "Mobile cinema vans", "is_correct": false }
+      ],
+      "answer": "Multiplexes"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which sport did Geet Sethi excel in at the global level?",
+      "options": [
+        { "option_id": 1, "text": "Cricket", "is_correct": false },
+        { "option_id": 2, "text": "Snooker/Billiards", "is_correct": true },
+        { "option_id": 3, "text": "Weightlifting", "is_correct": false },
+        { "option_id": 4, "text": "Badminton", "is_correct": false }
+      ],
+      "answer": "Snooker/Billiards"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What was a significant change in newspaper printing over time?",
+      "options": [
+        { "option_id": 1, "text": "They became black and white", "is_correct": false },
+        { "option_id": 2, "text": "They reduced in size", "is_correct": false },
+        { "option_id": 3, "text": "Colour printing became common", "is_correct": true },
+        { "option_id": 4, "text": "They stopped printing advertisements", "is_correct": false }
+      ],
+      "answer": "Colour printing became common"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which private media house entered India in 1998 and changed news telecasts?",
+      "options": [
+        { "option_id": 1, "text": "CNN", "is_correct": false },
+        { "option_id": 2, "text": "BBC", "is_correct": false },
+        { "option_id": 3, "text": "STAR (Satellite Television Asia Region)", "is_correct": true },
+        { "option_id": 4, "text": "Doordarshan", "is_correct": false }
+      ],
+      "answer": "STAR (Satellite Television Asia Region)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why is it necessary to nurture Indian dialects according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "To increase the number of official languages", "is_correct": false },
+        { "option_id": 2, "text": "To prevent losing an important part of our heritage", "is_correct": true },
+        { "option_id": 3, "text": "To replace English", "is_correct": false },
+        { "option_id": 4, "text": "To make them global languages", "is_correct": false }
+      ],
+      "answer": "To prevent losing an important part of our heritage"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What was the impact of Geet Sethi's success in billiards/snooker?",
+      "options": [
+        { "option_id": 1, "text": "It made the game popular and newspapers began reporting on it", "is_correct": true },
+        { "option_id": 2, "text": "It led to the decline of cricket", "is_correct": false },
+        { "option_id": 3, "text": "It caused the government to ban the sport", "is_correct": false },
+        { "option_id": 4, "text": "It made him a film star", "is_correct": false }
+      ],
+      "answer": "It made the game popular and newspapers began reporting on it"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is one of the new objectives of newspapers mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Only reporting government news", "is_correct": false },
+        { "option_id": 2, "text": "Raising funds for drought and flood-affected people", "is_correct": true },
+        { "option_id": 3, "text": "Promoting only sports events", "is_correct": false },
+        { "option_id": 4, "text": "Stopping all advertisements", "is_correct": false }
+      ],
+      "answer": "Raising funds for drought and flood-affected people"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which technology expanded the scope of Indian TV channels further?",
+      "options": [
+        { "option_id": 1, "text": "Black and white cameras", "is_correct": false },
+        { "option_id": 2, "text": "Use of OB (Outdoor Broadcasting) vans", "is_correct": true },
+        { "option_id": 3, "text": "Silent films", "is_correct": false },
+        { "option_id": 4, "text": "Radio broadcasts", "is_correct": false }
+      ],
+      "answer": "Use of OB (Outdoor Broadcasting) vans"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In which Olympic year did Karnam Malleshwari win a medal?",
+      "options": [
+        { "option_id": 1, "text": "1996", "is_correct": false },
+        { "option_id": 2, "text": "2000", "is_correct": true },
+        { "option_id": 3, "text": "2004", "is_correct": false },
+        { "option_id": 4, "text": "2008", "is_correct": false }
+      ],
+      "answer": "2000"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What was the consequence of the linguistic variety in Nagaland for Kohima radio station?",
+      "options": [
+        { "option_id": 1, "text": "It broadcast only in Hindi", "is_correct": false },
+        { "option_id": 2, "text": "It had to broadcast in 25 languages", "is_correct": true },
+        { "option_id": 3, "text": "It stopped broadcasting", "is_correct": false },
+        { "option_id": 4, "text": "It broadcast only in English", "is_correct": false }
+      ],
+      "answer": "It had to broadcast in 25 languages"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a stated objective of newspapers in the early post-independence period?",
+      "options": [
+        { "option_id": 1, "text": "Shape public opinion", "is_correct": false },
+        { "option_id": 2, "text": "Keep a watch over the government machinery", "is_correct": false },
+        { "option_id": 3, "text": "Only entertain with comics", "is_correct": true },
+        { "option_id": 4, "text": "Give impetus to industry and commerce through advertisements", "is_correct": false }
+      ],
+      "answer": "Only entertain with comics"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is a negative consequence of cricket's popularity mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "It led to the decline of indigenous Indian games", "is_correct": true },
+        { "option_id": 2, "text": "It caused unemployment", "is_correct": false },
+        { "option_id": 3, "text": "It reduced newspaper sales", "is_correct": false },
+        { "option_id": 4, "text": "It stopped the making of sports films", "is_correct": false }
+      ],
+      "answer": "It led to the decline of indigenous Indian games"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of these is a change seen in Indian movies as per the chapter?",
+      "options": [
+        { "option_id": 1, "text": "They only use Indian locations", "is_correct": false },
+        { "option_id": 2, "text": "They reflect contemporary themes and use foreign shooting locales", "is_correct": true },
+        { "option_id": 3, "text": "They are all musicals", "is_correct": false },
+        { "option_id": 4, "text": "They are no longer produced in regional languages", "is_correct": false }
+      ],
+      "answer": "They reflect contemporary themes and use foreign shooting locales"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "How has the movie industry's status changed economically?",
+      "options": [
+        { "option_id": 1, "text": "It has declined", "is_correct": false },
+        { "option_id": 2, "text": "It has attained the status of an industry employing crores of people", "is_correct": true },
+        { "option_id": 3, "text": "It is now run only by the government", "is_correct": false },
+        { "option_id": 4, "text": "It is limited to one state", "is_correct": false }
+      ],
+      "answer": "It has attained the status of an industry employing crores of people"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What was a major change in news telecasts brought about by private channels?",
+      "options": [
+        { "option_id": 1, "text": "They became more uninteresting and monotonous", "is_correct": false },
+        { "option_id": 2, "text": "They underwent a sea change from early propagandist news", "is_correct": true },
+        { "option_id": 3, "text": "They stopped news bulletins", "is_correct": false },
+        { "option_id": 4, "text": "They broadcast only in black and white", "is_correct": false }
+      ],
+      "answer": "They underwent a sea change from early propagandist news"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the trend regarding the number of dialects of Indian languages?",
+      "options": [
+        { "option_id": 1, "text": "It is increasing", "is_correct": false },
+        { "option_id": 2, "text": "It is on the decline", "is_correct": true },
+        { "option_id": 3, "text": "It has remained the same", "is_correct": false },
+        { "option_id": 4, "text": "All dialects have become official languages", "is_correct": false }
+      ],
+      "answer": "It is on the decline"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of these is a factor helping Hindi to unite the country?",
+      "options": [
+        { "option_id": 1, "text": "Hindi movies", "is_correct": true },
+        { "option_id": 2, "text": "Government orders", "is_correct": false },
+        { "option_id": 3, "text": "Decline of English", "is_correct": false },
+        { "option_id": 4, "text": "Sports events", "is_correct": false }
+      ],
+      "answer": "Hindi movies"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the chapter's view on English becoming the language of livelihood?",
+      "options": [
+        { "option_id": 1, "text": "It should be completely rejected", "is_correct": false },
+        { "option_id": 2, "text": "It is necessary to ensure it does not endanger regional languages", "is_correct": true },
+        { "option_id": 3, "text": "It has no impact on job opportunities", "is_correct": false },
+        { "option_id": 4, "text": "It is less important than French", "is_correct": false }
+      ],
+      "answer": "It is necessary to ensure it does not endanger regional languages"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of these is a change in the way movies are distributed and screened?",
+      "options": [
+        { "option_id": 1, "text": "Movies now run for 100 weeks in one hall", "is_correct": false },
+        { "option_id": 2, "text": "One movie runs simultaneously in thousands of halls in India and abroad", "is_correct": true },
+        { "option_id": 3, "text": "Movies are only released in one city", "is_correct": false },
+        { "option_id": 4, "text": "Movies are no longer released abroad", "is_correct": false }
+      ],
+      "answer": "One movie runs simultaneously in thousands of halls in India and abroad"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What kind of reporting changed the world of Indian news channels in 1991?",
+      "options": [
+        { "option_id": 1, "text": "Live visual reporting of the Iraq war by CNN", "is_correct": true },
+        { "option_id": 2, "text": "Radio commentary of sports", "is_correct": false },
+        { "option_id": 3, "text": "Newspaper editorials", "is_correct": false },
+        { "option_id": 4, "text": "Theatre plays", "is_correct": false }
+      ],
+      "answer": "Live visual reporting of the Iraq war by CNN"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What has happened to the scope of television over time?",
+      "options": [
+        { "option_id": 1, "text": "It has shrunk to only entertainment", "is_correct": false },
+        { "option_id": 2, "text": "It was enlarged to include educational programmes and detailed news reporting", "is_correct": true },
+        { "option_id": 3, "text": "It is now only for children", "is_correct": false },
+        { "option_id": 4, "text": "It broadcasts only in the morning", "is_correct": false }
+      ],
+      "answer": "It was enlarged to include educational programmes and detailed news reporting"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What challenge do local/taluka level newspapers face now?",
+      "options": [
+        { "option_id": 1, "text": "Tough competition from state-level newspaper chains", "is_correct": true },
+        { "option_id": 2, "text": "Government bans", "is_correct": false },
+        { "option_id": 3, "text": "Lack of news", "is_correct": false },
+        { "option_id": 4, "text": "No readers", "is_correct": false }
+      ],
+      "answer": "Tough competition from state-level newspaper chains"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "In which sport did Sunil Gavaskar break the record for maximum centuries in test cricket?",
+      "options": [
+        { "option_id": 1, "text": "Football", "is_correct": false },
+        { "option_id": 2, "text": "Hockey", "is_correct": false },
+        { "option_id": 3, "text": "Cricket", "is_correct": true },
+        { "option_id": 4, "text": "Tennis", "is_correct": false }
+      ],
+      "answer": "Cricket"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the current trend in movie themes according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "They reflect contemporary themes like politics, social events, industry, and technology", "is_correct": true },
+        { "option_id": 2, "text": "They only focus on mythology", "is_correct": false },
+        { "option_id": 3, "text": "They avoid social issues", "is_correct": false },
+        { "option_id": 4, "text": "They are only about foreign cultures", "is_correct": false }
+      ],
+      "answer": "They reflect contemporary themes like politics, social events, industry, and technology"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "How has television impacted the connection within the country?",
+      "options": [
+        { "option_id": 1, "text": "It has disconnected people", "is_correct": false },
+        { "option_id": 2, "text": "Every nook and corner of the country is now connected", "is_correct": true },
+        { "option_id": 3, "text": "It is only available in cities", "is_correct": false },
+        { "option_id": 4, "text": "It has reduced political awareness", "is_correct": false }
+      ],
+      "answer": "Every nook and corner of the country is now connected"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is the chapter's suggestion for gathering information about dialects of Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Only through elders", "is_correct": false },
+        { "option_id": 2, "text": "Using tools like encyclopedias, Google, Wikipedia, and research articles", "is_correct": true },
+        { "option_id": 3, "text": "Ignoring them", "is_correct": false },
+        { "option_id": 4, "text": "Only through government surveys", "is_correct": false }
+      ],
+      "answer": "Using tools like encyclopedias, Google, Wikipedia, and research articles"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What has changed in the form and technique of theatre plays?",
+      "options": [
+        { "option_id": 1, "text": "They are now very long, running all night", "is_correct": false },
+        { "option_id": 2, "text": "Their form, technique, and duration have all changed", "is_correct": true },
+        { "option_id": 3, "text": "They are only performed by professionals", "is_correct": false },
+        { "option_id": 4, "text": "They are only in musical form", "is_correct": false }
+      ],
+      "answer": "Their form, technique, and duration have all changed"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of these is a positive role newspapers now play beyond news reporting?",
+      "options": [
+        { "option_id": 1, "text": "Helping meritorious students from lower income groups for higher education", "is_correct": true },
+        { "option_id": 2, "text": "Manufacturing goods", "is_correct": false },
+        { "option_id": 3, "text": "Running political campaigns only", "is_correct": false },
+        { "option_id": 4, "text": "Producing films", "is_correct": false }
+      ],
+      "answer": "Helping meritorious students from lower income groups for higher education"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why are Indians at the forefront in learning English?",
+      "options": [
+        { "option_id": 1, "text": "It opens doors to multiple job opportunities", "is_correct": true },
+        { "option_id": 2, "text": "It is the easiest language", "is_correct": false },
+        { "option_id": 3, "text": "It is the only official language", "is_correct": false },
+        { "option_id": 4, "text": "It is mandatory by law", "is_correct": false }
+      ],
+      "answer": "It opens doors to multiple job opportunities"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What has happened to 'musicals' in Indian theatre?",
+      "options": [
+        { "option_id": 1, "text": "They have increased in importance", "is_correct": false },
+        { "option_id": 2, "text": "They have declined in importance", "is_correct": true },
+        { "option_id": 3, "text": "They are the only form now", "is_correct": false },
+        { "option_id": 4, "text": "They are banned", "is_correct": false }
+      ],
+      "answer": "They have declined in importance"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is a common feature in the screening of English movies in India now?",
+      "options": [
+        { "option_id": 1, "text": "They are dubbed in all Indian languages", "is_correct": false },
+        { "option_id": 2, "text": "They have Hindi subtitles", "is_correct": true },
+        { "option_id": 3, "text": "They are shown without sound", "is_correct": false },
+        { "option_id": 4, "text": "They are not screened", "is_correct": false }
+      ],
+      "answer": "They have Hindi subtitles"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the overall impact of the changes in television as per the chapter?",
+      "options": [
+        { "option_id": 1, "text": "The whole country started changing", "is_correct": true },
+        { "option_id": 2, "text": "Only cities developed", "is_correct": false },
+        { "option_id": 3, "text": "Cultural heritage was lost", "is_correct": false },
+        { "option_id": 4, "text": "Newspapers became obsolete", "is_correct": false }
+      ],
+      "answer": "The whole country started changing"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "In which field did India's representation begin to rise in various Olympic games?",
+      "options": [
+        { "option_id": 1, "text": "Only cricket", "is_correct": false },
+        { "option_id": 2, "text": "Hockey, badminton, tennis, swimming, weightlifting, and archery", "is_correct": true },
+        { "option_id": 3, "text": "Only football", "is_correct": false },
+        { "option_id": 4, "text": "Only track and field", "is_correct": false }
+      ],
+      "answer": "Hockey, badminton, tennis, swimming, weightlifting, and archery"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Name any four official languages of India mentioned in the chapter.",
+      "answer": "Hindi, Bengali, Marathi, Tamil (or any other from the list: Assamese, Gujarati, Kamad, Kashmiri, Malayalam, Odiya, Punjabi, Sanskrit, Telugu, Urdu, Konkani, Manipuri, Nepali, Sindhi)."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Who led the Indian cricket team to its first World Cup victory in 1983?",
+      "answer": "Kapil Dev."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Which Indian sportsperson achieved global excellence in snooker/billiards?",
+      "answer": "Geet Sethi."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Who was the first Indian woman to win an Olympic medal and in which year?",
+      "answer": "Karnam Malleshwari in the 2000 Olympics."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What has happened to the number of dialects of Indian languages?",
+      "answer": "Their number is on the decline."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Name the private media house that entered India in 1998 and changed news telecasts.",
+      "answer": "STAR (Satellite Television Asia Region)."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the negative impact of cricket's popularity mentioned in the chapter?",
+      "answer": "It led to the decline of indigenous Indian games."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "How have movies helped Hindi to unite the country?",
+      "answer": "Hindi has reached everywhere through the medium of Hindi movies."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What has replaced the earlier mythological and historical themes in modern Indian theatre?",
+      "answer": "Political and social subjects."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What technological advancement expanded the scope of Indian TV channels?",
+      "answer": "Use of OB (Outdoor Broadcasting) vans."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why is English gaining ground in India according to the chapter?",
+      "answer": "Due to globalization after 1990, as it opens doors to multiple job opportunities."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the current average duration of movies as compared to the past?",
+      "answer": "One or one and a half hours (compared to earlier 3-4 hours)."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one new social objective of modern newspapers mentioned in the chapter.",
+      "answer": "Raising funds for drought and flood-affected people. (Or: Helping meritorious students from lower income groups for higher education)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What did the live telecast of Ramayana and Mahabharat prove?",
+      "answer": "It proved the popularity of the television medium."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which international event's live visual reporting by CNN in 1991 changed Indian news channels?",
+      "answer": "The Iraq war."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What has given way to multiplexes in cinema viewing?",
+      "answer": "The concept of one screen and one cinema hall."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the economic status achieved by movie production?",
+      "answer": "It has attained the status of an industry."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "In which year did India win the 'Benson and Hedges' World cricket trophy?",
+      "answer": "1985."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How many languages did Kohima radio station have to broadcast in due to linguistic variety?",
+      "answer": "25 languages."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the main reason cited for nurturing Indian dialects?",
+      "answer": "To prevent losing an important part of our heritage."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the trend in the colour of newspapers over time?",
+      "answer": "Colour printing became common, replacing earlier black and white."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one sport in which India's representation in the Olympics has risen.",
+      "answer": "Weightlifting (or hockey, badminton, tennis, swimming, archery)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What kind of people now take part in dramas according to the chapter?",
+      "answer": "People from different walks of life."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What has happened to movies in regional languages?",
+      "answer": "The movie industry in regional languages is also thriving."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which channel showed the live visual reporting of the Iraq war in 1991?",
+      "answer": "CNN."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the chapter's advice regarding English and regional languages?",
+      "answer": "Ensure that the growing importance of English does not endanger the existence of regional languages."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What has changed about the locales for film shooting?",
+      "answer": "Film shooting locales have moved abroad."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is one way newspapers have become an inseparable part of our lives?",
+      "answer": "By organizing or sponsoring cultural programmes. (Or by raising funds for social causes)."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What replaced black and white television?",
+      "answer": "Coloured television."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which cricket record did Sunil Gavaskar break in 1983?",
+      "answer": "The earlier record of maximum centuries in test cricket."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the changes that have taken place in the field of Indian theatre and films as described in the chapter.",
+      "answer": "Indian theatre and films have undergone significant changes. In theatre, early plays were very long, sometimes running all night, and were often mythological or historical. Now, the form, technique, and duration have changed. Musicals have declined in importance, replaced by plays on political and social subjects, with participation from people of all walks of life. In films, the age of black and white movies transitioned to colour. Movies now reflect contemporary themes like politics, social events, industry, and technology. Shooting locales have moved abroad, and movies are shorter (1-1.5 hours vs. 3-4 hours). The distribution model changed from single-screen halls to multiplexes, with simultaneous releases in thousands of halls in India and abroad, transforming the movie economy into a major industry employing crores. Regional language film industries are also thriving."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Discuss the evolution and changing role of newspapers in post-independence India.",
+      "answer": "Newspapers in post-independence India have evolved significantly in form and function. Initially, they were black and white and had multiple objectives: reporting daily news, shaping public opinion, directing it towards constructive work, providing public education, watching over the government, and boosting industry/commerce through advertisements. They were seen as mouthpieces of talukas or districts. Over time, colour printing became common. Their role expanded beyond news to include social responsibility: raising funds for drought/flood victims, helping meritorious low-income students pursue higher education, and organizing/sponsoring cultural programmes. They now face tough competition from state-level newspaper chains but have overall become more active and an inseparable part of community life, reflecting and influencing the changing lifestyle."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "How has the medium of television transformed in India since its introduction?",
+      "answer": "Television in India has transformed dramatically since its post-independence introduction. It began as black and white, with limited programmes in fixed time-slots. Gradually, its scope widened to include educational programmes, news bulletins, and detailed reporting of tours by the President and Prime Minister. The massive popularity of serials like Ramayana and Mahabharat in the late 1980s proved its reach. A major turning point was in 1991 when CNN's live visual reporting of the Iraq war showcased the power of real-time global news. Another shift came in 1998 with the entry of private channel STAR, which ended the monotonous, propagandist style of early news telecasts. Technological advancements like OB vans, modern studios, and improved presentation brought transparency and variety. Today, television connects every corner of the country, profoundly impacting politics and society, essentially changing the whole nation."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the statement: 'Cricket began to be played all over India, to a greater or smaller extent.' What were the reasons and consequences?",
+      "answer": "The statement highlights cricket's nationwide spread following India's historic 1983 World Cup win under Kapil Dev. This victory instantly made cricket immensely popular across the country. Further success, like winning the 'Benson and Hedges' trophy in 1985 and records by players like Sunil Gavaskar, solidified its status. Live telecasts of matches made the sport accessible to millions. However, this surge in cricket's popularity had a significant consequence: it was often at the cost of indigenous Indian games, which began to decline as cricket dominated sports culture, media coverage, and public interest. Thus, while cricket united the nation and created a massive sporting culture, it inadvertently marginalised traditional Indian sports."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Why is it necessary to preserve the dialects of Indian languages, and what is the current trend?",
+      "answer": "It is necessary to preserve the dialects of Indian languages because they constitute an important part of our cultural and linguistic heritage. Each dialect carries unique expressions, folklore, and traditions that reflect the identity of its community. Losing them would mean erasing a valuable piece of India's diverse cultural mosaic. However, the current trend is worrying, as the number of these dialects is on the decline. Factors like urbanization, the dominance of major languages and English, and lack of institutional support contribute to this erosion. Timely steps, such as documentation, promotion in education, and use in local media, are essential to nurture and keep these dialects alive for future generations."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the impact of globalization on languages in India, focusing on English and Hindi.",
+      "answer": "Globalization, especially after 1990, has had a dual impact on languages in India. On one hand, English has gained tremendous ground, becoming the 'language of livelihood' as it opens doors to global job opportunities in IT, business, and services. Indians are at the forefront of learning English. On the other hand, Hindi has also strengthened its unifying role, primarily through the pervasive reach of Hindi movies, which have made the language familiar across diverse regions. The chapter cautions that while the rise of English is economically beneficial, it is necessary to ensure this process does not endanger the existence of rich regional languages and their dialects. Thus, globalization has created a dynamic where English ascends as a professional lingua franca, while Hindi continues to culturally unite, both coexisting with and sometimes challenging the vast ecosystem of India's official and regional languages."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "How have Indian sportspersons like Geet Sethi and Karnam Malleshwari contributed to changing the sports scenario in India?",
+      "answer": "Indian sportspersons like Geet Sethi and Karnam Malleshwari have played pivotal roles in changing the sports scenario by achieving global excellence and breaking barriers. Geet Sethi brought snooker/billiards, a lesser-known sport, into the national spotlight. By winning national and international championships multiple times, he made the sport popular, leading newspapers to start covering it and opening a new field for aspiring Indian sportspersons. Karnam Malleshwari made history as the first Indian woman to win an Olympic medal (weightlifting, 2000). Her achievement shattered stereotypes, inspired a generation of women athletes, and signaled India's rising representation in diverse Olympic sports like badminton, tennis, and archery. Both athletes, through their dedication and success, elevated the status of their respective sports and sportspersons in India, moving beyond the pre-independence era where only a few games were widely known."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain how the 'economy of movies is changing' in India.",
+      "answer": "The economy of movies in India has undergone a radical transformation. Previously, a movie would run for long periods, like 100 weeks, in a single cinema hall. The business model was based on a slow, localized release. Now, the concept has shifted dramatically. A single movie is released simultaneously in thousands of cinema halls across India and abroad. This massive scale of distribution, coupled with the rise of multiplexes replacing single-screen halls, has changed the revenue dynamics. Production and distribution have become highly coordinated, capital-intensive ventures. The movie industry has attained the formal status of an industry, employing crores of people directly and indirectly. This change means bigger budgets, wider markets, faster returns on investment, and a more corporate structure, making film production a significant economic sector rather than just an artistic endeavour."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Compare and contrast the early post-independence objectives of newspapers with their modern roles.",
+      "answer": "In the early post-independence period, newspapers had clearly defined nation-building objectives: to report daily news, shape and guide public opinion towards constructive work, carry out public education, keep a vigilant watch on the government machinery, and stimulate industry and commerce through advertisements. They were often local mouthpieces. In contrast, modern newspapers, while retaining their core function of news reporting, have significantly expanded their social role. Beyond being information channels, they now actively engage in social welfare: raising funds for disaster relief, sponsoring education for underprivileged students, and organizing cultural events. They have embraced colour printing and face intense competition from larger chains. Thus, they have evolved from being primarily opinion-shapers and watchdogs to becoming integrated community partners involved in direct social action, reflecting a more proactive and holistic approach to their place in society."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "What was the significance of the live telecast of serials like Ramayana and Mahabharat, and the CNN coverage of the Iraq war for Indian television?",
+      "answer": "The live telecast of serials like Ramayana and Mahabharat in the late 1980s was a landmark event for Indian television. It demonstrated the medium's unparalleled power to capture the nation's imagination, with a majority of people glued to their TV sets. This proved television's potential as a mass entertainment and cultural unifier. In stark contrast, the CNN live visual reporting of the Iraq war in 1991 was a different kind of watershed. It exposed Indian audiences to real-time, global, visual news broadcasting, changing their expectations from news. It showed that news could be immediate, visual, and gripping, moving beyond the dull, state-controlled bulletins. This event, followed by the entry of private channels like STAR in 1998, completely revolutionized Indian news telecasts, leading to the competitive, technology-driven, and transparent 24-hour news landscape we see today. One showcased cultural reach, the other redefined news journalism."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "How has the participation of people in theatre changed, and what does it indicate about Indian society?",
+      "answer": "Earlier, theatre was often the domain of specific communities or dedicated troupes. According to the chapter, a significant change is that now 'people from different walks of life take part in the dramas.' This indicates a democratization of the performing arts in Indian society. It suggests that theatre is no longer an elitist or niche activity but has become more inclusive and accessible. Individuals from various professions, backgrounds, and social strata are participating, whether as actors, writers, or crew. This reflects a broader societal trend where cultural expression and creative pursuits are seen as viable and enriching for everyone, not just specialists. It points towards a more engaged civil society where art is used to discuss relevant political and social themes, making theatre a mirror and a platform for diverse voices within the community."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Analyze the challenges and opportunities for regional languages in the context of the rising importance of Hindi and English.",
+      "answer": "Regional languages in India face a complex set of challenges and opportunities due to the rising prominence of Hindi and English. The challenge is twofold: from Hindi, which unites the country through cinema and administration, and from English, which is seen as the key to economic mobility in a globalized world. This dual pressure can marginalize regional languages and their dialects, leading to a decline in their use, especially among younger generations. The opportunity, however, lies in the thriving regional language film industries and literature, which show a strong base of cultural consumption. To survive, regional languages need proactive nurturing through education, media, and official use. They must adapt by incorporating modern vocabulary while preserving their core. The goal should be a balanced multilingualism where proficiency in English or Hindi for practical purposes coexists with pride and fluency in one's mother tongue, ensuring linguistic diversity remains India's strength, not a casualty of progress."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Describe the changes in the duration, themes, and global reach of Indian movies as mentioned in the chapter.",
+      "answer": "Indian movies have witnessed profound changes in duration, themes, and global reach. In terms of duration, films have become much shorter, typically lasting one to one and a half hours, compared to the earlier norm of three to four hours. Thematically, there has been a major shift from mythological and historical stories to contemporary subjects that reflect current politics, social issues, industry, and technological changes. Regarding global reach, movie shooting locales now frequently include foreign countries, exposing viewers to international settings. More importantly, the distribution model has globalized; a film is now released simultaneously in thousands of cinema halls across India and abroad. Hindi movies compete with global cinema, reaching every corner of the world. These changes indicate a cinema that is more concise, relevant to modern life, and integrated into the global entertainment market."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "What does the chapter suggest about the relationship between sports achievements and the popularity of a sport? Illustrate with examples.",
+      "answer": "The chapter clearly illustrates that major sports achievements directly lead to a surge in the sport's popularity across the country. The prime example is cricket. India's unexpected victory in the 1983 Cricket World Cup under Kapil Dev created a national wave of enthusiasm, making cricket immensely popular overnight. Subsequent successes, like the 1985 'Benson and Hedges' win, solidified this status. Similarly, individual excellence can popularize a niche sport. Geet Sethi's world championships in snooker/billiards brought media attention and public interest to a game previously less followed, making it a new field for aspiring players. These examples show that when Indian athletes or teams succeed on the world stage, it captures the public imagination, increases media coverage, inspires participation, and elevates the sport's status in the national consciousness, often at the expense of other traditional games."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How has the entry of private satellite television channels changed the landscape of news broadcasting in India?",
+      "answer": "The entry of private satellite television channels, exemplified by STAR's entry in 1998, revolutionized news broadcasting in India. Before this, news telecasts were primarily the domain of the state broadcaster, often perceived as uninteresting, monotonous, and propagandist. Private channels introduced fierce competition, compelling a complete overhaul of news presentation. They brought in a new language of broadcasting—more dynamic, interactive, and viewer-friendly. Investment in latest technology, like advanced studios and OB (Outdoor Broadcasting) vans, enabled live and on-the-ground reporting from anywhere. This introduced transparency, immediacy, and variety into news coverage. The 24-hour news cycle began, with multiple perspectives on events. This shift not only made news more engaging but also empowered citizens with real-time information, significantly increased media choices, and profoundly impacted the political discourse by holding power to constant scrutiny."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the linguistic diversity of India as indicated by the example of Nagaland and its implication for media like radio.",
+      "answer": "The example of Nagaland vividly illustrates India's immense linguistic diversity. A list from 1961 shows numerous Naga languages and dialects like Angami, Sema, Lotha, Konyak, etc., each spoken by thousands. This diversity presented a practical challenge for mass communication. The Kohima radio station, to effectively serve its audience, had to broadcast in a staggering 25 languages, which included English, Hindi, various Naga dialects, and 16 distinct Naga languages. This highlights the complex task faced by media in a multilingual society: to be inclusive and accessible, they must cater to numerous linguistic groups, requiring substantial resources, translation efforts, and segmented programming. It underscores that 'national' media in India must often operate on a hyper-local linguistic level to truly connect with the people, showcasing the country's unique plurality where unity coexists with deep-rooted linguistic variety."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What steps can be taken to nurture Indian dialects as suggested by the chapter's perspective?",
+      "answer": "While the chapter states that timely steps should be taken to nurture dialects, it doesn't list specific measures. However, based on its concern for preserving heritage, logical steps can be inferred. Firstly, systematic documentation and academic study of dialects is crucial to record them before they vanish. Secondly, they can be introduced in primary education in their respective regions, even if informally, to instill pride and knowledge in children. Thirdly, local media (community radio, local newspapers) can allocate space for dialect programming and content. Fourthly, cultural festivals and government schemes can promote folk arts and literature in these dialects. Fifthly, technology (like apps, digital archives) can be leveraged to create accessible resources. The key is creating an ecosystem where dialects are seen as valuable and viable, not obsolete, ensuring they are used, celebrated, and passed on to future generations."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "How does the chapter portray the changing connection between mass media (newspapers, TV) and community life?",
+      "answer": "The chapter portrays a deepening and more interactive connection between mass media and community life. Initially, newspapers and TV were largely one-way channels: informing, educating, and shaping opinion. Over time, this relationship has become more symbiotic and engaged. Newspapers have moved beyond mere reporting to actively participating in community welfare—raising disaster funds and sponsoring education—thus embedding themselves in social problem-solving. Television, by connecting every corner of the country, has created a shared national experience, whether through epic serials or breaking news, influencing community discourse and politics. Both mediums have transitioned from being distant informers to being woven into the fabric of daily life, responding to and driving social change. They no longer just reflect community life; they actively shape it, support it, and provide a platform for its expression, making them inseparable from the modern Indian societal experience."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Discuss the impact of live telecasts of sports events on the popularity and economy of sports in India.",
+      "answer": "Live telecasts of sports events have had a transformative impact on their popularity and the surrounding economy in India. The chapter mentions that live telecasts of full five-day or one-day cricket matches became available. This made sports accessible to millions of households, creating a massive fan base and turning players into national celebrities. The constant visibility increased sponsorship and advertising revenue dramatically. For cricket, it fueled a multi-billion rupee industry involving broadcasting rights, team franchises, merchandise, and tourism. While the chapter focuses on cricket, the principle applies broadly: live telecasts create a sense of event and shared national participation, boosting viewership ratings. This commercial viability attracts more investment into sports infrastructure, training, and leagues, creating a virtuous cycle where media exposure drives popularity, which in turn drives economic growth in the sports sector, making it a significant entertainment and business enterprise."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "In what ways have Hindi movies become 'global' according to the chapter?",
+      "answer": "According to the chapter, Hindi movies have become 'global' in several key ways. Firstly, they have reached 'every nook and corner of the world,' meaning they have a widespread international audience, particularly in the diaspora and beyond. Secondly, they now directly compete with other 'global' movies in terms of scale, distribution, and audience appeal. Thirdly, their production values have internationalized, with shooting locales moving abroad, showcasing foreign landscapes to viewers. Fourthly, their themes often resonate with universal emotions and stories, even while being distinctly Indian. Finally, their distribution model is global; a film is released simultaneously in thousands of halls in India and abroad. This global presence means Hindi cinema is no longer just a national industry but a significant player in the worldwide entertainment market, influencing and being influenced by global cinematic trends."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What does the decline of 'musicals' in theatre and the shortening of movie lengths indicate about changing audience preferences?",
+      "answer": "The decline of 'musicals' in theatre and the shortening of movie lengths indicate a significant shift in audience preferences towards faster-paced, more concise, and thematically relevant content. The move away from long, song-and-dance-heavy musicals in theatre suggests that audiences now gravitate towards narratives that directly engage with contemporary political and social issues, preferring substance and dialogue over spectacle alone. Similarly, the reduction of movie lengths from 3-4 hours to 1-1.5 hours reflects a change in consumption patterns, likely influenced by busier lifestyles, shorter attention spans, and the desire for tighter storytelling. Audiences today seem to value efficiency and relevance; they want entertainment that is impactful, mirrors their realities, and respects their time. These trends point to a more discerning and time-conscious viewership that prioritizes meaningful content and narrative economy."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "How has the film industry's transformation affected employment in India?",
+      "answer": "The transformation of the film industry into a major economic sector has had a massive positive impact on employment in India. The chapter explicitly states that the industry 'now employs crores of people.' This employment is not limited to actors and directors but spans a vast ecosystem. It includes technicians (camera, sound, editing), artists (makeup, costume, set design), production and distribution staff, marketing professionals, and theatre management personnel in multiplexes. The rise of film-related journalism, dubbing, subtitling, and digital streaming platforms has created further jobs. The industry's growth fuels ancillary sectors like hospitality, tourism (at shooting locations), and retail (merchandise). By attaining the status of a formal industry, it has provided stable livelihoods for millions, contributing significantly to the service and creative economy and showcasing how cultural production can be a powerful engine for job creation."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the significance of the year 1991 and 1998 in the history of Indian television.",
+      "answer": "The years 1991 and 1998 are pivotal milestones in the history of Indian television. In 1991, the CNN channel's live visual reporting of the Iraq war was beamed into Indian homes. This was a revelation, exposing audiences to the power of real-time, global, visual news broadcasting. It shattered the existing paradigm of state-controlled, delayed news bulletins and raised public expectations, planting the seed for a news revolution. In 1998, the private media house STAR (Satellite Television Asia Region) entered the Indian market. Its entry broke the monopoly of Doordarshan and introduced competition, which led to a 'sea change' in news telecasts. STAR and subsequent private channels brought in professional production, diverse content, and a consumer-focused approach, ending the 'uninteresting, monotonous and propagandist' era. Together, 1991 showed the potential, and 1998 activated the transformation, leading to the dynamic, multi-channel TV landscape of today."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What is the chapter's overall message about the pace and nature of change in modern Indian life as seen through language, sports, and media?",
+      "answer": "The chapter's overall message is that modern Indian life is undergoing rapid and multifaceted change, driven by globalization, technology, and individual achievements. In language, there's a tension between the unifying force of Hindi cinema, the economic pull of English, and the precarious state of regional dialects. In sports, spectacular successes like the 1983 Cricket World Cup and Olympic medals have popularized specific sports, sometimes at the cost of indigenous games, and elevated athletes to iconic status. In media, newspapers have evolved from opinion-shapers to community partners, while television has revolutionized from a state-controlled medium to a dynamic force connecting the nation and reshaping politics. The underlying theme is that change is pervasive, accelerating, and interconnected across cultural, social, and economic spheres, transforming how Indians communicate, entertain themselves, and perceive the world, ultimately leading to a constantly evolving national identity."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "How does the chapter illustrate the concept of 'unity in diversity' through the lens of language and media?",
+      "answer": "The chapter beautifully illustrates 'unity in diversity' through India's linguistic landscape and media's response to it. The diversity is starkly shown by the example of Nagaland, with its 16+ languages requiring a radio station to broadcast in 25 tongues. Yet, unity emerges through shared mediums. Hindi, via its movies, reaches everywhere, acting as a cultural bridge. English, due to globalization, becomes a common professional language. Media itself adapts to this diversity (like Kohima Radio) while also creating unifying national experiences (like national news broadcasts or cricket matches on TV). Thus, India's strength lies in its plurality of expressions (diversity), while its media and popular culture provide threads (Hindi films, national sports events, TV serials) that weave these distinct elements into a shared national narrative (unity), showcasing how the nation holds together despite its incredible variety."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Based on the chapter, what future trends can be anticipated for regional languages and their dialects?",
+      "answer": "Based on the chapter, two conflicting future trends can be anticipated for regional languages and their dialects if current trajectories continue. The negative trend is a continued decline in the number and active use of dialects, as they face pressure from dominant languages like Hindi and English. Without intervention, many could become endangered or extinct, eroding linguistic heritage. However, a positive counter-trend is also visible; the chapter notes that the movie industry in regional languages is thriving. This indicates strong cultural demand and economic viability for content in regional languages, which could help sustain them. The future likely hinges on proactive measures. If dialects are documented, promoted in education and local media, and valued as cultural assets, they can survive within a multilingual framework. Otherwise, their sphere may shrink to informal, domestic use, while standardized regional languages and national/international languages dominate public and professional life."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Describe the role of technology in bringing about the changes in television and movies as discussed in the chapter.",
+      "answer": "Technology has been the primary driver of changes in both television and movies. For television, the shift from black and white to colour sets improved the viewing experience. The advent of satellite technology enabled channels like CNN and STAR to broadcast internationally and into Indian homes, breaking geographical barriers. The use of OB (Outdoor Broadcasting) vans and advanced studio technology allowed for live, on-location reporting, bringing transparency and immediacy. In movies, technology enabled the transition from black and white to colour film. More significantly, advancements in film distribution and projection technology facilitated the rise of multiplexes and the simultaneous nationwide (and worldwide) release of films. Digital technology likely underpins subtitling and dubbing for foreign films. Thus, technological progress in broadcasting, recording, and distribution has been fundamental in expanding the reach, improving the quality, and changing the economics of both television and cinema in India."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What does the rise of multiplexes and simultaneous film releases indicate about the business strategy of the movie industry?",
+      "answer": "The rise of multiplexes and simultaneous film releases indicates a strategic shift in the movie industry's business model towards maximizing revenue through scale, control, and speed. Simultaneous releases across thousands of screens in India and abroad represent a 'blockbuster' strategy. It aims to create a massive opening weekend, capitalize on nationwide marketing campaigns, combat piracy by reducing the time gap between territories, and generate quick cash flow to recover high production costs. Multiplexes complement this by offering a premium, comfortable viewing experience with multiple screening options in one location, increasing per-capita spending on food and beverages. Together, these strategies move away from the old model of slow, staggered releases dependent on word-of-mouth. The new approach is centralized, high-risk, high-reward, and focused on dominating the market quickly, treating a film more like a consumable product launched with a big bang rather than a cultural artefact allowed to find its audience gradually."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How have the themes of Indian movies evolved to reflect the society they are part of?",
+      "answer": "Indian movies have evolved thematically to become a more direct reflection of contemporary society. Earlier films often dealt with mythology, history, or simple family melodramas. As per the chapter, modern movies now 'reflect contemporary themes.' They actively engage with current political scenarios, social events and issues, industrial developments, and technological changes. This shift indicates that cinema has become more responsive to and reflective of the real-world concerns of its audience. By portraying politics, social conflicts, economic aspirations, and the impact of technology, movies hold a mirror to society, facilitating discussion and sometimes even driving social change. This evolution shows the film industry's growing confidence and maturity in handling complex subjects, moving from pure escapism to a form of popular commentary that resonates with the lived experiences of a rapidly changing India."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the key changes discussed in the chapter across the fields of language, sports, theatre, films, newspapers, and television, and their collective impact on Indian life.",
+      "answer": "The chapter details sweeping changes across various facets of Indian life. In language, Hindi unites through cinema while English rises due to globalization, but regional dialects decline. In sports, cricket's World Cup win made it a national obsession, often overshadowing indigenous games, and individual athletes like Geet Sethi and Karnam Malleshwari glorified niche and Olympic sports. Theatre shifted from long musicals to shorter plays on political/social themes with broader public participation. Films transformed from long, mythological tales to shorter, contemporary stories shot globally and released simultaneously worldwide, becoming a major industry. Newspapers evolved from black-and-white opinion-shapers to colour-printed community partners involved in social welfare. Television revolutionized from limited state broadcasts to a vibrant, private channel-dominated medium connecting the nation. Collectively, these changes, driven by globalization, technology, and individual excellence, have made Indian life more interconnected, fast-paced, media-saturated, and globally influenced, while also raising challenges about preserving cultural heritage in the face of homogenizing trends."
+    }
+  ]
+}

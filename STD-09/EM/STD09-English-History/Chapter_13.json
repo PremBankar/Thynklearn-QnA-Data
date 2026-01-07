@@ -1,0 +1,912 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Political_Science.13",
+    "standard": "9",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "India’s Defence System"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the primary national interest of a country as mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Economic prosperity", "is_correct": false },
+        { "option_id": 2, "text": "Cultural dominance", "is_correct": false },
+        { "option_id": 3, "text": "Defence from foreign aggression and internal unrest", "is_correct": true },
+        { "option_id": 4, "text": "Expansion of territory", "is_correct": false }
+      ],
+      "answer": "Defence from foreign aggression and internal unrest"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a reason for conflict between nations?",
+      "options": [
+        { "option_id": 1, "text": "Boundary disputes", "is_correct": false },
+        { "option_id": 2, "text": "Influx of refugees", "is_correct": false },
+        { "option_id": 3, "text": "Sharing of cultural heritage", "is_correct": true },
+        { "option_id": 4, "text": "Not following international treaties", "is_correct": false }
+      ],
+      "answer": "Sharing of cultural heritage"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "According to the chapter, a nation's first duty and responsibility is to:",
+      "options": [
+        { "option_id": 1, "text": "Expand its economy", "is_correct": false },
+        { "option_id": 2, "text": "Keep its security systems always well-prepared and ready", "is_correct": true },
+        { "option_id": 3, "text": "Dominate global politics", "is_correct": false },
+        { "option_id": 4, "text": "Spread its ideology", "is_correct": false }
+      ],
+      "answer": "Keep its security systems always well-prepared and ready"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why is national security closely connected with geography?",
+      "options": [
+        { "option_id": 1, "text": "Because geography determines a nation's wealth", "is_correct": false },
+        { "option_id": 2, "text": "Because national security is more likely to be endangered by nations who are geographically closer", "is_correct": true },
+        { "option_id": 3, "text": "Because geography defines a nation's culture", "is_correct": false },
+        { "option_id": 4, "text": "Because all nations have the same geography", "is_correct": false }
+      ],
+      "answer": "Because national security is more likely to be endangered by nations who are geographically closer"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does an arms race lead to, according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Increased sense of security", "is_correct": false },
+        { "option_id": 2, "text": "Economic prosperity", "is_correct": false },
+        { "option_id": 3, "text": "Further increase in the sense of insecurity", "is_correct": true },
+        { "option_id": 4, "text": "Global peace", "is_correct": false }
+      ],
+      "answer": "Further increase in the sense of insecurity"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the main message of the passage on Page 2 about resolving international conflicts?",
+      "options": [
+        { "option_id": 1, "text": "War is the best solution to conflicts", "is_correct": false },
+        { "option_id": 2, "text": "Every nation should try to resolve conflicts peacefully through negotiations", "is_correct": true },
+        { "option_id": 3, "text": "Military might should be the primary focus", "is_correct": false },
+        { "option_id": 4, "text": "Isolationism strengthens security", "is_correct": false }
+      ],
+      "answer": "Every nation should try to resolve conflicts peacefully through negotiations"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which force is responsible for protecting India's air space?",
+      "options": [
+        { "option_id": 1, "text": "The Army", "is_correct": false },
+        { "option_id": 2, "text": "The Navy", "is_correct": false },
+        { "option_id": 3, "text": "The Air Force", "is_correct": true },
+        { "option_id": 4, "text": "The Coast Guard", "is_correct": false }
+      ],
+      "answer": "The Air Force"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The post of 'Chief of Defence Staff' was created in which year?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1962", "is_correct": false },
+        { "option_id": 3, "text": "2019", "is_correct": true },
+        { "option_id": 4, "text": "2022", "is_correct": false }
+      ],
+      "answer": "2019"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who is the supreme commander of the Indian defence forces?",
+      "options": [
+        { "option_id": 1, "text": "The Prime Minister", "is_correct": false },
+        { "option_id": 2, "text": "The Defence Minister", "is_correct": false },
+        { "option_id": 3, "text": "The President of India", "is_correct": true },
+        { "option_id": 4, "text": "The Chief of Defence Staff", "is_correct": false }
+      ],
+      "answer": "The President of India"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the primary characteristic of paramilitary forces?",
+      "options": [
+        { "option_id": 1, "text": "They are completely military forces", "is_correct": false },
+        { "option_id": 2, "text": "They are completely civil forces", "is_correct": false },
+        { "option_id": 3, "text": "They are neither completely military nor completely civil forces", "is_correct": true },
+        { "option_id": 4, "text": "They are only active during wartime", "is_correct": false }
+      ],
+      "answer": "They are neither completely military nor completely civil forces"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which paramilitary force is primarily responsible for protecting India's oceanic borders?",
+      "options": [
+        { "option_id": 1, "text": "Border Security Force", "is_correct": false },
+        { "option_id": 2, "text": "Central Reserve Police Force", "is_correct": false },
+        { "option_id": 3, "text": "Coast Guard", "is_correct": true },
+        { "option_id": 4, "text": "Rapid Action Force", "is_correct": false }
+      ],
+      "answer": "Coast Guard"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which force is tasked with moving quickly in incidents like bomb blasts or riots to bring normalcy?",
+      "options": [
+        { "option_id": 1, "text": "Border Security Force", "is_correct": false },
+        { "option_id": 2, "text": "Central Reserve Police Force", "is_correct": false },
+        { "option_id": 3, "text": "Rapid Action Force", "is_correct": true },
+        { "option_id": 4, "text": "Home Guards", "is_correct": false }
+      ],
+      "answer": "Rapid Action Force"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the purpose of establishing the National Cadet Corps (NCC)?",
+      "options": [
+        { "option_id": 1, "text": "To train professional soldiers", "is_correct": false },
+        { "option_id": 2, "text": "To instill among students the love of discipline and military training", "is_correct": true },
+        { "option_id": 3, "text": "To manage disaster relief", "is_correct": false },
+        { "option_id": 4, "text": "To protect coastal areas", "is_correct": false }
+      ],
+      "answer": "To instill among students the love of discipline and military training"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "During which period was the Home Guards organisation established?",
+      "options": [
+        { "option_id": 1, "text": "Post-independence period", "is_correct": false },
+        { "option_id": 2, "text": "Pre-independence period", "is_correct": true },
+        { "option_id": 3, "text": "During the 1962 war", "is_correct": false },
+        { "option_id": 4, "text": "In the 21st century", "is_correct": false }
+      ],
+      "answer": "Pre-independence period"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a task of the Home Guards?",
+      "options": [
+        { "option_id": 1, "text": "Regulate traffic", "is_correct": false },
+        { "option_id": 2, "text": "Help during floods and earthquakes", "is_correct": false },
+        { "option_id": 3, "text": "Conduct foreign espionage", "is_correct": true },
+        { "option_id": 4, "text": "Supply essential services during strikes", "is_correct": false }
+      ],
+      "answer": "Conduct foreign espionage"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which country did India go to war with in 1962?",
+      "options": [
+        { "option_id": 1, "text": "Pakistan", "is_correct": false },
+        { "option_id": 2, "text": "China", "is_correct": true },
+        { "option_id": 3, "text": "Bangladesh", "is_correct": false },
+        { "option_id": 4, "text": "United States", "is_correct": false }
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which internal movement is mentioned as a threat to India's security?",
+      "options": [
+        { "option_id": 1, "text": "Green Revolution", "is_correct": false },
+        { "option_id": 2, "text": "Naxalite movement", "is_correct": true },
+        { "option_id": 3, "text": "IT Revolution", "is_correct": false },
+        { "option_id": 4, "text": "White Revolution", "is_correct": false }
+      ],
+      "answer": "Naxalite movement"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is described as the biggest challenge to India's internal security?",
+      "options": [
+        { "option_id": 1, "text": "Economic inequality", "is_correct": false },
+        { "option_id": 2, "text": "Regionalism", "is_correct": false },
+        { "option_id": 3, "text": "Terrorism", "is_correct": true },
+        { "option_id": 4, "text": "Casteism", "is_correct": false }
+      ],
+      "answer": "Terrorism"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "When did the concept of security broaden to include human security?",
+      "options": [
+        { "option_id": 1, "text": "During the colonial period", "is_correct": false },
+        { "option_id": 2, "text": "During the Cold War", "is_correct": false },
+        { "option_id": 3, "text": "In the post-Cold War period", "is_correct": true },
+        { "option_id": 4, "text": "During the World Wars", "is_correct": false }
+      ],
+      "answer": "In the post-Cold War period"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does human security necessitate?",
+      "options": [
+        { "option_id": 1, "text": "Only military strength", "is_correct": false },
+        { "option_id": 2, "text": "The protection of the rights of minorities and weaker sections", "is_correct": true },
+        { "option_id": 3, "text": "Isolation from global affairs", "is_correct": false },
+        { "option_id": 4, "text": "Focus only on economic growth", "is_correct": false }
+      ],
+      "answer": "The protection of the rights of minorities and weaker sections"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of the following is mentioned as a factor of human security related to health?",
+      "options": [
+        { "option_id": 1, "text": "Protecting human beings from diseases like AIDS, corona", "is_correct": true },
+        { "option_id": 2, "text": "Building more hospitals", "is_correct": false },
+        { "option_id": 3, "text": "Increasing the number of doctors", "is_correct": false },
+        { "option_id": 4, "text": "Promoting alternative medicine", "is_correct": false }
+      ],
+      "answer": "Protecting human beings from diseases like AIDS, corona"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the rank of the Indian Army in terms of size in the world?",
+      "options": [
+        { "option_id": 1, "text": "First", "is_correct": false },
+        { "option_id": 2, "text": "Third", "is_correct": false },
+        { "option_id": 3, "text": "Seventh", "is_correct": true },
+        { "option_id": 4, "text": "Tenth", "is_correct": false }
+      ],
+      "answer": "Seventh"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which ministry controls the three defence forces of India?",
+      "options": [
+        { "option_id": 1, "text": "Ministry of Home Affairs", "is_correct": false },
+        { "option_id": 2, "text": "Ministry of External Affairs", "is_correct": false },
+        { "option_id": 3, "text": "Ministry of Defence", "is_correct": true },
+        { "option_id": 4, "text": "Ministry of Finance", "is_correct": false }
+      ],
+      "answer": "Ministry of Defence"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the title of the chief of the Indian Navy?",
+      "options": [
+        { "option_id": 1, "text": "General", "is_correct": false },
+        { "option_id": 2, "text": "Admiral", "is_correct": true },
+        { "option_id": 3, "text": "Air Chief Marshal", "is_correct": false },
+        { "option_id": 4, "text": "Field Marshal", "is_correct": false }
+      ],
+      "answer": "Admiral"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which force protects the geographical boundaries of India?",
+      "options": [
+        { "option_id": 1, "text": "The Navy", "is_correct": false },
+        { "option_id": 2, "text": "The Air Force", "is_correct": false },
+        { "option_id": 3, "text": "The Army", "is_correct": true },
+        { "option_id": 4, "text": "The Coast Guard", "is_correct": false }
+      ],
+      "answer": "The Army"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "In a democracy, which leadership is considered superior to military leadership?",
+      "options": [
+        { "option_id": 1, "text": "Corporate leadership", "is_correct": false },
+        { "option_id": 2, "text": "Religious leadership", "is_correct": false },
+        { "option_id": 3, "text": "Civil leadership", "is_correct": true },
+        { "option_id": 4, "text": "Academic leadership", "is_correct": false }
+      ],
+      "answer": "Civil leadership"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of these is a paramilitary force?",
+      "options": [
+        { "option_id": 1, "text": "Research and Analysis Wing (RAW)", "is_correct": false },
+        { "option_id": 2, "text": "Intelligence Bureau (IB)", "is_correct": false },
+        { "option_id": 3, "text": "Central Reserve Police Force (CRPF)", "is_correct": true },
+        { "option_id": 4, "text": "Central Bureau of Investigation (CBI)", "is_correct": false }
+      ],
+      "answer": "Central Reserve Police Force (CRPF)"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the primary task of the Border Security Force (BSF)?",
+      "options": [
+        { "option_id": 1, "text": "Protecting air space", "is_correct": false },
+        { "option_id": 2, "text": "Patrolling the border and preventing smuggling", "is_correct": true },
+        { "option_id": 3, "text": "Regulating traffic in cities", "is_correct": false },
+        { "option_id": 4, "text": "Managing natural disasters", "is_correct": false }
+      ],
+      "answer": "Patrolling the border and preventing smuggling"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the age range for citizens to join the Home Guards?",
+      "options": [
+        { "option_id": 1, "text": "18-25 years", "is_correct": false },
+        { "option_id": 2, "text": "20-35 years", "is_correct": true },
+        { "option_id": 3, "text": "25-40 years", "is_correct": false },
+        { "option_id": 4, "text": "30-50 years", "is_correct": false }
+      ],
+      "answer": "20-35 years"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following is a key internal factor creating instability, as per the chapter?",
+      "options": [
+        { "option_id": 1, "text": "High literacy rate", "is_correct": false },
+        { "option_id": 2, "text": "Economic inequality", "is_correct": true },
+        { "option_id": 3, "text": "Strong federal structure", "is_correct": false },
+        { "option_id": 4, "text": "Technological advancement", "is_correct": false }
+      ],
+      "answer": "Economic inequality"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the relationship between interdependence of nations and peace?",
+      "options": [
+        { "option_id": 1, "text": "More interdependence weakens peace", "is_correct": false },
+        { "option_id": 2, "text": "More interdependence strengthens peace and security", "is_correct": true },
+        { "option_id": 3, "text": "Interdependence has no effect on peace", "is_correct": false },
+        { "option_id": 4, "text": "Less interdependence leads to more peace", "is_correct": false }
+      ],
+      "answer": "More interdependence strengthens peace and security"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why might nations avoid war, according to the passage on Page 2?",
+      "options": [
+        { "option_id": 1, "text": "Fear of cultural loss", "is_correct": false },
+        { "option_id": 2, "text": "Fear of economic losses", "is_correct": true },
+        { "option_id": 3, "text": "Fear of losing sporting events", "is_correct": false },
+        { "option_id": 4, "text": "Fear of diplomatic isolation", "is_correct": false }
+      ],
+      "answer": "Fear of economic losses"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of a training institute for defence personnel mentioned?",
+      "options": [
+        { "option_id": 1, "text": "Indian Institute of Technology (IIT)", "is_correct": false },
+        { "option_id": 2, "text": "National Defence Academy (NDA) at Pune", "is_correct": true },
+        { "option_id": 3, "text": "Indian Administrative Service (IAS) Academy", "is_correct": false },
+        { "option_id": 4, "text": "National Police Academy", "is_correct": false }
+      ],
+      "answer": "National Defence Academy (NDA) at Pune"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What role do paramilitary forces play during peacetime regarding borders?",
+      "options": [
+        { "option_id": 1, "text": "They plan military strategies", "is_correct": false },
+        { "option_id": 2, "text": "They engage in trade negotiations", "is_correct": false },
+        { "option_id": 3, "text": "They protect the country's international borders", "is_correct": true },
+        { "option_id": 4, "text": "They train the regular army", "is_correct": false }
+      ],
+      "answer": "They protect the country's international borders"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is the main aim of terrorism, as described?",
+      "options": [
+        { "option_id": 1, "text": "To achieve political power", "is_correct": false },
+        { "option_id": 2, "text": "To create terror or fear in the minds of common people", "is_correct": true },
+        { "option_id": 3, "text": "To gain economic benefits", "is_correct": false },
+        { "option_id": 4, "text": "To promote a religion", "is_correct": false }
+      ],
+      "answer": "To create terror or fear in the minds of common people"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of these is included in the broader concept of human security?",
+      "options": [
+        { "option_id": 1, "text": "Only military protection from external threats", "is_correct": false },
+        { "option_id": 2, "text": "Providing opportunities for education, health, and development", "is_correct": true },
+        { "option_id": 3, "text": "Focusing solely on economic growth indicators", "is_correct": false },
+        { "option_id": 4, "text": "Prioritizing national interests over individual rights", "is_correct": false }
+      ],
+      "answer": "Providing opportunities for education, health, and development"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What does the concept of human security aim to overcome?",
+      "options": [
+        { "option_id": 1, "text": "Military superiority", "is_correct": false },
+        { "option_id": 2, "text": "Illiteracy, poverty, and superstition", "is_correct": true },
+        { "option_id": 3, "text": "Global trade barriers", "is_correct": false },
+        { "option_id": 4, "text": "Technological gaps", "is_correct": false }
+      ],
+      "answer": "Illiteracy, poverty, and superstition"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "According to the 'Do you agree?' section, what is needed instead of an arms race?",
+      "options": [
+        { "option_id": 1, "text": "Arms control", "is_correct": true },
+        { "option_id": 2, "text": "More military alliances", "is_correct": false },
+        { "option_id": 3, "text": "Increased defense spending", "is_correct": false },
+        { "option_id": 4, "text": "Space militarization", "is_correct": false }
+      ],
+      "answer": "Arms control"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of the following is a responsibility of the Coast Guard?",
+      "options": [
+        { "option_id": 1, "text": "Patrolling the land border with Pakistan", "is_correct": false },
+        { "option_id": 2, "text": "Protecting the fishing occupation within Indian maritime borders", "is_correct": true },
+        { "option_id": 3, "text": "Maintaining law and order in metropolitan cities", "is_correct": false },
+        { "option_id": 4, "text": "Training NCC cadets", "is_correct": false }
+      ],
+      "answer": "Protecting the fishing occupation within Indian maritime borders"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the purpose of establishing research institutions in India's defence system?",
+      "options": [
+        { "option_id": 1, "text": "To study ancient warfare", "is_correct": false },
+        { "option_id": 2, "text": "To promote international tourism", "is_correct": false },
+        { "option_id": 3, "text": "To modernize and update the defence forces", "is_correct": true },
+        { "option_id": 4, "text": "To train foreign military personnel", "is_correct": false }
+      ],
+      "answer": "To modernize and update the defence forces"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define National Security as per the chapter.",
+      "options": [],
+      "answer": "National Security is a nation's first duty to keep its security systems always well-prepared and ready to defend its sovereignty from external aggression or internal unrest."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name two factors that can create conflicts between sovereign nations.",
+      "options": [],
+      "answer": "Boundary disputes and conflicts over water sharing."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What are the three main forces that constitute India's security system?",
+      "options": [],
+      "answer": "The Army, the Navy, and the Air Force."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Who appoints the chiefs of the three defence forces in India?",
+      "options": [],
+      "answer": "The President of India."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Why was the post of 'Chief of Defence Staff' created?",
+      "options": [],
+      "answer": "To maintain coordination between the three defence forces (Army, Navy, Air Force)."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the primary function of the Indian Navy?",
+      "options": [],
+      "answer": "To protect India's coastline."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Name two paramilitary forces mentioned in the chapter.",
+      "options": [],
+      "answer": "Border Security Force (BSF) and Central Reserve Police Force (CRPF)."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the main task of the Central Reserve Police Force (CRPF)?",
+      "options": [],
+      "answer": "To help the administration in various States to maintain law and order."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What type of incidents is the Rapid Action Force (RAF) designed for?",
+      "options": [],
+      "answer": "Incidents of threat to National Security such as bomb blasts or riots."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Who can join the National Cadet Corps (NCC)?",
+      "options": [],
+      "answer": "Boy and girl students from schools and colleges."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "List two tasks of the Home Guards.",
+      "options": [],
+      "answer": "Maintain public security and help people during natural disasters like floods and earthquakes."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one dispute between India and Pakistan.",
+      "options": [],
+      "answer": "The Kashmir issue."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What was a major event in Sino-Indian relations in 1962?",
+      "options": [],
+      "answer": "India went to war with China."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is described as the biggest challenge to India's internal security?",
+      "options": [],
+      "answer": "Terrorism."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does the broader concept of human security focus on?",
+      "options": [],
+      "answer": "It focuses on human-centric thinking, protecting people from dangers and providing opportunities for education, health, and development."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name two challenges to human security mentioned in the chapter.",
+      "options": [],
+      "answer": "Terrorism and pollution/environmental changes causing diseases."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does an arms race increase among nations?",
+      "options": [],
+      "answer": "It increases the sense of insecurity."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How can dialogue between nations be increased, as per the passage?",
+      "options": [],
+      "answer": "Through increased interdependence and creating different platforms for discussions and negotiations."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the title of the chief of the Indian Air Force?",
+      "options": [],
+      "answer": "Air Chief Marshal."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the responsibility of the Air Force?",
+      "options": [],
+      "answer": "To protect India's air space."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the role of paramilitary forces in disaster management?",
+      "options": [],
+      "answer": "They play a role in the management of disasters, whether natural or man-made."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does the Coast Guard prevent along sea routes?",
+      "options": [],
+      "answer": "Smuggling."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the ultimate goal of security, according to the human security concept?",
+      "options": [],
+      "answer": "Security is ultimately for the people."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What internal factors, besides terrorism, create instability in India?",
+      "options": [],
+      "answer": "Religion, regionalism, rebellious movements based on ideology, race-ethnicity, and economic inequality."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does the Border Security Force do to create a sense of security?",
+      "options": [],
+      "answer": "It creates a sense of security in the minds of people living in areas near the border."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does the NCC aim to instill in students?",
+      "options": [],
+      "answer": "Love of discipline and military training."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "During which event might Home Guards supply essential services like milk and water?",
+      "options": [],
+      "answer": "During riots or strikes."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is China accused of trying to establish over India's neighbours?",
+      "options": [],
+      "answer": "Its own hegemony."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a 'military regime'?",
+      "options": [],
+      "answer": "A regime where the military holds political power. (Implied from the context of the 'Find out' activity)"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the suggested alternative to an arms race for avoiding dangers to national security?",
+      "options": [],
+      "answer": "Arms control."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain why national security is closely connected with geography.",
+      "options": [],
+      "answer": "National security is closely connected with geography because threats are more likely to come from nations that are geographically closer. Proximity allows for easier military engagement, border disputes, and immediate political influence. Therefore, a nation must assess threats based on its geographical boundaries and the sources of those threats from neighbouring countries, making geographical assessment a cornerstone of its security strategy."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the structure and command of India's three defence forces.",
+      "options": [],
+      "answer": "India's defence system comprises the Army, Navy, and Air Force. The Army protects land borders, the Navy safeguards the coastline, and the Air Force secures the air space. All three are controlled by the Ministry of Defence. The chiefs—General (Army), Admiral (Navy), and Air Chief Marshal (Air Force)—are appointed by the President, who is the supreme commander. To ensure coordination, the post of Chief of Defence Staff was created in 2019."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Differentiate between military forces and paramilitary forces in India.",
+      "options": [],
+      "answer": "Military forces (Army, Navy, Air Force) are the primary combat units responsible for defending the country from external aggression. Paramilitary forces, like the BSF, CRPF, and Coast Guard, are hybrid forces that support the military. They are not fully military or civil; their tasks include border security during peacetime, internal law and order, disaster management, and protecting vital installations."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Discuss the various internal threats to India's security as mentioned in the chapter.",
+      "options": [],
+      "answer": "India faces multiple internal security threats. These include terrorism, which targets innocent civilians to create fear. Ideological movements like the Naxalite movement challenge state authority. Other factors like religious conflicts, regionalism, caste and ethnic tensions, and significant economic inequality create social instability and unrest, complicating the maintenance of internal peace and security."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Explain the concept of human security and how it differs from traditional national security.",
+      "options": [],
+      "answer": "Human security is a broader, post-Cold War concept that shifts the focus from the security of the state to the security of individuals. While national security emphasizes protecting borders and sovereignty from external military threats, human security is people-centric. It aims to protect individuals from dangers like terrorism, poverty, disease, and environmental degradation, while also ensuring their access to education, health, development, and a dignified life."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Analyze the statement: 'Arms race leads to a further increase in the sense of insecurity.'",
+      "options": [],
+      "answer": "This statement highlights the security dilemma. When one nation increases its military might, neighbouring or rival nations perceive it as a threat and respond by building their own weapons. This cycle of action and reaction—the arms race—does not lead to greater security for anyone. Instead, it fosters mutual suspicion, heightens tensions, and increases the overall sense of insecurity, making conflict more likely and destabilizing the region."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe the role and significance of the National Cadet Corps (NCC) in India.",
+      "options": [],
+      "answer": "The National Cadet Corps (NCC) is a youth organization established to instill discipline, patriotism, and a love for military training among school and college students. By joining the NCC, students learn leadership, teamwork, and civic responsibility. It acts as a foundational platform that can inspire youth to consider careers in the armed forces and creates a large pool of citizens with basic military awareness, contributing to national preparedness."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "How do paramilitary forces contribute to India's internal security and disaster management?",
+      "options": [],
+      "answer": "Paramilitary forces are crucial for India's internal security and disaster response. Forces like the CRPF aid state police in maintaining law and order. The RAF specializes in rapid deployment during riots or terror attacks. During natural disasters like floods or earthquakes, these forces are often first responders, engaged in rescue operations, supplying essentials, and helping restore normalcy, thereby protecting both property and human lives."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What are the main challenges India faces from its neighbours, Pakistan and China?",
+      "options": [],
+      "answer": "India faces persistent challenges from Pakistan and China. With Pakistan, disputes include Kashmir, river water sharing, cross-border infiltration, and the border itself. With China, the primary issue is the unresolved border dispute. Additionally, China's efforts to establish hegemony over other neighbouring countries of India create strategic tensions. India has consistently sought to address these issues through dialogue and negotiation to maintain regional stability."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Why is the principle of civilian control over the military important in a democracy like India?",
+      "options": [],
+      "answer": "In a democracy, civilian control over the military is fundamental. It ensures that the armed forces remain subordinate to the elected government, safeguarding democratic values and preventing military takeovers. The President, as the civilian supreme commander, must consent to decisions of war or peace. This principle reinforces that political leadership, accountable to the people, makes ultimate strategic decisions, keeping the military as a tool of state policy rather than its master."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Summarize the ways in which a nation can safeguard its national security, as outlined in the chapter.",
+      "options": [],
+      "answer": "A nation can safeguard its national security by: 1) Assessing geographical threats from neighbours, 2) Increasing its military might and modernizing defence forces with technology, 3) Building weapon systems and using tech for threat prediction, 4) Seeking support from other nations to manage security threats, and 5) Prioritizing peaceful conflict resolution through dialogue and negotiation to avoid war, which can endanger internal peace."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain the functions of the Border Security Force (BSF) in detail.",
+      "options": [],
+      "answer": "The Border Security Force (BSF) has multiple key functions: It is responsible for guarding India's international land borders during peacetime. Its duties include patrolling the border to prevent illegal crossings and smuggling. It works to create a sense of security among border-area residents. The BSF also plays a role in preventing trans-border crimes and can be deployed for internal security duties and disaster relief when required."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "What measures has India taken to modernize its defence forces and train its personnel?",
+      "options": [],
+      "answer": "India has undertaken several measures for defence modernization and training. It has established research institutions to develop modern technology and weapon systems. Training institutes like the National Defence Academy (NDA) in Pune and the National Defence College (NDC) in Delhi provide comprehensive training to personnel of all ranks. These efforts aim to ensure that the defence forces are competent, updated with modern warfare techniques, and capable of handling contemporary security challenges."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "How does the chapter link environmental issues to the concept of human security?",
+      "options": [],
+      "answer": "The chapter links environmental issues directly to human security by stating that pollution and environmental changes threaten human life. The spread of diseases like AIDS, chikungunya, swine flu, ebola, and corona is presented as a major challenge. Protecting people from such environmental and health hazards is considered a critical factor of human security, emphasizing that security is not just political but also about ensuring a safe and healthy environment for individuals."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Compare and contrast the roles of the Army and the Coast Guard in India's defence system.",
+      "options": [],
+      "answer": "The Indian Army and the Coast Guard have distinct but complementary roles. The Army is responsible for protecting India's land borders from external aggression and handling major land-based threats. The Coast Guard, a paramilitary force, is tasked with protecting India's maritime interests within its Exclusive Economic Zone. Its roles include safeguarding fishermen, preventing smuggling via sea routes, and protecting offshore assets, focusing on maritime security rather than direct warfare."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Discuss the evolution of the security concept from national security to human security.",
+      "options": [],
+      "answer": "The concept of security has evolved significantly. Traditionally, national security focused solely on protecting the state's sovereignty and territorial integrity from external military threats. In the post-Cold War period, this concept broadened into human security. This newer paradigm recognizes that true security is about protecting individuals. It encompasses safety from violence (like terrorism), freedom from want (poverty, disease), and the right to live in dignity, thus making security people-centric rather than just state-centric."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What is the importance of interdependence among nations for peace, as explained in the chapter?",
+      "options": [],
+      "answer": "The chapter explains that greater interdependence among nations strengthens peace and security. When countries are connected through trade, diplomacy, and cultural exchanges, they have more to lose from conflict. This economic and social interdependence creates platforms for continuous dialogue and negotiation. Fear of mutual economic losses discourages nations from resorting to war, making peaceful resolution of disputes not just ideal but also in their practical self-interest."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Describe the composition and purpose of the Home Guards organization.",
+      "options": [],
+      "options": [],
+      "answer": "The Home Guards is a voluntary organization established in the pre-independence period. It comprises citizens, both men and women, aged 20 to 35 years. Its purpose is to assist in national defence and internal security. Their tasks are diverse: maintaining public security, supplying essential services like milk and water during riots or strikes, regulating traffic, and providing crucial help during natural disasters such as floods and earthquakes, acting as a support force for community resilience."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Analyze the statement: 'Resolving conflict by taking recourse to war... brings internal peace into danger.'",
+      "options": [],
+      "answer": "This statement highlights a critical paradox of warfare. While a nation might go to war to defend its external security, the act of war itself can severely destabilize internal peace. War drains economic resources, diverts attention from development, can lead to censorship or suppression of dissent, and may cause significant civilian casualties and displacement. The resulting societal stress and potential for internal conflict mean that the pursuit of external security through war can often undermine the very internal peace and stability it seeks to protect."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What role does the Ministry of Defence play in India's security architecture?",
+      "options": [],
+      "answer": "The Ministry of Defence plays a central administrative and policy-making role in India's security architecture. It is responsible for the management and control of the three armed services: the Army, Navy, and Air Force. The Ministry formulates defence policies, oversees defence budgets and procurements, and coordinates with various departments to ensure the modernization and operational readiness of the forces. It acts as the crucial link between the armed forces and the civilian government, implementing the government's defence directives."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain how terrorism poses a challenge to both national security and human security.",
+      "options": [],
+      "answer": "Terrorism is a dual challenge. For national security, it represents a direct attack on the state's authority, its institutions, and its ability to protect citizens, often with cross-border dimensions. For human security, terrorism targets innocent individuals to create widespread terror and fear, undermining their fundamental right to live safely. It disrupts daily life, damages economies, and erodes social cohesion. Thus, combating terrorism is essential for protecting both the sovereignty of the state and the safety and dignity of its people."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What are the arguments presented in the chapter for preferring arms control over an arms race?",
+      "options": [],
+      "answer": "The chapter argues that an arms race, where countries competitively build up weapons, increases mutual suspicion and a sense of insecurity rather than providing safety. This heightened insecurity itself becomes a greater threat to national security. Therefore, arms control—through treaties, transparency, and mutual agreements to limit certain weapons—is presented as a more rational approach. It aims to reduce tensions, build trust, prevent wasteful expenditure, and create a more stable and predictable security environment for all nations involved."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Describe the significance of training institutes like NDA and NDC for India's defence preparedness.",
+      "options": [],
+      "answer": "Training institutes like the National Defence Academy (NDA) and the National Defence College (NDC) are vital for India's defence preparedness. The NDA provides integrated pre-commission training to future officers of all three services, fostering jointmanship and a common ethos from a young age. The NDC offers higher defence management education to senior officers and civil servants, focusing on national security strategy and policy. Together, they ensure a continuous pipeline of well-trained, strategically minded leadership capable of handling complex security challenges."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "How does the chapter suggest that increasing dialogue between nations can strengthen peace?",
+      "options": [],
+      "answer": "The chapter suggests that increasing dialogue is key to strengthening peace. More interaction through diplomacy, trade, and cultural exchanges increases interdependence between nations. This interdependence makes the cost of conflict higher. It also creates multiple formal and informal platforms—like bilateral talks, multilateral forums, and trade agreements—where disputes can be discussed and negotiated peacefully. Continuous dialogue builds mutual understanding and trust, making it easier to resolve issues before they escalate into confrontation or war."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What are the primary external and internal sources of threat to India's security as discussed in the chapter?",
+      "options": [],
+      "answer": "The chapter identifies Pakistan and China as primary external threats, citing border disputes, historical conflicts, and strategic rivalry. Internally, threats are more diverse. They include terrorism, which is a global problem affecting India; ideological insurgent movements like Naxalism; and social instability fueled by religious, regional, ethnic, and economic divisions. This combination of traditional state-based external threats and complex non-state internal threats defines India's multifaceted security challenge."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Explain the duties of the Rapid Action Force (RAF) and its importance in the internal security framework.",
+      "options": [],
+      "answer": "The Rapid Action Force (RAF) is a specialized wing of the CRPF designed for quick response. Its primary duty is to deploy rapidly in situations that pose an immediate threat to national security, such as major communal riots, terrorist attacks like bomb blasts, or severe public unrest. Its importance lies in its ability to restore law and order swiftly, minimize casualties, and bring normalcy back to affected areas, thereby preventing situations from escalating and safeguarding both public safety and state authority."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Discuss the idea that human security necessitates the protection of minorities and weaker sections.",
+      "options": [],
+      "answer": "Human security is based on the principle that every individual deserves to live in safety and dignity. This inherently necessitates the protection of minorities and weaker sections of society, who are often most vulnerable to discrimination, violence, and deprivation. Ensuring their rights—to life, livelihood, culture, and political participation—is essential for overall social stability and justice. A society that fails to protect its most vulnerable members cannot claim to be truly secure, as internal fault lines of inequality and injustice themselves become sources of instability and conflict."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How does the Coast Guard contribute to India's economic security besides its defence role?",
+      "options": [],
+      "answer": "Beyond its defence role, the Coast Guard significantly contributes to India's economic security. It protects the fishing occupation within Indian maritime borders, safeguarding the livelihoods of millions of fishermen. By preventing smuggling and piracy along sea routes, it secures vital trade channels and protects commercial shipping. It also plays a role in protecting offshore oil and gas installations, which are critical energy assets. These functions ensure the security of maritime resources and economic activities, which are vital for the nation's prosperity."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Summarize the key points from the 'Think and suggest' activity regarding arms control policy for countries with unequal military might.",
+      "options": [],
+      "answer": "The 'Think and suggest' activity implies that implementing arms control is challenging when countries have unequal military power. The key suggestion would be that such a policy requires a foundation of trust and mutual benefit. It might involve: 1) Multilateral agreements where all parties, regardless of current strength, agree to verifiable limits. 2) Confidence-building measures to reduce fear. 3) Focusing on limiting particularly destabilizing weapons first. 4) Ensuring that agreements do not permanently freeze inequalities but promote stability, which is in the interest of both strong and weak nations."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Based on the chapter, why is it argued that a nation must use modern technology for its defence?",
+      "options": [],
+      "answer": "The chapter argues that modern technology is indispensable for national defence for several reasons. First, it is needed to predict and assess threats accurately through surveillance and intelligence systems. Second, it is crucial for building advanced weapon systems that can counter potential adversaries. Third, technology drives the modernization and updating of defence forces, making them more efficient, lethal, and capable of operating in contemporary warfare domains like cyber and space. In an era of rapid technological change, lagging in technology can mean a critical vulnerability in national security."
+    }
+  ]
+} 

@@ -1,0 +1,411 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.4.4",
+    "standard": 9,
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "My Financial Career"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the primary emotion the narrator feels when entering a bank?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Excitement",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Confidence",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear and nervousness",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Boredom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and nervousness"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why does the narrator decide to go to the bank in the first place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To get a loan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To open an account with his increased salary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To cash a cheque",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To meet the manager",
+          "is_correct": false
+        }
+      ],
+      "answer": "To open an account with his increased salary"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What word does the narrator unnecessarily repeat when asking to see the manager?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Secret",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Urgent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Private",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alone"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who does the manager initially think the narrator is?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A bank robber",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A detective from Pinkerton's agency",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A wealthy heir",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A journalist",
+          "is_correct": false
+        }
+      ],
+      "answer": "A detective from Pinkerton's agency"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What embarrassing mistake does the narrator make while writing the cheque?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He signs with the wrong name",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He writes 'fifty-six' dollars instead of 'six'",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He dates it wrong",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He writes it in pencil",
+          "is_correct": false
+        }
+      ],
+      "answer": "He writes 'fifty-six' dollars instead of 'six'"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "After the incident, where does the narrator decide to keep his money?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a different bank",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In his trouser pocket and a sock",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "With a trusted friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a safety deposit box",
+          "is_correct": false
+        }
+      ],
+      "answer": "In his trouser pocket and a sock"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the word 'rattled' as used in the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Excited",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Made nervous",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Happy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Made nervous"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How does the narrator hand over his money to the accountant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neatly counted in an envelope",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "As a crumpled ball, with a quick, convulsive movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He asks the manager to do it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He puts it on the counter calmly",
+          "is_correct": false
+        }
+      ],
+      "answer": "As a crumpled ball, with a quick, convulsive movement"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why does the narrator pretend to be a man with a quick temper after his cheque mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To get better service",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To cover his embarrassment and make them think he was insulted",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To scare the clerk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Because he is actually angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "To cover his embarrassment and make them think he was insulted"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What literary device is primarily used to create humor in this story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tragic irony",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hyperbole and situational comedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mystery and suspense",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Romantic imagery",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hyperbole and situational comedy"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What was the amount of the narrator's first deposit?",
+      "answer": "Fifty-six dollars."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What does the narrator accidentally step into, mistaking it for an exit?",
+      "answer": "The bank's safe/vault."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What sound does the narrator hear as he leaves the bank?",
+      "answer": "A roar of laughter from inside the bank."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What is the narrator's monthly salary after the raise?",
+      "answer": "Fifty dollars a month."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "Find an antonym for 'withdraw' from the lesson.",
+      "answer": "Deposit."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What does the word 'sepulchral' mean in the context of the narrator's voice?",
+      "answer": "Gloomy, deep, or sorrowful."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Who is the author of 'My Financial Career'?",
+      "answer": "Stephen Leacock."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What does the warming-up activity ask you to do with a bank deposit form?",
+      "answer": "Observe the form and fill in your own details."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "According to the warming-up, what is one problem customers face when making a cash deposit?",
+      "answer": "Filling out lengthy forms or waiting in long queues. (Accept any reasonable inference from the activity)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Name one modern method of depositing money mentioned in the warming-up activity.",
+      "answer": "Online banking, mobile banking, ATM deposits, etc. (Accept any standard method)"
+    },
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "Describe the narrator's interaction with the bank manager in the private room. Why was the manager's behavior so serious?",
+      "answer": "The narrator's interaction with the manager is fraught with misunderstanding and comedy. The narrator, already nervous, asks to see the manager 'alone,' which alarms the manager into thinking he has a terrible secret. The manager leads him to a private, locked room, creating an atmosphere of high secrecy. The manager then presumes the narrator is a detective from Pinkerton's agency, likely due to his mysterious and anxious demeanor. The manager's behavior is overly serious and cautious because he mistakenly believes he is dealing with a confidential investigator on a serious matter, not a simple customer wanting to open a small account. This mismatch between the narrator's innocent intention and the manager's grave assumptions creates the humorous tension."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "Explain the series of errors the narrator commits from the moment he decides to withdraw six dollars until he leaves the bank.",
+      "answer": "The narrator's attempt to withdraw six dollars turns into a comedy of errors. First, while writing the cheque, in his nervous state, he mistakenly writes 'fifty-six' dollars (his entire deposit) instead of 'six.' When the clerk questions this, instead of correcting his error, he feels it's impossible to explain. Recklessly, he confirms he wants to withdraw the whole amount. When asked how he wants the money, he confusedly says 'In fifties,' receiving a fifty-dollar bill. When asked about the remaining six, he says 'In sixes,' implying six-dollar bills, which is absurd. Finally, to cover his profound embarrassment, he pretends to be a quick-tempered man who has been insulted. This cascade of mistakes, born from extreme anxiety and a desire to escape the situation, culminates in him rushing out of the bank, hearing the staff's laughter."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "Analyze the character of the narrator based on his actions and thoughts in the story. Provide at least three character traits with examples.",
+      "answer": "The narrator exhibits several distinct character traits: 1) **Extremely Timid and Anxiety-Prone**: He gets 'rattled' by everything in the bank, from clerks to wickets. His voice becomes 'sepulchral,' and he acts like a 'hesitating jay.' 2) **Socially Awkward and Prone to Miscommunication**: He unnecessarily says 'alone' twice, creating suspicion. He misinterprets social cues and fails to communicate his simple purpose clearly, leading the manager to think he's a detective. 3) **Impulsive and Poor Under Pressure**: When he makes the cheque error, instead of calmly correcting it, he compounds it by pretending to withdraw all his money and then pretending to be angry. His decision-making under stress is flawed and reckless, ultimately leading to his resolution never to use a bank again."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "What is the central theme or message of Stephen Leacock's humorous essay 'My Financial Career'?",
+      "answer": "The central theme of 'My Financial Career' is the absurdity of social anxiety and the intimidation common people can feel in formal, institutional settings. Through hyperbolic humor, Leacock explores how everyday activities like banking can become terrifying ordeals for someone who is shy, self-conscious, or unfamiliar with the procedures. The story highlights the gap between the impersonal, efficient world of the bank and the flustered, emotional world of the individual. It also humorously critiques the tendency to overcomplicate simple tasks due to fear of judgment. The message is not about finance but about the universal human experience of embarrassment and the lengths we go to save face in awkward situations."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "How does Stephen Leacock use hyperbole and exaggeration to create humor in the story? Provide specific examples.",
+      "answer": "Stephen Leacock masterfully uses hyperbole and exaggeration to amplify the narrator's ordinary nervousness into an epic comedy of errors. Examples include: 1) **Exaggerated Fear**: 'The clerks rattle me; the wickets rattle me; the sight of the money rattles me; everything rattles me.' This overstates a simple case of nerves. 2) **Exaggerated Self-Image**: Upon being taken to a private room, the narrator says, 'I knew what he was thinking and it made me worse,' imagining a dramatic detective scenario. 3) **Exaggerated Consequences of Small Actions**: Handing over money becomes a 'convulsive movement, as if I were doing a conjuring trick.' 4) **Exaggerated Final Decision**: Resolving to keep life savings 'in a sock' is a ridiculously extreme reaction to a single embarrassing visit. This sustained exaggeration turns a mundane event into a hilariously memorable catastrophe."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "Compare the narrator's intended simple task (deposit salary, withdraw $6) with the chaotic reality of his bank visit. What does this contrast reveal?",
+      "answer": "The narrator's intended task is straightforward: deposit his $56 savings and withdraw $6 for immediate use. The chaotic reality involves secret meetings with the manager, being mistaken for a detective, awkwardly handing over crumpled money, writing a cheque for the wrong amount, pretending to close his account, and finally fleeing amid laughter. This stark contrast reveals several things: the paralyzing power of social anxiety, how fear can distort perception and turn simple procedures into insurmountable challenges, and the impersonal, sometimes intimidating, atmosphere of formal institutions. The humor arises from the vast gap between the simplicity of the goal and the spectacular complexity of the narrator's flawed execution due entirely to his own nervousness."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "Discuss the narrator's final decision to keep his money in cash and in a sock. Is this a wise decision? Why or why not?",
+      "answer": "The narrator's final decision to abandon banks and keep his money 'in cash in my trousers pocket, and my savings in silver dollars in a sock' is presented as humorous and clearly unwise. It is an impulsive, over-the-top reaction to a single embarrassing experience. From a practical standpoint, it is foolish because it is insecure (money can be lost or stolen), inconvenient for large sums, and offers no growth (no interest). The decision underscores the narrator's extreme sensitivity and inability to cope with minor social setbacks. Leacock uses this ridiculous resolution to deliver the final punchline, emphasizing that the narrator has learned the wrong lesson entirely. Instead of overcoming his fear or learning how banks work, he retreats into an archaic and risky method, highlighting the irrationality that can follow profound embarrassment."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "What purpose does the 'Warming up!' section serve in relation to the main story 'My Financial Career'?",
+      "answer": "The 'Warming up!' section serves to ground the humorous, exaggerated story in a practical, real-world context. Before reading about the narrator's disastrous financial career, students engage with actual bank forms, consider why banks need customer details, discuss problems with traditional banking, and list modern banking methods. This accomplishes several things: 1) It provides necessary background knowledge about banking procedures, making the narrator's errors more recognizable and funny. 2) It contrasts the efficient, modern reality of banking with the narrator's archaic, anxiety-ridden experience. 3) It prompts students to think critically about financial systems, making the subsequent lesson on the narrator's irrational fear more impactful. The activity bridges the gap between the fictional comedy and the students' potential real-life experiences with banks."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "How does the story use the reactions of the bank staff (the accountant and the manager) to heighten the comedy?",
+      "answer": "The reactions of the bank staff are crucial in heightening the comedy because they are consistently normal and professional, which starkly contrasts with the narrator's abnormal behavior. The accountant is a 'tall, cool devil'—unruffled and efficient. The manager is 'grave' and 'calm.' Their professional demeanor magnifies the narrator's flustered state. When the narrator acts mysteriously, the manager reacts with appropriate seriousness (thinking he's a detective), which is a logical but mistaken conclusion that escalates the situation humorously. The clerk's surprised question ('What! Are you drawing it all out again?') is a perfectly reasonable response to the narrator's cheque error, but it throws the narrator into further panic. The staff's collective pause to stare and the final 'roar of laughter' are normal human reactions to absurdity, which make the narrator's perceived humiliation feel complete and the situation funnier for the reader."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "Imagine you are the bank manager writing a memo about the strange customer (the narrator). Summarize the incident from the manager's perspective.",
+      "answer": "**Memo: Re: Unusual Customer Incident**\n\nToday, a gentleman entered the bank exhibiting highly suspicious behavior. He requested to see me 'alone' in a secretive manner, leading me to believe he was a detective, possibly from a rival agency to Pinkerton's. I escorted him to a private room. He then revealed he merely wished to open an account with an initial deposit of fifty-six dollars, with monthly deposits of fifty. While the amount was modest, his demeanor suggested great wealth or eccentricity. The transaction was passed to Mr. Montgomery. Subsequently, the customer immediately requested a cheque, and in a state of apparent confusion, wrote a cheque for his entire deposit instead of the small sum he likely intended. When questioned, he insisted on withdrawing all funds and adopted a confrontational attitude, as if offended. The funds were disbursed as he requested (one fifty-dollar note and six one-dollar notes), and he departed hastily. The episode caused some amusement among the staff. The account is now closed. Recommend standard procedures were followed throughout, albeit for an unusually nervous and error-prone client."
+    }
+  ]
+}

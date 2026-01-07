@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Social Science.06",
+    "standard": "9",
+    "subject": "Social Science",
+    "medium": "English",
+    "chapter_name": "Empowerment of Women and other Weaker Sections"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In which year was the first census data for the number of women per one thousand men presented in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "1941", "is_correct": false },
+        { "option_id": 2, "text": "1951", "is_correct": true },
+        { "option_id": 3, "text": "1961", "is_correct": false },
+        { "option_id": 4, "text": "1971", "is_correct": false }
+      ],
+      "answer": "1951"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who made use of woman power in the Bhoodan Movement?",
+      "options": [
+        { "option_id": 1, "text": "Mahatma Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Vinoba Bhave", "is_correct": true },
+        { "option_id": 3, "text": "Jayaprakash Narayan", "is_correct": false },
+        { "option_id": 4, "text": "Dr. B.R. Ambedkar", "is_correct": false }
+      ],
+      "answer": "Vinoba Bhave"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The 'laaine morcha' or rolling pin demonstration in Mumbai was led by which socialist leader?",
+      "options": [
+        { "option_id": 1, "text": "Pramila Dandavate", "is_correct": false },
+        { "option_id": 2, "text": "Soudamini Rao", "is_correct": false },
+        { "option_id": 3, "text": "Mrinal Gore", "is_correct": true },
+        { "option_id": 4, "text": "Geeta Seshu", "is_correct": false }
+      ],
+      "answer": "Mrinal Gore"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was the main purpose of the Chipko movement that started in 1973?",
+      "options": [
+        { "option_id": 1, "text": "To demand voting rights for women", "is_correct": false },
+        { "option_id": 2, "text": "To promote literacy among women", "is_correct": false },
+        { "option_id": 3, "text": "To prevent commercial felling of trees", "is_correct": true },
+        { "option_id": 4, "text": "To protest against the dowry system", "is_correct": false }
+      ],
+      "answer": "To prevent commercial felling of trees"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who was the activist who created awareness among women in the Chipko movement with the help of Sudesha Devi and Bachani Devi?",
+      "options": [
+        { "option_id": 1, "text": "Gaura Devi", "is_correct": true },
+        { "option_id": 2, "text": "Roop Kanwar", "is_correct": false },
+        { "option_id": 3, "text": "Vidya Bal", "is_correct": false },
+        { "option_id": 4, "text": "Meena Menon", "is_correct": false }
+      ],
+      "answer": "Gaura Devi"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In which state did the anti-liquor movement that gained national attention begin in 1992?",
+      "options": [
+        { "option_id": 1, "text": "Maharashtra", "is_correct": false },
+        { "option_id": 2, "text": "Andhra Pradesh", "is_correct": true },
+        { "option_id": 3, "text": "Uttar Pradesh", "is_correct": false },
+        { "option_id": 4, "text": "Tamil Nadu", "is_correct": false }
+      ],
+      "answer": "Andhra Pradesh"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What story was narrated as part of the literacy programme in Andhra Pradesh villages to create awareness against alcohol?",
+      "options": [
+        { "option_id": 1, "text": "The story of Draupadi", "is_correct": false },
+        { "option_id": 2, "text": "Sitama Katha (Sita's story)", "is_correct": true },
+        { "option_id": 3, "text": "The story of Savitri", "is_correct": false },
+        { "option_id": 4, "text": "The story of Gargi", "is_correct": false }
+      ],
+      "answer": "Sitama Katha (Sita's story)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which year was declared as International Women's Year by the United Nations?",
+      "options": [
+        { "option_id": 1, "text": "1970", "is_correct": false },
+        { "option_id": 2, "text": "1975", "is_correct": true },
+        { "option_id": 3, "text": "1980", "is_correct": false },
+        { "option_id": 4, "text": "1985", "is_correct": false }
+      ],
+      "answer": "1975"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who was appointed as the Chairman of the Committee on the Status of Women formed by the Government of India in 1975?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Phulrenu Guha", "is_correct": true },
+        { "option_id": 2, "text": "Pramila Dandavate", "is_correct": false },
+        { "option_id": 3, "text": "Mrinal Gore", "is_correct": false },
+        { "option_id": 4, "text": "Soudamini Rao", "is_correct": false }
+      ],
+      "answer": "Dr. Phulrenu Guha"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The 'Streemuktichi Lalkari' was a collection of songs that emerged from the manifesto of which Samiti?",
+      "options": [
+        { "option_id": 1, "text": "Mahila Dakshata Samiti", "is_correct": false },
+        { "option_id": 2, "text": "Stree-mukti Sangharsha Samiti", "is_correct": true },
+        { "option_id": 3, "text": "Akhil Bharatiya Janavadi Mahila Sanghatana", "is_correct": false },
+        { "option_id": 4, "text": "Samgiwadi Mahila Sabha", "is_correct": false }
+      ],
+      "answer": "Stree-mukti Sangharsha Samiti"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who established the Mahila Dakshata Samiti in Delhi in 1976?",
+      "options": [
+        { "option_id": 1, "text": "Vidya Bal", "is_correct": false },
+        { "option_id": 2, "text": "Soudamini Rao", "is_correct": false },
+        { "option_id": 3, "text": "Pramila Dandavate", "is_correct": true },
+        { "option_id": 4, "text": "Jyoti Mhapsekar", "is_correct": false }
+      ],
+      "answer": "Pramila Dandavate"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "In which year was the Akhil Bharatiya Janavadi Mahila Sanghatana established by the Communist Party?",
+      "options": [
+        { "option_id": 1, "text": "1975", "is_correct": false },
+        { "option_id": 2, "text": "1980", "is_correct": true },
+        { "option_id": 3, "text": "1984", "is_correct": false },
+        { "option_id": 4, "text": "1990", "is_correct": false }
+      ],
+      "answer": "1980"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which act, enacted in 1952, recognized women's right to alimony and share in father's property?",
+      "options": [
+        { "option_id": 1, "text": "The Hindu Marriage Act", "is_correct": true },
+        { "option_id": 2, "text": "The Dowry Prohibition Act", "is_correct": false },
+        { "option_id": 3, "text": "The Maternity Benefit Act", "is_correct": false },
+        { "option_id": 4, "text": "The Protection of Human Rights Act", "is_correct": false }
+      ],
+      "answer": "The Hindu Marriage Act"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In which year did the Dowry Prohibition Act come into force, making dowry a criminal offence?",
+      "options": [
+        { "option_id": 1, "text": "1951", "is_correct": false },
+        { "option_id": 2, "text": "1961", "is_correct": true },
+        { "option_id": 3, "text": "1971", "is_correct": false },
+        { "option_id": 4, "text": "1981", "is_correct": false }
+      ],
+      "answer": "1961"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The Dowry Prohibition (Amendment) Act came into force in which year?",
+      "options": [
+        { "option_id": 1, "text": "1975", "is_correct": false },
+        { "option_id": 2, "text": "1980", "is_correct": false },
+        { "option_id": 3, "text": "1984", "is_correct": true },
+        { "option_id": 4, "text": "1988", "is_correct": false }
+      ],
+      "answer": "1984"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In which year were Family Courts established in India to resolve domestic issues?",
+      "options": [
+        { "option_id": 1, "text": "1978", "is_correct": false },
+        { "option_id": 2, "text": "1984", "is_correct": true },
+        { "option_id": 3, "text": "1990", "is_correct": false },
+        { "option_id": 4, "text": "1993", "is_correct": false }
+      ],
+      "answer": "1984"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "In the famous case of alimony, Mohammad Ahmed Khan vs Shah Bano Begum, the verdict was given by which court?",
+      "options": [
+        { "option_id": 1, "text": "High Court", "is_correct": false },
+        { "option_id": 2, "text": "Family Court", "is_correct": false },
+        { "option_id": 3, "text": "Supreme Court", "is_correct": true },
+        { "option_id": 4, "text": "District Court", "is_correct": false }
+      ],
+      "answer": "Supreme Court"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which Act was passed by the government in 1988 with stringent provisions after the incident of Roop Kanwar's sati?",
+      "options": [
+        { "option_id": 1, "text": "Dowry Prohibition (Amendment) Act", "is_correct": false },
+        { "option_id": 2, "text": "The Commission of Sati (Prevention) Act", "is_correct": true },
+        { "option_id": 3, "text": "Protection of Human Rights Act", "is_correct": false },
+        { "option_id": 4, "text": "Muslim Women's Act", "is_correct": false }
+      ],
+      "answer": "The Commission of Sati (Prevention) Act"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The Protection of Human Rights Act was enacted in which year?",
+      "options": [
+        { "option_id": 1, "text": "1985", "is_correct": false },
+        { "option_id": 2, "text": "1990", "is_correct": false },
+        { "option_id": 3, "text": "1993", "is_correct": true },
+        { "option_id": 4, "text": "1998", "is_correct": false }
+      ],
+      "answer": "1993"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which constitutional amendments provide for one-third reservation for women in local self-government bodies?",
+      "options": [
+        { "option_id": 1, "text": "71st and 72nd", "is_correct": false },
+        { "option_id": 2, "text": "73rd and 74th", "is_correct": true },
+        { "option_id": 3, "text": "75th and 76th", "is_correct": false },
+        { "option_id": 4, "text": "77th and 78th", "is_correct": false }
+      ],
+      "answer": "73rd and 74th"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "According to the chapter, what was the number of women per one thousand men in the 2001 Census?",
+      "options": [
+        { "option_id": 1, "text": "927", "is_correct": false },
+        { "option_id": 2, "text": "930", "is_correct": false },
+        { "option_id": 3, "text": "933", "is_correct": true },
+        { "option_id": 4, "text": "941", "is_correct": false }
+      ],
+      "answer": "933"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which movement challenged the rule of the nizams and the feudal system, where women played a significant role?",
+      "options": [
+        { "option_id": 1, "text": "Bhoodan Movement", "is_correct": false },
+        { "option_id": 2, "text": "Telangana Peasants Armed Struggle", "is_correct": true },
+        { "option_id": 3, "text": "Chipko Movement", "is_correct": false },
+        { "option_id": 4, "text": "Anti-liquor Movement", "is_correct": false }
+      ],
+      "answer": "Telangana Peasants Armed Struggle"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The street play 'Mulgi Jhaali Ho' was written by whom?",
+      "options": [
+        { "option_id": 1, "text": "Vidya Bal", "is_correct": false },
+        { "option_id": 2, "text": "Jyoti Mhapsekar", "is_correct": true },
+        { "option_id": 3, "text": "Meena Menon", "is_correct": false },
+        { "option_id": 4, "text": "Sujata Anandan", "is_correct": false }
+      ],
+      "answer": "Jyoti Mhapsekar"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which scheme in Maharashtra is mentioned as having helped to empower women?",
+      "options": [
+        { "option_id": 1, "text": "Literacy Programme", "is_correct": false },
+        { "option_id": 2, "text": "Employment Guarantee Scheme", "is_correct": true },
+        { "option_id": 3, "text": "Mid-day Meal Scheme", "is_correct": false },
+        { "option_id": 4, "text": "Micro-credit Scheme", "is_correct": false }
+      ],
+      "answer": "Employment Guarantee Scheme"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of the following was NOT a demand during the first working women's demonstration in New York on 8 March 1857?",
+      "options": [
+        { "option_id": 1, "text": "Fewer working hours", "is_correct": false },
+        { "option_id": 2, "text": "Proper remuneration", "is_correct": false },
+        { "option_id": 3, "text": "Provision of crèches", "is_correct": false },
+        { "option_id": 4, "text": "Right to vote", "is_correct": true }
+      ],
+      "answer": "Right to vote"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The Scheduled Castes were included in the Constitution by which paragraph?",
+      "options": [
+        { "option_id": 1, "text": "15th", "is_correct": false },
+        { "option_id": 2, "text": "16th", "is_correct": false },
+        { "option_id": 3, "text": "17th", "is_correct": true },
+        { "option_id": 4, "text": "18th", "is_correct": false }
+      ],
+      "answer": "17th"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the primary means of livelihood for many Scheduled Tribes (Adivasis) as mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Industrial work", "is_correct": false },
+        { "option_id": 2, "text": "Government service", "is_correct": false },
+        { "option_id": 3, "text": "Agriculture and forest produce", "is_correct": true },
+        { "option_id": 4, "text": "Information Technology", "is_correct": false }
+      ],
+      "answer": "Agriculture and forest produce"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What term is used for tribes that were declared criminal by the British under the Law of 1871 and later de-notified?",
+      "options": [
+        { "option_id": 1, "text": "Nomadic Tribes", "is_correct": false },
+        { "option_id": 2, "text": "Scheduled Tribes", "is_correct": false },
+        { "option_id": 3, "text": "De-notified Tribes", "is_correct": true },
+        { "option_id": 4, "text": "Adivasis", "is_correct": false }
+      ],
+      "answer": "De-notified Tribes"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which constitutional value was NOT explicitly mentioned as being adopted for Scheduled Castes in the post-independence period?",
+      "options": [
+        { "option_id": 1, "text": "Freedom", "is_correct": false },
+        { "option_id": 2, "text": "Equality", "is_correct": false },
+        { "option_id": 3, "text": "Fraternity", "is_correct": false },
+        { "option_id": 4, "text": "Liberty", "is_correct": true }
+      ],
+      "answer": "Liberty"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Minorities in India have the right to set up separate institutions primarily for what purpose?",
+      "options": [
+        { "option_id": 1, "text": "Political representation", "is_correct": false },
+        { "option_id": 2, "text": "Economic development", "is_correct": false },
+        { "option_id": 3, "text": "Educational and cultural preservation", "is_correct": true },
+        { "option_id": 4, "text": "Religious conversion", "is_correct": false }
+      ],
+      "answer": "Educational and cultural preservation"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who was the first woman Chief Minister of Uttar Pradesh as listed in the 'Do you know?' section?",
+      "options": [
+        { "option_id": 1, "text": "Mayawati", "is_correct": false },
+        { "option_id": 2, "text": "Sucheta Kripalani", "is_correct": true },
+        { "option_id": 3, "text": "Uma Bharati", "is_correct": false },
+        { "option_id": 4, "text": "Rabri Devi", "is_correct": false }
+      ],
+      "answer": "Sucheta Kripalani"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of the following women's organisations was established by Soudamini Rao in Pune?",
+      "options": [
+        { "option_id": 1, "text": "Mahila Dakshata Samiti", "is_correct": false },
+        { "option_id": 2, "text": "Streemukti Andolan Samiti", "is_correct": true },
+        { "option_id": 3, "text": "Nari Samata Manch", "is_correct": false },
+        { "option_id": 4, "text": "Kranikkari Mahila Sanghatana", "is_correct": false }
+      ],
+      "answer": "Streemukti Andolan Samiti"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The Maternity Benefit Act, giving women the right to leave at childbirth, came into force in which year?",
+      "options": [
+        { "option_id": 1, "text": "1952", "is_correct": false },
+        { "option_id": 2, "text": "1961", "is_correct": true },
+        { "option_id": 3, "text": "1971", "is_correct": false },
+        { "option_id": 4, "text": "1984", "is_correct": false }
+      ],
+      "answer": "1961"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of these is a reason cited in the chapter for the economic backwardness of Scheduled Tribes?",
+      "options": [
+        { "option_id": 1, "text": "Lack of political will", "is_correct": false },
+        { "option_id": 2, "text": "Non-availability of modern farming implements", "is_correct": true },
+        { "option_id": 3, "text": "Over-dependence on industry", "is_correct": false },
+        { "option_id": 4, "text": "Excessive government control", "is_correct": false }
+      ],
+      "answer": "Non-availability of modern farming implements"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The practice of untouchability was banned by law based on which constitutional value?",
+      "options": [
+        { "option_id": 1, "text": "Liberty", "is_correct": false },
+        { "option_id": 2, "text": "Secularism", "is_correct": false },
+        { "option_id": 3, "text": "Social Justice", "is_correct": true },
+        { "option_id": 4, "text": "Sovereignty", "is_correct": false }
+      ],
+      "answer": "Social Justice"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What was the immediate cause that led the women of Dubuganta village to force the closure of arrack shops?",
+      "options": [
+        { "option_id": 1, "text": "Rising prices of kerosene", "is_correct": false },
+        { "option_id": 2, "text": "Scarcity of food grains", "is_correct": false },
+        { "option_id": 3, "text": "Death of three youths due to drowning while intoxicated", "is_correct": true },
+        { "option_id": 4, "text": "A government policy promoting alcohol", "is_correct": false }
+      ],
+      "answer": "Death of three youths due to drowning while intoxicated"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which university, mentioned as the first women's university, started a Women's Studies Centre?",
+      "options": [
+        { "option_id": 1, "text": "University of Delhi", "is_correct": false },
+        { "option_id": 2, "text": "University of Calcutta", "is_correct": false },
+        { "option_id": 3, "text": "SNDT Women's University, Mumbai", "is_correct": true },
+        { "option_id": 4, "text": "Jawaharlal Nehru University", "is_correct": false }
+      ],
+      "answer": "SNDT Women's University, Mumbai"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "According to the chapter, what is the fundamental root of several problems faced by women in India?",
+      "options": [
+        { "option_id": 1, "text": "Lack of education", "is_correct": false },
+        { "option_id": 2, "text": "Economic dependence", "is_correct": false },
+        { "option_id": 3, "text": "Male-centred mentality", "is_correct": true },
+        { "option_id": 4, "text": "Absence of laws", "is_correct": false }
+      ],
+      "answer": "Male-centred mentality"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What was the declared focus of the three aspects of the International Women's Year programme (1975)?",
+      "options": [
+        { "option_id": 1, "text": "Peace, Development, and Equality", "is_correct": true },
+        { "option_id": 2, "text": "Education, Health, and Employment", "is_correct": false },
+        { "option_id": 3, "text": "Law, Order, and Justice", "is_correct": false },
+        { "option_id": 4, "text": "Culture, Tradition, and Modernity", "is_correct": false }
+      ],
+      "answer": "Peace, Development, and Equality"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a function of Family Courts as described in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Resolving conflicts arising from marriage", "is_correct": false },
+        { "option_id": 2, "text": "Giving priority to mutual understanding over evidence", "is_correct": false },
+        { "option_id": 3, "text": "Emphasizing quick and just resolution", "is_correct": false },
+        { "option_id": 4, "text": "Focusing on punitive measures for offenders", "is_correct": true }
+      ],
+      "answer": "Focusing on punitive measures for offenders"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the significance of 8th March?",
+      "answer": "It is celebrated as International Women's Day."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the movement where women used the strategy of embracing trees to save them.",
+      "answer": "The Chipko Movement."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What does the term 'De-notified Tribes' refer to?",
+      "answer": "Tribes that were declared criminal by the British and later had those curbs lifted after independence."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Which law made polygamy illegal?",
+      "answer": "The Hindu Marriage Act of 1952."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What was the name of the periodical that became the mouthpiece of the Stree-mukti Sangharsha Samiti?",
+      "answer": "Prerak Lalkari."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Name two activists who investigated the Roop Kanwar sati case.",
+      "answer": "Meena Menon and Geeta Seshu. (Also Sujata Anandan, Anu Joseph, Kalpana Sharma)"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What constitutional value led to the banning of the practice of untouchability?",
+      "answer": "Social Justice."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What right did women get through the 73rd and 74th Constitutional Amendments?",
+      "answer": "Reservation of one-third of seats in local self-government bodies."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is alimony?",
+      "answer": "A fixed amount paid to a divorced woman by her husband for her upkeep."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Which state has reserved 50% seats for women in local bodies, as mentioned in the chapter?",
+      "answer": "Maharashtra."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name the forum where 8 March was first declared as Women's Struggle Day.",
+      "answer": "The Women's Socialist International conference in Denmark."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the local name for the rolling pin demonstration led by Mrinal Gore?",
+      "answer": "Laaine Morcha."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which committee was formed by the Government of India in 1975 to study women's status?",
+      "answer": "The Committee on the Status of Women."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the primary reason for malnutrition among Adivasis as per the chapter?",
+      "answer": "Insufficient and poor quality of diet."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which act recognised women's 'streethan' (property)?",
+      "answer": "The Hindu Marriage Act of 1952."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What major issue did the Akhil Bharatiya Janavadi Mahila Sanghatana start a struggle against?",
+      "answer": "Issues like dowry, female foeticide, and domestic abuse."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the main challenge faced by Nomadic Tribes?",
+      "answer": "They move from place to place for livelihood."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What was the outcome of the Shah Bano Begum case in the Supreme Court?",
+      "answer": "The Supreme Court upheld her right to alimony."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name the national commission formed under the Protection of Human Rights Act, 1993.",
+      "answer": "The National Human Rights Commission."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What was the year of the census where the number of women per 1000 men was lowest according to the table?",
+      "answer": "1991 (927 women)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What kind of rights does the Constitution give to minorities for cultural preservation?",
+      "answer": "Educational and cultural rights."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which movement is associated with Chandiprasad Bhat and Sunderlal Bahuguna?",
+      "answer": "The Chipko Movement."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What was the 'Sitama Katha' about?",
+      "answer": "It is a story about Sita creating awareness and getting alcohol banned from a village."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which social evil was the Dowry Prohibition Act of 1961 intended to combat?",
+      "answer": "The practice of giving and taking dowry."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What was the name of the activist who led the women in the Chipko movement in her village?",
+      "answer": "Gaura Devi."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the purpose of reservations for Scheduled Castes?",
+      "answer": "To facilitate their educational and social development."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What event is considered to have given rise to the women's liberation movement according to the chapter?",
+      "answer": "The activities and manifesto of the Stree-mukti Sangharsha Samiti in the 1970s."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name one Women's Studies Centre mentioned in the chapter besides SNDT University.",
+      "answer": "Tata Institute of Social Sciences, Mumbai OR Savitribai Phule Pune University OR Shivaji University, Kolhapur."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What was the main consequence of alcoholism on families as described in the anti-liquor movement context?",
+      "answer": "It led to untimely death, extreme sorrow, and poverty, affecting women the most."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does the term 'minority' refer to in a societal context?",
+      "answer": "A group of people of a particular religion, language, or race who are few in number compared to the rest."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the role of women in the Chipko movement. What was its significance?",
+      "answer": "Women played a central and active role in the Chipko movement that began in 1973 in the Himalayan foothills. To prevent the commercial felling of trees, they adopted the non-violent strategy of embracing the trees, physically shielding them with their bodies. Their massive participation was crucial in spreading the movement across the region. The movement was significant as it not only successfully pressured the government to adopt stricter forest policies but also showcased the power of grassroots environmental activism and the pivotal role women could play in ecological conservation and community-led protests."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the causes and impact of the anti-liquor movement in Andhra Pradesh.",
+      "answer": "The anti-liquor movement in Andhra Pradesh began in 1992. Its primary causes were the devastating social and economic consequences of alcoholism, particularly on poor labouring families. Addiction led to untimely deaths, pushing families, especially women, into extreme sorrow and poverty. A government policy had led to arrack shops in every village, increasing accessibility. The movement was triggered by the death of three intoxicated youths and was fueled by awareness created through literacy programmes using stories like 'Sitama Katha'. Its impact was immediate and powerful: women collectively forced the closure of arrack shops in their villages. The movement spread to other states, highlighting women's collective strength against a social evil and putting pressure on authorities to reconsider policies promoting alcohol."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "What were the key provisions of the Dowry Prohibition Act of 1961 and why was an amendment needed in 1984?",
+      "answer": "The Dowry Prohibition Act of 1961 was a landmark law that made both giving and taking dowry a cognizable criminal offence. It aimed to dismantle the dowry tradition from its roots and alleviate the distress caused to women. However, even after this law, dowry-related deaths and harassment continued, often disguised as kitchen accidents or suicides. Investigations consistently revealed dowry as the primary cause. This highlighted loopholes and ineffective enforcement. To address this severity and strengthen the law, the Dowry Prohibition (Amendment) Act was enacted in 1984. It aimed to provide stricter provisions and ensure more effective legal action against dowry crimes."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the importance of the 73rd and 74th Constitutional Amendments for women's empowerment in India.",
+      "answer": "The 73rd and 74th Constitutional Amendments are extremely important for women's political empowerment in India. They mandate the reservation of not less than one-third of the total seats for women in all tiers of rural and urban local self-government bodies – Gram Panchayats, Panchayat Samitis, Zilla Parishads, Municipalities, and Municipal Corporations. This also includes reserved posts for Sarpanch, Chairman, and Mayor. This provision has ensured a significant and mandatory entry point for women into the political decision-making process at the grassroots level. It provides them with the opportunity to participate directly in community affairs, address local issues, develop leadership skills, and gain a just share of political power, thereby fostering greater gender equality in governance."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Compare and contrast the challenges faced by Scheduled Castes and Scheduled Tribes (Adivasis) in post-independence India as described in the chapter.",
+      "answer": "Both Scheduled Castes (SCs) and Scheduled Tribes (STs/Adivasis) face significant challenges, but their nature differs. Scheduled Castes historically faced the social evil of untouchability, which was legally abolished. Their main challenges are related to overcoming deep-rooted social discrimination and historical backwardness in education and employment, for which reservations are provided. In contrast, Scheduled Tribes, living in remote areas, face geographical and economic isolation. Their challenges include economic backwardness due to reliance on low-yield agriculture and forest produce, lack of modern farming tools, infertile land, malnutrition, and poor access to timely healthcare. While SCs struggle more against social stigma, STs struggle against infrastructural neglect and economic marginalisation."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the circumstances that led to the enactment of The Commission of Sati (Prevention) Act, 1987.",
+      "answer": "The Commission of Sati (Prevention) Act was enacted in response to a specific, horrific incident and the prevailing glorification of the practice. On 4th September 1987, Roop Kanwar, a married woman in Rajasthan, was forced to commit sati (self-immolation on her husband's pyre) against her will. This incident sparked national outrage. Women activists and journalists like Meena Menon and Geeta Seshu investigated the case, revealing it as coercion, not a voluntary act. The incident highlighted that despite being illegal, the practice was still being glorified in some quarters. To prevent such atrocities and strictly outlaw any glorification of sati, the government passed this Act in 1988 with very stringent provisions, aiming to eradicate the practice completely."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "How did various women's organisations in Maharashtra contribute to the women's movement in the 1970s and 80s?",
+      "answer": "In the 1970s and 80s, numerous women's organisations in Maharashtra significantly contributed to the women's movement. Groups like the Stree-mukti Sangharsha Samiti organised a statewide conference in 1975 and published a manifesto advocating struggle against gender, caste, and varna discrimination. This led to cultural outputs like songs (Streemuktichi Lalkari) and street plays (Mulgi Jhaali Ho). Other organisations like the Streemukti Andolan Samiti (Pune), Mahila Dakshata Samiti (Kolhapur), and Nari Prabodhan Manch (Latur) were formed. They worked on diverse fronts: forming anti-dowry committees, organising protest conferences (e.g., in Dhule), publishing periodicals, and addressing working women's issues. These organisations provided platforms for awareness, support, and collective action, strengthening the grassroots women's movement in the state."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Protection of Human Rights Act, 1993 for women in India.",
+      "answer": "The Protection of Human Rights Act, 1993, holds great significance for women as it established a legal and institutional framework to address injustices specifically affecting them. The Act led to the formation of the National Human Rights Commission (and State Commissions). This law empowered these commissions to look into issues of collective oppression, the vulnerable social conditions of divorced women, and the need for secure workplaces for women. By providing a dedicated forum to investigate and mitigate human rights violations, the Act offered women a crucial recourse against various forms of discrimination, harassment, and injustice that might not be fully covered by other specific laws, thereby strengthening their overall legal protection and access to justice."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What are the constitutional safeguards provided for minorities in India? Why are they important?",
+      "answer": "The Indian Constitution provides important educational and cultural rights to minorities to safeguard their distinct identity. Minorities have the right to conserve their unique language, script, and culture. Crucially, they have the right to establish and administer their own educational institutions. These safeguards are vital for preserving India's rich cultural diversity, which consists of various religions, sects, and languages. They prevent the domination of the majority culture and ensure that minority communities can maintain their heritage and traditions. By allowing them to run their own educational institutions, the Constitution empowers minorities to educate their youth in a manner that respects and perpetuates their cultural values, fostering a sense of security and belonging in a pluralistic society."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Analyse the role of Family Courts. How is their approach different from regular courts?",
+      "answer": "Family Courts, established in 1984, play a specialised role in resolving disputes arising from family relationships. They handle issues like marital conflicts, alimony, child custody, and separation. Their approach is distinctly different from regular civil or criminal courts. Instead of a strictly adversarial process focused heavily on legal evidence and witnesses, Family Courts prioritise mutual understanding and reconciliation between the parties. They emphasise the use of counsellors over lawyers to facilitate amicable settlements. The focus is on achieving a quick, just, and less confrontational resolution that considers the welfare of the entire family, especially children, aiming to preserve family relationships wherever possible rather than just assigning legal blame."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "How did the Bhoodan Movement and the Telangana Peasants Armed Struggle contribute to women's empowerment?",
+      "answer": "Both the Bhoodan Movement and the Telangana Peasants Armed Struggle, though different in nature, contributed to women's empowerment by actively involving them in socio-political action. In the Bhoodan Movement led by Vinoba Bhave, women volunteers carried the message of land donation across India, giving them a platform for public participation and leadership in a Gandhian reform movement. In the more radical Telangana Peasants Armed Struggle, women participated significantly in the fight against the Nizam's rule and the feudal system. As the region became free from bonded labour, women also gained freedom from this exploitation. Both experiences helped women move beyond traditional roles, develop organisational skills, and gain a sense of agency and collective strength."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "What was the historical significance of the demonstration by working women in New York on 8 March 1857?",
+      "answer": "The demonstration by working women in New York on 8 March 1857 holds immense historical significance as a foundational event in the international struggle for women's rights, particularly labour rights. It was the first recorded demonstration of its kind where working women collectively protested against poor working conditions. Their demands, such as shorter working hours, proper remuneration, and the provision of crèches, highlighted the specific economic and social challenges faced by women in the workforce. This event laid the groundwork for future labour movements. Its memory was honoured decades later when 8 March was declared first as Women's Struggle Day and eventually as International Women's Day, making it a symbolic origin point for global women's activism."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Describe the evolution of legal rights for women in India concerning marriage and property from 1952 to 1961.",
+      "answer": "The period from 1952 to 1961 saw significant legal advancements for women's rights in marriage and property. The process began with the Hindu Marriage Act of 1952, which was a major step. It recognized a woman's right to alimony (maintenance after divorce) and her rightful share in her father's property, including the concept of 'streethan'. It made polygamy illegal for Hindus and, importantly, gave women the equal right to sue for divorce, a right previously largely accessible only to men. This was followed by the Dowry Prohibition Act of 1961, which attacked the deep-rooted social evil of dowry by making it a crime. Together, these laws marked a crucial shift from traditional, inequitable personal laws towards establishing a framework of legal equality and protection for women within the family."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Why are special protections and efforts needed for the development of Nomadic and De-notified Tribes?",
+      "answer": "Special protections and developmental efforts are crucial for Nomadic and De-notified Tribes due to their unique historical and socio-economic vulnerabilities. Nomadic Tribes traditionally move from place to place for livelihoods like animal rearing, which makes access to stable education, healthcare, and civic amenities difficult. De-notified Tribes carry the historical stigma of being labelled 'criminal tribes' under oppressive British laws (like the 1871 Act), which restricted their occupations and movements, causing lasting social and economic marginalisation. Even after the repeal of these laws, these communities face prejudice and struggle to integrate into mainstream society. Therefore, targeted government efforts in education, employment, and social welfare are essential to help them overcome these historical injustices, achieve economic stability, and secure their rightful place in society."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How did the United Nations' declaration of International Women's Year (1975) influence the women's movement in India?",
+      "answer": "The United Nations' declaration of 1975 as International Women's Year, focusing on Peace, Development, and Equality, provided a significant international impetus and framework for the women's movement in India. It prompted the Government of India to formally constitute the Committee on the Status of Women under Dr. Phulrenu Guha to conduct a comprehensive survey on women's social position, education, work, and rights. This official recognition of women's issues at the highest level legitimised the demands of activists. Furthermore, it energised grassroots organisations like the Stree-mukti Sangharsha Samiti, which held a major statewide conference for women in Maharashtra the same year. Thus, the International Women's Year helped consolidate national attention, foster research, and strengthen organised advocacy for women's empowerment in India."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the purpose and function of Women's Studies Centres as mentioned in the chapter.",
+      "answer": "Women's Studies Centres, established in universities like SNDT Women's University (Mumbai), Tata Institute of Social Sciences (Mumbai), and Savitribai Phule Pune University, serve a critical academic and social purpose. Their primary function is to undertake systematic research on various issues affecting women, such as social status, economic participation, legal rights, and health. These centres move beyond just documenting problems; they engage in critical analysis of the root causes of gender inequality from interdisciplinary perspectives. By developing a nuanced vision and generating scholarly knowledge, they contribute to curriculum development, inform policy-making, and provide an evidence base for activists. Thus, they play a vital role in bridging academic scholarship with the practical goals of the women's movement, fostering a deeper understanding of gender issues."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What does the data in the 'Number of women per one thousand men' table suggest about gender ratio trends in India? What might be the underlying reasons?",
+      "answer": "The census data table from 1951 to 2001 shows a fluctuating but generally declining trend in the number of women per 1000 men, with the lowest point in 1991 (927). This suggests a persistent and serious issue of gender imbalance, indicating a societal preference for male children. The underlying reasons for this decline are complex and rooted in socio-cultural factors. They include deep-seated son preference, leading to sex-selective abortions and female foeticide; neglect of girl children in terms of healthcare and nutrition, resulting in higher female child mortality; and the overall lower status of women in a patriarchal society. The slight improvement by 2001 (933) might indicate the beginning of awareness and policy impacts, but the numbers highlight the urgent need for continued efforts to ensure the survival and dignity of the girl child."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Discuss the importance of the 'laaine morcha' (rolling pin demonstration) of 1972 in Mumbai.",
+      "answer": "The 'laaine morcha' or rolling pin demonstration of 1972 in Mumbai was a landmark event of grassroots women's protest with significant symbolic and practical importance. Led by socialist leader Mrinal Gore, it emerged as a direct response to the immediate crisis of scarcity and skyrocketing prices of essential commodities like oil, ghee, and kerosene just before Diwali. Women, who bore the brunt of managing households under such conditions, came together brandishing their rolling pins – a quintessential domestic tool – transforming it into a symbol of resistance. This demonstration was important because it showcased the organised power of women as consumers and house managers, successfully drawing public and governmental attention to their plight. It demonstrated that women could effectively mobilise around economic issues affecting daily life, paving the way for future consumer rights and women-led movements."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How did the Shah Bano case and the subsequent Muslim Women's Act reflect the conflict between personal laws and universal rights?",
+      "answer": "The Shah Bano case and the legislation that followed starkly highlighted the conflict between religious personal laws and the concept of universal fundamental rights, particularly gender justice. In 1985, the Supreme Court, in Mohammad Ahmed Khan vs Shah Bano Begum, upheld the right of a divorced Muslim woman to alimony under the universal Criminal Procedure Code, emphasising justice and equality. However, this verdict was met with strong protests from conservative religious organisations who saw it as an interference in Muslim Personal Law. Bowing to this pressure, the Parliament passed the Muslim Women's (Protection of Rights on Divorce) Act in 1986. This Act, while providing some maintenance, was seen by many as a step back from the Supreme Court's progressive interpretation, as it shifted the primary liability from the husband to the woman's relatives or community. The episode revealed the tension between ensuring uniform rights for women and respecting the autonomy of religious communities."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Summarise the key achievements for women's empowerment in the post-independence period as outlined in the chapter.",
+      "answer": "The post-independence period saw several key achievements for women's empowerment in India. Constitutionally, the principle of gender equality was accepted, granting women the fundamental political right to vote and equal rights to education and work. Significant legal reforms were enacted: the Hindu Marriage Act (1952) granted rights to divorce, alimony, and property; the Dowry Prohibition Act (1961) outlawed dowry; and the Maternity Benefit Act (1961) provided work leave. Inhumane practices like sati and polygamy were banned. The 73rd and 74th Amendments (1990s) mandated political reservation in local governments. Furthermore, vibrant women's movements raised awareness on issues like liquor, environment, and price rise. These combined efforts in law, politics, and social activism helped women gain education, economic independence, and a growing sense of self, enabling their participation in all fields."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What is the role of the National Human Rights Commission in protecting women's rights?",
+      "answer": "The National Human Rights Commission (NHRC), established under the Protection of Human Rights Act, 1993, plays a vital role in safeguarding women's rights as part of its broader mandate. It acts as a watchdog institution that can suo-motu (on its own) or based on petitions, investigate cases of human rights violations against women. This includes looking into issues of collective oppression (like communal violence targeting women), the insecure social and economic conditions of divorced or abandoned women, and ensuring safe working environments free from harassment. The NHRC's role is not just investigative but also recommendatory and advisory. It can recommend compensation for victims, suggest policy changes to the government, and spread human rights awareness, thereby providing an additional layer of protection and recourse beyond the regular judicial system for addressing injustices against women."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "How does the chapter describe the changing participation of women in various fields by the end of the 20th century?",
+      "answer": "By the end of the 20th century, as described in the chapter, women's participation in Indian society had undergone a significant and positive transformation across various fields. Due to constitutional guarantees, legal reforms, and the women's liberation movement, women began to access education and enter the workforce in larger numbers. They developed a stronger sense of self and agency. This was reflected in their enthusiastic and determined participation in diverse areas: they were not only studying and earning but also actively involved in administration, politics, social movements, and the arts. The presence of women Chief Ministers in several states and their mandated participation in local governance are testaments to this political entry. The chapter concludes that women were no longer confined to traditional roles but were becoming dynamic contributors in all spheres of public life."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'reservation' as applied to Scheduled Castes and Scheduled Tribes. What is its intended goal?",
+      "answer": "In the Indian context, 'reservation' refers to a policy of affirmative action that sets aside a certain percentage of seats or positions in government educational institutions and public sector jobs for members of historically disadvantaged communities, specifically the Scheduled Castes (SCs) and Scheduled Tribes (STs). This policy is mandated by the Constitution. Its intended goal is not just symbolic representation but substantive empowerment and development. Recognizing the centuries of social exclusion, discrimination, and educational backwardness faced by these communities, reservations aim to provide them with access to opportunities that were historically denied. By facilitating their entry into education and employment, the policy seeks to level the playing field, accelerate their social and economic mobility, and help them integrate into the mainstream, thereby fulfilling the constitutional promise of social justice and equality."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What were the main findings or focus areas of the comprehensive survey conducted by the Committee on the Status of Women in 1975?",
+      "answer": "The comprehensive survey conducted by the Committee on the Status of Women in 1975, chaired by Dr. Phulrenu Guha, was a pioneering study that examined the condition of Indian women in great detail. Its main findings and focus areas covered a wide spectrum: it analysed the social position and status of women, the consequences of constitutional provisions made for them, and the levels and impact of women's education (including enrolment percentages). The survey also looked into the difficulties faced by working women, their position in the workforce and livelihoods, and the gender wage gap compared to men's wages. Furthermore, it studied critical demographic indicators like the female-male ratio and birth and mortality rates. Finally, it assessed the overall role of women in society. This holistic report provided a crucial evidence base for understanding gender disparities and shaping future policies."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Describe the historical injustice faced by the communities labelled as 'Criminal Tribes' by the British and the post-independence corrective measure.",
+      "answer": "The communities labelled as 'Criminal Tribes' by the British suffered a grave historical injustice. Through laws like the Criminal Tribes Act of 1871, the British authorities arbitrarily classified certain nomadic and semi-nomadic communities as inherently prone to crime. This stigmatising label was not based on individual actions but on their tribal identity and traditional mobile lifestyles. The Act imposed severe restrictions: their occupations and movements were monitored and curtailed, often forcing them into a cycle of poverty and reinforcing the criminal stereotype. After independence, recognising this as a discriminatory and unjust law, the Indian government repealed it. The communities were 'de-notified', meaning the criminal tag was officially removed. They were reclassified as De-notified Tribes, and special efforts were initiated for their rehabilitation, social upliftment, and economic development to help them overcome this legacy of stigma and marginalisation."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "How did cultural forms like songs, street plays, and periodicals contribute to the women's movement in Maharashtra?",
+      "answer": "Cultural forms like songs, street plays, and periodicals played a powerful and accessible role in spreading the message of the women's movement in Maharashtra, especially in the 1970s. Following the manifesto of the Stree-mukti Sangharsha Samiti, activists used these mediums to reach a broad audience, including the non-literate. Collections of songs like 'Streemuktichi Lalkari' and street plays like Jyoti Mhapsekar's 'Mulgi Jhaali Ho' translated complex ideas of gender discrimination and liberation into relatable stories and catchy tunes, making them easy to remember and discuss. Periodicals like 'Prerak Lalkari' served as a mouthpiece, providing a platform for debate, sharing information, and building a sense of solidarity among women across regions. These cultural tools were effective in raising consciousness, challenging social norms in an engaging way, and mobilising support for the movement beyond formal meetings and protests."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "What is the significance of the 'right to streethan' as recognized by the law enacted in 1952?",
+      "answer": "The recognition of the 'right to streethan' by the Hindu Marriage Act of 1952 was a significant legal milestone for women's economic rights within the family. 'Streethan' refers to a woman's right to property, specifically her share in her father's estate. Before this law, women, especially daughters, had very limited or no inheritance rights in many traditional Hindu law interpretations, with property primarily passing through male heirs. By legally recognizing a woman's share in her father's property, the Act acknowledged her as an individual with economic worth and rights independent of her marital status. This was a crucial step towards providing women with financial security, reducing their economic dependence on male relatives, and laying the foundation for greater gender equality in matters of inheritance and wealth, thereby empowering them socially and economically."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Why is the issue of dowry deaths considered so serious in India, as indicated by the statistics in the chapter?",
+      "answer": "The issue of dowry deaths is considered an extremely serious and alarming social crime in India, as starkly highlighted by the escalating statistics in the chapter. The numbers rose from 2,209 reported dowry deaths in 1988 to 5,377 in 1993. These are not just numbers but represent brutal murders of young women, often through burning or other violence, disguised as kitchen accidents or suicides. The seriousness lies in multiple dimensions: it reveals the horrific extent of greed and violence within families, the persistent failure of society to eradicate dowry despite a strict law, and the severe vulnerability of married women. The rising trend indicated that the social evil was deepening, not diminishing. It underscored the urgent need for stricter law enforcement, societal change, and protection for women, making it one of the most critical gender-based human rights issues in the country."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How have ideas of women's liberation contributed to the development of a sense of self among women, according to the chapter's conclusion?",
+      "answer": "According to the chapter's conclusion, the ideas of women's liberation have been instrumental in fostering a profound development of a sense of self among Indian women. These ideas, propagated through movements, literature, and activism, challenged the traditional, male-centric notions that defined women primarily through their roles as daughters, wives, and mothers. Women's liberation ideology emphasised individual rights, personal autonomy, education, economic independence, and the freedom to make life choices. As these ideas permeated society, women began to see themselves not just as appendages to their families but as individuals with their own aspirations, talents, and potential. This awakening led to a growing confidence and self-worth, motivating them to pursue education, careers, and participate actively in public spheres like administration and politics, thus transforming their self-perception from dependent beings to self-reliant agents of change."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Based on the chapter, evaluate the statement: 'The roots of several problems faced by women lie in the mentality of men.'",
+      "answer": "The chapter strongly supports the evaluation that 'the roots of several problems faced by women lie in the mentality of men.' It argues that even in the 21st century, a deep-seated male-centred mentality persists in Indian society. This mentality manifests as a preference for sons (leading to female foeticide and skewed sex ratios), the perception of women as property or burdens (fuelling dowry demands and violence), resistance to women's education and economic independence, and acceptance of domestic dominance. Historical and contemporary examples, from declining gender ratios to dowry deaths and the need for anti-liquor movements led by women affected by male alcoholism, all point to social norms and attitudes shaped by patriarchal thinking. While laws and policies provide external frameworks, the chapter implies that lasting change requires a fundamental shift in this underlying mentality that perpetuates inequality and discrimination against women."
+    }
+  ]
+}

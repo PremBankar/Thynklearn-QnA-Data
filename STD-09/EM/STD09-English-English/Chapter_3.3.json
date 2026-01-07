@@ -1,0 +1,251 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.3.3",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "3.3 The Road Not Taken"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In the poem, where does the traveller encounter the two roads?",
+      "options": [
+        { "option_id": 1, "text": "In a green forest", "is_correct": false },
+        { "option_id": 2, "text": "In a yellow wood", "is_correct": true },
+        { "option_id": 3, "text": "On a snowy evening", "is_correct": false },
+        { "option_id": 4, "text": "At a city crossroads", "is_correct": false }
+      ],
+      "answer": "In a yellow wood"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why does the poet feel sorry at the beginning of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Because he is lost", "is_correct": false },
+        { "option_id": 2, "text": "Because he cannot travel both roads", "is_correct": true },
+        { "option_id": 3, "text": "Because the road is dangerous", "is_correct": false },
+        { "option_id": 4, "text": "Because it is getting dark", "is_correct": false }
+      ],
+      "answer": "Because he cannot travel both roads"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the poet do before choosing a road?",
+      "options": [
+        { "option_id": 1, "text": "He asks for directions", "is_correct": false },
+        { "option_id": 2, "text": "He throws a coin", "is_correct": false },
+        { "option_id": 3, "text": "He stands and looks down one as far as he can", "is_correct": true },
+        { "option_id": 4, "text": "He quickly chooses the wider path", "is_correct": false }
+      ],
+      "answer": "He stands and looks down one as far as he can"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why does the poet claim the second road had 'perhaps the better claim'?",
+      "options": [
+        { "option_id": 1, "text": "Because it was wider", "is_correct": false },
+        { "option_id": 2, "text": "Because it was paved", "is_correct": false },
+        { "option_id": 3, "text": "Because it was grassy and wanted wear", "is_correct": true },
+        { "option_id": 4, "text": "Because it was shorter", "is_correct": false }
+      ],
+      "answer": "Because it was grassy and wanted wear"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the poet realize about the two roads upon closer inspection?",
+      "options": [
+        { "option_id": 1, "text": "One was clearly more used", "is_correct": false },
+        { "option_id": 2, "text": "Both were equally worn", "is_correct": true },
+        { "option_id": 3, "text": "Both were completely overgrown", "is_correct": false },
+        { "option_id": 4, "text": "One was blocked", "is_correct": false }
+      ],
+      "answer": "Both were equally worn"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the poet plan to do with the first road?",
+      "options": [
+        { "option_id": 1, "text": "Forget about it", "is_correct": false },
+        { "option_id": 2, "text": "Keep it for another day", "is_correct": true },
+        { "option_id": 3, "text": "Tell others not to take it", "is_correct": false },
+        { "option_id": 4, "text": "Mark it on a map", "is_correct": false }
+      ],
+      "answer": "Keep it for another day"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why does the poet doubt he will ever come back to try the first road?",
+      "options": [
+        { "option_id": 1, "text": "Because he will be too old", "is_correct": false },
+        { "option_id": 2, "text": "Because he knows how way leads on to way", "is_correct": true },
+        { "option_id": 3, "text": "Because the road will disappear", "is_correct": false },
+        { "option_id": 4, "text": "Because he doesn't like to revisit places", "is_correct": false }
+      ],
+      "answer": "Because he knows how way leads on to way"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How will the poet tell this story 'ages and ages hence'?",
+      "options": [
+        { "option_id": 1, "text": "With joy and laughter", "is_correct": false },
+        { "option_id": 2, "text": "With a sigh", "is_correct": true },
+        { "option_id": 3, "text": "With regret and tears", "is_correct": false },
+        { "option_id": 4, "text": "With pride and boasting", "is_correct": false }
+      ],
+      "answer": "With a sigh"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What has 'made all the difference' according to the poet?",
+      "options": [
+        { "option_id": 1, "text": "Taking the road more travelled by", "is_correct": false },
+        { "option_id": 2, "text": "Taking the one less travelled by", "is_correct": true },
+        { "option_id": 3, "text": "Not taking any road at all", "is_correct": false },
+        { "option_id": 4, "text": "Going back home", "is_correct": false }
+      ],
+      "answer": "Taking the one less travelled by"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What season is symbolized by the 'yellow wood'?",
+      "options": [
+        { "option_id": 1, "text": "Spring", "is_correct": false },
+        { "option_id": 2, "text": "Summer", "is_correct": false },
+        { "option_id": 3, "text": "Autumn/Fall", "is_correct": true },
+        { "option_id": 4, "text": "Winter", "is_correct": false }
+      ],
+      "answer": "Autumn/Fall"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What does the word 'diverged' mean?",
+      "answer": "Separated and went in different directions."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What does 'wanted wear' mean in the context of the road?",
+      "answer": "It needed to be used; it was less traveled."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "How many stanzas are there in the poem?",
+      "answer": "Four."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of the first stanza?",
+      "answer": "ABAAB"
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What does the fork in the road symbolize?",
+      "answer": "A choice or decision point in life."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What does the poet say about the leaves on both roads that morning?",
+      "answer": "They were equally lay in leaves no step had trodden black."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Name the poet of 'The Road Not Taken'.",
+      "answer": "Robert Frost."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is the other famous poem by Robert Frost mentioned in the workshop?",
+      "answer": "'Stopping by Woods on a Snowy Evening'."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "In the Warming Up activity, what is one factor suggested for career decision-making?",
+      "answer": "Your skills/inborn talents (or any other from the list, e.g., Your capability, Your likes/dislikes)."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the main theme of the poem as suggested by its title?",
+      "answer": "The significance of choices, especially unconventional ones."
+    },
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "Explain the symbolism of the two roads in the poem. What do they represent in a person's life?",
+      "answer": "The two roads symbolize the choices we face in life. They represent different paths, directions, or decisions we must make, such as choosing a career, a lifestyle, or a personal commitment. The 'road less traveled by' symbolizes the unconventional, unique, or less popular choice, while the other road represents the common, well-trodden path. The poem explores the dilemma of choosing between safety and adventure, conformity and individuality."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "Why does the poet use the phrase 'with a sigh' when telling the story in the future? What emotions might this sigh convey?",
+      "answer": "The sigh conveys mixed, complex emotions. It could indicate nostalgia, a tinge of regret for the path not taken, or contemplation about how that singular choice shaped his entire life. Alternatively, it might express a sense of relief, satisfaction, or quiet pride in having taken the road less traveled, even if it was difficult. The ambiguity of the sigh is intentional, allowing readers to project their own feelings about life's choices onto the poet's reflection."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "Analyze the contradiction in the poem: the poet first says one road was 'grassy and wanted wear,' but then admits both were 'worn... about the same.' What does this reveal about decision-making?",
+      "answer": "This contradiction reveals a key insight about human psychology and decision-making. Initially, we perceive our choices as distinct, attributing unique qualities to the option we are leaning towards (it's 'grassy,' 'less traveled'). However, upon rational reflection, the options may be more similar than they first appeared ('worn about the same'). The poem suggests that the significance of a choice often comes not from an objective, clear-cut difference between options, but from the meaning we assign to it later and the commitment we bring to the path we choose."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "What life stage is compared to the 'yellow wood' (autumn) in the Warming Up discussion? Why is this comparison apt?",
+      "answer": "In the Warming Up discussion, the 'yellow wood' (autumn) is compared to middle age or a mature phase of life. This comparison is apt because autumn is a season of change, reflection, and harvest—a time when one looks back on the growth of spring and summer. Similarly, middle age is a time of looking back on the choices made in youth, assessing one's path, and understanding how those early decisions have shaped the current life. It's a period of contemplation, much like the poet's reflection on his choice of roads."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "Describe the flow of events in the poem in the correct chronological order.",
+      "answer": "First, the traveler comes to a fork in the road (a divergence). He stands for a long time, looking down one path as far as he can see. He then observes that the second road is grassy and less worn, giving it a better claim. However, he realizes both roads are equally worn. He chooses the second, less-traveled road. He thinks about keeping the first road for another day but doubts he will ever return because one path leads to another. Finally, he predicts that in the distant future, he will tell this story with a sigh, stating that taking the road less traveled has made all the difference."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "If you were the traveler, which road would you choose and why? Justify your answer with reasoning related to personal growth or values.",
+      "answer": "If I were the traveler, I would choose the road less traveled. While it might be uncertain and challenging, it offers the opportunity for unique experiences, self-discovery, and personal growth that following the crowd cannot provide. Choosing the unconventional path often leads to developing resilience, independence, and innovation. It aligns with the value of creating one's own journey rather than simply following pre-set tracks. Even if it leads to difficulties, the lessons learned and the sense of authenticity would be worth it, making 'all the difference' in shaping a distinctive and meaningful life."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "What does the poem suggest about the permanence and consequences of our choices?",
+      "answer": "The poem suggests that our choices are significant and often permanent, with far-reaching consequences. The line 'way leads on to way' implies that one decision sets off a chain of events, making it improbable to return to the exact starting point to try the other option. The choice, once made, becomes an integral part of our life's narrative ('I shall be telling this...'). It shapes our identity and destiny ('that has made all the difference'). The poem emphasizes the weight of decision-making, reminding us that while we can't see the future, the paths we choose define our journey irreversibly."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "How does the structure of the poem (four stanzas, consistent rhyme scheme) contribute to its theme and mood?",
+      "answer": "The poem's structure of four quintains (five-line stanzas) with a steady ABAAB rhyme scheme contributes significantly to its theme and mood. The consistent, almost marching rhythm mirrors the steady, contemplative walk of a traveler and the inevitable forward motion of life. The rhyme scheme creates a musical, reflective tone suitable for introspection. The structure is orderly and predictable, which contrasts with and highlights the unpredictable nature of the choice being described. It gives the poem a feeling of a settled, well-reasoned narrative, as if the speaker has had time to reflect and package this memory into a coherent, enduring story."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "Based on the Warming Up activity, discuss a strategy for making a difficult personal choice, like the one between studies and hobbies.",
+      "answer": "A strategy for making a difficult choice like studies vs. hobbies involves several steps. First, clearly identify your ultimate aim—what do you want to achieve long-term? Second, assess your capability and inborn talents in both areas. Third, consider your genuine likes and dislikes, not just external pressure. Fourth, study the 'profile' of each path—what does success in studies or that hobby actually require? Fifth, anticipate possible difficulties. It's crucial not to decide based on easy money or friends' decisions. The goal is to find a balance or a priority that aligns with your core values and long-term vision, perhaps by scheduling dedicated time for both or choosing a focus that incorporates elements of each."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "What is the significance of the title 'The Road Not Taken'? How does it frame the entire poem's meaning?",
+      "answer": "The title 'The Road Not Taken' is profoundly significant because it focuses not on the chosen path, but on the one that was rejected. This framing shifts the poem's emphasis from action to reflection, from consequence to contemplation. It highlights the human tendency to dwell on missed opportunities and the 'what ifs' of life. The title invites readers to consider how our identities are shaped as much by the choices we forgo as by those we make. It underscores the theme of regret, curiosity, and the enduring mystery of the unchosen path, making the poem a meditation on loss, possibility, and the stories we tell ourselves about our decisions."
+    }
+  ]
+}

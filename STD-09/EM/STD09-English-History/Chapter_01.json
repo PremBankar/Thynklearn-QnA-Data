@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.History.01",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Sources of History"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where is the main office of the National Archives of India located?",
+      "options": [
+        { "option_id": 1, "text": "Pune", "is_correct": false },
+        { "option_id": 2, "text": "New Delhi", "is_correct": true },
+        { "option_id": 3, "text": "Kolkata", "is_correct": false },
+        { "option_id": 4, "text": "Hyderabad", "is_correct": false }
+      ],
+      "answer": "New Delhi"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is considered the 'fourth pillar of democracy'?",
+      "options": [
+        { "option_id": 1, "text": "Radio", "is_correct": false },
+        { "option_id": 2, "text": "Television", "is_correct": false },
+        { "option_id": 3, "text": "Newspapers", "is_correct": true },
+        { "option_id": 4, "text": "Internet", "is_correct": false }
+      ],
+      "answer": "Newspapers"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the name of the annual reference book published by the Information and Broadcasting Department of India?",
+      "options": [
+        { "option_id": 1, "text": "India Today", "is_correct": false },
+        { "option_id": 2, "text": "India 2000", "is_correct": true },
+        { "option_id": 3, "text": "India Handbook", "is_correct": false },
+        { "option_id": 4, "text": "India Chronicle", "is_correct": false }
+      ],
+      "answer": "India 2000"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who was Jal Cooper?",
+      "options": [
+        { "option_id": 1, "text": "A famous journalist", "is_correct": false },
+        { "option_id": 2, "text": "An internationally acclaimed philatelist", "is_correct": true },
+        { "option_id": 3, "text": "A renowned historian", "is_correct": false },
+        { "option_id": 4, "text": "A postmaster general", "is_correct": false }
+      ],
+      "answer": "An internationally acclaimed philatelist"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which technology did the Press Trust of India (PTI) start using in the 1990s to send news across the country?",
+      "options": [
+        { "option_id": 1, "text": "Teleprinters", "is_correct": false },
+        { "option_id": 2, "text": "Satellite broadcast", "is_correct": true },
+        { "option_id": 3, "text": "Internet", "is_correct": false },
+        { "option_id": 4, "text": "Radio waves", "is_correct": false }
+      ],
+      "answer": "Satellite broadcast"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the abbreviation 'PTI' stand for?",
+      "options": [
+        { "option_id": 1, "text": "Press Trust of India", "is_correct": true },
+        { "option_id": 2, "text": "Printing Technology Institute", "is_correct": false },
+        { "option_id": 3, "text": "Public Television of India", "is_correct": false },
+        { "option_id": 4, "text": "Postal Trust of India", "is_correct": false }
+      ],
+      "answer": "Press Trust of India"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which institution prints currency notes in India?",
+      "options": [
+        { "option_id": 1, "text": "State Bank of India", "is_correct": false },
+        { "option_id": 2, "text": "Ministry of Finance", "is_correct": false },
+        { "option_id": 3, "text": "Security Printing and Minting Corporation of India", "is_correct": false },
+        { "option_id": 4, "text": "Reserve Bank of India", "is_correct": true }
+      ],
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where is the headquarters of the Reserve Bank of India located?",
+      "options": [
+        { "option_id": 1, "text": "New Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Kolkata", "is_correct": false },
+        { "option_id": 3, "text": "Mumbai", "is_correct": true },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of an audio-visual medium?",
+      "options": [
+        { "option_id": 1, "text": "Newspapers", "is_correct": false },
+        { "option_id": 2, "text": "Books", "is_correct": false },
+        { "option_id": 3, "text": "Television", "is_correct": true },
+        { "option_id": 4, "text": "Postage Stamps", "is_correct": false }
+      ],
+      "answer": "Television"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What was the purpose of establishing the Film and Television Institute of India (FTII) in Pune?",
+      "options": [
+        { "option_id": 1, "text": "To produce commercial films", "is_correct": false },
+        { "option_id": 2, "text": "To provide public education", "is_correct": true },
+        { "option_id": 3, "text": "To train journalists", "is_correct": false },
+        { "option_id": 4, "text": "To preserve ancient manuscripts", "is_correct": false }
+      ],
+      "answer": "To provide public education"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT listed as a type of written source in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Government Gazettes", "is_correct": false },
+        { "option_id": 2, "text": "Postage Stamps", "is_correct": false },
+        { "option_id": 3, "text": "Folksongs", "is_correct": true },
+        { "option_id": 4, "text": "Encyclopedias", "is_correct": false }
+      ],
+      "answer": "Folksongs"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the study of postage stamps called?",
+      "options": [
+        { "option_id": 1, "text": "Archaeology", "is_correct": false },
+        { "option_id": 2, "text": "Philately", "is_correct": true },
+        { "option_id": 3, "text": "Numismatics", "is_correct": false },
+        { "option_id": 4, "text": "Historiography", "is_correct": false }
+      ],
+      "answer": "Philately"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which poet wrote the poem 'Aavahan' based on the backdrop of the Sino-Indian war?",
+      "options": [
+        { "option_id": 1, "text": "Rabindranath Tagore", "is_correct": false },
+        { "option_id": 2, "text": "Kusumagraj", "is_correct": true },
+        { "option_id": 3, "text": "Anna Bhau Sathe", "is_correct": false },
+        { "option_id": 4, "text": "Amar Sheikh", "is_correct": false }
+      ],
+      "answer": "Kusumagraj"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which movement were activists inspired by the powadas of Lokshahir Anna Bhau Sathe and Shahir Amar Sheikh?",
+      "options": [
+        { "option_id": 1, "text": "Indian Independence Movement", "is_correct": false },
+        { "option_id": 2, "text": "Sanyukta Maharashtra Movement", "is_correct": true },
+        { "option_id": 3, "text": "Non-Cooperation Movement", "is_correct": false },
+        { "option_id": 4, "text": "Quit India Movement", "is_correct": false }
+      ],
+      "answer": "Sanyukta Maharashtra Movement"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which organization has produced various newsreels and documentaries useful for studying modern Indian history?",
+      "options": [
+        { "option_id": 1, "text": "Doordarshan", "is_correct": false },
+        { "option_id": 2, "text": "Indian News Review", "is_correct": true },
+        { "option_id": 3, "text": "PTI", "is_correct": false },
+        { "option_id": 4, "text": "Archaeological Survey of India", "is_correct": false }
+      ],
+      "answer": "Indian News Review"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In what year was the Jal Cooper postage stamp issued by the Indian government?",
+      "options": [
+        { "option_id": 1, "text": "1970", "is_correct": false },
+        { "option_id": 2, "text": "1977", "is_correct": true },
+        { "option_id": 3, "text": "1980", "is_correct": false },
+        { "option_id": 4, "text": "1991", "is_correct": false }
+      ],
+      "answer": "1977"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What are 'powadas'?",
+      "options": [
+        { "option_id": 1, "text": "Marathi folksongs", "is_correct": true },
+        { "option_id": 2, "text": "Historical documents", "is_correct": false },
+        { "option_id": 3, "text": "Types of coins", "is_correct": false },
+        { "option_id": 4, "text": "Postage stamp designs", "is_correct": false }
+      ],
+      "answer": "Marathi folksongs"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the primary challenge mentioned regarding information available on the Internet for historical study?",
+      "options": [
+        { "option_id": 1, "text": "It is too expensive", "is_correct": false },
+        { "option_id": 2, "text": "It is insufficient", "is_correct": false },
+        { "option_id": 3, "text": "Its truth and authenticity need to be verified", "is_correct": true },
+        { "option_id": 4, "text": "It is only available in English", "is_correct": false }
+      ],
+      "answer": "Its truth and authenticity need to be verified"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which type of source is the 'Empire of India Philatelic Society' founded by Jal Cooper?",
+      "options": [
+        { "option_id": 1, "text": "A museum", "is_correct": false },
+        { "option_id": 2, "text": "A written source", "is_correct": false },
+        { "option_id": 3, "text": "An oral source", "is_correct": false },
+        { "option_id": 4, "text": "A material source", "is_correct": true }
+      ],
+      "answer": "A material source"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the main office of the National Archives of India known as?",
+      "options": [
+        { "option_id": 1, "text": "A museum", "is_correct": false },
+        { "option_id": 2, "text": "A library", "is_correct": false },
+        { "option_id": 3, "text": "An archive", "is_correct": true },
+        { "option_id": 4, "text": "A gazetteer", "is_correct": false }
+      ],
+      "answer": "An archive"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What type of information can we get from newspapers according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Only political news", "is_correct": false },
+        { "option_id": 2, "text": "Only international affairs", "is_correct": false },
+        { "option_id": 3, "text": "National and international affairs, politics, art, sports, literature, and socio-cultural affairs", "is_correct": true },
+        { "option_id": 4, "text": "Only sports updates", "is_correct": false }
+      ],
+      "answer": "National and international affairs, politics, art, sports, literature, and socio-cultural affairs"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of a material source?",
+      "options": [
+        { "option_id": 1, "text": "Folktale", "is_correct": false },
+        { "option_id": 2, "text": "Government Gazette", "is_correct": false },
+        { "option_id": 3, "text": "Coins", "is_correct": true },
+        { "option_id": 4, "text": "Newspaper", "is_correct": false }
+      ],
+      "answer": "Coins"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is an example of a 'gadget' that came and went quickly during the shift from landlines to cellphones?",
+      "options": [
+        { "option_id": 1, "text": "Teleprinter", "is_correct": false },
+        { "option_id": 2, "text": "Pager", "is_correct": true },
+        { "option_id": 3, "text": "Walkie-Talkie", "is_correct": false },
+        { "option_id": 4, "text": "Telex", "is_correct": false }
+      ],
+      "answer": "Pager"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which Indian museum is specifically mentioned as an example in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "National Museum, New Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Salar Jung Museum, Hyderabad", "is_correct": false },
+        { "option_id": 3, "text": "Chhatrapati Shivaji Maharaj Museum, Mumbai", "is_correct": true },
+        { "option_id": 4, "text": "Indian Museum, Kolkata", "is_correct": false }
+      ],
+      "answer": "Chhatrapati Shivaji Maharaj Museum, Mumbai"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What kind of special supplements do some newspapers produce towards the end of the year?",
+      "options": [
+        { "option_id": 1, "text": "Sports previews", "is_correct": false },
+        { "option_id": 2, "text": "Overview of the year's important events", "is_correct": true },
+        { "option_id": 3, "text": "Financial forecasts", "is_correct": false },
+        { "option_id": 4, "text": "Fashion trends", "is_correct": false }
+      ],
+      "answer": "Overview of the year's important events"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which department of the Government of India creates the annual reference book 'INDIA 2000'?",
+      "options": [
+        { "option_id": 1, "text": "Ministry of Home Affairs", "is_correct": false },
+        { "option_id": 2, "text": "Research, Reference and Training Department", "is_correct": true },
+        { "option_id": 3, "text": "Ministry of External Affairs", "is_correct": false },
+        { "option_id": 4, "text": "Department of Posts", "is_correct": false }
+      ],
+      "answer": "Research, Reference and Training Department"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What can the study of coins from 1950 onwards help us understand?",
+      "options": [
+        { "option_id": 1, "text": "Only the economic value", "is_correct": false },
+        { "option_id": 2, "text": "Important contemporary issues like population control and agriculture", "is_correct": true },
+        { "option_id": 3, "text": "The personal lives of leaders", "is_correct": false },
+        { "option_id": 4, "text": "Foreign policy decisions", "is_correct": false }
+      ],
+      "answer": "Important contemporary issues like population control and agriculture"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the name of the journal edited by Jal Cooper?",
+      "options": [
+        { "option_id": 1, "text": "The Philatelist", "is_correct": false },
+        { "option_id": 2, "text": "India's Stamp Journal", "is_correct": true },
+        { "option_id": 3, "text": "Postal Times", "is_correct": false },
+        { "option_id": 4, "text": "Stamp Collector", "is_correct": false }
+      ],
+      "answer": "India's Stamp Journal"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT listed as an oral source?",
+      "options": [
+        { "option_id": 1, "text": "Folktales", "is_correct": false },
+        { "option_id": 2, "text": "Folksongs", "is_correct": false },
+        { "option_id": 3, "text": "Proverbs", "is_correct": false },
+        { "option_id": 4, "text": "Archives", "is_correct": true }
+      ],
+      "answer": "Archives"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which international television channel is mentioned as an example of audio-visual media?",
+      "options": [
+        { "option_id": 1, "text": "BBC World", "is_correct": false },
+        { "option_id": 2, "text": "CNN", "is_correct": false },
+        { "option_id": 3, "text": "Discovery Channel", "is_correct": true },
+        { "option_id": 4, "text": "National Geographic", "is_correct": false }
+      ],
+      "answer": "Discovery Channel"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "From what year did the Press Trust of India become an important source of primary details?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1953", "is_correct": true },
+        { "option_id": 3, "text": "1960", "is_correct": false },
+        { "option_id": 4, "text": "1971", "is_correct": false }
+      ],
+      "answer": "1953"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What was the alternative that became available to print media with liberalisation and internet use in India?",
+      "options": [
+        { "option_id": 1, "text": "Radio", "is_correct": false },
+        { "option_id": 2, "text": "Television", "is_correct": false },
+        { "option_id": 3, "text": "Digital/Online media", "is_correct": true },
+        { "option_id": 4, "text": "Cinema", "is_correct": false }
+      ],
+      "answer": "Digital/Online media"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What are 'owis'?",
+      "options": [
+        { "option_id": 1, "text": "Tamil folk songs", "is_correct": false },
+        { "option_id": 2, "text": "Marathi verses in oral tradition", "is_correct": true },
+        { "option_id": 3, "text": "Bengali proverbs", "is_correct": false },
+        { "option_id": 4, "text": "Punjabi ballads", "is_correct": false }
+      ],
+      "answer": "Marathi verses in oral tradition"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of these is a reason why sources for modern history are relatively easy to study?",
+      "options": [
+        { "option_id": 1, "text": "They are very old and mysterious", "is_correct": false },
+        { "option_id": 2, "text": "They are from the contemporary period and easily available", "is_correct": true },
+        { "option_id": 3, "text": "They are written in ancient languages", "is_correct": false },
+        { "option_id": 4, "text": "They are all stored in one place", "is_correct": false }
+      ],
+      "answer": "They are from the contemporary period and easily available"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The 'Jal Cooper' postage stamp is a source to understand his contribution to which field?",
+      "options": [
+        { "option_id": 1, "text": "Journalism", "is_correct": false },
+        { "option_id": 2, "text": "Literature", "is_correct": false },
+        { "option_id": 3, "text": "Philately", "is_correct": true },
+        { "option_id": 4, "text": "Archaeology", "is_correct": false }
+      ],
+      "answer": "Philately"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a private museum based on a distinctive subject?",
+      "options": [
+        { "option_id": 1, "text": "A museum displaying state heritage", "is_correct": false },
+        { "option_id": 2, "text": "A museum for cricket equipment", "is_correct": true },
+        { "option_id": 3, "text": "A national art museum", "is_correct": false },
+        { "option_id": 4, "text": "A natural history museum", "is_correct": false }
+      ],
+      "answer": "A museum for cricket equipment"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What kind of information does the reference book 'INDIA 2000' contain?",
+      "options": [
+        { "option_id": 1, "text": "Only political history", "is_correct": false },
+        { "option_id": 2, "text": "Information about land, people, political system, defence, education, culture, science, technology, etc.", "is_correct": true },
+        { "option_id": 3, "text": "Only economic data", "is_correct": false },
+        { "option_id": 4, "text": "Biographies of famous people", "is_correct": false }
+      ],
+      "answer": "Information about land, people, political system, defence, education, culture, science, technology, etc."
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What do postage stamps reveal according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Only postal rates", "is_correct": false },
+        { "option_id": 2, "text": "Nothing on their own", "is_correct": false },
+        { "option_id": 3, "text": "A lot about changing times through their size, subjects, and colours", "is_correct": true },
+        { "option_id": 4, "text": "Only the year they were printed", "is_correct": false }
+      ],
+      "answer": "A lot about changing times through their size, subjects, and colours"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "When was the Film and Television Institute of India (FTII) started?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1950", "is_correct": false },
+        { "option_id": 3, "text": "1960", "is_correct": true },
+        { "option_id": 4, "text": "1975", "is_correct": false }
+      ],
+      "answer": "1960"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is one of the examples given for a theme on which the Postal Department issues stamps?",
+      "options": [
+        { "option_id": 1, "text": "Future predictions", "is_correct": false },
+        { "option_id": 2, "text": "Silver, golden, diamond jubilees of events", "is_correct": true },
+        { "option_id": 3, "text": "Abstract art", "is_correct": false },
+        { "option_id": 4, "text": "Science fiction", "is_correct": false }
+      ],
+      "answer": "Silver, golden, diamond jubilees of events"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Name four categories of sources for studying history mentioned in the chapter.",
+      "answer": "Written sources, Material sources, Oral sources, Audio-visual sources."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the largest archive in Asia?",
+      "answer": "The National Archives of India, located in New Delhi."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What are Government Gazettes?",
+      "answer": "They are official publications issued by the government, containing legal notices and public announcements, and are a type of written source."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What does the chapter say about the truth of information on the Internet?",
+      "answer": "The truth and authenticity of information on the Internet needs to be verified."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "List three examples of oral sources.",
+      "answer": "Folktales, folksongs, and proverbs."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What did PTI provide to newspapers besides reports?",
+      "answer": "Photographs and articles on financial and scientific issues."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the purpose of museums according to the chapter?",
+      "answer": "To depict the characteristics and display the cultural and social heritage of a state, enabling us to understand history."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name the first Philatelic Bureau founder mentioned in the chapter.",
+      "answer": "Jal Cooper."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is a 'pager'?",
+      "answer": "A gadget that came up during the transformation from land line telephones to cellphones for contacting people, but died out quickly."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What are 'material sources' of history?",
+      "answer": "Physical objects from the past, such as coins, ornaments, buildings, and clothing."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What kind of documentaries has the Indian News Review department produced?",
+      "answer": "Documentaries on prominent social leaders, people who made major contributions to the country, and important locations in India."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are sources of modern history different?",
+      "answer": "They are different from ancient and medieval sources and we have to note sources at regional, state, national, and international levels."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What do annual newspaper supplements at year-end help us understand?",
+      "answer": "They help us understand the important events of that year."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the website for the Publications Division of the Government of India mentioned in the chapter?",
+      "answer": "www.publicationsdivision.nic.in"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does the Reserve Bank of India do?",
+      "answer": "It prints the currency notes of India."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What can we understand from the changes in coins since 1950?",
+      "answer": "We can understand important contemporary issues in India, like messages on population control and the importance of agriculture."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name two audio-visual media examples given in the chapter.",
+      "answer": "Television and films."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are 'powadas' and who created them during the Sanyukta Maharashtra movement?",
+      "answer": "Powadas are Marathi folksongs. They were created by Lokshahir Anna Bhau Sathe and Shahir Amar Sheikh."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the main challenge with the rapid changes of the 21st century regarding historical sources?",
+      "answer": "The existing sources may prove inadequate, though new sources are coming forth."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What kind of private museums exist according to the chapter?",
+      "answer": "Private museums based on distinctive subjects like coins, notes, lamps, nutcrackers, and cricket equipment."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which community did Jal Cooper belong to?",
+      "answer": "He was born in a Parsi household in Mumbai."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are the 'three pillars' metaphorically extended by calling newspapers the fourth pillar?",
+      "answer": "The chapter implies the three pillars of democracy (Legislature, Executive, Judiciary), making newspapers the fourth."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is an 'archive'?",
+      "answer": "A place where historical documents are preserved."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does the chapter suggest about our role in preserving sources of history?",
+      "answer": "We should also contribute to the efforts for preservation of such sources."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is an example of a written source that is a periodical?",
+      "answer": "Monthly and annual magazines."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does the chapter advise regarding information from the Internet?",
+      "answer": "The huge amount of information is useful, but its truth and authenticity needs to be verified."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How do state museums help us?",
+      "answer": "They depict the characteristics and display the cultural and social heritage of the state, enabling us to understand its history."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What was the 'India's Stamp Journal'?",
+      "answer": "It was a journal edited by the philatelist Jal Cooper."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are 'ballads'?",
+      "answer": "They are a type of narrative folksong, mentioned as an example of oral sources."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is history relatively easy to study with modern sources?",
+      "answer": "As these sources are from the contemporary period, they are easily available."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain why newspapers are considered an important source for writing modern Indian history.",
+      "answer": "Newspapers are a major medium of information and are considered the fourth pillar of democracy. They provide comprehensive coverage of national and international affairs, politics, art, sports, literature, and socio-cultural matters—all of which are aspects of human life that constitute history. They publish special year-end supplements that review important annual events, helping historians understand the timeline and significance of occurrences. Their widespread availability and regional editions make them a crucial and accessible written source for studying contemporary history."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the role and importance of the Press Trust of India (PTI) as a source of modern history.",
+      "answer": "The Press Trust of India (PTI) has been an important source of primary details for all major events and articles on important subjects since 1953. It supplies newspapers with reports, photographs, and articles on a wide range of topics, including financial and scientific issues. By adopting satellite broadcast technology in the 1990s, PTI ensured rapid and widespread dissemination of news across the country. Its move to online services further expands its reach. As a primary news agency, the material provided by PTI forms an authentic and contemporary record, making it indispensable for writing an accurate history of modern India."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "How do postage stamps serve as valuable sources of history? Explain with examples from the chapter.",
+      "answer": "Postage stamps serve as valuable historical sources because they reflect the changing times and priorities of a nation. A historian can interpret the variety in their sizes, subjects, and colour schemes to understand societal values and commemorated events. For instance, the Indian Postal Department issues stamps on diverse themes like political leaders, flora and fauna, and significant anniversaries (silver, golden jubilees). The 'Jal Cooper' stamp itself is a source that tells the history of philately in India and honours an individual who internationalized its study. Thus, stamps act as a visual and material repository of cultural and historical narratives."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Discuss the significance of audio-visual sources in the study of modern Indian history.",
+      "answer": "Audio-visual sources like television, films, and the internet are crucial for studying modern Indian history as they provide a dynamic and multi-sensory record of the past. They capture events, personalities, and cultural expressions in a way written words cannot. Institutions like the Film and Television Institute of India (FTII) and Indian News Review have produced educational documentaries, newsreels, and films on politics, social issues, art, and prominent leaders. Channels like the History Channel and Discovery Channel also offer historical content. These sources make history more engaging and accessible, providing visual evidence and contemporary perspectives essential for a comprehensive understanding."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Explain the statement: 'The times in the 21st century are changing so rapidly, that even these sources will prove to be inadequate.'",
+      "answer": "This statement highlights the challenge of historiography in the digital age. The pace of technological and social change in the 21st century is extremely fast. Sources that are standard today (like certain websites or digital formats) may become obsolete, inaccessible, or insufficient to capture the full scope of events. For example, the chapter mentions the brief emergence and disappearance of pagers. While new sources like social media and digital archives are emerging, historians must constantly adapt their methods to collect, verify, and preserve these often-fleeting digital records to ensure future generations can study our present era accurately."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Compare and contrast the sources available for studying ancient history versus modern history.",
+      "answer": "Sources for ancient history are often scarce, fragmented, and primarily archaeological (like ruins, pottery, coins) or limited written records (like inscriptions, manuscripts) that require decipherment. In contrast, sources for modern history are abundant, diverse, and readily accessible. They include a vast array of written records (newspapers, government documents), material objects (modern coins, architecture), oral histories (recorded interviews), and extensive audio-visual media (films, television broadcasts). While ancient sources require interpretation of silent objects, modern sources provide direct accounts and multimedia records, making the study more immediate but also requiring critical evaluation of information overload and potential bias."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe the different types of material sources mentioned in the chapter and what historians can learn from them.",
+      "answer": "The chapter lists several types of material sources: Coins, Places of worship, Things in daily use, Royal Seals, Ornaments, Museums, Clothing, and Modern architecture. Historians can learn a great deal from these physical objects. Coins reveal economic conditions, political authority, and contemporary issues (e.g., messages on population control). Buildings and architecture reflect technological advancements, artistic styles, and societal priorities. Everyday objects, clothing, and ornaments provide insights into the lifestyle, social status, and cultural practices of people. Museums collectively preserve and display these artefacts, offering a tangible connection to the past and helping us understand cultural heritage and social evolution."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Why are oral sources important for history, especially for movements like the Sanyukta Maharashtra Movement?",
+      "answer": "Oral sources like folktales, folksongs (powadas), proverbs, and ballads are important because they preserve the voices, emotions, and perspectives of common people, which are often absent from official written records. For movements like the Sanyukta Maharashtra Movement, oral sources such as the powadas of Lokshahir Anna Bhau Sathe and Shahir Amar Sheikh played a crucial role. These songs spread the movement's ideology, inspired activists, and mobilized public sentiment. They serve as a living record of the people's aspirations, struggles, and cultural expression, providing a grassroots-level understanding of historical events that complements formal historical accounts."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What is the importance of government publications like 'INDIA 2000' for historical research?",
+      "answer": "Government publications like the annual reference book 'INDIA 2000' are of paramount importance for historical research due to their authenticity and comprehensive nature. Created under the Research, Reference and Training Department, they provide verified and official data on a wide range of topics—including geography, demography, political system, defence, education, culture, science, technology, economy, and social welfare. This consolidated and reliable information serves as a primary source for understanding the state of the nation at a given time. Historians can use such publications to track development, policy implementation, and national priorities over different years, forming a factual backbone for writing modern Indian history."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "How do museums contribute to the preservation and understanding of history?",
+      "answer": "Museums play a vital role in preserving and understanding history by systematically collecting, conserving, and displaying material sources from the past. State museums showcase the cultural and social heritage unique to their region, like the Chhatrapati Shivaji Maharaj Museum in Mumbai. Private museums focus on distinctive subjects like coins or sports equipment, preserving niche aspects of history. By presenting artefacts in a curated manner, museums provide a tangible and visual context to historical periods. They educate the public, stimulate research, and safeguard physical evidence that might otherwise be lost, making history accessible, engaging, and empirically grounded for students, historians, and citizens alike."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the contribution of Jal Cooper to the field of philately and why a postage stamp was issued in his honour.",
+      "answer": "Jal Cooper was an internationally acclaimed philatelist who made seminal contributions to the study of postage stamps in India. He edited 'India's Stamp Journal', founded the first Philatelic Bureau in India for stamp collection, and established the 'Empire of India Philatelic Society'. He authored many books and applied a scientific approach to philately. His pivotal role elevated the study of Indian stamps to the international level. The Indian government issued a postage stamp in his honour in 1977 to acknowledge his significant contributions. This stamp itself becomes a historical source, documenting his achievements and the importance of philately as a discipline for understanding cultural and historical narratives."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "What challenges does a historian face when using the Internet as a source, and how can they overcome them?",
+      "answer": "A historian using the Internet as a source faces two main challenges: the overwhelming volume of information and the critical issue of verifying its truth and authenticity. Unlike curated archives, internet content can be unverified, biased, or false. To overcome these challenges, historians must employ rigorous source criticism. This involves cross-checking facts with multiple reliable sources (like official publications or academic databases), assessing the credibility of the website or author, looking for citations and evidence, and being aware of potential biases. The convenience of the Internet must be balanced with a disciplined approach to verification to ensure the historical narrative built upon it is accurate and trustworthy."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Describe the evolution of news dissemination technology as mentioned in the chapter, from teleprinters to the present.",
+      "answer": "The chapter outlines a significant evolution in news dissemination technology. Initially, news agencies like PTI relied on teleprinters to distribute reports. In the 1990s, a major technological shift occurred with the adoption of 'satellite broadcast' technology. This allowed for much faster and simultaneous transmission of news, including photographs, across the entire country. Subsequently, the digital revolution led to the advent of online services. PTI and newspapers started offering digital content, making news instantly accessible via the internet. This evolution from mechanical teleprinters to satellite and then digital platforms reflects the broader technological advancements that have made information flow rapid and ubiquitous in modern India."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Why is it important to preserve sources of history, and what role can individuals play in this effort?",
+      "answer": "Preserving sources of history is crucial because they are the raw materials from which our understanding of the past is built. Without them, we cannot accurately reconstruct events, understand societal changes, or learn from previous experiences. Since history touches all aspects of life, its sources are diverse and often fragile. Individuals can play a significant role in this preservation effort. We can carefully maintain family documents, photographs, letters, and heirlooms. We can contribute to local archives or museums. We can responsibly create and store digital records. By being conscious of the historical value of everyday objects and information, every person can help in safeguarding the collective memory for future generations."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How does literature serve as a source of history? Explain with the example given in the chapter.",
+      "answer": "Literature serves as a powerful source of history by reflecting the social, political, and emotional climate of its time. It captures contemporary perceptions, public sentiment, and the human experience of historical events in a way factual reports cannot. The chapter provides the example of the poem 'Aavahan' by the noted Marathi poet Kusumagraj, written against the backdrop of the Sino-Indian war. This poem offers insights into how the war was perceived by people and artists, the emotions it stirred, and its impact on the national psyche. By studying such literature, historians gain a deeper, more nuanced understanding of the era beyond mere dates and events, accessing the voice and conscience of the period."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What are the advantages of having multiple categories of sources (written, material, oral, audio-visual) for studying a historical period?",
+      "answer": "Having multiple categories of sources provides a more holistic, accurate, and nuanced understanding of a historical period. Each type of source has its strengths and limitations. Written sources offer detailed accounts and official perspectives. Material sources provide tangible, physical evidence of technology, art, and daily life. Oral sources capture the memories, traditions, and viewpoints of communities often excluded from written records. Audio-visual sources deliver dynamic sensory records of events and culture. By cross-referencing information from these diverse sources, historians can corroborate facts, identify biases, fill gaps in knowledge, and construct a multi-dimensional narrative that encompasses political events, social structures, cultural expressions, and everyday experiences of the past."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Explain the statement: 'The postal department tries to preserve the heritage and integrity of Indian culture through postage stamps.'",
+      "answer": "This statement means that the Indian Postal Department uses postage stamps as a canvas to celebrate and document the diverse elements that constitute India's cultural heritage. By issuing stamps on themes like national leaders, historical events, festivals, classical dances, wildlife, monuments, and anniversaries (like jubilees), the department actively promotes and preserves the symbols of Indian identity and integrity. These stamps circulate nationally and internationally, serving as miniature ambassadors of Indian culture. They educate people about the country's achievements, values, and diversity, ensuring that significant aspects of the national heritage are commemorated, remembered, and integrated into the historical record accessible to all."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Describe the role of the Film and Television Institute of India (FTII) in creating sources for modern Indian history.",
+      "answer": "The Film and Television Institute of India (FTII), established in Pune in 1960, plays a significant role in creating audio-visual sources for modern Indian history. Founded with the purpose of public education, it trains professionals in film and television production. More directly, its associated wing, Indian News Review, has produced numerous newsreels documenting important political events, social issues, art, sports, and cultural milestones. FTII has also produced various documentaries on prominent social leaders, national contributors, and important Indian locations. These films and newsreels are not just artistic works but valuable primary records that visually capture the zeitgeist, personalities, and transformations of modern India, serving as essential resources for historians and researchers."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How can coins be used to understand the socio-economic and political messages of a government?",
+      "answer": "Coins are potent tools for understanding the socio-economic and political messages of a government because they are state-issued artefacts that reach every citizen. The metal, design, symbols, and inscriptions on coins carry deliberate messages. For example, coins issued since India's independence reflect the nation's priorities. Coins promoting population control convey a key social welfare message. Those highlighting agriculture and farmers underscore the economic importance of the agrarian sector. Commemorative coins honouring leaders or events reinforce national icons and historical narratives. By studying the evolution of coinage—the subjects chosen, the languages used, and the imagery deployed—historians can decipher the changing ideologies, economic policies, and propaganda efforts of the government over time."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "According to the chapter, why is the print media still powerful despite the rise of digital alternatives?",
+      "answer": "According to the chapter, the print media, especially newspapers, remains powerful despite digital alternatives for several reasons. Firstly, it established itself as the primary and most trusted source of information for decades, with deep-rooted credibility. Secondly, it adapted by launching regional editions and specialized supplements, maintaining local relevance and in-depth coverage. Thirdly, not everyone has equal access to the internet, making print media essential for widespread information dissemination. Finally, year-end review supplements and analytical pieces in newspapers provide curated context that is highly valued. While digital media offers speed and interactivity, the print media's role in providing verified, comprehensive, and structured news ensures its continued influence in shaping public discourse and serving as a historical record."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What is the significance of the National Archives of India for historical research?",
+      "answer": "The National Archives of India (NAI) holds immense significance for historical research as the primary repository of the nation's non-current official records. Located in New Delhi and being the largest archive in Asia, it preserves a vast collection of documents, manuscripts, maps, and private papers spanning the colonial period to the present. For researchers, it is an indispensable source of authentic primary data on administration, politics, society, and economy. By safeguarding these fragile records, the NAI ensures that future generations have access to the original evidence needed to write accurate, evidence-based history. It serves as the foundational institution for professional historical research in India, providing the raw materials from which the narrative of the nation's past is constructed."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "How do private collectors contribute to the preservation of historical sources?",
+      "answer": "Private collectors contribute significantly to the preservation of historical sources by identifying, acquiring, and maintaining collections of material that might otherwise be lost, discarded, or neglected. As mentioned in the chapter, some private collectors set up their own museums based on distinctive subjects like coins, currency notes, lamps, nutcrackers, or cricket equipment. These personal passions lead to the systematic preservation of niche artefacts that official institutions might not focus on. By doing so, they protect pieces of cultural and social history, make them available for public viewing or academic study, and add diversity to the historical record. Their efforts complement government museums and archives, ensuring a broader and more detailed tapestry of the past is saved for posterity."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain how a historian's skill is involved in making sources like postage stamps 'speak'.",
+      "answer": "A historian's skill lies in interpretation and contextualization. While postage stamps may seem like silent pieces of paper, a historian makes them 'speak' by asking critical questions and placing them in their historical context. They analyze the stamp's design: Why was this particular theme (a leader, an event, a bird) chosen at this specific time? What do the colours and symbols represent? They investigate the circumstances of its issuance: What was the political or social climate? By connecting the stamp to broader historical events, policies, and cultural trends, the historian extracts meaning. For instance, a stamp on family planning becomes a source for understanding government social campaigns. Thus, the historian acts as an interpreter, decoding the visual and material language of stamps to reveal insights about the era that produced them."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What is the relationship between historical events and their representation in various media forms according to the chapter?",
+      "answer": "The chapter illustrates a dynamic relationship where historical events inspire their representation in various media forms, and these representations, in turn, become primary sources for future history. For example, the Sino-Indian war inspired the poem 'Aavahan'. The Sanyukta Maharashtra Movement inspired powadas. Important national events are documented in newsreels by Indian News Review and reported by PTI. The government issues commemorative stamps. Each medium—literature, folk songs, news reports, films, stamps—captures a different facet of the event: emotional impact, popular mobilization, factual reporting, or official commemoration. These contemporary representations are not just reflections of history; they are active parts of the historical process and become crucial evidence for historians studying the period, its perceptions, and its cultural output."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Why does the chapter emphasize the need to verify information from audio-visual and internet sources?",
+      "answer": "The chapter emphasizes verification because audio-visual and internet sources, while incredibly rich and useful, are also particularly susceptible to manipulation, bias, and inaccuracy. Unlike officially archived documents, anyone can create and disseminate content online or through unofficial films. Audio-visual media can be edited to change context or meaning. The internet hosts both credible information and misinformation. Therefore, for these sources to be used reliably in historical research, their truth and authenticity must be rigorously checked. Historians must verify dates, confirm the credibility of the producer, cross-reference with other established sources, and analyze the potential motives behind the content. This critical approach is essential to ensure that history written using these modern media is factual and not based on false or distorted representations."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "How can the history of a local village or town be written using the various sources discussed in the chapter?",
+      "answer": "Writing the history of a local village or town can be effectively done by utilizing a mix of the sources discussed. One could examine written sources like old local newspaper archives, municipal records (government gazettes), and personal letters or diaries held by families. Material sources would include old buildings, monuments, tools, clothing, and coins found locally. Oral sources are vital—interviewing elderly residents to record their memories, folktales, and songs about the area's past. Audio-visual sources could be old photographs, home videos, or local documentary films. Additionally, postage stamps related to the region or local museums/collections would provide context. By synthesizing evidence from these diverse categories, a comprehensive and multi-layered local history that captures social life, economic activities, cultural practices, and key events can be constructed."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Discuss the concept of 'authenticity' in historical sources with examples from the chapter.",
+      "answer": "Authenticity in historical sources refers to the genuineness of the source—it is what it claims to be, from the time and creator it purports to be from. The chapter highlights sources valued for their authenticity. For example, government publications like 'INDIA 2000' are considered authentic because they are official, verified records. The documents preserved in the National Archives are authentic primary sources. The news reports from PTI are considered authentic primary accounts of events. In contrast, the chapter warns that information on the Internet needs its authenticity verified because it can be easily fabricated or altered. A historian must establish authenticity by checking the provenance, authorship, and internal consistency of a source to ensure it is reliable evidence before using it to build a historical narrative."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What lessons can be learned from the example of the 'pager' mentioned in the chapter regarding the preservation of modern sources?",
+      "answer": "The example of the 'pager'—a gadget that emerged and died out quickly during the shift from landlines to cellphones—teaches a crucial lesson about the ephemeral nature of modern technology and the urgency of proactive preservation. It shows that sources defining an era can become obsolete and disappear within a short span. This underscores the challenge for historians and archivists: they must actively identify and preserve the physical artefacts, digital files, and usage patterns of current technologies before they vanish. Simply assuming that contemporary sources are abundant is risky. The lesson is to develop preservation strategies for both hardware (like the pager itself) and software/data associated with it, ensuring that future historians have the evidence to study even the transient technologies of our time."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How does the chapter define the scope of 'modern Indian history' in terms of the sources it requires?",
+      "answer": "The chapter defines the scope of modern Indian history, particularly the post-independence era, as requiring a much broader and multi-layered approach to sources compared to earlier periods. It emphasizes that historians must take note of sources at multiple levels: regional, state, national, and even international. This is because events and influences are interconnected across these scales. The sources themselves are diverse, encompassing traditional written records (newspapers, gazettes), material culture (coins, architecture), oral traditions, and expansive audio-visual media (TV, films, internet). The scope is thus not limited to elite political narratives but includes social, cultural, economic, and technological aspects, demanding a holistic collection and analysis of all available evidentiary forms to accurately capture the complexity of modern India."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the key message of the chapter regarding the study of history in the contemporary world.",
+      "answer": "The key message of the chapter is that studying history, especially of the modern period, is a dynamic and accessible process thanks to the abundance and variety of available sources. However, it comes with new responsibilities. We have a wealth of written, material, oral, and audio-visual sources at our disposal, making it easier to reconstruct the past. Yet, we must be critical consumers of information, especially from digital media, verifying authenticity and truth. The chapter also stresses that sources are not just for academics; they are part of our collective heritage. Everyone should contribute to preserving these sources—from family documents to digital footprints—because they form the essential evidence from which our understanding of today, for the historians of tomorrow, will be built."
+    }
+  ]
+}

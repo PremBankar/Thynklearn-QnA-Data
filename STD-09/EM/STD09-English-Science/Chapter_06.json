@@ -1,0 +1,1491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Science.06",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Classification of Plants"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a characteristic feature of plants in Kingdom Plantae?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presence of cell wall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autotrophic nutrition",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Prokaryotic cells",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Presence of chlorophyll",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prokaryotic cells"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who proposed the 'Five Kingdom' classification system that includes Plantae?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eichler",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Robert Whittaker",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Linnaeus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Darwin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Robert Whittaker"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which division of plants is known as the 'amphibians' of the plant kingdom?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thallophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bryophyta",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pteridophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gymnosperms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bryophyta"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following plants is an example of Thallophyta?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Funaria (Moss)",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spirogyra",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cycas",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spirogyra"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In which group of plants are seeds NOT enclosed within a fruit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Angiosperms",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gymnosperms",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Monocots",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dicots",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gymnosperms"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the primary mode of reproduction in cryptogams like Thallophyta, Bryophyta, and Pteridophyta?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Seed formation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spore formation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vegetative propagation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Budding",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spore formation"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is a characteristic feature of monocotyledonous plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reticulate venation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tap root system",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Flowers with 4 or 5 parts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parallel venation",
+          "is_correct": true
+        }
+      ],
+      "answer": "Parallel venation"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which botanist classified Kingdom Plantae into two subkingdoms, Cryptogams and Phanerogams, in 1883?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Robert Whittaker",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Eichler",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Carolus Linnaeus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "John Ray",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eichler"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which group of plants has well-developed roots, stems, and leaves but does NOT bear flowers or fruits?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thallophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bryophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pteridophyta",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gymnosperms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pteridophyta"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the term 'cryptogam'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Naked seeds",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Covered seeds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hidden reproductive organs",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Visible flowers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hidden reproductive organs"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a gymnosperm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mango",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pinus (Deodar)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bean",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pinus (Deodar)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "In which division would you place a plant that has a soft, fibre-like body and lacks true roots, stems, and leaves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bryophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pteridophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Thallophyta",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gymnosperms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thallophyta"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the key difference between gymnosperms and angiosperms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presence of flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Seed formation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Covering of seeds by fruits",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Presence of chlorophyll",
+          "is_correct": false
+        }
+      ],
+      "answer": "Covering of seeds by fruits"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is a characteristic of dicotyledonous plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fibrous root system",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parallel venation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Flowers with 3 parts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reticulate venation",
+          "is_correct": true
+        }
+      ],
+      "answer": "Reticulate venation"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Where are the sporangia located in ferns (Pteridophyta)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "On the stems",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On the roots",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "On the underside (posterior surface) of leaves",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Inside flowers",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the underside (posterior surface) of leaves"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of these plants reproduces using spores and has rhizoids instead of true roots?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cycas",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Funaria (Moss)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tamarind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spirogyra",
+          "is_correct": false
+        }
+      ],
+      "answer": "Funaria (Moss)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does the term 'phanerogam' refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plants with hidden reproductive organs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plants that produce seeds",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Plants that grow only in water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Plants without conducting tissues",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plants that produce seeds"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a criterion for classifying plants at higher levels?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presence or absence of flowers and fruits",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Number of cotyledons in seeds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Colour of the flowers",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Seeds enclosed in fruit or not",
+          "is_correct": false
+        }
+      ],
+      "answer": "Colour of the flowers"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which group of plants is primarily aquatic and includes organisms like Spirogyra and Ulva?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bryophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pteridophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Thallophyta",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gymnosperms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thallophyta"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In which group are the male and female flowers borne on different sporophylls of the same plant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bryophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Angiosperms",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gymnosperms",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pteridophyta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gymnosperms"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the primary basis for classifying plants into cryptogams and phanerogams?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presence or absence of seeds",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Presence or absence of visible reproductive organs (flowers/fruits)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Type of root system",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Habitat (aquatic/terrestrial)",
+          "is_correct": false
+        }
+      ],
+      "answer": "Presence or absence of visible reproductive organs (flowers/fruits)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of the following structures is characteristic of Bryophyta?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "True roots and stems",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rhizoids",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Well-developed vascular tissues",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Seeds enclosed in fruits",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rhizoids"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which example is correctly matched with its plant division?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marchantia - Pteridophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fern - Bryophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cycas - Gymnosperms",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Spirogyra - Angiosperms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cycas - Gymnosperms"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the main difference between monocots and dicots?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presence of chlorophyll",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Number of cotyledons in the seed",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ability to perform photosynthesis",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Presence of flowers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Number of cotyledons in the seed"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of the following is a feature of angiosperms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Seeds are naked",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Reproduction by spores",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Seeds develop inside fruits",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "No true roots, stems, or leaves",
+          "is_correct": false
+        }
+      ],
+      "answer": "Seeds develop inside fruits"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the primary function of rhizoids in bryophytes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Photosynthesis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Anchorage and absorption",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Seed production",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flower formation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anchorage and absorption"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of the following is a monocotyledonous plant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bean",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Groundnut",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wheat",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tamarind",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "In the classification hierarchy of plants, what comes after Kingdom Plantae?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Phylum",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sub-kingdom (Cryptogams/Phanerogams)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Class",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Order",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sub-kingdom (Cryptogams/Phanerogams)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which group of plants is known to have a well-developed conducting system for water and food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bryophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pteridophyta",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thallophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pteridophyta"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the role of pyrenoids in Spirogyra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reproduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Storage of starch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Absorption of water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Protection",
+          "is_correct": false
+        }
+      ],
+      "answer": "Storage of starch"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of the following plants bear seeds that are NOT enclosed in a fruit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mango",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Picea (Christmas tree)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Corn",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tamarind",
+          "is_correct": false
+        }
+      ],
+      "answer": "Picea (Christmas tree)"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the main characteristic of the plant body in Thallophyta?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Well-differentiated into root, stem, and leaves",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thalloid body without true differentiation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Presence of vascular tissues",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Seeds produced in cones",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thalloid body without true differentiation"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of a dicotyledonous plant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Maize",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bean",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bean"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which plant division includes organisms that are mostly unicellular or multicellular, microscopic or large, and often found in water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bryophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pteridophyta",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Thallophyta",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gymnosperms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thallophyta"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "In the context of plant classification, what does 'phanerogam' literally mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hidden marriage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Visible reproductive organs",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Naked seeds",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Covered seeds",
+          "is_correct": false
+        }
+      ],
+      "answer": "Visible reproductive organs"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of the following is a common feature of both Thallophyta and Bryophyta?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presence of true roots",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Presence of vascular tissues",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Reproduction by spores",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Seeds enclosed in fruits",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reproduction by spores"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the primary reason bryophytes are considered 'amphibians' of the plant kingdom?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They can live both in water and on land.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They grow in moist soil but need water for reproduction.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They have both male and female reproductive structures.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They can perform both photosynthesis and absorb nutrients.",
+          "is_correct": false
+        }
+      ],
+      "answer": "They grow in moist soil but need water for reproduction."
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of the following statements about gymnosperms is FALSE?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They bear naked seeds.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They are mostly evergreen and woody.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Their seeds are enclosed within fruits.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Examples include Cycas and Pinus.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Their seeds are enclosed within fruits."
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the correct sequence of classification levels for plants, from highest to lowest, as implied in the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kingdom → Sub-kingdom → Division → Sub-division (Monocots/Dicots)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Phylum → Class → Order → Family",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Kingdom → Division → Class → Order",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sub-kingdom → Kingdom → Division → Class",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kingdom → Sub-kingdom → Division → Sub-division (Monocots/Dicots)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the main advantage of classifying plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To assign scientific names",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To understand the diversity and evolutionary relationships",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To determine their economic value",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To decide where to plant them",
+          "is_correct": false
+        }
+      ],
+      "answer": "To understand the diversity and evolutionary relationships"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Which cell organelles differentiate plant cells from animal cells?",
+      "answer": "Chloroplasts and cell walls."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the first criterion used for the classification of plants?",
+      "answer": "The presence or absence of organs."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Name the two subkingdoms Eichler classified Kingdom Plantae into in 1883.",
+      "answer": "Cryptogams and Phanerogams."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What does the term 'cryptogam' mean?",
+      "answer": "Hidden reproductive organs."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Give two examples of plants from the division Thallophyta.",
+      "answer": "Spirogyra and Ulva."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why are bryophytes called the 'amphibians' of the plant kingdom?",
+      "answer": "Because they grow in moist soil but need water for reproduction."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Name a plant that belongs to the division Bryophyta.",
+      "answer": "Funaria (Moss)."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Which division of plants has well-developed roots, stems, and leaves but does not bear flowers?",
+      "answer": "Pteridophyta."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Where are spores formed in ferns?",
+      "answer": "In sporangia on the underside (posterior surface) of their leaves."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What are phanerogams?",
+      "answer": "Plants that have special structures for reproduction and produce seeds."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the main characteristic of gymnosperms?",
+      "answer": "They bear naked seeds (seeds not enclosed in a fruit)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Give an example of a gymnosperm.",
+      "answer": "Cycas or Pinus (Deodar)."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does 'angiosperm' mean?",
+      "answer": "Covered seeds (seeds enclosed within a fruit)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How are angiosperms further classified?",
+      "answer": "Into monocotyledons and dicotyledons based on the number of cotyledons in the seed."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What type of venation is found in dicot leaves?",
+      "answer": "Reticulate venation."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What type of root system do monocots typically have?",
+      "answer": "Fibrous root system."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Give an example of a monocotyledonous plant.",
+      "answer": "Maize or Wheat."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are rhizoids?",
+      "answer": "Root-like structures in bryophytes that anchor the plant and absorb water and minerals."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name the green, thread-like structures visible in Spirogyra cells under a microscope.",
+      "answer": "Spirally arranged chloroplasts."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the mode of reproduction common to Thallophyta, Bryophyta, and Pteridophyta?",
+      "answer": "Spore formation."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the main difference between cryptogams and phanerogams?",
+      "answer": "Cryptogams have hidden reproductive organs and reproduce by spores, while phanerogams have visible reproductive organs (flowers) and produce seeds."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which plant group is considered the main source of food for all other living organisms?",
+      "answer": "Kingdom Plantae."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a cotyledon?",
+      "answer": "A seed leaf that stores food for the developing embryo in seed plants."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name an ornamental plant that belongs to Pteridophyta.",
+      "answer": "Fern (e.g., Nephrolepis)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are the male and female reproductive structures in gymnosperms called?",
+      "answer": "Sporophylls."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the typical flower part number for dicots?",
+      "answer": "4 or 5 parts or their multiples (tetramerous or pentamerous)."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the typical flower part number for monocots?",
+      "answer": "3 parts or multiples of three (trimerous)."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which kingdom, besides Plantae, contains autotrophic organisms in Whittaker's classification?",
+      "answer": "Monera (some bacteria are autotrophic)."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are the two main types of plants based on the presence of conducting tissues?",
+      "answer": "Plants with and without separate conducting tissues (vascular and non-vascular)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the stored food in seeds?",
+      "answer": "To provide nutrition for the initial growth of the embryo during seed germination."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the basis for the classification of plants as outlined in the chapter.",
+      "answer": "Plants are classified based on a hierarchy of characteristics: 1. Presence or Absence of Organs: Whether the plant body is differentiated into roots, stems, and leaves. 2. Presence or Absence of Vascular Tissues: Whether there are separate conducting tissues for water and food (xylem and phloem). 3. Seed Production: Whether the plant bears seeds. 4. Seed Enclosure: If seeds are produced, whether they are enclosed within a fruit or not (distinguishing gymnosperms and angiosperms). 5. Number of Cotyledons: In angiosperms, seeds are classified based on having one (monocot) or two (dicot) cotyledons. Additionally, at higher levels, plants are grouped into Cryptogams (non-seed bearing, hidden reproductive organs) and Phanerogams (seed-bearing, visible reproductive organs)."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the key characteristics of the division Thallophyta with suitable examples.",
+      "answer": "Thallophyta includes simple, autotrophic plants that primarily grow in water (aquatic or moist habitats). Their body is not differentiated into true roots, stems, or leaves; instead, it is a thallus (soft and fibre-like). They contain chlorophyll for photosynthesis. This group shows great diversity: they can be unicellular (e.g., some algae) or multicellular (e.g., Spirogyra), microscopic or large (e.g., Sargassum). Examples include Spirogyra (freshwater, with spiral chloroplasts), Ulothrix, Ulva (sea lettuce), and Sargassum (a marine alga). Some non-chlorophyllous fungi like yeasts and moulds are also placed here in broader classifications, though they are heterotrophic."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Why are bryophytes called the 'amphibians' of the plant kingdom? Describe their general structure.",
+      "answer": "Bryophytes are called 'amphibians' because, like amphibians that live on land but require water for reproduction, bryophytes grow in moist terrestrial habitats (on soil, rocks, walls) but need water for the fertilization of their gametes. They lack true vascular tissues. Their plant body is thalloid, flat, ribbon-like, and multicellular. They do not have true roots, stems, or leaves. Instead, they have leaf-like parts for photosynthesis, stem-like structures, and root-like rhizoids for anchorage and absorption. They reproduce by spore formation. Examples include Moss (Funaria), Marchantia (a liverwort), Anthoceros (a hornwort), and Riccia."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Compare and contrast the features of Pteridophytes and Bryophytes.",
+      "answer": "Similarities: Both are cryptogams (non-seed bearing) and reproduce by spores. Both have a gametophyte generation that requires water for fertilization. Differences: 1. Plant Body: Bryophytes have a thalloid body without true roots, stems, or leaves; they have rhizoids. Pteridophytes have a well-differentiated plant body with true roots, stems, and leaves (fronds). 2. Vascular System: Bryophytes lack vascular tissues (xylem and phloem). Pteridophytes possess a well-developed vascular system for conduction. 3. Size and Habitat: Bryophytes are small and grow close to the ground in damp places. Pteridophytes are generally larger and can grow in a variety of habitats, including drier ones, due to vascular tissues. 4. Spore Production: In bryophytes, spores are produced in capsules on stalk-like structures. In pteridophytes, spores are produced in sporangia located on the underside of leaves (fronds)."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Explain the differences between gymnosperms and angiosperms. Give two examples of each.",
+      "answer": "Gymnosperms and angiosperms are both phanerogams (seed-bearing plants), but they differ significantly: 1. Seed Enclosure: Gymnosperms have naked seeds, meaning seeds are not enclosed within an ovary or fruit. Angiosperms have seeds enclosed within a fruit developed from the ovary. 2. Reproductive Structures: Gymnosperms bear male and female flowers on different sporophylls of the same plant; they often produce cones. Angiosperms bear flowers as reproductive organs, which later develop into fruits. 3. Woody Nature: Gymnosperms are mostly evergreen, perennial, and woody trees or shrubs with unbranched stems and a crown of leaves. Angiosperms can be herbaceous, shrubs, trees, etc., with varied growth forms. 4. Examples: Gymnosperms: Cycas, Pinus (Deodar), Picea (Christmas tree). Angiosperms: Mango, Wheat, Bean, Lily."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the distinguishing features of monocotyledonous and dicotyledonous plants with respect to seeds, roots, stems, leaves, and flowers.",
+      "answer": "Monocots and Dicots are the two main classes of angiosperms, distinguished by: 1. Seeds: Monocots have seeds with a single cotyledon (e.g., maize, wheat). Dicots have seeds with two cotyledons (e.g., bean, tamarind). 2. Roots: Monocots typically have a fibrous root system. Dicots typically have a tap root system with a main primary root. 3. Stems: Monocot stems can be hollow (bamboo), fleshy (onion disc), or false (banana). Dicot stems are usually strong and hard (e.g., banyan tree). 4. Leaves: Monocot leaves show parallel venation. Dicot leaves show reticulate (net-like) venation. 5. Flowers: Monocot flowers are trimerous (parts in multiples of three, e.g., lily with 6 petals). Dicot flowers are tetramerous or pentamerous (parts in multiples of four or five, e.g., mustard with 4 petals)."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "What are the economic and ecological importances of algae (Thallophyta)?",
+      "answer": "Algae (Thallophyta) have immense economic and ecological importance: Ecological: 1. Primary Producers: They form the base of aquatic food chains, producing oxygen and organic matter through photosynthesis. 2. Oxygen Production: A significant portion of Earth's oxygen is produced by marine algae. 3. Habitat: Provide shelter and breeding grounds for aquatic organisms. Economic: 1. Food: Many algae are consumed directly (e.g., Ulva, Porphyra as nori) or used in food products. 2. Agar and Carrageenan: Extracted from red algae, used as gelling agents in food, cosmetics, and microbiology. 3. Fertilizers: Some blue-green algae fix atmospheric nitrogen, enriching soil. 4. Biofuels: Research is ongoing to use algae as a source of biofuel. 5. Water Purification: Some algae help in wastewater treatment by absorbing nutrients. However, some algae can cause harmful algal blooms (red tides)."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Describe the life cycle of a fern (Pteridophyta), highlighting the alternation of generations.",
+      "answer": "Ferns exhibit a distinct alternation of generations between a diploid sporophyte and a haploid gametophyte. 1. Sporophyte Generation (Dominant): The familiar fern plant with roots, stems (rhizomes), and leaves (fronds) is the diploid sporophyte. On the underside of mature fronds, clusters of sporangia (called sori) produce haploid spores through meiosis. 2. Spore Dispersal and Germination: Spores are released and dispersed by wind. Under suitable moist conditions, a spore germinates to form a small, heart-shaped, independent, green, photosynthetic gametophyte called a prothallus. 3. Gametophyte Generation: The prothallus bears both male (antheridia) and female (archegonia) reproductive organs. In the presence of water, sperm from the antheridia swim to the egg in the archegonia for fertilization. 4. Zygote and New Sporophyte: Fertilization results in a diploid zygote, which develops into a new sporophyte plant while still attached to the gametophyte. Eventually, the gametophyte withers, and the sporophyte becomes independent. This cycle showcases a shift from a dominant gametophyte in bryophytes to a dominant sporophyte in pteridophytes."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the significance of Robert Whittaker's Five Kingdom classification and where Plantae fits in.",
+      "answer": "Robert Whittaker's (1969) Five Kingdom classification was a major advancement that grouped organisms based on cell structure (prokaryotic vs eukaryotic), body organization (unicellular vs multicellular), mode of nutrition, and reproduction. The five kingdoms are: Monera (prokaryotes), Protista (unicellular eukaryotes), Fungi (multicellular, heterotrophic, with cell walls of chitin), Plantae (multicellular, autotrophic, with cell walls of cellulose), and Animalia (multicellular, heterotrophic, without cell walls). Significance: It provided a more natural and phylogenetic system than earlier two-kingdom models, clearly separating prokaryotes, acknowledging the diversity of protists, and distinguishing fungi from plants. Kingdom Plantae fits as the group of multicellular, eukaryotic, autotrophic organisms with cell walls, capable of photosynthesis, forming the primary producers in most ecosystems. This system helps in understanding evolutionary relationships and organizing biological diversity."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Describe the structure and function of the spiral chloroplasts in Spirogyra.",
+      "answer": "Spirogyra is a filamentous green alga. Each cylindrical cell contains one or more ribbon-shaped chloroplasts that are arranged in a distinctive spiral (helical) pattern along the length of the cell. These chloroplasts contain the green pigment chlorophyll for photosynthesis. Embedded within the chloroplasts are pyrenoids, which are proteinaceous bodies surrounded by starch plates. Function of Spiral Chloroplasts: The spiral arrangement maximizes the surface area exposed to light within the confined cell space, enhancing the efficiency of photosynthesis. The pyrenoids are centers for starch synthesis and storage. This unique structure is a key identifying feature of Spirogyra when observed under a microscope."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "How do the reproductive strategies of cryptogams differ from those of phanerogams?",
+      "answer": "Cryptogams (Thallophyta, Bryophyta, Pteridophyta) and Phanerogams (Gymnosperms, Angiosperms) have fundamentally different reproductive strategies: Cryptogams: 1. Reproductive Organs: Hidden or inconspicuous; not organized into flowers. 2. Reproductive Units: Produce spores (microscopic, unicellular) through meiosis in sporangia. 3. Fertilization: Require water for the motile sperm to swim to the egg (in bryophytes and pteridophytes). 4. Seed Formation: Do not produce seeds. The sporophyte develops from the zygote. Phanerogams: 1. Reproductive Organs: Conspicuous, organized into flowers (or cones in gymnosperms). 2. Reproductive Units: Produce seeds. Seeds contain an embryo (developing from a fertilized egg) and stored food, protected by a seed coat. 3. Pollination: Transfer of pollen (male gametophyte) occurs via wind, insects, etc., reducing dependency on water. 4. Fruit: In angiosperms, the ovary develops into a fruit that encloses and protects the seeds, aiding in dispersal. Phanerogams have evolved more complex and efficient reproductive mechanisms suited for terrestrial life."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "What are the advantages of seed formation in plants?",
+      "answer": "Seed formation, characteristic of phanerogams, provides several key advantages for plant survival and dispersal: 1. Protection: The seed coat protects the dormant embryo from mechanical injury, desiccation, and sometimes predators. 2. Nourishment: Seeds contain stored food (in cotyledons or endosperm) that nourishes the embryo during germination until it can photosynthesize. 3. Dormancy: Seeds can remain dormant under unfavorable conditions (e.g., drought, cold) and germinate when conditions become favorable, ensuring survival. 4. Dispersal: Seeds have various adaptations (wings, hooks, fleshy fruits) for dispersal by wind, water, animals, or explosion, allowing plants to colonize new areas and reduce competition with the parent. 5. Genetic Diversity: Sexual reproduction involved in seed production leads to genetic variation, promoting adaptation and evolution. These features make seed plants (especially angiosperms) the most successful and widespread group of plants on Earth."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain the terms: Autotrophic, Eukaryotic, and Multicellular in the context of Kingdom Plantae.",
+      "answer": "In the context of Kingdom Plantae: 1. Autotrophic: Plants are autotrophs, meaning they can synthesize their own organic food from inorganic raw materials (carbon dioxide and water) using sunlight as an energy source. This process is photosynthesis, facilitated by the pigment chlorophyll present in chloroplasts. They are the primary producers in ecosystems. 2. Eukaryotic: Plant cells are eukaryotic, meaning their genetic material (DNA) is enclosed within a membrane-bound nucleus. Their cells also contain other membrane-bound organelles like mitochondria, endoplasmic reticulum, and chloroplasts. This distinguishes them from prokaryotic organisms of Kingdom Monera. 3. Multicellular: Plants are multicellular organisms, composed of many cells that are organized into tissues and organs (like roots, stems, leaves). This allows for division of labor, specialization, and the development of complex body forms, unlike unicellular protists. These three characteristics collectively define the fundamental nature of organisms belonging to Kingdom Plantae."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Discuss the role of conducting tissues in plants. Which plant groups lack them, and how do they manage?",
+      "answer": "Conducting tissues, namely xylem and phloem, form the vascular system in plants. Xylem transports water and minerals from roots to all parts, and phloem transports prepared food from leaves to other parts. This system provides structural support and enables plants to grow tall and large. Plant Groups Lacking Vascular Tissues: Thallophyta (algae) and Bryophyta (mosses, liverworts) lack true vascular tissues. How They Manage: 1. Size and Habitat: These plants are mostly small and live in moist or aquatic environments where water and nutrients can be absorbed directly by all cells through diffusion or osmosis. 2. Simple Structure: Their thalloid or small leafy bodies have a high surface area-to-volume ratio, allowing efficient direct absorption and short-distance transport via cell-to-cell diffusion. 3. Support: They rely on water buoyancy (algae) or grow close to the ground (bryophytes) for support. The absence of vascular tissues limits their size and confines them to moist habitats, a constraint overcome by vascular plants (Pteridophytes and Phanerogams)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Why are flowers considered the reproductive organs of angiosperms? Describe their role.",
+      "answer": "Flowers are considered the reproductive organs of angiosperms because they are specialized structures dedicated exclusively to sexual reproduction. A typical flower has four whorls: 1. Calyx (sepals): Protects the bud. 2. Corolla (petals): Often colorful to attract pollinators. 3. Androecium (stamens): The male reproductive part, consisting of anther and filament. The anther produces pollen grains containing the male gametes. 4. Gynoecium (pistil): The female reproductive part, consisting of stigma, style, and ovary. The ovary contains ovules, each with an egg cell. Role: The flower facilitates pollination (transfer of pollen to stigma), fertilization (fusion of male gamete with egg cell inside the ovule), and seed development. After fertilization, the ovary ripens into a fruit that protects the seeds and aids in their dispersal. Thus, the flower ensures the production of the next generation through seeds."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What is the importance of plant classification? Mention at least three points.",
+      "answer": "Plant classification (taxonomy) is crucial for several reasons: 1. Organizing Biodiversity: It brings order to the immense diversity of the plant kingdom by grouping plants with similar characteristics, making their study systematic and manageable. 2. Identification and Communication: It provides a universal scientific naming system (binomial nomenclature) that avoids confusion caused by common names, allowing scientists worldwide to communicate unambiguously about specific plants. 3. Understanding Relationships: It helps in understanding evolutionary relationships and phylogeny among different plant groups, tracing how simpler forms gave rise to more complex ones. 4. Predicting Characteristics: Knowing the group a plant belongs to allows prediction of its other characteristics, ecology, and potential uses. 5. Conservation and Utilization: It aids in the conservation of endangered species and the sustainable utilization of plant resources for food, medicine, industry, etc."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Draw a flowchart showing the major divisions of Kingdom Plantae as per the chapter.",
+      "answer": "Kingdom Plantae\n├── Sub-kingdom: Cryptogams (Non-seed bearing, hidden reproductive organs)\n│   ├── Division: Thallophyta (e.g., Spirogyra, Ulva)\n│   ├── Division: Bryophyta (e.g., Funaria, Marchantia)\n│   └── Division: Pteridophyta (e.g., Fern, Selaginella)\n└── Sub-kingdom: Phanerogams (Seed-bearing plants)\n    ├── Division: Gymnosperms (Naked seeds, e.g., Cycas, Pinus)\n    └── Division: Angiosperms (Seeds enclosed in fruits)\n        ├── Class: Dicotyledons (Two cotyledons, e.g., Bean, Mustard)\n        └── Class: Monocotyledons (One cotyledon, e.g., Maize, Wheat)"
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Describe an activity to observe Spirogyra under a microscope. What are the key features to look for?",
+      "answer": "Activity: 1. Collect green, hair-like filaments from a pond or stagnant water body. 2. Wash them gently in a Petri dish with clean water. 3. Place one filament in a drop of water on a clean glass slide and straighten it using a needle. 4. Gently lower a coverslip to avoid air bubbles. 5. Observe under a compound microscope, starting with low power and then switching to high power. Key Features to Observe: 1. Filamentous Structure: The plant body consists of unbranched chains of cylindrical cells joined end-to-end. 2. Cell Wall: The outer boundary of each cell. 3. Spiral Chloroplasts: Look for one or more bright green, ribbon-like chloroplasts arranged in a distinctive spiral (helical) pattern inside each cell. This is the most striking feature. 4. Pyrenoids: Small, round, dense bodies embedded within the chloroplasts (appear as dots), which are sites of starch storage. 5. Nucleus: A less distinct, round structure suspended in the center of the cell by cytoplasmic strands."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How do the habitats of Thallophyta, Bryophyta, and Pteridophyta differ? Relate this to their structural adaptations.",
+      "answer": "The habitats of these cryptogam groups differ significantly, reflecting their structural adaptations: 1. Thallophyta (Algae): Primarily aquatic (freshwater like Spirogyra, or marine like Sargassum) or in very moist places. Adaptation: Their thalloid body has a large surface area for direct absorption of water and nutrients from the surroundings. No need for roots or vascular tissues as they are submerged or in constant contact with water. 2. Bryophyta (Mosses, Liverworts): Moist, shaded terrestrial habitats like damp soil, rocks, tree bark, but always in places where water is available for reproduction. Adaptation: They are small, have rhizoids for anchorage (not true water absorption), and a thin plant body that allows direct diffusion of water. Lack of vascular tissues limits their height, keeping them close to the moist ground. 3. Pteridophyta (Ferns): More varied terrestrial habitats, including forests, hills, and some even in drier areas, though many prefer shade and moisture. Adaptation: They possess true roots for absorption, stems (rhizomes), and leaves (fronds). Most importantly, they have a well-developed vascular system (xylem and phloem) that allows them to transport water and nutrients efficiently, supporting larger size and enabling them to colonize drier land than bryophytes."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What are the evolutionary trends observed from Thallophyta to Angiosperms?",
+      "answer": "The classification of plants reflects an evolutionary trend of increasing complexity and adaptation to terrestrial life: 1. Body Complexity: From simple, undifferentiated thallus (Thallophyta) to differentiation into root-like, stem-like, and leaf-like structures (Bryophyta), to true roots, stems, and leaves (Pteridophyta and higher). 2. Vascular System: Absent in Thallophyta and Bryophyta, leading to size limitation. Evolved in Pteridophytes, allowing for taller growth and better water transport. Further refined in Gymnosperms and Angiosperms. 3. Reproduction: Dependency on water for fertilization in Thallophyta, Bryophyta, and Pteridophyta (flagellated sperm). Evolution of pollen grains in Gymnosperms and Angiosperms eliminated the need for external water for fertilization, a key adaptation for land. 4. Seed Formation: Absent in cryptogams. Evolved in Phanerogams, with naked seeds in Gymnosperms and seeds enclosed in fruits in Angiosperms, providing better protection and dispersal. 5. Dominant Generation: Shift from dominant gametophyte (in Bryophytes) to dominant sporophyte (in Pteridophytes and all seed plants). 6. Flower and Fruit: Unique to Angiosperms, flowers enhance pollination efficiency, and fruits aid in seed dispersal. These trends show a progression towards greater independence from water, structural support, and reproductive success on land."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain the terms: Cotyledon, Venation, Rhizoids, and Sporangia.",
+      "answer": "1. Cotyledon: A cotyledon is a seed leaf present within the embryo of a seed. It stores food reserves (in dicots) or absorbs food from the endosperm (in monocots) to nourish the developing seedling during germination. The number of cotyledons (one or two) is the primary basis for classifying angiosperms into monocots and dicots. 2. Venation: Venation refers to the pattern of arrangement of veins (vascular bundles) in a leaf. Two main types are: Reticulate venation (a net-like pattern, characteristic of dicots) and Parallel venation (veins run parallel to each other, characteristic of monocots). 3. Rhizoids: Rhizoids are thread-like, unicellular or multicellular structures found in bryophytes (e.g., mosses) and some fungi. They anchor the plant body to the substrate and aid in absorption of water and minerals. They are not true roots as they lack vascular tissues. 4. Sporangia (singular: Sporangium): Sporangia are sac-like structures found in cryptogams (ferns, mosses, fungi) and some other plants where spores are produced through meiosis. In ferns (Pteridophyta), they are typically found in clusters called sori on the underside of leaves. Spores are the asexual reproductive units that can grow into new gametophytes."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Why are gymnosperms and angiosperms grouped together as phanerogams?",
+      "answer": "Gymnosperms and angiosperms are grouped together under the subkingdom Phanerogams because they share the fundamental characteristic of producing seeds (spermatophytes). The term 'phanerogam' means 'visible marriage' or 'visible reproductive organs,' referring to the fact that their reproductive structures (cones in gymnosperms, flowers in angiosperms) are conspicuous, unlike the hidden ones in cryptogams. Key shared features include: 1. Seed Formation: Both produce seeds, which contain an embryo and stored food, protected by a seed coat. This is a major evolutionary advancement over spore-producing plants. 2. Independence from Water for Fertilization: Both have pollen grains that carry the male gametes, allowing fertilization to occur without the need for external water (a key adaptation for terrestrial life). 3. Dominant Sporophyte Generation: In both, the sporophyte (diploid plant body) is the dominant, conspicuous phase of the life cycle. Despite differences in seed enclosure (naked vs. enclosed) and flower structure, their shared seed-producing nature unites them as Phanerogams."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "List the major criteria used for classifying plants and give an example of a plant group for each criterion.",
+      "answer": "The major criteria for plant classification, in a hierarchical manner, are: 1. Differentiation of Plant Body: Presence or absence of true roots, stems, and leaves. Example: Thallophyta (no true differentiation) vs. Pteridophyta (well-differentiated). 2. Presence of Vascular Tissues: Presence or absence of xylem and phloem. Example: Bryophyta (non-vascular) vs. Pteridophyta (vascular). 3. Seed Production: Whether the plant produces seeds. Example: Pteridophyta (non-seed bearing) vs. Gymnosperms (seed-bearing). 4. Seed Enclosure: Whether seeds are enclosed within a fruit. Example: Gymnosperms (naked seeds) vs. Angiosperms (seeds enclosed in fruit). 5. Number of Cotyledons in Seed: One or two. Example: Monocotyledons (one, e.g., Wheat) vs. Dicotyledons (two, e.g., Bean). 6. Nature of Reproductive Organs: Hidden (Cryptogams, e.g., Fern) vs. Conspicuous (Phanerogams, e.g., Mango). These criteria create a logical and systematic framework for placing plants into specific groups."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Describe the economic importance of gymnosperms.",
+      "answer": "Gymnosperms have considerable economic importance: 1. Timber and Paper: Many gymnosperms like Pine, Spruce, Fir, and Deodar (Pinus) are sources of softwood timber used in construction, furniture, plywood, and pulp for paper and rayon. 2. Resins and Turpentine: Conifers produce resin, which is distilled to yield turpentine (a solvent) and rosin (used in varnishes, soaps, inks). 3. Ornamentals: Several species like Cycas, Thuja (Morpankhi), Araucaria, and Christmas trees (Picea) are widely grown as ornamental plants in gardens and for landscaping. 4. Food: Seeds of some gymnosperms are edible, such as 'Chilgoza' seeds from Pinus gerardiana and the fleshy seeds of Cycas (after proper processing to remove toxins). 5. Medicinal Uses: Ephedra (a gymnosperm) yields the alkaloid ephedrine, used in medicine for treating asthma and hay fever. 6. Oils: Essential oils extracted from various conifers are used in perfumes and soaps. Despite being less diverse than angiosperms, gymnosperms are valuable resources, especially in temperate regions."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What is the role of chlorophyll in plants? In which plant groups is it present?",
+      "answer": "Chlorophyll is a green pigment found in the chloroplasts of plant cells. Its primary role is to absorb light energy (mainly from the sun) during the process of photosynthesis. This energy is used to convert carbon dioxide and water into glucose (food) and oxygen. The chemical equation is: 6CO₂ + 6H₂O + Light energy → C₆H₁₂O₆ + 6O₂. Thus, chlorophyll is essential for autotrophic nutrition, making plants the primary producers in food chains. Presence in Plant Groups: Chlorophyll is present in all autotrophic plant groups within Kingdom Plantae: 1. Thallophyta (Algae): Present, giving them their green, brown, or red colors (other pigments may mask chlorophyll). 2. Bryophyta: Present in the leaf-like parts. 3. Pteridophyta: Present in the leaves (fronds). 4. Gymnosperms: Present in the needle-like or scale-like leaves. 5. Angiosperms: Present in the leaves and other green parts. Chlorophyll is absent in heterotrophic plants like fungi, which are sometimes included in broader definitions of Thallophyta but obtain nutrition differently."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Compare the root systems of monocots and dicots. How does this relate to their overall growth?",
+      "answer": "The root systems of monocots and dicots are fundamentally different: Monocots: They typically have a fibrous root system. In this system, the primary root from the seed is short-lived. Numerous thin, branching roots arise from the base of the stem, forming a dense mat. All roots are roughly equal in size. Example: Grasses like wheat, maize. Dicots: They typically have a tap root system. The primary root (radicle) from the seed grows persistently downwards, becoming the main tap root. It gives rise to smaller lateral (secondary) roots, which may further branch. The tap root is thick and dominant. Example: Mustard, banyan tree. Relation to Overall Growth: The fibrous root system of monocots is excellent for preventing soil erosion and efficiently absorbing water and nutrients from the topsoil. It supports plants that are often herbaceous or have shallow growth. The tap root system of dicots anchors the plant very firmly and can penetrate deep into the soil to access water and minerals from deeper layers. This supports larger, woody plants like trees that require strong anchorage and deep water sources. These adaptations are suited to their respective habitats and growth forms."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Explain how the classification of plants helps in agriculture and horticulture.",
+      "answer": "Plant classification is immensely useful in agriculture and horticulture: 1. Crop Selection and Rotation: Knowing whether a crop is a legume (dicot family Fabaceae) helps in crop rotation plans, as legumes fix nitrogen and enrich soil. Classification informs about plant families with similar nutrient needs or pest susceptibilities. 2. Breeding and Improvement: Breeders use knowledge of plant families and relationships to cross-breed plants for desired traits (e.g., disease resistance, yield). Understanding monocot vs. dicot characteristics helps in applying specific cultivation practices. 3. Pest and Disease Management: Many pests and diseases are specific to certain plant families. Classification allows farmers to predict and manage potential threats. 4. Horticultural Practices: Knowledge of whether a plant is a monocot or dicot guides practices like pruning (dicots often bud from nodes, monocots grow from base), propagation methods (e.g., bulbs in monocots like onions), and understanding growth patterns. 5. Weed Control: Identifying weeds based on their classification (e.g., monocot grasses vs. broadleaf dicots) helps in selecting appropriate herbicides, as some herbicides target specific groups. Thus, classification provides a scientific basis for efficient and sustainable agricultural and horticultural practices."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Describe the structure of a typical moss plant (Bryophyta) like Funaria.",
+      "answer": "A typical moss plant, such as Funaria, has a small but distinct structure with two main stages: the gametophyte and the sporophyte. The dominant, photosynthetic stage is the gametophyte. 1. Gametophyte: It consists of a slender, upright, stem-like structure bearing small, spirally arranged leaf-like structures (not true leaves, as they lack vascular tissues). At the base, there are multicellular, filamentous rhizoids that anchor the plant to the soil and absorb water and minerals. The gametophyte is green and autotrophic. It bears separate male (antheridia) and female (archegonia) reproductive organs at the tips of different branches. 2. Sporophyte: After fertilization (which requires water), a diploid sporophyte develops from the zygote. It is attached to and partially dependent on the gametophyte. The sporophyte consists of three parts: a) Foot: Embedded in the gametophyte, absorbs nutrients. b) Seta: A long, slender stalk that elevates the capsule. c) Capsule: The enlarged, club-shaped structure at the top. The capsule contains spores produced by meiosis. When mature, the capsule lid falls off, and spores are dispersed by wind. This alternation of generations is characteristic of bryophytes."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "What are the main differences between the plant kingdoms in Whittaker's system and earlier two-kingdom systems?",
+      "answer": "The main differences between Robert Whittaker's Five Kingdom system (1969) and earlier Two Kingdom systems (like Linnaeus's) are profound: Two-Kingdom System (Plantae and Animalia): 1. Basis: Primarily based on mobility (animals move, plants don't) and nutrition (plants are autotrophic, animals heterotrophic). 2. Limitations: It forced all organisms into two boxes. Bacteria, fungi, and unicellular eukaryotes (protists) were awkwardly placed. For example, fungi (heterotrophic, immobile) were placed in Plantae, and photosynthetic Euglena (which can move) caused confusion. Five-Kingdom System (Monera, Protista, Fungi, Plantae, Animalia): 1. Basis: Considers cell structure (prokaryotic vs. eukaryotic), body organization (unicellular vs. multicellular), mode of nutrition (autotrophy, heterotrophy, absorption), and reproduction. 2. Major Changes: a) Kingdom Monera was created for prokaryotes (bacteria, cyanobacteria). b) Kingdom Protista for unicellular eukaryotes (algae, protozoa, Euglena). c) Kingdom Fungi was separated from Plantae due to its heterotrophic nutrition by absorption and chitinous cell walls. d) Plantae remained for multicellular, autotrophic eukaryotes with cellulose walls. e) Animalia for multicellular, heterotrophic eukaryotes without cell walls. This system is more reflective of evolutionary relationships and biological diversity."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the entire classification of Kingdom Plantae as presented in the chapter in a structured manner.",
+      "answer": "Kingdom Plantae is classified hierarchically based on increasing complexity and specific characteristics: I. Subkingdom Cryptogams (Non-seed plants, hidden reproductive organs): A. Division Thallophyta: Simple, autotrophic plants mainly in water; body not differentiated into root, stem, leaves; e.g., Spirogyra, Ulva, Sargassum. B. Division Bryophyta: 'Amphibians' of plant kingdom; grow in moist soil, need water for reproduction; plant body thalloid with rhizoids, leaf-like and stem-like parts; no vascular tissues; e.g., Funaria (Moss), Marchantia, Anthoceros. C. Division Pteridophyta: Well-developed roots, stems, and leaves; possess vascular tissues; reproduce by spores formed on leaves; e.g., Ferns (Nephrolepis), Marsilea, Selaginella. II. Subkingdom Phanerogams (Seed-bearing plants, visible reproductive organs): A. Division Gymnosperms: Mostly evergreen, perennial, woody; bear naked seeds (not enclosed in fruit); male and female flowers on different sporophylls; e.g., Cycas, Pinus, Picea (Christmas tree). B. Division Angiosperms: Flowering plants; seeds enclosed within fruits; further divided based on number of cotyledons: 1. Class Dicotyledons: Seeds with two cotyledons; tap root; reticulate venation; flowers tetramerous/pentamerous; e.g., Mustard, Bean, Mango. 2. Class Monocotyledons: Seeds with one cotyledon; fibrous roots; parallel venation; flowers trimerous; e.g., Maize, Wheat, Lily."
+    }
+  ]
+}

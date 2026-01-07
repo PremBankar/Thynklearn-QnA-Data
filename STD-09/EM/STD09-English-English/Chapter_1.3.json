@@ -1,0 +1,251 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.1.3",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Have you ever seen...?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are words that have the same spelling but differ in meaning when used in different contexts called?",
+      "options": [
+        { "option_id": 1, "text": "Homophones", "is_correct": false },
+        { "option_id": 2, "text": "Synonyms", "is_correct": false },
+        { "option_id": 3, "text": "Homographs", "is_correct": true },
+        { "option_id": 4, "text": "Antonyms", "is_correct": false }
+      ],
+      "answer": "Homographs"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which figure of speech involves a play upon words that convey more than one meaning?",
+      "options": [
+        { "option_id": 1, "text": "Simile", "is_correct": false },
+        { "option_id": 2, "text": "Metaphor", "is_correct": false },
+        { "option_id": 3, "text": "Personification", "is_correct": false },
+        { "option_id": 4, "text": "Pun", "is_correct": true }
+      ],
+      "answer": "Pun"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In the poem, what is the other meaning implied for the word 'bed' in the phrase 'a river bed'?",
+      "options": [
+        { "option_id": 1, "text": "A piece of furniture for sleeping", "is_correct": true },
+        { "option_id": 2, "text": "A garden plot", "is_correct": false },
+        { "option_id": 3, "text": "A tool for digging", "is_correct": false },
+        { "option_id": 4, "text": "A type of flower", "is_correct": false }
+      ],
+      "answer": "A piece of furniture for sleeping"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which literary device is used when a question is asked not to get an answer but to emphasize a point?",
+      "options": [
+        { "option_id": 1, "text": "Alliteration", "is_correct": false },
+        { "option_id": 2, "text": "Interrogation", "is_correct": true },
+        { "option_id": 3, "text": "Onomatopoeia", "is_correct": false },
+        { "option_id": 4, "text": "Hyperbole", "is_correct": false }
+      ],
+      "answer": "Interrogation"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In the phrase 'the teeth of a rake', which word is a homograph?",
+      "options": [
+        { "option_id": 1, "text": "teeth", "is_correct": false },
+        { "option_id": 2, "text": "of", "is_correct": false },
+        { "option_id": 3, "text": "a", "is_correct": false },
+        { "option_id": 4, "text": "rake", "is_correct": true }
+      ],
+      "answer": "rake"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the implied meaning of 'plot' in the line 'Can the garden plot be deep and dark?'",
+      "options": [
+        { "option_id": 1, "text": "A small piece of ground for gardening", "is_correct": true },
+        { "option_id": 2, "text": "An evil or wicked plan", "is_correct": false },
+        { "option_id": 3, "text": "The main story of a book", "is_correct": false },
+        { "option_id": 4, "text": "A map or chart", "is_correct": false }
+      ],
+      "answer": "A small piece of ground for gardening"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which device is exemplified by the line 'Does the needle ever wink its eye?'",
+      "options": [
+        { "option_id": 1, "text": "Pun", "is_correct": false },
+        { "option_id": 2, "text": "Interrogation", "is_correct": false },
+        { "option_id": 3, "text": "Personification", "is_correct": true },
+        { "option_id": 4, "text": "Alliteration", "is_correct": false }
+      ],
+      "answer": "Personification"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does the word 'hose' mean in the context of 'a pair of garden hose'?",
+      "options": [
+        { "option_id": 1, "text": "A flexible tube for water", "is_correct": true },
+        { "option_id": 2, "text": "A type of clothing", "is_correct": false },
+        { "option_id": 3, "text": "A tool for digging", "is_correct": false },
+        { "option_id": 4, "text": "A part of a building", "is_correct": false }
+      ],
+      "answer": "A flexible tube for water"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of alliteration from the poem?",
+      "options": [
+        { "option_id": 1, "text": "Have you ever seen a sheet on a river bed?", "is_correct": false },
+        { "option_id": 2, "text": "Does the needle ever wink its eye?", "is_correct": false },
+        { "option_id": 3, "text": "Can you tickle the ribs of a parasol?", "is_correct": false },
+        { "option_id": 4, "text": "And what is the sound of the birch’s bark?", "is_correct": true }
+      ],
+      "answer": "And what is the sound of the birch’s bark?"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The activity asking to 'add at least one more stanza' primarily aims to develop which skill?",
+      "options": [
+        { "option_id": 1, "text": "Memorization", "is_correct": false },
+        { "option_id": 2, "text": "Creative writing using specific poetic devices", "is_correct": true },
+        { "option_id": 3, "text": "Grammar correction", "is_correct": false },
+        { "option_id": 4, "text": "Vocabulary spelling", "is_correct": false }
+      ],
+      "answer": "Creative writing using specific poetic devices"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Define 'homograph' with one example.",
+      "answer": "Homographs are words that have the same spelling but differ in meaning when used in different contexts. Example: 'fair' (a gathering) and 'fair' (just)."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What is a pun?",
+      "answer": "A pun is a figure of speech that involves a play upon words, where words with the same spelling or pronunciation are used to convey more than one meaning humorously."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "Give an example of 'Interrogation' as used in poetry.",
+      "answer": "An example of Interrogation in poetry is: 'When can their glory fade?'"
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What are the two meanings of the homograph 'hose' as explained in the chapter?",
+      "answer": "The two meanings of 'hose' are: 1) a flexible tube, and 2) a pair of stockings or tights."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "Identify one homograph from the line: 'Has the foot of a mountain any toes?'",
+      "answer": "The homograph is 'foot' (meaning the base of a mountain or the lower extremity of a leg)."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is personified in the line 'Does the needle ever wink its eye?'",
+      "answer": "The needle is personified by giving it the human action of winking its eye."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What does the word 'parasol' mean in the poem?",
+      "answer": "In the poem, 'parasol' means an umbrella."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is the other meaning of 'plot' hinted at in the poem's footnote?",
+      "answer": "The other meaning of 'plot' is 'an evil or wicked plan'."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Name one poetic device, other than pun and interrogation, that students are asked to find examples of from the poem.",
+      "answer": "Students are also asked to find examples of Personification and Alliteration."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the final activity suggestion in the 'ENGLISH WORKSHOP' section?",
+      "answer": "The final activity is to read 'Alice in Wonderland' by Lewis Carroll."
+    },
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "Explain the difference between homographs and puns with suitable examples not from the textbook.",
+      "answer": "Homographs are words that share the same spelling but have different meanings, regardless of pronunciation. For example, 'lead' (to guide) and 'lead' (a metal). A pun, on the other hand, is a humorous play on words that exploits the different possible meanings of a word or the fact that there are words that sound alike but have different meanings. For instance, 'I used to be a baker, but I couldn't make enough dough.' Here, 'dough' is a pun meaning both money and baking mixture. While homographs are about spelling, puns are about creating humor through double meaning or similar sounds."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "How does the poem 'Have you ever seen...?' effectively use homographs to create humor and provoke thought? Provide three examples from the poem.",
+      "answer": "The poem 'Have you ever seen...?' uses homographs to create absurd, humorous imagery by applying the human or everyday meaning of a word to an inanimate object. For example: 1) 'sheet on a river bed' plays on 'bed' (furniture vs. river bottom). 2) 'teeth of a rake' uses 'teeth' (human/animal vs. prongs of a tool). 3) 'hands of a clock' uses 'hands' (body parts vs. clock pointers). This forces the reader to visualize ridiculous scenarios, like a river sleeping in a bed or a rake biting, thereby creating humor and highlighting the quirks of the English language."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "Describe the activity 'Warming up!' and explain how it prepares the student for understanding the main poem.",
+      "answer": "The 'Warming up!' activity consists of three preparatory exercises. First, it introduces and has students practice identifying and creating examples of 'homographs'. Second, it defines and asks for examples of 'puns'. Third, it explains the poetic device of 'Interrogation' and asks for examples from poetry. This step-by-step approach builds the necessary vocabulary and conceptual understanding. By actively engaging with these literary devices before reading the poem, students are primed to recognize and appreciate how the poet seamlessly weaves homographs, puns, and rhetorical questions (interrogation) into the humorous fabric of 'Have you ever seen...?'."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "What is the purpose of asking students to write an additional stanza in the style of the poem? What specific elements must they include?",
+      "answer": "The purpose of asking students to write an additional stanza is to assess and apply their understanding of the poem's form and literary devices in a creative, collaborative manner. They must work in groups to compose a stanza that includes: 1) Homographs, using words with double meanings to create humorous imagery. 2) Interrogation, by posing rhetorical questions in the same style. 3) The same rhythm and rhyme-scheme as the original poem to maintain its musical quality. This activity moves beyond analysis to synthesis, requiring students to internalize the poet's techniques and produce original work that mimics the poem's clever and playful spirit."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "Analyze the use of 'Interrogation' in the poem. How do these questions contribute to the poem's overall effect rather than seek actual answers?",
+      "answer": "The entire poem is structured as a series of interrogations (rhetorical questions). Questions like 'Has the foot of a mountain any toes?' or 'Can you tickle the ribs of a parasol?' are not meant to be answered literally. Instead, their purpose is threefold. First, they create a whimsical, curious tone that engages the reader's imagination. Second, they highlight the absurdity by applying human or animate qualities to inanimate objects, which is the core source of humor. Third, they subtly draw attention to the double meanings of homographs, making the reader think about language itself. The persistent questioning drives the poem forward and reinforces its playful exploration of words and meanings."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "Compare and contrast a 'pun' and an example of 'interrogation' from the poem, explaining how each functions differently.",
+      "answer": "In the poem, a pun and interrogation serve different functions. A pun, such as in 'the teeth of a rake', relies on the double meaning of 'teeth' (prongs of a tool vs. human/animal teeth) to create a humorous image of a rake that could bite. The humor is in the wordplay itself. Interrogation, such as the line 'Are the teeth of a rake ever going to bite?', is the rhetorical question that frames the pun. The interrogation doesn't just state the pun; it poses it as an absurd question, thereby amplifying the humor and engaging the reader directly. The pun provides the core joke, while the interrogation is the delivery mechanism that makes the joke interactive and thought-provoking."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "Explain the significance of the fill-in-the-blank pun exercise (question 5 in ENGLISH WORKSHOP). What does it teach about language?",
+      "answer": "The fill-in-the-blank pun exercise is significant because it tests the student's ability to understand and complete wordplay based on contextual clues and vocabulary knowledge. For example, 'She had a photographic memory but never developed it' plays on 'developed' (to process film vs. to improve a skill). This activity teaches that language is flexible and context-dependent, and that words can have layered meanings. It encourages logical yet creative thinking, as students must select the word that fits both the literal sentence structure and the hidden humorous meaning. It reinforces the concept of puns in a practical, engaging way, moving from identification to application."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "Why do you think the chapter recommends reading 'Alice in Wonderland' by Lewis Carroll at the end?",
+      "answer": "The chapter recommends reading 'Alice in Wonderland' because it is a classic literary work renowned for its extensive and clever use of wordplay, puns, and logical absurdities—much like the poem studied. Lewis Carroll plays with language, logic, and meaning in ways that directly relate to the concepts of homographs, puns, and interrogation explored in the chapter. Reading it would provide students with a rich, extended context to see these literary devices in action within a narrative, deepening their appreciation and understanding of how language can be manipulated for humor, wonder, and satire."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "Summarize the main learning objectives of Chapter 1.3 'Have you ever seen...?'",
+      "answer": "The main learning objectives of this chapter are: 1) To understand and identify literary devices such as homographs, puns, interrogation (rhetorical questions), personification, and alliteration. 2) To analyze how these devices are used in a specific poem to create humor, imagery, and rhythm. 3) To apply this understanding by actively finding examples within the poem. 4) To synthesize the learning by creatively writing a new stanza using the same devices and style. 5) To practice completing puns to reinforce comprehension of wordplay. Ultimately, the chapter aims to enhance the student's appreciation for the playful and multifaceted nature of the English language."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "How does the collaborative activity of adding a new stanza (activity 4) promote deeper learning compared to individual exercises?",
+      "answer": "The collaborative activity promotes deeper learning through social construction of knowledge. In a group, students must discuss, debate, and agree on the homographs to use, the questions to frame (interrogation), and how to maintain rhythm and rhyme. This process requires them to articulate their understanding, defend their choices, and negotiate ideas, which solidifies concepts more firmly than individual work. It also mirrors real-world creative processes, develops teamwork and communication skills, and allows for a diversity of ideas, leading to a richer final product. The shared goal of creating a coherent, humorous stanza makes the application of literary devices a practical and memorable group achievement."
+    }
+  ]
+}

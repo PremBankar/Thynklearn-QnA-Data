@@ -1,0 +1,1491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Science.08",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Useful and Harmful Microbes"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the shape of lactobacilli bacteria as observed under a microscope?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spherical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rod-shaped",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Spiral",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Comma-shaped",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rod-shaped"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the main role of Rhizobium bacteria in leguminous plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To cause diseases in roots",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To provide water to the plant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To fix atmospheric nitrogen into nitrogenous compounds",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To help in photosynthesis",
+          "is_correct": false
+        }
+      ],
+      "answer": "To fix atmospheric nitrogen into nitrogenous compounds"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which type of microbe is Yeast?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bacterium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Virus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Unicellular fungus",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Protozoa",
+          "is_correct": false
+        }
+      ],
+      "answer": "Unicellular fungus"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is produced when yeast ferments carbohydrates?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lactic acid",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Alcohol and carbon dioxide",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Water and salts",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alcohol and carbon dioxide"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these is a harmful microbe often responsible for food poisoning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lactobacilli",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rhizobium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Clostridium",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Penicillium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clostridium"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The first antibiotic discovered was:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Streptomycin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tetracycline",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Penicillin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gentamycin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Penicillin"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What kind of relationship exists between Rhizobium and leguminous plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parasitism",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Symbiosis",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Competition",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Predation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Symbiosis"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which industrial process uses yeast to produce ethanol?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Leather tanning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fermentation of molasses",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Antibiotic production",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nitrogen fixation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fermentation of molasses"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the main function of adding probiotics to food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To increase sweetness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To improve color",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To kill harmful bacteria in the gut and boost immunity",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To act as a preservative",
+          "is_correct": false
+        }
+      ],
+      "answer": "To kill harmful bacteria in the gut and boost immunity"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following diseases is caused by a protozoan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Influenza",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Malaria",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pneumonia",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chicken pox",
+          "is_correct": false
+        }
+      ],
+      "answer": "Malaria"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why is salt applied on the inner surface of pickle jars?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To add flavor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To increase water content",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To absorb moisture and prevent fungal growth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To change the color",
+          "is_correct": false
+        }
+      ],
+      "answer": "To absorb moisture and prevent fungal growth"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the method of asexual reproduction in Yeast?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Binary fission",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spore formation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Budding",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fragmentation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Budding"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which institute in India, mentioned in the chapter, conducts research on viral diseases?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Council of Medical Research",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "National Institute of Virology, Pune",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Central Drug Research Institute",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "National Institute of Nutrition",
+          "is_correct": false
+        }
+      ],
+      "answer": "National Institute of Virology, Pune"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What are mycotoxins?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medicines to kill fungi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Proteins produced by bacteria",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Poisonous chemicals released by fungi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Enzymes for digestion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Poisonous chemicals released by fungi"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which bacterium is known to cause botulism (a type of food poisoning)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clostridium tetani",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clostridium botulinum",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Clostridium perfringens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clostridium difficile",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clostridium botulinum"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The process of converting lactose in milk to lactic acid is called:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pasteurization",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fermentation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Distillation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nitrogen fixation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the main advantage of using Rhizobium in agriculture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It increases soil acidity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It reduces the need for chemical fertilizers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It kills pests",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It produces antibiotics",
+          "is_correct": false
+        }
+      ],
+      "answer": "It reduces the need for chemical fertilizers"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which scientist is credited with the accidental discovery of Penicillin?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Louis Pasteur",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Robert Koch",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Alexander Fleming",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Joseph Lister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alexander Fleming"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What condition is necessary for Clostridium bacteria to grow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "High oxygen levels",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aerobic conditions",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anaerobic conditions",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Direct sunlight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anaerobic conditions"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why is ethanol mixed with petrol and diesel in some countries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To reduce pollution and conserve fossil fuels",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To increase fuel cost",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To change fuel color",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To reduce engine efficiency",
+          "is_correct": false
+        }
+      ],
+      "answer": "To reduce pollution and conserve fossil fuels"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What happens to milk proteins during the fermentation process that makes yoghurt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They evaporate",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They coagulate and separate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They turn into sugar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They become gaseous",
+          "is_correct": false
+        }
+      ],
+      "answer": "They coagulate and separate"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which part of the leguminous plant hosts Rhizobium bacteria?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Leaves",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stem",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Root nodules",
+          "is_correct": true
+        }
+      ],
+      "answer": "Root nodules"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which of the following is a broad-spectrum antibiotic?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Penicillin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tetracycline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gentamycin",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Erythromycin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tetracycline"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What gas causes bread dough to rise and become spongy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carbon dioxide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hydrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the main benefit of leavened fodder for cattle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It is cheaper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It improves digestion and nutritional value",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It changes the color of milk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It acts as a medicine",
+          "is_correct": false
+        }
+      ],
+      "answer": "It improves digestion and nutritional value"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the primary use of the yeast *Saccharomyces cerevisiae* in bioremediation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To clean oil spills",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To absorb arsenic pollutant",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To fix nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To produce antibiotics",
+          "is_correct": false
+        }
+      ],
+      "answer": "To absorb arsenic pollutant"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "How are antibiotics best defined?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chemicals that kill all microbes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemicals that kill or inhibit harmful microorganisms, produced by microbes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Chemicals that boost immunity",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamins for bacteria",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemicals that kill or inhibit harmful microorganisms, produced by microbes"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the main cause of material spoilage by fungi on items like leather and gunny bags?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Light",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sufficient moisture",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cold temperature",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sufficient moisture"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the typical oxygen requirement for Lactobacilli?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They are aerobic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They are anaerobic",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They are facultative anaerobes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They require pure oxygen",
+          "is_correct": false
+        }
+      ],
+      "answer": "They are anaerobic"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why is it important to complete a full course of prescribed antibiotics?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To increase the cost of treatment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To ensure all harmful bacteria are killed and prevent antibiotic resistance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To make the medicine last longer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Because doctors insist on it",
+          "is_correct": false
+        }
+      ],
+      "answer": "To ensure all harmful bacteria are killed and prevent antibiotic resistance"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does the process of 'rhizobial inoculation' involve?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spraying antibiotics on seeds",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coating seeds with a rhizobial solution before sowing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Injecting bacteria into plant stems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Adding yeast to soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coating seeds with a rhizobial solution before sowing"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a product of lactobacilli fermentation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cheese",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Yoghurt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Penicillin",
+          "is_correct": true
+        }
+      ],
+      "answer": "Penicillin"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which scientist proved that Clostridium botulinum causes food poisoning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Alexander Fleming",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Van Ermengem",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ida Bengston",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Louis Pasteur",
+          "is_correct": false
+        }
+      ],
+      "answer": "Van Ermengem"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the main difference between broad-spectrum and narrow-spectrum antibiotics?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Their color",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Their cost",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The range of bacteria they act against",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Their source (plant or animal)",
+          "is_correct": false
+        }
+      ],
+      "answer": "The range of bacteria they act against"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Why are wineries often located near Nashik in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Because of high rainfall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Due to availability of grape cultivation and suitable climate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Because of cheap labor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Due to government restrictions elsewhere",
+          "is_correct": false
+        }
+      ],
+      "answer": "Due to availability of grape cultivation and suitable climate"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What is the primary cause of foam accumulating on the surface of 'dal' in summer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Evaporation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fermentation by wild yeast/bacteria",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Chemical reaction with the pot",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "High protein content",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fermentation by wild yeast/bacteria"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which disease from the list is NOT caused by a virus?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Influenza",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hepatitis",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pneumonia",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "AIDS",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pneumonia"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the main purpose of naphthalene balls kept with clothes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To add fragrance",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To repel insects and prevent fungal growth",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To absorb moisture",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To whiten clothes",
+          "is_correct": false
+        }
+      ],
+      "answer": "To repel insects and prevent fungal growth"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which bacteria are used to clean oil spills in oceans?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Alcanivorax",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Rhizobium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Clostridium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lactobacilli",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alcanivorax"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the key reason why chapattis swell up but bread becomes spongy and soft?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Different flour",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Yeast fermentation producing CO2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Higher cooking temperature",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Use of milk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Yeast fermentation producing CO2"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What are microbes?",
+      "answer": "Microbes are microscopic organisms like bacteria, fungi, viruses, and protozoa that are found all around us."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name one anaerobic bacterium mentioned in the chapter.",
+      "answer": "Lactobacilli or Clostridium."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the main sugar in milk that lactobacilli convert?",
+      "answer": "Lactose."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the product formed when milk ferments into yoghurt?",
+      "answer": "Lactic acid."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Why is yoghurt considered good for indigestion?",
+      "answer": "Because it contains lactobacilli which help kill harmful gut bacteria and improve digestion."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is symbiosis?",
+      "answer": "A mutually beneficial relationship between two different organisms."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Where are Rhizobium bacteria found in leguminous plants?",
+      "answer": "In root nodules."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name the asexual reproduction method of yeast.",
+      "answer": "Budding."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What are the two main products of yeast fermentation?",
+      "answer": "Alcohol and carbon dioxide."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the primary use of molasses in industry?",
+      "answer": "To produce ethanol through yeast fermentation."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define an antibiotic.",
+      "answer": "A chemical substance produced by microbes that can destroy or inhibit the growth of harmful microorganisms."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one broad-spectrum antibiotic.",
+      "answer": "Tetracycline or Ampicillin."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who discovered penicillin?",
+      "answer": "Alexander Fleming."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are mycotoxins?",
+      "answer": "Poisonous chemicals released by fungi into food."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which bacterium causes botulism?",
+      "answer": "Clostridium botulinum."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the main mode of infection for Hepatitis?",
+      "answer": "Contaminated water and food."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name a fungal disease that affects the skin.",
+      "answer": "Ringworm or Dandruff."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why should antibiotics not be taken without a prescription?",
+      "answer": "To prevent misuse, side effects, and development of antibiotic resistance."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the purpose of 'rhizobial inoculation'?",
+      "answer": "To ensure seeds are coated with Rhizobium to promote nitrogen fixation after sowing."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one yeast species used in bioremediation.",
+      "answer": "Yarrowia lipolytica or Saccharomyces cerevisiae."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the main component of a lichen?",
+      "answer": "It is a symbiotic association between a fungus and an alga."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which microbe is used to clean oil spills?",
+      "answer": "Alcanivorax bacteria."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What causes leather items to spoil in the rainy season?",
+      "answer": "Growth of fungi due to moisture."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is fermentation?",
+      "answer": "A metabolic process where microorganisms convert sugars into acids, gases, or alcohol."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Name a disease caused by a protozoan.",
+      "answer": "Malaria."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the benefit of mixing ethanol with fuel?",
+      "answer": "It reduces pollution and conserves fossil fuels."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the source of penicillin?",
+      "answer": "The fungus Penicillium."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which scientist researched the toxin for gas gangrene?",
+      "answer": "Ida Bengston."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the primary preventive measure for Dengue?",
+      "answer": "Mosquito control and preventing water stagnation."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is food covered with oil in pickle jars?",
+      "answer": "To create an airtight layer that prevents contact with air and microbial growth."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the process of how yoghurt is made from milk, mentioning the role of lactobacilli.",
+      "answer": "Yoghurt is made by adding lactobacilli bacteria to milk. These bacteria ferment the lactose (milk sugar) present in milk and convert it into lactic acid. This increase in lactic acid lowers the pH of the milk. The acidic environment causes the milk proteins (casein) to coagulate or thicken, separating them from the liquid whey. This coagulation gives yoghurt its characteristic thick texture. The lactic acid also imparts a sour taste and, due to the low pH, helps destroy potentially harmful microbes present in the milk."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the symbiotic relationship between Rhizobium bacteria and leguminous plants. What are its benefits to agriculture?",
+      "answer": "Rhizobium bacteria live in the root nodules of leguminous plants (like beans, peas, soybeans). The bacteria convert atmospheric nitrogen (N2), which plants cannot use directly, into ammonia and other nitrogenous compounds like nitrates and amino acids. These compounds are supplied to the plant, which uses them to build proteins and other essential molecules. In return, the plant provides the bacteria with carbohydrates (sugars) as a source of energy. This mutualistic symbiosis benefits agriculture significantly. It naturally enriches the soil with usable nitrogen, reducing the farmer's dependence on chemical nitrogen fertilizers. This cuts costs, minimizes environmental pollution from fertilizer runoff, and promotes sustainable farming. After harvest, the leftover roots decompose, further releasing nitrogen into the soil."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Explain the role of yeast in the baking and alcohol industries. Mention the key process involved.",
+      "answer": "Yeast plays a crucial role in both baking and alcohol production through the process of fermentation. Yeast is a fungal microbe that feeds on sugars. In baking, yeast is added to dough made from flour, water, and sugar. The yeast ferments the sugars, producing carbon dioxide (CO2) gas and ethanol (alcohol) as byproducts. The CO2 gas gets trapped in the dough, forming bubbles that cause it to rise and become spongy. The alcohol evaporates during baking. In the alcohol industry (e.g., for wine, beer, and industrial ethanol), specific yeast strains like Saccharomyces cerevisiae are used. They ferment the sugars present in raw materials like grape juice (for wine), barley malt (for beer), or molasses (for ethanol). The primary product is ethanol (C2H5OH), which is then distilled and processed. The carbon dioxide produced can be captured for use in carbonated drinks."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "What are antibiotics? Differentiate between broad-spectrum and narrow-spectrum antibiotics with examples.",
+      "answer": "Antibiotics are chemical compounds produced by certain microorganisms (like bacteria and fungi) that can destroy or inhibit the growth of other harmful microorganisms, primarily bacteria. They have revolutionized medicine by providing cures for many bacterial infections. Broad-spectrum antibiotics are effective against a wide range of bacteria, both Gram-positive and Gram-negative. They are used when the specific disease-causing bacterium is unknown but symptoms are present. Examples include tetracycline, ampicillin, and amoxicillin. Narrow-spectrum antibiotics are effective against only a specific group or type of bacteria. They are prescribed when the pathogenic bacterium has been identified. Examples include penicillin (mainly against Gram-positive bacteria) and gentamycin."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Describe how Alexander Fleming discovered penicillin. Why was this discovery significant?",
+      "answer": "Alexander Fleming, a microbiology professor, accidentally discovered penicillin in 1928. He was studying cultures of Staphylococcus bacteria in Petri dishes in his laboratory. Upon returning from a holiday, he noticed that one of his culture plates was contaminated with a mold (fungus). He observed a clear zone around the mold where the bacterial colonies had been destroyed. Fleming identified the mold as Penicillium notatum and deduced that it was secreting a substance that killed the bacteria. He named this substance 'penicillin'. This discovery was groundbreaking because it was the first true antibiotic. It demonstrated that chemicals from microbes could combat bacterial infections, paving the way for the development of modern antibiotic medicine. It led to the treatment of previously fatal diseases like pneumonia, scarlet fever, and bacterial wound infections, saving countless lives and marking the beginning of the antibiotic era."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain how fungi cause spoilage of food and materials like leather and wood. What conditions favor this spoilage?",
+      "answer": "Fungi cause spoilage through their growth and metabolic activities. Microscopic fungal spores are always present in the air. When they land on suitable materials (like food, leather, wood, or cotton) and find favorable conditions—primarily sufficient moisture (dampness) and organic nutrients—they germinate. The fungal hyphae (thread-like structures) penetrate deep into the material to absorb nutrients. On food items like pickles, jam, or bread, fungi consume the nutrients, multiply, and often release poisonous chemicals called mycotoxins, rendering the food inedible and toxic. On materials like leather, gunny bags, and wood, the hyphae physically break down the fibers and structure to feed. This weakens the material, causing it to wear out, rot, and lose durability. Warm, humid conditions, such as those during the rainy season, greatly favor this fungal growth and spoilage."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Discuss the importance and dangers of Clostridium bacteria. Mention a specific species and the disease it causes.",
+      "answer": "Clostridium is a genus of bacteria that includes both harmful and useful species, but it is notorious for causing serious diseases. They are anaerobic (grow without oxygen), rod-shaped, and can form resistant endospores. The main danger lies in their ability to produce potent toxins. A key harmful species is Clostridium botulinum, which causes botulism, a severe and often fatal type of food poisoning. The toxin it produces affects the nervous system. Other harmful species include C. tetani (causes tetanus), C. perfringens (causes gas gangrene and food poisoning), and C. difficile (causes severe diarrhea, often associated with antibiotic use). These bacteria can spoil cooked food, especially in anaerobic conditions like tightly sealed containers or deep within food masses. Their spores can survive cooking and germinate later. While dangerous, some Clostridium species have industrial uses, like in the production of solvents. The primary importance of studying them is for food safety and medical treatment, requiring proper cooking, food preservation, and vaccination (e.g., tetanus vaccine)."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "List the preventive measures against common viral and bacterial diseases as given in the chapter's table. Choose one viral and one bacterial disease as examples.",
+      "answer": "The chapter provides a table outlining preventive measures for various diseases. For a viral disease example, take Dengue: Preventive measures include maintaining cleanliness in surroundings to prevent mosquito breeding, specifically eliminating stagnant water where mosquitoes lay eggs, and using mosquito control methods (nets, repellents). For a bacterial disease example, take Cholera: Preventive measures involve consuming clean, purified water and properly stored, hygienic food to avoid contamination. General preventive principles from the table include vaccination (for diseases like measles, pneumonia), personal hygiene, avoiding contact with infected persons or their belongings, and ensuring safe practices (like using sterile needles to prevent AIDS)."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What is bioremediation? Give two examples of microbes used in this process and what they clean up.",
+      "answer": "Bioremediation is the use of living microorganisms to degrade or absorb environmental pollutants, thereby cleaning up contaminated sites. It is an eco-friendly alternative to chemical or physical cleanup methods. Two examples from the chapter are: 1) The yeast Yarrowia lipolytica is used to absorb toxins released during palm oil production, as well as heavy metals and minerals from industrial waste. 2) The yeast Saccharomyces cerevisiae is used to absorb the pollutant arsenic from contaminated environments. Another example is the use of Alcanivorax bacteria to clean up oil spills in oceans; these bacteria break down the hydrocarbons in crude oil."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Why is it crucial to follow the doctor's instructions regarding antibiotic use? List the key cautions mentioned in the chapter.",
+      "answer": "It is crucial to follow a doctor's instructions for antibiotic use to ensure effective treatment, avoid side effects, and most importantly, to prevent the development of antibiotic resistance in bacteria. If antibiotics are misused (under-dosed, stopped early, or taken unnecessarily), the strongest bacteria may survive, multiply, and become resistant to that drug, making future infections harder to treat. Key cautions from the chapter include: 1) Take antibiotics only when prescribed by a doctor. 2) Do not purchase antibiotics from a pharmacy without a prescription. 3) Do not self-medicate with antibiotics for common illnesses like colds or flu (which are often viral). 4) Complete the full prescribed course even if you feel better, to ensure all bacteria are eliminated. 5) Do not suggest or share your antibiotics with others, as the prescribed drug and dose are specific to an individual's infection."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'probiotic' food. How does it benefit our health?",
+      "answer": "Probiotic foods are those that contain live, beneficial microorganisms, such as lactobacilli and bifidobacteria. These are 'good' or 'friendly' bacteria. When consumed, these microbes reach our intestines alive. Their benefits include: 1) They help maintain a healthy balance of gut flora by competing with and inhibiting the growth of harmful bacteria like Clostridium. 2) They can improve digestion and alleviate problems like indigestion, abdominal discomfort, and diarrhea. 3) They help in synthesizing certain vitamins (like B vitamins and Vitamin K). 4) They may boost the body's immune response. Common examples include probiotic yoghurt, buttermilk, and other fermented dairy products. By populating the gut with beneficial bacteria, probiotics promote overall digestive health and immunity."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Compare and contrast the usefulness of Lactobacilli and Yeast in food production, giving specific examples for each.",
+      "answer": "Both Lactobacilli and Yeast are crucial microbes in food production, but they are used for different products and processes. Lactobacilli are primarily used in fermentation that produces acids. Examples: 1) Dairy: Yoghurt, cheese, buttermilk, shrikhand. 2) Vegetables: Pickles, sauerkraut. 3) Beverages: Some types of sour beers, cider. Their main action is converting sugars to lactic acid, which preserves food and adds tangy flavor. Yeast, on the other hand, is used in fermentation that produces gas and alcohol. Examples: 1) Baking: Bread, cakes, pastries (CO2 causes rising). 2) Alcohol: Wine (from grapes), beer (from barley), industrial ethanol (from molasses). 3) Fermented foods: Idli, dosa (where it helps in leavening). Yeast converts sugars to ethanol and CO2. In summary, Lactobacilli specialize in acidification and preservation, while Yeast specializes in leavening and alcohol production."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "What is the significance of the National Institute of Virology (NIV) in Pune?",
+      "answer": "The National Institute of Virology (NIV) in Pune, established in 1952, is a premier Indian research institute focused on virology. As mentioned in the chapter, it undertakes research related to various viral diseases with support from the World Health Organization (WHO). Its significance lies in its role in public health: it conducts research on viruses causing diseases like measles, jaundice, viral fevers, and lung diseases. This research is crucial for understanding these pathogens, developing diagnostic methods, creating and testing vaccines, and formulating strategies for disease control and prevention. By studying outbreaks and virus behavior, NIV contributes to India's and the global fight against viral epidemics, making it a key institution for virological research and public health security."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "How do preservatives like salt and oil help in preventing food spoilage by microbes?",
+      "answer": "Preservatives like salt and oil prevent food spoilage by creating an environment that is hostile to microbial growth. Salt (applied on pickle jar surfaces or used in brines) acts by a process called osmosis. It draws water out of microbial cells (bacteria, fungi), causing them to dehydrate and die or become inactive. It also reduces the water activity in the food itself, making it unavailable for microbes. Oil, when used to cover pickles or other foods, creates a physical barrier. It seals the food from contact with air (oxygen), which is needed by many spoilage microbes, especially molds (fungi) and aerobic bacteria. The oil layer also prevents moisture from entering and keeps the food in an anaerobic condition, which inhibits the growth of certain microbes (though it may favor anaerobes like Clostridium if not properly acidified/salted first). Together, salt and oil are traditional, effective methods for preserving food without refrigeration."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Describe the contributions of Ida Bengston as mentioned in the chapter.",
+      "answer": "Ida Bengston was a notable scientist mentioned in the chapter for her research on harmful microbes. She obtained higher education in biochemistry from the University of Chicago. Her significant contribution was conducting important research on the toxin responsible for gas gangrene (likely caused by Clostridium perfringens) and the corresponding antitoxin used for its treatment. This work was vital for developing medical countermeasures against this serious wound infection. Furthermore, she demonstrated great dedication by continuing her research even after contracting typhus—a dreaded disease she was studying. Her resilience and commitment were recognized when she was honoured with the 'Typhus Medal' in 1947. Her work exemplifies the crucial role of microbiologists in understanding pathogens and developing life-saving treatments."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What are the reasons for mixing ethanol with petrol/diesel? Explain the industrial process of ethanol production mentioned.",
+      "answer": "Mixing ethanol with petrol or diesel (like the mandated 10% blend in some countries) is done primarily for two reasons: 1) To reduce the consumption of fossil fuels, promoting energy security and conservation. 2) To reduce vehicular emissions, as ethanol burns cleaner than pure fossil fuels, producing fewer pollutants and greenhouse gases. The industrial production of ethanol, as mentioned, often uses microbial fermentation. A common raw material is molasses, a byproduct of sugarcane processing rich in carbohydrates. The molasses is fermented using a specific yeast, Saccharomyces cerevisiae. During fermentation, the yeast converts the sugars in molasses into ethanol (C2H5OH) and carbon dioxide. The ethanol is then distilled and purified. Other grains like maize and barley can also be used in a similar process. This bioethanol serves as a renewable, high-quality, and relatively smokeless fuel."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Why are leguminous plants able to produce protein-rich seeds? Explain the biological process involved.",
+      "answer": "Leguminous plants (like beans, peas, lentils, soybeans) produce protein-rich seeds primarily due to their symbiotic relationship with Rhizobium bacteria. Proteins are nitrogen-rich compounds. While the atmosphere is 78% nitrogen (N2), plants cannot use this gaseous form. Rhizobium bacteria, residing in the root nodules of these plants, perform biological nitrogen fixation. They possess an enzyme called nitrogenase that converts inert atmospheric N2 into ammonia (NH3). This ammonia is then converted into other usable nitrogenous compounds like nitrates and amino acids. The plant readily absorbs these compounds and uses the nitrogen to synthesize a wide array of proteins and other essential molecules (like nucleic acids). This direct and efficient supply of 'fixed' nitrogen allows the plant to invest heavily in seed development, resulting in seeds that are exceptionally rich in proteins, making pulses and beans a vital dietary protein source."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "How can the knowledge of useful microbes be applied to start small-scale industries in a milk-rich area?",
+      "answer": "In an area with abundant milk production, knowledge of useful microbes like Lactobacilli and Yeast can be leveraged to start various small-scale and cottage industries. 1) Dairy Processing Units: Establish units to produce yoghurt, buttermilk, shrikhand, paneer, and various types of cheese using lactobacilli fermentation. 2) Probiotic Products: Develop specialized probiotic yoghurt or drinks by adding specific beneficial bacterial cultures. 3) Bakery: Start a bakery using yeast to produce bread, buns, and pastries. 4) Fermented Fodder: Produce leavened (fermented) fodder for cattle using lactobacilli, which improves cattle health and milk yield. 5) Value-Added Products: Make products like fermented milk-based sweets or traditional fermented foods. These industries would add value to the raw milk, create local employment, reduce spoilage, and cater to the growing demand for healthy, fermented food products. They require relatively low startup costs and utilize local resources efficiently."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "What is the role of 'lichens' as mentioned in the chapter? Where are they used besides as a condiment?",
+      "answer": "In the chapter, a lichen (specifically referred to as 'dagadphool') is mentioned as being used as a condiment, likely for its unique flavor. Lichens are not single organisms but a symbiotic association between a fungus (mycobiont) and an alga or cyanobacterium (photobiont). The fungus provides structure and protection, while the alga performs photosynthesis, providing food. Beyond their use as a condiment, lichens have several other roles and uses: 1) Ecological Indicators: They are sensitive to air pollution, especially sulfur dioxide, and are used as bio-indicators of air quality. 2) Traditional Uses: Some are used in traditional medicines and dyes. 3) Food Source: For some animals (e.g., reindeer). 4) Soil Formation: Pioneer species that help in breaking down rocks to form soil. The chapter highlights their existence as a classic example of symbiosis in nature."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the odd one out in the following groups and justify: a) Pneumonia, diphtheria, chicken pox, cholera. b) Lactobacilli, rhizobia, yeast, clostridia.",
+      "answer": "a) The odd one out is Chicken pox. Justification: Pneumonia, diphtheria, and cholera are diseases caused by bacteria (Streptococcus pneumoniae, Corynebacterium diphtheriae, Vibrio cholerae respectively). Chicken pox is caused by a virus (Varicella-zoster virus). b) The odd one out is Yeast. Justification: Lactobacilli, rhizobia, and clostridia are all genera of bacteria. Yeast, however, is a type of fungus (unicellular fungus)."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What scientific reason explains the foam accumulation on the surface of 'dal' kept for a long time in summer?",
+      "answer": "The foam accumulation on the surface of 'dal' (lentil soup) kept for a long time in summer is due to fermentation by wild microorganisms. In the warm temperatures of summer, airborne wild yeast cells or bacteria (which are naturally present) can land on the cooked dal. If the dal is not refrigerated and is left exposed, these microbes find the dal a nutritious medium. They start fermenting the carbohydrates present in the dal. During fermentation, these microbes produce gases, primarily carbon dioxide (CO2). These gas bubbles get trapped in the viscous liquid of the dal, forming foam on the surface. This indicates spoilage, and such food should not be consumed as harmful bacteria might also have grown, potentially causing food poisoning."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Match the pairs from the chapter: Rhizobium, Clostridium, Penicillium, Yeast with their correct uses/functions.",
+      "answer": "Based on the chapter content, the correct matching pairs would be: 1) Rhizobium - Nitrogen fixation. 2) Clostridium - Food poisoning. 3) Penicillium - Production of antibiotics (Penicillin). 4) Yeast - Bakery products (or alcohol production)."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How do vaccines work in principle? Why are they given to infants?",
+      "answer": "Vaccines work on the principle of preparing the body's immune system to fight specific diseases without causing the disease itself. They contain weakened or killed pathogens (or their parts/toxins). When a vaccine is administered, the immune system recognizes these as foreign (antigens) and produces antibodies and memory cells against them. If the actual, strong pathogen later invades the body, the immune system quickly recognizes it and mounts a strong, fast defense, preventing illness or making it much milder. Vaccines are given to infants because their immune systems are still developing and are vulnerable. Early vaccination protects them from serious and potentially fatal childhood diseases (like measles, diphtheria, whooping cough, polio) at the age when they are most at risk. It also helps in establishing herd immunity in the community."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Are antibiotics given to humans and animals the same? Why or why not?",
+      "answer": "Not all antibiotics given to humans and animals are the same, though some classes may overlap. The reasons are: 1) Different Pathogens: Humans and animals can be infected by different species or strains of bacteria, requiring specific antibiotics. 2) Dosage and Formulation: The dosage, concentration, and formulation (pill, injection, feed additive) are tailored to the species, size, and physiology of the patient. 3) Safety and Metabolism: An antibiotic safe for an animal might be toxic to humans, and vice versa. They are metabolized differently. 4) Regulatory Approval: Antibiotics for human use undergo strict clinical trials for safety and efficacy in humans. Veterinary antibiotics are approved for animal use. However, misuse of antibiotics in animal feed to promote growth is a concern, as it can lead to antibiotic-resistant bacteria that may spread to humans. Therefore, antibiotics should be used judiciously and as prescribed by a veterinarian for animals and a doctor for humans."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Why is it necessary to safely store the pathogens used for vaccine production?",
+      "answer": "It is absolutely necessary to safely store the pathogens (disease-causing microbes) used for vaccine production for several critical reasons: 1) Biosecurity: To prevent accidental release or theft of these pathogens, which could lead to laboratory-acquired infections or, in the worst case, be used for bioterrorism. 2) Maintain Viability and Purity: The pathogen strains need to be stored under controlled conditions (like in deep freeze) to keep them alive, genetically stable, and uncontaminated for future use in producing consistent and effective vaccine batches. 3) Reference Material: These stored strains serve as reference standards for research, quality control, and for developing new vaccines against evolving pathogens. 4) Safety: Even if the pathogens are weakened (attenuated) for vaccine use, improper handling could potentially lead to infection or reversion to a virulent form. Therefore, high-level biosafety protocols and secure storage facilities are mandatory."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Explain the terms 'fermentation' and 'bio-remediation' using examples from the chapter.",
+      "answer": "Fermentation is a metabolic process carried out by microorganisms like bacteria and yeast in the absence of oxygen, where they convert organic compounds (mainly sugars) into simpler substances like acids, gases, or alcohol, releasing energy. Examples from the chapter: 1) Lactobacilli ferment lactose in milk to produce lactic acid, making yoghurt. 2) Yeast ferments sugar to produce ethanol and CO2, used in making bread (CO2 causes rising) and alcohol (ethanol is the product). Bio-remediation is the use of living organisms, typically microbes, to remove or neutralize pollutants from a contaminated environment. Examples from the chapter: 1) The yeast Yarrowia lipolytica absorbs toxins and heavy metals from industrial waste. 2) The yeast Saccharomyces cerevisiae absorbs the pollutant arsenic. 3) Alcanivorax bacteria break down and clean up oil spills in oceans."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "What are the potential uses of fungi for plants and animals as hinted in the 'Wonderful to know' section?",
+      "answer": "The 'Wonderful to know' section highlights fascinating symbiotic relationships involving fungi. For plants: Lichens are a classic example where a fungus and an alga live together; the fungus helps the alga survive on rocks, and together they pioneer soil formation. For animals: 1) Ants (specifically, leafcutter ants) cultivate fungi in their nests (termitarium/anthill). They feed leaves to the fungus, which breaks them down, and then the ants eat the fungus, creating a sustainable food source. 2) Some species of wasps and other insects lay their eggs inside fungal bodies (like galls or fungal growths on trees). When the larvae hatch, they feed on the fungal tissue, ensuring a ready food supply. These examples show fungi serving as a direct or indirect food source and partner in complex ecological relationships."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How can the information about generic medicines (as suggested in the Activity) be beneficial for society?",
+      "answer": "Collecting and discussing information about generic medicines, as suggested in the chapter's activity, can be highly beneficial for society in several ways: 1) Cost-Effectiveness: Generic medicines contain the same active ingredients as brand-name drugs but are usually much cheaper. Awareness can help people, especially in low-income groups, access essential treatments at lower cost. 2) Informed Choices: It empowers patients to ask doctors about generic alternatives, promoting rational drug use and reducing healthcare expenses. 3) Breaking Myths: Discussions can dispel misconceptions about generic medicines being inferior in quality or efficacy (they undergo strict regulatory checks for bioequivalence). 4) Public Health: Wider use of affordable generics improves treatment adherence and health outcomes on a population scale. 5) Educational Value: It teaches students about pharmacology, economics, and public health, fostering responsible future citizens. Such awareness campaigns promote a more equitable and efficient healthcare system."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Summarize the key differences between useful and harmful microbes discussed in this chapter, providing two examples for each category.",
+      "answer": "The chapter categorizes microbes based on their impact on human life and the environment. Useful Microbes: These provide benefits in food production, agriculture, medicine, and environmental cleanup. Examples: 1) Lactobacilli: Used to make yoghurt, cheese, pickles; improves gut health. 2) Rhizobium: Fixes atmospheric nitrogen for plants, reducing fertilizer need. Other examples include Yeast (for bread and alcohol) and Penicillium (produces antibiotics). Harmful Microbes: These cause diseases, spoil food, and damage materials. Examples: 1) Clostridium botulinum: Causes severe food poisoning (botulism). 2) Various Fungi: Spoil leather, wood, and food; some release mycotoxins. Other examples include disease-causing viruses (like Influenza virus), bacteria (like Vibrio cholerae), and protozoa (like Plasmodium causing malaria). The key difference lies in their activities: useful microbes contribute to human welfare through fermentation, symbiosis, and production of valuable substances, while harmful microbes cause illness, decay, and economic loss."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Based on the entire chapter, how does the study of microbiology impact our daily life, health, and environment?",
+      "answer": "The study of microbiology profoundly impacts our daily life, health, and environment, as illustrated throughout the chapter. Daily Life & Food: Microbiology enables the production of everyday foods and beverages like yoghurt, bread, cheese, pickles, wine, and beer through controlled fermentation by useful microbes like Lactobacilli and Yeast. Health: It is the foundation of modern medicine. The discovery of antibiotics (like penicillin) from microbes has saved millions of lives by curing bacterial infections. Vaccines developed through virology prevent deadly diseases. Probiotics promote digestive health. Conversely, understanding harmful microbes (pathogens) helps us prevent and treat diseases like cholera, malaria, AIDS, and fungal infections. Environment: Microbes play crucial roles in biogeochemical cycles (e.g., nitrogen fixation by Rhizobium). They are employed in bioremediation to clean pollutants like oil spills and heavy metals (using Alcanivorax, Yarrowia). They also help in waste decomposition. Thus, microbiology is integral to food security, medical advancement, and environmental sustainability, highlighting the dual nature of microbes as both friends and foes."
+    }
+  ]
+}

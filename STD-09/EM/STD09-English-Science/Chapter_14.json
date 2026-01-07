@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Science.14",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Substances in Common Use"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the chemical name of common table salt?",
+      "options": [
+        { "option_id": 1, "text": "Sodium bicarbonate", "is_correct": false },
+        { "option_id": 2, "text": "Sodium chloride", "is_correct": true },
+        { "option_id": 3, "text": "Sodium carbonate", "is_correct": false },
+        { "option_id": 4, "text": "Calcium chloride", "is_correct": false }
+      ],
+      "answer": "Sodium chloride"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a salt commonly found in seawater?",
+      "options": [
+        { "option_id": 1, "text": "Sodium chloride", "is_correct": false },
+        { "option_id": 2, "text": "Magnesium sulphate", "is_correct": false },
+        { "option_id": 3, "text": "Potassium nitrate", "is_correct": true },
+        { "option_id": 4, "text": "Magnesium bromide", "is_correct": false }
+      ],
+      "answer": "Potassium nitrate"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the pH value of a neutral salt like sodium chloride?",
+      "options": [
+        { "option_id": 1, "text": "Less than 7", "is_correct": false },
+        { "option_id": 2, "text": "Greater than 7", "is_correct": false },
+        { "option_id": 3, "text": "7", "is_correct": true },
+        { "option_id": 4, "text": "0", "is_correct": false }
+      ],
+      "answer": "7"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which gas is released at the anode during the electrolysis of saturated brine?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Chlorine", "is_correct": true },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is baking soda chemically known as?",
+      "options": [
+        { "option_id": 1, "text": "Sodium carbonate", "is_correct": false },
+        { "option_id": 2, "text": "Sodium chloride", "is_correct": false },
+        { "option_id": 3, "text": "Sodium hydrogen carbonate", "is_correct": true },
+        { "option_id": 4, "text": "Calcium carbonate", "is_correct": false }
+      ],
+      "answer": "Sodium hydrogen carbonate"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which property of baking soda makes it useful in fire extinguishers?",
+      "options": [
+        { "option_id": 1, "text": "It is acidic", "is_correct": false },
+        { "option_id": 2, "text": "It releases carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "It is highly flammable", "is_correct": false },
+        { "option_id": 4, "text": "It absorbs water", "is_correct": false }
+      ],
+      "answer": "It releases carbon dioxide"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the chemical name of bleaching powder?",
+      "options": [
+        { "option_id": 1, "text": "Calcium carbonate", "is_correct": false },
+        { "option_id": 2, "text": "Calcium hydroxide", "is_correct": false },
+        { "option_id": 3, "text": "Calcium oxychloride", "is_correct": true },
+        { "option_id": 4, "text": "Calcium sulphate", "is_correct": false }
+      ],
+      "answer": "Calcium oxychloride"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Bleaching powder reacts with which component in air to slowly release chlorine?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the main use of washing soda (Na₂CO₃) in the home?",
+      "options": [
+        { "option_id": 1, "text": "Baking", "is_correct": false },
+        { "option_id": 2, "text": "Water softening", "is_correct": true },
+        { "option_id": 3, "text": "Disinfection", "is_correct": false },
+        { "option_id": 4, "text": "Polishing", "is_correct": false }
+      ],
+      "answer": "Water softening"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which salt is known as Glauber's salt?",
+      "options": [
+        { "option_id": 1, "text": "Potash alum", "is_correct": false },
+        { "option_id": 2, "text": "Epsom salt", "is_correct": false },
+        { "option_id": 3, "text": "Sodium sulphate", "is_correct": true },
+        { "option_id": 4, "text": "Barium chloride", "is_correct": false }
+      ],
+      "answer": "Sodium sulphate"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In soap making, what reacts with fats or oils?",
+      "options": [
+        { "option_id": 1, "text": "Hydrochloric acid", "is_correct": false },
+        { "option_id": 2, "text": "Sodium or potassium hydroxide", "is_correct": true },
+        { "option_id": 3, "text": "Sulphuric acid", "is_correct": false },
+        { "option_id": 4, "text": "Carbon dioxide", "is_correct": false }
+      ],
+      "answer": "Sodium or potassium hydroxide"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The property of spontaneously emitting invisible radiation is called?",
+      "options": [
+        { "option_id": 1, "text": "Conductivity", "is_correct": false },
+        { "option_id": 2, "text": "Radioactivity", "is_correct": true },
+        { "option_id": 3, "text": "Solubility", "is_correct": false },
+        { "option_id": 4, "text": "Neutralization", "is_correct": false }
+      ],
+      "answer": "Radioactivity"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which scientist first observed the effect of radiation on photographic plates using uranium?",
+      "options": [
+        { "option_id": 1, "text": "Marie Curie", "is_correct": false },
+        { "option_id": 2, "text": "Ernest Rutherford", "is_correct": false },
+        { "option_id": 3, "text": "Henry Becquerel", "is_correct": true },
+        { "option_id": 4, "text": "J.J. Thomson", "is_correct": false }
+      ],
+      "answer": "Henry Becquerel"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which type of radioactive radiation is deflected substantially towards a positively charged plate?",
+      "options": [
+        { "option_id": 1, "text": "Alpha rays", "is_correct": false },
+        { "option_id": 2, "text": "Beta rays", "is_correct": true },
+        { "option_id": 3, "text": "Gamma rays", "is_correct": false },
+        { "option_id": 4, "text": "X-rays", "is_correct": false }
+      ],
+      "answer": "Beta rays"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which radioactive isotope is used to prevent sprouting in onions and potatoes?",
+      "options": [
+        { "option_id": 1, "text": "Cobalt-60", "is_correct": true },
+        { "option_id": 2, "text": "Iodine-131", "is_correct": false },
+        { "option_id": 3, "text": "Phosphorus-32", "is_correct": false },
+        { "option_id": 4, "text": "Strontium-90", "is_correct": false }
+      ],
+      "answer": "Cobalt-60"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which disease is treated using Iodine-123?",
+      "options": [
+        { "option_id": 1, "text": "Bone cancer", "is_correct": false },
+        { "option_id": 2, "text": "Polycythemia", "is_correct": false },
+        { "option_id": 3, "text": "Hyperthyroidism", "is_correct": true },
+        { "option_id": 4, "text": "Leukemia", "is_correct": false }
+      ],
+      "answer": "Hyperthyroidism"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is a major health risk associated with the mercury present in some artificial colors used during Rang Panchami?",
+      "options": [
+        { "option_id": 1, "text": "Hair fall", "is_correct": false },
+        { "option_id": 2, "text": "Blindness", "is_correct": true },
+        { "option_id": 3, "text": "Asthma only", "is_correct": false },
+        { "option_id": 4, "text": "Weight gain", "is_correct": false }
+      ],
+      "answer": "Blindness"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the main harmful chemical often found in deodorants that can cause health issues?",
+      "options": [
+        { "option_id": 1, "text": "Sodium chloride", "is_correct": false },
+        { "option_id": 2, "text": "Aluminium compounds", "is_correct": true },
+        { "option_id": 3, "text": "Calcium carbonate", "is_correct": false },
+        { "option_id": 4, "text": "Silica gel", "is_correct": false }
+      ],
+      "answer": "Aluminium compounds"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is Teflon chemically known as?",
+      "options": [
+        { "option_id": 1, "text": "Polytetrafluoroethene", "is_correct": true },
+        { "option_id": 2, "text": "Polyvinyl chloride", "is_correct": false },
+        { "option_id": 3, "text": "Polyethylene", "is_correct": false },
+        { "option_id": 4, "text": "Polystyrene", "is_correct": false }
+      ],
+      "answer": "Polytetrafluoroethene"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the primary purpose of powder coating on an iron object?",
+      "options": [
+        { "option_id": 1, "text": "To make it electrically conductive", "is_correct": false },
+        { "option_id": 2, "text": "To prevent rusting", "is_correct": true },
+        { "option_id": 3, "text": "To make it softer", "is_correct": false },
+        { "option_id": 4, "text": "To increase its weight", "is_correct": false }
+      ],
+      "answer": "To prevent rusting"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "In the anodizing process, which gas is released at the anode?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Chlorine", "is_correct": false },
+        { "option_id": 3, "text": "Oxygen", "is_correct": true },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the key property of ceramics that makes them suitable for use in electrical instruments?",
+      "options": [
+        { "option_id": 1, "text": "High thermal conductivity", "is_correct": false },
+        { "option_id": 2, "text": "Electrical conductivity", "is_correct": false },
+        { "option_id": 3, "text": "Being an electrical insulator", "is_correct": true },
+        { "option_id": 4, "text": "Malleability", "is_correct": false }
+      ],
+      "answer": "Being an electrical insulator"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the main ingredient used to make bone china harder than porcelain?",
+      "options": [
+        { "option_id": 1, "text": "Kaolin clay", "is_correct": false },
+        { "option_id": 2, "text": "Ash of animal bones", "is_correct": true },
+        { "option_id": 3, "text": "Feldspar", "is_correct": false },
+        { "option_id": 4, "text": "Silica", "is_correct": false }
+      ],
+      "answer": "Ash of animal bones"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the process called that forms advanced ceramics at very high temperatures in an oxygen-free atmosphere?",
+      "options": [
+        { "option_id": 1, "text": "Glazing", "is_correct": false },
+        { "option_id": 2, "text": "Sintering", "is_correct": true },
+        { "option_id": 3, "text": "Anodizing", "is_correct": false },
+        { "option_id": 4, "text": "Electrolysis", "is_correct": false }
+      ],
+      "answer": "Sintering"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of the following is a use of fluorescent dyes?",
+      "options": [
+        { "option_id": 1, "text": "Colouring hair", "is_correct": false },
+        { "option_id": 2, "text": "Making street boards visible at night", "is_correct": true },
+        { "option_id": 3, "text": "Polishing leather", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": false }
+      ],
+      "answer": "Making street boards visible at night"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the consequence of excessive use of plants for making natural dyes?",
+      "options": [
+        { "option_id": 1, "text": "Improves soil quality", "is_correct": false },
+        { "option_id": 2, "text": "Deterioration of the environment", "is_correct": true },
+        { "option_id": 3, "text": "Increases plant growth", "is_correct": false },
+        { "option_id": 4, "text": "Reduces air pollution", "is_correct": false }
+      ],
+      "answer": "Deterioration of the environment"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which radioactive isotope is used as a tracer in crop research?",
+      "options": [
+        { "option_id": 1, "text": "Strontium-90", "is_correct": true },
+        { "option_id": 2, "text": "Cobalt-60", "is_correct": false },
+        { "option_id": 3, "text": "Iodine-131", "is_correct": false },
+        { "option_id": 4, "text": "Phosphorus-32", "is_correct": false }
+      ],
+      "answer": "Strontium-90"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of these salts does NOT contain water of crystallization?",
+      "options": [
+        { "option_id": 1, "text": "Borax", "is_correct": false },
+        { "option_id": 2, "text": "Epsom salt", "is_correct": false },
+        { "option_id": 3, "text": "Table salt (NaCl)", "is_correct": true },
+        { "option_id": 4, "text": "Potash alum", "is_correct": false }
+      ],
+      "answer": "Table salt (NaCl)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What happens to the crystalline sodium carbonate (Na₂CO₃·10H₂O) when it is kept exposed?",
+      "options": [
+        { "option_id": 1, "text": "It gains more water", "is_correct": false },
+        { "option_id": 2, "text": "It becomes a blue liquid", "is_correct": false },
+        { "option_id": 3, "text": "It loses its water of crystallization and becomes a white powder (washing soda)", "is_correct": true },
+        { "option_id": 4, "text": "It turns into a gas", "is_correct": false }
+      ],
+      "answer": "It loses its water of crystallization and becomes a white powder (washing soda)"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the primary reason for using alum in water purification?",
+      "options": [
+        { "option_id": 1, "text": "To add minerals", "is_correct": false },
+        { "option_id": 2, "text": "To kill bacteria", "is_correct": false },
+        { "option_id": 3, "text": "Its property of coagulation", "is_correct": true },
+        { "option_id": 4, "text": "To soften the water", "is_correct": false }
+      ],
+      "answer": "Its property of coagulation"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of the following is a characteristic of a 'clinical' deodorant?",
+      "options": [
+        { "option_id": 1, "text": "Contains a very small amount of aluminium", "is_correct": false },
+        { "option_id": 2, "text": "Contains about 20-25% aluminium", "is_correct": true },
+        { "option_id": 3, "text": "Is meant for light sweating", "is_correct": false },
+        { "option_id": 4, "text": "Cannot be used at night", "is_correct": false }
+      ],
+      "answer": "Contains about 20-25% aluminium"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which type of ceramic is made using kaolin clay and fired at 1200-1450°C?",
+      "options": [
+        { "option_id": 1, "text": "Terracotta", "is_correct": false },
+        { "option_id": 2, "text": "Porcelain", "is_correct": true },
+        { "option_id": 3, "text": "Bone china", "is_correct": false },
+        { "option_id": 4, "text": "Advanced ceramic", "is_correct": false }
+      ],
+      "answer": "Porcelain"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which gas is primarily responsible for the disinfecting action in water treatment using bleaching powder?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Chlorine", "is_correct": true },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is formed on the anode (aluminium article) during the anodizing process?",
+      "options": [
+        { "option_id": 1, "text": "A layer of pure aluminium", "is_correct": false },
+        { "option_id": 2, "text": "A layer of hydrated aluminium oxide", "is_correct": true },
+        { "option_id": 3, "text": "A layer of sodium chloride", "is_correct": false },
+        { "option_id": 4, "text": "A layer of carbon", "is_correct": false }
+      ],
+      "answer": "A layer of hydrated aluminium oxide"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "According to the chapter, what is the main cause of body odour?",
+      "options": [
+        { "option_id": 1, "text": "Production of oil by skin", "is_correct": false },
+        { "option_id": 2, "text": "Bacterial decomposition of sweat", "is_correct": true },
+        { "option_id": 3, "text": "Eating spicy food", "is_correct": false },
+        { "option_id": 4, "text": "Lack of bathing", "is_correct": false }
+      ],
+      "answer": "Bacterial decomposition of sweat"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What is the primary difference between bathing soap and washing soap in terms of raw materials?",
+      "options": [
+        { "option_id": 1, "text": "Bathing soap uses low-grade fats, washing soap uses high-grade fats.", "is_correct": false },
+        { "option_id": 2, "text": "Bathing soap uses high-grade fats and oils, washing soap uses low-grade fats and oils.", "is_correct": true },
+        { "option_id": 3, "text": "There is no difference in raw materials.", "is_correct": false },
+        { "option_id": 4, "text": "Washing soap contains added perfumes.", "is_correct": false }
+      ],
+      "answer": "Bathing soap uses high-grade fats and oils, washing soap uses low-grade fats and oils."
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the role of a 'mordant' in dyeing?",
+      "options": [
+        { "option_id": 1, "text": "To provide fragrance to the cloth", "is_correct": false },
+        { "option_id": 2, "text": "To soften the cloth before dyeing", "is_correct": false },
+        { "option_id": 3, "text": "To fix the colour on the cloth", "is_correct": true },
+        { "option_id": 4, "text": "To bleach the cloth", "is_correct": false }
+      ],
+      "answer": "To fix the colour on the cloth"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which radioactive isotope is mentioned as being used in the treatment of polycythemia?",
+      "options": [
+        { "option_id": 1, "text": "Phosphorus-32", "is_correct": true },
+        { "option_id": 2, "text": "Strontium-90", "is_correct": false },
+        { "option_id": 3, "text": "Cobalt-60", "is_correct": false },
+        { "option_id": 4, "text": "Iodine-131", "is_correct": false }
+      ],
+      "answer": "Phosphorus-32"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the chemical formula for Epsom salt?",
+      "options": [
+        { "option_id": 1, "text": "MgSO₄·7H₂O", "is_correct": true },
+        { "option_id": 2, "text": "Na₂SO₄·10H₂O", "is_correct": false },
+        { "option_id": 3, "text": "K₂SO₄·Al₂(SO₄)₃·24H₂O", "is_correct": false },
+        { "option_id": 4, "text": "BaCl₂·2H₂O", "is_correct": false }
+      ],
+      "answer": "MgSO₄·7H₂O"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "In the context of ceramics, what is 'glaze'?",
+      "options": [
+        { "option_id": 1, "text": "The raw clay mixture", "is_correct": false },
+        { "option_id": 2, "text": "Finely ground glass powder suspended in water, applied before final firing", "is_correct": true },
+        { "option_id": 3, "text": "The final firing process", "is_correct": false },
+        { "option_id": 4, "text": "The kiln used for firing", "is_correct": false }
+      ],
+      "answer": "Finely ground glass powder suspended in water, applied before final firing"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define a simple salt.",
+      "answer": "Simple salts are ionic compounds which do not contain H⁺ or OH⁻ ions and contain only one kind of cation and anion."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the salt that gives a salty taste to food.",
+      "answer": "Sodium chloride (common salt/table salt)."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Write the chemical equation for the electrolysis of fused sodium chloride.",
+      "answer": "2NaCl (fused) → 2Na (cathode) + Cl₂ (anode). (The reaction shows chlorine gas at anode and liquid sodium metal at cathode)."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What makes a cake porous when baked?",
+      "answer": "The carbon dioxide gas released by baking soda (sodium bicarbonate) during heating makes the cake porous."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the odour noticed in tap water during the rainy season or in swimming pools? What causes it?",
+      "answer": "A typical strong odour of chlorine gas. It is caused by chlorine used to disinfect and destroy microbes in the water."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why is washing soda added to hard water?",
+      "answer": "To soften the hard water by removing the hardness caused by calcium and magnesium salts."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "List two salts that contain water of crystallization.",
+      "answer": "Examples include: Epsom salt (MgSO₄·7H₂O), Borax (Na₂B₄O₇·10H₂O), Potash alum (K₂SO₄·Al₂(SO₄)₃·24H₂O)."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Why is lather not formed when soap is used with hard water?",
+      "answer": "Because soap reacts with calcium and magnesium salts in hard water to form insoluble precipitates (scum), which do not produce lather."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name the three types of radiation emitted by radioactive substances.",
+      "answer": "Alpha rays (α), Beta rays (β), and Gamma rays (γ)."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Who discovered induced or artificial radioactivity?",
+      "answer": "Fredric Joliot Curie and Irene Joliot Curie."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Give one use of radioactive substances in the industrial field.",
+      "answer": "Radiography - to detect internal cracks and flaws in metal castings using gamma rays from isotopes like Cobalt-60."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a common harmful effect of artificial food colours containing lead and mercury?",
+      "answer": "They can be harmful to health, potentially causing diseases like ADHD in children with excessive consumption."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a natural source for making safe colours for Rang Panchami?",
+      "answer": "Natural resources like beetroot, flowers of the flame of the forest, spinach, and gulmohar (flame tree)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the main purpose of using a deodorant?",
+      "answer": "To prevent body odour caused by the bacterial decomposition of sweat."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is Teflon used for coating cooking utensils?",
+      "answer": "Because it is non-stick, meaning neither water nor oil sticks to Teflon-coated articles, making them easy to clean."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the key step in the powder coating process that ensures the powder sticks to the metal surface?",
+      "answer": "Giving the powder particles an electrostatic charge during electrostatic spray deposition (ESD)."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the main advantage of anodizing aluminium?",
+      "answer": "It creates a thick, protective, and attractive layer of hydrated aluminium oxide on the surface."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the primary raw material for making ceramics?",
+      "answer": "Clay (an inorganic substance) is kneaded with water, shaped, and then fired at high temperatures."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How is the porosity of a fired ceramic article removed?",
+      "answer": "By covering it with a glaze (finely ground glass powder in water) and firing it again."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one compound used instead of clay to make advanced ceramics.",
+      "answer": "Alumina (Al₂O₃) or Silicon Carbide (SiC) or Boron Carbide (B₄C)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the main reason for using ceramic tiles on the outer layer of a space shuttle?",
+      "answer": "Ceramics can withstand very high temperatures without decomposing."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the chemical reaction when bleaching powder reacts with dilute sulphuric acid?",
+      "answer": "CaOCl₂ + H₂SO₄ → CaSO₄ + Cl₂↑ + H₂O (Chlorine gas is released)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the difference between natural and artificial radioactivity?",
+      "answer": "Natural radioactivity occurs spontaneously in elements like uranium, while artificial radioactivity is induced in elements by bombarding them with particles in a laboratory."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "List one use of dyes other than colouring cloth.",
+      "answer": "They are used to polish leather shoes, purses, and chappals."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the full chemical name for 'POP' mentioned in the table?",
+      "answer": "The chapter does not explicitly state the full form, but POP commonly stands for Plaster of Paris (Calcium sulphate hemihydrate, CaSO₄·½H₂O)."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does the pH value of a salt indicate about its parent acid and base?",
+      "answer": "A pH of 7 indicates it is from a strong acid and strong base; pH < 7 indicates strong acid and weak base; pH > 7 indicates weak acid and strong base."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How is chlorine gas produced industrially from common salt?",
+      "answer": "By the electrolysis of a saturated aqueous solution of sodium chloride (brine)."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is rock salt?",
+      "answer": "Salt obtained from a certain type of rock, like the mineral halite or Himalayan rock salt."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is baking soda considered basic?",
+      "answer": "Because it turns moist red litmus paper blue, indicating its basic nature."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the role of phosphor in luminescent paint?",
+      "answer": "It combines with radioactive substances like radium to make objects visible in the dark (e.g., clock hands)."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the process of water softening using washing soda, including a chemical reaction.",
+      "answer": "Hard water contains dissolved chlorides and sulphates of calcium and magnesium, which prevent soap from lathering. Washing soda (sodium carbonate, Na₂CO₃) is added to this hard water. It reacts with these soluble salts to form insoluble carbonates of calcium and magnesium. For example, it reacts with magnesium chloride to form insoluble magnesium carbonate and sodium chloride: MgCl₂(aq) + Na₂CO₃(s) → MgCO₃(s) + 2NaCl(s). The insoluble carbonates precipitate out, removing the hardness and making the water soft and suitable for washing."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the experiment conducted by Henry Becquerel that led to the discovery of radioactivity.",
+      "answer": "French scientist Henry Becquerel was studying pitchblende, a uranium compound. He accidentally left some uranium compounds on a cardboard box containing unused photographic plates, with a key on top of the box. After a few days, he developed the plates and found they had become cloudy, showing the silhouette of the key. Since this happened in the dark, he concluded that the uranium compounds were spontaneously emitting some kind of penetrating radiation (similar to X-rays) that affected the photographic plate. These rays were later named Becquerel rays, marking the discovery of radioactivity."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Compare and contrast the properties of Alpha, Beta, and Gamma rays based on their nature, charge, and penetrating power.",
+      "answer": "Alpha rays (α) are a stream of positively charged helium nuclei (He²⁺), have a charge of +2, and have very low penetrating power (can be stopped by a sheet of paper or thin aluminium). Beta rays (β) are a stream of fast-moving electrons (e⁻), have a charge of -1, and have moderate penetrating power (can pass through a few mm of aluminium). Gamma rays (γ) are electromagnetic waves (like light but with higher energy), are electrically neutral, and have very high penetrating power (can pass through several cm of lead). Their ionizing power decreases from Alpha (highest) to Beta to Gamma (lowest)."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the harmful effects of artificial food colours with examples.",
+      "answer": "Artificial food colours, added to items like pickles, jams, sauces, and sweets to enhance appearance, can have several harmful effects. They often contain small quantities of toxic metals like lead and mercury, which can accumulate in the body with regular consumption. A major health concern is their link to behavioural disorders in children, such as Attention Deficit Hyperactivity Disorder (ADHD). Therefore, over-consumption of artificially coloured foods is detrimental to health, and the use of natural food colours is recommended."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Describe the method of powder coating and explain why it is an effective process for preventing rust.",
+      "answer": "Powder coating is a method to apply a hard, protective layer on metal objects like iron to prevent rusting. First, a mixture of polymer resin, pigment, and other ingredients is melted, cooled, and ground into a uniform powder. This powder is then sprayed onto the polished metal surface using an electrostatic spray deposition (ESD) gun, which gives the powder particles an electrostatic charge. This charge causes the powder to stick uniformly to the grounded metal surface. The coated object is then heated in an oven. The heat triggers a chemical reaction, forming long, cross-linked polymer chains that create a durable, hard, and attractive finish. This coating acts as a barrier, preventing moisture and oxygen from reaching the metal, thus inhibiting rust."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "How is bleaching powder prepared? List its three main uses.",
+      "answer": "Bleaching powder (calcium oxychloride, CaOCl₂) is prepared by the reaction of chlorine gas with slaked lime (calcium hydroxide). The chemical equation is: Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O. Its three main uses are: 1. Disinfection of drinking water at waterworks and swimming pools to kill microbes. 2. Bleaching of cotton and linen in the textile industry. 3. As an oxidising agent for disinfection of public places like roadside garbage sites."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the role of radioactive isotopes in the field of medicine, giving at least two specific examples.",
+      "answer": "Radioactive isotopes are crucial in medicine for both diagnosis and treatment (radiotherapy). For example: 1. Iodine-123 is used in the diagnosis and treatment of hyperthyroidism, where an overactive thyroid gland is targeted. 2. Cobalt-60 is a source of gamma rays used in radiotherapy to treat cancers like brain tumours by destroying cancerous cells. 3. Phosphorus-32 is used to treat polycythemia, a condition with an excess of red blood cells. These isotopes allow for precise targeting of diseased tissues."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "What are the environmental and health hazards associated with radioactive substances?",
+      "answer": "Radioactive substances pose severe hazards. Health hazards include damage to the central nervous system, genetic mutations from DNA damage, and diseases like skin cancer and leukemia due to radiation penetrating the body. Environmentally, radioactive pollutants from events like nuclear explosions or accidents (e.g., Chernobyl) can contaminate air, water, and soil. They enter the food chain (e.g., through fish or plants like Sr-90 in milk) and ultimately the human body, causing long-term genetic disorders and increasing disease incidence across generations, as seen with thyroid disorders post-Chernobyl."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe the process of making soap in the laboratory. What is the key reaction involved?",
+      "answer": "Soap is made in the laboratory by saponification. The key reaction involves boiling an oil (like vegetable oil) or animal fat with an aqueous solution of a strong alkali, such as sodium hydroxide (NaOH) or potassium hydroxide (KOH). The fat or oil (a triglyceride ester) reacts with the alkali to form glycerol and the sodium or potassium salt of fatty acids. These salts are the soap. For example, with sodium hydroxide, sodium stearate (a soap) and glycerol are produced. The mixture is then cooled, and salt is added to precipitate the soap, which can then be separated and purified."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain the terms 'natural dye' and 'artificial dye'. Give one example of a source for each and a potential adverse effect of artificial dyes.",
+      "answer": "Natural dyes are obtained from plant or animal sources without synthetic chemical processes. An example is a dye made from saffron flowers in Kashmir, used for colouring expensive fabrics. Artificial dyes are synthesized chemically from petroleum products and minerals. William Henry Perkin invented the first artificial dye in 1856. An adverse effect of artificial dyes, especially in hair dyes, can include hair fall, skin burns, damage to hair texture, and eye irritation. Lipsticks with dyes like carmine can cause stomach disorders if ingested."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "What is anodizing? Describe the process and its purpose for aluminium articles.",
+      "answer": "Anodizing is an electrolytic process used to increase the thickness of the natural oxide layer on the surface of aluminium articles, making them more corrosion-resistant and attractive. In the process, the aluminium article is made the anode in an electrolytic cell containing a dilute acid (like sulphuric acid). When an electric current is passed, oxygen gas is released at the anode. This oxygen reacts with the aluminium surface to form a thick, durable, and porous layer of hydrated aluminium oxide (Al₂O₃·xH₂O). This layer can also be coloured by adding dyes during the process. The purpose is to protect the aluminium from corrosion, improve wear resistance, and provide an aesthetic finish, which is why it is used for cooking utensils like pressure cookers."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "How is common salt (sodium chloride) obtained from sea water? Describe the process briefly.",
+      "answer": "Common salt is obtained from seawater by solar evaporation. Seawater is collected in large, shallow ponds called salt pans. The sun's heat evaporates the water slowly. As the water evaporates, the concentration of dissolved salts increases. When the solution becomes saturated, sodium chloride, being less soluble than other salts like magnesium chloride, starts to crystallize out first. These crystals are then harvested, washed, and refined to produce common salt. This method utilizes the sun as a free source of energy and the sea as a vast reservoir of salts."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain why Teflon is an ideal material for non-stick cookware. List two of its other properties.",
+      "answer": "Teflon is ideal for non-stick cookware because of its unique property where neither water nor oil sticks to its surface. This is due to the strong carbon-fluorine bonds and the smooth, low-friction surface of the polytetrafluoroethene polymer. Two other important properties are: 1. High thermal stability: It has a very high melting point (327°C), so it does not degrade at normal cooking temperatures. 2. Chemical inertness: It is unaffected by most chemicals and atmospheric conditions, making it durable and safe for cooking."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Differentiate between porcelain and bone china in terms of composition and properties.",
+      "answer": "Porcelain is a hard, white, translucent ceramic made primarily from white kaolin clay, mixed with feldspar and silica, and fired at 1200-1450°C. Bone china is a type of ceramic that is even harder and more durable than porcelain. It is made by adding ash from animal bones to the mixture of kaolin clay, feldspar, and fine silica used for porcelain. The bone ash gives bone china greater strength, a more delicate appearance, and higher chip resistance compared to regular porcelain."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Describe the use of radioactive substances in agriculture with two examples.",
+      "answer": "Radioactive substances are used in agriculture to improve crop yield and preservation. Two key uses are: 1. Mutation breeding: Radiation from isotopes like Cobalt-60 is used to induce mutations in the genes and chromosomes of seeds. This can lead to the development of new plant varieties with desirable traits such as faster growth, higher yield, or disease resistance. 2. Food preservation: Gamma rays from Cobalt-60 are used to irradiate food items like onions and potatoes. This irradiation inhibits sprouting and kills microbes, thereby extending their shelf life without the use of chemical preservatives."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What is the 'glazing' process in ceramic making? Why is it important?",
+      "answer": "Glazing is a crucial step in ceramic making where a fired but porous ceramic object is coated with a thin layer of 'glaze' – a suspension of finely ground glass powder in water. The object is then fired for a second time at a high temperature. During this firing, the glaze melts and forms a smooth, glassy, and non-porous coating on the surface. This process is important for several reasons: it makes the ceramic waterproof, gives it an attractive, shiny finish, makes it easier to clean, and can add colour and decorative patterns to the article."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "List the steps involved in making a common ceramic article from clay.",
+      "answer": "Making a common ceramic article involves several steps: 1. Preparation: Clay (an inorganic substance) is kneaded thoroughly with water to form a malleable paste. 2. Shaping: The clay paste is shaped into the desired form (like a pot or tile) using hands, a potter's wheel, or a mould. 3. Drying: The shaped article is allowed to dry partially to remove excess moisture and become 'leather-hard'. 4. First Firing (Bisque firing): The dried article is fired in a kiln at a high temperature (around 1000-1150°C). This hardens the clay, making it porous and brittle. 5. Glazing: The fired piece is dipped in or painted with a glaze (glass powder suspension). 6. Second Firing (Glaze firing): The glazed piece is fired again. The glaze melts, forming a smooth, waterproof, and shiny surface. The final product is a hard, durable ceramic article."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Explain the statement: 'The sea is a rich source of salts.'",
+      "answer": "The statement means that seawater contains a vast and varied amount of dissolved ionic compounds (salts). Every year, millions of tons of salts from rocks and soil are carried by rivers into the sea, adding to its salt content. Seawater is not just a source of common salt (sodium chloride) but contains a complex mixture of salts of many elements, including chlorides, sulphates, carbonates, and bromides of sodium, magnesium, potassium, and calcium (e.g., MgCl₂, MgSO₄, KCl, CaCO₃). This makes the ocean a virtually inexhaustible natural reservoir from which many commercially important salts can be extracted."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Why is the use of methods like Teflon coating and powder coating becoming more common?",
+      "answer": "The use of methods like Teflon coating and powder coating is becoming more common due to their superior performance, durability, and environmental benefits compared to traditional methods. Teflon coating provides a non-stick, easy-to-clean, and chemically inert surface for cookware and industrial parts, enhancing convenience and safety. Powder coating offers a highly durable, corrosion-resistant, and attractive finish for metals without using solvent-based paints, which release harmful volatile organic compounds (VOCs). Both methods produce long-lasting products, reduce maintenance, and are more environmentally friendly, driving their widespread adoption in households and industries."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What are the differences between bathing soap and washing soap? (Complete the table from the chapter).",
+      "answer": "Based on the chapter, the differences are: 1. Raw Material: Bathing soap uses high-grade fats and oils, while washing soap uses low-grade fats and oils. 2. Purpose/Quality: Bathing soap is designed for direct contact with skin and is therefore made with purer, gentler ingredients, often with added perfumes and moisturizers. Washing soap is designed for cleaning clothes and may contain stronger cleansing agents or builders to tackle stains but might be harsher on the skin."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How does the electrolysis of a saturated brine solution (NaCl) differ from the electrolysis of fused salt?",
+      "answer": "The electrolysis of a saturated brine solution (aqueous NaCl) and fused (molten) NaCl produce different products. In aqueous electrolysis, water is also involved. At the cathode, hydrogen gas (H₂) is released from water reduction instead of sodium because sodium ions are harder to reduce than water molecules. At the anode, chloride ions are oxidized to chlorine gas (Cl₂). Sodium hydroxide (NaOH) remains in the solution. The reaction is: 2NaCl(aq) + 2H₂O(l) → 2NaOH(aq) + Cl₂(g) + H₂(g). In contrast, electrolysis of fused NaCl involves only the salt. At the cathode, sodium metal (Na) is produced. At the anode, chlorine gas (Cl₂) is produced. The reaction is: 2NaCl(l) → 2Na(l) + Cl₂(g)."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Describe the potential health risks associated with the regular use of deodorants containing aluminium compounds.",
+      "answer": "Regular use of deodorants containing aluminium compounds, such as aluminium chlorohydrate or aluminium-zirconium complexes, poses several potential health risks. These compounds work by blocking sweat pores to reduce wetness. The risks include: 1. Skin disorders: They can cause irritation, itching, and may contribute to conditions like contact dermatitis. 2. Systemic health issues: There is concern about absorption through the skin, with potential links to neurological disorders (like headaches), respiratory problems (asthma), and even heart disease. 3. Cancer risk: Although not conclusively proven, some studies have raised concerns about a possible link between long-term aluminium exposure from antiperspirants and breast cancer or skin cancer."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the principle behind how a universal indicator is used to determine the nature (acidic/basic/neutral) of a salt solution.",
+      "answer": "A universal indicator is a mixture of several pH-sensitive dyes that shows different colours across the pH scale (1-14). To determine the nature of a salt solution, a few drops of the universal indicator are added to the salt solution. The resulting colour is compared to a standard pH colour chart. If the colour matches green (pH 7), the salt is neutral, indicating it is derived from a strong acid and a strong base. If the colour is in the yellow-orange-red range (pH < 7), the solution is acidic, indicating the salt is from a strong acid and a weak base. If the colour is in the blue-purple range (pH > 7), the solution is basic, indicating the salt is from a weak acid and a strong base."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What are 'advanced ceramics'? How are they different from traditional clay-based ceramics?",
+      "answer": "Advanced ceramics, also known as technical or engineering ceramics, are high-performance materials made from highly purified inorganic compounds rather than traditional clay. They are different in several ways: 1. Composition: They are made from oxides like alumina (Al₂O₃), zirconia (ZrO₂), or non-oxides like silicon carbide (SiC) and boron carbide (B₄C). 2. Manufacturing: They require extremely high sintering temperatures (1600-1800°C) often in controlled, oxygen-free atmospheres. 3. Properties: They possess superior properties such as exceptional heat resistance (used in jet engine blades), high strength, wear resistance, and electrical insulating or superconducting capabilities. They are used in demanding applications like space shuttle tiles, cutting tools, and biomedical implants, unlike traditional ceramics used for pottery and construction."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Summarize the uses of alum as mentioned in the chapter.",
+      "answer": "According to the chapter, alum (potash alum, K₂SO₄·Al₂(SO₄)₃·24H₂O) has the following uses: 1. Water Purification: Its key use is in water treatment, where its property of coagulation helps to clump together fine suspended impurities, making them heavy enough to settle down, thus clearing the water. 2. Medical/Diagnostic: It is implied that alum or related compounds are used; for example, blue vitriol (copper sulphate) is mentioned in blood tests for diagnosing anaemia and in Bordeaux mixture (with slaked lime) as a fungicide for fruits like grapes. Alum itself is also known as an astringent and styptic."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Write a note on the hazards of artificial colours used during festivals like Rang Panchami and suggest a safer alternative.",
+      "answer": "The artificial colours (gulal) used during festivals like Rang Panchami often contain hazardous chemicals. The red colour is particularly dangerous as it may contain a high proportion of mercury sulphide, while other colours can contain lead, chromium, or other heavy metals and industrial dyes. Hazards include skin problems like allergies, itching, and dermatitis; eye injuries and potential blindness if it enters the eyes; respiratory issues like asthma from inhaled powder; and even risks of skin cancer or permanent blockage of sweat pores due to toxic absorption. A safer alternative is to use natural colours made at home from substances like beetroot (for red/pink), turmeric (for yellow), spinach (for green), and flowers like flame of the forest or gulmohar. These are non-toxic, biodegradable, and protect both health and the environment."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Chernobyl disaster in understanding the long-term effects of radioactive pollution.",
+      "answer": "The Chernobyl disaster of April 26, 1986, serves as a stark example of the catastrophic and long-term effects of radioactive pollution. When the graphite reactor exploded, it released massive amounts of radioactive isotopes into the environment. These isotopes contaminated water sources and land over a vast area. The significance lies in the observed consequences: 1. Health Impact: Radioactive substances like iodine-131 entered the human body, leading to a significant increase in thyroid disorders and cancers, especially in children. 2. Genetic Damage: The radiation caused genetic mutations, leading to hereditary defects that were carried to the next generation. 3. Persistent Contamination: The incident demonstrated how radioactive pollutants persist in the ecosystem, entering the food chain and causing health issues for decades, highlighting the need for extreme caution in handling radioactive materials."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Describe the method of using radioactivity for measuring the thickness of sheets in an industrial process.",
+      "answer": "In industries manufacturing sheets of uniform thickness (like aluminium, plastic, or iron), radioactive substances are used for precise, non-contact thickness measurement. A radioactive source (like beta emitter) is placed on one side of the moving sheet, and a radiation detector is placed directly opposite on the other side. As the sheet passes between them, some of the radiation is absorbed by the material. The thickness of the sheet determines how much radiation is absorbed. A thicker sheet absorbs more radiation, allowing less to reach the detector. The detector measures the intensity of the radiation that passes through. This reading is continuously monitored and fed back to the machinery controls. If the thickness deviates from the set value, the system automatically adjusts the rollers to correct it, ensuring consistent product quality."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How does the presence of water of crystallization affect the properties of a salt? Give an example.",
+      "answer": "Water of crystallization is the fixed number of water molecules chemically bound within the crystal structure of a salt. Its presence significantly affects the salt's physical properties: 1. Shape and Form: It gives the salt its characteristic crystalline shape (e.g., blue crystals of copper sulphate). 2. Stability: The hydrated form is often stable under normal conditions. 3. Change on Heating: When heated, the salt loses its water of crystallization, often becoming a powdery anhydrous substance with different properties (e.g., colour change). For example, blue vitriol (CuSO₄·5H₂O) is blue and crystalline. Upon heating, it loses its water molecules and turns into white, anhydrous copper sulphate (CuSO₄), which is powdery. The anhydrous form can regain its blue colour and crystalline structure if water is added, demonstrating the reversible nature of hydration for some salts."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Classify the given substances from daily life into acids, bases, metals, non-metals, and salts: Table salt, soap, toothpaste, baking soda, water, curds, milk, alum, iron, sulphur, washing powder. Provide reasoning for one item from each category.",
+      "answer": "Based on scientific classification: 1. Salts: Table salt (NaCl, an ionic compound), Alum (a double salt), Washing powder (often contains salts like sodium carbonate). Reasoning: Table salt is a neutral ionic compound (Na⁺ and Cl⁻). 2. Bases: Soap (sodium/potassium salts of fatty acids, basic in solution), Toothpaste (often contains basic compounds like calcium carbonate), Baking soda (NaHCO₃, basic). Reasoning: Baking soda turns red litmus blue, indicating its basic nature. 3. Acids: Curds (contains lactic acid). Reasoning: Curds have a sour taste due to lactic acid. 4. Metals: Iron (Fe, a metallic element). Reasoning: Iron is shiny, malleable, and a good conductor. 5. Non-metals: Sulphur (S, a yellow brittle solid). Reasoning: Sulphur is non-lustrous and a poor conductor. 6. Other/Neutral: Water (H₂O, a neutral compound), Milk (a colloidal mixture, slightly acidic). Note: Some items like washing powder and toothpaste are mixtures and may contain multiple types of substances."
+    }
+  ]
+}

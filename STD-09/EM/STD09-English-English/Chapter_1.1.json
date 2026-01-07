@@ -1,0 +1,251 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.1.1",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Life"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "According to the poem 'Life' by Charlotte Bronte, what do sages say about life?",
+      "options": [
+        { "option_id": 1, "text": "Life is a beautiful journey.", "is_correct": false },
+        { "option_id": 2, "text": "Life is a dream, but a dark one.", "is_correct": true },
+        { "option_id": 3, "text": "Life is full of permanent gloom.", "is_correct": false },
+        { "option_id": 4, "text": "Life is like a game to be played well.", "is_correct": false }
+      ],
+      "answer": "Life is a dream, but a dark one."
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the 'little morning rain' in the poem foretell?",
+      "options": [
+        { "option_id": 1, "text": "A stormy day", "is_correct": false },
+        { "option_id": 2, "text": "A pleasant day", "is_correct": true },
+        { "option_id": 3, "text": "A day of sorrow", "is_correct": false },
+        { "option_id": 4, "text": "A transient cloud", "is_correct": false }
+      ],
+      "answer": "A pleasant day"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In the context of the poem, what does 'our Best' refer to?",
+      "options": [
+        { "option_id": 1, "text": "Our best achievements", "is_correct": false },
+        { "option_id": 2, "text": "Our loved ones", "is_correct": true },
+        { "option_id": 3, "text": "Our happiest moments", "is_correct": false },
+        { "option_id": 4, "text": "Our strongest hopes", "is_correct": false }
+      ],
+      "answer": "Our loved ones"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is a euphemism for death as mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Calls our Best away", "is_correct": true },
+        { "option_id": 2, "text": "Quells despair", "is_correct": false },
+        { "option_id": 3, "text": "Clouds of gloom", "is_correct": false },
+        { "option_id": 4, "text": "Sunny hours flit by", "is_correct": false }
+      ],
+      "answer": "Calls our Best away"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should we do during life's joyful times according to the poet?",
+      "options": [
+        { "option_id": 1, "text": "Lament their passing", "is_correct": false },
+        { "option_id": 2, "text": "Enjoy them as they fly", "is_correct": true },
+        { "option_id": 3, "text": "Fear their end", "is_correct": false },
+        { "option_id": 4, "text": "Remember the sorrow", "is_correct": false }
+      ],
+      "answer": "Enjoy them as they fly"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word from the poem means 'temporary'?",
+      "options": [
+        { "option_id": 1, "text": "Buoyant", "is_correct": false },
+        { "option_id": 2, "text": "Transient", "is_correct": true },
+        { "option_id": 3, "text": "Lament", "is_correct": false },
+        { "option_id": 4, "text": "Sway", "is_correct": false }
+      ],
+      "answer": "Transient"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the poet say about hope in the face of sorrow?",
+      "options": [
+        { "option_id": 1, "text": "It is conquered and dies.", "is_correct": false },
+        { "option_id": 2, "text": "It is elastic and springs back, unconquered.", "is_correct": true },
+        { "option_id": 3, "text": "It becomes weak and fearful.", "is_correct": false },
+        { "option_id": 4, "text": "It disappears forever.", "is_correct": false }
+      ],
+      "answer": "It is elastic and springs back, unconquered."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What human quality is described as being able to 'quell despair'?",
+      "options": [
+        { "option_id": 1, "text": "Hope", "is_correct": false },
+        { "option_id": 2, "text": "Courage", "is_correct": true },
+        { "option_id": 3, "text": "Sorrow", "is_correct": false },
+        { "option_id": 4, "text": "Love", "is_correct": false }
+      ],
+      "answer": "Courage"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In the Warming Up activity, what is an acrostic?",
+      "options": [
+        { "option_id": 1, "text": "A type of metaphor for life", "is_correct": false },
+        { "option_id": 2, "text": "A poem where the first letters of each line spell a word", "is_correct": true },
+        { "option_id": 3, "text": "A list of positive and negative feelings", "is_correct": false },
+        { "option_id": 4, "text": "A rhetorical question", "is_correct": false }
+      ],
+      "answer": "A poem where the first letters of each line spell a word"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following feelings is listed as 'Negative' in the activity?",
+      "options": [
+        { "option_id": 1, "text": "Hopeful", "is_correct": false },
+        { "option_id": 2, "text": "Cheerful", "is_correct": false },
+        { "option_id": 3, "text": "Anxious", "is_correct": true },
+        { "option_id": 4, "text": "Inspired", "is_correct": false }
+      ],
+      "answer": "Anxious"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Write one metaphorical line about 'Life' as suggested in the Warming Up activity.",
+      "answer": "Life is a book – write your own story. (Accept any student-generated metaphorical line about life.)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What does the word 'buoyant' mean as given in the glossary for the poem?",
+      "answer": "That which can rise upwards."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "According to the poem, what is the nature of the 'clouds of gloom'?",
+      "answer": "They are transient, or temporary."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "List one positive feeling and one negative feeling from the Warming Up activity.",
+      "answer": "Positive: Happy. Negative: Jealous."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What is personification?",
+      "answer": "It is a figure of speech where human qualities are given to animals, objects, or ideas."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What does the 'shower' do to the 'roses' in the poem?",
+      "answer": "The shower makes the roses bloom."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'sway' as per the poem's glossary?",
+      "answer": "Controlling influence."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Name the poet of the poem 'Life'.", 
+      "answer": "Charlotte Bronte."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What is an interrogation (rhetorical question) in the context of poetry?",
+      "answer": "It is a question asked for effect or to make a point, not to get an answer."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What activity does the textbook suggest for creating acrostics?",
+      "answer": "Turning it into a game with a time limit."
+    },
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "Explain the central message of Charlotte Bronte's poem 'Life' in your own words.",
+      "answer": "The poem 'Life' conveys an optimistic message that life is not a dark dream as some wise people say. It acknowledges that sorrow, gloom, and loss (like the passing of loved ones) are part of life, but emphasizes that they are temporary. The poem encourages us to cherish joyful moments as they pass, to hold onto hope which is resilient and strong, and to face trials with courage, which can triumph over despair."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "Describe how the poem uses metaphors to describe different aspects of life. Give two examples from the text.",
+      "answer": "The poem uses several metaphors to describe life's experiences. First, 'little morning rain' is a metaphor for small troubles or sad moments, which actually 'foretell a pleasant day', meaning they lead to better times. Second, 'clouds of gloom' metaphorically represent periods of sadness or difficulty, which the poet says are 'transient all', meaning they do not last forever. Another example is 'Life’s sunny hours flit by', comparing happy times to quickly passing sunny hours."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "What is the importance of the Warming Up activity that asks students to discuss metaphorical lines about life?",
+      "answer": "This activity is important as it activates prior knowledge and stimulates creative thinking. It encourages students to reflect on the abstract concept of 'life' using figurative language, which prepares their minds to better understand and appreciate the metaphors used in the subsequent poem. It also promotes discussion and allows for personal expression, making the learning process more engaging and relatable."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "Why are the wings of hope described as 'golden' in the poem? Explain the significance.",
+      "answer": "Hope's wings are described as 'golden' to symbolize their precious, valuable, and radiant nature. Gold is associated with something pure, strong, and enduring. By calling them 'golden wings', the poet emphasizes that hope is a beautiful, powerful, and uplifting force. Despite setbacks ('though she fell'), hope remains 'buoyant' and 'strong to bear us well', suggesting its ability to lift our spirits and carry us through difficulties."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "Explain the concept of euphemism with reference to the line 'And calls our Best away'. Also, suggest two other gentle expressions for 'death'.",
+      "answer": "Euphemism is a mild or indirect word or expression used in place of one considered to be too harsh or blunt when referring to something unpleasant. In the line 'And calls our Best away', the harsh reality of 'death' is softened by referring to it as a calling away of our loved ones ('our Best'). This makes the idea less direct and more gentle. Two other euphemisms for death could be: 'passed away' and 'eternal rest'."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "How does the poem 'Life' depict the balance between optimistic and pessimistic views? Support your answer with lines from the poem.",
+      "answer": "The poem deliberately balances pessimistic and optimistic views to present a realistic yet hopeful outlook. It starts by acknowledging the pessimistic view of sages who say life is a dark dream. It mentions 'clouds of gloom', death taking 'our Best away', and Sorrow seeming to win. However, it counters each with optimism: the rain foretells a pleasant day, gloom is transient, hope springs back elastically, and courage can quell despair. Lines like 'Enjoy them as they fly' (optimism) and 'What though death at times steps in' (pessimism) show this balance."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "What is the purpose of the activity that asks students to list positive and negative feelings and describe a situation where they felt both?",
+      "answer": "The purpose of this activity is to develop emotional literacy and self-awareness. By identifying and categorizing feelings, students expand their vocabulary for emotions. More importantly, the task of describing a situation with mixed emotions helps them recognize and articulate the complexity of human experience. It validates that having conflicting feelings is normal, fostering empathy and reflective thinking, which are crucial for both personal growth and literary analysis."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "Pick out one example of personification from the poem and explain its effect.",
+      "answer": "One clear example of personification is: 'Yet Hope again elastic springs'. Here, the abstract concept of 'Hope' is given the human/ living quality of 'springing' back elastically, like a resilient person or object. This personification makes hope seem active, dynamic, and powerful. It transforms hope from a mere feeling into a character that can be defeated ('fell') but recovers, thereby strengthening the poem's message about resilience and the enduring power of a positive outlook."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "Summarize the advice the poet gives for facing life's difficult days.",
+      "answer": "The poet advises facing life's difficult days or 'day of trial' with a spirit of courage and fearlessness. The lines 'Manfully, fearlessly, The day of trial bear' explicitly state this. She assures that if faced with such courage, one can overcome despair 'gloriously' and 'victoriously'. The underlying advice is not to be crushed by temporary sorrow or gloom, to remember that hope is strong and will return, and to trust that courage is the key to quelling despair during challenging times."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "How do the activities in the 'Warming up!' section connect to the main poem 'Life'?",
+      "answer": "The 'Warming up!' activities are thematically and skillfully connected to the poem. The first activity on metaphorical lines about life introduces figurative language, which is central to the poem's construction. The second activity on acrostics using the word LIFE engages students creatively with the core theme. The third activity on identifying and categorizing emotions mirrors the poem's exploration of joy, sorrow, hope, and despair. Together, these activities build a conceptual and emotional foundation, making students more receptive to the poem's deeper exploration of life's dualities and its message of resilience."
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.History.2",
+    "standard": "10",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "India : Events after 1960"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In which year did India become a sovereign democratic nation?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1950", "is_correct": true },
+        { "option_id": 3, "text": "1960", "is_correct": false },
+        { "option_id": 4, "text": "1962", "is_correct": false }
+      ],
+      "answer": "1950"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was the Prime Minister of India during the 1962 war with China?",
+      "options": [
+        { "option_id": 1, "text": "Lal Bahadur Shastri", "is_correct": false },
+        { "option_id": 2, "text": "Jawaharlal Nehru", "is_correct": true },
+        { "option_id": 3, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Morarji Desai", "is_correct": false }
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister gave the slogan 'Jai Jawan Jai Kisan'?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Lal Bahadur Shastri", "is_correct": true },
+        { "option_id": 3, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Atal Bihari Vajpayee", "is_correct": false }
+      ],
+      "answer": "Lal Bahadur Shastri"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In which year did India successfully conduct its first underground nuclear test at Pokharan?",
+      "options": [
+        { "option_id": 1, "text": "1965", "is_correct": false },
+        { "option_id": 2, "text": "1971", "is_correct": false },
+        { "option_id": 3, "text": "1974", "is_correct": true },
+        { "option_id": 4, "text": "1998", "is_correct": false }
+      ],
+      "answer": "1974"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister is associated with the National Emergency declared in 1975?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi", "is_correct": true },
+        { "option_id": 2, "text": "Morarji Desai", "is_correct": false },
+        { "option_id": 3, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Chandra Shekhar", "is_correct": false }
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who became the Prime Minister of India after the assassination of Indira Gandhi in 1984?",
+      "options": [
+        { "option_id": 1, "text": "Rajiv Gandhi", "is_correct": true },
+        { "option_id": 2, "text": "Vishwanath Pratap Singh", "is_correct": false },
+        { "option_id": 3, "text": "Chandra Shekhar", "is_correct": false },
+        { "option_id": 4, "text": "Atal Bihari Vajpayee", "is_correct": false }
+      ],
+      "answer": "Rajiv Gandhi"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who is known as the father of the Green Revolution in India?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Verghese Kurien", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Homi Bhabha", "is_correct": false },
+        { "option_id": 3, "text": "Dr. M. S. Swaminathan", "is_correct": true },
+        { "option_id": 4, "text": "Dr. Norman Borlaug", "is_correct": false }
+      ],
+      "answer": "Dr. M. S. Swaminathan"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which constitutional amendment reserved seats for women in local self-government bodies?",
+      "options": [
+        { "option_id": 1, "text": "71st and 72nd", "is_correct": false },
+        { "option_id": 2, "text": "73rd and 74th", "is_correct": true },
+        { "option_id": 3, "text": "75th and 76th", "is_correct": false },
+        { "option_id": 4, "text": "77th and 78th", "is_correct": false }
+      ],
+      "answer": "73rd and 74th"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister initiated economic liberalisation in India in 1991?",
+      "options": [
+        { "option_id": 1, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "P. V. Narasimha Rao", "is_correct": true },
+        { "option_id": 3, "text": "Atal Bihari Vajpayee", "is_correct": false },
+        { "option_id": 4, "text": "H. D. Devegowda", "is_correct": false }
+      ],
+      "answer": "P. V. Narasimha Rao"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which international organisation includes India as a member of BRICS?",
+      "options": [
+        { "option_id": 1, "text": "G-7", "is_correct": false },
+        { "option_id": 2, "text": "G-20", "is_correct": false },
+        { "option_id": 3, "text": "BRICS", "is_correct": true },
+        { "option_id": 4, "text": "ASEAN", "is_correct": false }
+      ],
+      "answer": "BRICS"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Name the region where the 1962 India-China war was fought.",
+      "answer": "MacMahon line region."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What slogan did Lal Bahadur Shastri give?",
+      "answer": "Jai Jawan Jai Kisan."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "Which new country was created as a result of the 1971 India-Pakistan war?",
+      "answer": "Bangladesh."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "Who led the 'Mukti Bahini' in East Pakistan?",
+      "answer": "Sheikh Mujibur Rahman."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What is the White Revolution associated with?",
+      "answer": "Increase in milk production led by Dr. Verghese Kurien."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Which year did Sikkim become a full-fledged state of India?",
+      "answer": "1975."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Who was the first Prime Minister of the Janata Party government?",
+      "answer": "Morarji Desai."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Which terrorist organisation assassinated Rajiv Gandhi?",
+      "answer": "Liberation Tigers of Tamil Eelam (LTTE)."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What does ULFA stand for?",
+      "answer": "United Liberation Front of Assam."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Which Prime Minister is known for the policy of reservations for Other Backward Classes (OBC)?",
+      "answer": "Vishwanath Pratap Singh."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who laid the foundation of India's atomic power programme?",
+      "answer": "Dr. Homi Bhabha."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name India's first satellite launched in 1975.",
+      "answer": "Aryabhatta."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Which Act was passed in 1989 to protect Scheduled Castes and Tribes?",
+      "answer": "Prevention of Atrocities Act."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Which commission studied the issue of Other Backward Classes in 1978?",
+      "answer": "Mandal Commission."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What major global event ended in 1991?",
+      "answer": "The Cold War."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Which war was fought between India and Pakistan in 1999?",
+      "answer": "Kargil War."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the full form of LTTE?",
+      "answer": "Liberation Tigers of Tamil Eelam."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Which department was created in 1985 for women and child development?",
+      "answer": "Department of Women and Child Development."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What was the main aim of the Planning Commission in India?",
+      "answer": "To coordinate development through Five Year Plans."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Which Indian Prime Minister tried to establish dialogue with Pakistan in the late 1990s?",
+      "answer": "Atal Bihari Vajpayee."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 1962 India-China war.",
+      "answer": "The 1962 India-China war was fought in the MacMahon line region and resulted from rising border tensions since 1950. It was a significant military conflict that exposed India's defensive vulnerabilities and led to a reevaluation of its defence and foreign policies. The war impacted India's relationship with China for decades and prompted greater investment in military preparedness and infrastructure in the northern borders."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Describe the role of Indira Gandhi in the creation of Bangladesh.",
+      "answer": "Indira Gandhi played a crucial leadership role during the 1971 India-Pakistan war. Her government provided support to the Mukti Bahini led by Sheikh Mujibur Rahman in East Pakistan, which was facing oppressive Pakistani policies. India's military intervention, combined with diplomatic efforts, led to Pakistan's defeat and the independence of East Pakistan, which became Bangladesh. Her strong leadership during this crisis strengthened India's regional influence."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "What were the causes and effects of the National Emergency declared in 1975?",
+      "answer": "The National Emergency was declared in 1975 by Prime Minister Indira Gandhi citing internal disturbances. Causes included political unrest and economic challenges. Effects included suspension of fundamental rights, censorship of press, forced sterilization campaigns, and centralization of power. While it brought administrative discipline, it severely restricted human rights and civil liberties. The Emergency ended in 1977 after widespread opposition, leading to the defeat of the Congress party in elections."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Explain the economic reforms introduced in India in 1991.",
+      "answer": "In 1991, under Prime Minister P.V. Narasimha Rao, India introduced economic liberalisation reforms. These included reducing government control over industries, opening up to foreign investment, lowering import tariffs, and encouraging privatisation. The reforms aimed to overcome a severe balance of payments crisis, boost economic growth, and integrate India into the global economy. They led to increased foreign investment, growth in the IT sector, and overall economic expansion."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "Discuss the contributions of Dr. M. S. Swaminathan and Dr. Verghese Kurien to India's development.",
+      "answer": "Dr. M. S. Swaminathan, known as the father of the Green Revolution, introduced high-yielding crop varieties and modern agricultural techniques, significantly increasing foodgrain production and ensuring food security. Dr. Verghese Kurien led the White Revolution through cooperative dairy movements like Amul, which boosted milk production, empowered farmers, and made India self-sufficient in milk. Both revolutions transformed rural economies and reduced dependency on imports."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "What were the key social reforms in India after 1960 regarding women and backward classes?",
+      "answer": "Key social reforms included the establishment of the Department of Women and Child Development (1985), laws like the Prohibition of Dowry Act and Equal Remuneration Act, and reservation of seats for women in local governments via the 73rd and 74th Constitutional Amendments. For backward classes, the Mandal Commission (1978) recommended reservations for Other Backward Classes (OBC) in jobs and education, and the Prevention of Atrocities Act (1989) protected Scheduled Castes and Tribes from discrimination and violence."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "How did globalisation impact India after 1991?",
+      "answer": "Globalisation after 1991 integrated India into the world economy, leading to increased foreign investment, growth in information technology, expansion of telecommunications, and cultural exchanges. It transformed lifestyles, dietary habits, clothing, and language. India emerged as a key global player, joining groups like BRICS and G-20. However, it also led to challenges like economic disparities, cultural homogenization, and environmental concerns."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "Explain the political challenges India faced in the 1980s.",
+      "answer": "In the 1980s, India faced several political challenges: the Khalistan movement in Punjab demanding a separate state, supported by Pakistan; the army's operation in the Golden Temple in 1984 to remove terrorists; the assassination of Indira Gandhi; the rise of ULFA in Assam; and the beginning of unrest in Jammu and Kashmir, which later turned into terrorism. These events tested India's internal security, federal structure, and political stability."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "Describe India's progress in science and technology after 1960.",
+      "answer": "India made significant strides in science and technology: Dr. Homi Bhabha laid the foundation for atomic energy, leading to peaceful nuclear tests (1974) and power generation. The space programme launched its first satellite, Aryabhatta (1975), and now has a successful series of satellites and missions. The Green and White Revolutions modernised agriculture and dairy. Information technology grew rapidly post-1991, creating employment and global recognition."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "Why is 1991 considered a turning point in Indian and world history?",
+      "answer": "1991 is a turning point because the Soviet Union disintegrated, ending the Cold War and reshaping global politics. In India, economic liberalisation began, transforming a closed economy into an open, market-driven one. This year marked India's integration into the global economy, leading to rapid growth, technological advancement, and increased foreign relations. It set the stage for India's emergence as a major economic and political power."
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister's government was known for the 'Mandal Commission' implementation?",
+      "options": [
+        { "option_id": 1, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Vishwanath Pratap Singh", "is_correct": true },
+        { "option_id": 3, "text": "Chandra Shekhar", "is_correct": false },
+        { "option_id": 4, "text": "Atal Bihari Vajpayee", "is_correct": false }
+      ],
+      "answer": "Vishwanath Pratap Singh"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "When was the 'Department of Women and Child Development' established?",
+      "options": [
+        { "option_id": 1, "text": "1975", "is_correct": false },
+        { "option_id": 2, "text": "1980", "is_correct": false },
+        { "option_id": 3, "text": "1985", "is_correct": true },
+        { "option_id": 4, "text": "1990", "is_correct": false }
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What was the main objective of the Planning Commission?",
+      "options": [
+        { "option_id": 1, "text": "To conduct elections", "is_correct": false },
+        { "option_id": 2, "text": "To coordinate Five Year Plans", "is_correct": true },
+        { "option_id": 3, "text": "To manage foreign policy", "is_correct": false },
+        { "option_id": 4, "text": "To oversee military operations", "is_correct": false }
+      ],
+      "answer": "To coordinate Five Year Plans"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which war led to the creation of Bangladesh?",
+      "options": [
+        { "option_id": 1, "text": "1962 India-China war", "is_correct": false },
+        { "option_id": 2, "text": "1965 India-Pakistan war", "is_correct": false },
+        { "option_id": 3, "text": "1971 India-Pakistan war", "is_correct": true },
+        { "option_id": 4, "text": "1999 Kargil war", "is_correct": false }
+      ],
+      "answer": "1971 India-Pakistan war"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who was the architect of India's foreign policy after independence?",
+      "options": [
+        { "option_id": 1, "text": "Lal Bahadur Shastri", "is_correct": false },
+        { "option_id": 2, "text": "Jawaharlal Nehru", "is_correct": true },
+        { "option_id": 3, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Atal Bihari Vajpayee", "is_correct": false }
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Which state was added to India after a referendum in 1975?",
+      "answer": "Sikkim."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Name the party formed by the opposition during the Emergency.",
+      "answer": "Janata Party."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What does OBC stand for?",
+      "answer": "Other Backward Classes."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Which Prime Minister served the shortest tenure in the 1990s?",
+      "answer": "Chandra Shekhar."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the significance of the 73rd and 74th Constitutional Amendments?",
+      "answer": "They reserved seats for women in local self-government bodies (Panchayats and Municipalities)."
+    },
+    {
+      "question_id": 51,
+      "question_type": "LONG",
+      "question": "Explain the impact of the 1965 India-Pakistan war on India's political leadership.",
+      "answer": "The 1965 war with Pakistan occurred during Lal Bahadur Shastri's tenure. His leadership during the war, symbolized by the slogan 'Jai Jawan Jai Kisan', boosted national morale. The war ended with the Tashkent Agreement, mediated by the Soviet Union. Shastri's sudden death in Tashkent in 1966 led to a transition in leadership, with Indira Gandhi succeeding him. The war reinforced India's commitment to defending Kashmir and shaped future defence strategies."
+    },
+    {
+      "question_id": 52,
+      "question_type": "LONG",
+      "question": "Discuss the role of Rajiv Gandhi in India's technological and economic development.",
+      "answer": "Rajiv Gandhi promoted technological modernization, encouraging computerization and telecommunications. He initiated economic reforms to reduce license raj and boost private sector growth. His policies laid the groundwork for later economic liberalisation. He also focused on education and science, supporting research and development. However, his tenure was marked by controversies like the Bofors scandal, and his efforts in Sri Lanka faced challenges."
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "What were the main features of India's foreign policy after 1960?",
+      "answer": "India's foreign policy emphasized non-alignment, peaceful coexistence, and strategic autonomy. It focused on building relations with Afro-Asian nations, promoting disarmament, and using atomic energy for peaceful purposes. After the 1962 war, defence partnerships grew. The 1971 war strengthened ties with the Soviet Union. Post-1991, policy shifted towards economic diplomacy, engaging with global powers and regional groups like BRICS and G-20."
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "How did the Green Revolution transform Indian agriculture?",
+      "answer": "The Green Revolution, led by Dr. M.S. Swaminathan, introduced high-yielding seed varieties, chemical fertilizers, irrigation projects, and modern farming techniques. It significantly increased wheat and rice production, making India self-sufficient in foodgrains. It reduced famine risks, boosted farmers' incomes, but also led to ecological issues like soil degradation and water depletion. It transformed Punjab, Haryana, and western Uttar Pradesh into agricultural hubs."
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Pokharan nuclear tests of 1974 and 1998.",
+      "answer": "The 1974 Pokharan test was India's first nuclear explosion, demonstrating peaceful nuclear capabilities and scientific prowess. The 1998 tests under Atal Bihari Vajpayee declared India as a nuclear weapons state, enhancing strategic deterrence and global standing. Both tests affirmed India's commitment to using nuclear energy for peaceful purposes while ensuring national security. They also led to international sanctions and shaped India's nuclear policy and diplomacy."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "Describe the challenges to India's unity in the 1980s and 1990s.",
+      "answer": "Challenges included separatist movements like Khalistan in Punjab, insurgency in Assam by ULFA, and rising terrorism in Jammu and Kashmir. These were fueled by external support, internal grievances, and political instability. The government responded with military action (Operation Blue Star), negotiations, and constitutional measures. These challenges tested India's federal structure, internal security, and commitment to pluralism, leading to long-term impacts on regional stability."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "What were the social and economic characteristics of India after independence?",
+      "answer": "Socially, India was multicultural with diverse languages, religions, and castes, facing issues of inequality and poverty. Economically, it focused on self-reliance, industrialisation through Five Year Plans, and social justice. The mixed economy model combined public and private sectors. After 1991, liberalisation introduced market reforms, globalization, and technological growth, transforming India into a fast-growing economy with rising middle class and global integration."
+    },
+    {
+      "question_id": 58,
+      "question_type": "LONG",
+      "question": "How did India's space programme evolve after 1975?",
+      "answer": "After launching Aryabhatta in 1975, India developed a robust space programme under ISRO. It launched communication (INSAT) and remote sensing (IRS) satellites, conducted lunar (Chandrayaan) and Mars (Mangalyaan) missions, and developed launch vehicles like PSLV and GSLV. The programme supports telecommunications, weather forecasting, disaster management, and national security. India is now a leading space-faring nation with cost-effective missions and international collaborations."
+    },
+    {
+      "question_id": 59,
+      "question_type": "LONG",
+      "question": "Discuss the role of coalition governments in Indian politics after 1989.",
+      "answer": "After 1989, no single party secured a majority, leading to coalition governments like the Janata Dal (1989-90), National Front, and United Front (1996-98). These alliances involved compromises, unstable ministries, and policy shifts. The National Democratic Alliance (NDA) under Atal Bihari Vajpayee (1999-2004) provided relative stability. Coalition politics encouraged regional party influence, consensus-building, and broader representation, but also caused political fragmentation and slow decision-making."
+    },
+    {
+      "question_id": 60,
+      "question_type": "LONG",
+      "question": "Explain the importance of the Prevention of Atrocities Act, 1989.",
+      "answer": "The Prevention of Atrocities Act (POA) was enacted to protect Scheduled Castes and Tribes from discrimination, violence, and social injustice. It defines specific offences, provides for strict penalties, and establishes special courts for speedy trials. The Act aims to ensure dignity, equality, and freedom from fear for marginalized communities. It has been instrumental in addressing caste-based violence, though implementation challenges remain. It reflects India's commitment to social justice and constitutional values."
+    },
+    {
+      "question_id": 61,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister is associated with the slogan 'Garibi Hatao'?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi", "is_correct": true },
+        { "option_id": 2, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 3, "text": "Lal Bahadur Shastri", "is_correct": false },
+        { "option_id": 4, "text": "Morarji Desai", "is_correct": false }
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question_id": 62,
+      "question_type": "MCQ",
+      "question": "What was the main focus of India's first Five Year Plan?",
+      "options": [
+        { "option_id": 1, "text": "Heavy industry", "is_correct": false },
+        { "option_id": 2, "text": "Agriculture", "is_correct": true },
+        { "option_id": 3, "text": "Information technology", "is_correct": false },
+        { "option_id": 4, "text": "Defence", "is_correct": false }
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question_id": 63,
+      "question_type": "MCQ",
+      "question": "Which movement in Punjab demanded a separate state called Khalistan?",
+      "options": [
+        { "option_id": 1, "text": "Naxalite movement", "is_correct": false },
+        { "option_id": 2, "text": "Khalistan movement", "is_correct": true },
+        { "option_id": 3, "text": "Bodo movement", "is_correct": false },
+        { "option_id": 4, "text": "Gorkhaland movement", "is_correct": false }
+      ],
+      "answer": "Khalistan movement"
+    },
+    {
+      "question_id": 64,
+      "question_type": "MCQ",
+      "question": "Who was the first Deputy Prime Minister of India?",
+      "options": [
+        { "option_id": 1, "text": "Sardar Patel", "is_correct": true },
+        { "option_id": 2, "text": "Morarji Desai", "is_correct": false },
+        { "option_id": 3, "text": "Charan Singh", "is_correct": false },
+        { "option_id": 4, "text": "Lal Bahadur Shastri", "is_correct": false }
+      ],
+      "answer": "Sardar Patel"
+    },
+    {
+      "question_id": 65,
+      "question_type": "MCQ",
+      "question": "Which event marked the end of the Cold War?",
+      "options": [
+        { "option_id": 1, "text": "Fall of Berlin Wall", "is_correct": false },
+        { "option_id": 2, "text": "Disintegration of Soviet Union", "is_correct": true },
+        { "option_id": 3, "text": "Korean War", "is_correct": false },
+        { "option_id": 4, "text": "Vietnam War", "is_correct": false }
+      ],
+      "answer": "Disintegration of Soviet Union"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Who succeeded Jawaharlal Nehru as Prime Minister?",
+      "answer": "Lal Bahadur Shastri."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What was the purpose of the Tashkent Agreement?",
+      "answer": "To negotiate peace after the 1965 India-Pakistan war."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which Prime Minister was in power during the Kargil War?",
+      "answer": "Atal Bihari Vajpayee."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name the commission set up in 1953 for backward classes.",
+      "answer": "Kakasahab Kalelkar Commission."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does ISRO stand for?",
+      "answer": "Indian Space Research Organisation."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the impact of economic liberalisation on Indian society.",
+      "answer": "Economic liberalisation after 1991 led to higher growth, job creation in IT and services, and increased consumer choices. It expanded the middle class, improved living standards, and encouraged urbanization. However, it also widened income inequality, caused job losses in traditional sectors, and led to cultural changes through global media. Education and healthcare saw mixed impacts, with private sector growth but uneven access. Overall, it transformed India into a more market-oriented, globally connected society."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Discuss the role of India in international organizations post-1991.",
+      "answer": "Post-1991, India actively engaged in global organizations like the UN, WTO, and IMF. It joined economic blocs like BRICS and G-20, enhancing its voice in global governance. India advocated for developing nations' interests, climate justice, and UN reforms. It strengthened ties with the US, EU, and ASEAN. Participation in peacekeeping missions and diplomatic initiatives boosted India's global stature as a responsible democratic power seeking multipolar world order."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "What were the key achievements of Atal Bihari Vajpayee's government?",
+      "answer": "Atal Bihari Vajpayee's government (1998-2004) achieved nuclear tests (1998), victory in the Kargil War (1999), economic reforms like the National Highways Development Project, and telecom expansion. It initiated peace talks with Pakistan, promoted IT growth, and strengthened federalism. The government also focused on education (Sarva Shiksha Abhiyan) and infrastructure, leaving a legacy of stable coalition politics and proactive diplomacy."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "How did the media evolve in India after the Emergency?",
+      "answer": "After the Emergency (1975-77), media faced censorship but later gained freedom with the restoration of democracy. The 1980s saw growth of print and television, with Doordarshan expanding. The 1990s brought satellite TV, private channels, and digital media, increasing diversity and reach. Post-2000, internet and social media transformed news dissemination. Media played a key role in exposing corruption, shaping public opinion, and strengthening democratic accountability, though challenges like misinformation persist."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 73rd and 74th Amendments for grassroots democracy.",
+      "answer": "The 73rd and 74th Constitutional Amendments (1992) decentralized power by establishing Panchayati Raj institutions and urban local bodies. They mandated reservations for women, Scheduled Castes, and Tribes, ensuring inclusive participation. These amendments empowered local governance, enabling decisions on health, education, and infrastructure at grassroots level. They strengthened democracy, promoted gender equality, and improved service delivery, though implementation varies across states."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the challenges faced by India in maintaining secularism after 1960.",
+      "answer": "Challenges included communal riots (e.g., 1984 anti-Sikh riots, 1992 Babri Masjid demolition), rise of identity politics, and tensions between religious groups. Separatist movements in Punjab and Kashmir had religious dimensions. Political parties sometimes exploited religious sentiments. The government responded with legal measures (like the Places of Worship Act), peace initiatives, and promoting interfaith dialogue. Upholding secularism remained a ongoing struggle amidst India's diverse society."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "What role did India play in the Non-Aligned Movement (NAM) after 1960?",
+      "answer": "India, a founding member of NAM, played a leadership role by advocating peace, disarmament, and development. It mediated in international conflicts, supported decolonization, and promoted South-South cooperation. During the Cold War, India maintained strategic autonomy, balancing relations with both blocs. Post-1991, NAM's relevance declined, but India continued to use it as a platform for multilateral diplomacy, focusing on global issues like climate change and UN reform."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "How did telecommunications change in India after liberalisation?",
+      "answer": "After liberalisation, telecommunications expanded rapidly: private players entered, leading to competition and lower costs. Mobile phone penetration soared, internet access grew, and satellite communication improved connectivity. Policies like the National Telecom Policy (1994, 1999) drove innovation. This revolution transformed business, education, healthcare, and governance, bridging urban-rural divides. India became one of the largest telecom markets, though digital divides and regulatory challenges remain."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Discuss the evolution of India's defence strategy after the 1962 war.",
+      "answer": "After the 1962 war, India focused on modernising its military, increasing defence budgets, and strengthening border infrastructure. It developed indigenous defence production (DRDO, ordnance factories) and pursued strategic partnerships (e.g., with USSR). The 1971 war demonstrated improved capabilities. Post-1998 nuclear tests, India adopted a credible minimum deterrence doctrine. Recent strategies emphasize joint operations, cyber warfare, and space security, aiming for self-reliance and regional stability."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain the contribution of Indian scientists to space and atomic energy.",
+      "answer": "Indian scientists made landmark contributions: Dr. Homi Bhabha founded the atomic programme, leading to nuclear power and research. Dr. Vikram Sarabhai established ISRO, pioneering space technology. Dr. A.P.J. Abdul Kalam advanced missile development. Scientists like Dr. M.S. Swaminathan (agriculture) and Dr. C.N.R. Rao (materials science) also excelled. Their work achieved self-reliance in critical fields, enhanced national security, and inspired future generations in STEM."
+    },
+    {
+      "question_id": 81,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister started the National Democratic Alliance (NDA)?",
+      "options": [
+        { "option_id": 1, "text": "Atal Bihari Vajpayee", "is_correct": true },
+        { "option_id": 2, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 3, "text": "P.V. Narasimha Rao", "is_correct": false },
+        { "option_id": 4, "text": "H.D. Devegowda", "is_correct": false }
+      ],
+      "answer": "Atal Bihari Vajpayee"
+    },
+    {
+      "question_id": 82,
+      "question_type": "MCQ",
+      "question": "What was the main aim of the 'Garibi Hatao' slogan?",
+      "options": [
+        { "option_id": 1, "text": "Remove poverty", "is_correct": true },
+        { "option_id": 2, "text": "Boost agriculture", "is_correct": false },
+        { "option_id": 3, "text": "Promote industry", "is_correct": false },
+        { "option_id": 4, "text": "Strengthen defence", "is_correct": false }
+      ],
+      "answer": "Remove poverty"
+    },
+    {
+      "question_id": 83,
+      "question_type": "MCQ",
+      "question": "Which movement is associated with Dr. Verghese Kurien?",
+      "options": [
+        { "option_id": 1, "text": "Green Revolution", "is_correct": false },
+        { "option_id": 2, "text": "White Revolution", "is_correct": true },
+        { "option_id": 3, "text": "Blue Revolution", "is_correct": false },
+        { "option_id": 4, "text": "IT Revolution", "is_correct": false }
+      ],
+      "answer": "White Revolution"
+    },
+    {
+      "question_id": 84,
+      "question_type": "MCQ",
+      "question": "When was the Prevention of Atrocities Act passed?",
+      "options": [
+        { "option_id": 1, "text": "1975", "is_correct": false },
+        { "option_id": 2, "text": "1984", "is_correct": false },
+        { "option_id": 3, "text": "1989", "is_correct": true },
+        { "option_id": 4, "text": "1991", "is_correct": false }
+      ],
+      "answer": "1989"
+    },
+    {
+      "question_id": 85,
+      "question_type": "MCQ",
+      "question": "Which Indian satellite was launched in 1975?",
+      "options": [
+        { "option_id": 1, "text": "Bhaskara", "is_correct": false },
+        { "option_id": 2, "text": "Aryabhatta", "is_correct": true },
+        { "option_id": 3, "text": "INSAT", "is_correct": false },
+        { "option_id": 4, "text": "Rohini", "is_correct": false }
+      ],
+      "answer": "Aryabhatta"
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Who was the first woman Prime Minister of India?",
+      "answer": "Indira Gandhi."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What does NAM stand for?",
+      "answer": "Non-Aligned Movement."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which Prime Minister was assassinated in 1984?",
+      "answer": "Indira Gandhi."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the full form of ISRO?",
+      "answer": "Indian Space Research Organisation."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Which revolution is associated with milk production?",
+      "answer": "White Revolution."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Discuss the impact of the 1975-77 Emergency on Indian democracy.",
+      "answer": "The Emergency (1975-77) suspended civil liberties, censored press, and jailed opposition leaders. It centralised power, undermining federalism and judicial independence. While it brought short-term administrative efficiency, it caused widespread public discontent. Post-Emergency, elections restored democracy, leading to the first non-Congress government. The period strengthened civil society, media vigilance, and constitutional safeguards, making Indians more aware of democratic rights and the dangers of authoritarianism."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "How did India's relationship with Pakistan evolve after 1965?",
+      "answer": "Relations remained tense with wars in 1965, 1971, and 1999. Diplomatic efforts included the Tashkent Agreement (1966), Shimla Agreement (1972), and Lahore Declaration (1999). Issues like Kashmir, terrorism, and water disputes persisted. Periods of dialogue alternated with conflicts. Trade and people-to-people contacts continued sporadically. The relationship is marked by mutual distrust, strategic competition, and occasional peace initiatives, reflecting complex historical and geopolitical factors."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the role of the Election Commission in India's democratic process.",
+      "answer": "The Election Commission, an autonomous body, conducts free and fair elections. It manages voter registration, monitors campaign spending, enforces the Model Code of Conduct, and uses technology (EVMs) to ensure transparency. Its impartiality has strengthened electoral integrity, enabled peaceful power transitions, and upheld public trust. Challenges include money power, criminalization, and misinformation, but the Commission's reforms have made Indian elections a global benchmark for democratic practice."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Describe the growth of the IT industry in India post-1991.",
+      "answer": "Post-1991, India's IT industry grew rapidly due to liberalisation, English-speaking workforce, and government support (e.g., Software Technology Parks). Companies like Infosys and TCS became global players, offering software services, BPO, and R&D. The Y2K boom boosted exports. IT hubs emerged in Bangalore, Hyderabad, and Pune. The industry created millions of jobs, contributed to GDP, and transformed India's image as a technology leader, though it faced issues like skill gaps and economic volatility."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What were the main objectives of India's Five Year Plans?",
+      "answer": "Five Year Plans aimed at balanced economic growth, self-reliance, poverty reduction, and social justice. Early plans focused on agriculture and heavy industry. Later plans emphasized employment, infrastructure, and human development. They coordinated public investment, regulated private sector, and addressed regional disparities. While they achieved industrial base and food security, criticisms included bureaucratic delays and inequitable outcomes. The Planning Commission was replaced by NITI Aayog in 2014 for more flexible planning."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which agreement ended the 1971 war between India and Pakistan?",
+      "answer": "Shimla Agreement."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Who was the Prime Minister during the 1998 nuclear tests?",
+      "answer": "Atal Bihari Vajpayee."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the significance of the Lahore Declaration?",
+      "answer": "It was a peace initiative between India and Pakistan in 1999."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which amendment provided constitutional status to Panchayati Raj?",
+      "answer": "73rd Constitutional Amendment."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Name the first Indian satellite.",
+      "answer": "Aryabhatta."
+    }
+  ]
+}

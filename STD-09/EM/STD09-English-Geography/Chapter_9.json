@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.09",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Trade"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the act of buying and selling goods to fulfill each other's needs called?",
+      "options": [
+        { "option_id": 1, "text": "Production", "is_correct": false },
+        { "option_id": 2, "text": "Marketing", "is_correct": false },
+        { "option_id": 3, "text": "Trade", "is_correct": true },
+        { "option_id": 4, "text": "Barter", "is_correct": false }
+      ],
+      "answer": "Trade"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which system of trade involves the direct exchange of goods for goods without the use of money?",
+      "options": [
+        { "option_id": 1, "text": "Currency system", "is_correct": false },
+        { "option_id": 2, "text": "Barter system", "is_correct": true },
+        { "option_id": 3, "text": "Credit system", "is_correct": false },
+        { "option_id": 4, "text": "Digital system", "is_correct": false }
+      ],
+      "answer": "Barter system"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When goods are bought and sold, it is called ______ trade.",
+      "options": [
+        { "option_id": 1, "text": "Invisible", "is_correct": false },
+        { "option_id": 2, "text": "Visible", "is_correct": true },
+        { "option_id": 3, "text": "Wholesale", "is_correct": false },
+        { "option_id": 4, "text": "Retail", "is_correct": false }
+      ],
+      "answer": "Visible"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which type of trade involves buying goods in large quantities directly from producers?",
+      "options": [
+        { "option_id": 1, "text": "Retail trade", "is_correct": false },
+        { "option_id": 2, "text": "Wholesale trade", "is_correct": true },
+        { "option_id": 3, "text": "International trade", "is_correct": false },
+        { "option_id": 4, "text": "Bilateral trade", "is_correct": false }
+      ],
+      "answer": "Wholesale trade"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is trade between different regions within the same country called?",
+      "options": [
+        { "option_id": 1, "text": "International trade", "is_correct": false },
+        { "option_id": 2, "text": "Bilateral trade", "is_correct": false },
+        { "option_id": 3, "text": "Domestic trade", "is_correct": true },
+        { "option_id": 4, "text": "Multilateral trade", "is_correct": false }
+      ],
+      "answer": "Domestic trade"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "When a country sells its surplus goods to another country, it is called ______.",
+      "options": [
+        { "option_id": 1, "text": "Import", "is_correct": false },
+        { "option_id": 2, "text": "Export", "is_correct": true },
+        { "option_id": 3, "text": "Trade deficit", "is_correct": false },
+        { "option_id": 4, "text": "Trade surplus", "is_correct": false }
+      ],
+      "answer": "Export"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "If the value of a country's imports is greater than its exports, the balance of trade is said to be ______.",
+      "options": [
+        { "option_id": 1, "text": "Favourable", "is_correct": false },
+        { "option_id": 2, "text": "Unfavourable", "is_correct": true },
+        { "option_id": 3, "text": "Balanced", "is_correct": false },
+        { "option_id": 4, "text": "Neutral", "is_correct": false }
+      ],
+      "answer": "Unfavourable"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which international organization has its headquarters in Geneva, Switzerland, and aims to provide a platform for trade negotiations?",
+      "options": [
+        { "option_id": 1, "text": "OPEC", "is_correct": false },
+        { "option_id": 2, "text": "SAARC", "is_correct": false },
+        { "option_id": 3, "text": "WTO", "is_correct": true },
+        { "option_id": 4, "text": "ASEAN", "is_correct": false }
+      ],
+      "answer": "WTO"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The main function of OPEC is to control the international trade of ______.",
+      "options": [
+        { "option_id": 1, "text": "Agricultural products", "is_correct": false },
+        { "option_id": 2, "text": "Crude oil", "is_correct": true },
+        { "option_id": 3, "text": "Electronics", "is_correct": false },
+        { "option_id": 4, "text": "Textiles", "is_correct": false }
+      ],
+      "answer": "Crude oil"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which organization has the objective of expanding social and cultural harmony along with economic growth in Southeast Asia?",
+      "options": [
+        { "option_id": 1, "text": "BRICS", "is_correct": false },
+        { "option_id": 2, "text": "SAARC", "is_correct": false },
+        { "option_id": 3, "text": "ASEAN", "is_correct": true },
+        { "option_id": 4, "text": "APEC", "is_correct": false }
+      ],
+      "answer": "ASEAN"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the term for the commercial functions involved in the flow of a product from producer to consumer?",
+      "options": [
+        { "option_id": 1, "text": "Production", "is_correct": false },
+        { "option_id": 2, "text": "Marketing", "is_correct": true },
+        { "option_id": 3, "text": "Bartering", "is_correct": false },
+        { "option_id": 4, "text": "Importing", "is_correct": false }
+      ],
+      "answer": "Marketing"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a component of marketing?",
+      "options": [
+        { "option_id": 1, "text": "Packaging", "is_correct": false },
+        { "option_id": 2, "text": "Advertising", "is_correct": false },
+        { "option_id": 3, "text": "Mining", "is_correct": true },
+        { "option_id": 4, "text": "Distribution", "is_correct": false }
+      ],
+      "answer": "Mining"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What enables facilities like 'online trading' and 'e-marketing'?",
+      "options": [
+        { "option_id": 1, "text": "Newspapers", "is_correct": false },
+        { "option_id": 2, "text": "Radio", "is_correct": false },
+        { "option_id": 3, "text": "Television", "is_correct": false },
+        { "option_id": 4, "text": "Internet", "is_correct": true }
+      ],
+      "answer": "Internet"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which act has been enacted to protect consumers from fraudulent advertisements?",
+      "options": [
+        { "option_id": 1, "text": "Trade Act", "is_correct": false },
+        { "option_id": 2, "text": "Consumer Protection Act", "is_correct": true },
+        { "option_id": 3, "text": "Marketing Act", "is_correct": false },
+        { "option_id": 4, "text": "Advertising Act", "is_correct": false }
+      ],
+      "answer": "Consumer Protection Act"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "International trade that occurs between more than two countries is called ______ trade.",
+      "options": [
+        { "option_id": 1, "text": "Bilateral", "is_correct": false },
+        { "option_id": 2, "text": "Multilateral", "is_correct": true },
+        { "option_id": 3, "text": "Domestic", "is_correct": false },
+        { "option_id": 4, "text": "Retail", "is_correct": false }
+      ],
+      "answer": "Multilateral"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which factor does NOT directly influence international trade?",
+      "options": [
+        { "option_id": 1, "text": "Government policies", "is_correct": false },
+        { "option_id": 2, "text": "Language", "is_correct": false },
+        { "option_id": 3, "text": "Local festivals", "is_correct": true },
+        { "option_id": 4, "text": "Currency", "is_correct": false }
+      ],
+      "answer": "Local festivals"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The difference between the import and export values of a country in a specific period is called ______.",
+      "options": [
+        { "option_id": 1, "text": "Trade volume", "is_correct": false },
+        { "option_id": 2, "text": "Balance of trade", "is_correct": true },
+        { "option_id": 3, "text": "Trade deficit", "is_correct": false },
+        { "option_id": 4, "text": "Trade surplus", "is_correct": false }
+      ],
+      "answer": "Balance of trade"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which organization has the objective of making funds available for the growth of economies of its member countries?",
+      "options": [
+        { "option_id": 1, "text": "WTO", "is_correct": false },
+        { "option_id": 2, "text": "OPEC", "is_correct": false },
+        { "option_id": 3, "text": "BRICS", "is_correct": true },
+        { "option_id": 4, "text": "ASEAN", "is_correct": false }
+      ],
+      "answer": "BRICS"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the main reason for trade between two regions?",
+      "options": [
+        { "option_id": 1, "text": "To increase competition", "is_correct": false },
+        { "option_id": 2, "text": "To fulfill the needs of people", "is_correct": true },
+        { "option_id": 3, "text": "To reduce prices", "is_correct": false },
+        { "option_id": 4, "text": "To follow traditions", "is_correct": false }
+      ],
+      "answer": "To fulfill the needs of people"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of invisible trade?",
+      "options": [
+        { "option_id": 1, "text": "Buying vegetables", "is_correct": false },
+        { "option_id": 2, "text": "Paying for a movie ticket", "is_correct": false },
+        { "option_id": 3, "text": "Paying for legal advice", "is_correct": true },
+        { "option_id": 4, "text": "Buying a book", "is_correct": false }
+      ],
+      "answer": "Paying for legal advice"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Trade that takes place between two countries is known as ______ trade.",
+      "options": [
+        { "option_id": 1, "text": "Domestic", "is_correct": false },
+        { "option_id": 2, "text": "Bilateral", "is_correct": true },
+        { "option_id": 3, "text": "Multilateral", "is_correct": false },
+        { "option_id": 4, "text": "Regional", "is_correct": false }
+      ],
+      "answer": "Bilateral"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The headquarters of SAARC is located in ______.",
+      "options": [
+        { "option_id": 1, "text": "Kathmandu, Nepal", "is_correct": true },
+        { "option_id": 2, "text": "Jakarta, Indonesia", "is_correct": false },
+        { "option_id": 3, "text": "Geneva, Switzerland", "is_correct": false },
+        { "option_id": 4, "text": "Brussels, Belgium", "is_correct": false }
+      ],
+      "answer": "Kathmandu, Nepal"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the primary purpose of grading and packaging a product?",
+      "options": [
+        { "option_id": 1, "text": "To increase its weight", "is_correct": false },
+        { "option_id": 2, "text": "To reduce its cost", "is_correct": false },
+        { "option_id": 3, "text": "To enhance its presentation and value", "is_correct": true },
+        { "option_id": 4, "text": "To make it biodegradable", "is_correct": false }
+      ],
+      "answer": "To enhance its presentation and value"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of retail trade?",
+      "options": [
+        { "option_id": 1, "text": "A farmer selling his entire crop to a dealer", "is_correct": false },
+        { "option_id": 2, "text": "A shopkeeper selling goods to consumers", "is_correct": true },
+        { "option_id": 3, "text": "A country importing crude oil", "is_correct": false },
+        { "option_id": 4, "text": "A company exporting machinery", "is_correct": false }
+      ],
+      "answer": "A shopkeeper selling goods to consumers"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What does APEC stand for?",
+      "options": [
+        { "option_id": 1, "text": "Asia-Pacific Economic Cooperation", "is_correct": true },
+        { "option_id": 2, "text": "Association of Pacific Economic Countries", "is_correct": false },
+        { "option_id": 3, "text": "Asian Product Exchange Council", "is_correct": false },
+        { "option_id": 4, "text": "Asia Pacific Export Council", "is_correct": false }
+      ],
+      "answer": "Asia-Pacific Economic Cooperation"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which organization uses the common currency 'Euro' among its member nations?",
+      "options": [
+        { "option_id": 1, "text": "ASEAN", "is_correct": false },
+        { "option_id": 2, "text": "EU", "is_correct": true },
+        { "option_id": 3, "text": "SAARC", "is_correct": false },
+        { "option_id": 4, "text": "BRICS", "is_correct": false }
+      ],
+      "answer": "EU"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the main objective of marketing?",
+      "options": [
+        { "option_id": 1, "text": "To reduce production costs", "is_correct": false },
+        { "option_id": 2, "text": "To reach maximum customers and increase sales", "is_correct": true },
+        { "option_id": 3, "text": "To store products for longer periods", "is_correct": false },
+        { "option_id": 4, "text": "To eliminate competition", "is_correct": false }
+      ],
+      "answer": "To reach maximum customers and increase sales"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of the following is a key function of the World Trade Organisation (WTO)?",
+      "options": [
+        { "option_id": 1, "text": "Controlling crude oil prices", "is_correct": false },
+        { "option_id": 2, "text": "Providing a platform for trade negotiations", "is_correct": true },
+        { "option_id": 3, "text": "Issuing a common currency", "is_correct": false },
+        { "option_id": 4, "text": "Promoting cultural harmony", "is_correct": false }
+      ],
+      "answer": "Providing a platform for trade negotiations"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the term for trade that occurs within a local area, such as between a city and its surrounding villages?",
+      "options": [
+        { "option_id": 1, "text": "International trade", "is_correct": false },
+        { "option_id": 2, "text": "National trade", "is_correct": false },
+        { "option_id": 3, "text": "Local trade", "is_correct": true },
+        { "option_id": 4, "text": "Bilateral trade", "is_correct": false }
+      ],
+      "answer": "Local trade"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The process of a country buying goods that are scarce in its own country from another country is called ______.",
+      "options": [
+        { "option_id": 1, "text": "Export", "is_correct": false },
+        { "option_id": 2, "text": "Import", "is_correct": true },
+        { "option_id": 3, "text": "Re-export", "is_correct": false },
+        { "option_id": 4, "text": "Smuggling", "is_correct": false }
+      ],
+      "answer": "Import"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of these is a reason for the complexity of international trade compared to domestic trade?",
+      "options": [
+        { "option_id": 1, "text": "Different currencies", "is_correct": false },
+        { "option_id": 2, "text": "Different laws and policies", "is_correct": false },
+        { "option_id": 3, "text": "Language barriers", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the term for the exchange of services, such as paying for a haircut or legal advice?",
+      "options": [
+        { "option_id": 1, "text": "Visible trade", "is_correct": false },
+        { "option_id": 2, "text": "Invisible trade", "is_correct": true },
+        { "option_id": 3, "text": "Wholesale trade", "is_correct": false },
+        { "option_id": 4, "text": "Retail trade", "is_correct": false }
+      ],
+      "answer": "Invisible trade"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which organization aims to promote free trade and economic cooperation in the Asia-Pacific Ocean region?",
+      "options": [
+        { "option_id": 1, "text": "ASEAN", "is_correct": false },
+        { "option_id": 2, "text": "APEC", "is_correct": true },
+        { "option_id": 3, "text": "SAARC", "is_correct": false },
+        { "option_id": 4, "text": "BRICS", "is_correct": false }
+      ],
+      "answer": "APEC"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What does the 'balance of trade' become when exports and imports are almost equal in value?",
+      "options": [
+        { "option_id": 1, "text": "Favourable", "is_correct": false },
+        { "option_id": 2, "text": "Unfavourable", "is_correct": false },
+        { "option_id": 3, "text": "Balanced", "is_correct": true },
+        { "option_id": 4, "text": "Deficit", "is_correct": false }
+      ],
+      "answer": "Balanced"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Why is the marketing of agricultural products important for farmers?",
+      "options": [
+        { "option_id": 1, "text": "It reduces their workload.", "is_correct": false },
+        { "option_id": 2, "text": "It helps their products fetch a better price.", "is_correct": true },
+        { "option_id": 3, "text": "It increases the cost of production.", "is_correct": false },
+        { "option_id": 4, "text": "It eliminates the need for wholesalers.", "is_correct": false }
+      ],
+      "answer": "It helps their products fetch a better price."
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of the following is a characteristic of wholesale trade?",
+      "options": [
+        { "option_id": 1, "text": "Goods are sold in small quantities.", "is_correct": false },
+        { "option_id": 2, "text": "Goods are sold directly to consumers.", "is_correct": false },
+        { "option_id": 3, "text": "Goods are bought in large quantities from producers.", "is_correct": true },
+        { "option_id": 4, "text": "It involves only invisible goods.", "is_correct": false }
+      ],
+      "answer": "Goods are bought in large quantities from producers."
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the main reason international economic organizations were formed?",
+      "options": [
+        { "option_id": 1, "text": "To increase military alliances", "is_correct": false },
+        { "option_id": 2, "text": "To promote tourism", "is_correct": false },
+        { "option_id": 3, "text": "To smoothen and justify trade between countries", "is_correct": true },
+        { "option_id": 4, "text": "To standardize educational systems", "is_correct": false }
+      ],
+      "answer": "To smoothen and justify trade between countries"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of a visible trade activity?",
+      "options": [
+        { "option_id": 1, "text": "Paying bus fare", "is_correct": false },
+        { "option_id": 2, "text": "Buying vegetables from a vendor", "is_correct": true },
+        { "option_id": 3, "text": "Consulting a doctor", "is_correct": false },
+        { "option_id": 4, "text": "Hiring a tutor", "is_correct": false }
+      ],
+      "answer": "Buying vegetables from a vendor"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What does BRICS stand for?",
+      "options": [
+        { "option_id": 1, "text": "Brazil, Russia, India, China, South Africa", "is_correct": true },
+        { "option_id": 2, "text": "Britain, Russia, Italy, Canada, Spain", "is_correct": false },
+        { "option_id": 3, "text": "Brazil, Romania, Indonesia, Chile, Singapore", "is_correct": false },
+        { "option_id": 4, "text": "Bangladesh, Russia, India, China, Sri Lanka", "is_correct": false }
+      ],
+      "answer": "Brazil, Russia, India, China, South Africa"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which of the following is a correct statement about trade?",
+      "options": [
+        { "option_id": 1, "text": "No country is self-sufficient, so trade is necessary.", "is_correct": true },
+        { "option_id": 2, "text": "Trade only involves the exchange of goods.", "is_correct": false },
+        { "option_id": 3, "text": "Domestic trade is more complex than international trade.", "is_correct": false },
+        { "option_id": 4, "text": "Barter system is the primary method of trade today.", "is_correct": false }
+      ],
+      "answer": "No country is self-sufficient, so trade is necessary."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define trade.",
+      "options": [],
+      "answer": "Trade is the buying and selling of goods and services to fulfill each other's needs."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the barter system?",
+      "options": [],
+      "answer": "The barter system is a method of trade where goods are exchanged directly for other goods without using money."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Give one example of visible trade.",
+      "options": [],
+      "answer": "Buying vegetables from a market vendor."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Give one example of invisible trade.",
+      "options": [],
+      "answer": "Paying for a bus ticket or a doctor's consultation."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is wholesale trade?",
+      "options": [],
+      "answer": "Wholesale trade involves buying goods in large quantities directly from producers and selling them in bulk to retailers."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is retail trade?",
+      "options": [],
+      "answer": "Retail trade involves buying goods from wholesalers and selling them in small quantities directly to consumers."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Define domestic trade.",
+      "options": [],
+      "answer": "Domestic trade is the buying and selling of goods and services within the boundaries of a single country."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is international trade?",
+      "options": [],
+      "answer": "International trade is the exchange of goods and services between two or more countries."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is export?",
+      "options": [],
+      "answer": "Export is the process of selling surplus goods or services produced in one country to another country."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is import?",
+      "options": [],
+      "answer": "Import is the process of buying goods or services from another country that are scarce or not produced in the home country."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define balance of trade.",
+      "options": [],
+      "answer": "Balance of trade is the difference between the value of a country's imports and exports over a specific period."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is favourable balance of trade?",
+      "options": [],
+      "answer": "Favourable balance of trade occurs when the value of a country's exports exceeds the value of its imports."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is unfavourable balance of trade?",
+      "options": [],
+      "answer": "Unfavourable balance of trade occurs when the value of a country's imports exceeds the value of its exports."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name the headquarters of the World Trade Organisation (WTO).",
+      "options": [],
+      "answer": "Geneva, Switzerland."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the main objective of OPEC?",
+      "options": [],
+      "answer": "To control the international trade and production rates of crude oil among its member countries."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "List the member countries of BRICS.",
+      "options": [],
+      "answer": "Brazil, Russia, India, China, and South Africa."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is marketing?",
+      "options": [],
+      "answer": "Marketing refers to the commercial functions involved in the flow of a product from the producer to the consumer, including advertising, packaging, and distribution."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name one importance of marketing from a farmer's perspective.",
+      "options": [],
+      "answer": "Marketing helps farmers get a better price for their agricultural products by improving presentation and reaching more customers."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What role does the internet play in modern marketing?",
+      "options": [],
+      "answer": "The internet enables online trading, e-marketing, and provides global access to product information, making the world a single large market."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which act protects consumers from false advertisements?",
+      "options": [],
+      "answer": "The Consumer Protection Act."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is bilateral trade?",
+      "options": [],
+      "answer": "Bilateral trade is international trade that occurs between two countries."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is multilateral trade?",
+      "options": [],
+      "answer": "Multilateral trade is international trade that occurs between more than two countries."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which currency is commonly used in the European Union?",
+      "options": [],
+      "answer": "The Euro."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the primary goal of SAARC?",
+      "options": [],
+      "answer": "To promote regional cooperation and social welfare among South Asian countries."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give an example of how packaging can increase the value of a product.",
+      "options": [],
+      "answer": "Cleaning, grading, and attractively packaging vegetables can make them more appealing to supermarkets, allowing them to be sold at a higher price."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why is domestic trade important for a country's development?",
+      "options": [],
+      "answer": "Domestic trade promotes economic growth, ensures efficient distribution of resources, and meets the diverse needs of the population."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name two factors that influence international trade.",
+      "options": [],
+      "answer": "Government policies and currency exchange rates."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the difference between visible and invisible trade?",
+      "options": [],
+      "answer": "Visible trade involves the exchange of physical goods, while invisible trade involves the exchange of services."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which organization promotes free trade in the Asia-Pacific region?",
+      "options": [],
+      "answer": "Asia-Pacific Economic Cooperation (APEC)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the significance of the Consumer Protection Act?",
+      "options": [],
+      "answer": "It safeguards consumers from misleading advertisements and fraudulent trade practices."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the barter system and its limitations.",
+      "options": [],
+      "answer": "The barter system is an ancient method of trade where goods are directly exchanged for other goods without using money. For example, grains could be exchanged for cloth or oil. Its main limitations include: 1) The double coincidence of wants—both parties must have what the other wants. 2) Difficulty in determining the value of different goods. 3) Lack of a common measure of value. 4) Problems in storing wealth, as perishable goods cannot be saved for long. These limitations led to the development of currency as a medium of exchange."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Differentiate between wholesale trade and retail trade.",
+      "options": [],
+      "answer": "Wholesale trade involves purchasing goods in large quantities directly from producers or manufacturers and selling them in bulk to retailers. Wholesalers act as intermediaries between producers and retailers. Retail trade, on the other hand, involves buying goods from wholesalers and selling them in smaller quantities directly to the end consumers. Retailers operate through shops, markets, or online platforms. The key differences lie in the scale of transaction (bulk vs. small quantities), the target customers (retailers vs. consumers), and their role in the supply chain."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Describe the factors that influence domestic trade within a country.",
+      "options": [],
+      "answer": "Domestic trade is influenced by several factors: 1) Geographical diversity: Different regions produce different goods, creating demand and supply across regions. 2) Population size and distribution: A larger population increases demand and trade volume. 3) Transport and communication networks: Efficient roads, railways, and digital connectivity facilitate the movement of goods. 4) Standard of living: Higher purchasing power boosts trade. 5) Government policies: Taxes, subsidies, and regulations affect trade flows. 6) Marketing systems: Effective advertising and distribution channels enhance trade. In India, factors like diverse climates, high population, and improving infrastructure significantly shape domestic trade."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the concept of balance of trade and its three types with examples.",
+      "options": [],
+      "answer": "Balance of trade is the difference between a country's total export value and total import value over a specific period. Its three types are: 1) Favourable balance of trade: When exports exceed imports (e.g., China exporting more goods than it imports). 2) Unfavourable balance of trade: When imports exceed exports (e.g., India importing more crude oil than it exports). 3) Balanced trade: When the value of exports and imports is nearly equal. A favourable balance is desirable as it brings foreign currency, while an unfavourable balance can strain the economy. The balance reflects a country's economic health and trade policies."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Discuss the role and functions of the World Trade Organisation (WTO).",
+      "options": [],
+      "answer": "The World Trade Organisation (WTO) is an international body headquartered in Geneva, Switzerland, with 164 member states. Its main functions are: 1) Providing a platform for negotiations on trade rules and disputes. 2) Resolving trade disagreements between member countries through a dispute settlement system. 3) Monitoring national trade policies to ensure transparency and compliance. 4) Offering technical assistance and training to developing nations to help them integrate into the global trading system. The WTO aims to promote free and fair trade, reduce trade barriers, and ensure a stable and predictable trading environment worldwide."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Compare and contrast the objectives of SAARC and ASEAN.",
+      "options": [],
+      "answer": "SAARC (South Asian Association for Regional Cooperation) and ASEAN (Association of Southeast Asian Nations) are regional organizations with distinct objectives. SAARC focuses on South Asia and aims to: 1) Solve common regional problems. 2) Enhance social welfare and living standards. 3) Promote mutual trust and cooperation. ASEAN, for Southeast Asia, aims to: 1) Accelerate economic growth and social-cultural harmony. 2) Promote regional peace and stability. 3) Facilitate trade through tax waivers and cooperation. While both seek regional cooperation, ASEAN has a stronger economic integration agenda (like the ASEAN Free Trade Area), whereas SAARC emphasizes social and developmental issues alongside economic collaboration."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the importance of marketing in modern trade, especially for agricultural products.",
+      "options": [],
+      "answer": "Marketing is crucial in modern trade as it bridges the gap between producers and consumers. For agricultural products, effective marketing can: 1) Improve product presentation through cleaning, grading, and attractive packaging, increasing perceived value. 2) Expand market reach by connecting farmers to supermarkets, online platforms, or export markets. 3) Enhance product visibility through advertising, creating brand recognition. 4) Enable farmers to fetch better prices, improving their income. For instance, Dhondiba's son marketed his father's vegetables by packaging them well and supplying them to a supermarket, resulting in higher sales. Thus, marketing transforms raw produce into desirable commodities, boosting both demand and profitability."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "How has information technology revolutionized marketing and trade?",
+      "options": [],
+      "answer": "Information technology (IT) has profoundly revolutionized marketing and trade by: 1) Creating a global marketplace through the internet, where buyers and sellers can connect across borders. 2) Enabling e-marketing and online trading, allowing businesses to reach customers directly via websites and social media. 3) Providing consumers with vast product information, reviews, and price comparisons, empowering informed choices. 4) Facilitating digital payments, making transactions faster and safer. 5) Improving supply chain management through real-time tracking and data analytics. IT has made marketing more targeted, efficient, and interactive, transforming traditional trade into a dynamic, digitally-driven activity."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe the challenges faced in international trade and how international organizations help overcome them.",
+      "options": [],
+      "answer": "International trade faces challenges such as: 1) Different currencies and exchange rate fluctuations. 2) Varied national laws, taxes, and trade barriers. 3) Political tensions affecting trade relations. 4) Language and cultural differences. 5) Logistical complexities in transportation. International organizations like WTO, OPEC, and EU help overcome these by: 1) Establishing common rules and dispute-resolution mechanisms (WTO). 2) Stabilizing prices and supply of key commodities (OPEC for oil). 3) Creating integrated markets with shared policies and currencies (EU). 4) Promoting regional cooperation and reducing tariffs (ASEAN, SAARC). These organizations foster dialogue, standardize practices, and create a more predictable and fair trading environment."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Why is it important for consumers to be aware of misleading advertisements? What legal protection exists?",
+      "options": [],
+      "answer": "Consumers must be aware of misleading advertisements because false claims can lead to wasted money, health risks (e.g., fake medicines), and unsafe products. Misleading ads exploit trust and manipulate buying decisions. Legal protection is provided by the Consumer Protection Act, which safeguards consumers against fraudulent trade practices. This act allows consumers to file complaints, seek compensation, and ensures advertisers follow ethical standards. Awareness empowers consumers to verify claims, compare products, and make informed choices, promoting fair trade and holding businesses accountable for honest marketing."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the difference between domestic and international trade with examples.",
+      "options": [],
+      "answer": "Domestic trade occurs within a country's borders, involving exchange between regions, states, or cities. For example, apples from Jammu & Kashmir are sold in Maharashtra. International trade occurs between two or more countries, such as India importing crude oil from Saudi Arabia or exporting software services to the USA. Key differences include: 1) Scope: Domestic trade is national; international is cross-border. 2) Regulations: Domestic trade follows one country's laws; international involves multiple legal systems. 3) Currency: Domestic uses national currency; international involves foreign exchange. 4) Complexity: International trade is more complex due to tariffs, language barriers, and longer logistics. Both are essential for meeting diverse needs and economic growth."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "What are the main objectives of the European Union (EU) in terms of trade?",
+      "options": [],
+      "answer": "The European Union (EU) has several key trade objectives: 1) Establishing a single integrated market among member states, allowing free movement of goods, services, capital, and people. 2) Eliminating customs duties and trade barriers within the EU to boost internal trade. 3) Adopting a common currency (Euro) for many members to simplify transactions and reduce exchange risks. 4) Negotiating trade agreements as a bloc with non-EU countries to strengthen collective bargaining power. 5) Ensuring fair competition and consumer protection across the union. These measures aim to enhance economic cooperation, increase efficiency, and raise living standards within Europe."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "How can a farmer use marketing strategies to get a better price for his produce?",
+      "options": [],
+      "answer": "A farmer can use several marketing strategies to get better prices: 1) Grading and sorting: Separate produce by quality and size to target premium markets. 2) Attractive packaging: Use clean, labeled packages to enhance appeal. 3) Direct selling: Bypass intermediaries by selling at farmers' markets, through cooperatives, or online platforms. 4) Branding: Create a local brand for quality assurance. 5) Value addition: Process raw produce (e.g., making jam from fruits) to increase profitability. 6) Advertisement: Use social media or local media to promote products. 7) Linking with supermarkets/exporters: Supply directly to larger retailers who pay better for consistent quality. These steps improve visibility, perceived value, and market access."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Discuss the impact of globalization on trade and marketing.",
+      "options": [],
+      "answer": "Globalization has dramatically impacted trade and marketing by: 1) Expanding markets: Businesses can sell globally, not just locally. 2) Increasing competition: Local producers face competition from international brands, driving innovation and quality. 3) Enhancing consumer choice: People access diverse products from around the world. 4) Integrating supply chains: Production, distribution, and marketing become globally coordinated. 5) Promoting digital marketing: Internet and social media enable targeted advertising across borders. 6) Encouraging cultural exchange: Products and marketing campaigns often blend global and local elements. However, globalization also poses challenges like dominance of multinational corporations and vulnerability to global economic shocks. Overall, it has made trade more interconnected and marketing more sophisticated."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Explain the terms 'export' and 'import' with suitable examples.",
+      "options": [],
+      "answer": "Export refers to selling domestically produced goods or services to another country. For example, India exports software services, textiles, and spices to the USA and Europe. Import refers to buying goods or services from foreign countries to meet domestic demand. For instance, India imports crude oil from the Middle East, electronic goods from China, and machinery from Germany. Exports bring foreign currency and strengthen the economy, while imports satisfy needs that cannot be met locally. A healthy balance between exports and imports is vital for a nation's economic stability and growth."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What is the significance of bilateral and multilateral trade agreements?",
+      "options": [],
+      "answer": "Bilateral trade agreements are pacts between two countries to reduce trade barriers (like tariffs) and promote exchange. For example, the India-Japan trade agreement boosts trade in automobiles and electronics. Multilateral agreements involve multiple countries, such as WTO agreements, which set global trade rules. Significance includes: 1) Expanding market access for goods and services. 2) Lowering costs through reduced tariffs. 3) Encouraging foreign investment. 4) Promoting economic cooperation and political stability. While bilateral agreements are simpler to negotiate, multilateral agreements create broader, more uniform trade systems. Both are essential for integrating economies and fostering global trade growth."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Describe the role of packaging and labeling in marketing.",
+      "options": [],
+      "answer": "Packaging and labeling play vital roles in marketing: 1) Protection: Packaging safeguards the product during transport and storage. 2) Attraction: Attractive packaging catches the consumer's eye on shelves. 3) Information: Labels provide essential details like ingredients, price, expiry date, and usage instructions. 4) Branding: Packaging displays the brand logo, colors, and design, building brand identity. 5) Differentiation: Unique packaging sets a product apart from competitors. 6) Convenience: Easy-to-open or reusable packaging enhances user experience. For example, well-labeled, sealed packets of rice or biscuits assure quality and help consumers make informed choices, directly influencing purchase decisions and perceived value."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "How do geographical conditions affect trade patterns?",
+      "options": [],
+      "answer": "Geographical conditions significantly influence trade patterns by determining what a region produces. For instance: 1) Climate: Tropical countries like India produce spices and tea; cold countries like Canada produce wheat. 2) Natural resources: Oil-rich nations like Saudi Arabia export crude oil; mineral-rich countries export ores. 3) Topography: Coastal regions engage in fishing and port-based trade; plains favor agriculture. 4) Location: Landlocked countries may face higher transport costs, affecting trade volume. These variations create surpluses and deficits, driving trade between regions. For example, Kashmir's apples are traded across India, while Saudi oil is exported globally. Thus, geography shapes specialization, trade routes, and economic interdependence."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "What are the advantages and disadvantages of online trading?",
+      "options": [],
+      "answer": "Advantages of online trading: 1) Convenience: Buying/selling can be done anytime, anywhere. 2) Wider reach: Businesses access global customers. 3) Lower costs: Reduced need for physical stores and intermediaries. 4) Easy comparison: Consumers compare prices and features quickly. 5) Digital payments: Secure and fast transactions. Disadvantages: 1) Digital divide: Not everyone has internet access or skills. 2) Security risks: Cyber fraud and data theft. 3) Lack of physical inspection: Customers cannot touch or test products before buying. 4) Logistics challenges: Delivery delays and costs. 5) Trust issues: Fake websites or counterfeit products. Despite drawbacks, online trading is growing rapidly due to its efficiency and accessibility."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Why is it said that no country is self-sufficient?",
+      "options": [],
+      "answer": "No country is self-sufficient because: 1) Resource distribution: Natural resources (like oil, minerals) are unevenly spread globally. 2) Climate limitations: Certain crops or goods can only be produced in specific climates. 3) Technological specialization: Countries excel in different industries (e.g., Japan in electronics, Germany in machinery). 4) Economic efficiency: It is cheaper to import some goods than produce them domestically. 5) Diverse consumer demands: People desire variety beyond local products. For example, India imports oil because it lacks sufficient reserves, while it exports software services where it has expertise. Trade allows countries to obtain what they lack and sell their surpluses, creating interdependence and mutual benefit."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain how political relations between countries can impact trade.",
+      "options": [],
+      "answer": "Political relations between countries significantly impact trade in several ways: 1) Trade agreements: Good relations lead to treaties that reduce tariffs and boost exchange. 2) Sanctions and embargoes: Poor relations can result in trade restrictions, blocking commerce. 3) Diplomatic tensions: Conflicts may disrupt supply chains and increase costs. 4) Investment flows: Stable relations attract foreign investment, enhancing trade infrastructure. 5) Currency policies: Governments may manipulate currencies to gain trade advantages, affecting export-import balances. For instance, strained India-Pakistan relations limit bilateral trade, while strong India-USA ties increase trade in IT and defense. Thus, politics directly shapes trade policies, market access, and economic cooperation."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What are the functions of APEC?",
+      "options": [],
+      "answer": "APEC (Asia-Pacific Economic Cooperation) functions to: 1) Promote free and open trade and investment in the Asia-Pacific region. 2) Facilitate economic growth and cooperation among its 21 member economies. 3) Reduce tariffs and other trade barriers to boost regional integration. 4) Enhance technical and capacity-building support for developing members. 5) Address common challenges like sustainable development and digital economy. 6) Organize annual meetings where leaders discuss policy and collaborate on initiatives. APEC aims to create a seamless regional economy, improve business environments, and ensure shared prosperity through collaborative economic policies."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How does the Consumer Protection Act help consumers?",
+      "options": [],
+      "answer": "The Consumer Protection Act helps consumers by: 1) Providing legal recourse against unfair trade practices and defective products. 2) Enabling consumers to file complaints in consumer courts for quick redressal. 3) Ensuring truthful advertising and preventing misleading claims. 4) Granting rights such as safety, information, choice, and representation. 5) Imposing penalties on businesses that violate consumer rights. 6) Promoting consumer awareness and education. For example, if a person buys a faulty appliance, they can claim a replacement or refund under this act. It empowers consumers, promotes fair business ethics, and builds trust in the marketplace."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Discuss the relationship between transport infrastructure and trade.",
+      "options": [],
+      "answer": "Transport infrastructure is crucial for trade because it enables the movement of goods from producers to consumers. Efficient roads, railways, ports, and airports: 1) Reduce transportation time and costs, making trade more profitable. 2) Connect remote areas to markets, expanding trade networks. 3) Facilitate bulk movement in wholesale and international trade. 4) Improve supply chain reliability, reducing delays and spoilage (especially for perishables). For instance, the Golden Quadrilateral highway network in India boosts domestic trade by linking major cities. Similarly, modern ports like JNPT enhance India's international trade by handling large cargo ships. Poor infrastructure, conversely, hinders trade by increasing costs and limiting access."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What is the difference between visible and invisible trade? Provide two examples of each.",
+      "options": [],
+      "answer": "Visible trade involves the exchange of physical, tangible goods between countries or regions. Examples: 1) India exporting cars to Africa. 2) USA importing smartphones from China. Invisible trade involves the exchange of services or non-tangible items. Examples: 1) Paying for an international flight ticket (transport service). 2) Hiring a foreign consultant for advice (professional service). The key difference is tangibility—visible trade deals with merchandise, while invisible trade deals with intangibles like tourism, banking, or insurance. Both contribute to a country's economy and are recorded in the balance of trade."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Explain the term 'globalization' in the context of trade.",
+      "options": [],
+      "answer": "Globalization in trade refers to the increasing interconnection and interdependence of world economies through cross-border exchange of goods, services, technology, and capital. It involves: 1) Removal of trade barriers (tariffs, quotas) to create a global market. 2) Expansion of multinational corporations operating in multiple countries. 3) Integration of supply chains where production stages occur in different nations. 4) Rapid flow of information and ideas via internet and media. 5) Cultural exchange influencing consumer preferences. Globalization has made products like smartphones, fast food, and fashion brands available worldwide, boosted economic growth, but also raised concerns about local industries and inequality. It represents a shift towards a unified global economy."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Why are international trade organizations necessary?",
+      "options": [],
+      "answer": "International trade organizations are necessary because: 1) They provide a forum for negotiating trade rules, reducing conflicts. 2) They help resolve disputes between countries impartially (e.g., WTO dispute settlement). 3) They promote fair competition by monitoring trade policies. 4) They assist developing countries with technical expertise and capacity building. 5) They stabilize markets for specific commodities (e.g., OPEC for oil). 6) They foster regional cooperation and economic integration (e.g., EU, ASEAN). Without such organizations, trade would be more chaotic, prone to protectionism, and inequalities. They create a rules-based system that encourages transparency, predictability, and mutual benefit in global trade."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How can a country achieve a favourable balance of trade?",
+      "options": [],
+      "answer": "A country can achieve a favourable balance of trade (exports > imports) by: 1) Boosting export competitiveness through quality improvement and innovation. 2) Diversifying export products to reduce dependency on a few items. 3) Providing incentives like subsidies or tax breaks to exporters. 4) Negotiating trade agreements to access new markets. 5) Devaluing national currency to make exports cheaper and imports costlier. 6) Investing in export-oriented industries and infrastructure. 7) Promoting 'Made in [Country]' campaigns to build global brand recognition. 8) Reducing unnecessary imports by encouraging domestic production. For example, China focused on manufacturing and export-led growth to achieve a large trade surplus. Consistent policies and global demand alignment are key."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Describe the impact of trade on the daily life of a common person.",
+      "options": [],
+      "answer": "Trade impacts the daily life of a common person in numerous ways: 1) Availability of goods: People enjoy diverse products like fruits, electronics, and clothing from different regions/countries. 2) Price and choice: Competition through trade lowers prices and offers variety (e.g., choosing between local and imported apples). 3) Employment: Trade creates jobs in logistics, retail, export industries, etc. 4) Services: Access to foreign education, healthcare, or entertainment (like streaming services) is facilitated by invisible trade. 5) Lifestyle: Exposure to global trends in food, fashion, and technology. For instance, a person may drive a Japanese car, wear clothes made in Bangladesh, eat Italian pasta, and use a Korean smartphone—all due to trade. Thus, trade enriches life by fulfilling needs and expanding horizons."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Imagine you are an entrepreneur planning to start an export business. What steps would you take?",
+      "options": [],
+      "answer": "As an entrepreneur planning an export business, I would: 1) Conduct market research to identify high-demand products and target countries. 2) Ensure product quality meets international standards and obtain necessary certifications. 3) Register my business and secure an Import-Export Code (IEC) from authorities. 4) Build a reliable supply chain for consistent production. 5) Develop a marketing strategy, including digital platforms and participation in trade fairs. 6) Understand export regulations, tariffs, and documentation (like bills of lading, certificates of origin). 7) Arrange logistics partners for shipping and insurance. 8) Set up secure online payment methods for international transactions. 9) Network with trade promotion councils or embassies for support. 10) Start with small consignments to test the market before scaling up. Planning, compliance, and customer focus would be key to success."
+    }
+  ]
+}

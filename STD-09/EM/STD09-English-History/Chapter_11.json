@@ -1,0 +1,1491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Political_Science.11",
+    "standard": "9",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "Post World War Political Developments"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the system of independent and sovereign states called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political System",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "International System",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Social System",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Global System",
+          "is_correct": false
+        }
+      ],
+      "answer": "International System"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which international organization was established after the First World War to prevent future wars?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "United Nations",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "League of Nations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "European Union",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "NATO",
+          "is_correct": false
+        }
+      ],
+      "answer": "League of Nations"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which country's autocratic dictatorial regime, led by Hitler, contributed to the outbreak of the Second World War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Italy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Japan",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Germany",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Spain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which two Japanese cities were targeted with nuclear weapons by America to end the Second World War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tokyo and Osaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hiroshima and Nagasaki",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Kyoto and Yokohama",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sapporo and Kobe",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hiroshima and Nagasaki"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was the primary ideological difference between the USA and the Soviet Union during the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Democracy vs. Communism",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Capitalism vs. Monarchy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Socialism vs. Fascism",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Republicanism vs. Theocracy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Democracy vs. Communism"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which military alliance was led by the United States during the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Warsaw Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ASEAN",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "NATO",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "European Economic Community",
+          "is_correct": false
+        }
+      ],
+      "answer": "NATO"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What was the policy adopted by countries like India that chose not to join either superpower bloc during the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bipolarisation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Isolationism",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Neutrality",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Non-alignment",
+          "is_correct": true
+        }
+      ],
+      "answer": "Non-alignment"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which Soviet leader's policies of Perestroika and Glasnost contributed to the end of the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joseph Stalin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vladimir Lenin",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mikhail Gorbachev",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nikita Khrushchev",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What was the Warsaw Pact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A trade agreement among Eastern European nations.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A military organisation under the command of the Soviet Union.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A peace treaty to end the Cold War.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "An economic community for communist countries.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A military organisation under the command of the Soviet Union."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What major change occurred in the world political system after the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The world became multipolar.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "America remained the only superpower.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The League of Nations was revived.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The Non-Aligned Movement was dissolved.",
+          "is_correct": false
+        }
+      ],
+      "answer": "America remained the only superpower."
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the process called where capital, labour, markets, and information circulate freely around the world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bipolarisation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Non-alignment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Globalisation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Disarmament",
+          "is_correct": false
+        }
+      ],
+      "answer": "Globalisation"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What was the primary reason for the creation of regional organisations like ASEAN by developing nations during the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To counter the military power of NATO.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To promote mutual cooperation and focus on economic development.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To form a new superpower bloc.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To isolate themselves from global politics.",
+          "is_correct": false
+        }
+      ],
+      "answer": "To promote mutual cooperation and focus on economic development."
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is a founding leader of the Non-Aligned Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Winston Churchill",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Franklin D. Roosevelt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pandit Jawaharlal Nehru",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Margaret Thatcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What was the main goal of the superpowers during the arms race?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To outsmart each other militarily.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To achieve global disarmament.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To share military technology with allies.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To focus solely on economic development.",
+          "is_correct": false
+        }
+      ],
+      "answer": "To outsmart each other militarily."
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does the term 'interdependence' mean in the international system?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Countries being completely self-sufficient.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Countries depending on each other for various needs.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Countries having identical political systems.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Countries engaging in constant warfare.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Countries depending on each other for various needs."
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which major event is considered the starting point of the Cold War period?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The end of the First World War.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The formation of the United Nations.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The end of the Second World War in 1945.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The Cuban Missile Crisis.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The end of the Second World War in 1945."
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of the following was a direct consequence of the end of the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Increase in ideological rivalry.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A conducive atmosphere for growth in international trade.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Formation of new military alliances.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Strengthening of the Warsaw Pact.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A conducive atmosphere for growth in international trade."
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What does the term 'bipolarisation' refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The world divided into two superpower blocs.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The existence of only one superpower.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The alliance of all nations against a common enemy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The policy of not joining any military bloc.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The world divided into two superpower blocs."
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What major demand did the Non-Aligned Movement put forth for poor, undeveloped countries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A New International Economic Order (NIEO).",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Military support from superpowers.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Immediate membership in the United Nations.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Adoption of a single global currency.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A New International Economic Order (NIEO)."
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which event directly led to the end of the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Establishment of the United Nations.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Disintegration of the Soviet Union.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Creation of NATO.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cuban Missile Crisis.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Disintegration of the Soviet Union."
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What was a significant political impact of the First World War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The rise of absolute monarchies.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The collapse of empires and emergence of new nations.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The unification of all European countries.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The end of all colonial rule.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The collapse of empires and emergence of new nations."
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why did the Non-Aligned Movement continue to be important even after the Cold War ended?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It continued to provide military support.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Its principles of humanism, global peace, and equality remained relevant.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It transformed into a military alliance.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It dissolved and was replaced by the United Nations.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Its principles of humanism, global peace, and equality remained relevant."
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What change was observed in the terminology used to describe opposing countries after the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "From 'ally' to 'partner'.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "From 'enemy nation' to 'rival nation'.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "From 'superpower' to 'developing nation'.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "From 'communist' to 'capitalist'.",
+          "is_correct": false
+        }
+      ],
+      "answer": "From 'enemy nation' to 'rival nation'."
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a factor for the end of the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The policy of opening up the economy in the Soviet Union.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The adoption of capitalist paths by East European countries.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The success of the League of Nations.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The implementation of Perestroika and Glasnost.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The success of the League of Nations."
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the name of the military organisation formed by the Soviet Union and its allies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "North Atlantic Treaty Organisation (NATO)",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Warsaw Pact",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "European Economic Community (EEC)",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Association of Southeast Asian Nations (ASEAN)",
+          "is_correct": false
+        }
+      ],
+      "answer": "Warsaw Pact"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which superpower bloc did Western European countries generally join during the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Soviet-led bloc.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The American-led bloc.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The Non-Aligned Movement.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The Axis powers.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The American-led bloc."
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What did the arms race between the superpowers eventually lead them to consider?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "More advanced warfare strategies.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Arms control and disarmament.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Invasion of neutral countries.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dissolving their military alliances.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Arms control and disarmament."
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What was the key difference between the First and Second World Wars in terms of technology?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The First World War used nuclear weapons.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "More advanced technology was employed in the Second World War.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "There was no significant technological difference.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The First World War saw the use of space technology.",
+          "is_correct": false
+        }
+      ],
+      "answer": "More advanced technology was employed in the Second World War."
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What was the main economic impact of the world wars on participating countries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Economic boom and prosperity.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tremendous economic losses and collapsed economies.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "No significant economic impact.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Immediate establishment of a global economic order.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tremendous economic losses and collapsed economies."
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of these is a positive aspect of globalisation mentioned in the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Increased trade and economic unification.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Elimination of the gap between rich and poor nations.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Strengthening of national boundaries.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reduction in the circulation of information.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Increased trade and economic unification."
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What was the primary focus of the regional organisations formed by developing countries during the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Military dominance.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cultural exchange.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Economic development and mutual cooperation.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Religious unity.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic development and mutual cooperation."
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does the term 'unipolar system' refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A system with two superpowers.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A system with many superpowers.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A system with only one superpower.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A system with no superpowers.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A system with only one superpower."
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of the following was a major power in the Allied forces during the First World War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Germany",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Austria-Hungary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Britain",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Turkey",
+          "is_correct": false
+        }
+      ],
+      "answer": "Britain"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What was a key feature of the Cold War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Direct, open warfare between the USA and USSR.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "High tension and rivalry without open war.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Complete economic isolation of the superpowers.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Global political unity.",
+          "is_correct": false
+        }
+      ],
+      "answer": "High tension and rivalry without open war."
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which continent's countries largely supported the idea of non-alignment?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Europe and North America.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Asia and Africa.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Australia and South America.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Antarctica.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Asia and Africa."
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What did the term 'Glasnost', introduced by Gorbachev, signify?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Restructuring of the economy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Openness and reduced control over media.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Military expansion.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isolation from world politics.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Openness and reduced control over media."
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What was the stance of the Non-Aligned Movement on disarmament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It encouraged the production of nuclear weapons.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It took a firm stand in favor of disarmament.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It was neutral on the issue.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It supported arms races.",
+          "is_correct": false
+        }
+      ],
+      "answer": "It took a firm stand in favor of disarmament."
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What role did the Information Technology revolution play in globalisation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It slowed down communication.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It helped events and developments to be known everywhere quickly.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It strengthened national boundaries.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It reduced international trade.",
+          "is_correct": false
+        }
+      ],
+      "answer": "It helped events and developments to be known everywhere quickly."
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of these was a major Axis power in the Second World War?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soviet Russia",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Britain",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Japan",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "France",
+          "is_correct": false
+        }
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What was a negative consequence of globalisation mentioned in the text?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The gap between poor and rich nations did not reduce.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trade between nations decreased.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Information stopped circulating.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "National boundaries became stronger.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The gap between poor and rich nations did not reduce."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is an important feature of the international system that means countries depend on each other?",
+      "answer": "Interdependence."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the policy that guides a nation's relations with other countries.",
+      "answer": "Foreign Policy."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "In which years was the First World War fought?",
+      "answer": "1914 to 1918."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Which international organisation was established after WWI to prevent future wars?",
+      "answer": "The League of Nations."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Which countries are mentioned as examples where autocratic regimes came up after WWI?",
+      "answer": "Germany, Italy, and Spain."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "In which years was the Second World War fought?",
+      "answer": "1939 to 1945."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Which country used nuclear weapons to end the Second World War?",
+      "answer": "America (the United States)."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the period from 1945 to 1991 known as in international politics?",
+      "answer": "The Cold War period."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What was the name of the American-led military alliance during the Cold War?",
+      "answer": "NATO (North Atlantic Treaty Organisation)."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What was the name of the Soviet-led military alliance during the Cold War?",
+      "answer": "The Warsaw Pact."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What term describes the division of the world into two superpower blocs?",
+      "answer": "Bipolarisation."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the main ideological system advocated by the Soviet Union?",
+      "answer": "Socialism (or Communism)."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the name of the rivalry between superpowers to produce more advanced weapons?",
+      "answer": "Arms Race."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one regional organisation formed by South East Asian countries for economic cooperation.",
+      "answer": "ASEAN (Association of South East Asian Nations)."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was the policy of not joining either superpower bloc called?",
+      "answer": "Non-alignment."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name one of the founding leaders of the Non-Aligned Movement from India.",
+      "answer": "Pandit Jawaharlal Nehru."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What major economic demand did the Non-Aligned Movement make for poor countries?",
+      "answer": "A New International Economic Order (NIEO)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who was the Soviet leader whose policies contributed to the end of the Cold War?",
+      "answer": "Mikhail Gorbachev."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What was the policy of 'restructuring' introduced by Gorbachev called?",
+      "answer": "Perestroika."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which superpower remained as the only superpower after the Cold War?",
+      "answer": "America (the United States)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the term for the free global circulation of capital, labour, markets, and information?",
+      "answer": "Globalisation."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one positive aspect of globalisation mentioned in the chapter.",
+      "answer": "Increased trade and economic unification / Plenty of products became available."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one negative aspect of globalisation mentioned in the chapter.",
+      "answer": "The gap between poor and rich nations did not reduce."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What was a key political change in Europe after the First World War?",
+      "answer": "The collapse of empires and emergence of new nations."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What did the League of Nations primarily fail to do?",
+      "answer": "Prevent the outbreak of the Second World War."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What major historical event led to the creation of the Soviet Union?",
+      "answer": "The Communist Revolution in Russia (1917)."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which Eastern European country's leader, Marshal Tito, was a founder of the Non-Aligned Movement?",
+      "answer": "Yugoslavia."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What word is suggested for an international system with many superpowers?",
+      "answer": "Multipolar system."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What kind of international system existed when America was the only superpower after the Cold War?",
+      "answer": "A unipolar system."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the main responsibility of the United Nations according to the chapter?",
+      "answer": "To maintain global peace and security."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'interdependence' in the international system and why it is important.",
+      "answer": "Interdependence means that all countries of the world are dependent on each other for various needs and facilities. No nation, no matter how big or prosperous, can be completely self-sufficient. This mutual dependence is a crucial feature of the global system because it fosters cooperation, exchange, and interaction between nations, forming the basis of the international system."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "What were the major consequences of the First World War?",
+      "answer": "The First World War (1914-1918) caused tremendous loss of life and property, leading to economic collapse in both victorious and losing countries. Politically, it resulted in the fall of old European empires and the creation of new nations. To prevent future wars, the League of Nations was established. The war also sparked independence movements in colonies across Africa and Asia, challenging European hegemony."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Why did the League of Nations fail to prevent the Second World War?",
+      "answer": "The League of Nations failed because it lacked the necessary power and authority to enforce its decisions. Major countries like the USA did not join, and aggressive nations like Germany, Italy, and Japan disregarded its mandates. The League could not effectively counter the rise of autocratic regimes and their expansionist policies, which ultimately led to the outbreak of the Second World War."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Compare the Allied Powers and Central Powers in the First World War.",
+      "answer": "In the First World War, the Allied Powers included nations like Britain, France, Russia, Italy, and later America. The Central Powers consisted of Germany, Austria-Hungary, Turkey, and Bulgaria. The war was primarily centered in Europe and resulted in the defeat of the Central Powers, leading to major political and territorial changes across the continent and the world."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Describe how the Second World War was more destructive than the First World War.",
+      "answer": "The Second World War (1939-1945) was more destructive because it was more widespread, involving countries across the globe. It employed far more advanced and devastating technology, including aerial bombing and culminated in the use of nuclear weapons on Hiroshima and Nagasaki. The scale of human casualties, economic ruin, and physical destruction was unprecedented, affecting both combatants and civilians on a massive scale."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the term 'Cold War' and its key characteristics.",
+      "answer": "The Cold War was a period of intense geopolitical tension and rivalry between the two superpowers, the United States and the Soviet Union, from 1945 to 1991. Its key characteristics included an ideological struggle (capitalism vs. socialism), an arms race to build more destructive weapons, the formation of opposing military alliances (NATO and Warsaw Pact), and a state of constant tension without direct, open warfare between the two main rivals. It led to the bipolarisation of the world."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "What were the effects of the Cold War on the world?",
+      "answer": "The Cold War led to the bipolarisation of the world, with most nations aligning with either the US or Soviet bloc. It triggered a dangerous arms race and the proliferation of nuclear weapons. It also resulted in the creation of military alliances (NATO, Warsaw Pact) and regional organisations (like ASEAN) for cooperation. It created global tensions, proxy wars, and an ideological divide that dominated international politics for over four decades."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "What is Non-alignment? Why did many newly independent nations adopt this policy?",
+      "answer": "Non-alignment was a policy adopted by countries that chose not to join either the US-led or Soviet-led blocs during the Cold War. Newly independent nations in Asia and Africa, like India, adopted this policy to maintain their sovereignty and freedom of action. They wanted to focus on their own economic development and nation-building without getting entangled in superpower rivalry and ideological conflicts, allowing them to pursue an independent foreign policy based on peace and cooperation."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe the role and significance of the Non-Aligned Movement (NAM).",
+      "answer": "The Non-Aligned Movement (NAM), founded in 1961, was a group of nations that remained neutral during the Cold War. Its significance lies in opposing colonialism, imperialism, and racism. It advocated for resolving international disputes peacefully, promoted disarmament, and championed the interests of developing nations by demanding a New International Economic Order (NIEO). It provided a collective voice for weaker nations in global politics and promoted principles of humanism, peace, and equality."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "What factors led to the end of the Cold War?",
+      "answer": "The end of the Cold War was caused by several factors: (1) The Soviet Union's policy of economic opening and reducing state control. (2) Mikhail Gorbachev's reforms of Perestroika (restructuring) and Glasnost (openness), which led to political and economic changes and reduced media control. (3) The adoption of capitalist and democratic paths by East European countries under Soviet influence. (4) The eventual disintegration of the Soviet Union itself in 1991, which removed one of the two superpowers from the rivalry."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "What major changes occurred in global politics after the end of the Cold War?",
+      "answer": "After the Cold War, America remained the sole superpower, leading to a unipolar world. The focus shifted from military rivalry to economic relations, trade, and globalisation. The description of rival countries softened from 'enemy nation' to 'rival nation'. The United Nations' role in maintaining peace became more prominent. Global issues like environmental protection, human rights, gender equality, and disaster management gained international importance."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain the meaning and processes involved in 'Globalisation'.",
+      "answer": "Globalisation refers to the increasing interconnectedness and integration of countries worldwide. The processes involved include the free global circulation of capital, labour, markets, and information. It is driven by revolutions in information technology, which allow events and ideas to spread rapidly. National boundaries become less rigid, leading to increased trade, economic unification, and cultural exchange. However, it also involves complex challenges like managing economic disparities between nations."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Compare and contrast the First and Second World Wars in terms of period, involved nations, and impacts.",
+      "answer": "The First World War (1914-1918) mainly involved European powers like Britain, France, Germany, and Austria-Hungary. Its impacts included colossal loss of life, economic ruin, the collapse of empires, and the creation of the League of Nations. The Second World War (1939-1945) was global, involving nations from all continents, including the USA, Soviet Union, and Japan. It was far more destructive, used advanced technology including nuclear weapons, caused unprecedented devastation, and led to the creation of the United Nations and the onset of the Cold War."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "What were the ideological differences between the USA and the Soviet Union that fueled the Cold War?",
+      "answer": "The USA was a democratic capitalist country advocating for free-market economies, individual liberties, and a multi-party political system. The Soviet Union was a socialist (communist) state advocating for state-controlled economies, collective ownership, and a single-party authoritarian system. Each superpower sought to expand its ideological influence and dominance globally, viewing the other's system as a threat. This fundamental clash of ideologies was a core driver of the Cold War rivalry."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Why did countries form regional organisations like the European Economic Community and ASEAN during the Cold War?",
+      "answer": "During the Cold War, developing nations and smaller countries formed regional organisations to ensure mutual cooperation and focus on economic development in the context of superpower rivalry. They wanted to reduce dependence on the superpowers and strengthen their own economic and political standing. For example, European countries formed the EEC to foster economic integration, while Southeast Asian nations established ASEAN to promote regional stability, economic growth, and socio-cultural development."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "How did the arms race between the superpowers evolve, and what was its consequence?",
+      "answer": "The arms race began as the USA and USSR competed to produce more and more destructive weapons, including nuclear arsenals, to achieve military superiority. This led to a massive buildup of weaponry, spreading fear and escalating global tensions. However, both powers eventually realized that this uncontrolled race endangered world peace. This realization led to subsequent efforts and negotiations for arms control and disarmament to reduce the risk of mutual annihilation."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What is the difference between a unipolar, bipolar, and multipolar international system?",
+      "answer": "A unipolar system has one dominant superpower with others dependent on it (e.g., post-Cold War USA). A bipolar system is divided between two rival superpowers and their blocs (e.g., Cold War era with USA and USSR). A multipolar system features several major powers of comparable strength influencing global politics, with no single country dominating. The chapter suggests that a system with many superpowers would be called a multipolar system."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Discuss the positive and negative aspects of globalisation as mentioned in the chapter.",
+      "answer": "Positive aspects of globalisation include increased trade and economic unification between countries, free circulation of capital, labour, and information, and a greater variety of products in markets. Negative aspects include the fact that the economic gap between rich and poor nations has not reduced, and the interconnectedness can lead to economic crises spreading more easily. It creates benefits but also poses challenges in ensuring equitable development."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How did Mikhail Gorbachev's policies contribute to the end of the Cold War and the Soviet Union?",
+      "answer": "Mikhail Gorbachev introduced the policies of Perestroika (economic and political restructuring) and Glasnost (openness and transparency). Perestroika aimed to revive the stagnant Soviet economy by introducing market-like reforms. Glasnost reduced censorship, allowed criticism, and fostered political debate. These policies weakened the centralised control of the Communist Party, unleashed forces of democratisation and nationalism within the Soviet Union and its Eastern European satellites, ultimately leading to the collapse of communist regimes and the disintegration of the USSR in 1991."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'bipolarisation' and its impact during the Cold War.",
+      "answer": "Bipolarisation refers to the division of the world into two opposing blocs or camps led by the two superpowers—the United States and the Soviet Union—during the Cold War. Most countries were pressured to align with one bloc or the other. This division intensified global tensions, spread the sphere of the Cold War to various regions through proxy conflicts, and dominated international politics. It limited the foreign policy options of smaller nations and created a global standoff based on ideology and military alliances."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What role did India play in the Non-Aligned Movement?",
+      "answer": "India, under Prime Minister Jawaharlal Nehru, was a founding leader and a guiding force of the Non-Aligned Movement. Nehru articulated its core principles of peace, independence, and opposition to military blocs. India actively championed the movement's goals of opposing colonialism, promoting disarmament, fostering peaceful resolution of conflicts, and advocating for the economic interests of developing nations through demands for a New International Economic Order (NIEO). India continued to be an active member even after the Cold War."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Why is it said that the significance of the Non-Aligned Movement continues even after the Cold War?",
+      "answer": "The Non-Aligned Movement's significance continues because its core principles are based on eternal values like humanism, global peace, disarmament, and equality among nations. These issues remain relevant. The movement still provides a platform for developing countries to voice their concerns on global economic injustice, sustainable development, and peace. It inspires less developed nations to cooperate and assert themselves with self-respect in international politics, even in a post-Cold War unipolar or multipolar world."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How did the world wars affect the colonies in Asia and Africa?",
+      "answer": "The world wars weakened the European colonial powers both economically and politically. Soldiers from colonies fought in the wars, exposing them to ideas of self-determination and freedom. The wars disrupted colonial economies and administration. After the wars, especially WWII, strong independence movements emerged in Asian and African colonies, challenging European hegemony. The weakened imperial powers could not maintain control, leading to a wave of decolonisation and the birth of many new independent nations in the mid-20th century."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Describe the shift in international relations from a focus on 'aid' to 'economic relations' after the Cold War.",
+      "answer": "After the Cold War, nations prioritized trade and economic relations over the ideological aid that was often given to gain allies during the Cold War. The concept of providing 'aid' to secure loyalty fell behind. Instead, countries focused on establishing mutually beneficial economic partnerships, investments, and trade agreements. This shift reflected a move from a politics of patronage to a more pragmatic, economically driven engagement, changing the terminology from 'enemy nation' to 'rival nation' in economic competition."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What was the Cuban Missile Crisis, and why was it a significant event in the Cold War?",
+      "answer": "The Cuban Missile Crisis (1962) was a 13-day confrontation between the United States and the Soviet Union over the deployment of Soviet nuclear missiles in Cuba, just off the US coast. It was the closest the Cold War came to escalating into a full-scale nuclear war. The crisis highlighted the extreme dangers of the arms race and bipolar rivalry. It ended with a negotiated settlement where the USSR removed its missiles from Cuba, and the US secretly removed its missiles from Turkey, leading to the establishment of a direct hotline between the two capitals to prevent future miscalculations."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "How did the end of the Cold War affect the role and responsibilities of the United Nations?",
+      "answer": "After the Cold War, the ideological deadlock in the UN Security Council (often caused by US-Soviet vetoes) reduced. This allowed the United Nations to take more concrete and effective steps in maintaining global peace and security through peacekeeping missions and diplomatic interventions. Its responsibilities expanded to address broader global issues that required international cooperation, such as environmental protection, fostering human rights, promoting gender equality, and managing natural calamities and humanitarian crises."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Based on the chapter, what precautions can be taken to prevent the rise of autocratic regimes?",
+      "answer": "To prevent the rise of autocratic regimes, strong democratic traditions and institutions must be nurtured and protected. This includes ensuring an independent judiciary, a free press, the rule of law, and regular free and fair elections. Civic education is crucial to foster an informed and vigilant citizenry that values democracy and human rights. Economic stability and social justice can reduce grievances that autocrats exploit. International cooperation to support democratic movements and condemn authoritarian actions is also important."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What lessons can be learned from the failure of the League of Nations in maintaining world peace?",
+      "answer": "The failure of the League of Nations teaches that an international organization for peace must have universal membership, especially of all major powers. It must have the authority and means to enforce its decisions, including sanctions or collective security measures. It should address the root causes of conflict, such as economic hardship and political injustice, not just its symptoms. Most importantly, member nations must have a genuine commitment to collective security over narrow national interests to prevent aggression effectively."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How can technology be used for human welfare, according to the reflections in the chapter?",
+      "answer": "Technology can be used for human welfare by applying advancements in medicine, agriculture, and communication to improve health, increase food production, and connect people. It can foster education and information sharing globally. The chapter implicitly suggests that instead of being channeled solely into an arms race, technology should be directed towards solving human problems, promoting sustainable development, and enhancing the quality of life for all, thereby contributing to lasting peace and prosperity."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the evolution of the international system from the post-WWI era to the post-Cold War era as described in the chapter.",
+      "answer": "The international system evolved significantly: After WWI, the League of Nations was formed but failed, leading to WWII. After WWII, a bipolar system emerged with the Cold War rivalry between the US and USSR, characterized by an arms race, military alliances (NATO, Warsaw Pact), and the Non-Aligned Movement. The Cold War ended in 1991 with the USSR's collapse, resulting in a unipolar system with the US as the sole superpower. This post-Cold War era is defined by globalisation, where economic relations and interconnectedness dominate world politics, and global issues like environment and human rights gain prominence."
+    }
+  ]
+}

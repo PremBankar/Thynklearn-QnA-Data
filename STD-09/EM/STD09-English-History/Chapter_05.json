@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.History.05",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Education"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What was the literacy rate in India according to the first Census of independent India in 1951?",
+      "options": [
+        { "option_id": 1, "text": "17%", "is_correct": true },
+        { "option_id": 2, "text": "34%", "is_correct": false },
+        { "option_id": 3, "text": "43%", "is_correct": false },
+        { "option_id": 4, "text": "52%", "is_correct": false }
+      ],
+      "answer": "17%"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which scheme, started in 1988, aimed to improve the standard of primary schools by providing funds for minimum needs?",
+      "options": [
+        { "option_id": 1, "text": "District Primary Education Programme", "is_correct": false },
+        { "option_id": 2, "text": "Operation Blackboard", "is_correct": true },
+        { "option_id": 3, "text": "Mid-day Meal Scheme", "is_correct": false },
+        { "option_id": 4, "text": "Kothari Commission", "is_correct": false }
+      ],
+      "answer": "Operation Blackboard"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When did Kerala become a fully literate state?",
+      "options": [
+        { "option_id": 1, "text": "1991", "is_correct": true },
+        { "option_id": 2, "text": "1995", "is_correct": false },
+        { "option_id": 3, "text": "2001", "is_correct": false },
+        { "option_id": 4, "text": "1988", "is_correct": false }
+      ],
+      "answer": "1991"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who was assigned the task of preparing the draft for the common statewide curriculum for Stds I to VII in Maharashtra after its formation?",
+      "options": [
+        { "option_id": 1, "text": "J. P. Naik", "is_correct": false },
+        { "option_id": 2, "text": "Principal Sayyad Rauf", "is_correct": true },
+        { "option_id": 3, "text": "Dr D. S. Kothari", "is_correct": false },
+        { "option_id": 4, "text": "Maulana Abul Kalam Azad", "is_correct": false }
+      ],
+      "answer": "Principal Sayyad Rauf"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was the main objective of the District Primary Education Programme (DPEP) started in 1994?",
+      "options": [
+        { "option_id": 1, "text": "To provide mid-day meals", "is_correct": false },
+        { "option_id": 2, "text": "To universalise primary education", "is_correct": true },
+        { "option_id": 3, "text": "To build more colleges", "is_correct": false },
+        { "option_id": 4, "text": "To train secondary teachers", "is_correct": false }
+      ],
+      "answer": "To universalise primary education"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is associated with starting Anganwadis for Adivasi children and promoting the 'learning by doing' method in Bordi and Kosbad?",
+      "options": [
+        { "option_id": 1, "text": "Anutai Wagh", "is_correct": false },
+        { "option_id": 2, "text": "Tarabai Modak", "is_correct": true },
+        { "option_id": 3, "text": "Dr R. H. Dave", "is_correct": false },
+        { "option_id": 4, "text": "Eknath Chitnis", "is_correct": false }
+      ],
+      "answer": "Tarabai Modak"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which commission, appointed in 1952-53, proposed the concept of Higher Secondary Education?",
+      "options": [
+        { "option_id": 1, "text": "University Education Commission", "is_correct": false },
+        { "option_id": 2, "text": "Mudaliar Commission", "is_correct": true },
+        { "option_id": 3, "text": "Kothari Commission", "is_correct": false },
+        { "option_id": 4, "text": "Parthasarathy Committee", "is_correct": false }
+      ],
+      "answer": "Mudaliar Commission"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "When was the Maharashtra State Board of Secondary and Higher Secondary Education established?",
+      "options": [
+        { "option_id": 1, "text": "1st January 1966", "is_correct": true },
+        { "option_id": 2, "text": "27th January 1967", "is_correct": false },
+        { "option_id": 3, "text": "1st September 1961", "is_correct": false },
+        { "option_id": 4, "text": "20th September 1985", "is_correct": false }
+      ],
+      "answer": "1st January 1966"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which commission recommended the 10+2+3 pattern for education in India?",
+      "options": [
+        { "option_id": 1, "text": "Mudaliar Commission", "is_correct": false },
+        { "option_id": 2, "text": "Kothari Commission", "is_correct": true },
+        { "option_id": 3, "text": "University Education Commission", "is_correct": false },
+        { "option_id": 4, "text": "Dave Committee", "is_correct": false }
+      ],
+      "answer": "Kothari Commission"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who was the Chairman of the University Education Commission appointed in 1948?",
+      "options": [
+        { "option_id": 1, "text": "Dr D. S. Kothari", "is_correct": false },
+        { "option_id": 2, "text": "Dr Sarvapalli Radhakrishnan", "is_correct": true },
+        { "option_id": 3, "text": "Maulana Abul Kalam Azad", "is_correct": false },
+        { "option_id": 4, "text": "J. P. Naik", "is_correct": false }
+      ],
+      "answer": "Dr Sarvapalli Radhakrishnan"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "When was the National Council of Educational Research and Training (NCERT) established?",
+      "options": [
+        { "option_id": 1, "text": "1st September 1961", "is_correct": true },
+        { "option_id": 2, "text": "1st January 1966", "is_correct": false },
+        { "option_id": 3, "text": "27th January 1967", "is_correct": false },
+        { "option_id": 4, "text": "20th September 1985", "is_correct": false }
+      ],
+      "answer": "1st September 1961"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the name of the periodical published by the Maharashtra State Council of Educational Research and Training (MSCERT)?",
+      "options": [
+        { "option_id": 1, "text": "Shikshan Sankraman", "is_correct": false },
+        { "option_id": 2, "text": "Jeevan Shikshan", "is_correct": true },
+        { "option_id": 3, "text": "Kishor", "is_correct": false },
+        { "option_id": 4, "text": "Balbharati", "is_correct": false }
+      ],
+      "answer": "Jeevan Shikshan"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "When was the 'Primary Education Curriculum 1988' prepared?",
+      "options": [
+        { "option_id": 1, "text": "Based on the Kothari Commission", "is_correct": false },
+        { "option_id": 2, "text": "Based on the National Policy on Education 1986", "is_correct": true },
+        { "option_id": 3, "text": "Based on the Dave Committee report", "is_correct": false },
+        { "option_id": 4, "text": "Based on Operation Blackboard", "is_correct": false }
+      ],
+      "answer": "Based on the National Policy on Education 1986"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which scientist played an important role in India's 1975 attempt to use a satellite for education?",
+      "options": [
+        { "option_id": 1, "text": "Dr Vijay Bhatkar", "is_correct": false },
+        { "option_id": 2, "text": "Eknath Chitnis", "is_correct": true },
+        { "option_id": 3, "text": "Homi Bhabha", "is_correct": false },
+        { "option_id": 4, "text": "Dr R. H. Dave", "is_correct": false }
+      ],
+      "answer": "Eknath Chitnis"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "When was the Indira Gandhi National Open University (IGNOU) established?",
+      "options": [
+        { "option_id": 1, "text": "1974", "is_correct": false },
+        { "option_id": 2, "text": "1985", "is_correct": true },
+        { "option_id": 3, "text": "1989", "is_correct": false },
+        { "option_id": 4, "text": "1990", "is_correct": false }
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of the following was an achievement of the Council of Scientific and Industrial Research (CSIR)?",
+      "options": [
+        { "option_id": 1, "text": "Developing the Param-8000 supercomputer", "is_correct": false },
+        { "option_id": 2, "text": "Making the ink for voters' fingers", "is_correct": true },
+        { "option_id": 3, "text": "Establishing the first IIT", "is_correct": false },
+        { "option_id": 4, "text": "Starting the mid-day meal scheme", "is_correct": false }
+      ],
+      "answer": "Making the ink for voters' fingers"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "In which year was the first indigenous computer, the ISIJU computer, made?",
+      "options": [
+        { "option_id": 1, "text": "1962", "is_correct": false },
+        { "option_id": 2, "text": "1969", "is_correct": true },
+        { "option_id": 3, "text": "1974", "is_correct": false },
+        { "option_id": 4, "text": "1987", "is_correct": false }
+      ],
+      "answer": "1969"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who developed the Param-8000 supercomputer?",
+      "options": [
+        { "option_id": 1, "text": "Dr R. H. Dave", "is_correct": false },
+        { "option_id": 2, "text": "Dr Vijay Bhatkar", "is_correct": true },
+        { "option_id": 3, "text": "Eknath Chitnis", "is_correct": false },
+        { "option_id": 4, "text": "P. Parthasarathy", "is_correct": false }
+      ],
+      "answer": "Dr Vijay Bhatkar"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Where was India's first Indian Institute of Technology (IIT) established?",
+      "options": [
+        { "option_id": 1, "text": "Powai", "is_correct": false },
+        { "option_id": 2, "text": "Kharagpur", "is_correct": true },
+        { "option_id": 3, "text": "Chennai", "is_correct": false },
+        { "option_id": 4, "text": "New Delhi", "is_correct": false }
+      ],
+      "answer": "Kharagpur"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which institute was established in Ahmedabad in 1961 to impart training in industrial design?",
+      "options": [
+        { "option_id": 1, "text": "National Institute of Design", "is_correct": true },
+        { "option_id": 2, "text": "Film and Television Institute of India", "is_correct": false },
+        { "option_id": 3, "text": "Indian Institute of Management", "is_correct": false },
+        { "option_id": 4, "text": "Bhabha Atomic Research Centre", "is_correct": false }
+      ],
+      "answer": "National Institute of Design"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "When was the Indian Council for Medical Research (ICMR) established?",
+      "options": [
+        { "option_id": 1, "text": "1949", "is_correct": true },
+        { "option_id": 2, "text": "1958", "is_correct": false },
+        { "option_id": 3, "text": "1969", "is_correct": false },
+        { "option_id": 4, "text": "1979", "is_correct": false }
+      ],
+      "answer": "1949"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which institute is known for its super-speciality centres for heart, brain, and eye disorders?",
+      "options": [
+        { "option_id": 1, "text": "Indian Agricultural Research Institute", "is_correct": false },
+        { "option_id": 2, "text": "All India Institute of Medical Sciences (AIIMS)", "is_correct": true },
+        { "option_id": 3, "text": "Tata Memorial Centre", "is_correct": false },
+        { "option_id": 4, "text": "Central Council for Research in Homoeopathy", "is_correct": false }
+      ],
+      "answer": "All India Institute of Medical Sciences (AIIMS)"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "When was the Medical Council of India restructured?",
+      "options": [
+        { "option_id": 1, "text": "1949", "is_correct": false },
+        { "option_id": 2, "text": "1958", "is_correct": true },
+        { "option_id": 3, "text": "1969", "is_correct": false },
+        { "option_id": 4, "text": "1979", "is_correct": false }
+      ],
+      "answer": "1958"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the most significant achievement of the Indian Agricultural Research Institute mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Developing high-yield wheat varieties", "is_correct": false },
+        { "option_id": 2, "text": "Creating the largest agriculture library", "is_correct": false },
+        { "option_id": 3, "text": "Fundamental research on methods of taking multiple crops in a year", "is_correct": true },
+        { "option_id": 4, "text": "Research on soil science", "is_correct": false }
+      ],
+      "answer": "Fundamental research on methods of taking multiple crops in a year"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which magazine for children is published by Balbharati?",
+      "options": [
+        { "option_id": 1, "text": "Jeevan Shikshan", "is_correct": false },
+        { "option_id": 2, "text": "Shikshan Sankraman", "is_correct": false },
+        { "option_id": 3, "text": "Kishor", "is_correct": true },
+        { "option_id": 4, "text": "Countrywide Classroom", "is_correct": false }
+      ],
+      "answer": "Kishor"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The 'Competency based Primary Education Curriculum 1995' was developed by a committee chaired by whom?",
+      "options": [
+        { "option_id": 1, "text": "Dr D. S. Kothari", "is_correct": false },
+        { "option_id": 2, "text": "Dr R. H. Dave", "is_correct": true },
+        { "option_id": 3, "text": "J. P. Naik", "is_correct": false },
+        { "option_id": 4, "text": "Principal Sayyad Rauf", "is_correct": false }
+      ],
+      "answer": "Dr R. H. Dave"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What does the acronym 'SCERT' stand for?",
+      "options": [
+        { "option_id": 1, "text": "State Council of Educational Research and Training", "is_correct": true },
+        { "option_id": 2, "text": "State Centre for Educational Resources and Teaching", "is_correct": false },
+        { "option_id": 3, "text": "Scientific Council for Educational Research and Technology", "is_correct": false },
+        { "option_id": 4, "text": "School Curriculum and Educational Research Team", "is_correct": false }
+      ],
+      "answer": "State Council of Educational Research and Training"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "In which year was the 'mid-day meal' scheme started?",
+      "options": [
+        { "option_id": 1, "text": "1988", "is_correct": false },
+        { "option_id": 2, "text": "1994", "is_correct": false },
+        { "option_id": 3, "text": "1995", "is_correct": true },
+        { "option_id": 4, "text": "2001", "is_correct": false }
+      ],
+      "answer": "1995"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an objective of education according to the Kothari Commission?",
+      "options": [
+        { "option_id": 1, "text": "Modernisation of Education", "is_correct": false },
+        { "option_id": 2, "text": "Securing and strengthening of democracy", "is_correct": false },
+        { "option_id": 3, "text": "Privatisation of Education", "is_correct": true },
+        { "option_id": 4, "text": "Social and national Integration", "is_correct": false }
+      ],
+      "answer": "Privatisation of Education"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which institute was established to conduct research on cancer?",
+      "options": [
+        { "option_id": 1, "text": "Indian Council for Medical Research (ICMR)", "is_correct": false },
+        { "option_id": 2, "text": "Advanced Centre for Treatment, Research and Education in Cancer", "is_correct": true },
+        { "option_id": 3, "text": "All India Institute of Medical Sciences (AIIMS)", "is_correct": false },
+        { "option_id": 4, "text": "Central Council for Research in Homoeopathy", "is_correct": false }
+      ],
+      "answer": "Advanced Centre for Treatment, Research and Education in Cancer"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What was the name of the satellite experiment for educational purposes undertaken in 1975?",
+      "options": [
+        { "option_id": 1, "text": "Edusat", "is_correct": false },
+        { "option_id": 2, "text": "SITE (Satellite Instructional Television Experiment)", "is_correct": true },
+        { "option_id": 3, "text": "ISRO Satellite", "is_correct": false },
+        { "option_id": 4, "text": "Countrywide Classroom", "is_correct": false }
+      ],
+      "answer": "SITE (Satellite Instructional Television Experiment)"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of these is a special feature of IIT institutions?",
+      "options": [
+        { "option_id": 1, "text": "Admission through entrance exams", "is_correct": false },
+        { "option_id": 2, "text": "Nominal fees", "is_correct": false },
+        { "option_id": 3, "text": "Reservations for students", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The University Grants Commission initiated which television programme after the advent of TV in India?",
+      "options": [
+        { "option_id": 1, "text": "Shikshan Sankraman", "is_correct": false },
+        { "option_id": 2, "text": "Countrywide Classroom", "is_correct": true },
+        { "option_id": 3, "text": "Jeevan Shikshan", "is_correct": false },
+        { "option_id": 4, "text": "Kishor", "is_correct": false }
+      ],
+      "answer": "Countrywide Classroom"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which IIM was the first to be established with help from Harvard Business School?",
+      "options": [
+        { "option_id": 1, "text": "IIM Kolkata", "is_correct": false },
+        { "option_id": 2, "text": "IIM Ahmedabad", "is_correct": true },
+        { "option_id": 3, "text": "IIM Bengaluru", "is_correct": false },
+        { "option_id": 4, "text": "IIM Lucknow", "is_correct": false }
+      ],
+      "answer": "IIM Ahmedabad"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "When was the Maharashtra State Council of Educational Research and Training (MSCERT) established?",
+      "options": [
+        { "option_id": 1, "text": "1961", "is_correct": false },
+        { "option_id": 2, "text": "1966", "is_correct": false },
+        { "option_id": 3, "text": "1984", "is_correct": true },
+        { "option_id": 4, "text": "1985", "is_correct": false }
+      ],
+      "answer": "1984"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What was the literacy rate in India according to the 2001 Census?",
+      "options": [
+        { "option_id": 1, "text": "52%", "is_correct": false },
+        { "option_id": 2, "text": "64%", "is_correct": true },
+        { "option_id": 3, "text": "43%", "is_correct": false },
+        { "option_id": 4, "text": "34%", "is_correct": false }
+      ],
+      "answer": "64%"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which commission was appointed under the chairmanship of Dr D. S. Kothari in 1964?",
+      "options": [
+        { "option_id": 1, "text": "University Education Commission", "is_correct": false },
+        { "option_id": 2, "text": "Secondary Education Commission", "is_correct": false },
+        { "option_id": 3, "text": "Kothari Commission", "is_correct": true },
+        { "option_id": 4, "text": "Mudaliar Commission", "is_correct": false }
+      ],
+      "answer": "Kothari Commission"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The 'Brain Drain' crisis was associated with students from which institutions leaving for foreign countries between 1970-1980?",
+      "options": [
+        { "option_id": 1, "text": "IITs", "is_correct": true },
+        { "option_id": 2, "text": "IIMs", "is_correct": false },
+        { "option_id": 3, "text": "Medical Colleges", "is_correct": false },
+        { "option_id": 4, "text": "Agricultural Institutes", "is_correct": false }
+      ],
+      "answer": "IITs"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "In which year was the Centre for Development of Advanced Computing (C-DAC) established?",
+      "options": [
+        { "option_id": 1, "text": "1987", "is_correct": false },
+        { "option_id": 2, "text": "1988", "is_correct": true },
+        { "option_id": 3, "text": "1991", "is_correct": false },
+        { "option_id": 4, "text": "1994", "is_correct": false }
+      ],
+      "answer": "1988"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which open university was established in Nashik in 1989?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi National Open University", "is_correct": false },
+        { "option_id": 2, "text": "Yashwantrao Chavan Maharashtra Mukta Vidyapeeth", "is_correct": true },
+        { "option_id": 3, "text": "Maharashtra State Open University", "is_correct": false },
+        { "option_id": 4, "text": "Pune Open University", "is_correct": false }
+      ],
+      "answer": "Yashwantrao Chavan Maharashtra Mukta Vidyapeeth"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What was the literacy rate in the 1951 Census?",
+      "answer": "17%"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the scheme started in 1988 to improve primary school standards.",
+      "answer": "Operation Blackboard."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Which state became fully literate in 1991?",
+      "answer": "Kerala."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Who started Anganwadis for Adivasi children in Bordi and Kosbad?",
+      "answer": "Tarabai Modak."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Who established the Kosbad Project for Adivasis in Thane district?",
+      "answer": "Anutai Wagh."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Which commission proposed the concept of Higher Secondary Education?",
+      "answer": "The Mudaliar Commission (1952-53)."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "When was the Maharashtra State Board of Secondary and Higher Secondary Education established?",
+      "answer": "1st January 1966."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Who chaired the Kothari Commission appointed in 1964?",
+      "answer": "Dr D. S. Kothari."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What education pattern did the Kothari Commission recommend?",
+      "answer": "The 10+2+3 pattern."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Who was the Chairman of the University Education Commission (1948)?",
+      "answer": "Dr Sarvapalli Radhakrishnan."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "When was the NCERT established?",
+      "answer": "1st September 1961."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the periodical published by MSCERT called?",
+      "answer": "Jeevan Shikshan."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "When was Balbharati established?",
+      "answer": "27 January 1967."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "On which policy was the 'Primary Education Curriculum 1988' based?",
+      "answer": "The National Policy on Education 1986."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who chaired the committee that developed the 'Competency based Primary Education Curriculum 1995'?",
+      "answer": "Dr R. H. Dave."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which scientist played a key role in the 1975 satellite experiment for education?",
+      "answer": "Eknath Chitnis."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "In which year was IGNOU established?",
+      "answer": "1985."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does CSIR stand for?",
+      "answer": "Council of Scientific and Industrial Research."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name the first indigenous computer made in India.",
+      "answer": "ISIJU computer."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who developed the Param-8000 supercomputer?",
+      "answer": "Dr Vijay Bhatkar."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Where was the first IIT established?",
+      "answer": "Kharagpur, West Bengal (1951)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which institute provides training in industrial design?",
+      "answer": "National Institute of Design, Ahmedabad."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "When was the ICMR established?",
+      "answer": "1949."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name the premier medical institute with super-speciality centres.",
+      "answer": "All India Institute of Medical Sciences (AIIMS)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the key achievement of the Indian Agricultural Research Institute?",
+      "answer": "Fundamental research on methods of taking multiple crops in a year."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which commission recommended increased budget for neglected sections like castes and tribes?",
+      "answer": "The Kothari Commission."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What was the objective of the DPEP?",
+      "answer": "Universalisation of primary education."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name the magazine for children published by Balbharati.",
+      "answer": "Kishor."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What was the purpose of the 'mid-day meal' scheme?",
+      "answer": "To provide proper nourishment for students."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which university was named after Prime Minister Indira Gandhi?",
+      "answer": "Indira Gandhi National Open University (IGNOU)."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the main features and objectives of the Operation Blackboard scheme.",
+      "answer": "Operation Blackboard was a central government scheme started in 1988 to improve the standard and spread of primary education. Its key features included providing funds to schools to meet minimum educational needs: at least two proper classrooms, toilets, at least one female teacher among two teachers, a blackboard, maps, laboratory apparatus, a small library, a playground, and sports equipment. In 1994, it was expanded to include an additional classroom and one more teacher for schools with over 100 students, with priority given to girls' schools, schools with majority SC/ST students, and rural schools. It also mandated that 50% of teaching posts be filled by female teachers. The main objective was to improve infrastructure and quality to give primary education momentum."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the role and contributions of the Kothari Commission in shaping India's education system.",
+      "answer": "The Kothari Commission (1964), chaired by Dr D. S. Kothari with significant contributions from Dr J. P. Naik, was a landmark in Indian education policy. Its major recommendation was the 10+2+3 pattern for secondary, higher secondary, and university education, implemented from 1972. It advocated for a uniform national system, inclusion of mother tongue, Hindi, and English, and emphasized continuing education, adult education, correspondence courses, and open universities to reach all sections. It also recommended increased budgetary provision for neglected groups like Scheduled Castes and Tribes. The commission's objectives included modernization of education, strengthening democracy, social and national integration, linking education with productivity, and nurturing social, moral, and spiritual values, providing a comprehensive framework for educational development."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "What were the significant recommendations and impact of the National Policy on Education 1986?",
+      "answer": "The National Policy on Education (NPE) 1986 brought fundamental changes to align education with societal needs. Its key recommendation was the framing of a common core curriculum for all states to ensure equal educational opportunity, while allowing flexibility for states to incorporate their cultural, geographical, and historical specifics. It led to the 'Primary Education Curriculum 1988'. The policy emphasized universal access, retention, and quality improvement at primary levels, vocationalisation at secondary level, and autonomy for higher education institutions. It promoted the use of educational technology (like TV) and distance learning. The NPE 1986 set the direction for a more standardized yet adaptable, equitable, and modern education system in India."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the objectives and functioning of the University Grants Commission (UGC) in the post-independence era.",
+      "answer": "The University Grants Commission (UGC) was established to oversee higher education after independence. It functioned by adopting the Five-Year Plan method, sanctioning and disbursing government grants to universities. Its key roles included planning and coordinating university education, standardizing syllabi, prioritizing national needs, and implementing various higher education schemes. The UGC played a crucial role in establishing University Development Councils, Centres for Advanced Studies for postgraduate education, and new universities. It also initiated innovative programmes like the 'Countrywide Classroom' telecast on Doordarshan to make higher education accessible. Thus, the UGC acted as a central regulatory and funding body aimed at improving standards, coordination, and reach of university education in India."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Discuss the establishment, objectives, and role of the Indira Gandhi National Open University (IGNOU).",
+      "answer": "The Indira Gandhi National Open University (IGNOU) was established on 20 September 1985 based on recommendations of the P. Parthasarathy committee, evolving from a 1970 UNESCO seminar. Named after Prime Minister Indira Gandhi, its primary objective was to make education accessible to every household, especially for those unable to pursue formal college education. It offers concessions in eligibility criteria and age. IGNOU started an audio-visual distance education programme via Akashvani and Doordarshan in 1990, conducting over a thousand curricula. With 58 training centres in India and 41 abroad, IGNOU plays a pivotal role in democratizing higher education through open and distance learning, catering to a vast and diverse student population."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the major achievements of the Council of Scientific and Industrial Research (CSIR) in the post-independence period.",
+      "answer": "The Council of Scientific and Industrial Research (CSIR), established in 1950, significantly advanced scientific research and its application. Its achievements include: developing indelible ink for election voting; creating medicines for malaria, elephantiasis, and tuberculosis; innovating water purification technology; reducing bamboo production time; and pioneering DNA fingerprinting in India. CSIR conducted genetic studies proving the 60,000-year ancestry of Andaman Adivasis and developed an earthquake early warning system. It also championed traditional knowledge, securing patents related to neem (pesticide) and turmeric (wound healing), and created a digital encyclopedia of Indian traditional knowledge in eight languages. CSIR's work reduced imports, saved foreign exchange, and motivated fundamental research and reverse brain drain."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Trace the development of computer technology and supercomputing in India as mentioned in the chapter.",
+      "answer": "India's journey in computer technology began with the first indigenous computer, the ISIJU (a collaboration between Indian Statistical Institute and Jadavpur University) in 1969. The software industry took off in 1974 when Tata Consultancy Services (TCS) secured an American contract. A major challenge arose in 1987 when the US denied India a supercomputer. In response, the Rajiv Gandhi government established the Centre for Development of Advanced Computing (C-DAC) in Pune in 1988. Under Dr Vijay Bhatkar's leadership, C-DAC indigenously developed the Param-8000 supercomputer in 1991. These milestones highlight India's progression from importing technology to achieving self-reliance in high-performance computing, boosting scientific research speed and national capability."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Indian Institutes of Technology (IITs) and the Indian Institutes of Management (IIMs) for national development.",
+      "answer": "IITs and IIMs are premier institutions crucial for India's development. IITs, starting with Kharagpur in 1951, were established to provide advanced engineering education within India, reducing dependence on foreign institutions. They offer BTech and MTech courses, with admission via competitive exams, nominal fees, and reservations, ensuring merit-based and inclusive access. Initially facing a 'Brain Drain' crisis, the situation improved post-1990. IITs produce high-quality engineers who drive technological and industrial growth. IIMs, like the one in Ahmedabad set up with help from Harvard Business School, were created to mold skilled managers needed for a growing economy. Both IITs and IIMs supply the technical and managerial talent that fuels innovation, industry, and economic progress, making them vital pillars of national development."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What role have research institutes in medicine (like ICMR and AIIMS) played in improving healthcare in India?",
+      "answer": "Research institutes like the Indian Council for Medical Research (ICMR, established 1949) and the All India Institute of Medical Sciences (AIIMS) have profoundly improved Indian healthcare. ICMR coordinates and funds medical research across universities and institutes, establishing 26 centres for disease research. Its work enabled control of diseases like tuberculosis and leprosy. AIIMS, set up for advanced medical education and research, offers undergraduate and postgraduate courses, boasts well-equipped hospitals and research facilities, and provides affordable treatment. It has super-speciality centres for heart, brain, and eye disorders and nursing colleges. Together, these institutes enhance medical knowledge, develop treatments, standardise medicines, train doctors, and provide high-quality care, elevating the overall health standards of the nation."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "How has the Indian Agricultural Research Institute contributed to the advancement of agriculture in India?",
+      "answer": "The Indian Agricultural Research Institute (IARI), granted university status in 1958, has been instrumental in advancing Indian agriculture. It conducts research in key areas like soil science, agricultural sciences, and economic botany. Its most significant contribution is fundamental research on methods for taking multiple crops in a year, greatly benefiting farmers by increasing productivity and income. It also researches wheat, pulses, oilseeds, and vegetables. IARI maintains the country's largest agriculture-related library in Delhi. By developing improved farming techniques and crop varieties, the institute has played a central role in enhancing agricultural output, supporting food security, and improving the livelihoods of farmers across India."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Compare the work and impact of Tarabai Modak and Anutai Wagh in the field of education, especially for Adivasi communities.",
+      "answer": "Both Tarabai Modak and Anutai Wagh dedicated their work to educating Adivasi communities but with slightly different focuses. Tarabai Modak began working in Bordi and Kosbad, starting Anganwadis for Adivasi children. She emphasized the 'learning by doing' method, started kuranshalas (medlow schools), and promoted vocational technical education, aiming for practical, skill-based learning. Anutai Wagh established the Kosbad Project in Thane district, creating a more institutionalized setup. She started crèches, nurseries, primary schools, adult education classes, and balsevika training schools, providing a comprehensive educational ecosystem from early childhood to adulthood. Both women played pivotal roles in bringing formal and non-formal education to marginalized Adivasi communities, empowering them through knowledge and skills."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain the concept and significance of the 'Competency based Primary Education Curriculum 1995'.",
+      "answer": "The Competency based Primary Education Curriculum 1995 was developed by a national committee chaired by Dr R. H. Dave while the 1988 curriculum was being implemented. Its core objective was to define and ensure minimum levels of learning (MLL) for all primary school children. The committee created detailed charts specifying the minimum competencies students should achieve in language, mathematics, and environmental studies up to Std V, showing a sequential progression for each class. This curriculum shifted focus from mere syllabus completion to ensuring that every child attains essential, measurable learning outcomes. It aimed to standardize quality, reduce disparities, and provide a clear framework for teachers to assess and guarantee that foundational skills were mastered, thereby improving the effectiveness of primary education nationwide."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "What was the SITE experiment, and how did it contribute to education in India?",
+      "answer": "SITE (Satellite Instructional Television Experiment) was an ambitious educational project undertaken in 1975 under the leadership of the Space Applications Centre, Ahmedabad, with assistance from America. Scientist Eknath Chitnis played a key role. It involved using a satellite to broadcast instructional television programmes directly to rural communities. This experiment proved that satellite technology could be a powerful tool for mass education. It helped make provisions for a good standard of education in remote rural areas where traditional educational infrastructure was lacking. SITE laid the groundwork for the future concept of satellite education in India, demonstrating the potential of audio-visual media and technology to bridge educational gaps and reach underserved populations."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Describe the evolution and current structure of the school education system in Maharashtra as per the chapter.",
+      "answer": "The school education system in Maharashtra evolved significantly post-independence. After the state's formation in 1960, a common curriculum for Stds I-VII was drafted by Principal Sayyad Rauf. The state adopted the national 10+2+3 pattern recommended by the Kothari Commission in 1972, conducting its first Std X board exam in 1975. The Maharashtra State Board of Secondary and Higher Secondary Education, established in Pune on 1st Jan 1966, conducts Std X and XII exams. The Maharashtra State Council of Educational Research and Training (MSCERT), established in Pune in 1984, works on improving primary education, teacher training, and curriculum. Balbharati (established 1967) produces textbooks in eight languages. This structure, with its boards, councils, and research bodies, aims to provide standardized, quality school education across the state."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "What are the main functions of the National Council of Educational Research and Training (NCERT)?",
+      "answer": "The NCERT, established in Delhi on 1 September 1961, serves as the apex resource organization for school education. Its main functions are: (1) To advise the Central Government on policies and programmes for school education. (2) To conduct and promote educational research and development. (3) To organize pre-service and in-service teacher training. (4) To design, develop, and disseminate innovative teaching-learning techniques and curricula. (5) To prepare and publish model textbooks, workbooks, and teacher handbooks, often in collaboration with the CBSE. (6) To provide guidance and cooperation to State Governments (through SCERTs) on primary and secondary education matters. (7) To conduct national-level talent search examinations. NCERT plays a central role in standardizing and improving the quality of school education across India."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the term 'Brain Drain' in the context of IITs and how the situation changed after 1990.",
+      "answer": "The term 'Brain Drain' refers to the large-scale emigration of highly skilled and educated individuals from a country. In the context of IITs, the period from 1970 to 1980 witnessed a significant number of IIT graduates leaving India for better opportunities abroad, particularly to the United States. This resulted in a loss of valuable technical talent that the country had invested in educating. However, the situation began to change after 1990. Economic liberalization in India opened up new opportunities in the domestic technology and industrial sectors. The growth of the IT industry and increased global connectivity created attractive career prospects within India, leading to a reduction in the outflow and even a reverse brain drain, with many professionals returning to contribute to India's developing economy."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Discuss the role and achievements of the National Institute of Design (NID).",
+      "answer": "The National Institute of Design (NID) was established in Ahmedabad in 1961 to impart specialized training in industrial design. It started courses in basic design, graphic design, product design, and visual communication in 1963-64. NID has made significant contributions to Indian industry and visual culture through its practical and innovative work. Its notable achievements include designing iconic products like the transistor radio and calculator, and creating influential logos for major national entities such as Indian Airlines and the State Bank of India. By blending aesthetics with functionality, NID has played a crucial role in professionalizing the field of design in India, producing skilled designers who contribute to various sectors including consumer goods, communication, and branding, thereby enhancing the quality and identity of Indian products and services."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "How did the Indian government address the need for research in traditional systems of medicine?",
+      "answer": "To promote research in traditional Indian systems of medicine, the government established the Central Council for Research in Indian Medicine and Homoeopathy in 1969. This body was tasked with conducting research and fostering development in Ayurveda, Naturopathy, Unani, and Homoeopathy. In 1979, to allow for more focused and specialized research, this single council was dissolved and replaced by three separate bodies: (1) the Central Council for Research in Unani Medicine, (2) the Central Council for Research in Homoeopathy, and (3) the Central Council for Research in Yoga and Naturopathy. This restructuring ensured that each traditional system could be studied and developed according to its own unique clinical methodologies, helping to validate, standardize, and integrate these ancient healing practices into the modern healthcare framework."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "What was the purpose of establishing the Art Department in Maharashtra in 1965?",
+      "answer": "The Art Department was established in Maharashtra in 1965 with the specific purpose of formulating policy for Art Education and overseeing its implementation through various art institutes across the state. A key responsibility undertaken by this department was organizing and conducting the drawing grade examinations at the school level. This initiative helped to standardize art education, assess student proficiency systematically, and give formal recognition to artistic skills from a young age. By creating a structured framework for art education, the department aimed to nurture creativity, promote cultural expression, and integrate arts into the mainstream school curriculum, ensuring that aesthetic education received due importance in the overall development of students."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the importance of the District Primary Education Programme (DPEP).",
+      "answer": "The District Primary Education Programme (DPEP) was launched in 1994 with the primary objective of achieving the universalisation of primary education. It was implemented in seven states, including Maharashtra. The programme's importance lay in its comprehensive and targeted approach. It aimed to ensure 100% attendance in primary schools, reduce student drop-out rates, and specifically promote education for girls and physically handicapped children. DPEP included multifaceted strategies such as conducting research and evaluation on primary education, developing alternative education models, and creating societal awareness about the importance of schooling. By focusing on disadvantaged districts and addressing barriers to education, DPEP played a crucial role in expanding access, improving retention, and enhancing the quality of primary education, thereby taking a significant step towards the national goal of education for all."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Describe the work of the Bhabha Atomic Research Centre (BARC).",
+      "answer": "The Bhabha Atomic Research Centre (BARC) is India's premier nuclear research facility. It has conducted pioneering and valuable research across multiple scientific disciplines including nuclear physics, solid-state physics, spectroscopy, chemical sciences, and life sciences. Beyond fundamental research, BARC has a strong applied focus, notably training scientists for the crucial task of setting up nuclear reactors, which are vital for energy production and other applications. By advancing nuclear science and technology, BARC contributes to national goals in energy security (through nuclear power), healthcare (through radiation medicine), agriculture (through crop mutation), and industrial applications. It stands as a cornerstone of India's scientific and technological self-reliance in the strategic field of atomic energy."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What were the key features of the Mudaliar Commission's recommendations for secondary education?",
+      "answer": "The Mudaliar Commission (1952-53) was appointed to study and reform secondary education. After examining the curriculum, medium of instruction, and teaching methodology, it made several key recommendations. Its most notable proposal was the introduction of the concept of Higher Secondary Education, aiming to create a distinct stage between school and university. At the time, the education pattern was 11+4 years for a first degree or 11+1+3 years. The Commission's vision was to provide a more focused and diversified curriculum at the higher secondary level to better prepare students for university or vocational paths. However, implementing this uniform concept across the entire country was found to be difficult initially, highlighting the challenges of educational standardization in a diverse nation like India."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How has the Film and Television Institute of India (FTII) contributed to the field of film-making?",
+      "answer": "The Film and Television Institute of India (FTII) in Pune, which inherited the legacy of the Prabhat Film Company, has been instrumental in professionalizing film-making in India. Established to provide public education in audiovisual arts, FTII offers systematic, scientific training in all key aspects of film production such as direction, editing, and acting. By creating a formal educational pathway for these skills, it moved film training from informal apprenticeships to a structured academic discipline. FTII has produced generations of highly skilled filmmakers, technicians, and actors who have shaped Indian cinema. Its role extends beyond training; it serves as a center of excellence that sets high technical and artistic standards, thereby elevating the overall quality and professionalism of the Indian film and television industry."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What is the significance of the 'common core curriculum' introduced under the National Policy on Education 1986?",
+      "answer": "The 'common core curriculum' introduced under the National Policy on Education (NPE) 1986 holds great significance for promoting equity and national cohesion in education. Its primary purpose was to ensure that all students across different states in India receive a foundational set of common knowledge, skills, and values, thereby providing equal educational opportunity. This core was designed to include essential elements of history, culture, constitutional values, and scientific temper. However, recognizing India's diversity, the policy also wisely allowed individual states flexibility within the national framework to incorporate content related to their specific cultural, geographical, and historical contexts. This balanced approach aimed to foster a shared national identity while respecting regional uniqueness, creating a more unified yet adaptable education system."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Trace the improvement in India's literacy rate from 1951 to 2001 as shown in the chapter.",
+      "answer": "The chapter presents a clear trajectory of improvement in India's literacy rate from the first Census after independence to 2001. It started at a very low 17% in 1951, revealing the enormous challenge ahead. Steady progress was made over the decades: the literacy rate rose to 34% by 1971, then to 43% in 1981. The 1991 Census recorded a literacy rate of 52%, marking the point where more than half the population was literate. By the 2001 Census, the literacy rate had reached 64%. This consistent upward trend from 17% to 64% over 50 years reflects the cumulative impact of various government schemes, policies, and societal efforts aimed at spreading education, such as Operation Blackboard, DPEP, adult education programmes, and the growing emphasis on universal primary education."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Explain the role of the Maharashtra State Bureau of Textbook Production and Curriculum Research (Balbharati).",
+      "answer": "The Maharashtra State Bureau of Textbook Production and Curriculum Research, commonly known as Balbharati, was established in Pune on 27 January 1967. It plays a critical role in the state's school education system. Its primary function is to prepare, publish, and distribute textbooks for students from 1st to 12th standard. To cater to Maharashtra's linguistic diversity, Balbharati produces textbooks in eight languages: Marathi, Hindi, English, Urdu, Kannada, Sindhi, Gujarati, and Telugu. Additionally, it publishes 'Kishor', a popular monthly magazine for children. By ensuring the availability of standardized, quality textbooks in multiple languages at subsidized rates, Balbharati supports the uniform implementation of the state curriculum, aids classroom teaching, and makes education accessible to students from various linguistic backgrounds, thereby upholding the principle of equality in educational resources."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "What were the circumstances that led to the indigenous development of the Param-8000 supercomputer?",
+      "answer": "The indigenous development of the Param-8000 supercomputer was driven by geopolitical circumstances and a decisive national response. In 1987, the United States refused to allow India to purchase a supercomputer, likely due to strategic technology control regimes. This denial became a challenge and an opportunity for self-reliance. In response, the Rajiv Gandhi government made a strategic decision to develop a supercomputer indigenously. To execute this mission, the Centre for Development of Advanced Computing (C-DAC) was established in Pune in 1988. Under the leadership of Dr Vijay Bhatkar, a team of scientists and engineers at C-DAC worked on this project and successfully developed India's first supercomputer, the Param-8000, in 1991. This achievement demonstrated India's technological capability and reduced dependence on foreign imports for critical high-performance computing needs."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How did the University Education Commission (1948) contribute to the development of higher education in India?",
+      "answer": "The University Education Commission, appointed in 1948 with Dr Sarvapalli Radhakrishnan as Chairman, laid the foundational framework for higher education in independent India. Its key functions included advising on financial grants to universities, assessing and improving university standards, and promoting coordination among them. The commission endorsed the use of Five-Year Plans for systematic development in the sector. It began the practice of sanctioning and disbursing government grants, ensuring financial support for growth. The commission also emphasized planning for university education, coordinating syllabi, and aligning higher education with national needs. Its work led to the establishment of university development councils and centres for advanced studies, setting the stage for the structured expansion and quality enhancement of India's university system in the post-independence era."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Discuss the expansion and provisions of the Operation Blackboard scheme in 1994.",
+      "answer": "The Operation Blackboard scheme, initially launched in 1988, was significantly expanded in 1994 to address the needs of growing schools. The new provisions mandated that schools with a student enrolment of more than 100 would receive funds for one additional classroom and for appointing one more teacher. Priority for this expansion was explicitly given to three categories of schools: girls' schools, schools with a majority of students from Scheduled Castes and Scheduled Tribes, and schools located in rural areas. Furthermore, a crucial binding directive was issued to State Governments, requiring that fifty percent of the teaching posts in schools be filled by female teachers. This expansion aimed to improve the pupil-teacher ratio, provide better infrastructure, promote girls' education, and ensure gender balance in the teaching workforce, thereby strengthening the primary education system further."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the key developments in the field of education in post-independence India as covered in this chapter.",
+      "answer": "Post-independence India witnessed systematic development in education across all levels. Initially grappling with a low literacy rate (17% in 1951), the government launched various schemes: Operation Blackboard (1988) for primary school infrastructure, DPEP (1994) for universalisation, and the mid-day meal scheme (1995). Commissions like Mudaliar (1952-53) and Kothari (1964) reformed secondary education, leading to the 10+2+3 pattern. Higher education was shaped by the University Education Commission (1948) and the UGC. National bodies like NCERT (1961) and state bodies like MSCERT and Balbharati standardized curricula and textbooks. Technological strides included SITE (1975) for satellite education and the rise of open universities like IGNOU (1985). Research flourished through institutes like CSIR, IITs, IIMs, ICMR, AIIMS, and IARI, driving progress in science, technology, medicine, and agriculture, collectively building a robust educational foundation for the nation."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.2.3",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Somebody's Mother"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the physical appearance of the woman described at the beginning of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Young and lively", "is_correct": false },
+        { "option_id": 2, "text": "Old, ragged, gray, and bent", "is_correct": true },
+        { "option_id": 3, "text": "Wealthy and well-dressed", "is_correct": false },
+        { "option_id": 4, "text": "Strong and confident", "is_correct": false }
+      ],
+      "answer": "Old, ragged, gray, and bent"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why were the streets white?",
+      "options": [
+        { "option_id": 1, "text": "Because of paint", "is_correct": false },
+        { "option_id": 2, "text": "Because of a recent snowfall", "is_correct": true },
+        { "option_id": 3, "text": "Because of dust", "is_correct": false },
+        { "option_id": 4, "text": "Because of chalk", "is_correct": false }
+      ],
+      "answer": "Because of a recent snowfall"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How did the people in the crowd treat the old woman at the crossing?",
+      "options": [
+        { "option_id": 1, "text": "They helped her immediately.", "is_correct": false },
+        { "option_id": 2, "text": "They jostled her aside and passed her by.", "is_correct": true },
+        { "option_id": 3, "text": "They stopped to talk to her.", "is_correct": false },
+        { "option_id": 4, "text": "They gave her money.", "is_correct": false }
+      ],
+      "answer": "They jostled her aside and passed her by."
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who came down the street with laughter and shout?",
+      "options": [
+        { "option_id": 1, "text": "A group of women", "is_correct": false },
+        { "option_id": 2, "text": "Happy boys just out of school", "is_correct": true },
+        { "option_id": 3, "text": "Businessmen", "is_correct": false },
+        { "option_id": 4, "text": "The woman's family", "is_correct": false }
+      ],
+      "answer": "Happy boys just out of school"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why did the old woman hesitate to cross the street by herself?",
+      "options": [
+        { "option_id": 1, "text": "She was waiting for a friend.", "is_correct": false },
+        { "option_id": 2, "text": "She was afraid of the carriage wheels or horses' feet.", "is_correct": true },
+        { "option_id": 3, "text": "She did not know where to go.", "is_correct": false },
+        { "option_id": 4, "text": "She was enjoying the snowfall.", "is_correct": false }
+      ],
+      "answer": "She was afraid of the carriage wheels or horses' feet."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which boy from the group stopped to help the old woman?",
+      "options": [
+        { "option_id": 1, "text": "The shyest boy", "is_correct": false },
+        { "option_id": 2, "text": "The gayest (happiest) boy", "is_correct": true },
+        { "option_id": 3, "text": "The tallest boy", "is_correct": false },
+        { "option_id": 4, "text": "The boy who knew her", "is_correct": false }
+      ],
+      "answer": "The gayest (happiest) boy"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What did the boy whisper to the old woman?",
+      "options": [
+        { "option_id": 1, "text": "I will give you money.", "is_correct": false },
+        { "option_id": 2, "text": "I'll help you across, if you wish to go.", "is_correct": true },
+        { "option_id": 3, "text": "Where do you live?", "is_correct": false },
+        { "option_id": 4, "text": "Be careful!", "is_correct": false }
+      ],
+      "answer": "I'll help you across, if you wish to go."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How did the boy feel after helping the woman?",
+      "options": [
+        { "option_id": 1, "text": "Angry and regretful", "is_correct": false },
+        { "option_id": 2, "text": "Sad and tired", "is_correct": false },
+        { "option_id": 3, "text": "Proud and happy", "is_correct": true },
+        { "option_id": 4, "text": "Indifferent", "is_correct": false }
+      ],
+      "answer": "Proud and happy"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did the boy remind his friends about the old woman?",
+      "options": [
+        { "option_id": 1, "text": "That she was rich.", "is_correct": false },
+        { "option_id": 2, "text": "That she was a teacher.", "is_correct": false },
+        { "option_id": 3, "text": "That she was somebody's mother.", "is_correct": true },
+        { "option_id": 4, "text": "That she lived nearby.", "is_correct": false }
+      ],
+      "answer": "That she was somebody's mother."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What was the prayer of 'somebody's mother' that night?",
+      "options": [
+        { "option_id": 1, "text": "For more money.", "is_correct": false },
+        { "option_id": 2, "text": "For good weather.", "is_correct": false },
+        { "option_id": 3, "text": "For God to be kind to the noble boy.", "is_correct": true },
+        { "option_id": 4, "text": "For her son to return.", "is_correct": false }
+      ],
+      "answer": "For God to be kind to the noble boy."
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What was the weather like on the day described in the poem?",
+      "answer": "It was a winter's day, with recent snow on the ground."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "Why were the schoolboys happy?",
+      "answer": "They were happy because school had just let out, giving them freedom."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What does the word 'unheeding' mean in the context of the poem?",
+      "answer": "Neglecting or ignoring."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'lend a hand' mean as used in the poem?",
+      "answer": "To help."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "Who is the poet of 'Somebody's Mother'?",
+      "answer": "Mary Dow Brine."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What does the poet compare the boys to when they come down the street?",
+      "answer": "To a flock of sheep."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What was the woman afraid might happen if she tried to cross alone?",
+      "answer": "She was afraid that carriage wheels or horses' feet might trample her."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "How did the boy help the woman cross the street?",
+      "answer": "She placed her hand on his strong young arm, and he guided her trembling feet."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What is the main message of the poem?",
+      "answer": "We should help those in need, especially the elderly, with kindness and empathy."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the biblical proverb mentioned in the 'Warming up!' activity that conveys the poem's theme?",
+      "answer": "'Do unto others as you would have others do unto you.'"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "In the word chain activity, which word shows a higher intensity than 'breeze'?",
+      "answer": "Wind (or a stronger term like gale, storm, etc.)."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What is the correct ascending order for the words related to age: youth, adult, aged, infant?",
+      "answer": "infant, youth, adult, aged"
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "Describe the setting of the poem. What time of year and day is it, and how does this setting contribute to the mood?",
+      "answer": "The poem is set on a winter's day, shortly after a recent snowfall, in the late afternoon when school has just let out. The streets are white and slippery. This cold, potentially harsh setting makes the old woman's vulnerability more pronounced. The wintry scene creates a mood of isolation and difficulty, highlighting the warmth of the boy's kind act against the physical and metaphorical chill of the indifferent crowd."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "Contrast the behavior of the crowd with the behavior of the schoolboy. What does this contrast reveal?",
+      "answer": "The crowd is described as a 'careless throng' that jostles the woman aside and passes her by, unheeding her anxious glance. In stark contrast, one schoolboy pauses, offers help gently, and guides her safely across the street. This contrast reveals themes of indifference versus compassion, busyness versus mindfulness, and collective neglect versus individual responsibility. It highlights how a single act of kindness can stand out against widespread apathy."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "Explain the significance of the poem's title 'Somebody's Mother'. How does the boy use this idea to teach his friends a lesson?",
+      "answer": "The title 'Somebody's Mother' personalizes the anonymous old woman. It reminds us that every elderly person is someone's cherished family member. The boy uses this idea to teach empathy to his friends, saying that helping this woman is like helping someone's own mother, and that if their mothers were ever old and alone, they would hope someone would help them too. This shifts her from a stranger to be ignored into a person worthy of respect and care, connecting kindness to universal family bonds."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "What is the impact of the old woman's prayer at the end of the poem? How does it complete the circle of kindness?",
+      "answer": "The old woman's prayer, 'God be kind to that noble boy,' completes the circle of kindness. The boy's act was spontaneous and not done for reward. Her prayer is her only way to reciprocate his kindness. It shows that the act deeply touched her and that she recognizes his goodness. This moment elevates the simple deed into a meaningful human connection, suggesting that kindness blesses both the giver and the receiver, creating a ripple effect of goodwill."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "The 'Warming up!' activity asks to find proverbs with a similar message to 'Do unto others...'. Why is this a suitable preparatory activity for this poem?",
+      "answer": "This activity is suitable because it establishes the core ethical principle—the Golden Rule—that underpins the poem's message. By searching for proverbs about treating others well, students activate their understanding of empathy, reciprocity, and moral duty before reading. It frames the poem not just as a story but as an illustration of a timeless moral lesson, preparing them to analyze the characters' actions through the lens of this universal principle."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "How does the poet use imagery to describe the old woman and the winter scene? Provide examples.",
+      "answer": "The poet uses vivid sensory imagery. For the old woman: 'old and ragged and gray,' 'bent with the chill,' 'feet with age were slow,' 'trembling feet.' These create a clear image of frailty and poverty. For the winter scene: 'streets were white with a recent snow,' 'slippery street,' 'snow piled white and deep.' This imagery evokes the cold, quiet, and potentially dangerous setting. Together, these images make the woman's vulnerability and the boy's kindness feel immediate and real to the reader."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "What does the word chain activity in the 'Warming up!' section aim to teach? How is vocabulary building relevant to understanding poetry?",
+      "answer": "The word chain activity teaches students about shades of meaning, synonyms, and degrees of intensity. Arranging words like 'cool, chill, cold, freezing' in ascending order builds precision in vocabulary. This is crucial for understanding poetry because poets choose words carefully for their exact connotations and emotional weight. A richer vocabulary allows students to better grasp nuances, imagery, and tone in poems like 'Somebody's Mother,' where words like 'ragged,' 'timid,' and 'hailing' carry specific, powerful meanings."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "If you were to illustrate this poem, what two key scenes would you draw and why?",
+      "answer": "I would draw two contrasting scenes. First, the scene of the old woman alone at the crowded crossing, being jostled by the indifferent crowd, with the snowy street in the background. This would capture her isolation and the world's neglect. Second, the scene of the boy gently guiding her across the street, with her hand on his arm, while his friends watch in the distance. This would capture the moment of connection, compassion, and action. Together, these illustrations would visually tell the story's arc from problem to solution and highlight its central theme of kindness versus indifference."
+    }
+  ]
+}

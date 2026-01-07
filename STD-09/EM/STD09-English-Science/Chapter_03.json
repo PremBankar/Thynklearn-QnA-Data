@@ -1,0 +1,1095 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Science.03",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Current Electricity"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Electric current is defined as:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The flow of electric potential.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The flow of electric charge per unit time.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The resistance offered by a conductor.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The difference in electric potential.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The flow of electric charge per unit time."
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The SI unit of electric current is:",
+      "options": [
+        { "option_id": 1, "text": "Volt", "is_correct": false },
+        { "option_id": 2, "text": "Ohm", "is_correct": false },
+        { "option_id": 3, "text": "Ampere", "is_correct": true },
+        { "option_id": 4, "text": "Coulomb", "is_correct": false }
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "One ampere current is said to flow when:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One volt potential difference is applied.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "One coulomb of charge flows per second.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "One ohm of resistance is present.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "One joule of work is done per coulomb.",
+          "is_correct": false
+        }
+      ],
+      "answer": "One coulomb of charge flows per second."
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The potential difference between two points is defined as:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The work done to move a unit positive charge from one point to another.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The total charge flowing between the points.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The resistance between the two points.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The current flowing between the points.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The work done to move a unit positive charge from one point to another."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The SI unit of potential difference is:",
+      "options": [
+        { "option_id": 1, "text": "Joule", "is_correct": false },
+        { "option_id": 2, "text": "Ampere", "is_correct": false },
+        { "option_id": 3, "text": "Volt", "is_correct": true },
+        { "option_id": 4, "text": "Ohm", "is_correct": false }
+      ],
+      "answer": "Volt"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "1 Volt is equivalent to:",
+      "options": [
+        { "option_id": 1, "text": "1 J/C", "is_correct": true },
+        { "option_id": 2, "text": "1 C/J", "is_correct": false },
+        { "option_id": 3, "text": "1 J/s", "is_correct": false },
+        { "option_id": 4, "text": "1 A/s", "is_correct": false }
+      ],
+      "answer": "1 J/C"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "In a metallic conductor, current is due to the flow of:",
+      "options": [
+        { "option_id": 1, "text": "Protons", "is_correct": false },
+        { "option_id": 2, "text": "Positive ions", "is_correct": false },
+        { "option_id": 3, "text": "Free electrons", "is_correct": true },
+        { "option_id": 4, "text": "Neutrons", "is_correct": false }
+      ],
+      "answer": "Free electrons"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The conventional direction of electric current is taken as:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The direction of flow of electrons.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The direction of flow of positive charge.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Perpendicular to the electron flow.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Opposite to the potential difference.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The direction of flow of positive charge."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "According to Ohm's law, for a conductor at constant physical state:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I ∝ V (Current is directly proportional to potential difference)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "I ∝ 1/V (Current is inversely proportional to potential difference)",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "V ∝ I² (Potential difference is proportional to square of current)",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "R ∝ I (Resistance is proportional to current)",
+          "is_correct": false
+        }
+      ],
+      "answer": "I ∝ V (Current is directly proportional to potential difference)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The mathematical form of Ohm's law is:",
+      "options": [
+        { "option_id": 1, "text": "V = I/R", "is_correct": false },
+        { "option_id": 2, "text": "I = V/R", "is_correct": true },
+        { "option_id": 3, "text": "R = I V", "is_correct": false },
+        { "option_id": 4, "text": "V = I² R", "is_correct": false }
+      ],
+      "answer": "I = V/R"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The SI unit of resistance is:",
+      "options": [
+        { "option_id": 1, "text": "Volt", "is_correct": false },
+        { "option_id": 2, "text": "Ampere", "is_correct": false },
+        { "option_id": 3, "text": "Ohm", "is_correct": true },
+        { "option_id": 4, "text": "Joule", "is_correct": false }
+      ],
+      "answer": "Ohm"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "A conductor has a resistance of 1 ohm if:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1 ampere current flows when 1 volt potential difference is applied.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1 coulomb charge flows in 1 second.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1 joule work is done to move 1 coulomb charge.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Its length is 1 metre.",
+          "is_correct": false
+        }
+      ],
+      "answer": "1 ampere current flows when 1 volt potential difference is applied."
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The resistance R of a conductor depends on:",
+      "options": [
+        { "option_id": 1, "text": "Its length (L)", "is_correct": false },
+        { "option_id": 2, "text": "Its cross-sectional area (A)", "is_correct": false },
+        { "option_id": 3, "text": "The material (resistivity ρ)", "is_correct": false },
+        {
+          "option_id": 4,
+          "text": "All of the above (R = ρL/A)",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of the above (R = ρL/A)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "If the length of a conductor is doubled (keeping area and material same), its resistance becomes:",
+      "options": [
+        { "option_id": 1, "text": "Half", "is_correct": false },
+        { "option_id": 2, "text": "Same", "is_correct": false },
+        { "option_id": 3, "text": "Double", "is_correct": true },
+        { "option_id": 4, "text": "Four times", "is_correct": false }
+      ],
+      "answer": "Double"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "If the area of cross-section of a conductor is doubled (keeping length and material same), its resistance becomes:",
+      "options": [
+        { "option_id": 1, "text": "Half", "is_correct": true },
+        { "option_id": 2, "text": "Same", "is_correct": false },
+        { "option_id": 3, "text": "Double", "is_correct": false },
+        { "option_id": 4, "text": "Four times", "is_correct": false }
+      ],
+      "answer": "Half"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The SI unit of resistivity (ρ) is:",
+      "options": [
+        { "option_id": 1, "text": "Ohm (Ω)", "is_correct": false },
+        { "option_id": 2, "text": "Ohm metre (Ω m)", "is_correct": true },
+        { "option_id": 3, "text": "Ohm/metre (Ω/m)", "is_correct": false },
+        { "option_id": 4, "text": "Metre/Ohm (m/Ω)", "is_correct": false }
+      ],
+      "answer": "Ohm metre (Ω m)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of the following has the least resistivity?",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": true },
+        { "option_id": 2, "text": "Nichrome", "is_correct": false },
+        { "option_id": 3, "text": "Diamond", "is_correct": false },
+        { "option_id": 4, "text": "Rubber", "is_correct": false }
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Materials that allow electric current to pass through easily are called:",
+      "options": [
+        { "option_id": 1, "text": "Insulators", "is_correct": false },
+        { "option_id": 2, "text": "Conductors", "is_correct": true },
+        { "option_id": 3, "text": "Semiconductors", "is_correct": false },
+        { "option_id": 4, "text": "Superconductors", "is_correct": false }
+      ],
+      "answer": "Conductors"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Materials that do not allow electric current to pass through are called:",
+      "options": [
+        { "option_id": 1, "text": "Conductors", "is_correct": false },
+        { "option_id": 2, "text": "Insulators", "is_correct": true },
+        { "option_id": 3, "text": "Resistors", "is_correct": false },
+        { "option_id": 4, "text": "Cells", "is_correct": false }
+      ],
+      "answer": "Insulators"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "When resistors are connected end-to-end in a single line, they are said to be connected in:",
+      "options": [
+        { "option_id": 1, "text": "Parallel", "is_correct": false },
+        { "option_id": 2, "text": "Series", "is_correct": true },
+        { "option_id": 3, "text": "Mixed", "is_correct": false },
+        { "option_id": 4, "text": "Random", "is_correct": false }
+      ],
+      "answer": "Series"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "For resistors R1, R2, R3 in series, the effective resistance Rs is:",
+      "options": [
+        { "option_id": 1, "text": "Rs = R1 + R2 + R3", "is_correct": true },
+        { "option_id": 2, "text": "1/Rs = 1/R1 + 1/R2 + 1/R3", "is_correct": false },
+        { "option_id": 3, "text": "Rs = (R1 R2 R3) / (R1+R2+R3)", "is_correct": false },
+        { "option_id": 4, "text": "Rs = R1 = R2 = R3", "is_correct": false }
+      ],
+      "answer": "Rs = R1 + R2 + R3"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In a series connection of resistors:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The same current flows through each resistor.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The potential difference across each resistor is the same.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The effective resistance is less than the smallest individual resistance.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "If one resistor fails, the others still work.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The same current flows through each resistor."
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "When resistors are connected such that all their ends are joined together at two common points, they are said to be connected in:",
+      "options": [
+        { "option_id": 1, "text": "Series", "is_correct": false },
+        { "option_id": 2, "text": "Parallel", "is_correct": true },
+        { "option_id": 3, "text": "Series-parallel", "is_correct": false },
+        { "option_id": 4, "text": "Complex", "is_correct": false }
+      ],
+      "answer": "Parallel"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "For resistors R1, R2, R3 in parallel, the effective resistance Rp is given by:",
+      "options": [
+        { "option_id": 1, "text": "Rp = R1 + R2 + R3", "is_correct": false },
+        {
+          "option_id": 2,
+          "text": "1/Rp = 1/R1 + 1/R2 + 1/R3",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rp = (R1 R2 R3) / (R1+R2+R3)",
+          "is_correct": false
+        },
+        { "option_id": 4, "text": "Rp = R1 = R2 = R3", "is_correct": false }
+      ],
+      "answer": "1/Rp = 1/R1 + 1/R2 + 1/R3"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "In a parallel connection of resistors:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The same current flows through each resistor.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The potential difference across each resistor is the same.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The effective resistance is greater than the largest individual resistance.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "If one resistor fails, the entire circuit breaks.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The potential difference across each resistor is the same."
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The effective resistance of resistors connected in parallel is:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greater than the largest resistance.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Less than the smallest resistance.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equal to the sum of the resistances.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Equal to the average of the resistances.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Less than the smallest resistance."
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "In domestic wiring, appliances are connected in:",
+      "options": [
+        { "option_id": 1, "text": "Series", "is_correct": false },
+        { "option_id": 2, "text": "Parallel", "is_correct": true },
+        { "option_id": 3, "text": "Series-parallel", "is_correct": false },
+        { "option_id": 4, "text": "Random", "is_correct": false }
+      ],
+      "answer": "Parallel"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The purpose of a fuse in an electrical circuit is to:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Increase the current.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect appliances from excessive current by melting and breaking the circuit.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reduce the voltage.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Measure the current.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect appliances from excessive current by melting and breaking the circuit."
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "A fuse wire is always connected in:",
+      "options": [
+        { "option_id": 1, "text": "Parallel with the appliance.", "is_correct": false },
+        {
+          "option_id": 2,
+          "text": "Series with the appliance.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Either series or parallel.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Across the terminals of the cell.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Series with the appliance."
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The colour of the live wire in domestic wiring is usually:",
+      "options": [
+        { "option_id": 1, "text": "Blue or Black", "is_correct": false },
+        { "option_id": 2, "text": "Red or Brown", "is_correct": true },
+        { "option_id": 3, "text": "Yellow or Green", "is_correct": false },
+        { "option_id": 4, "text": "White", "is_correct": false }
+      ],
+      "answer": "Red or Brown"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The colour of the neutral wire in domestic wiring is usually:",
+      "options": [
+        { "option_id": 1, "text": "Red or Brown", "is_correct": false },
+        { "option_id": 2, "text": "Blue or Black", "is_correct": true },
+        { "option_id": 3, "text": "Yellow or Green", "is_correct": false },
+        { "option_id": 4, "text": "White", "is_correct": false }
+      ],
+      "answer": "Blue or Black"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The colour of the earth wire in domestic wiring is usually:",
+      "options": [
+        { "option_id": 1, "text": "Red or Brown", "is_correct": false },
+        { "option_id": 2, "text": "Blue or Black", "is_correct": false },
+        { "option_id": 3, "text": "Yellow or Green", "is_correct": true },
+        { "option_id": 4, "text": "White", "is_correct": false }
+      ],
+      "answer": "Yellow or Green"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is the approximate voltage difference between live and neutral wires in Indian households?",
+      "options": [
+        { "option_id": 1, "text": "110 V", "is_correct": false },
+        { "option_id": 2, "text": "220 V", "is_correct": true },
+        { "option_id": 3, "text": "240 V", "is_correct": false },
+        { "option_id": 4, "text": "440 V", "is_correct": false }
+      ],
+      "answer": "220 V"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which scientist is honoured by naming the unit of potential difference?",
+      "options": [
+        { "option_id": 1, "text": "Alessandro Volta", "is_correct": true },
+        { "option_id": 2, "text": "André-Marie Ampère", "is_correct": false },
+        { "option_id": 3, "text": "Georg Simon Ohm", "is_correct": false },
+        { "option_id": 4, "text": "James Watt", "is_correct": false }
+      ],
+      "answer": "Alessandro Volta"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which scientist is honoured by naming the unit of electric current?",
+      "options": [
+        { "option_id": 1, "text": "Volta", "is_correct": false },
+        { "option_id": 2, "text": "Ampere", "is_correct": true },
+        { "option_id": 3, "text": "Ohm", "is_correct": false },
+        { "option_id": 4, "text": "Joule", "is_correct": false }
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which scientist gave the law relating current and potential difference?",
+      "options": [
+        { "option_id": 1, "text": "Volta", "is_correct": false },
+        { "option_id": 2, "text": "Ampere", "is_correct": false },
+        { "option_id": 3, "text": "Ohm", "is_correct": true },
+        { "option_id": 4, "text": "Faraday", "is_correct": false }
+      ],
+      "answer": "Ohm"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Conductors that do not obey Ohm's law are called:",
+      "options": [
+        { "option_id": 1, "text": "Ohmic conductors", "is_correct": false },
+        { "option_id": 2, "text": "Non-ohmic conductors", "is_correct": true },
+        { "option_id": 3, "text": "Superconductors", "is_correct": false },
+        { "option_id": 4, "text": "Insulators", "is_correct": false }
+      ],
+      "answer": "Non-ohmic conductors"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Materials whose resistance becomes nearly zero at very low temperatures are called:",
+      "options": [
+        { "option_id": 1, "text": "Insulators", "is_correct": false },
+        { "option_id": 2, "text": "Semiconductors", "is_correct": false },
+        { "option_id": 3, "text": "Superconductors", "is_correct": true },
+        { "option_id": 4, "text": "Resistors", "is_correct": false }
+      ],
+      "answer": "Superconductors"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "In an electric circuit, an ammeter is always connected in:",
+      "options": [
+        { "option_id": 1, "text": "Parallel", "is_correct": false },
+        { "option_id": 2, "text": "Series", "is_correct": true },
+        { "option_id": 3, "text": "Either series or parallel", "is_correct": false },
+        { "option_id": 4, "text": "Across the cell", "is_correct": false }
+      ],
+      "answer": "Series"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "In an electric circuit, a voltmeter is always connected in:",
+      "options": [
+        { "option_id": 1, "text": "Parallel", "is_correct": true },
+        { "option_id": 2, "text": "Series", "is_correct": false },
+        { "option_id": 3, "text": "Either series or parallel", "is_correct": false },
+        { "option_id": 4, "text": "Across the ammeter", "is_correct": false }
+      ],
+      "answer": "Parallel"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define electric current.",
+      "options": [],
+      "answer": "Electric current is the rate of flow of electric charge. I = Q/t, where Q is charge flowing in time t."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of electric current?",
+      "options": [],
+      "answer": "Ampere (A)."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Define 1 ampere.",
+      "options": [],
+      "answer": "One ampere is the current flowing when one coulomb of charge flows per second. (1 A = 1 C/s)"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Define potential difference.",
+      "options": [],
+      "answer": "Potential difference between two points is the work done to move a unit positive charge from one point to the other. V = W/Q."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of potential difference?",
+      "options": [],
+      "answer": "Volt (V)."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Define 1 volt.",
+      "options": [],
+      "answer": "One volt is the potential difference between two points when 1 joule of work is done to move 1 coulomb of charge from one point to the other. (1 V = 1 J/C)."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What are free electrons?",
+      "options": [],
+      "answer": "In a metallic conductor, the outermost electrons of atoms which are very weakly bound to the nucleus and can move freely within the conductor are called free electrons."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "State Ohm's law.",
+      "options": [],
+      "answer": "Ohm's law states that at constant physical state (temperature, length, area, material), the current (I) flowing through a conductor is directly proportional to the potential difference (V) across its ends. V = I R or I = V/R."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Define resistance of a conductor.",
+      "options": [],
+      "answer": "Resistance is the property of a conductor that opposes the flow of electric current. It is the ratio of potential difference across its ends to the current flowing through it. R = V/I."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of resistance?",
+      "options": [],
+      "answer": "Ohm (Ω)."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define 1 ohm.",
+      "options": [],
+      "answer": "A conductor has a resistance of 1 ohm if a potential difference of 1 volt across its ends causes a current of 1 ampere to flow through it. (1 Ω = 1 V/A)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "On what factors does the resistance of a conductor depend?",
+      "options": [],
+      "answer": "Resistance R depends on: 1. Length (L) - R ∝ L, 2. Area of cross-section (A) - R ∝ 1/A, 3. Material (resistivity ρ). Formula: R = ρ L/A."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define resistivity of a material.",
+      "options": [],
+      "answer": "Resistivity (ρ) is a characteristic property of a material. It is the resistance offered by a conductor of unit length and unit cross-sectional area. R = ρ L/A."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of resistivity?",
+      "options": [],
+      "answer": "Ohm metre (Ω m)."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Distinguish between conductors and insulators.",
+      "options": [],
+      "answer": "Conductors have very low resistance and allow electric current to flow easily (e.g., metals). Insulators have extremely high resistance and do not allow current to flow (e.g., rubber, glass)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is an electric circuit?",
+      "options": [],
+      "answer": "An electric circuit is a closed path consisting of conducting wires, a source of potential difference (like a cell), and other components (like resistors), through which electric current can flow."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the purpose of a fuse in a circuit?",
+      "options": [],
+      "answer": "A fuse is a safety device that protects electrical appliances from damage due to excessive current. It melts and breaks the circuit when the current exceeds a safe value."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is a fuse wire always connected in series?",
+      "options": [],
+      "answer": "A fuse is connected in series so that the same current flows through it as through the appliance. If the current becomes excessive, the fuse melts first, breaking the entire circuit."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are the colours of live, neutral, and earth wires in domestic wiring?",
+      "options": [],
+      "answer": "Live wire: Red or Brown. Neutral wire: Blue or Black. Earth wire: Yellow or Green."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why are domestic appliances connected in parallel?",
+      "options": [],
+      "answer": "Appliances are connected in parallel so that each gets the same voltage (220V), operates independently, and if one fails, the others continue to work."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the voltage difference between live and neutral wires in India?",
+      "options": [],
+      "answer": "About 220 Volts."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name the scientist who constructed the first electric cell.",
+      "options": [],
+      "answer": "Alessandro Volta."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What are superconductors?",
+      "options": [],
+      "answer": "Superconductors are materials whose electrical resistance becomes nearly zero when cooled to very low temperatures (close to 0 Kelvin)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What are non-ohmic conductors?",
+      "options": [],
+      "answer": "Conductors that do not obey Ohm's law (i.e., the V-I relationship is not linear) are called non-ohmic conductors."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How is an ammeter connected in a circuit? Why?",
+      "options": [],
+      "answer": "An ammeter is connected in series with the component whose current is to be measured, so that the same current flows through the ammeter."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How is a voltmeter connected in a circuit? Why?",
+      "options": [],
+      "answer": "A voltmeter is connected in parallel across the two points between which the potential difference is to be measured, so that it experiences the same voltage."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the charge on one electron?",
+      "options": [],
+      "answer": "The charge on one electron is -1.6 × 10^(-19) Coulombs."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Convert 1 milliampere (mA) to ampere.",
+      "options": [],
+      "answer": "1 mA = 10^(-3) A."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Convert 1 kilovolt (kV) to volts.",
+      "options": [],
+      "answer": "1 kV = 1000 V = 10^3 V."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the main function of the National Physical Laboratory (NPL) as mentioned in the chapter?",
+      "options": [],
+      "answer": "The National Physical Laboratory (NPL) establishes and maintains national standards of various physical quantities and conducts basic research in physics."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the analogy between flow of water and flow of electric current with respect to potential difference.",
+      "options": [],
+      "answer": "Water flows from a higher level (higher gravitational potential) to a lower level (lower gravitational potential) due to gravity. Similarly, electric current flows due to a difference in electric potential. Positive charge flows from a point of higher electric potential to a point of lower electric potential. Electrons (negative charge) flow from lower potential to higher potential. The potential difference (like height difference for water) drives the flow of charge, just as a height difference drives the flow of water."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "State Ohm's law. Describe an experiment to verify it.",
+      "options": [],
+      "answer": "Ohm's law: At constant physical state, the current (I) through a conductor is directly proportional to the potential difference (V) across its ends. V = I R. Experiment: Set up a circuit with a nichrome wire (resistor), an ammeter in series, a voltmeter in parallel across the wire, a battery (variable using 1 to 4 cells), and a plug key. Note the ammeter (I) and voltmeter (V) readings for different numbers of cells. Plot a graph of I vs V. The graph is a straight line through the origin, verifying that I ∝ V. Calculate R = V/I for each reading; it should be nearly constant."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Derive the expression for the equivalent resistance of three resistors R1, R2, R3 connected in series.",
+      "options": [],
+      "answer": "Let the resistors be connected in series across a potential difference V. Same current I flows through each. Let V1, V2, V3 be p.d. across R1, R2, R3 respectively. Then V = V1 + V2 + V3. From Ohm's law: V1 = I R1, V2 = I R2, V3 = I R3. So, V = I R1 + I R2 + I R3 = I (R1+R2+R3). Let Rs be the equivalent resistance. For the combination, V = I Rs. Comparing, I Rs = I (R1+R2+R3) ⇒ Rs = R1 + R2 + R3. Thus, the equivalent resistance in series is the sum of individual resistances."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Derive the expression for the equivalent resistance of three resistors R1, R2, R3 connected in parallel.",
+      "options": [],
+      "answer": "Let the resistors be connected in parallel across a potential difference V. The p.d. across each is the same V. Let I1, I2, I3 be currents through R1, R2, R3. Total current I = I1 + I2 + I3. From Ohm's law: I1 = V/R1, I2 = V/R2, I3 = V/R3. So, I = V/R1 + V/R2 + V/R3 = V (1/R1 + 1/R2 + 1/R3). Let Rp be the equivalent resistance. For the combination, I = V/Rp. So, V/Rp = V (1/R1 + 1/R2 + 1/R3) ⇒ 1/Rp = 1/R1 + 1/R2 + 1/R3. Thus, the reciprocal of the equivalent resistance in parallel is the sum of the reciprocals of individual resistances."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Explain the factors on which the resistance of a conductor depends. Write the formula.",
+      "options": [],
+      "answer": "The resistance R of a conductor depends on: 1. Length (L): Resistance is directly proportional to length. R ∝ L. Longer wire offers more resistance. 2. Area of Cross-section (A): Resistance is inversely proportional to area. R ∝ 1/A. Thicker wire offers less resistance. 3. Material (Resistivity ρ): Different materials have different inherent resistivities. ρ is a constant for a given material at a given temperature. Combining: R = ρ L/A, where ρ is the resistivity of the material."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "What is resistivity? How does it differ from resistance?",
+      "options": [],
+      "answer": "Resistivity (ρ) is an intrinsic property of a material that quantifies how strongly it opposes electric current. It is defined as the resistance of a conductor of unit length and unit cross-sectional area. Its SI unit is ohm-metre (Ω m). Resistance (R) is the property of a specific conductor, depending on its dimensions (L, A) and material (ρ). Resistivity is a material property, while resistance is an object property. For a given material, ρ is constant at a given temperature, but R changes with the shape and size of the conductor."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe domestic electrical wiring. Explain the functions of live, neutral, and earth wires.",
+      "options": [],
+      "answer": "Domestic wiring brings electricity via a three-wire cable: Live (Red/Brown), Neutral (Blue/Black), and Earth (Yellow/Green). Live wire carries alternating current from the power station at high potential (~220V in India). Neutral wire provides the return path for the current and is at zero potential relative to ground. Earth wire is a safety wire connected to a buried metal plate. It provides a low-resistance path for leakage current to the ground, preventing electric shock if a faulty appliance's metal body becomes live. All appliances are connected in parallel between live and neutral wires so each gets 220V and operates independently."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "What is a fuse? Explain its working principle and importance in electrical circuits.",
+      "options": [],
+      "answer": "A fuse is a safety device used to protect electrical appliances from damage due to overcurrent. It consists of a short piece of wire made of an alloy (like tin-lead) with a low melting point, enclosed in a non-conducting casing. It is connected in series with the live wire. Under normal current, the fuse acts as a conductor. If the current exceeds the rated value (due to short circuit or overload), the heat generated (I²R) melts the fuse wire, breaking the circuit. This stops the current flow, preventing overheating and possible fire. Fuses are rated in amperes (e.g., 5A, 10A)."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Compare series and parallel connections of resistors based on (i) current, (ii) voltage, (iii) equivalent resistance, (iv) effect of one component failing.",
+      "options": [],
+      "answer": "(i) Current: Series: Same current through all resistors. Parallel: Total current is sum of branch currents; current divides inversely with resistance. (ii) Voltage: Series: Total voltage is sum of voltages across each resistor. Parallel: Same voltage across all resistors. (iii) Equivalent Resistance: Series: Rs = R1+R2+... > largest individual R. Parallel: 1/Rp = 1/R1+1/R2+... ; Rp < smallest individual R. (iv) Effect of Failure: Series: If one resistor fails (open circuit), the entire circuit breaks; no current flows. Parallel: If one resistor fails, current still flows through other paths; other appliances work."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Solve: A current of 0.5 A flows through a conductor for 2 minutes. Calculate the charge that passes through the conductor.",
+      "options": [],
+      "answer": "Given: I = 0.5 A, t = 2 minutes = 120 s. Charge Q = I × t = 0.5 A × 120 s = 60 Coulombs."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Solve: The resistance of a wire of length 2 m and cross-sectional area 0.5 mm² is 10 Ω. Calculate its resistivity.",
+      "options": [],
+      "answer": "Given: L = 2 m, A = 0.5 mm² = 0.5 × 10^(-6) m² = 5 × 10^(-7) m², R = 10 Ω. Resistivity ρ = R A / L = (10 Ω × 5 × 10^(-7) m²) / 2 m = (50 × 10^(-7)) / 2 = 25 × 10^(-7) Ω m = 2.5 × 10^(-6) Ω m."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Solve: Three resistors of 2 Ω, 3 Ω, and 6 Ω are connected in parallel. Find the equivalent resistance.",
+      "options": [],
+      "answer": "Given: R1=2 Ω, R2=3 Ω, R3=6 Ω. For parallel, 1/Rp = 1/R1 + 1/R2 + 1/R3 = 1/2 + 1/3 + 1/6 = (3+2+1)/6 = 6/6 = 1. So, Rp = 1 Ω. The equivalent resistance is 1 Ω."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Solve: Two resistors of 4 Ω and 12 Ω are connected in series across a 16 V battery. Calculate the current in the circuit and the voltage across each resistor.",
+      "options": [],
+      "answer": "Given: R1=4 Ω, R2=12 Ω, V=16 V. Series equivalent Rs = 4+12 = 16 Ω. Current I = V/Rs = 16 V / 16 Ω = 1 A. Voltage across R1: V1 = I R1 = 1 A × 4 Ω = 4 V. Voltage across R2: V2 = I R2 = 1 A × 12 Ω = 12 V. (Check: V1+V2=16 V)"
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Why is tungsten used as a filament in electric bulbs? Explain with reference to resistivity.",
+      "options": [],
+      "answer": "Tungsten is used as a filament in electric bulbs because: 1. It has a very high melting point (~3422°C), so it can withstand the high temperatures needed to emit light without melting. 2. It has a high resistivity (about 5.6×10^(-8) Ω m), which allows it to have sufficient resistance even in a compact coil form to produce heat and light when current passes. 3. It has good mechanical strength and can be drawn into thin wires. Its high resistivity and high melting point make it ideal for converting electrical energy into light and heat efficiently."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Explain why the resistance of a conductor increases with temperature.",
+      "options": [],
+      "answer": "In a conductor, resistance increases with temperature because as temperature rises, the atoms/ions in the lattice vibrate more vigorously. This increases the frequency of collisions between the free electrons (charge carriers) and the lattice ions. These collisions hinder the drift of electrons, increasing the opposition to current flow, i.e., resistance. For most metals, resistivity (and hence resistance) increases linearly with temperature over a limited range."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What precautions should be taken while using electricity? List at least four.",
+      "options": [],
+      "answer": "1. Do not touch electrical switches or appliances with wet hands. Water is a conductor and can cause electric shock. 2. Do not insert pins or metal objects into sockets. Use plugs properly. 3. Always use proper insulated tools and wear rubber-soled footwear when handling electrical repairs. 4. Do not overload sockets with too many appliances. Use appropriate rated fuses. 5. Before cleaning an appliance, switch it off and unplug it. 6. In case of electric shock, do not touch the victim directly; switch off the main supply or use a dry wooden stick to separate the victim from the source."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Draw a labelled diagram of a simple electric circuit containing a cell, a bulb, a plug key, and connecting wires. Mark the direction of conventional current.",
+      "options": [],
+      "answer": "(Description for diagram): The circuit diagram should show: A cell (long line positive, short line negative). A bulb (circle with a cross inside or a symbol for lamp). A plug key (open switch symbol). Connecting wires (straight lines connecting components in a closed loop). The direction of conventional current should be marked with an arrow pointing from the positive terminal of the cell, through the switch, through the bulb, and back to the negative terminal of the cell. This is opposite to the actual electron flow."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'free electrons' in metals and their role in conduction.",
+      "options": [],
+      "answer": "In metallic atoms, the outermost electrons are loosely bound to the nucleus due to the metallic bond. These are called 'free electrons'. They are not attached to any specific atom and can move randomly within the metal lattice. When no potential difference is applied, their motion is random with no net direction. When a potential difference is applied across the conductor, an electric field is established. The free electrons experience a force opposite to the field direction (since they are negative). This causes a net drift velocity towards the positive terminal. This collective drift constitutes an electric current. Thus, free electrons are the charge carriers in metals."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Why is copper commonly used for making electrical wires?",
+      "options": [],
+      "answer": "Copper is commonly used for electrical wires because: 1. It has very low resistivity (~1.7×10^(-8) Ω m), meaning it offers little resistance to current flow, minimizing energy loss as heat. 2. It is highly ductile and can be drawn into thin wires without breaking. 3. It is a good conductor of heat, helping dissipate any heat generated. 4. It is relatively abundant and cost-effective compared to other good conductors like silver. 5. It has good mechanical strength and does not oxidize (corrode) easily in air, ensuring long-lasting connections."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Solve: A copper wire has a diameter of 0.5 mm and a resistivity of 1.7×10^(-8) Ω m. What will be the length of this wire to make its resistance 10 Ω?",
+      "options": [],
+      "answer": "Given: d=0.5 mm = 0.5×10^(-3) m, so radius r = 0.25×10^(-3) m. Area A = πr² = 3.14×(0.25×10^(-3))² = 3.14×6.25×10^(-8) ≈ 1.9625×10^(-7) m². ρ = 1.7×10^(-8) Ω m, R = 10 Ω. Formula: R = ρ L/A ⇒ L = R A / ρ = (10 Ω × 1.9625×10^(-7) m²) / (1.7×10^(-8) Ω m) ≈ (1.9625×10^(-6)) / (1.7×10^(-8)) ≈ 115.44 m. So, length required is approximately 115.44 m."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Describe the activity with two plastic bottles and a rubber tube to understand potential difference. What does it demonstrate?",
+      "options": [],
+      "answer": "Activity: Two plastic bottles are connected by a rubber tube with a clamp. One bottle is placed higher than the other and filled with more water (higher water level). When the clamp is removed, water flows from the bottle at a higher level to the one at a lower level until the levels equalize. This demonstrates that flow is driven by a difference in level (potential). Similarly, electric current flows due to a difference in electric potential (voltage). To keep water flowing longer, maintain a constant difference in levels by continuously adding water to the higher bottle. This is analogous to a battery maintaining a constant potential difference."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What are the advantages of connecting electrical appliances in parallel in domestic wiring?",
+      "options": [],
+      "answer": "Advantages of parallel connection in homes: 1. Same Voltage: Each appliance gets the full mains voltage (220V), necessary for proper operation. 2. Independent Operation: Appliances can be switched on/off independently. 3. No Effect of Failure: If one appliance fails (or is switched off), others continue to work. 4. Easy to Add Appliances: New appliances can be added without affecting the others. 5. Appropriate Current Draw: Each appliance draws current according to its power (I = P/V), preventing overloading of a single circuit (if wiring is proper)."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the role of the earth wire in ensuring safety.",
+      "options": [],
+      "answer": "The earth wire is a safety wire connected to the ground via a metal plate. Its role: In case of a fault (e.g., live wire insulation breaks and touches the metal body of an appliance), the metal body becomes live, posing a shock hazard. The earth wire, being connected to the body, provides a low-resistance path to the ground. The large fault current flows easily through this path instead of through a person touching the appliance. This either blows the fuse (breaking the circuit) or ensures the potential of the body remains close to ground, preventing severe electric shock. It is especially crucial for appliances with metal casings like refrigerators, washing machines."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What are superconductors? Mention one potential application.",
+      "options": [],
+      "answer": "Superconductors are materials that exhibit zero electrical resistance when cooled below a certain critical temperature (very low, close to 0 K or absolute zero). At this state, electric current can flow through them indefinitely without any energy loss. Application: 1. Powerful electromagnets used in MRI (Magnetic Resonance Imaging) machines in hospitals. 2. Maglev (magnetic levitation) trains that float above tracks, reducing friction. 3. Loss-less power transmission cables (though cooling challenge exists). 4. High-speed electronic circuits and sensitive magnetic field detectors (SQUIDs)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Why does a bulb become dim when another bulb is connected in series with it?",
+      "options": [],
+      "answer": "When bulbs are connected in series, the total resistance of the circuit increases (R_total = R1 + R2). For a fixed voltage (from the battery), the current in the circuit decreases according to I = V / R_total. The brightness of a bulb depends on the power dissipated (P = I²R). Since the current through each bulb is the same but reduced, the power (and thus brightness) of each bulb decreases. In fact, both bulbs glow dimmer than if connected individually. If more bulbs are added in series, the current decreases further, making them even dimmer."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Solve: An electric heater of resistance 50 Ω is connected to a 220 V supply. Calculate the current drawn and the energy consumed if it operates for 2 hours.",
+      "options": [],
+      "answer": "Given: R = 50 Ω, V = 220 V, t = 2 hours = 7200 s. Current I = V/R = 220 V / 50 Ω = 4.4 A. Energy consumed (in joules) = I² R t = (4.4)² × 50 × 7200 = 19.36 × 50 × 7200 = 968 × 7200 = 6,969,600 J. In commercial units (kWh): Power P = V I = 220 × 4.4 = 968 W = 0.968 kW. Energy = P × t (hours) = 0.968 kW × 2 h = 1.936 kWh (units)."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Explain the difference between a cell and a battery. Draw their circuit symbols.",
+      "options": [],
+      "answer": "A cell is a single unit that converts chemical energy into electrical energy, producing a potential difference (e.g., 1.5 V). Symbol: A long thin line (positive terminal) and a short thick line (negative terminal). A battery is a combination of two or more cells connected in series (or parallel) to provide a higher voltage (or more current). Symbol: Multiple cell symbols placed next to each other, with alternating long and short lines. For example, two cells in series: long-short, long-short, with the adjacent short and long lines connected internally (often not shown explicitly in the simple symbol)."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "List the standard symbols used in circuit diagrams for: cell, battery, resistor, variable resistor, ammeter, voltmeter, bulb, open switch, closed switch.",
+      "options": [],
+      "answer": "1. Cell: Long line (+), short line (-). 2. Battery: Two or more cell symbols in series. 3. Resistor: Zigzag line or rectangle. 4. Variable Resistor: Resistor symbol with an arrow through it or diagonal arrow pointing at it. 5. Ammeter: Circle with letter 'A' inside. 6. Voltmeter: Circle with letter 'V' inside. 7. Bulb (Lamp): Circle with a cross inside or a circle with an 'X'. 8. Open Switch (Key): Line with a break, or a gap with a line not touching. 9. Closed Switch (Key): Line with a bridge connecting the break, or a line touching both sides."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "What is meant by 'effective resistance'? How is it calculated for series and parallel combinations?",
+      "options": [],
+      "answer": "Effective resistance (or equivalent resistance) is the single resistance that can replace a combination of resistors without changing the current drawn from the source or the potential difference across the combination. For Series: Effective resistance Rs = R1 + R2 + R3 + ... (sum of all resistances). For Parallel: The reciprocal of effective resistance is the sum of reciprocals: 1/Rp = 1/R1 + 1/R2 + 1/R3 + ... . Then Rp is calculated. These formulas allow simplifying complex circuits for analysis using Ohm's law."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the key safety measures to prevent electrical accidents at home.",
+      "options": [],
+      "answer": "Key safety measures: 1. Use proper insulation on wires and check for wear. 2. Install fuses/MCBs of correct rating to prevent overloading. 3. Always use 3-pin plugs with proper earthing for appliances. 4. Keep electrical appliances away from water and do not handle with wet hands. 5. Do not insert metal objects into sockets. Use socket guards for child safety. 6. Avoid running wires under carpets or where they can be damaged. 7. Unplug appliances when not in use and before cleaning. 8. Get wiring checked periodically by a qualified electrician. 9. In case of fire due to short circuit, use CO2 fire extinguisher, not water. 10. Know the location of the main switch to cut off power in emergencies."
+    }
+  ]
+}

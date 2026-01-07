@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.11",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Transport and Communication"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the primary purpose of a 'Green Corridor' in transport?",
+      "options": [
+        { "option_id": 1, "text": "To reduce traffic congestion", "is_correct": false },
+        { "option_id": 2, "text": "To transport donated organs quickly and safely", "is_correct": true },
+        { "option_id": 3, "text": "To promote eco-friendly vehicles", "is_correct": false },
+        { "option_id": 4, "text": "To facilitate military movements", "is_correct": false }
+      ],
+      "answer": "To transport donated organs quickly and safely"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which factor is NOT typically considered while selecting a transport route?",
+      "options": [
+        { "option_id": 1, "text": "Distance", "is_correct": false },
+        { "option_id": 2, "text": "Cost", "is_correct": false },
+        { "option_id": 3, "text": "Color of the vehicle", "is_correct": true },
+        { "option_id": 4, "text": "Physiography", "is_correct": false }
+      ],
+      "answer": "Color of the vehicle"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does RoRo transport stand for?",
+      "options": [
+        { "option_id": 1, "text": "Road on Rail", "is_correct": false },
+        { "option_id": 2, "text": "Roll-on Roll-off", "is_correct": true },
+        { "option_id": 3, "text": "Rapid on Route", "is_correct": false },
+        { "option_id": 4, "text": "Route on Rail", "is_correct": false }
+      ],
+      "answer": "Roll-on Roll-off"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which type of transport is most suitable for sending Alphonso mangoes from Konkan to Arab countries?",
+      "options": [
+        { "option_id": 1, "text": "Roadways", "is_correct": false },
+        { "option_id": 2, "text": "Railways", "is_correct": false },
+        { "option_id": 3, "text": "Airways", "is_correct": true },
+        { "option_id": 4, "text": "Pipelines", "is_correct": false }
+      ],
+      "answer": "Airways"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following is a modern means of communication?",
+      "options": [
+        { "option_id": 1, "text": "Newspapers", "is_correct": false },
+        { "option_id": 2, "text": "Postal services", "is_correct": false },
+        { "option_id": 3, "text": "Mobile phones with internet", "is_correct": true },
+        { "option_id": 4, "text": "Telegrams", "is_correct": false }
+      ],
+      "answer": "Mobile phones with internet"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does a dense network of transport routes in a region usually indicate?",
+      "options": [
+        { "option_id": 1, "text": "Low economic development", "is_correct": false },
+        { "option_id": 2, "text": "High economic development and accessibility", "is_correct": true },
+        { "option_id": 3, "text": "Mountainous terrain", "is_correct": false },
+        { "option_id": 4, "text": "Lack of population", "is_correct": false }
+      ],
+      "answer": "High economic development and accessibility"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these is a threat associated with modern communication?",
+      "options": [
+        { "option_id": 1, "text": "Increased travel time", "is_correct": false },
+        { "option_id": 2, "text": "Cyber attacks and fraud", "is_correct": true },
+        { "option_id": 3, "text": "Higher transport costs", "is_correct": false },
+        { "option_id": 4, "text": "Lack of infrastructure", "is_correct": false }
+      ],
+      "answer": "Cyber attacks and fraud"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the main advantage of using RoRo transport?",
+      "options": [
+        { "option_id": 1, "text": "It increases fuel consumption.", "is_correct": false },
+        { "option_id": 2, "text": "It reduces transport cost and pollution by using railways for part of the journey.", "is_correct": true },
+        { "option_id": 3, "text": "It is faster than airways.", "is_correct": false },
+        { "option_id": 4, "text": "It is used only for passenger transport.", "is_correct": false }
+      ],
+      "answer": "It reduces transport cost and pollution by using railways for part of the journey."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of invisible trade?",
+      "options": [
+        { "option_id": 1, "text": "Transporting goods via truck", "is_correct": false },
+        { "option_id": 2, "text": "Paying for an online consultation", "is_correct": true },
+        { "option_id": 3, "text": "Exporting rice", "is_correct": false },
+        { "option_id": 4, "text": "Importing crude oil", "is_correct": false }
+      ],
+      "answer": "Paying for an online consultation"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the primary function of artificial satellites in communication?",
+      "options": [
+        { "option_id": 1, "text": "To build roads", "is_correct": false },
+        { "option_id": 2, "text": "To enable global exchange of information, TV signals, and weather updates", "is_correct": true },
+        { "option_id": 3, "text": "To transport goods", "is_correct": false },
+        { "option_id": 4, "text": "To generate electricity", "is_correct": false }
+      ],
+      "answer": "To enable global exchange of information, TV signals, and weather updates"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which mode of transport is best for reaching Kanyakumari from Maharashtra with no time limit?",
+      "options": [
+        { "option_id": 1, "text": "Airways", "is_correct": false },
+        { "option_id": 2, "text": "Railways", "is_correct": true },
+        { "option_id": 3, "text": "Waterways", "is_correct": false },
+        { "option_id": 4, "text": "Pipelines", "is_correct": false }
+      ],
+      "answer": "Railways"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the term 'physiography' refer to in the context of transport?",
+      "options": [
+        { "option_id": 1, "text": "The political boundaries of a region", "is_correct": false },
+        { "option_id": 2, "text": "The physical features like hills, valleys, and plains of a region", "is_correct": true },
+        { "option_id": 3, "text": "The economic activities of a region", "is_correct": false },
+        { "option_id": 4, "text": "The cultural practices of a region", "is_correct": false }
+      ],
+      "answer": "The physical features like hills, valleys, and plains of a region"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is a benefit of well-developed transportation?",
+      "options": [
+        { "option_id": 1, "text": "Increased regional imbalance", "is_correct": false },
+        { "option_id": 2, "text": "Rapid industrialisation and employment opportunities", "is_correct": true },
+        { "option_id": 3, "text": "Higher cost of goods", "is_correct": false },
+        { "option_id": 4, "text": "Decreased trade", "is_correct": false }
+      ],
+      "answer": "Rapid industrialisation and employment opportunities"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the main purpose of using BHIM or SBI Anywhere apps?",
+      "options": [
+        { "option_id": 1, "text": "To book flight tickets", "is_correct": false },
+        { "option_id": 2, "text": "To make online payments and money transfers", "is_correct": true },
+        { "option_id": 3, "text": "To navigate transport routes", "is_correct": false },
+        { "option_id": 4, "text": "To communicate via satellite", "is_correct": false }
+      ],
+      "answer": "To make online payments and money transfers"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which transport route is most affected by physiography like mountains and valleys?",
+      "options": [
+        { "option_id": 1, "text": "Airways", "is_correct": false },
+        { "option_id": 2, "text": "Roadways and Railways", "is_correct": true },
+        { "option_id": 3, "text": "Pipelines", "is_correct": false },
+        { "option_id": 4, "text": "Waterways", "is_correct": false }
+      ],
+      "answer": "Roadways and Railways"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the crime depicted in the image showing a demand for Bitcoin to decrypt files?",
+      "options": [
+        { "option_id": 1, "text": "Theft", "is_correct": false },
+        { "option_id": 2, "text": "Ransomware attack", "is_correct": true },
+        { "option_id": 3, "text": "Phishing", "is_correct": false },
+        { "option_id": 4, "text": "Identity fraud", "is_correct": false }
+      ],
+      "answer": "Ransomware attack"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of the following is a conventional means of communication?",
+      "options": [
+        { "option_id": 1, "text": "Email", "is_correct": false },
+        { "option_id": 2, "text": "Video conferencing", "is_correct": false },
+        { "option_id": 3, "text": "Newspaper", "is_correct": true },
+        { "option_id": 4, "text": "Social media", "is_correct": false }
+      ],
+      "answer": "Newspaper"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Why is transportation considered a basic infrastructure?",
+      "options": [
+        { "option_id": 1, "text": "It is only used for personal travel.", "is_correct": false },
+        { "option_id": 2, "text": "It indicates the development of a region and supports economic growth.", "is_correct": true },
+        { "option_id": 3, "text": "It is the cheapest mode of moving goods.", "is_correct": false },
+        { "option_id": 4, "text": "It is unaffected by geography.", "is_correct": false }
+      ],
+      "answer": "It indicates the development of a region and supports economic growth."
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which mode of transport would you choose to send Indrayani rice from Pune to Cape Town at low cost?",
+      "options": [
+        { "option_id": 1, "text": "Airways", "is_correct": false },
+        { "option_id": 2, "text": "Waterways (ship)", "is_correct": true },
+        { "option_id": 3, "text": "Roadways", "is_correct": false },
+        { "option_id": 4, "text": "Pipelines", "is_correct": false }
+      ],
+      "answer": "Waterways (ship)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the role of remote sensing satellites in communication?",
+      "options": [
+        { "option_id": 1, "text": "They transport goods.", "is_correct": false },
+        { "option_id": 2, "text": "They help in studying earth's resources and regional planning.", "is_correct": true },
+        { "option_id": 3, "text": "They provide internet connectivity.", "is_correct": false },
+        { "option_id": 4, "text": "They are used for passenger travel.", "is_correct": false }
+      ],
+      "answer": "They help in studying earth's resources and regional planning."
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is a major disadvantage of truck transport compared to railways?",
+      "options": [
+        { "option_id": 1, "text": "It is slower.", "is_correct": false },
+        { "option_id": 2, "text": "It is costlier and causes more pollution.", "is_correct": true },
+        { "option_id": 3, "text": "It cannot carry heavy goods.", "is_correct": false },
+        { "option_id": 4, "text": "It is not available in remote areas.", "is_correct": false }
+      ],
+      "answer": "It is costlier and causes more pollution."
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of the following is a safety precaution while using social media?",
+      "options": [
+        { "option_id": 1, "text": "Share personal information publicly.", "is_correct": false },
+        { "option_id": 2, "text": "Avoid revealing sensitive personal information.", "is_correct": true },
+        { "option_id": 3, "text": "Use simple passwords.", "is_correct": false },
+        { "option_id": 4, "text": "Click on unknown links.", "is_correct": false }
+      ],
+      "answer": "Avoid revealing sensitive personal information."
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does the sparse transport network in the western part of Satara district indicate?",
+      "options": [
+        { "option_id": 1, "text": "High population density", "is_correct": false },
+        { "option_id": 2, "text": "Mountainous and rugged terrain", "is_correct": true },
+        { "option_id": 3, "text": "Well-developed industries", "is_correct": false },
+        { "option_id": 4, "text": "Excellent road conditions", "is_correct": false }
+      ],
+      "answer": "Mountainous and rugged terrain"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of using communication for economic transactions?",
+      "options": [
+        { "option_id": 1, "text": "Watching TV", "is_correct": false },
+        { "option_id": 2, "text": "Reading a newspaper", "is_correct": false },
+        { "option_id": 3, "text": "Paying bills through mobile apps", "is_correct": true },
+        { "option_id": 4, "text": "Sending a letter", "is_correct": false }
+      ],
+      "answer": "Paying bills through mobile apps"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the main benefit of video conferencing?",
+      "options": [
+        { "option_id": 1, "text": "It is cheaper than sending an email.", "is_correct": false },
+        { "option_id": 2, "text": "It allows talking to many people simultaneously across locations.", "is_correct": true },
+        { "option_id": 3, "text": "It does not require internet.", "is_correct": false },
+        { "option_id": 4, "text": "It is only for personal use.", "is_correct": false }
+      ],
+      "answer": "It allows talking to many people simultaneously across locations."
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a means of communication?",
+      "options": [
+        { "option_id": 1, "text": "Telephone", "is_correct": false },
+        { "option_id": 2, "text": "Truck", "is_correct": true },
+        { "option_id": 3, "text": "Newspaper", "is_correct": false },
+        { "option_id": 4, "text": "Satellite", "is_correct": false }
+      ],
+      "answer": "Truck"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "How does transportation help in decreasing regional imbalance?",
+      "options": [
+        { "option_id": 1, "text": "By increasing travel time", "is_correct": false },
+        { "option_id": 2, "text": "By connecting remote areas to markets and services", "is_correct": true },
+        { "option_id": 3, "text": "By making transport costlier", "is_correct": false },
+        { "option_id": 4, "text": "By limiting trade", "is_correct": false }
+      ],
+      "answer": "By connecting remote areas to markets and services"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the primary use of a submarine in transport?",
+      "options": [
+        { "option_id": 1, "text": "Passenger travel", "is_correct": false },
+        { "option_id": 2, "text": "Underwater freight and military purposes", "is_correct": true },
+        { "option_id": 3, "text": "Tourism", "is_correct": false },
+        { "option_id": 4, "text": "Air travel", "is_correct": false }
+      ],
+      "answer": "Underwater freight and military purposes"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which factor is crucial for selecting airways as a mode of transport?",
+      "options": [
+        { "option_id": 1, "text": "Low cost", "is_correct": false },
+        { "option_id": 2, "text": "Urgency and long distance", "is_correct": true },
+        { "option_id": 3, "text": "Heavy cargo", "is_correct": false },
+        { "option_id": 4, "text": "Short distance", "is_correct": false }
+      ],
+      "answer": "Urgency and long distance"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the relationship between transport routes and physiography?",
+      "options": [
+        { "option_id": 1, "text": "Physiography has no effect on transport routes.", "is_correct": false },
+        { "option_id": 2, "text": "Plains facilitate dense transport networks, while mountains limit them.", "is_correct": true },
+        { "option_id": 3, "text": "Transport routes change the physiography of a region.", "is_correct": false },
+        { "option_id": 4, "text": "Physiography only affects waterways.", "is_correct": false }
+      ],
+      "answer": "Plains facilitate dense transport networks, while mountains limit them."
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of the following is a characteristic of a developed transport system?",
+      "options": [
+        { "option_id": 1, "text": "High regional imbalance", "is_correct": false },
+        { "option_id": 2, "text": "Increased GDP and per capita income", "is_correct": true },
+        { "option_id": 3, "text": "Limited trade", "is_correct": false },
+        { "option_id": 4, "text": "Sparse network in plains", "is_correct": false }
+      ],
+      "answer": "Increased GDP and per capita income"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the main purpose of the 'Can you do it?' activity involving sending an email?",
+      "options": [
+        { "option_id": 1, "text": "To teach how to travel", "is_correct": false },
+        { "option_id": 2, "text": "To demonstrate the use of modern communication for sharing information", "is_correct": true },
+        { "option_id": 3, "text": "To explain transport routes", "is_correct": false },
+        { "option_id": 4, "text": "To discuss physiography", "is_correct": false }
+      ],
+      "answer": "To demonstrate the use of modern communication for sharing information"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which transport mode is most suitable for transporting large quantities of vegetables from Nandurbar to markets?",
+      "options": [
+        { "option_id": 1, "text": "Airways", "is_correct": false },
+        { "option_id": 2, "text": "Railways or roadways (using available highway and rail line)", "is_correct": true },
+        { "option_id": 3, "text": "Pipelines", "is_correct": false },
+        { "option_id": 4, "text": "Waterways", "is_correct": false }
+      ],
+      "answer": "Railways or roadways (using available highway and rail line)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Why is communication considered a basic infrastructure?",
+      "options": [
+        { "option_id": 1, "text": "It is only used for entertainment.", "is_correct": false },
+        { "option_id": 2, "text": "It enables exchange of information essential for economic and social activities.", "is_correct": true },
+        { "option_id": 3, "text": "It replaces all transport systems.", "is_correct": false },
+        { "option_id": 4, "text": "It is the oldest human activity.", "is_correct": false }
+      ],
+      "answer": "It enables exchange of information essential for economic and social activities."
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does the image of cyber war in the chapter illustrate?",
+      "options": [
+        { "option_id": 1, "text": "Benefits of internet", "is_correct": false },
+        { "option_id": 2, "text": "Threats and vulnerabilities in digital communication", "is_correct": true },
+        { "option_id": 3, "text": "Advancements in satellite technology", "is_correct": false },
+        { "option_id": 4, "text": "Transportation networks", "is_correct": false }
+      ],
+      "answer": "Threats and vulnerabilities in digital communication"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of the following is a use of artificial satellites in daily life?",
+      "options": [
+        { "option_id": 1, "text": "Forecasting weather", "is_correct": false },
+        { "option_id": 2, "text": "GPS navigation", "is_correct": false },
+        { "option_id": 3, "text": "Television broadcasting", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the key difference between transportation and communication?",
+      "options": [
+        { "option_id": 1, "text": "Transportation moves goods/people; communication exchanges information.", "is_correct": true },
+        { "option_id": 2, "text": "Transportation is only for goods; communication is only for people.", "is_correct": false },
+        { "option_id": 3, "text": "Transportation uses technology; communication does not.", "is_correct": false },
+        { "option_id": 4, "text": "Transportation is cheaper than communication.", "is_correct": false }
+      ],
+      "answer": "Transportation moves goods/people; communication exchanges information."
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which mode of transport is most likely to be used for a trip from a village to Singapore in 10 days?",
+      "options": [
+        { "option_id": 1, "text": "Roadways", "is_correct": false },
+        { "option_id": 2, "text": "Railways", "is_correct": false },
+        { "option_id": 3, "text": "Airways", "is_correct": true },
+        { "option_id": 4, "text": "Waterways", "is_correct": false }
+      ],
+      "answer": "Airways"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the significance of studying both a physical map and a transport map together?",
+      "options": [
+        { "option_id": 1, "text": "To understand political boundaries", "is_correct": false },
+        { "option_id": 2, "text": "To see how physiography influences transport network patterns", "is_correct": true },
+        { "option_id": 3, "text": "To calculate distances only", "is_correct": false },
+        { "option_id": 4, "text": "To find tourist spots", "is_correct": false }
+      ],
+      "answer": "To see how physiography influences transport network patterns"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which of the following is a benefit of using pipelines for transport?",
+      "options": [
+        { "option_id": 1, "text": "They can carry passengers.", "is_correct": false },
+        { "option_id": 2, "text": "They are ideal for transporting liquids and gases over long distances continuously.", "is_correct": true },
+        { "option_id": 3, "text": "They are the fastest mode of transport.", "is_correct": false },
+        { "option_id": 4, "text": "They are unaffected by terrain.", "is_correct": false }
+      ],
+      "answer": "They are ideal for transporting liquids and gases over long distances continuously."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is a Green Corridor?",
+      "options": [],
+      "answer": "A Green Corridor is a special transport route cleared of all obstacles to enable rapid transport of donated organs from donor to receiver."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Define RoRo transport.",
+      "options": [],
+      "answer": "RoRo (Roll-on Roll-off) transport is a system where trucks loaded with goods are carried on goods trains for part of the journey to reduce cost and pollution."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Name two factors to consider while selecting a transport route.",
+      "options": [],
+      "answer": "Distance and cost."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Give one example of a modern means of communication.",
+      "options": [],
+      "answer": "Mobile phone with internet access."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What does physiography mean?",
+      "options": [],
+      "answer": "Physiography refers to the physical features of a region, such as mountains, valleys, plains, and rivers."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "List one threat associated with internet communication.",
+      "options": [],
+      "answer": "Cyber attacks or ransomware."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Why is transportation considered a basic infrastructure?",
+      "options": [],
+      "answer": "Because it supports economic growth, trade, and regional connectivity, indicating the development of a region."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the main advantage of waterways for transporting heavy goods?",
+      "options": [],
+      "answer": "Waterways are cost-effective for transporting heavy and bulky goods over long distances."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name one conventional means of communication.",
+      "options": [],
+      "answer": "Newspaper or postal service."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the role of satellites in communication?",
+      "options": [],
+      "answer": "Satellites enable global communication, broadcasting, weather forecasting, and remote sensing."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How does a dense transport network benefit a region?",
+      "options": [],
+      "answer": "It improves accessibility, boosts trade, and supports economic development."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the primary use of pipelines?",
+      "options": [],
+      "answer": "To transport liquids and gases like oil, water, and natural gas."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one mobile app used for digital payments in India.",
+      "options": [],
+      "answer": "BHIM app or SBI Anywhere."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does the term 'remote sensing' mean?",
+      "options": [],
+      "answer": "Remote sensing is the process of collecting information about Earth's surface using satellites or aircraft without physical contact."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why should personal information not be shared on social media?",
+      "options": [],
+      "answer": "To prevent identity theft, fraud, and cyber crimes."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the main difference between railways and roadways?",
+      "options": [],
+      "answer": "Railways are suitable for heavy goods and long-distance travel on fixed tracks, while roadways offer flexibility for short distances and door-to-door service."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one benefit of using video conferencing.",
+      "options": [],
+      "answer": "It allows real-time communication with multiple people across different locations."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the significance of National Highways?",
+      "options": [],
+      "answer": "They connect major cities and states, facilitating long-distance road transport and trade."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How does communication help in education?",
+      "options": [],
+      "answer": "Through online classes, educational videos, and access to information via the internet."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is a ransomware attack?",
+      "options": [],
+      "answer": "A cyber attack where hackers encrypt a victim's files and demand payment for their release."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which mode of transport is fastest for long-distance travel?",
+      "options": [],
+      "answer": "Airways."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does GDP stand for?",
+      "options": [],
+      "answer": "Gross Domestic Product."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one way transport reduces regional imbalance.",
+      "options": [],
+      "answer": "By connecting remote areas to markets and services, promoting economic opportunities."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the main function of a mobile tower?",
+      "options": [],
+      "answer": "To transmit and receive signals for mobile communication."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is cost an important factor in choosing transport?",
+      "options": [],
+      "answer": "Because it affects the final price of goods and the affordability of travel."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the advantage of using railways for freight?",
+      "options": [],
+      "answer": "Railways are cost-effective and can carry large quantities of goods over long distances."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name one use of artificial satellites in daily life.",
+      "options": [],
+      "answer": "Weather forecasting or GPS navigation."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Make friends with maps' activity?",
+      "options": [],
+      "answer": "To understand the relationship between physiography and transport networks by reading maps."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How does communication support tourism?",
+      "options": [],
+      "answer": "Through advertisements, online bookings, and sharing travel information."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the main challenge in developing transport routes in mountainous areas?",
+      "options": [],
+      "answer": "Rugged terrain and high construction costs."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the factors that should be considered while selecting a mode of transport for goods or travel.",
+      "options": [],
+      "answer": "Several factors must be considered when selecting a mode of transport: 1) Distance: Long distances may favor airways or railways; short distances suit roadways. 2) Cost: Budget constraints influence choice; waterways are cheap for bulk goods, airways are expensive. 3) Time: Urgent deliveries require airways; no time limit allows cheaper options like railways or ships. 4) Nature of goods: Perishable items need fast transport (airways); liquids/gases use pipelines; heavy bulk uses waterways/railways. 5) Physiography: Terrain affects feasibility—plains support roads/rail; mountains may limit routes. 6) Safety and reliability: Fragile goods need careful handling; railways are safer for heavy cargo. Considering these ensures efficient, cost-effective, and appropriate transport."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the RoRo transport system and its benefits.",
+      "options": [],
+      "answer": "RoRo (Roll-on Roll-off) transport is a system where trucks or trailers loaded with goods are driven onto special railway wagons, transported by train for a part of the journey, and then driven off to their final destination. Benefits include: 1) Cost reduction: Using railways for the long-haul segment is cheaper than trucks running the entire distance. 2) Fuel savings: Reduces diesel consumption by trucks. 3) Lower pollution: Decreases carbon emissions and traffic congestion on roads. 4) Efficiency: Combines the flexibility of road transport with the economy of rail transport. 5) Time-saving: Avoids road traffic delays. Introduced first on Konkan Railway in India, RoRo is an innovative solution for freight logistics."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "How does physiography influence the development of transport networks? Use the example of Satara district.",
+      "options": [],
+      "answer": "Physiography—the physical features of a region—directly impacts transport network development. In Satara district, the western part has the Sahyadri mountains and undulating terrain with the Koyna Dam reservoir, making construction difficult and expensive. Hence, transport routes are sparse there. The central and eastern parts have lower elevations and flatter land, facilitating easier construction of roads and railways. A National Highway and railway line pass through the central region, supported by connecting roads, creating a dense network. Thus, plains encourage dense transport networks, while mountainous or rugged areas limit route development due to engineering challenges and higher costs."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Discuss the importance of transportation for economic development.",
+      "options": [],
+      "answer": "Transportation is vital for economic development because: 1) It enables trade by moving goods from production centers to markets, locally and internationally. 2) It supports industrialization by supplying raw materials and distributing finished products. 3) It creates employment in logistics, construction, and services. 4) It enhances regional connectivity, reducing isolation and promoting balanced growth. 5) It lowers product costs through efficient logistics, making goods affordable. 6) It boosts tourism by improving accessibility. 7) It increases GDP and per capita income by stimulating economic activities. A well-developed transport infrastructure is a key indicator of a region's prosperity and dynamic economy."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Compare and contrast conventional and modern means of communication.",
+      "options": [],
+      "answer": "Conventional means of communication include newspapers, postal mail, telegrams, and landline telephones. They are typically slower, involve physical movement, and have limited reach. Modern means include mobile phones, internet, email, social media, video conferencing, and satellites. They are instantaneous, digital, and have global reach. Key differences: 1) Speed: Modern communication is real-time; conventional can take days. 2) Reach: Modern means are global; conventional are often local or national. 3) Interactivity: Modern allows two-way interaction (e.g., video calls); conventional is often one-way (e.g., newspaper). 4) Cost: Modern can be cheaper (e.g., free emails); conventional may involve postage or printing costs. Both serve to exchange information, but modern means offer greater efficiency, accessibility, and versatility."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the role of artificial satellites in communication and daily life.",
+      "options": [],
+      "answer": "Artificial satellites play a crucial role in communication and daily life: 1) Telecommunications: They enable global phone calls, TV broadcasting, and internet connectivity, especially in remote areas. 2) Weather forecasting: Satellites monitor atmospheric conditions, providing data for accurate weather predictions. 3) Navigation: GPS satellites allow precise location tracking for maps, travel, and logistics. 4) Remote sensing: They capture images of Earth's surface for resource management, agriculture, urban planning, and disaster monitoring. 5) Education and research: Satellites support distance learning and scientific studies. 6) Defense and security: Used for surveillance and secure communication. Essentially, satellites have made the world interconnected, providing real-time information and services that enhance modern living."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "What are the threats associated with modern digital communication? How can users protect themselves?",
+      "options": [],
+      "answer": "Modern digital communication faces threats like: 1) Cyber attacks: Hacking, ransomware, and malware that steal data or disrupt services. 2) Fraud: Phishing scams and online financial fraud. 3) Privacy invasion: Unauthorized access to personal information. 4) Misinformation: Spread of fake news and propaganda. Users can protect themselves by: 1) Using strong, unique passwords and enabling two-factor authentication. 2) Avoiding sharing sensitive personal information on social media. 3) Installing antivirus software and keeping systems updated. 4) Being cautious of suspicious emails or links. 5) Using secure networks for transactions. 6) Educating themselves about cyber threats. Awareness and precautionary measures are essential to safely navigate the digital world."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Why is it important to study both physical and transport maps together?",
+      "options": [],
+      "answer": "Studying physical and transport maps together is important to understand the relationship between geography and infrastructure. Physical maps show natural features like mountains, rivers, and plains, while transport maps show roads, railways, and routes. By overlaying them, we can see: 1) How terrain influences route density—plains have dense networks; mountains have sparse ones. 2) Why certain areas lack transport—rugged terrain or water bodies may be barriers. 3) How human settlements and economic activities align with accessible regions. 4) Planning needs: Identifying where infrastructure development is feasible or challenging. This combined analysis helps in regional planning, understanding accessibility, and explaining patterns of development and connectivity."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe how communication has evolved from conventional to modern means and its impact on society.",
+      "options": [],
+      "answer": "Communication has evolved from conventional means like letters, newspapers, and telegrams—which were slow and limited—to modern digital means like mobile phones, internet, and satellites, offering instant, global connectivity. This evolution has impacted society profoundly: 1) Speed and efficiency: Information exchange is now real-time, accelerating business, education, and governance. 2) Globalization: People can connect across borders, fostering cultural exchange and international trade. 3) Accessibility: Even remote areas can access services like telemedicine and online education. 4) Economic growth: Digital payments, e-commerce, and online marketing have transformed economies. 5) Social interaction: Social media and messaging apps have changed how people interact. However, challenges like digital divide and cyber threats have also emerged. Overall, modern communication has made the world more interconnected and dynamic."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "How do transport and communication together contribute to national development?",
+      "options": [],
+      "answer": "Transport and communication are twin pillars of national development. Transport moves people and goods, enabling trade, industrialization, and accessibility. Communication exchanges information, facilitating coordination, education, and innovation. Together they: 1) Boost economy: Efficient transport reduces costs and expands markets; communication enables advertising and online business. 2) Enhance governance: Quick information flow aids administration and public services. 3) Promote social integration: They connect remote regions, reducing disparities and fostering unity. 4) Support education and health: Transport delivers resources; communication enables tele-education and telemedicine. 5) Strengthen security: Rapid movement of forces and secure communication are vital for defense. In essence, a synergy between transport and communication infrastructure drives comprehensive national progress and improves quality of life."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "What is a Green Corridor and under what circumstances is it used?",
+      "options": [],
+      "answer": "A Green Corridor is a specially cleared transport route, free from all traffic and obstacles, to allow rapid and unimpeded movement of donated organs from the donor's location to the recipient's hospital. It is used in medical emergencies when organs like heart, liver, or kidneys need to be transplanted within a critical time window to save a patient's life. Authorities coordinate with traffic police to ensure smooth passage, often using police escorts and temporarily halting regular traffic. This system minimizes transit time, preserving organ viability and increasing transplant success rates, showcasing how transport infrastructure can be adapted for lifesaving purposes."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain the advantages and disadvantages of airways as a mode of transport.",
+      "options": [],
+      "answer": "Advantages of airways: 1) Speed: Fastest mode for long distances, crucial for emergencies and perishable goods. 2) Accessibility: Can reach remote areas without ground infrastructure. 3) Safety: Low accident rates compared to roads. 4) Global reach: Connects countries across continents. Disadvantages: 1) High cost: Most expensive mode, affecting affordability. 2) Limited capacity: Cannot carry very heavy or bulky goods economically. 3) Weather dependency: Flights can be delayed or canceled due to bad weather. 4) Environmental impact: High fuel consumption and carbon emissions. 5) Infrastructure needed: Requires airports, which are expensive to build and maintain. Airways are ideal for urgent, high-value, or lightweight items but less suitable for bulk freight."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "How has the internet transformed communication in recent years?",
+      "options": [],
+      "answer": "The internet has transformed communication by making it instant, interactive, and global. Key changes include: 1) Real-time interaction: Email, messaging, and video calls allow immediate communication across the world. 2) Social media: Platforms like Facebook and Twitter enable sharing of ideas, news, and personal updates on a massive scale. 3) Access to information: Vast knowledge is available online, empowering education and research. 4) E-commerce and digital payments: Online shopping and apps like BHIM have revolutionized trade and finance. 5) Remote work and learning: Internet enables telecommuting and online classes, breaking geographical barriers. 6) Citizen engagement: Governments use websites and apps for services and transparency. However, it also brings challenges like misinformation and cybercrime. Overall, the internet has made communication faster, more inclusive, and multifaceted."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "What is the significance of mobile towers in communication networks?",
+      "options": [],
+      "answer": "Mobile towers are critical components of wireless communication networks. They function as base stations that transmit and receive radio signals to and from mobile devices. Their significance includes: 1) Coverage: They provide cellular network coverage over a geographic area, enabling mobile phone calls, texting, and data services. 2) Connectivity: Towers link mobile users to the broader telecom network and internet. 3) Capacity: Multiple towers handle many simultaneous connections, supporting high user density. 4) Reliability: A well-distributed tower network ensures consistent service and reduces call drops. 5) Rural access: Towers can bring communication services to remote areas, bridging the digital divide. Without mobile towers, modern mobile communication would be impossible, making them essential for personal, business, and emergency communication."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Discuss the impact of cyber crimes on individuals and society.",
+      "options": [],
+      "answer": "Cyber crimes such as hacking, ransomware, phishing, and identity theft have severe impacts: On individuals: 1) Financial loss: Victims may lose money through fraud or ransom payments. 2) Privacy violation: Personal data can be stolen and misused. 3) Psychological stress: Victims experience anxiety and loss of trust. On society: 1) Economic damage: Businesses face losses and increased security costs. 2) Disruption of services: Attacks on critical infrastructure (e.g., banks, hospitals) can paralyze systems. 3) Spread of misinformation: Fake news can cause social unrest. 4) Erosion of trust: People may become wary of digital transactions. Combating cyber crimes requires strong laws, cybersecurity measures, and public awareness to protect both individuals and societal stability in the digital age."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "How does transport infrastructure affect the price of goods?",
+      "options": [],
+      "answer": "Transport infrastructure directly affects the price of goods through several mechanisms: 1) Transport cost: Efficient networks (like good roads or railways) reduce fuel and time costs, lowering the expense added to goods. 2) Speed: Faster transport reduces spoilage of perishable items, minimizing losses. 3) Accessibility: Better connectivity allows producers to reach larger markets, increasing competition and potentially lowering prices. 4) Scale: Bulk transport via rail or ship reduces per-unit cost. 5) Reliability: Consistent transport prevents delays that can cause shortages and price hikes. For example, vegetables from a well-connected farm can be sold cheaper in cities due to low transport costs. Thus, developed transport infrastructure helps keep prices stable and affordable for consumers."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'remote sensing' and its applications.",
+      "options": [],
+      "answer": "Remote sensing is the science of obtaining information about objects or areas from a distance, typically using satellites or aircraft equipped with sensors. It works by detecting and measuring reflected or emitted radiation. Applications include: 1) Agriculture: Monitoring crop health, soil moisture, and predicting yields. 2) Environmental management: Tracking deforestation, pollution, and climate change. 3) Disaster management: Assessing damage from floods, earthquakes, or wildfires. 4) Urban planning: Mapping land use and infrastructure development. 5) Resource exploration: Locating minerals, water, and oil reserves. 6) Weather forecasting: Providing data for meteorological models. Remote sensing enables large-scale, accurate, and timely data collection, supporting informed decision-making in various fields."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What are the different types of communication services available in post offices?",
+      "options": [],
+      "answer": "Post offices offer various communication services, both conventional and modern: 1) Postal mail: Sending letters, postcards, and parcels domestically and internationally. 2) Speed Post: Express delivery service for urgent documents and parcels. 3) Money orders: Transferring money securely, especially to areas without banking. 4) Postal banking: Savings accounts, insurance, and pension services. 5) Bill payment: Facilities for paying utility bills. 6) E-post: Sending emails that are printed and delivered as physical mail. 7) Courier services: Competitive parcel delivery. 8) Philately: Selling stamps for collection. Post offices remain vital for communication, particularly in rural areas, bridging gaps where digital services may be limited."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How does video conferencing work and what are its benefits?",
+      "options": [],
+      "answer": "Video conferencing is a technology that allows people in different locations to hold face-to-face meetings via audio and video transmission over the internet. It works using software (like Zoom, Skype) that captures video and audio from participants' devices, compresses the data, and transmits it over networks to other participants, who decode and view it in real-time. Benefits include: 1) Cost savings: Reduces travel expenses for meetings. 2) Time efficiency: Eliminates travel time, allowing more frequent interactions. 3) Collaboration: Enables screen sharing, document sharing, and group discussions. 4) Accessibility: Connects people across the globe, including remote workers. 5) Recordability: Sessions can be recorded for future reference. Video conferencing has become essential for business, education, and personal communication, especially in a globalized world."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Why is it important to have a balanced development of all modes of transport?",
+      "options": [],
+      "answer": "Balanced development of all transport modes (road, rail, water, air, pipeline) is important because: 1) Complementary roles: Each mode has strengths—roads for last-mile connectivity, rails for bulk freight, airways for speed, waterways for cheap bulk, pipelines for liquids. A balanced system ensures optimal use of each. 2) Redundancy and reliability: If one mode fails (e.g., road blockage), others can provide alternatives, ensuring continuity. 3) Economic efficiency: Different goods and distances require different modes; a balanced network minimizes overall logistics costs. 4) Regional equity: Developing multiple modes ensures remote areas (e.g., coastal, hilly) are served appropriately. 5) Environmental sustainability: Promoting rails and waterways can reduce carbon footprint. A multimodal transport system enhances resilience, efficiency, and inclusivity, supporting comprehensive economic growth."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Describe the relationship between transport network density and economic activity.",
+      "options": [],
+      "answer": "There is a strong positive relationship between transport network density and economic activity. Dense transport networks (many roads, railways) indicate and facilitate high economic activity because: 1) Accessibility: They connect producers, consumers, and markets efficiently, boosting trade and commerce. 2) Industrial growth: Industries cluster near transport hubs for easy movement of raw materials and finished goods. 3) Employment: Transport construction and operations create jobs; better connectivity attracts businesses. 4) Investment: Regions with good transport attract domestic and foreign investment. 5) Urbanization: Cities develop around transport nodes, becoming economic centers. Conversely, sparse networks often correlate with low economic activity due to isolation and high transport costs. Thus, improving transport infrastructure stimulates economic development, while economic growth further funds transport expansion, creating a virtuous cycle."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What precautions should one take while using online payment apps?",
+      "options": [],
+      "answer": "While using online payment apps like BHIM or digital wallets, precautions include: 1) Use strong passwords and enable two-factor authentication. 2) Download apps only from official stores (Google Play, App Store) to avoid malware. 3) Keep the app and phone operating system updated. 4) Avoid using public Wi-Fi for transactions; use a secure, private network. 5) Never share OTPs, PINs, or passwords with anyone. 6) Verify recipient details before transferring money. 7) Monitor bank statements regularly for unauthorized transactions. 8) Log out after each session. 9) Use biometric authentication if available. 10) Be cautious of phishing attempts via email or SMS. These steps help protect against fraud, hacking, and financial loss in the digital payment ecosystem."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How do National Highways contribute to the development of a region?",
+      "options": [],
+      "answer": "National Highways contribute significantly to regional development by: 1) Enhancing connectivity: They link major cities, states, and economic centers, facilitating smooth movement of people and goods. 2) Boosting trade: Efficient road transport reduces time and cost, encouraging commerce and access to larger markets. 3) Industrial growth: Industries often locate near highways for logistical advantages, creating jobs and economic activity. 4) Tourism improvement: Better roads make tourist destinations more accessible, increasing visitor numbers and local revenue. 5) Rural integration: Highways passing through rural areas connect them to urban markets, improving agricultural sales and reducing isolation. 6) Emergency services: They enable faster response for ambulances and disaster relief. Overall, National Highways act as economic corridors, stimulating development and improving quality of life in the regions they traverse."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Explain the role of communication in disaster management.",
+      "options": [],
+      "answer": "Communication plays a critical role in disaster management across all phases: 1) Preparedness: Disseminating warnings and safety instructions via TV, radio, SMS, and social media helps communities prepare. 2) Response: During a disaster, communication networks coordinate rescue operations, share real-time information on affected areas, and connect families. 3) Relief: Authorities use communication to organize supply distribution, medical aid, and volunteer efforts. 4) Recovery: Post-disaster, communication aids in assessing damage, planning reconstruction, and providing psychological support. Technologies like satellite phones, ham radios, and mobile networks ensure connectivity even when terrestrial systems fail. Effective communication saves lives, minimizes panic, and streamlines disaster response, making it a cornerstone of modern disaster management strategies."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What is the difference between transport and communication? Provide examples.",
+      "options": [],
+      "answer": "Transport involves the physical movement of people and goods from one place to another. Examples: traveling by car, shipping goods by ship, flying in an airplane. Communication involves the exchange of information or messages between individuals or groups. Examples: talking on the phone, sending an email, reading a newspaper. While transport deals with tangible movement, communication deals with intangible exchange of ideas. However, they are interdependent—communication coordinates transport (e.g., logistics tracking), and transport enables communication (e.g., delivering letters). Both are essential infrastructure for societal functioning, but their core functions differ: one moves entities, the other conveys information."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "How can improving communication in rural areas benefit farmers?",
+      "options": [],
+      "answer": "Improving communication in rural areas benefits farmers by: 1) Market access: Mobile phones and internet provide real-time market prices, helping farmers sell at better rates and avoid middlemen. 2) Weather updates: SMS alerts on weather forecasts enable better crop planning and disaster preparedness. 3) Agricultural advice: Farmers can access expert guidance on crops, pests, and techniques via helplines or apps. 4) Financial services: Mobile banking allows easy access to credit, insurance, and payments. 5) Supply chain coordination: Communication with transporters and buyers ensures timely harvest and delivery. 6) Government schemes: Information on subsidies, loans, and training programs reaches farmers directly. 7) Community networking: Farmers can share knowledge and form cooperatives. Enhanced communication empowers farmers with information, improving productivity, income, and resilience."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Discuss the environmental impacts of different transport modes.",
+      "options": [],
+      "answer": "Different transport modes have varying environmental impacts: 1) Road transport: High carbon emissions, air pollution (from exhaust), noise pollution, and habitat fragmentation due to road construction. 2) Railways: Lower emissions per ton-mile than roads, but still consume energy; construction can disrupt landscapes. 3) Waterways: Generally low emissions, but oil spills and ballast water discharge can harm marine ecosystems. 4) Airways: Highest per-passenger emissions, contributing significantly to greenhouse gases and noise pollution. 5) Pipelines: Low operational emissions, but leaks can cause soil/water contamination, and construction disturbs land. Sustainable practices include using electric vehicles, improving fuel efficiency, promoting public transport, and developing green corridors. Balancing mobility needs with environmental protection is crucial for sustainable development."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What is the future of communication technology?",
+      "options": [],
+      "answer": "The future of communication technology is likely to be shaped by: 1) 5G and beyond: Ultra-fast wireless networks enabling real-time IoT, augmented reality, and autonomous systems. 2) Artificial Intelligence: AI-driven chatbots, translation, and personalized content delivery. 3) Satellite constellations: Projects like Starlink aiming to provide global high-speed internet. 4) Quantum communication: Ultra-secure networks using quantum encryption. 5) Integrated platforms: Convergence of communication, entertainment, and work tools into seamless ecosystems. 6) Brain-computer interfaces: Emerging tech for direct neural communication. These advancements promise faster, more reliable, and immersive communication, but also raise challenges like privacy, security, and digital inequality. The future will likely see communication becoming even more embedded in daily life, transforming how we interact, work, and learn."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How does transport affect tourism?",
+      "options": [],
+      "answer": "Transport significantly affects tourism by determining accessibility, cost, and experience: 1) Accessibility: Good transport networks (airports, roads, railways) make tourist destinations reachable, attracting more visitors. 2) Cost: Efficient transport reduces travel expenses, making tourism affordable. 3) Experience: Scenic routes (like mountain railways or coastal drives) enhance tourist enjoyment. 4) Seasonality: Reliable transport allows year-round tourism, reducing seasonal dependency. 5) Local economy: Tourism transport creates jobs for drivers, guides, and service providers. 6) Infrastructure development: Popular destinations often see improved transport facilities. Conversely, poor transport can limit tourism growth. For example, a remote beautiful lake may see few tourists without a good road. Thus, investment in transport is crucial for developing and sustaining tourism."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Imagine you are a planner tasked with improving transport in a hilly region. What strategies would you propose?",
+      "options": [],
+      "answer": "As a planner improving transport in a hilly region, I would propose: 1) Develop hill roads with careful engineering: Use zigzag patterns, tunnels, and bridges to navigate steep slopes, ensuring safety and stability. 2) Promote ropeways and cable cars: For short-distance passenger transport across valleys, reducing road construction impact. 3) Enhance public transport: Introduce eco-friendly buses with regular schedules to reduce private vehicle use. 4) Improve existing pathways: Upgrade walking trails and mule tracks for local mobility. 5) Use technology: Implement GPS-based monitoring for weather-related route adjustments. 6) Focus on maintenance: Regular upkeep to prevent landslides and erosion damage. 7) Integrate with tourism: Develop scenic routes and viewpoints to boost local economy. 8) Community involvement: Engage locals in planning for culturally sensitive and practical solutions. The goal is to create safe, sustainable, and accessible transport that respects the fragile hilly environment."
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Geography.8",
+    "standard": "8",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Introduction to Economics"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The word 'economics' is derived from which Greek word?",
+      "options": [
+        { "option_id": 1, "text": "Oikos", "is_correct": false },
+        { "option_id": 2, "text": "Oikonomia", "is_correct": true },
+        { "option_id": 3, "text": "Economia", "is_correct": false },
+        { "option_id": 4, "text": "Nomos", "is_correct": false }
+      ],
+      "answer": "Oikonomia"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is known as the father of economics?",
+      "options": [
+        { "option_id": 1, "text": "John Maynard Keynes", "is_correct": false },
+        { "option_id": 2, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 3, "text": "Adam Smith", "is_correct": true },
+        { "option_id": 4, "text": "Lionel Robbins", "is_correct": false }
+      ],
+      "answer": "Adam Smith"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In which type of economy is the means of production owned and managed by private individuals?",
+      "options": [
+        { "option_id": 1, "text": "Socialistic Economy", "is_correct": false },
+        { "option_id": 2, "text": "Mixed Economy", "is_correct": false },
+        { "option_id": 3, "text": "Capitalistic Economy", "is_correct": true },
+        { "option_id": 4, "text": "Traditional Economy", "is_correct": false }
+      ],
+      "answer": "Capitalistic Economy"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the main aim of a socialistic economy?",
+      "options": [
+        { "option_id": 1, "text": "Maximizing profit", "is_correct": false },
+        { "option_id": 2, "text": "Balancing profit and welfare", "is_correct": false },
+        { "option_id": 3, "text": "Achieving social welfare", "is_correct": true },
+        { "option_id": 4, "text": "Promoting private ownership", "is_correct": false }
+      ],
+      "answer": "Achieving social welfare"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following countries has a mixed economy?",
+      "options": [
+        { "option_id": 1, "text": "China", "is_correct": false },
+        { "option_id": 2, "text": "USA", "is_correct": false },
+        { "option_id": 3, "text": "Russia", "is_correct": false },
+        { "option_id": 4, "text": "India", "is_correct": true }
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does globalisation of the economy mean?",
+      "options": [
+        { "option_id": 1, "text": "Building a national economy", "is_correct": false },
+        { "option_id": 2, "text": "Building a world economy with free flow of resources", "is_correct": true },
+        { "option_id": 3, "text": "Restricting international trade", "is_correct": false },
+        { "option_id": 4, "text": "Promoting local industries only", "is_correct": false }
+      ],
+      "answer": "Building a world economy with free flow of resources"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a factor affecting an economy?",
+      "options": [
+        { "option_id": 1, "text": "Population", "is_correct": false },
+        { "option_id": 2, "text": "Geographical area and natural resources", "is_correct": false },
+        { "option_id": 3, "text": "Political sovereignty", "is_correct": false },
+        { "option_id": 4, "text": "Individual hobbies", "is_correct": true }
+      ],
+      "answer": "Individual hobbies"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "According to Lionel Robbins, economics is a science that studies human behaviour as a relationship between:",
+      "options": [
+        { "option_id": 1, "text": "Supply and demand", "is_correct": false },
+        { "option_id": 2, "text": "Ends and scarce means with alternative uses", "is_correct": true },
+        { "option_id": 3, "text": "Production and consumption", "is_correct": false },
+        { "option_id": 4, "text": "Income and expenditure", "is_correct": false }
+      ],
+      "answer": "Ends and scarce means with alternative uses"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which book by Adam Smith defined economics as 'the science of wealth'?",
+      "options": [
+        { "option_id": 1, "text": "The Theory of Moral Sentiments", "is_correct": false },
+        { "option_id": 2, "text": "The General Theory", "is_correct": false },
+        { "option_id": 3, "text": "Das Kapital", "is_correct": false },
+        { "option_id": 4, "text": "Wealth of Nations", "is_correct": true }
+      ],
+      "answer": "Wealth of Nations"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is one of the main functions of an economy?",
+      "options": [
+        { "option_id": 1, "text": "Maximizing government control", "is_correct": false },
+        { "option_id": 2, "text": "Deciding the product and quantity of its production", "is_correct": true },
+        { "option_id": 3, "text": "Eliminating all private ownership", "is_correct": false },
+        { "option_id": 4, "text": "Promoting only agricultural sectors", "is_correct": false }
+      ],
+      "answer": "Deciding the product and quantity of its production"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which type of economy aims to balance profit and social welfare?",
+      "options": [
+        { "option_id": 1, "text": "Capitalistic", "is_correct": false },
+        { "option_id": 2, "text": "Socialistic", "is_correct": false },
+        { "option_id": 3, "text": "Mixed", "is_correct": true },
+        { "option_id": 4, "text": "Traditional", "is_correct": false }
+      ],
+      "answer": "Mixed"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does an economy strive to create a balance between?",
+      "options": [
+        { "option_id": 1, "text": "Imports and exports", "is_correct": false },
+        { "option_id": 2, "text": "Public and private sectors", "is_correct": false },
+        { "option_id": 3, "text": "Limited resources and unlimited needs", "is_correct": true },
+        { "option_id": 4, "text": "Urban and rural development", "is_correct": false }
+      ],
+      "answer": "Limited resources and unlimited needs"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following flows freely across borders in a globalized economy?",
+      "options": [
+        { "option_id": 1, "text": "Only goods", "is_correct": false },
+        { "option_id": 2, "text": "Only capital", "is_correct": false },
+        { "option_id": 3, "text": "Natural resources, capital, labour, and technology", "is_correct": true },
+        { "option_id": 4, "text": "Only labour", "is_correct": false }
+      ],
+      "answer": "Natural resources, capital, labour, and technology"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In which year was Adam Smith's 'Wealth of Nations' published?",
+      "options": [
+        { "option_id": 1, "text": "1776", "is_correct": true },
+        { "option_id": 2, "text": "1789", "is_correct": false },
+        { "option_id": 3, "text": "1801", "is_correct": false },
+        { "option_id": 4, "text": "1765", "is_correct": false }
+      ],
+      "answer": "1776"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the Greek word 'oikonomia'?",
+      "options": [
+        { "option_id": 1, "text": "Wealth management", "is_correct": false },
+        { "option_id": 2, "text": "Resource allocation", "is_correct": false },
+        { "option_id": 3, "text": "Family management", "is_correct": true },
+        { "option_id": 4, "text": "Government control", "is_correct": false }
+      ],
+      "answer": "Family management"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Define economics in your own words based on the chapter.",
+      "answer": "Economics is the study of how to manage limited resources to satisfy unlimited human needs effectively."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What are the three main types of economies mentioned in the chapter?",
+      "answer": "Capitalistic, Socialistic, and Mixed economies."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is the primary goal of a capitalistic economy?",
+      "answer": "To earn maximum profit."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Name two countries that follow a socialistic economy.",
+      "answer": "China and Russia."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does 'globalisation' mean in economic terms?",
+      "answer": "Building a borderless world economy where resources, capital, labour, and technology flow freely across countries."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "List two factors that affect an economy.",
+      "answer": "Population and geographical area/natural resources."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Who defined economics as 'the science of wealth'?",
+      "answer": "Adam Smith."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is one function of an economy?",
+      "answer": "Deciding for whom the goods will be produced."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What is the similarity between family management and economics?",
+      "answer": "Both involve managing limited resources to meet needs effectively."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does a mixed economy aim to balance?",
+      "answer": "Profit and social welfare."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What does 'oikonomia' translate to in English?",
+      "answer": "Family management."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the role of economics in social development?",
+      "answer": "It holds paramount importance in the social development of humans."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is one example of a country with a capitalistic economy?",
+      "answer": "USA, Germany, or Japan."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is meant by 'borderless economy'?",
+      "answer": "An economy where trade and resources move freely without national restrictions."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does an economy try to minimize during production?",
+      "answer": "Production costs."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is the focus of economics according to the chapter?",
+      "answer": "How to satisfy infinite needs using various resources effectively."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Name one country that has adopted a mixed economy besides India.",
+      "answer": "Sweden or the United Kingdom."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What does 'political sovereignty' refer to in the context of an economy?",
+      "answer": "It is a factor affecting the economy, relating to a country's independent political control."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is the main difference between capitalistic and socialistic economies in terms of ownership?",
+      "answer": "In capitalistic economies, ownership is private; in socialistic, it is with the government/society."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is one daily life area where economics is used?",
+      "answer": "In managing personal or family finances."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What does 'geographically speaking, economy' refer to?",
+      "answer": "The enterprises related to production, distribution, and consumption in a specific region."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the key characteristic of globalisation in trade?",
+      "answer": "Free trade and removal of investment restrictions."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What does 'economy begins at home' imply?",
+      "answer": "That managing family finances is the basic foundation of economic principles."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the ultimate goal of economic management at a global level?",
+      "answer": "To create a balance between limited resources and unlimited needs worldwide."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is a key function of an economy related to income?",
+      "answer": "Distribution of national income according to social and economic justice."
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "Explain the meaning of economics and how it relates to family management.",
+      "answer": "Economics is the study of how societies manage limited resources to satisfy unlimited wants. It originates from the Greek word 'oikonomia', meaning family management. Just as a family manages its income, expenses, time, and labor to meet needs, economics applies similar principles on a larger scale—to villages, states, and countries—to allocate resources efficiently, minimize costs, and maximize welfare."
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "Compare and contrast capitalistic, socialistic, and mixed economies.",
+      "answer": "In a capitalistic economy, means of production are privately owned, and the main aim is profit maximization (e.g., USA, Germany). In a socialistic economy, ownership is with the government/society, aiming at social welfare (e.g., China, Russia). A mixed economy combines both private and public sectors, balancing profit and social welfare (e.g., India, Sweden). While capitalism emphasizes individual profit, socialism focuses on collective good, and mixed economies seek a middle path."
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "What is globalisation? Describe its impact on the world economy.",
+      "answer": "Globalisation refers to the integration of national economies into a borderless world economy. It involves the free flow of natural resources, capital, labor, technology, and services across countries, with reduced trade restrictions. This promotes international trade, encourages foreign investments, and fosters economic interdependence. However, it also leads to increased competition, cultural exchange, and challenges like economic inequality and dependency between nations."
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "List and explain the main functions of an economy.",
+      "answer": "The main functions of an economy include: 1) Deciding what goods to produce and in what quantity; 2) Minimizing production costs to use resources efficiently; 3) Distributing national income fairly based on social and economic justice; 4) Planning for future economic needs; 5) Deciding who the goods are produced for. These functions help balance limited resources with unlimited needs and ensure sustainable economic growth."
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "Discuss the factors that affect an economy.",
+      "answer": "Several factors influence an economy: 1) Population – size and skill level affect labor supply and demand; 2) Geographical area and natural resources – determine production capacity; 3) Political sovereignty – stable governance enables economic policies; 4) Profit and income – drive investment and consumption; 5) Occupations – types of jobs shape economic structure. Together, these factors define a country's economic strength, growth potential, and global position."
+    },
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "Why is economics considered important in social development?",
+      "answer": "Economics is crucial for social development because it guides resource allocation, reduces poverty, and improves living standards. By studying how to use time, money, labor, and land effectively, economics helps societies meet basic needs, create jobs, and ensure fair distribution of wealth. It informs policies in agriculture, trade, finance, and law, fostering economic stability and human welfare, which are foundations for social progress."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "Explain the statement: 'Economy begins at home.'",
+      "answer": "The phrase 'economy begins at home' means that basic economic principles are first learned and applied in managing family finances. Just as a family budgets its income, prioritizes expenses, saves for the future, and uses resources wisely, a nation does the same on a larger scale. This micro-level management teaches scarcity, choice, and optimization—core concepts of economics that extend to village, state, and global economic planning."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "How does a mixed economy like India's balance private and public sectors?",
+      "answer": "India's mixed economy allows co-existence of private and public sectors. The private sector drives innovation, competition, and profit, while the public sector focuses on social welfare, infrastructure, and essential services. The government regulates key industries (like railways, defense) and provides subsidies, while private enterprises operate in markets like IT, retail. This balance aims to achieve economic growth, reduce inequalities, and ensure public access to basic amenities."
+    },
+    {
+      "question_id": 49,
+      "question_type": "LONG",
+      "question": "What role does Adam Smith play in the history of economics?",
+      "answer": "Adam Smith is regarded as the father of economics. In his 1776 book 'Wealth of Nations', he defined economics as 'the science of wealth' and introduced key ideas like the invisible hand, division of labor, and free markets. His work laid the foundation for classical economics, emphasizing that individuals pursuing self-interest in competitive markets can lead to overall economic prosperity. Smith's theories influenced capitalist thought and modern economic policies."
+    },
+    {
+      "question_id": 50,
+      "question_type": "LONG",
+      "question": "Describe how you would prioritize expenses if your income was less than your expenditure, based on the chapter's activity.",
+      "answer": "If income (₹20,000) is less than expenditure (₹22,550), I would prioritize essential needs: daily food, medical costs, school stationery, and public transport. I would reduce or postpone non-essentials like tourism, recreation, and mobile bills. Cutting uniform costs by buying one set instead of two, reducing vegetable/fruit expenses, and minimizing electricity usage could help balance the budget. This reflects economic decision-making: allocating scarce resources to meet the most urgent needs first."
+    },
+    {
+      "question_id": 51,
+      "question_type": "MCQ",
+      "question": "Which of the following is a key feature of a socialistic economy?",
+      "options": [
+        { "option_id": 1, "text": "Private ownership of resources", "is_correct": false },
+        { "option_id": 2, "text": "Profit maximization", "is_correct": false },
+        { "option_id": 3, "text": "Government control of production", "is_correct": true },
+        { "option_id": 4, "text": "Free market competition", "is_correct": false }
+      ],
+      "answer": "Government control of production"
+    },
+    {
+      "question_id": 52,
+      "question_type": "MCQ",
+      "question": "What does 'oikonomia' literally mean?",
+      "options": [
+        { "option_id": 1, "text": "Wealth creation", "is_correct": false },
+        { "option_id": 2, "text": "Resource management", "is_correct": false },
+        { "option_id": 3, "text": "Family management", "is_correct": true },
+        { "option_id": 4, "text": "Trade and commerce", "is_correct": false }
+      ],
+      "answer": "Family management"
+    },
+    {
+      "question_id": 53,
+      "question_type": "MCQ",
+      "question": "Which economist defined economics as a science studying human behavior concerning ends and scarce means?",
+      "options": [
+        { "option_id": 1, "text": "Adam Smith", "is_correct": false },
+        { "option_id": 2, "text": "John Keynes", "is_correct": false },
+        { "option_id": 3, "text": "Lionel Robbins", "is_correct": true },
+        { "option_id": 4, "text": "Karl Marx", "is_correct": false }
+      ],
+      "answer": "Lionel Robbins"
+    },
+    {
+      "question_id": 54,
+      "question_type": "MCQ",
+      "question": "In which sector do mixed economies like India allow coexistence?",
+      "options": [
+        { "option_id": 1, "text": "Only private", "is_correct": false },
+        { "option_id": 2, "text": "Only public", "is_correct": false },
+        { "option_id": 3, "text": "Private and public", "is_correct": true },
+        { "option_id": 4, "text": "Only cooperative", "is_correct": false }
+      ],
+      "answer": "Private and public"
+    },
+    {
+      "question_id": 55,
+      "question_type": "MCQ",
+      "question": "What is a primary goal of globalisation?",
+      "options": [
+        { "option_id": 1, "text": "Increasing trade barriers", "is_correct": false },
+        { "option_id": 2, "text": "Promoting local industries only", "is_correct": false },
+        { "option_id": 3, "text": "Creating a borderless world economy", "is_correct": true },
+        { "option_id": 4, "text": "Reducing foreign investment", "is_correct": false }
+      ],
+      "answer": "Creating a borderless world economy"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is one example of how economics is used in daily life?",
+      "answer": "Managing monthly household income and expenses to meet family needs."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one function of an economy related to production.",
+      "answer": "Deciding the product and quantity of its production."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does 'economic management' refer to geographically?",
+      "answer": "The enterprises related to production, distribution, and consumption in a specific region."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which type of economy does the UK follow?",
+      "answer": "Mixed economy."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the core problem economics tries to solve?",
+      "answer": "How to satisfy unlimited needs with limited resources."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "Explain how the activity of managing personal expenditure relates to broader economic principles.",
+      "answer": "Managing personal expenditure involves prioritizing needs, budgeting limited income, and making choices—mirroring core economic principles: scarcity, opportunity cost, and resource allocation. On a larger scale, economies similarly decide what to produce, how to produce at lower cost, and for whom to produce. This activity teaches that individual financial discipline is the microcosm of national economic planning, emphasizing efficiency and prioritization in resource use."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "Why might a country choose a mixed economy over a purely capitalistic or socialistic one?",
+      "answer": "A mixed economy offers a balanced approach: it harnesses the efficiency, innovation, and growth of the private sector while ensuring social welfare, equity, and public goods through government intervention. This prevents extreme inequalities (common in capitalism) and avoids lack of incentives/innovation (common in socialism). Countries like India adopt it to promote development, reduce poverty, and maintain economic stability by combining market freedom with social safeguards."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "What are the potential benefits and drawbacks of globalisation?",
+      "answer": "Benefits of globalisation include: increased trade and investment, access to new technologies, lower prices for consumers, and cultural exchange. Drawbacks include: job losses in local industries, economic dependency on foreign markets, widening income inequality, and erosion of local cultures. While globalisation can boost growth and innovation, it requires careful regulation to ensure fair distribution of benefits and protection of vulnerable sectors."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "How does population affect an economy?",
+      "answer": "Population impacts an economy in multiple ways: a large population can provide a big labor force, boosting production, but may strain resources if unskilled. A young population can drive growth, while an aging one may increase dependency. Population density affects infrastructure needs, and skilled workers enhance productivity. Thus, population size, structure, and education level are critical factors in economic planning, employment, and development."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "Describe the historical significance of Adam Smith's 'Wealth of Nations'.",
+      "answer": "Adam Smith's 'Wealth of Nations' (1776) is a foundational text in economics. It introduced concepts like division of labor, free markets, and the 'invisible hand'—the idea that individuals pursuing self-interest can benefit society. Smith argued against mercantilism, advocating for minimal government intervention. His work shaped capitalist thought, influenced industrial policies, and laid the groundwork for modern economics, earning him the title 'father of economics'."
+    },
+    {
+      "question_id": 66,
+      "question_type": "LONG",
+      "question": "What steps would you take as finance minister of an agrarian country to ensure development?",
+      "answer": "As finance minister, I would: 1) Invest in irrigation and modern farming techniques to boost agricultural productivity; 2) Provide subsidies and credit to farmers; 3) Develop rural infrastructure (roads, storage); 4) Promote agro-based industries for value addition; 5) Ensure fair pricing and market access. This five-point program would enhance food security, increase farmers' incomes, reduce poverty, and stimulate overall economic growth in an agrarian nation."
+    },
+    {
+      "question_id": 67,
+      "question_type": "LONG",
+      "question": "How do natural resources influence a country's economy?",
+      "answer": "Natural resources like minerals, water, and fertile land form the base of an economy. They determine the types of industries (e.g., mining, agriculture), export potential, and employment. Abundant resources can lead to economic growth and foreign exchange earnings. However, over-dependence may cause volatility if prices fall. Sustainable management is crucial to avoid depletion and ensure long-term prosperity, making resource allocation a key economic function."
+    },
+    {
+      "question_id": 68,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'economic justice' in the distribution of national income.",
+      "answer": "Economic justice refers to fair distribution of national income, ensuring all societal groups benefit equitably. It involves reducing inequalities through progressive taxation, social welfare schemes, and access to education/healthcare. This aligns with socialistic and mixed economy goals, where the government intervenes to prevent wealth concentration and uplift marginalized sections. Economic justice promotes social stability, inclusive growth, and fulfills the economy's function of equitable resource allocation."
+    },
+    {
+      "question_id": 69,
+      "question_type": "LONG",
+      "question": "What is the importance of 'occupations' as an economic factor?",
+      "answer": "Occupations reflect the employment structure of an economy—agriculture, industry, services. They determine productivity, income levels, and economic diversification. A shift from agriculture to industry/services often signals development. Occupations influence skill development, innovation, and trade patterns. By analyzing occupations, policymakers can identify sectors needing investment, address unemployment, and align education with market needs, driving sustainable economic growth."
+    },
+    {
+      "question_id": 70,
+      "question_type": "LONG",
+      "question": "How can individuals apply economic principles in their personal financial management?",
+      "answer": "Individuals can apply economic principles by: budgeting income vs. expenses (scarcity), prioritizing needs over wants (choice), saving for future needs (investment), comparing costs and benefits (opportunity cost), and avoiding wasteful spending (efficiency). This mirrors macroeconomic management—allocating limited resources to maximize satisfaction. Such practices ensure financial stability, preparedness for emergencies, and contribute to overall economic health when aggregated across society."
+    },
+    {
+      "question_id": 71,
+      "question_type": "MCQ",
+      "question": "Which of the following best describes the aim of economics?",
+      "options": [
+        { "option_id": 1, "text": "To increase government control", "is_correct": false },
+        { "option_id": 2, "text": "To satisfy infinite needs with limited resources", "is_correct": true },
+        { "option_id": 3, "text": "To promote only agricultural growth", "is_correct": false },
+        { "option_id": 4, "text": "To eliminate private ownership", "is_correct": false }
+      ],
+      "answer": "To satisfy infinite needs with limited resources"
+    },
+    {
+      "question_id": 72,
+      "question_type": "MCQ",
+      "question": "What does 'political sovereignty' contribute to an economy?",
+      "options": [
+        { "option_id": 1, "text": "Determines population size", "is_correct": false },
+        { "option_id": 2, "text": "Ensures stable governance for economic policies", "is_correct": true },
+        { "option_id": 3, "text": "Increases natural resources", "is_correct": false },
+        { "option_id": 4, "text": "Reduces production costs", "is_correct": false }
+      ],
+      "answer": "Ensures stable governance for economic policies"
+    },
+    {
+      "question_id": 73,
+      "question_type": "MCQ",
+      "question": "Which of these is a characteristic of globalisation?",
+      "options": [
+        { "option_id": 1, "text": "Restricted capital flow", "is_correct": false },
+        { "option_id": 2, "text": "Free trade across borders", "is_correct": true },
+        { "option_id": 3, "text": "Increased tariffs", "is_correct": false },
+        { "option_id": 4, "text": "Localized economies", "is_correct": false }
+      ],
+      "answer": "Free trade across borders"
+    },
+    {
+      "question_id": 74,
+      "question_type": "MCQ",
+      "question": "What is a major function of an economy regarding future needs?",
+      "options": [
+        { "option_id": 1, "text": "Maximizing current profits", "is_correct": false },
+        { "option_id": 2, "text": "Making provisions for future economic needs", "is_correct": true },
+        { "option_id": 3, "text": "Reducing population growth", "is_correct": false },
+        { "option_id": 4, "text": "Eliminating private sector", "is_correct": false }
+      ],
+      "answer": "Making provisions for future economic needs"
+    },
+    {
+      "question_id": 75,
+      "question_type": "MCQ",
+      "question": "Which of the following is true about a mixed economy?",
+      "options": [
+        { "option_id": 1, "text": "Only private ownership exists", "is_correct": false },
+        { "option_id": 2, "text": "Only public ownership exists", "is_correct": false },
+        { "option_id": 3, "text": "Both private and public sectors coexist", "is_correct": true },
+        { "option_id": 4, "text": "No government intervention", "is_correct": false }
+      ],
+      "answer": "Both private and public sectors coexist"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the main economic problem that all societies face?",
+      "answer": "Unlimited wants and limited resources."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How does geography influence an economy?",
+      "answer": "Through natural resources, climate, and land availability affecting production and trade."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the role of profit in a capitalistic economy?",
+      "answer": "It is the main driving force and goal for production and investment."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Name one Indian economist you could research for the chapter activity.",
+      "answer": "Dr. Amartya Sen or Dr. Manmohan Singh."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What does 'alternative uses' refer to in Lionel Robbins' definition?",
+      "answer": "Scarce resources can be used in different ways, requiring choice."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Why is it said that economics is used in fields like agriculture, trade, and law?",
+      "answer": "Economics provides tools for decision-making in various sectors: in agriculture, it guides crop selection, pricing, and subsidy policies; in trade, it analyzes markets, tariffs, and international agreements; in law, it informs regulations on competition, contracts, and property rights. By applying economic principles, these fields optimize resource use, enhance efficiency, and promote equitable outcomes, demonstrating economics' interdisciplinary relevance."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "How can understanding economics help in personal financial planning?",
+      "answer": "Understanding economics helps in personal financial planning by teaching concepts like budgeting (allocating income), saving (deferred consumption), investing (future returns), and risk management. It emphasizes prioritizing needs, evaluating opportunity costs, and planning for life events. This knowledge enables individuals to make informed decisions, avoid debt, build wealth, and achieve financial security, mirroring macroeconomic stability at a personal level."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Discuss the impact of technological flow in a globalized economy.",
+      "answer": "In a globalized economy, technology flows freely across borders, leading to: increased productivity, innovation, and competitiveness; access to advanced tools in developing countries; growth of tech-based industries and jobs. However, it can also cause job displacement due to automation, widen digital divides, and create dependency on foreign tech. Effective policies are needed to foster local innovation, ensure skill adaptation, and harness technology for inclusive growth."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "What is the relationship between 'ends' and 'scarce means' in economics?",
+      "answer": "In economics, 'ends' refer to human wants or goals, which are unlimited. 'Scarce means' are the limited resources (time, money, labor) available to achieve those ends. The core economic problem is allocating scarce means efficiently to satisfy as many ends as possible. This involves trade-offs, prioritization, and optimization—key concepts that drive production, distribution, and consumption decisions in any economy."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How does a country's economic type affect its citizens' lifestyle?",
+      "answer": "A country's economic type shapes citizens' lifestyle: in capitalistic economies, high competition and consumer choice may lead to material wealth but also inequality; in socialistic economies, greater social security and equity may exist but with limited choices and innovation; in mixed economies, a balance offers both market opportunities and welfare safety nets. Thus, economic systems influence income distribution, job opportunities, access to services, and overall quality of life."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain how 'profit and income' act as factors affecting an economy.",
+      "answer": "Profit drives investment, entrepreneurship, and economic growth in market-based systems. Higher profits incentivize business expansion and innovation. Income levels determine consumer spending, savings, and demand for goods/services. Together, profit and income influence economic cycles—boosting production, employment, and tax revenues when high, but causing recessions if low. They are key indicators of economic health and affect wealth distribution and living standards."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What are the educational takeaways from the monthly expenditure activity in the chapter?",
+      "answer": "The activity teaches budgeting, prioritization, and decision-making under financial constraints. It illustrates scarcity (income < expenses), opportunity cost (choosing one expense over another), and need-based allocation. Students learn to differentiate between essential and discretionary spending, plan for savings, and understand real-world economic choices. This practical exercise links personal finance to broader economic principles, fostering financial literacy and responsible citizenship."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "How does economic management differ between a family and a nation?",
+      "answer": "Family economic management focuses on household income, expenses, savings, and debt, aiming to meet immediate needs and secure future. National economic management involves macroeconomic policies: regulating industries, controlling inflation, managing trade, and ensuring employment. While families use micro-level budgeting, nations use tools like taxation, monetary policy, and public investment. Both require planning, but scale, complexity, and social impact are vastly greater at the national level."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Why is it important for students to learn about different types of economies?",
+      "answer": "Learning about different economies helps students understand global diversity, historical contexts, and policy choices. It builds awareness of how economic systems affect development, equality, and freedom. This knowledge enables critical analysis of current events, fosters informed civic participation, and prepares students for future roles as consumers, workers, or policymakers. It also encourages empathy and cross-cultural understanding in an interconnected world."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What is the significance of the phrase 'world economy is a borderless economy'?",
+      "answer": "The phrase signifies that in a globalized world, economic activities transcend national boundaries. Goods, services, capital, labor, and technology move freely, creating interconnected markets. This borderless economy promotes efficiency through comparative advantage, fosters international cooperation, and drives growth. However, it also means local economies are vulnerable to global shocks, requiring coordinated policies to manage trade, migration, and financial stability across nations."
+    },
+    {
+      "question_id": 91,
+      "question_type": "MCQ",
+      "question": "Which of these is a goal of economic distribution according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Maximize private profit", "is_correct": false },
+        { "option_id": 2, "text": "Ensure social and economic justice", "is_correct": true },
+        { "option_id": 3, "text": "Reduce population growth", "is_correct": false },
+        { "option_id": 4, "text": "Eliminate public sector", "is_correct": false }
+      ],
+      "answer": "Ensure social and economic justice"
+    },
+    {
+      "question_id": 92,
+      "question_type": "MCQ",
+      "question": "What does 'co-existence of private and public sectors' describe?",
+      "options": [
+        { "option_id": 1, "text": "Capitalistic economy", "is_correct": false },
+        { "option_id": 2, "text": "Socialistic economy", "is_correct": false },
+        { "option_id": 3, "text": "Mixed economy", "is_correct": true },
+        { "option_id": 4, "text": "Traditional economy", "is_correct": false }
+      ],
+      "answer": "Mixed economy"
+    },
+    {
+      "question_id": 93,
+      "question_type": "MCQ",
+      "question": "Which factor is directly related to 'occupations' in an economy?",
+      "options": [
+        { "option_id": 1, "text": "Climate change", "is_correct": false },
+        { "option_id": 2, "text": "Types of jobs and employment structure", "is_correct": true },
+        { "option_id": 3, "text": "Political parties", "is_correct": false },
+        { "option_id": 4, "text": "Foreign policy", "is_correct": false }
+      ],
+      "answer": "Types of jobs and employment structure"
+    },
+    {
+      "question_id": 94,
+      "question_type": "MCQ",
+      "question": "What is a key outcome of aligning a country's economy with the world economy?",
+      "options": [
+        { "option_id": 1, "text": "Increased trade barriers", "is_correct": false },
+        { "option_id": 2, "text": "Free trade and investment", "is_correct": true },
+        { "option_id": 3, "text": "Reduced technological exchange", "is_correct": false },
+        { "option_id": 4, "text": "Isolation from global markets", "is_correct": false }
+      ],
+      "answer": "Free trade and investment"
+    },
+    {
+      "question_id": 95,
+      "question_type": "MCQ",
+      "question": "Which of the following best defines 'economy' geographically?",
+      "options": [
+        { "option_id": 1, "text": "Management of family finances", "is_correct": false },
+        { "option_id": 2, "text": "Enterprises of production, distribution, consumption in a region", "is_correct": true },
+        { "option_id": 3, "text": "Only industrial activities", "is_correct": false },
+        { "option_id": 4, "text": "Government policies only", "is_correct": false }
+      ],
+      "answer": "Enterprises of production, distribution, consumption in a region"
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is one way to minimize production costs in an economy?",
+      "answer": "By using resources efficiently and adopting better technology."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How does economics help in administration?",
+      "answer": "By guiding resource allocation, budgeting, and policy-making for public welfare."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is an example of a capitalistic economy country?",
+      "answer": "Germany, Japan, or the USA."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does 'geographical explanation' in the chapter refer to?",
+      "answer": "The link between geography and economic activities in a region."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is a simple way to understand 'scarce means'?",
+      "answer": "Limited resources like time, money, and materials that force choices."
+    }
+  ]
+}

@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.General_Science.10",
+    "standard": "9",
+    "subject": "General Science",
+    "medium": "English",
+    "chapter_name": "Information Communication Technology : The new direction of progress"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does the term Information Communication Technology (ICT) include?",
+      "options": [
+        { "option_id": 1, "text": "Only communication devices", "is_correct": false },
+        { "option_id": 2, "text": "Only the use of communication devices", "is_correct": false },
+        { "option_id": 3, "text": "Communication devices, their use, and the services they provide", "is_correct": true },
+        { "option_id": 4, "text": "Only the services provided by communication devices", "is_correct": false }
+      ],
+      "answer": "Communication devices, their use, and the services they provide"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why is it important to keep up with the explosion of information?",
+      "options": [
+        { "option_id": 1, "text": "To increase the cost of information", "is_correct": false },
+        { "option_id": 2, "text": "To prevent our knowledge from becoming outdated", "is_correct": true },
+        { "option_id": 3, "text": "To reduce the use of technology", "is_correct": false },
+        { "option_id": 4, "text": "To limit the growth of science", "is_correct": false }
+      ],
+      "answer": "To prevent our knowledge from becoming outdated"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What was a major drawback of the valves used in first-generation computers?",
+      "options": [
+        { "option_id": 1, "text": "They were very small", "is_correct": false },
+        { "option_id": 2, "text": "They consumed very little electricity", "is_correct": false },
+        { "option_id": 3, "text": "They generated excessive heat and caused frequent shutdowns", "is_correct": true },
+        { "option_id": 4, "text": "They were made of plastic", "is_correct": false }
+      ],
+      "answer": "They generated excessive heat and caused frequent shutdowns"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which component of a computer is responsible for entering data?",
+      "options": [
+        { "option_id": 1, "text": "Output Unit", "is_correct": false },
+        { "option_id": 2, "text": "Processor", "is_correct": false },
+        { "option_id": 3, "text": "Memory Unit", "is_correct": false },
+        { "option_id": 4, "text": "Input Unit", "is_correct": true }
+      ],
+      "answer": "Input Unit"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the primary function of the ALU unit?",
+      "options": [
+        { "option_id": 1, "text": "Storing data", "is_correct": false },
+        { "option_id": 2, "text": "Controlling all operations", "is_correct": false },
+        { "option_id": 3, "text": "Performing arithmetic and logical operations", "is_correct": true },
+        { "option_id": 4, "text": "Displaying output", "is_correct": false }
+      ],
+      "answer": "Performing arithmetic and logical operations"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which type of memory is volatile and loses its content when power is off?",
+      "options": [
+        { "option_id": 1, "text": "ROM", "is_correct": false },
+        { "option_id": 2, "text": "RAM", "is_correct": true },
+        { "option_id": 3, "text": "Hard Disk", "is_correct": false },
+        { "option_id": 4, "text": "USB Drive", "is_correct": false }
+      ],
+      "answer": "RAM"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does DOS stand for?",
+      "options": [
+        { "option_id": 1, "text": "Data Operating System", "is_correct": false },
+        { "option_id": 2, "text": "Disk Operating System", "is_correct": true },
+        { "option_id": 3, "text": "Digital Operating System", "is_correct": false },
+        { "option_id": 4, "text": "Device Operating System", "is_correct": false }
+      ],
+      "answer": "Disk Operating System"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the raw, unprocessed form of information called?",
+      "options": [
+        { "option_id": 1, "text": "Program", "is_correct": false },
+        { "option_id": 2, "text": "Software", "is_correct": false },
+        { "option_id": 3, "text": "Data", "is_correct": true },
+        { "option_id": 4, "text": "Hardware", "is_correct": false }
+      ],
+      "answer": "Data"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which tab in Microsoft Word contains options for font size, bold, etc.?",
+      "options": [
+        { "option_id": 1, "text": "Insert", "is_correct": false },
+        { "option_id": 2, "text": "Design", "is_correct": false },
+        { "option_id": 3, "text": "View", "is_correct": false },
+        { "option_id": 4, "text": "Home", "is_correct": true }
+      ],
+      "answer": "Home"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In which Microsoft Office application would you primarily use the 'Equation' option?",
+      "options": [
+        { "option_id": 1, "text": "Excel", "is_correct": false },
+        { "option_id": 2, "text": "PowerPoint", "is_correct": false },
+        { "option_id": 3, "text": "Word", "is_correct": true },
+        { "option_id": 4, "text": "Access", "is_correct": false }
+      ],
+      "answer": "Word"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What should you type first when entering a formula in Microsoft Excel?",
+      "options": [
+        { "option_id": 1, "text": "The cell reference", "is_correct": false },
+        { "option_id": 2, "text": "The function name", "is_correct": false },
+        { "option_id": 3, "text": "The '=' sign", "is_correct": true },
+        { "option_id": 4, "text": "A space", "is_correct": false }
+      ],
+      "answer": "The '=' sign"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which tab in Microsoft PowerPoint is used to add visual movement to slide elements?",
+      "options": [
+        { "option_id": 1, "text": "Design", "is_correct": false },
+        { "option_id": 2, "text": "Animations", "is_correct": true },
+        { "option_id": 3, "text": "Slide Show", "is_correct": false },
+        { "option_id": 4, "text": "Review", "is_correct": false }
+      ],
+      "answer": "Animations"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does PDF stand for?",
+      "options": [
+        { "option_id": 1, "text": "Printable Document Format", "is_correct": false },
+        { "option_id": 2, "text": "Portable Document Format", "is_correct": true },
+        { "option_id": 3, "text": "Public Data File", "is_correct": false },
+        { "option_id": 4, "text": "Personal Document Folder", "is_correct": false }
+      ],
+      "answer": "Portable Document Format"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is a primary use of a search engine like Internet Explorer?",
+      "options": [
+        { "option_id": 1, "text": "To create documents", "is_correct": false },
+        { "option_id": 2, "text": "To perform calculations", "is_correct": false },
+        { "option_id": 3, "text": "To find specific information on the internet", "is_correct": true },
+        { "option_id": 4, "text": "To design presentations", "is_correct": false }
+      ],
+      "answer": "To find specific information on the internet"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How can ICT help in demonstrating complex scientific concepts?",
+      "options": [
+        { "option_id": 1, "text": "By increasing text complexity", "is_correct": false },
+        { "option_id": 2, "text": "By using simulation and animation", "is_correct": true },
+        { "option_id": 3, "text": "By reducing information available", "is_correct": false },
+        { "option_id": 4, "text": "By eliminating experiments", "is_correct": false }
+      ],
+      "answer": "By using simulation and animation"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT mentioned as a method for collecting scientific information using ICT?",
+      "options": [
+        { "option_id": 1, "text": "Newsgroups", "is_correct": false },
+        { "option_id": 2, "text": "Video Conferencing", "is_correct": false },
+        { "option_id": 3, "text": "Printing Press", "is_correct": true },
+        { "option_id": 4, "text": "Blogs", "is_correct": false }
+      ],
+      "answer": "Printing Press"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which field in computers involves creating application programs and operating systems?",
+      "options": [
+        { "option_id": 1, "text": "Hardware Field", "is_correct": false },
+        { "option_id": 2, "text": "Training Field", "is_correct": false },
+        { "option_id": 3, "text": "Marketing Field", "is_correct": false },
+        { "option_id": 4, "text": "Software Field", "is_correct": true }
+      ],
+      "answer": "Software Field"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is a key job opportunity in the computer hardware field?",
+      "options": [
+        { "option_id": 1, "text": "Software package development", "is_correct": false },
+        { "option_id": 2, "text": "Hardware maintenance and repairs", "is_correct": true },
+        { "option_id": 3, "text": "Marketing training", "is_correct": false },
+        { "option_id": 4, "text": "Content writing", "is_correct": false }
+      ],
+      "answer": "Hardware maintenance and repairs"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Where is the Centre for Development of Advanced Computing (C-DAC) located?",
+      "options": [
+        { "option_id": 1, "text": "Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Bangalore", "is_correct": false },
+        { "option_id": 3, "text": "Pune", "is_correct": true },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who provided valuable guidance for making the first Indian supercomputer, Param?",
+      "options": [
+        { "option_id": 1, "text": "Dr. A.P.J. Abdul Kalam", "is_correct": false },
+        { "option_id": 2, "text": "Vijay Bhatkar", "is_correct": true },
+        { "option_id": 3, "text": "Ratan Tata", "is_correct": false },
+        { "option_id": 4, "text": "Narayana Murthy", "is_correct": false }
+      ],
+      "answer": "Vijay Bhatkar"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of an ICT device used primarily for audio information?",
+      "options": [
+        { "option_id": 1, "text": "Television", "is_correct": false },
+        { "option_id": 2, "text": "Radio", "is_correct": true },
+        { "option_id": 3, "text": "Computer", "is_correct": false },
+        { "option_id": 4, "text": "Printer", "is_correct": false }
+      ],
+      "answer": "Radio"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The period between 1946 and 1959 is associated with which generation of computers?",
+      "options": [
+        { "option_id": 1, "text": "Second Generation", "is_correct": false },
+        { "option_id": 2, "text": "Third Generation", "is_correct": false },
+        { "option_id": 3, "text": "First Generation", "is_correct": true },
+        { "option_id": 4, "text": "Fourth Generation", "is_correct": false }
+      ],
+      "answer": "First Generation"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the function of the Control Unit in a computer's processing unit?",
+      "options": [
+        { "option_id": 1, "text": "Perform calculations", "is_correct": false },
+        { "option_id": 2, "text": "Store data temporarily", "is_correct": false },
+        { "option_id": 3, "text": "Direct the operation of the processor", "is_correct": true },
+        { "option_id": 4, "text": "Display the final output", "is_correct": false }
+      ],
+      "answer": "Direct the operation of the processor"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is a key characteristic of Read Only Memory (ROM)?",
+      "options": [
+        { "option_id": 1, "text": "Data can be easily written and modified by the user.", "is_correct": false },
+        { "option_id": 2, "text": "It is volatile memory.", "is_correct": false },
+        { "option_id": 3, "text": "The stored information can only be read, not changed.", "is_correct": true },
+        { "option_id": 4, "text": "It is used as the main memory for running applications.", "is_correct": false }
+      ],
+      "answer": "The stored information can only be read, not changed."
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which component of a computer system is considered 'hardware'?",
+      "options": [
+        { "option_id": 1, "text": "Microsoft Word", "is_correct": false },
+        { "option_id": 2, "text": "Operating System", "is_correct": false },
+        { "option_id": 3, "text": "Keyboard", "is_correct": true },
+        { "option_id": 4, "text": "Excel Formula", "is_correct": false }
+      ],
+      "answer": "Keyboard"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which Microsoft Office feature is suggested for creating visual representations of numerical data?",
+      "options": [
+        { "option_id": 1, "text": "Creating slides in PowerPoint", "is_correct": false },
+        { "option_id": 2, "text": "Typing equations in Word", "is_correct": false },
+        { "option_id": 3, "text": "Drawing graphs in Excel", "is_correct": true },
+        { "option_id": 4, "text": "Adding notes to a PDF", "is_correct": false }
+      ],
+      "answer": "Drawing graphs in Excel"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is a recommended precaution when entering data into a spreadsheet?",
+      "options": [
+        { "option_id": 1, "text": "Use as many special characters as possible.", "is_correct": false },
+        { "option_id": 2, "text": "Enter data randomly across cells.", "is_correct": false },
+        { "option_id": 3, "text": "Keep data in a neat, tabular form.", "is_correct": true },
+        { "option_id": 4, "text": "Avoid using formulas.", "is_correct": false }
+      ],
+      "answer": "Keep data in a neat, tabular form."
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the primary purpose of the 'Design' tab in Microsoft PowerPoint?",
+      "options": [
+        { "option_id": 1, "text": "To insert new slides", "is_correct": false },
+        { "option_id": 2, "text": "To animate objects", "is_correct": false },
+        { "option_id": 3, "text": "To apply themes and visual styles to slides", "is_correct": true },
+        { "option_id": 4, "text": "To run the slide show", "is_correct": false }
+      ],
+      "answer": "To apply themes and visual styles to slides"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which sector benefits from ICT through applications like weather forecasting?",
+      "options": [
+        { "option_id": 1, "text": "Meteorology", "is_correct": true },
+        { "option_id": 2, "text": "Archeology", "is_correct": false },
+        { "option_id": 3, "text": "Literature", "is_correct": false },
+        { "option_id": 4, "text": "Music", "is_correct": false }
+      ],
+      "answer": "Meteorology"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following is an opportunity in the computer training field?",
+      "options": [
+        { "option_id": 1, "text": "Hardware assembly", "is_correct": false },
+        { "option_id": 2, "text": "Software sales", "is_correct": false },
+        { "option_id": 3, "text": "Training new entrants with competent teachers", "is_correct": true },
+        { "option_id": 4, "text": "Developing ISCII code", "is_correct": false }
+      ],
+      "answer": "Training new entrants with competent teachers"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does the 'smart tag' feature help with in Microsoft Excel?",
+      "options": [
+        { "option_id": 1, "text": "Typing equations", "is_correct": false },
+        { "option_id": 2, "text": "Designing slides", "is_correct": false },
+        { "option_id": 3, "text": "Filling data after using 'drag and fill'", "is_correct": true },
+        { "option_id": 4, "text": "Creating PDFs", "is_correct": false }
+      ],
+      "answer": "Filling data after using 'drag and fill'"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What was the name of the first Indian supercomputer?",
+      "options": [
+        { "option_id": 1, "text": "PARAM", "is_correct": true },
+        { "option_id": 2, "text": "SAGA", "is_correct": false },
+        { "option_id": 3, "text": "BRAHMA", "is_correct": false },
+        { "option_id": 4, "text": "ARYABHATTA", "is_correct": false }
+      ],
+      "answer": "PARAM"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is one use of the supercomputer 'Param' mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Playing video games", "is_correct": false },
+        { "option_id": 2, "text": "Social media browsing", "is_correct": false },
+        { "option_id": 3, "text": "Research in oil deposits", "is_correct": true },
+        { "option_id": 4, "text": "Word processing", "is_correct": false }
+      ],
+      "answer": "Research in oil deposits"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What does ISCII stand for?",
+      "options": [
+        { "option_id": 1, "text": "Indian Standard Code for Information Interchange", "is_correct": false },
+        { "option_id": 2, "text": "International Script Code for Indian Information", "is_correct": false },
+        { "option_id": 3, "text": "Indian Script Code for Information Interchange", "is_correct": true },
+        { "option_id": 4, "text": "Internet Standard Code for Indian Interface", "is_correct": false }
+      ],
+      "answer": "Indian Script Code for Information Interchange"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of these is a mechanical or electronic part of a computer?",
+      "options": [
+        { "option_id": 1, "text": "Operating System", "is_correct": false },
+        { "option_id": 2, "text": "Microsoft Excel", "is_correct": false },
+        { "option_id": 3, "text": "Program", "is_correct": false },
+        { "option_id": 4, "text": "Printer", "is_correct": true }
+      ],
+      "answer": "Printer"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which ICT device is most directly associated with 'conversing with someone' to share information?",
+      "options": [
+        { "option_id": 1, "text": "Television", "is_correct": false },
+        { "option_id": 2, "text": "Telephone", "is_correct": true },
+        { "option_id": 3, "text": "Radio", "is_correct": false },
+        { "option_id": 4, "text": "Printer", "is_correct": false }
+      ],
+      "answer": "Telephone"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the main reason cited for computers entering all fields in the technological age?",
+      "options": [
+        { "option_id": 1, "text": "Decreased cost", "is_correct": false },
+        { "option_id": 2, "text": "Increased speed", "is_correct": true },
+        { "option_id": 3, "text": "Smaller size", "is_correct": false },
+        { "option_id": 4, "text": "Simpler design", "is_correct": false }
+      ],
+      "answer": "Increased speed"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What must be supplied to a computer for it to function?",
+      "options": [
+        { "option_id": 1, "text": "Data", "is_correct": false },
+        { "option_id": 2, "text": "Software", "is_correct": false },
+        { "option_id": 3, "text": "Electricity", "is_correct": true },
+        { "option_id": 4, "text": "Paper", "is_correct": false }
+      ],
+      "answer": "Electricity"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "In Microsoft Word, where is the 'Equation' option located?",
+      "options": [
+        { "option_id": 1, "text": "Home tab", "is_correct": false },
+        { "option_id": 2, "text": "Insert tab", "is_correct": true },
+        { "option_id": 3, "text": "Design tab", "is_correct": false },
+        { "option_id": 4, "text": "View tab", "is_correct": false }
+      ],
+      "answer": "Insert tab"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is a program?",
+      "options": [
+        { "option_id": 1, "text": "The physical parts of a computer", "is_correct": false },
+        { "option_id": 2, "text": "The data entered into a computer", "is_correct": false },
+        { "option_id": 3, "text": "A group of commands given to a computer", "is_correct": true },
+        { "option_id": 4, "text": "The result produced by a computer", "is_correct": false }
+      ],
+      "answer": "A group of commands given to a computer"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "List two main components of a computer system.",
+      "answer": "Hardware and Software."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the function of the Output Unit?",
+      "answer": "The Output Unit sends the result or answer from the computer to the user, typically using a monitor or printer."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Name the two types of internal memory.",
+      "answer": "RAM (Random Access Memory) and ROM (Read Only Memory)."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is an operating system?",
+      "answer": "An operating system is a program that provides a means of communication between the computer and the user."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the difference between data and information?",
+      "answer": "Data is information in its raw, unprocessed form, while information is processed data."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Name one device used for saving or storing information.",
+      "answer": "A computer hard disk or a USB drive."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Which generation of computers used valves?",
+      "answer": "First generation computers used valves."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the full form of ENIAC?",
+      "answer": "Electronic Numerical Integrator and Computer."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the main component used for entering data in a computer?",
+      "answer": "The keyboard is the main component used for entering data."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What does ALU stand for?",
+      "answer": "Arithmetic Logic Unit."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why is RAM considered volatile memory?",
+      "answer": "RAM is volatile because it loses all stored information when the power supply is switched off."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Give one example of external memory.",
+      "answer": "A Compact Disc (CD) or a Pen Drive."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Home' tab in Microsoft Word?",
+      "answer": "The Home tab contains options for formatting text, such as font style, size, bold, italic, etc."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "In which software would you use the 'Insert' tab to add a graph?",
+      "answer": "Microsoft Excel."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the first step to create a new document in Microsoft Word?",
+      "answer": "Click on the Microsoft Word icon on the desktop."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is one precaution to take when entering data into a spreadsheet?",
+      "answer": "Data should be entered neatly in a tabular form, without unnecessary spaces."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which tab in PowerPoint is used to start a slide show?",
+      "answer": "The 'Slide Show' tab."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What can a PDF file be used for?",
+      "answer": "A PDF file can be used to view, print, or handle digital documents."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one tool mentioned for adding comments to a PDF.",
+      "answer": "The Study Note tool or the Highlight tool."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the role of a search engine?",
+      "answer": "A search engine helps find specific information from the vast amount of data available on the internet."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How can ICT help in scientific predictions?",
+      "answer": "ICT helps in scientific predictions by compiling and processing large amounts of information."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Give one example of a platform for collecting scientific information.",
+      "answer": "Wikipedia or newsgroups."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is one job opportunity in the software field?",
+      "answer": "Application program development or operating system development."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does hardware maintenance involve?",
+      "answer": "Hardware maintenance involves repairing and servicing computer parts to keep them working efficiently."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What quality is important for teachers in the computer training field?",
+      "answer": "Teachers should be competent and dedicated in the field of computers."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What skill is needed for sales personnel in computer marketing?",
+      "answer": "Sales personnel need to be skilled in marketing and experienced in how computers work."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does C-DAC stand for?",
+      "answer": "Centre for Development of Advanced Computing."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'Param'?",
+      "answer": "'Param' means supreme."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "In which field is the Param supercomputer used for research?",
+      "answer": "Space research or meteorology."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What was C-DAC's role in developing the ISCII code?",
+      "answer": "C-DAC participated in developing the ISCII code for writing different Indian language scripts."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain why Information Communication Technology (ICT) is crucial in dealing with the current explosion of information.",
+      "answer": "The store of information generated from advances in science and technology is increasing at a tremendous rate. If we ignore this information explosion, our knowledge will become outdated. ICT, which encompasses communication devices, their use, and associated services, provides the tools to efficiently collect, process, store, share, and manage this vast amount of information. It allows us to stay updated, make informed decisions, and apply new knowledge effectively in various fields."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the working of a computer with the help of a block diagram of its main units.",
+      "answer": "A computer works through a coordinated process involving three main units: Input, Processing, and Output. The Input Unit (e.g., keyboard, mouse) is used to enter data or information into the computer. This data is then sent to the Processing Unit, which consists of the Memory Unit (for temporary/permanent storage), the Control Unit (directs all operations), and the ALU (Arithmetic Logic Unit, performs calculations). The processor executes instructions on the data. Finally, the processed result is sent to the Output Unit (e.g., monitor, printer), which presents the information to the user."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Compare and contrast RAM and ROM, the two types of internal memory.",
+      "answer": "RAM (Random Access Memory) and ROM (Read Only Memory) are both types of internal computer memory but differ significantly. RAM is volatile memory, meaning it loses all stored data when the computer is turned off. It is used to temporarily store data and programs that are currently in use by the processor, allowing for quick read and write access. ROM, on the other hand, is non-volatile memory. The information stored in ROM is permanently written during manufacturing and can only be read by the computer, not modified by normal user operations. It contains essential startup instructions (firmware) for the computer."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the difference between hardware and software with examples.",
+      "answer": "Hardware refers to the physical, tangible components of a computer system that you can see and touch. These are the electronic and mechanical parts. Examples include the keyboard, mouse, monitor, CPU, printer, and hard disk. Software, in contrast, refers to the intangible set of instructions, programs, and data that tell the hardware what to do and how to do it. Examples include the operating system (like Windows), application programs (like Microsoft Word, Excel), and utilities. Hardware cannot function without software, and software requires hardware to run."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Describe the steps involved in creating a document with an equation using Microsoft Word.",
+      "answer": "To create a document with an equation in Microsoft Word, first, click the Word icon on the desktop to launch the application. Then, select 'New' from the 'File' tab and choose 'Blank Document'. Type your text on the blank page. To insert an equation, navigate to the 'Insert' tab on the ribbon. Click on the 'Equation' option. A dropdown or a dedicated area will appear where you can select a pre-built equation or choose to insert a new one. You can then type the equation using the mathematical symbols and structures provided in the equation tools design tab that appears."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the process of drawing a graph based on numerical data in Microsoft Excel.",
+      "answer": "To draw a graph in Microsoft Excel, first, open Excel and create a new blank workbook. Enter your numerical data neatly into the cells of a worksheet, ideally in a tabular format with labels. Next, select the range of cells containing the data you want to graph. Then, go to the 'Insert' tab on the ribbon. Here, you will find various chart types (like Column, Line, Pie). Click on the chart type that best represents your data (e.g., a line graph for trends). Excel will automatically generate the graph on your worksheet. You can then use the Chart Tools (Design and Format tabs) to customize the graph's title, labels, colors, and style for better analysis and presentation."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "List and explain four key precautions one should take while entering data into a spreadsheet.",
+      "answer": "While entering data into a spreadsheet, several precautions ensure accuracy and ease of use: 1) **Tabular Form:** Data should be kept in a neat, organized table with different types of data in separate columns. This makes it easier to read, select, and analyze. 2) **Avoid Spacing:** Unnecessary spaces and special characters should not be used within data cells, as they can interfere with sorting, filtering, and formulas. 3) **Consistent Flow:** Data should be entered in a consistent, logical order (e.g., chronologically or alphabetically) to maintain clarity. 4) **Careful Formatting:** Once data is entered, use cell formatting options (like number, date, currency formats) appropriately to ensure data is interpreted correctly, especially before using formulas."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Describe the steps to create a basic presentation using Microsoft PowerPoint.",
+      "answer": "To create a presentation in Microsoft PowerPoint, start by launching the application from the desktop icon. Under the 'File' tab, select 'New' and then choose 'Blank Presentation' to start with a simple slide. On the first slide, you can add a title and subtitle by clicking on the respective text placeholders. To add more content, go to the 'Home' tab and click 'New Slide'. Choose a slide layout that fits your content (e.g., Title and Content). On the new slide, type your information in the text boxes. To insert pictures, go to the 'Insert' tab and select 'Pictures'. Use the 'Design' tab to apply a consistent theme or color scheme to all slides. Finally, use the 'Animations' tab to add movement to slide elements and the 'Slide Show' tab to present your work."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "How is ICT used in the field of science for demonstration and prediction? Provide examples.",
+      "answer": "ICT plays a transformative role in science for demonstration and prediction. For **demonstration**, complex scientific experiments or concepts that are difficult, dangerous, or expensive to perform physically can be easily and effectively shown using simulations and animations. For example, the functioning of the human nervous system or chemical reactions at the atomic level can be vividly demonstrated. For **prediction**, ICT tools are used to compile, process, and analyze massive datasets to forecast future events or trends. A prime example is meteorology, where supercomputers process data from satellites and sensors to predict weather patterns and potential natural disasters like storms or floods."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain the various opportunities available in the field of computers, categorizing them into different sectors.",
+      "answer": "The field of computers offers diverse career opportunities across several sectors: 1) **Software Field:** This involves creating programs and systems, including application development (like mobile apps), software package creation, operating system development, and scientific applications. 2) **Hardware Field:** Opportunities exist in designing, assembling, testing, producing, maintaining, and repairing physical computer components and systems. 3) **Training:** There is a significant need for competent and dedicated teachers and trainers to educate new entrants and professionals on computer skills and technologies. 4) **Marketing:** Companies that manufacture and sell computers and accessories require skilled sales personnel who understand the products and are effective at marketing them. Each sector requires specific skills and contributes to the growth of the ICT industry."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Describe the role and achievements of C-DAC (Centre for Development of Advanced Computing) in India's computer technology landscape.",
+      "answer": "The Centre for Development of Advanced Computing (C-DAC) in Pune is a leading Indian institute in computer research and development. Its most notable achievement is playing a key role in the development of India's first supercomputer, 'PARAM', under the guidance of senior scientist Vijay Bhatkar. 'Param', meaning supreme, was capable of performing one billion calculations per second. C-DAC's work has had a significant impact on national projects in diverse fields such as space research, geological studies (like movements inside the earth), oil deposit research, medicine, meteorology, engineering, and defense. Furthermore, C-DAC contributed to developing the Indian Script Code for Information Interchange (ISCII), which facilitates the digital use of various Indian languages."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "What are the different generations of computers? Briefly explain the key characteristic of first-generation computers.",
+      "answer": "Computers are said to have evolved through five generations. The first generation of computers existed from approximately 1946 to 1959. The key characteristic of these computers was the use of vacuum tubes (valves) for circuitry and magnetic drums for memory. These tubes were large, generated a significant amount of heat, and consumed a great deal of electricity, which often caused the computers to overheat and shut down frequently. They were also very large in physical size, occupied entire rooms, and were limited in processing power and speed compared to modern computers. The ENIAC is a famous example of a first-generation computer."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "How does the increased speed of computers enable their use in all fields today?",
+      "answer": "The dramatically increased speed of modern computers is the fundamental enabler for their pervasive use across all fields today. Higher processing speeds allow computers to handle extremely complex calculations, analyze vast amounts of data (big data), and run sophisticated software applications in seconds or less. This capability is essential in fields like scientific research (e.g., simulating climate models or genetic sequences), medicine (e.g., processing MRI scans), finance (e.g., high-frequency trading), engineering (e.g., 3D modeling and simulation), and daily business operations. Speed ensures efficiency, accuracy, and the ability to tackle tasks that were previously impossible or would have taken impractically long periods, thereby integrating computers into the core functions of every sector."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Why is an operating system essential for using a computer?",
+      "answer": "An operating system (OS) is essential software that acts as an intermediary between the computer hardware and the user. It manages all the hardware resources (like the CPU, memory, and storage) and provides common services for computer programs. Without an OS, a user cannot interact with the computer's hardware directly as it would require complex machine-language commands. The OS provides a user-friendly interface (like a graphical desktop) to launch applications, manage files, and configure settings. It also handles critical tasks such as memory management, task scheduling, and disk management, ensuring that multiple applications can run smoothly without interfering with each other. In short, the OS makes the computer's powerful hardware accessible and usable for practical tasks."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Explain how ICT tools like email, video conferencing, and blogs are used for collecting scientific information.",
+      "answer": "ICT tools provide powerful and efficient platforms for collecting scientific information globally. **Email** allows researchers to communicate directly, share findings, data, and research papers instantly with colleagues across the world. **Video conferencing** enables real-time virtual meetings, seminars, and collaborative discussions, making it possible for scientists to share visual data, present live experiments, and brainstorm without geographical constraints. **Blogs** and **newsgroups** serve as platforms where scientists and enthusiasts can publish informal articles, preliminary findings, and discussions on specific topics, fostering community engagement and crowdsourcing of ideas. Together, these tools accelerate the dissemination of knowledge, facilitate collaboration, and help build a comprehensive, accessible repository of scientific information."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What are the sub-fields of opportunity within the computer hardware sector?",
+      "answer": "The computer hardware sector offers a variety of specialized job opportunities. **Hardware Designing** involves creating blueprints and specifications for new computer components. **Hardware Production** focuses on the manufacturing and assembly of these components in factories. **Hardware Assembly and Testing** is the process of putting together complete systems from individual parts and rigorously checking their functionality. **Hardware Maintenance, Servicing, and Repairs** is a crucial field where technicians diagnose issues, replace faulty parts, and perform regular upkeep to ensure computers, especially in large organizations, run efficiently without interruption. Additionally, companies need personnel for quality control, supply chain management, and technical support related to hardware products."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Describe the importance of competent teachers in the computer training field.",
+      "answer": "Competent teachers are the backbone of the computer training field. As technology evolves rapidly, there is a constant need to train new entrants, professionals, and the general public on the latest hardware, software, and digital skills. Dedicated and knowledgeable teachers can effectively bridge the gap between complex technological concepts and learners. They can design relevant curricula, provide hands-on practical experience, and inspire students to pursue careers in ICT. Their role is critical not only in formal education institutions but also in vocational training centers and corporate settings. By producing a skilled workforce, these teachers directly contribute to national technological advancement and economic growth."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What are the capabilities of the PARAM supercomputer, and in which areas is it applied?",
+      "answer": "The PARAM supercomputer, India's first indigenously developed supercomputer, was a landmark achievement. It was capable of performing one billion (10^9) calculations per second, which is known as 1 gigaflop. This immense processing power allows it to handle highly complex and data-intensive tasks. The applications of PARAM span numerous critical fields: In **space research**, it models spacecraft trajectories and cosmic phenomena. In **geology**, it simulates movements within the Earth's interior. For **oil exploration**, it analyzes geological data to locate deposits. In **medicine**, it aids in drug discovery and genomic research. In **meteorology**, it runs weather prediction models. It is also used in **engineering** for simulations and in the **military** for strategic applications."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Compare the utility of a computer, a radio, and a television as ICT devices in the context of science communication.",
+      "answer": "Computers, radios, and televisions are all important ICT devices but serve different roles in science communication. **Computers** are the most versatile, allowing for interactive learning, complex simulations, data analysis, and access to a global repository of information via the internet. They enable two-way communication and deep engagement with scientific content. **Television** is a powerful mass media tool for broadcasting documentaries, educational programs, and news about scientific discoveries to a wide audience, using visuals and audio to explain concepts effectively. **Radio**, primarily an audio medium, is excellent for disseminating scientific news, discussions, and educational content to remote areas where other infrastructure might be lacking, promoting basic scientific awareness. While computers offer depth and interaction, TV and radio excel in reach and accessibility."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the statement: 'We cannot use a computer without its operating system.'",
+      "answer": "This statement highlights the fundamental role of the operating system (OS). The OS is the master control program that manages all the computer's hardware resources (CPU, memory, storage, peripherals) and provides a platform for application software to run. Without an OS, the computer's hardware is just a collection of electronic components with no instructions on how to function together or interact with a user. A user cannot directly give commands to the hardware in machine language. The OS provides the essential interface (like a graphical desktop or command line) that allows users to launch programs, create files, and manage tasks. It also handles critical behind-the-scenes operations like memory allocation and file management. Therefore, an OS is the indispensable software layer that makes the computer usable."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What is the significance of the ISCII code developed with C-DAC's participation?",
+      "answer": "The Indian Script Code for Information Interchange (ISCII) is a significant coding standard developed with participation from C-DAC. Before its development, digitally representing the diverse and complex scripts of Indian languages (like Devanagari, Tamil, Bengali) was a major challenge, as standard ASCII was limited to English characters. ISCII provided a unified 8-bit code that could represent the characters of most major Indian languages, allowing them to be used on computers and digital platforms. This was a crucial step in promoting digital literacy and preserving linguistic heritage in India. It enabled the creation of word processors, fonts, and websites in Indian languages, fostering inclusion and ensuring that the benefits of ICT could reach non-English speaking populations."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "How can a flowchart be useful when creating a PowerPoint presentation?",
+      "answer": "A flowchart is an extremely useful planning tool when creating a PowerPoint presentation. It serves as a visual blueprint that outlines the logical sequence and structure of the entire presentation before any slides are made. The flowchart can map out the main topic, key subtopics, the order in which points will be introduced, the placement of visuals or animations, and transitions between ideas. This planning helps ensure the presentation has a clear, coherent flow, avoids repetition, and covers all necessary points effectively. It also aids in time management and allows the presenter to anticipate audience questions. By following the steps in the flowchart during creation, one can build a more organized, focused, and impactful presentation."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Describe the various methods mentioned in the chapter for using ICT to demonstrate scientific experiments.",
+      "answer": "The chapter highlights that ICT, particularly through software tools, offers innovative methods to demonstrate scientific experiments that might be challenging in a traditional lab setting. The primary method is the use of **simulations** and **animations**. Simulations are interactive software models that mimic the behavior of a real-world process or system. For example, a simulation can show the flow of electricity in a circuit or the orbits of planets. Animations are moving graphical representations that can visually explain concepts step-by-step, such as the process of photosynthesis or the transmission of nerve impulses. These digital demonstrations are safe, cost-effective, repeatable, and can visualize phenomena that are too small (atoms), too large (galaxies), too fast, or too dangerous to demonstrate physically."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What challenges might have been faced by scientists and engineers while developing first-generation computers, and how did science help overcome them in later generations?",
+      "answer": "Developing first-generation computers presented major challenges: the vacuum tubes were bulky, unreliable, generated excessive heat, and consumed huge amounts of power, leading to frequent failures. Scientific and technological advancements directly addressed these issues. The invention of the **transistor** (a solid-state device) in the late 1940s led to second-generation computers that were smaller, more reliable, energy-efficient, and generated far less heat. Further scientific progress in **integrated circuits (ICs)** and **microprocessors** (packing millions of transistors on a tiny chip) led to the subsequent generations. These advancements in materials science and electronics, driven by basic and applied research, resulted in the exponential increase in speed, decrease in size and cost, and dramatic improvement in reliability that define modern computers."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Explain how the 'drag and fill' feature along with the 'smart tag' can be used efficiently in a spreadsheet.",
+      "answer": "The 'drag and fill' feature in spreadsheets like Microsoft Excel is a powerful tool for quickly populating cells with data that follows a pattern (like days of the week, months, or a numeric series). To use it, you enter the starting value(s) in a cell, then click and drag the small square (fill handle) at the bottom-right corner of the cell selection across other cells. Excel automatically continues the pattern. The 'smart tag' (a small icon that appears after filling) enhances this process. When you click the smart tag, it offers options to control how the data was filled. For example, you can choose to 'Copy Cells' (repeats the same value), 'Fill Series' (continues the pattern), 'Fill Formatting Only', or 'Fill Without Formatting'. This allows for flexible and efficient data entry, saving time and reducing manual errors."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Why is it suggested to take help from teachers, parents, and friends while learning to use ICT for science and technology subjects?",
+      "answer": "Learning to use ICT tools effectively, especially for academic purposes, can involve technical challenges and a learning curve. Teachers, parents, and friends provide a crucial support system. **Teachers** offer structured guidance, clarify complex concepts related to both the subject (science) and the tool (software), and can provide practical, curriculum-relevant projects. **Parents** can offer encouragement, help create a conducive learning environment at home, and assist with accessing resources. **Friends** enable peer learning, which is highly effective; they can collaborate on projects, share tips and shortcuts, troubleshoot problems together, and make the learning process more engaging and less daunting. This collaborative approach fosters better understanding, builds confidence, and helps overcome technical or conceptual hurdles more efficiently."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "What are the different types of software development opportunities mentioned in the chapter?",
+      "answer": "The chapter categorizes software development opportunities into several key areas: 1) **Application Program Development:** This involves creating end-user software for specific tasks, such as word processors, games, or educational programs. 2) **Software Package Development:** This refers to building suites of related applications or tools bundled together, like an office suite (e.g., Microsoft Office) or graphic design software. 3) **Operating Systems and Utility Development:** This is a core area focused on creating the fundamental system software that manages hardware (like Windows, Linux) and utility programs that perform maintenance tasks (like antivirus software, disk cleaners). 4) **Special Purpose Scientific Applications:** This involves developing highly specialized software for research and analysis in fields like engineering, medicine, astronomy, and physics, such as simulation software or data analysis tools."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How does the use of ICT in marketing computer products differ from other forms of marketing?",
+      "answer": "Marketing computer products using ICT has distinct characteristics compared to traditional marketing. Firstly, it often requires the marketing personnel to have **technical knowledge** about the computers' hardware specifications, software capabilities, and performance benchmarks, as customers seek detailed information. Secondly, ICT enables **digital and online marketing** strategies, such as creating informative websites, using social media campaigns, email newsletters, and online advertisements that can be highly targeted. Thirdly, demonstrations and tutorials using software simulations or video conferencing can be part of the sales process. Unlike marketing everyday consumer goods, computer marketing blends technical expertise with salesmanship, often involving educating the customer about the product's features and benefits in a technology-driven landscape."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Analyze the impact of the transition from valve-based to modern computers on their applications in various fields.",
+      "answer": "The transition from bulky, unreliable, valve-based first-generation computers to modern microchip-based computers has revolutionized their applications. Initially, computers were room-sized, expensive, and used only for basic numerical calculations by governments and large universities (e.g., ENIAC for ballistic calculations). Their limited speed and reliability restricted widespread use. The development of transistors, integrated circuits, and microprocessors led to exponential increases in speed, reliability, and energy efficiency while drastically reducing size and cost. This transformation made computers affordable, portable, and powerful enough to be integrated into every imaginable field. Today, they are indispensable in medicine (for diagnostics and research), communication (internet, mobile networks), entertainment, education, business, scientific research (complex simulations), and even household appliances, fundamentally shaping the modern world."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Imagine you have to teach the working of a computer to a younger student. How would you use a simple analogy to explain the Input, Processor, and Output units?",
+      "answer": "To explain a computer's working to a younger student, I would use the analogy of a **kitchen making a cake**. 1) **Input Unit:** This is like gathering the raw ingredients (flour, eggs, sugar) and the recipe. In a computer, this is you using the keyboard and mouse to put in data and instructions. 2) **Processor (CPU & Memory):** This is like the chef and the kitchen counter. The chef (CPU) reads the recipe (program), uses the counter (Memory - RAM) to mix and prepare the ingredients, and follows all the steps (processing). The chef's brain (Control Unit) directs the actions. 3) **Output Unit:** This is the final, baked cake coming out of the oven, ready to be served. In a computer, this is the result shown on the monitor or printed on paper. Just as ingredients become a cake through mixing and baking, data becomes useful information through the computer's processing."
+    }
+  ]
+}

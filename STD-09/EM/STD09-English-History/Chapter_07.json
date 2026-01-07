@@ -1,0 +1,1491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.History.07",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Science and Technology"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was appointed as the first Chairman of the Indian Atomic Energy Commission?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr Homi Sethna",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr Homi Bhabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dr Raja Ramanna",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dr A.P.J. Abdul Kalam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr Homi Bhabha"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In which year was India's first nuclear reactor, 'Apsara', set up?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1948",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1956",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1969",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1974",
+          "is_correct": false
+        }
+      ],
+      "answer": "1956"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where was India's first atomic power station set up?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kalpakkam",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tarapur",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trombay",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pokharan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tarapur"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which completely Indian-made nuclear reactor was started in 1985?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Apsara",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dhruva",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Kamini",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cirus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dhruva"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What fuel does the Dhruva nuclear reactor use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thorium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plutonium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Uranium",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Heavy Water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uranium"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "When was India's first nuclear test conducted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "18 May 1974",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "11 May 1998",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "10 August 1948",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "15 August 1969",
+          "is_correct": false
+        }
+      ],
+      "answer": "18 May 1974"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who played a major role in conducting India's first nuclear test in 1974?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr Homi Bhabha and Dr A.P.J. Abdul Kalam",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr Homi Sethna and Dr Raja Ramanna",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dr A.P.J. Abdul Kalam and Dr E. Sreedharan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sam Pitroda and Dr Raja Ramanna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr Homi Sethna and Dr Raja Ramanna"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister took the decision to carry out the first nuclear explosion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pandit Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indira Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Atal Bihari Vajpayee",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rajiv Gandhi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why was Pokharan chosen for the nuclear test?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It had abundant groundwater reserves.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It was close to human settlements.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It was far from human settlement and had no groundwater reserves.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "It was a coastal region.",
+          "is_correct": false
+        }
+      ],
+      "answer": "It was far from human settlement and had no groundwater reserves."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What was the reaction of the USA after India's second nuclear test in 1998?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It provided advanced technology to India.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It imposed economic sanctions on India.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It signed a nuclear deal with India.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It congratulated India.",
+          "is_correct": false
+        }
+      ],
+      "answer": "It imposed economic sanctions on India."
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is known as the 'Missile Man' of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr Homi Bhabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr A.P.J. Abdul Kalam",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dr Raja Ramanna",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dr Homi Sethna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr A.P.J. Abdul Kalam"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Under whose leadership was the Integrated Guided Missile Development Programme (IGMDP) carried out?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr Homi Bhabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr A.P.J. Abdul Kalam",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dr Raja Ramanna",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dr Homi Sethna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr A.P.J. Abdul Kalam"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which missile was given to the Indian Army under the IGMDP?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prithvi-2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Prithvi-3",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Prithvi-1",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Agni-1",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prithvi-1"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which missile is a 'fire and forget' type anti-tank missile?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Akash",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nag",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Prithvi",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Agni",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nag"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "From where was India's first research rocket launched?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sriharikota",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thumba Equatorial Launch Center",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "French Guiana",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Kolkata",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thumba Equatorial Launch Center"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "When was the first Indian satellite, Aryabhatta, launched?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1967",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1975",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1979",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1981",
+          "is_correct": false
+        }
+      ],
+      "answer": "1975"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "When was ISRO established?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1969",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "10 August 1948",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "19 June 1981",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "August 1983",
+          "is_correct": false
+        }
+      ],
+      "answer": "15 August 1969"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which was the first completely indigenously built communication satellite by ISRO?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aryabhatta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bhaskar-1",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "APPLE",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "INSAT 1-B",
+          "is_correct": false
+        }
+      ],
+      "answer": "APPLE"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What was the main purpose of the Bhaskar-1 satellite?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Telecommunication",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Weather forecasting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Remote sensing for observing Earth's surface",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Military surveillance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Remote sensing for observing Earth's surface"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which satellite brought a major revolution in telecommunication, TV, radio, and weather forecasting in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aryabhatta",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bhaskar-1",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "INSAT 1-B",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rohini-75",
+          "is_correct": false
+        }
+      ],
+      "answer": "INSAT 1-B"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "In which year was the telex service started in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1963",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1969",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1972",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1976",
+          "is_correct": false
+        }
+      ],
+      "answer": "1963"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "When was the Pincode system introduced in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1969",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "15 August 1972",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "15 August 1975",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "15 August 1986",
+          "is_correct": false
+        }
+      ],
+      "answer": "15 August 1972"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does the first digit of a Pincode indicate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sub-region",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Main disbursement district",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Region",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Local post office",
+          "is_correct": false
+        }
+      ],
+      "answer": "Region"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "When did the mobile phone service start in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "22 August 1994",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "15 August 1990",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1 January 1995",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "19 June 1981",
+          "is_correct": false
+        }
+      ],
+      "answer": "22 August 1994"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which organization was established in 1956 to search for mineral oil and natural gas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Oil Corporation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oil and Natural Gas Corporation (ONGC)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bharat Petroleum",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gas Authority of India Ltd.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oil and Natural Gas Corporation (ONGC)"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Where did ONGC start digging an oil well with the help of a drillship called 'Sagar Samrat'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gulf of Khambhat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bombay High",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ankleshwar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Digboi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bombay High"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who is known as the 'Metroman' of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr A.P.J. Abdul Kalam",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sam Pitroda",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "E. Sreedharan",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dr Homi Bhabha",
+          "is_correct": false
+        }
+      ],
+      "answer": "E. Sreedharan"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "In which year did the Konkan Railway start?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1984",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1998",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "2000",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1994",
+          "is_correct": false
+        }
+      ],
+      "answer": "1998"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Where was the computerized railway reservation system started for the first time in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mumbai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kolkata",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Delhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Chennai",
+          "is_correct": false
+        }
+      ],
+      "answer": "Delhi"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the range of the Agni-1 missile as mentioned in the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "150-300 km",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "30 km",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "700 km",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "500-1000 km",
+          "is_correct": false
+        }
+      ],
+      "answer": "700 km"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an objective of the Indian Atomic Energy Commission as stated in the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Produce electricity from atomic energy.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Increase the yield of food grains.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Develop nanotechnology.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Conduct nuclear weapons tests for military purposes.",
+          "is_correct": true
+        }
+      ],
+      "answer": "Conduct nuclear weapons tests for military purposes."
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What was the name of the institution set up to research manufacturing heavy water in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heavy Water Projects",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Heavy Water Board",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Atomic Water Division",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nuclear Water Commission",
+          "is_correct": false
+        }
+      ],
+      "answer": "Heavy Water Projects"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister assured 'no first use' of nuclear weapons after the 1998 tests?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indira Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajiv Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "P.V. Narasimha Rao",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Atal Bihari Vajpayee",
+          "is_correct": true
+        }
+      ],
+      "answer": "Atal Bihari Vajpayee"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What was the capacity of the Prithvi missile to carry nuclear weapons?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "100-200 kg",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "500-1000 kg",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "720 kg",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1500 kg",
+          "is_correct": false
+        }
+      ],
+      "answer": "500-1000 kg"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is the purpose of the Akash missile?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Surface to surface attack",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Surface to air attack",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anti-tank",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Submarine launched",
+          "is_correct": false
+        }
+      ],
+      "answer": "Surface to air attack"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which indigenous rocket was successfully launched in 1967?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rohini-75",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Aryabhatta",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bhaskar-1",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "APPLE",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rohini-75"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What service did the APPLE satellite provide?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Remote sensing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Weather forecasting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Emergency telecommunication services",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Oceanography",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emergency telecommunication services"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the main benefit of the telemedicine service enabled by INSAT?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Connects radio stations.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forecasts cyclones.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Connects rural health centers with specialty hospitals for expert advice.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Provides internet service.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Connects rural health centers with specialty hospitals for expert advice."
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "When was the International Subscriber Dialling (ISD) service started between Mumbai and London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1963",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1972",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1976",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1986",
+          "is_correct": false
+        }
+      ],
+      "answer": "1976"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which company was the main internet service provider in India in the 1990s?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bharat Sanchar Nigam Limited (BSNL)",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mahanagar Telephone Nigam Limited (MTNL)",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Videsh Sanchar Nigam Limited (VSNL)",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Oil and Natural Gas Corporation (ONGC)",
+          "is_correct": false
+        }
+      ],
+      "answer": "Videsh Sanchar Nigam Limited (VSNL)"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "When is National Science Day celebrated in India?",
+      "answer": "28th February."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the nuclear reactor set up in 1956 that functioned on atomic energy.",
+      "answer": "Apsara."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Where was the Reactor Research Centre set up to use Thorium for atomic power?",
+      "answer": "Kalpakkam in Tamil Nadu."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How many radioactive substances are produced at the Dhruva nuclear reactor center?",
+      "answer": "350 radioactive substances."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "In which year was the Nuclear Power Corporation of India Ltd. (NPCIL) set up?",
+      "answer": "1987."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Name the two scientists who played a major role in India's first nuclear test in 1974.",
+      "answer": "Dr Homi Sethna and Dr Raja Ramanna."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What policy did India adopt after the USA refused technology post-1974?",
+      "answer": "India adopted a policy of developing its own missile development programme."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "When was the Defence Research and Development Organisation (DRDO) established?",
+      "answer": "1958."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Which missile was developed to destroy enemy tanks?",
+      "answer": "Nag missile."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "From where was India's first satellite, Aryabhatta, launched?",
+      "answer": "It was launched with help from Soviet Russia."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Where are the headquarters of ISRO located?",
+      "answer": "Bengaluru."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does APPLE stand for?",
+      "answer": "Ariane Passenger Payload Experiment."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What was the primary use of remote sensing technology from Bhaskar-1?",
+      "answer": "To observe water bodies, mineral deposits, and forecast weather."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How many Akashwani stations could INSAT connect?",
+      "answer": "207 stations."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where was the first diesel engine manufactured in India?",
+      "answer": "Diesel Locomotive Works, Varanasi."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "In which script did the telex service start in Delhi in 1969?",
+      "answer": "Devanagari script."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Where was the first domestic satellite communication earth station established in India?",
+      "answer": "Jodhpur Tekra near Ahmedabad (in 1967)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the Postal Index Code (Pincode)?",
+      "answer": "To bring efficiency in distributing mail."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name the person whose contribution to telecommunications is mentioned as significant.",
+      "answer": "Sam Pitroda."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What was the initial cost of a mobile handset in India in 1994?",
+      "answer": "Rs. 45,000."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "When was Bharat Sanchar Nigam Limited (BSNL) established?",
+      "answer": "2000."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Where were mineral oil deposits found in Gujarat after Digboi?",
+      "answer": "Ankleshwar area."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What percentage of India's crude oil demand did Bombay High meet?",
+      "answer": "14%."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the length of the longest tunnel on the Konkan Railway?",
+      "answer": "6.5 km (at Karbude)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Where was the Metro first started in India?",
+      "answer": "Kolkata."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Name any two countries to which India exported railway engines.",
+      "answer": "Sri Lanka and Bangladesh (or Tanzania, Vietnam)."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What technology is used in Konkan Railway engines to avoid landslides?",
+      "answer": "Sensors are fitted to the engines."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What was the call rate per minute when mobile service started in India?",
+      "answer": "₹17 per minute."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which missile has a range of 30 km and carries 720 kg explosives?",
+      "answer": "Akash missile."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the key feature of the Nag missile?",
+      "answer": "It is a 'fire and forget' type anti-tank missile."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the reasons why Pandit Jawaharlal Nehru established the Atomic Energy Commission.",
+      "answer": "Pandit Jawaharlal Nehru established the Indian Atomic Energy Commission on 10th August 1948 to nurture a scientific temper and bring about the nation's progress. He envisioned using atomic energy for peaceful purposes to drive development. The specific objectives included producing electricity from atomic energy, increasing the yield and preservation of food grains, developing relevant technologies, and fostering advancements in fields like nanotechnology. This initiative was part of his broader vision to build a modern, self-reliant India based on scientific and technological prowess."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the significance of India's first nuclear test at Pokharan in 1974.",
+      "answer": "India's first nuclear test at Pokharan on 18th May 1974 was a landmark event with multiple significances. It demonstrated India's scientific and technological capability in mastering nuclear energy. Conducted under the policy of using nuclear energy for peaceful purposes and self-sufficiency, it was a peaceful nuclear explosion. The test was also a strategic response to the regional security environment, particularly China's nuclear capability and Pakistan's efforts to acquire nuclear weapons. It showcased India's independence in critical technology after the USA denied defence-related know-how, leading India to develop its own missile programme. The test established India as a member of the select group of nations with nuclear capability, boosting national confidence and strategic autonomy."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Why did the USA impose economic sanctions on India after the 1998 nuclear tests?",
+      "answer": "The USA imposed economic sanctions on India immediately after its second series of nuclear tests on 11th May 1998. This action was part of the international community's, particularly the nuclear-armed states', non-proliferation policy to discourage other nations from developing or testing nuclear weapons. The tests, which included a thermonuclear device (hydrogen bomb), were seen as escalating nuclear proliferation in a sensitive region. Despite India's assurance of 'no first use' by Prime Minister Atal Bihari Vajpayee, the USA and other countries viewed the tests as a violation of the global non-proliferation norms and a threat to regional stability, leading to punitive economic measures."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the role and achievements of Dr. A.P.J. Abdul Kalam in India's missile development programme.",
+      "answer": "Dr. A.P.J. Abdul Kalam, known as the 'Missile Man' of India, played a pivotal role in conceiving and leading the Integrated Guided Missile Development Programme (IGMDP) under the Defence Research and Development Organisation (DRDO). His leadership was instrumental in developing a range of indigenous missiles, making India self-reliant in missile technology. Key achievements under his guidance include the development of Prithvi (surface-to-surface ballistic missile for Army, Air Force, and Navy variants), Agni (strategic ballistic missiles with ranges up to 700 km and beyond to deter neighbours like China and Pakistan), Akash (surface-to-air missile), and Nag (fire-and-forget anti-tank missile). His contributions transformed India's defence capabilities, secured its borders, and established him as the father of India's missile programme."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Describe the evolution of India's space research programme from its beginnings to the establishment of ISRO.",
+      "answer": "India's space research programme began in 1961 with the launch of the first research rocket from the Thumba Equatorial Launch Center in Kerala by the Indian National Committee for Space Research (INCOSPAR). A major milestone was the successful launch of the indigenously built rocket Rohini-75 in 1967. The programme achieved a significant leap in 1975 with the launch of the first Indian satellite, Aryabhatta, with Soviet assistance, proving Indian capability in satellite building. Following these foundational successes, the Indian Space Research Organisation (ISRO) was formally established on 15th August 1969 to consolidate and advance space research. Headquartered in Bengaluru, ISRO took over the responsibility of furthering rocket and satellite projects, setting up launch facilities like Sriharikota, and steering India towards becoming a leading space-faring nation."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "How has satellite technology, particularly INSAT, influenced everyday services in India?",
+      "answer": "Satellite technology, especially through the Indian National Satellite (INSAT) system launched from 1983, has revolutionised everyday services in India. INSAT enabled a major transformation in telecommunications by connecting hundreds of radio stations (Akashwani) across the country. It revolutionised television broadcasting, bringing national programming to remote areas. In meteorology, it improved weather forecasting and cyclone tracking, aiding disaster management. It facilitated search and rescue operations during disasters like shipwrecks. Importantly, it enabled telemedicine, connecting rural primary health centers with urban super-specialty hospitals for expert consultation. It also supported educational services like distance learning. Thus, INSAT has deeply impacted communication, broadcasting, disaster management, healthcare, and education in daily life."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the key technological features and records of the Konkan Railway.",
+      "answer": "The Konkan Railway, started in 1998, is an engineering marvel with several technological records. Stretching 760 km across Maharashtra, Goa, Karnataka, and Kerala, it features 92 tunnels, the longest being the 6.5 km tunnel at Karbude. It has 179 major and 1,819 minor bridges. The most notable bridges are the 2,065.8-meter-long bridge over the Sharavati River near Honnawar (the longest) and the 64-meter-tall bridge over the Panval River near Ratnagiri (India's tallest bridge at the time). To enhance safety in landslide-prone areas, sensors are fitted on railway engines for early detection. These features showcase advanced engineering in difficult terrain, making it a vital and technologically sophisticated artery on India's western coast."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "What were the objectives behind setting up the Oil and Natural Gas Corporation (ONGC), and what were its major achievements?",
+      "answer": "The Oil and Natural Gas Corporation (ONGC) was established in 1956 with the primary objectives of exploring and increasing the production of mineral oil and natural gas reserves within India to achieve energy self-sufficiency. Its major achievements include the discovery of significant oil fields in Ankleshwar, Gujarat, after the initial finds in Digboi, Assam. A landmark achievement was the discovery and exploitation of the 'Bombay High' offshore oil field in 1974, with extraction beginning in 1975 using the drillship 'Sagar Samrat' with Russian assistance. This field alone eventually contributed 38% of India's total mineral oil production and met 14% of the country's crude oil demand through over 8,500 oil wells and 33 gas wells. ONGC's efforts drastically reduced India's dependence on imported oil and strengthened its energy security."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Trace the development of telecommunication services in India from telex to mobile phones as mentioned in the chapter.",
+      "answer": "The development of telecommunication in India, as outlined in the chapter, began with the introduction of the telex service in 1963 by the Department of Telecommunications for rapid typed message transmission. In 1969, it expanded to Devanagari script in Delhi. Satellite communication advanced with the establishment of the first domestic earth station at Jodhpur Tekra (Ahmedabad) in 1967 and an international centre at Aarvi (Pune) in 1970. The International Subscriber Dialling (ISD) service started in 1976, connecting Mumbai and London directly. The 1980s saw the rise of VSNL as a key player in international telecom and internet services. The mobile phone era began on 22nd August 1994 with expensive handsets and call rates, which later became affordable with private sector entry. The restructuring in 2000 led to the formation of BSNL, providing integrated services like telephone, cellular, internet, and broadband. This journey reflects a rapid transition from analogue to digital, wire-based to wireless communication."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Discuss the impact of the 1974 nuclear test on India's policy towards self-reliance in defence technology.",
+      "answer": "The 1974 nuclear test at Pokharan had a profound impact on India's policy towards self-reliance in defence technology. Following the test, the United States and other Western nations imposed technology denial regimes, refusing to share advanced technology in defence-related fields such as space research, communications, and missile development. This external pressure acted as a catalyst, pushing India to adopt a firm policy of indigenisation and self-reliance. Instead of depending on foreign assistance, India decided to develop its own missile development programme. This led to the creation of the Integrated Guided Missile Development Programme (IGMDP) under DRDO, spearheaded by Dr. A.P.J. Abdul Kalam. The test, therefore, was a turning point that strengthened India's resolve to build indigenous capabilities, leading to the successful development of missiles like Prithvi, Agni, Akash, and Nag, and cementing its status as a technologically independent power in defence."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "What were the main objectives of the Indian Atomic Energy Commission at its inception?",
+      "answer": "At its inception in 1948, the Indian Atomic Energy Commission, under the vision of Pandit Nehru and the chairmanship of Dr Homi Bhabha, had several key objectives focused on peaceful applications of atomic energy for national development. These included: (1) Harnessing atomic energy to produce electricity for industrial and domestic use, (2) Applying nuclear science to increase agricultural yield and improve food grain preservation, (3) Developing the necessary technological infrastructure and expertise within the country to achieve these goals, and (4) Fostering advanced scientific fields like nanotechnology. The overarching aim was to build a scientifically advanced nation, reduce dependence on external sources, and use science as a tool for socio-economic progress and self-sufficiency."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "How did the 'APPLE' satellite benefit India, and why was it significant?",
+      "answer": "The APPLE (Ariane Passenger Payload Experiment) satellite, launched on 19th June 1981 from French Guiana, was significant as it was the first completely indigenously built communication satellite by ISRO. Its primary benefit was in the field of emergency telecommunication services, proving India's capability to design, build, and operate a geostationary communication satellite. It was also beneficial in the field of education, likely by enabling experimental satellite-based communication for educational content distribution. The success of APPLE was a major confidence booster for Indian space scientists and a critical step towards self-reliance in satellite communication technology, paving the way for the more advanced INSAT series that would later transform India's telecom, broadcasting, and remote sensing capabilities."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain the role of the 'Heavy Water Board' in India's nuclear programme.",
+      "answer": "The 'Heavy Water Board', initially set up as 'Heavy Water Projects', plays a crucial role in India's nuclear power programme by ensuring the indigenous production of heavy water (deuterium oxide). Heavy water is used as a moderator and coolant in certain types of nuclear reactors, like the Pressurised Heavy Water Reactors (PHWRs) that form the backbone of India's nuclear power generation. The board was established to conduct research and set up factories for manufacturing heavy water within the country, reducing dependence on imports. Factories were set up at Vadodara, Talcher, Tuticorin, Kota, etc. By mastering this technology, India secured a critical component of its nuclear fuel cycle, supported the commissioning and operation of its PHWRs, and strengthened its strategic autonomy in the nuclear energy sector."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "What were the contributions of Sam Pitroda to India's telecommunication sector as per the chapter?",
+      "answer": "While the chapter mentions Sam Pitroda's contribution as 'significant' without elaborate detail, his work is historically associated with revolutionizing India's telecommunication sector in the 1980s. As an advisor to Prime Minister Rajiv Gandhi, he is credited with driving the vision for a modern digital telecom network. He championed the development of indigenous digital telephone exchanges (C-DOT), which helped expand rural telephony. His efforts were instrumental in pushing for the telecom revolution that aimed to connect India's vast population. The chapter's context suggests his contribution laid the groundwork for the expansion of services like telex, teleprinters, and the eventual transition to modern networks managed by entities like VSNL and MTNL, setting the stage for India's later ICT boom."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Describe the purpose and benefits of the Pincode system introduced in India.",
+      "answer": "The Pincode (Postal Index Code) system was introduced on 15th August 1972 by the Post and Telegraph Department with the primary purpose of bringing efficiency and speed to mail distribution across India. It is a six-digit code that systematically organizes the country's postal network. The first digit represents one of nine postal regions, the second indicates the sub-region, the third denotes the main sorting or disbursement district, and the last three digits pinpoint the specific local post office. This hierarchical system automated and streamlined the sorting process, reducing manual errors and delays. It ensured faster, more accurate delivery of letters and parcels, even to remote locations, by clearly defining the delivery path. The Pincode system remains a foundational element of India's logistical and communication infrastructure."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "How did the computerised railway reservation system improve rail travel in India?",
+      "answer": "The computerised railway reservation system, first introduced in Delhi in 1984, brought a transformative improvement to rail travel in India. It replaced the slow, manual, and error-prone paper-based booking system with an electronic network. This innovation brought efficiency by drastically reducing booking time, accuracy by minimizing human errors in seat allocation, and coordination by allowing real-time access to seat availability across multiple counters and later, across the country. It made the reservation process transparent, reliable, and faster for millions of passengers. The system laid the foundation for further advancements like online booking and chart preparation, fundamentally modernizing Indian Railways' passenger service and significantly improving the user experience."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What were the strategic reasons behind developing the Agni series of missiles?",
+      "answer": "The Agni series of ballistic missiles was developed for key strategic reasons. Primarily, it was to establish a credible deterrence against neighbouring nuclear-armed states, specifically China and Pakistan. The development of Agni-1, with a range of 700 km, was intended to signal India's missile strength and ensure the security of its borders. The subsequent Agni-2 and Agni-3 variants with longer ranges were developed to enhance this deterrence capability further, covering longer distances and carrying heavier payloads. These missiles provided India with a second-strike capability, strengthening its position in the region and contributing to strategic stability. The Agni programme was a cornerstone of India's policy of maintaining a minimum credible nuclear deterrent and achieving self-reliance in strategic defence systems."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Compare the functions of the Bhaskar-1 and INSAT satellites.",
+      "answer": "The Bhaskar-1 and INSAT satellites served distinct but complementary functions. Bhaskar-1 (launched 1979) was India's first experimental remote sensing satellite. Its primary function was to observe the Earth's surface using remote sensing technology for applications like mapping water bodies, identifying mineral deposits, environmental monitoring, forest surveys, oceanography, and weather forecasting. It provided valuable data for resource management and planning. In contrast, the INSAT (Indian National Satellite) series, starting with INSAT 1-B in 1983, was multipurpose communication satellites. Their functions included telecommunications (connecting radio/TV stations), television broadcasting, radio networking, weather forecasting, disaster warning (cyclone tracking), search and rescue services, telemedicine, and educational services. While Bhaskar was for 'observation' and data collection, INSAT was for 'communication' and service delivery."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Explain the importance of the Thumba Equatorial Launch Center in India's space journey.",
+      "answer": "The Thumba Equatorial Launch Center (TERLS) in Thumba, Kerala, holds immense importance as the birthplace of India's space programme. It was from here that India's first research rocket was launched in 1961 by the Indian National Committee for Space Research (INCOSPAR). Its location near the geomagnetic equator is ideal for launching sounding rockets for atmospheric and ionospheric studies. The early experiments and launches from Thumba, including the indigenous Rohini-75 in 1967, provided Indian scientists with crucial hands-on experience in rocket technology, launch operations, and data gathering. This foundational learning ground nurtured the first generation of Indian space scientists and engineers, building the technical confidence and expertise that eventually led to the establishment of ISRO and the development of satellite launch vehicles. Thumba represents the humble but determined beginnings of India's ambitious space odyssey."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What role did E. Sreedharan play in India's infrastructure development, and why is he called 'Metroman'?",
+      "answer": "E. Sreedharan is renowned as the 'Metroman' of India for his extraordinary leadership and engineering prowess in executing two landmark infrastructure projects: the Konkan Railway and the Delhi Metro. As the Managing Director of Konkan Railway Corporation, he oversaw the construction of the challenging 760 km railway line along the western coast, completed in 1998, which involved remarkable engineering feats like long tunnels and high bridges. Later, as the Chief of Delhi Metro Rail Corporation, he led the timely and efficient implementation of the Delhi Metro, transforming urban transport in the capital. His reputation for integrity, strict project management, and delivering complex projects on schedule earned him the nickname 'Metroman'. His work symbolizes the successful execution of large-scale public infrastructure in India."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How did the establishment of ISRO accelerate India's progress in space technology?",
+      "answer": "The establishment of the Indian Space Research Organisation (ISRO) on 15th August 1969 acted as a powerful accelerator for India's progress in space technology. Before ISRO, space activities were conducted by committees like INCOSPAR. ISRO provided a dedicated, centralized, and permanent institutional framework with a clear mandate for space research and application. It consolidated talent, resources, and planning under one roof. This led to focused and accelerated development: setting up major facilities like the launch centre at Sriharikota, developing indigenous launch vehicles (SLV, ASLV, PSLV, GSLV), and building a series of satellites for communication (INSAT, GSAT), remote sensing (IRS series), and science. ISRO's structured approach enabled mission-oriented projects, fostered international collaborations, and systematically applied space technology to national needs in communication, weather, resources, and security, propelling India into the league of advanced space-faring nations."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Describe the process and significance of extracting oil from 'Bombay High'.",
+      "answer": "The process of extracting oil from 'Bombay High' began in 1974 when the Oil and Natural Gas Corporation (ONGC), with assistance from Russian scientists, used a specially designed drillship named 'Sagar Samrat' to drill an exploratory well in the offshore basin. Commercial extraction started in 1975. The process involved drilling deep into the seabed to access the hydrocarbon reserves. Over time, a network of over 8,500 oil wells and 33 natural gas wells was developed in the area using fixed platforms and underwater pipelines to bring the oil and gas to shore for processing. The significance was monumental: Bombay High became India's largest oil field, at its peak contributing 38% of the country's total mineral oil production and meeting 14% of its crude oil demand. This discovery drastically reduced India's dependence on imported oil, saved foreign exchange, boosted the economy, and demonstrated India's capability in offshore exploration and production, marking a turning point in its energy security."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "What were the challenges involved in building the Konkan Railway, and how were they overcome?",
+      "answer": "Building the Konkan Railway presented immense challenges due to its difficult terrain along the Western Ghats and coastal region. Major challenges included: (1) Crossing numerous rivers, creeks, and valleys requiring a large number of bridges (179 major, 1819 minor), including constructing India's tallest bridge (64m on Panval River) and longest bridge (2065.8m on Sharavati River). (2) Boring through hard rock to create 92 tunnels, the longest being 6.5 km at Karbude. (3) Dealing with unstable, landslide-prone hillsides, which was addressed by fitting sensors on engines for early warning. (4) Coordinating construction across four states (Maharashtra, Goa, Karnataka, Kerala). These challenges were overcome through innovative engineering designs, use of advanced construction technology, meticulous planning under the leadership of E. Sreedharan, and the perseverance of thousands of workers. The project stands as a testament to Indian engineering skill in overcoming geographical hurdles."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "How did the philosophy of using nuclear energy for 'peaceful purposes' guide India's early nuclear programme?",
+      "answer": "The philosophy of using nuclear energy exclusively for 'peaceful purposes' was a cornerstone of India's early nuclear programme, strongly advocated by Prime Minister Jawaharlal Nehru and scientist Homi Bhabha. This guiding principle meant that the development of nuclear technology was directed towards socio-economic development and not weaponization initially. It focused on building research reactors (like Apsara) for scientific study, setting up atomic power stations (like Tarapur) for electricity generation, and exploring applications in agriculture (food preservation, crop yield), medicine (production of radioactive isotopes), and industry. The 1974 test was termed a 'Peaceful Nuclear Explosion' (PNE), emphasising its potential for civil engineering applications. This philosophy helped India garner international cooperation initially, build a strong scientific base, and maintain a moral high ground, even though it later pursued weapon capability for deterrence following security threats."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Discuss the impact of the liberalisation of the telecom sector in the 1990s on mobile phone services in India.",
+      "answer": "The liberalisation of the telecom sector in the 1990s, following the broader economic reforms, had a transformative impact on mobile phone services in India. When mobile services were first introduced in 1994 by the state-owned operator, handsets and call rates were prohibitively expensive (Rs. 45,000 for a handset, ₹17/min). The entry of private companies into the sector after 1990, spurred by liberalisation policies, introduced competition. This competition led to a drastic reduction in the costs of both handsets and call tariffs. Services became more affordable and accessible to a larger section of the population. The influx of private investment also accelerated network expansion, improved service quality, and fostered innovation in value-added services. Liberalisation thus democratised mobile telephony, transforming it from an elite luxury to a common tool of communication and playing a pivotal role in India's subsequent digital revolution."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Explain the connection between India's nuclear tests and its missile development programme.",
+      "answer": "There is a direct and consequential connection between India's nuclear tests and its missile development programme. The 1974 nuclear test demonstrated India's capability in nuclear explosive technology. However, the subsequent technology denial by the USA, which refused to share defence and space technology, acted as a catalyst. This forced India to adopt a policy of self-reliance, leading to the decision to develop an indigenous missile programme to deliver potential nuclear payloads, thereby creating a credible deterrent. The Integrated Guided Missile Development Programme (IGMDP) was launched in 1983 under Dr. A.P.J. Abdul Kalam. The success of the 1998 nuclear tests, which confirmed and advanced India's weapon design capabilities, further validated the need for a reliable delivery system. The missiles developed under IGMDP, particularly Prithvi and Agni, provided the means to deliver nuclear warheads, completing the strategic triad of capability (bombs) and delivery (missiles). Thus, the tests spurred missile development, and the missiles gave operational meaning to the nuclear capability."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "What is the importance of the Rohini-75 rocket launch in India's space history?",
+      "answer": "The successful launch of the Rohini-75 rocket in 1967 holds great importance in India's space history as it was the first indigenously built sounding rocket. While the first rocket launched from Thumba in 1961 was foreign-made, Rohini-75 was designed and fabricated entirely by Indian scientists and engineers. Its success proved that India had acquired the fundamental capability to design, build, and launch its own rockets. This achievement was a major morale booster and a critical step towards self-reliance in rocketry. It provided invaluable hands-on experience and technical data that laid the groundwork for the more ambitious Satellite Launch Vehicle (SLV) programme. Rohini-75 marked the transition from being a user of foreign technology to a creator of indigenous technology, setting the stage for the development of larger launch vehicles and satellites by ISRO."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How did the telemedicine service, enabled by INSAT, bridge the healthcare gap in India?",
+      "answer": "The telemedicine service enabled by the INSAT satellite network played a crucial role in bridging the healthcare gap between urban and rural India. It connected Public Primary Health Centers (PHCs) in remote villages with superspecialty hospitals located in cities. Through satellite communication links, doctors and medical staff in rural centers could consult with expert specialists in urban hospitals. This allowed for remote diagnosis, second opinions, treatment planning, and even guidance during procedures. Patients in villages gained access to quality medical advice without the need for expensive and difficult travel. The service helped in early detection of diseases, managing chronic conditions, and handling emergencies more effectively. By leveraging satellite technology, telemedicine brought specialized healthcare to the doorstep of the underserved population, improving health outcomes and making healthcare delivery more equitable."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Analyse the factors that led India to pursue a second nuclear test in 1998.",
+      "answer": "Several strategic and geopolitical factors led India to pursue a second series of nuclear tests in May 1998. (1) **Strategic Deterrence**: The primary factor was to establish a credible and overt nuclear deterrent against perceived threats from nuclear-armed neighbours, China and Pakistan. The 1974 test was a single, peaceful explosion; the 1998 tests aimed to validate weapon designs for a full-fledged arsenal. (2) **Technological Advancement**: To test newer and more advanced designs, including a thermonuclear device (hydrogen bomb) and sub-kiloton devices, to refine the nuclear arsenal. (3) **Political Will**: The newly elected government under Prime Minister Atal Bihari Vajpayee had the political resolve to take the decisive step of declaring India a nuclear weapon state, moving beyond the policy of ambiguity. (4) **Changing Global Dynamics**: The post-Cold War unipolar world and the indefinite extension of the NPT可能在印度看来, 需要明确表明自己的战略立场。 (5) **Security Calculus**: To address the growing nuclear and missile collaboration between Pakistan and China. The tests were thus a calculated move to solidify India's strategic autonomy and security posture."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarise India's journey in the field of science and technology as depicted in the chapter, highlighting its transition to a 21st-century nation.",
+      "answer": "The chapter depicts India's science and technology journey as a remarkable transition from a post-colonial nation building basic capacity to a confident 21st-century power. It began with the visionary establishment of the Atomic Energy Commission (1948) and early space research (1960s), focusing on self-reliance and peaceful applications. Key milestones include the first nuclear test (1974), indigenous satellite launches (Aryabhatta-1975, APPLE-1981), and the development of a strategic missile arsenal under Dr. Kalam. The creation of ISRO (1969) and institutions like ONGC (1956) and DRDO (1958) provided robust institutional foundations. The 1990s saw integration with globalisation through telecom liberalisation and IT. Achievements like Konkan Railway, the Delhi Metro, and advanced satellite systems (INSAT, remote sensing) showcase applied technological prowess. The narrative concludes by positioning India as an important 21st-century nation that uses technology for peace and development, having built indigenously capabilities ranging from nuclear power and space exploration to digital communication and world-class infrastructure, ready to be at the forefront of global innovation."
+    }
+  ]
+}

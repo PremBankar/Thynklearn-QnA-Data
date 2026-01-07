@@ -1,0 +1,1491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.History.04",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Economic Development"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which model of economy did independent India adopt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Capitalist Economy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Socialist Economy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mixed Economy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Command Economy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mixed Economy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In a mixed economy, industries like defence equipment production fall under which sector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Private Sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joint Sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Public Sector",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cooperative Sector",
+          "is_correct": false
+        }
+      ],
+      "answer": "Public Sector"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister was the first Chairman of the Planning Commission?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lal Bahadur Shastri",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indira Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pandit Jawaharlal Nehru",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Morarji Desai",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was a primary focus of the First Five Year Plan (1951-1956)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heavy Industrialisation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agriculture and Social Development",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Information Technology",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Privatisation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Agriculture and Social Development"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which heavy industry plants were established under the Second Five Year Plan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Software Parks",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron and Steel Plants at Durgapur, Bhilai, Rourkela",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Textile Mills in Mumbai",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Automobile Manufacturing Units",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron and Steel Plants at Durgapur, Bhilai, Rourkela"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why were three one-year plans implemented after the Third Five Year Plan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Due to rapid economic growth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Due to the Green Revolution's success",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Due to famine, war with China and Pakistan, shifting focus to defence",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Due to globalisation policies",
+          "is_correct": false
+        }
+      ],
+      "answer": "Due to famine, war with China and Pakistan, shifting focus to defence"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which major economic event occurred in 1969 during the Fourth Five Year Plan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Launch of the Green Revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Introduction of the New Economic Policy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nationalisation of 14 major banks",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Establishment of SEBI",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nationalisation of 14 major banks"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who became the Prime Minister of India after the 10th General Elections and ushered in the New Economic Policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chandra Shekhar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajiv Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "P. V. Narasimha Rao",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "V. P. Singh",
+          "is_correct": false
+        }
+      ],
+      "answer": "P. V. Narasimha Rao"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which Finance Minister under P. V. Narasimha Rao is credited with architecting the 1991 economic reforms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Yashwant Sinha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Arun Jaitley",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dr Manmohan Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "P. Chidambaram",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr Manmohan Singh"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which programme, announced in 1975, aimed at rapid national development with provisions for land ceilings and workers' wages?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Five Year Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "20-Point Programme",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Green Revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rolling Plan",
+          "is_correct": false
+        }
+      ],
+      "answer": "20-Point Programme"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In which year was the Securities and Exchange Board of India (SEBI) established?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1988",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1991",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1995",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2000",
+          "is_correct": false
+        }
+      ],
+      "answer": "1988"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which international organisation did India join in 1995 to regulate global trade?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "United Nations (UN)",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "International Monetary Fund (IMF)",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "World Bank",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "World Trade Organisation (WTO)",
+          "is_correct": true
+        }
+      ],
+      "answer": "World Trade Organisation (WTO)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What was the immediate trigger for the great textile mill workers' strike in Mumbai in 1982?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Demand for nationalisation of mills",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A cut in the expected Diwali bonus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Introduction of new machinery",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reduction in weekly working hours",
+          "is_correct": false
+        }
+      ],
+      "answer": "A cut in the expected Diwali bonus"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a goal of India's economic planning as mentioned in the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Increase in national income",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rapid industrialisation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Achieving space exploration supremacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Removal of inequality in earnings and wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achieving space exploration supremacy"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What was the 'Rolling Plan' that started in April 1978?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A plan with fixed five-year targets",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A plan that was revised every year based on performance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A plan focused only on agricultural development",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The first plan after independence",
+          "is_correct": false
+        }
+      ],
+      "answer": "A plan that was revised every year based on performance"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which sector grew in importance during the Eighth Five Year Plan (1992-1997), reflecting the 1991 liberalisation policy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Public Sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Private Sector",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Joint Sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooperative Sector",
+          "is_correct": false
+        }
+      ],
+      "answer": "Private Sector"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of these programmes was started under the Sixth Five Year Plan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawahar Rozgar Yojana",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Integrated Rural Development Programme (IRDP)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Midday Meal Scheme",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Antyodaya Anna Yojana",
+          "is_correct": false
+        }
+      ],
+      "answer": "Integrated Rural Development Programme (IRDP)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The development of handloom sector and waiver of loans for weaker sections were part of which programme?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fifth Five Year Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "New Economic Policy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "20-Point Programme",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Green Revolution",
+          "is_correct": false
+        }
+      ],
+      "answer": "20-Point Programme"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Before nationalisation in 1955, the 'Imperial Bank' was converted into which bank?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reserve Bank of India",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Punjab National Bank",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "State Bank of India",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Bank of India",
+          "is_correct": false
+        }
+      ],
+      "answer": "State Bank of India"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "One of the reasons for the 1991 economic crisis was the increase in oil prices due to a war. Which war was this?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indo-Pak War of 1971",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sino-Indian War of 1962",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gulf War (Invasion of Kuwait by Iraq)",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Kargil War",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gulf War (Invasion of Kuwait by Iraq)"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of the following is a feature of a socialist economy as described in the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Means of production are privately owned.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Means of production are owned by the State in the name of society.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It operates in both private and public sectors.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It ignores the profit motive.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Means of production are owned by the State in the name of society."
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What did the industrial policy of 1973 aim to control?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Influence of small scale industries",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Influence of heavy industries, industrial families, and foreign industries",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Growth of the service sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Privatisation of banks",
+          "is_correct": false
+        }
+      ],
+      "answer": "Influence of heavy industries, industrial families, and foreign industries"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which plan was terminated early and replaced by the Rolling Plan in 1978?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fourth Five Year Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fifth Five Year Plan",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sixth Five Year Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Third Five Year Plan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fifth Five Year Plan"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The 'Jail Bharo Agitation' was part of which major event?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The movement for bank nationalisation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The 1991 economic reforms protest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The 1982 Mumbai textile mill workers' strike",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The Green Revolution",
+          "is_correct": false
+        }
+      ],
+      "answer": "The 1982 Mumbai textile mill workers' strike"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of these was a consequence of the long mill workers' strike?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mills moved from Mumbai to Surat.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The government repealed all labour laws.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The workers received a 50% bonus.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The strike led to immediate nationalisation of all mills.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mills moved from Mumbai to Surat."
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Under the New Economic Policy, the licence system was restricted to how many industries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "18",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "100",
+          "is_correct": false
+        }
+      ],
+      "answer": "18"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of the following schemes was started under the Ninth Five Year Plan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pradhanmantri Gram Sadak Yojana",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Jawahar Rozgar Yojana",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Midday Meal Scheme",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Salem Steel Plant",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pradhanmantri Gram Sadak Yojana"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What was a key objective of the Seventh Five Year Plan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rapid privatisation of public sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To achieve a yearly increase in national income of 5%",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To join the World Trade Organisation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To nationalise 14 banks",
+          "is_correct": false
+        }
+      ],
+      "answer": "To achieve a yearly increase in national income of 5%"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which social reformer's associate, Narayan Meghaji Lokhande, secured a weekly holiday for mill workers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr. B. R. Ambedkar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Jotirao Phule",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Raja Ram Mohan Roy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Jotirao Phule"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "India signed the South Asian Preferential Trade Arrangement (SAPTA) with which group of countries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "BRICS nations",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "SAARC countries",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "European Union",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ASEAN nations",
+          "is_correct": false
+        }
+      ],
+      "answer": "SAARC countries"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What was the name of the workers' union that was negotiating with mill owners during the 1982 strike?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian National Trade Union Congress (INTUC)",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rashtriya Mill Mazdoor Sangh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "All India Trade Union Congress (AITUC)",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bhartiya Mazdoor Sangh",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rashtriya Mill Mazdoor Sangh"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which sector did the government open up for private and foreign investment as part of the post-1991 reforms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Defence equipment only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Telecom and Insurance sectors",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only the railway sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Atomic energy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Telecom and Insurance sectors"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What does GATT stand for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "General Agreement on Trade and Tariffs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Global Agreement for Trade and Transport",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "General Agreement on Tariffs and Trade",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "General Assembly on Trade Terms",
+          "is_correct": false
+        }
+      ],
+      "answer": "General Agreement on Tariffs and Trade"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister's government implemented the 'Green Revolution' experiment?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pandit Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indira Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lal Bahadur Shastri",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rajiv Gandhi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lal Bahadur Shastri"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What was the primary aim of the Bhakra-Nangal and Damodar Valley dams built under the Second Plan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Generate hydroelectricity only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Provide water for agriculture and irrigation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Serve as tourist attractions",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Control flooding only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Provide water for agriculture and irrigation"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a part of a mixed economy as described in the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Public Sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Private Sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Joint Sector",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Solely Foreign-owned Sector",
+          "is_correct": true
+        }
+      ],
+      "answer": "Solely Foreign-owned Sector"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The Industrial Policy of 1973 focused on developing which types of industries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heavy industries only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small scale and cottage industries",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only multinational corporations",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The IT industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small scale and cottage industries"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What was the approximate level of India's foreign exchange reserves in 1991 before the crisis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "100 crore dollars",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1000 crore dollars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "10,000 crore dollars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1 lakh crore dollars",
+          "is_correct": false
+        }
+      ],
+      "answer": "100 crore dollars"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which poet is mentioned in the chapter for portraying the real life of workers through poems?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rabindranath Tagore",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sarojini Naidu",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Narayan Surve",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mahadevi Verma",
+          "is_correct": false
+        }
+      ],
+      "answer": "Narayan Surve"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The 'Congress Forum for Socialist Action' demanded the nationalisation of which institutions?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Textile Mills",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Heavy Industries",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Commercial Banks",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Educational Institutions",
+          "is_correct": false
+        }
+      ],
+      "answer": "Commercial Banks"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Name the three sectors that constitute a mixed economy.",
+      "answer": "Public Sector, Private Sector, and Joint Sector."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Which Prime Minister announced the 20-Point Programme in 1975?",
+      "answer": "Prime Minister Indira Gandhi."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What was the primary goal of the First Five Year Plan?",
+      "answer": "To lay the foundations of planned economic development, with focus on agriculture and social development."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Which bank was formed by nationalising the Imperial Bank in 1955?",
+      "answer": "The State Bank of India."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Who led the 1982 Mumbai textile mill workers' strike?",
+      "answer": "Dr Datta Samant."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the full form of SEBI?",
+      "answer": "Securities and Exchange Board of India."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Name any two iron and steel plants established under the Second Five Year Plan.",
+      "answer": "Bhilai Steel Plant and Rourkela Steel Plant. (Also Durgapur)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What was the main reason for the economic crisis of 1991?",
+      "answer": "Severe balance of payments crisis with foreign exchange reserves enough only for about a week of imports."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What does WTO stand for?",
+      "answer": "World Trade Organisation."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Which plan introduced the 'Rolling Plan' system?",
+      "answer": "The Janata Party government introduced the Rolling Plan in 1978 after ending the Fifth Five Year Plan."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name one employment generation programme started in the Sixth Five Year Plan.",
+      "answer": "National Rural Employment Programme (NREP) or Rural Landless Employment Guarantee Programme (RLEGP)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the 'Green Revolution' aimed at?",
+      "answer": "To overcome food shortages and drought by increasing agricultural production."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which sector's development was stressed in the Ninth Five Year Plan?",
+      "answer": "Agriculture and rural development."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How many banks were nationalised in the second round in 1980?",
+      "answer": "Six more banks were nationalised in 1980."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was the fundamental principle of planning as mentioned in the chapter?",
+      "answer": "Proportionate distribution of a country's resources and appropriate use of human resources to fulfil people's needs."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name the dam built under the Second Five Year Plan to provide water for agriculture.",
+      "answer": "Bhakra-Nangal Dam (or Damodar Valley dams)."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What was the name of the area in Mumbai known as the 'town of mills'?",
+      "answer": "Girangaon."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which policy is characterised by Privatisation, Liberalisation, and Globalisation (LPG)?",
+      "answer": "The New Economic Policy of 1991."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What did the government do to control the 1991 crisis before the Rao government?",
+      "answer": "It sold and mortgaged part of India's gold reserves."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What was established in 1950 to formulate India's five-year plans?",
+      "answer": "The Planning Commission."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which international agreement preceded the formation of the WTO?",
+      "answer": "The General Agreement on Tariffs and Trade (GATT)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one folk artist mentioned who contributed to workers' cultural life.",
+      "answer": "Anna Bhau Sathe or Shahir Amar Sheikh."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What was the duration of the Third Five Year Plan?",
+      "answer": "1961 to 1966."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which plan focused on 'Food, Employment, and Productivity'?",
+      "answer": "The Seventh Five Year Plan (1985-1990)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does SAPTA stand for?",
+      "answer": "South Asian Preferential Trade Arrangement."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What major event put a burden on the economy during the Fourth Five Year Plan?",
+      "answer": "The Bangladesh War (1971)."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which Chief Minister of Maharashtra set up a committee to solve the mill workers' strike?",
+      "answer": "Barrister A. R. Antulay."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name the scheme for rural road development started in the Ninth Plan.",
+      "answer": "Pradhanmantri Gram Sadak Yojana."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What was the objective of nationalising banks?",
+      "answer": "To cover deficits from government schemes, bring profits to the treasury, and support policies like small industry development."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which sector commercialised rapidly after India joined the WTO, according to the chapter?",
+      "answer": "Sectors like electricity, water transportation, education, and health."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the concept of a Mixed Economy as adopted by India. What are its key components?",
+      "answer": "A mixed economy is a system that combines elements of both capitalist and socialist economies. It operates through three key sectors: the Public Sector (industries controlled by the government, e.g., defence), the Private Sector (industries owned by private individuals but supervised by the government, e.g., consumer goods), and the Joint Sector (a mix of private ownership and government management). This model aims to maximize production, ensure popular participation, and prioritize national interest by leveraging the strengths of both systems, such as entrepreneurship from capitalism and social welfare from socialism, while focusing on long-term development in areas like infrastructure where private investment may be low."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the main objectives of India's economic planning as outlined in the chapter.",
+      "answer": "The general goals of India's economic planning included: (1) Increasing national income, (2) Achieving rapid industrialisation by focusing on basic industries, (3) Achieving self-sufficiency in food grain production through increased agricultural output, (4) Optimising human resources by expanding employment opportunities, (5) Reducing inequality in earnings and wealth, (6) Maintaining stable commodity prices, (7) Controlling population growth through family planning, (8) Eradicating poverty to improve living standards, (9) Developing social services, and (10) Making the economy self-sufficient. These objectives aimed at comprehensive socio-economic development."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Why did India face an economic crisis in 1991? Explain the key factors.",
+      "answer": "India faced a severe economic crisis in 1991 due to a combination of internal and external factors. Internally, the economy suffered from low growth (a fall of 1.1%), high inflation (around 17%), and a massive increase in internal and external debt. The foreign exchange reserves had plummeted to just about $100 crore, enough only for a week's imports. Externally, the Gulf War led to a sharp rise in oil prices, increasing India's import bill. Furthermore, non-resident Indians began withdrawing deposits, and the government had to resort to mortgaging gold reserves. Previous policies like large-scale farm loan waivers had also strained public finances, creating a perfect storm that necessitated urgent and radical reforms."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the significance of the nationalisation of banks in 1969. What were the reasons behind it?",
+      "answer": "The nationalisation of 14 major commercial banks on July 19, 1969, was a landmark event. Its significance lay in bringing banking under government control to align it with national development goals. The key reasons were: (1) To stop the concentration of banking resources in the hands of a few private industrial groups who used them primarily for their own profit, (2) To use bank profits for the government treasury to fund development schemes and cover deficits, (3) To support government policies like the Green Revolution and the development of small-scale and priority sectors by directing credit to them, and (4) To expand banking services across the country, especially in rural areas, promoting financial inclusion. It was also a response to political demands from socialist groups within the Congress party."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Describe the causes, major events, and outcomes of the 1982 Mumbai textile mill workers' strike.",
+      "answer": "Causes: The strike was triggered by a dispute over the Diwali bonus in 1981. Workers expected a 20% bonus, but the Rashtriya Mill Mazdoor Sangh negotiated only 8-17% without their consent. Underlying causes included lower wages and facilities compared to workers in other growing sectors.\n\nMajor Events: Led by Dr Datta Samant, about 2.5 lakh workers from 65 mills went on strike on January 18, 1982. It lasted for over a year, becoming the first such prolonged strike. Workers organised departmental committees for support, launched a 'Jail Bharo Agitation', and marched to the Maharashtra Legislative Assembly. The government and mill owners remained largely unyielding.\n\nOutcomes: The strike ultimately failed. Approximately 1.5 lakh workers lost their jobs. The industry, already affected by rising demand for synthetic fabric like polyester, began shifting from Mumbai to places like Surat. The government nationalised 13 sick mills, but the strike marked the decline of Mumbai's historic textile industry and highlighted the challenges of labour unrest in a changing economy."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "What were the main features and objectives of the New Economic Policy of 1991?",
+      "answer": "The New Economic Policy of 1991, introduced under Prime Minister P.V. Narasimha Rao and Finance Minister Dr. Manmohan Singh, marked a paradigm shift. Its main features included Liberalisation (reducing government controls, dismantling the Licence Raj by restricting it to 18 industries), Privatisation (opening up the public sector to private investment, selling shares of PSUs), and Globalisation (integrating the Indian economy with the global market). Key objectives were to resolve the acute balance of payments crisis, attract foreign investment, increase the efficiency and competitiveness of Indian industry, control inflation, and achieve higher economic growth. It also involved signing agreements with the WTO, opening sectors like telecom and insurance, and establishing regulatory bodies like SEBI to control capital markets."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Compare and contrast the focus of the Second and Third Five Year Plans.",
+      "answer": "The Second Five Year Plan (1956-1961) had an ambitious focus on rapid industrialisation, particularly in the public sector. It led to the establishment of major heavy industries like the iron and steel plants in Bhilai, Rourkela, and Durgapur, and large dams like Bhakra-Nangal for irrigation and power. The plan aimed at building an industrial base for the country.\n\nIn contrast, the Third Five Year Plan (1961-1966) aimed at achieving a balance between industry and agriculture. While it continued to emphasise national income growth and heavy industries, it also explicitly focused on alleviating poverty, expanding employment opportunities, and reducing inequalities. Thus, the Second Plan was about laying the industrial foundation, whereas the Third Plan attempted a more balanced and socially oriented approach, though its implementation was disrupted by wars and famine."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "What was the 20-Point Programme announced by Indira Gandhi? List its key provisions.",
+      "answer": "The 20-Point Programme was announced by Prime Minister Indira Gandhi on July 1, 1975, as a resolve to rapidly develop the nation. Its key provisions covered a wide range of socio-economic areas: (1) Imposing land ceilings in urban and agricultural areas and ensuring minimum wages for workers. (2) Promoting workers' participation in industry and abolishing bonded labour. (3) Cracking down on tax evasion, economic crimes, and smuggling. (4) Regulating prices of essential commodities and improving the Public Distribution System (PDS). (5) Developing the handloom sector to improve the textile industry, providing housing and communication facilities, and supplying educational equipment to schools. The programme aimed at accelerating growth with social justice."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the role and impact of the Planning Commission in India's development journey.",
+      "answer": "The Planning Commission, established in 1950 with the Prime Minister as its Chairman, played a central role in steering India's development through the Five-Year Plans. Its role was to formulate comprehensive plans that addressed critical post-independence challenges like poverty, unemployment, and low agricultural productivity. It focused on balanced industrialisation, rural development, and raising living standards. The Commission aimed for optimal resource distribution and human resource utilisation. Its impact was significant in building a strong industrial base (through plans like the Second), initiating agricultural reforms, and launching various social welfare and employment schemes. However, it also faced criticism for bureaucratic delays and the failure of plans like the Fourth during crises. It set the direction for a mixed economy until its replacement by NITI Aayog in 2015."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "How did India's membership in the World Trade Organisation (WTO) affect its economy?",
+      "answer": "India's membership in the WTO in 1995 integrated its economy more deeply into the global trading system. It committed India to reducing trade barriers, adhering to international rules, and opening various sectors to foreign competition and investment. This led to increased exports and imports, greater foreign direct investment (FDI), and technological inflows. Sectors like telecom, insurance, and services saw rapid growth and commercialisation. While it boosted efficiency and consumer choice, it also posed challenges like pressure on domestic industries and agriculture from international competition. According to WTO reports, India showed improvement in areas like poverty reduction and infant mortality. Overall, WTO membership was a key part of the post-1991 globalisation process, shaping India's trade policies and economic landscape."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Describe the key achievements and challenges of the Fifth Five Year Plan.",
+      "answer": "The Fifth Five Year Plan (1974-1979) was designed with the ambitious goal of achieving economic self-sufficiency and poverty alleviation. Its objectives included increasing national income, generating large-scale employment, and improving access to education, nutrition, healthcare, electricity, and communication in rural areas. It also focused on agricultural development, strengthening basic industries, and operating a Public Distribution System (PDS) for the poor.\n\nAchievements: It emphasised social welfare and infrastructure for the poor. However, its implementation was cut short.\n\nChallenges: The plan could not achieve its primary goals of poverty removal and employment generation. It was terminated prematurely in March 1978 by the new Janata Party government, which replaced it with the unsuccessful Rolling Plan. Political instability and change in government disrupted the plan's continuity, highlighting the challenge of long-term planning in a democratic polity with shifting political priorities."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Why did the mill industry in Mumbai decline in the 1980s? Explain the economic factors involved.",
+      "answer": "The decline of Mumbai's mill industry in the 1980s was driven by several economic factors: (1) Changing Consumer Demand: There was a significant shift in market preference from traditional cotton cloth to synthetic fabrics like polyester, which reduced the demand for mill-produced cotton textiles. (2) High Labour Costs and Unrest: The prolonged and costly strike of 1982-83 made the industry less competitive and led to massive job losses, crippling production. (3) Relocation: To reduce costs and avoid labour trouble, many mill owners began relocating their units to other states like Gujarat (e.g., Surat), where operational costs were lower. (4) Government Policy: The nationalisation of 13 'sick' mills did not revive them effectively. These factors combined to erode the economic viability of the once-thriving Girangaon, symbolising the end of an era for Mumbai's textile dominance."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "What were the corrective measures taken by Dr. Manmohan Singh to address the 1991 economic crisis?",
+      "answer": "As Finance Minister in 1991, Dr. Manmohan Singh undertook a series of bold corrective measures to tackle the economic crisis: (1) Liberalisation: He dismantled the Licence Raj by restricting it to only 18 industries and removed numerous restrictions on foreign investment. (2) Fiscal and Trade Reforms: He devalued the rupee to boost exports, reduced import tariffs, and took steps to control the fiscal deficit. (3) Public Sector Reforms: To curb losses, he opened up the public sector for investment by private industries, initiating a process of disinvestment. (4) Financial Sector Reforms: He empowered SEBI (established in 1988) to regulate the capital market and computerised the National Stock Exchange to modernise it. (5) Global Integration: He signed the WTO agreement and launched policies of privatisation, liberalisation, and globalisation (LPG). These measures restored foreign investor confidence, helped India recover its mortgaged gold, and set the economy on a new growth path."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain the fundamental principle of planning and how it was applied in India's Five-Year Plans.",
+      "answer": "The fundamental principle of planning is the proportionate distribution of a country's resources and the appropriate use of its human resources to fulfil the needs of its people. In India, this principle was applied through the mechanism of Five-Year Plans formulated by the Planning Commission. Each plan allocated resources (financial, physical, human) to different sectors—like agriculture, industry, infrastructure, and social services—based on identified national priorities and goals such as increasing income, industrialisation, and poverty alleviation. For example, the First Plan prioritised agriculture to build a foundation, while the Second Plan diverted resources to heavy industry. The plans aimed to balance regional development, generate employment, and improve living standards by consciously directing investment towards public welfare and long-term growth, thus operationalising the principle of planned resource utilisation for national development."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How did the Industrial Policy of 1973 aim to shape India's industrial landscape?",
+      "answer": "The Industrial Policy of 1973 aimed to shape India's industrial landscape by increasing the speed of development while ensuring greater social control and regional balance. Its key objectives were: (1) To control the concentration of economic power by curbing the influence of large industrial houses (heavy industries) and foreign companies. (2) To reduce regional imbalances by encouraging the dispersal of industries to backward areas. (3) To promote the growth of small-scale industries, cottage industries, and the cooperative sector, thereby generating more employment and fostering decentralised economic development. This policy reflected a shift within the mixed economy framework towards preventing monopolies, supporting the small entrepreneur, and ensuring that industrial growth benefited a broader section of society and different regions of the country."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Discuss the evolution of India's approach to the private sector from the early plans to the Eighth Five Year Plan.",
+      "answer": "India's approach to the private sector evolved significantly from the early plans to the Eighth Plan. Initially, in the First and Second Plans (1950s-60s), the state-led 'mixed economy' model gave the public sector the 'commanding heights' in heavy and basic industries. The private sector was allowed but heavily regulated and licensed, seen as a complement to public investment.\n\nBy the 1970s and 80s, policies like the 1973 Industrial Policy tried to control big private industrial houses while encouraging small-scale private units. However, inefficiencies in the public sector and a balance of payments crisis led to a major rethinking.\n\nThe watershed moment was the Eighth Five Year Plan (1992-1997), formulated after the 1991 New Economic Policy. This plan explicitly gave a much larger scope and importance to the private sector, reflecting the policies of liberalisation and a free market. It encouraged private investment in infrastructure and industry, marking a decisive shift from a state-dominated to a market-friendly economy where the private sector became a key engine of growth."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What was the significance of the 'Green Revolution' in India's economic development?",
+      "answer": "The 'Green Revolution', initiated during Prime Minister Lal Bahadur Shastri's tenure in the mid-1960s, was of immense significance for India's economic development. It was a strategy to overcome severe food shortages and drought conditions that threatened the nation's stability. By introducing high-yielding variety (HYV) seeds, chemical fertilisers, improved irrigation, and modern agricultural techniques, it dramatically increased food grain production, particularly wheat and rice. This success transformed India from a food-deficient country dependent on imports into a self-sufficient and eventually surplus nation in food grains. It ensured food security, stabilised prices, and provided a base for rural prosperity. While it had regional and ecological limitations, the Green Revolution was a critical achievement that saved millions from famine and provided a strong foundation for subsequent economic planning."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Analyse the reasons for the failure of the Rolling Plan (1978-1980).",
+      "answer": "The Rolling Plan, introduced by the Janata Party government in April 1978 after terminating the Fifth Five Year Plan, failed for several reasons: (1) Lack of Political Stability: The Janata Party government itself was unstable and short-lived, losing power in 1980. The incoming Congress government had different economic priorities and scrapped the plan. (2) Conceptual and Implementation Issues: A rolling plan, which is revised every year based on performance, requires strong administrative machinery and consistent policy direction, which were lacking. (3) Economic Context: The period was marked by ongoing economic challenges, and the frequent revisions of the plan may have created uncertainty for long-term investment and projects. (4) Loss of Continuity: The Five-Year Plans provided a stable, medium-term framework. The abrupt shift to a rolling plan disrupted this continuity without establishing a credible alternative, leading to its failure and the return to the traditional five-year planning system."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How did the cultural life of mill workers contribute to the social fabric of Mumbai as described in the chapter?",
+      "answer": "The cultural life of mill workers significantly enriched the social fabric of Mumbai, particularly in the Girangaon area. Workers contributed through vibrant folk theatre, folk art, and literature that reflected their lives, struggles, and aspirations. Popular artistes like Anna Bhau Sathe, Shahir Amar Sheikh, and Shahir Sable used their programmes for public education and social awareness. Poets such as Narayan Surve and Namdev Dhasal portrayed the raw, real-life experiences of the working class through powerful poetry. This cultural expression not only provided entertainment and solidarity among workers but also voiced their socio-economic conditions, fostering a distinct working-class identity and consciousness. It added a rich layer of people's art to Mumbai's cosmopolitan culture, making the mill districts centres of cultural and political activism."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Summarise the key features and focus areas of the Ninth Five Year Plan.",
+      "answer": "The Ninth Five Year Plan (1997-2002) was formulated in the post-liberalisation era. Its key focus areas were agriculture and rural development, aiming to ensure growth with equity. The plan's objectives included: (1) Achieving a higher economic growth rate, (2) Creating healthy competition in the infrastructure sector to improve efficiency, and (3) Giving a new direction to industrial policy to attract and ensure foreign investment. It launched several important schemes like the Swarnjayanti Gram Swarozgar Yojana (rural self-employment), Pradhanmantri Gram Sadak Yojana (rural roads), Antyodaya Anna Yojana (food security for the poorest), and Jawahar Gram Samriddhi Yojana. The plan noted progress in the communication system and service sector as per expectations, with growth in construction and telecommunications. It represented a continued shift towards market mechanisms while addressing rural infrastructure and poverty."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain the role of public sector industries in a mixed economy like India's. Why were they considered necessary?",
+      "answer": "In India's mixed economy, public sector industries played a crucial strategic role. They were industries completely owned, controlled, and managed by the government, such as defence equipment, railways, and heavy industries like steel. They were considered necessary for several reasons: (1) Long-term National Interest: They undertook projects requiring huge capital investment with delayed returns (like scientific research, major infrastructure, ports), which private investors were reluctant to fund. (2) Self-reliance and Security: Sectors like defence and atomic energy were kept under state control for national security reasons. (3) Balanced Development: The public sector was used to develop backward regions and create employment where private investment was scarce. (4) Preventing Monopolies: It acted as a counterbalance to prevent the private sector from gaining excessive control over key resources. Thus, the public sector was the engine for building the industrial and infrastructural base of the nation as envisioned in the Five-Year Plans."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What were the major programmes launched during the Eighth Five Year Plan and what did they indicate about policy priorities?",
+      "answer": "The Eighth Five Year Plan (1992-1997) launched several important social welfare and employment programmes, including Pradhanmantri Rozgar Yojana (employment), Mahila Samriddhi Yojana (women's empowerment), Rashtriya Samajik, Arthik Sahayya Yojana (socio-economic aid), Midday Meal Scheme (school nutrition), Indira Mahila Scheme (women), and Ganga Kalyan Scheme (irrigation). The launch of these schemes indicated a dual policy priority: (1) Continuing the government's focus on poverty alleviation, social justice, and human development through targeted welfare programmes, and (2) At the same time, the plan itself gave unprecedented scope to the private sector, reflecting the new liberalisation and free-market policies adopted in 1991. Thus, the Eighth Plan represented a blend of the old welfare state approach with the new market-oriented growth strategy, aiming to mitigate the social costs of economic reforms while unleashing private enterprise."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Describe the structure and objectives of the World Trade Organisation (WTO) as mentioned in the chapter.",
+      "answer": "The World Trade Organisation (WTO), established in 1995, is a formal multilateral organisation that regulates global trade. Its main objectives are: (1) To promote free and fair trade between member countries by reducing barriers, (2) To eliminate discriminatory laws, restrictions, rules, and policies that hinder international free trade, and (3) To provide a formal mechanism for resolving trade disputes between nations. It succeeded the earlier General Agreement on Tariffs and Trade (GATT). The WTO's provisions cover a wide range of areas including grants, import-export policies, foreign investment, agriculture, technology, and services. Its purpose is to create a stable and predictable global trading environment based on agreed-upon rules, thereby fostering economic growth and development worldwide. India's membership committed it to these rules, influencing its domestic economic policies."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "How did the political changes in 1977 and 1980 affect the continuity of Five Year Plans?",
+      "answer": "The political changes in 1977 and 1980 significantly disrupted the continuity of India's Five Year Plans. In the 1977 general elections, the Congress Party was defeated, and the Janata Party came to power. The new Janata government, with different economic ideas, terminated the ongoing Fifth Five Year Plan towards the end of March 1978—a year before its scheduled end. It replaced it with a 'Rolling Plan' from April 1978, which was essentially a series of annual plans. However, this experiment failed due to lack of stability and clear direction.\n\nIn 1980, fresh Lok Sabha elections brought the Congress party back to power. The new Congress government immediately closed the Rolling Plan system and reverted to the traditional Five-Year Plan framework, launching the Sixth Five Year Plan (1980-1985). These events highlight how political instability and changes in ruling ideologies can interrupt long-term economic planning, leading to policy uncertainty and implementation challenges."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Why is coordination between the public and private sectors essential for a mixed economy to function smoothly?",
+      "answer": "Coordination between the public and private sectors is essential for a mixed economy to function smoothly because both sectors have distinct but complementary roles. The public sector focuses on long-term national goals, infrastructure, and social welfare in areas where profit motives are low but societal benefit is high (e.g., defence, railways, basic research). The private sector drives efficiency, innovation, and production in consumer-oriented and competitive markets. Smooth coordination ensures that: (1) Resources are allocated efficiently without wasteful duplication or gaps, (2) The profit motive and entrepreneurial energy of the private sector are harnessed within a framework of national priorities set by the public sector, (3) Investments in public infrastructure (like roads, ports) enable private industry to thrive, and (4) Social objectives like regional balance and employment are met through collaborative efforts. Lack of coordination can lead to conflicts, inefficiencies, and failure to achieve the balanced development that is the core aim of a mixed economy."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "What was the impact of the 1991 reforms on India's foreign investment and global economic standing?",
+      "answer": "The 1991 economic reforms had a transformative impact on India's foreign investment and global economic standing. By removing many restrictions on foreign investment, liberalising trade, and signing the WTO agreement, India became a much more attractive destination for global capital. Foreign Direct Investment (FDI) inflows, which were negligible before, began to increase steadily across sectors like telecom, automotive, and services. This brought in not just capital but also advanced technology, management practices, and access to global markets. India's global economic standing improved significantly—it moved from being a closed, crisis-ridden economy to an emerging market with high growth potential. The reforms helped India recover its mortgaged gold reserves, build robust foreign exchange reserves, and gain greater credibility in international financial institutions. Over time, India integrated into global supply chains and became one of the world's fastest-growing major economies, altering its perception from a slow-growing, bureaucratic state to a dynamic player in the global economy."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Explain the background and the political demand that led to the nationalisation of banks in 1969.",
+      "answer": "The nationalisation of banks in 1969 had a specific political and economic background. Economically, despite adopting a mixed economy, banking was largely a monopoly of the private sector, serving the interests of big industrial houses. To fund government schemes and cover potential deficits, channel credit to priority sectors like agriculture and small industries, and bring profits into the public treasury, nationalisation was seen as essential.\n\nPolitically, the demand was strongly pushed by the 'Congress Forum for Socialist Action', a left-leaning group within the Congress party inspired by socialist ideals. They argued that nationalising commercial banks was crucial for social control over finance and for funding developmental goals. This demand also found support from the Communist Party. With Prime Minister Indira Gandhi seeking to consolidate a populist and socialist image, especially after the 1967 election setbacks, she announced the dramatic decision to nationalise 14 major banks on July 19, 1969. This move fulfilled a political promise, countered the conservative 'Syndicate' within her party, and positioned her as a leader championing the poor."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Compare the economic challenges faced by India immediately after independence with those faced in 1991.",
+      "answer": "The economic challenges faced by India immediately after independence in 1947 were starkly different from those in 1991. Post-1947, the challenges were foundational and structural: widespread poverty, unemployment, low agricultural and industrial productivity, lack of basic infrastructure, and the legacy of colonial exploitation. The primary task was to build a self-reliant industrial base, achieve food security, and raise living standards from a very low base through planned development.\n\nIn contrast, by 1991, the challenges were of a different nature, arising from the limitations of the earlier model. India faced an acute balance of payments crisis with critically low foreign exchange reserves, high fiscal deficits, mounting internal and external debt, inefficient and loss-making public sector units, and low growth rates. The economy was overly regulated, inward-looking, and unable to compete globally. While the post-1947 challenge was one of construction from scratch, the 1991 challenge was one of reforming and restructuring an established but stagnating system to integrate it with the global economy and unleash new growth drivers."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "What were the key employment generation strategies adopted in the Sixth and Seventh Five Year Plans?",
+      "answer": "Both the Sixth (1980-1985) and Seventh (1985-1990) Five Year Plans placed strong emphasis on employment generation as a key strategy for poverty alleviation.\n\nThe Sixth Plan launched major rural employment programmes: the Integrated Rural Development Programme (IRDP) to create assets for the rural poor, the Rural Landless Employment Guarantee Programme (RLEGP) to provide wage employment, and the National Rural Employment Programme (NREP). These aimed directly at creating jobs in rural areas.\n\nThe Seventh Plan continued this focus with programmes like the Jawahar Rozgar Yojana and the Scheme of 10 lakh wells, which also created rural infrastructure and employment. It stressed 'Food, Employment, and Productivity' and proved significant for job creation. Both plans recognised that generating productive employment, especially in rural India, was crucial for reducing poverty and achieving broader economic growth, moving beyond just industrial growth to include direct state intervention in the labour market."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Trace the evolution of India's economic policy from a state-led mixed economy to a globalised market economy.",
+      "answer": "India's economic policy evolved in distinct phases. At independence, it adopted a state-led 'Mixed Economy' model, combining a dominant public sector in key industries with a regulated private sector, guided by Five-Year Plans. This Nehruvian model focused on self-reliance, heavy industry, and import substitution.\n\nBy the late 1960s and 70s, policies like bank nationalisation and the 20-Point Programme added a stronger socialist welfare dimension, but growth remained modest.\n\nThe turning point came with the severe economic crisis of 1991. Under Prime Minister P.V. Narasimha Rao and Finance Minister Dr. Manmohan Singh, India launched the New Economic Policy, marking a decisive shift. This policy embraced Liberalisation (reducing state controls), Privatisation (reducing the role of the public sector), and Globalisation (integrating with the world economy). It dismantled the Licence Raj, opened doors to foreign investment, and joined the WTO.\n\nThus, India's journey moved from a planned, inward-looking, state-controlled economy to a market-oriented, private-sector-driven, and globally integrated economy, fundamentally altering its development trajectory in the late 20th century."
+    }
+  ]
+}

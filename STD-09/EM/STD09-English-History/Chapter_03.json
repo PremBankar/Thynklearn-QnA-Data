@@ -1,0 +1,852 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.History.03",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "India's Internal Challenges"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which political party was dominant in Punjab during the 1970s?",
+      "options": [
+        { "option_id": 1, "text": "Assam Ganasangram Parishad", "is_correct": false },
+        { "option_id": 2, "text": "Mizo National Front", "is_correct": false },
+        { "option_id": 3, "text": "Akali Dal", "is_correct": true },
+        { "option_id": 4, "text": "Naga National Council", "is_correct": false }
+      ],
+      "answer": "Akali Dal"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In which year was the 'Anandpur Sahib Resolution' passed?",
+      "options": [
+        { "option_id": 1, "text": "1973", "is_correct": true },
+        { "option_id": 2, "text": "1977", "is_correct": false },
+        { "option_id": 3, "text": "1980", "is_correct": false },
+        { "option_id": 4, "text": "1984", "is_correct": false }
+      ],
+      "answer": "1973"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which city did the Akali Dal demand 'holy city' status for in 1977?",
+      "options": [
+        { "option_id": 1, "text": "Chandigarh", "is_correct": false },
+        { "option_id": 2, "text": "Amritsar", "is_correct": true },
+        { "option_id": 3, "text": "Ludhiana", "is_correct": false },
+        { "option_id": 4, "text": "Patiala", "is_correct": false }
+      ],
+      "answer": "Amritsar"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who was the leader of the Akali Dal during the movement for 'Independent Khalistan' in 1980?",
+      "options": [
+        { "option_id": 1, "text": "Sant Jarnailsingh Bhindranwale", "is_correct": false },
+        { "option_id": 2, "text": "Sant Harcharan Singh Longowal", "is_correct": true },
+        { "option_id": 3, "text": "Lala Jagatnarayan", "is_correct": false },
+        { "option_id": 4, "text": "Major General Kuldeep Singh Brar", "is_correct": false }
+      ],
+      "answer": "Sant Harcharan Singh Longowal"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Bhindranwale was arrested in 1981 for the murder of which newspaper editor?",
+      "options": [
+        { "option_id": 1, "text": "Prafullakumar Mohanto", "is_correct": false },
+        { "option_id": 2, "text": "Laldenga", "is_correct": false },
+        { "option_id": 3, "text": "Lala Jagatnarayan", "is_correct": true },
+        { "option_id": 4, "text": "Angami Zapu Fizo", "is_correct": false }
+      ],
+      "answer": "Lala Jagatnarayan"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In which year was President's rule imposed in Punjab due to worsening conditions?",
+      "options": [
+        { "option_id": 1, "text": "1980", "is_correct": false },
+        { "option_id": 2, "text": "1983", "is_correct": true },
+        { "option_id": 3, "text": "1984", "is_correct": false },
+        { "option_id": 4, "text": "1986", "is_correct": false }
+      ],
+      "answer": "1983"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who was entrusted with the task of getting terrorists out of the Golden Temple during Operation Blue Star?",
+      "options": [
+        { "option_id": 1, "text": "Major General Kuldeep Singh Brar", "is_correct": true },
+        { "option_id": 2, "text": "Shankarrao Chavan", "is_correct": false },
+        { "option_id": 3, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Sant Harcharan Singh Longowal", "is_correct": false }
+      ],
+      "answer": "Major General Kuldeep Singh Brar"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Operation Blue Star began on which date?",
+      "options": [
+        { "option_id": 1, "text": "1st June 1984", "is_correct": false },
+        { "option_id": 2, "text": "3rd June 1984", "is_correct": true },
+        { "option_id": 3, "text": "6th June 1984", "is_correct": false },
+        { "option_id": 4, "text": "20th February 1987", "is_correct": false }
+      ],
+      "answer": "3rd June 1984"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What was the military operation conducted against terrorists in the Golden Temple in 1986 called?",
+      "options": [
+        { "option_id": 1, "text": "Operation Blue Star", "is_correct": false },
+        { "option_id": 2, "text": "Operation Vijay", "is_correct": false },
+        { "option_id": 3, "text": "Operation Black Thunder", "is_correct": true },
+        { "option_id": 4, "text": "Operation Shakti", "is_correct": false }
+      ],
+      "answer": "Operation Black Thunder"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How many states comprise North-east India?",
+      "options": [
+        { "option_id": 1, "text": "Five", "is_correct": false },
+        { "option_id": 2, "text": "Seven", "is_correct": false },
+        { "option_id": 3, "text": "Eight", "is_correct": true },
+        { "option_id": 4, "text": "Nine", "is_correct": false }
+      ],
+      "answer": "Eight"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the acronym NEFA stand for?",
+      "options": [
+        { "option_id": 1, "text": "North-East Frontier Agency", "is_correct": true },
+        { "option_id": 2, "text": "North-East Forest Association", "is_correct": false },
+        { "option_id": 3, "text": "National East Frontier Area", "is_correct": false },
+        { "option_id": 4, "text": "New East Federal Agency", "is_correct": false }
+      ],
+      "answer": "North-East Frontier Agency"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "In 1965, the responsibility of administering NEFA was given to which Ministry?",
+      "options": [
+        { "option_id": 1, "text": "Ministry of Home Affairs", "is_correct": false },
+        { "option_id": 2, "text": "Ministry of Defense", "is_correct": false },
+        { "option_id": 3, "text": "Ministry of External Affairs", "is_correct": true },
+        { "option_id": 4, "text": "Ministry of Tribal Affairs", "is_correct": false }
+      ],
+      "answer": "Ministry of External Affairs"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The Northeastern Council Act was passed in which year?",
+      "options": [
+        { "option_id": 1, "text": "1954", "is_correct": false },
+        { "option_id": 2, "text": "1965", "is_correct": false },
+        { "option_id": 3, "text": "1971", "is_correct": true },
+        { "option_id": 4, "text": "1985", "is_correct": false }
+      ],
+      "answer": "1971"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which leader established the Mizo National Front (MNF) in 1961?",
+      "options": [
+        { "option_id": 1, "text": "Angami Zapu Fizo", "is_correct": false },
+        { "option_id": 2, "text": "Laldenga", "is_correct": true },
+        { "option_id": 3, "text": "Prafullakumar Mohanto", "is_correct": false },
+        { "option_id": 4, "text": "Shankarrao Chavan", "is_correct": false }
+      ],
+      "answer": "Laldenga"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "When was the Mizo majority area given the status of a Union Territory?",
+      "options": [
+        { "option_id": 1, "text": "1966", "is_correct": false },
+        { "option_id": 2, "text": "1972", "is_correct": true },
+        { "option_id": 3, "text": "1985", "is_correct": false },
+        { "option_id": 4, "text": "1987", "is_correct": false }
+      ],
+      "answer": "1972"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who became the Chief Minister of Mizoram after it became a full-fledged State in 1985?",
+      "options": [
+        { "option_id": 1, "text": "Laldenga", "is_correct": true },
+        { "option_id": 2, "text": "Angami Zapu Fizo", "is_correct": false },
+        { "option_id": 3, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Prafullakumar Mohanto", "is_correct": false }
+      ],
+      "answer": "Laldenga"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The Naga tribe is historically known as a ____ tribe.",
+      "options": [
+        { "option_id": 1, "text": "Trading", "is_correct": false },
+        { "option_id": 2, "text": "Martial", "is_correct": true },
+        { "option_id": 3, "text": "Agricultural", "is_correct": false },
+        { "option_id": 4, "text": "Nomadic", "is_correct": false }
+      ],
+      "answer": "Martial"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who led the Naga National Council (NNC) in their demand for an independent state?",
+      "options": [
+        { "option_id": 1, "text": "Laldenga", "is_correct": false },
+        { "option_id": 2, "text": "Sant Harcharan Singh", "is_correct": false },
+        { "option_id": 3, "text": "Angami Zapu Fizo", "is_correct": true },
+        { "option_id": 4, "text": "Prafullakumar Mohanto", "is_correct": false }
+      ],
+      "answer": "Angami Zapu Fizo"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Nagaland was made a full-fledged State on:",
+      "options": [
+        { "option_id": 1, "text": "1st January 1950", "is_correct": false },
+        { "option_id": 2, "text": "1st December 1963", "is_correct": true },
+        { "option_id": 3, "text": "20th February 1987", "is_correct": false },
+        { "option_id": 4, "text": "15th August 1947", "is_correct": false }
+      ],
+      "answer": "1st December 1963"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In 1983, an intense agitation occurred in Assam regarding the dominance of which group?",
+      "options": [
+        { "option_id": 1, "text": "Naga tribes", "is_correct": false },
+        { "option_id": 2, "text": "Mizo tribes", "is_correct": false },
+        { "option_id": 3, "text": "Bengali migrants", "is_correct": true },
+        { "option_id": 4, "text": "Sikh soldiers", "is_correct": false }
+      ],
+      "answer": "Bengali migrants"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which organization's leader signed the Assam Accord in 1985 with Rajiv Gandhi?",
+      "options": [
+        { "option_id": 1, "text": "Mizo National Front", "is_correct": false },
+        { "option_id": 2, "text": "Naga National Council", "is_correct": false },
+        { "option_id": 3, "text": "Asom Ganaparishad", "is_correct": true },
+        { "option_id": 4, "text": "People's Liberation Guerilla Army", "is_correct": false }
+      ],
+      "answer": "Asom Ganaparishad"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Arunachal Pradesh is also known as the:",
+      "options": [
+        { "option_id": 1, "text": "Land of the rising sun", "is_correct": true },
+        { "option_id": 2, "text": "Abode of clouds", "is_correct": false },
+        { "option_id": 3, "text": "Jewel of India", "is_correct": false },
+        { "option_id": 4, "text": "Gateway to the East", "is_correct": false }
+      ],
+      "answer": "Land of the rising sun"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The Naxalite movement started in the Naxalbari area of which state?",
+      "options": [
+        { "option_id": 1, "text": "Maharashtra", "is_correct": false },
+        { "option_id": 2, "text": "Andhra Pradesh", "is_correct": false },
+        { "option_id": 3, "text": "West Bengal", "is_correct": true },
+        { "option_id": 4, "text": "Odisha", "is_correct": false }
+      ],
+      "answer": "West Bengal"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "In 1967, Naxalites declared their area as 'free territory' by putting up:",
+      "options": [
+        { "option_id": 1, "text": "White flags", "is_correct": false },
+        { "option_id": 2, "text": "Red flags", "is_correct": true },
+        { "option_id": 3, "text": "Green flags", "is_correct": false },
+        { "option_id": 4, "text": "Blue flags", "is_correct": false }
+      ],
+      "answer": "Red flags"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The Naxalite organization PLGA stands for:",
+      "options": [
+        { "option_id": 1, "text": "People's Liberation Guerilla Army", "is_correct": true },
+        { "option_id": 2, "text": "Public Liberty Guard Association", "is_correct": false },
+        { "option_id": 3, "text": "Pro-Labor Government Agency", "is_correct": false },
+        { "option_id": 4, "text": "Punjab Liberation Guerilla Alliance", "is_correct": false }
+      ],
+      "answer": "People's Liberation Guerilla Army"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of the following is considered the base of communalism?",
+      "options": [
+        { "option_id": 1, "text": "Regional pride", "is_correct": false },
+        { "option_id": 2, "text": "Economic development", "is_correct": false },
+        { "option_id": 3, "text": "Fanaticism", "is_correct": true },
+        { "option_id": 4, "text": "Social unity", "is_correct": false }
+      ],
+      "answer": "Fanaticism"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who sowed the seeds of communalism in India according to the text?",
+      "options": [
+        { "option_id": 1, "text": "The Mughals", "is_correct": false },
+        { "option_id": 2, "text": "The British", "is_correct": true },
+        { "option_id": 3, "text": "Local landlords", "is_correct": false },
+        { "option_id": 4, "text": "Separatist leaders", "is_correct": false }
+      ],
+      "answer": "The British"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "____ is the basis of coexistence among people of different religions.",
+      "options": [
+        { "option_id": 1, "text": "Bigotry", "is_correct": false },
+        { "option_id": 2, "text": "Suspicion", "is_correct": false },
+        { "option_id": 3, "text": "Trust", "is_correct": true },
+        { "option_id": 4, "text": "Isolation", "is_correct": false }
+      ],
+      "answer": "Trust"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Regionalism thrives on regional ____ in development.",
+      "options": [
+        { "option_id": 1, "text": "Balance", "is_correct": false },
+        { "option_id": 2, "text": "Imbalance", "is_correct": true },
+        { "option_id": 3, "text": "Cooperation", "is_correct": false },
+        { "option_id": 4, "text": "Similarity", "is_correct": false }
+      ],
+      "answer": "Imbalance"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of these states is mentioned as economically and industrially developed?",
+      "options": [
+        { "option_id": 1, "text": "Odisha", "is_correct": false },
+        { "option_id": 2, "text": "Bihar", "is_correct": false },
+        { "option_id": 3, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 4, "text": "Assam", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of these states is mentioned as economically undeveloped or backward?",
+      "options": [
+        { "option_id": 1, "text": "Gujarat", "is_correct": false },
+        { "option_id": 2, "text": "Punjab", "is_correct": false },
+        { "option_id": 3, "text": "Odisha", "is_correct": true },
+        { "option_id": 4, "text": "Tamil Nadu", "is_correct": false }
+      ],
+      "answer": "Odisha"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is 'excessive pride about one's region' called?",
+      "options": [
+        { "option_id": 1, "text": "Communalism", "is_correct": false },
+        { "option_id": 2, "text": "Nationalism", "is_correct": false },
+        { "option_id": 3, "text": "Regionalism", "is_correct": true },
+        { "option_id": 4, "text": "Naxalism", "is_correct": false }
+      ],
+      "answer": "Regionalism"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "According to the map of India, what is the capital of Telangana?",
+      "options": [
+        { "option_id": 1, "text": "Amravati", "is_correct": false },
+        { "option_id": 2, "text": "Hyderabad", "is_correct": true },
+        { "option_id": 3, "text": "Bengaluru", "is_correct": false },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Hyderabad"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "In which state is Gadchiroli, a Naxalite-affected area, located?",
+      "options": [
+        { "option_id": 1, "text": "Chhattisgarh", "is_correct": false },
+        { "option_id": 2, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 3, "text": "Telangana", "is_correct": false },
+        { "option_id": 4, "text": "Odisha", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The objective of Naxalism was to redistribute land to tenants from whom?",
+      "options": [
+        { "option_id": 1, "text": "Small farmers", "is_correct": false },
+        { "option_id": 2, "text": "Landlords", "is_correct": true },
+        { "option_id": 3, "text": "Government officials", "is_correct": false },
+        { "option_id": 4, "text": "Migrants", "is_correct": false }
+      ],
+      "answer": "Landlords"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What happens to a person's perspective when it is influenced by fanaticism?",
+      "options": [
+        { "option_id": 1, "text": "It becomes rational", "is_correct": false },
+        { "option_id": 2, "text": "It becomes prejudiced", "is_correct": true },
+        { "option_id": 3, "text": "It becomes inclusive", "is_correct": false },
+        { "option_id": 4, "text": "It becomes nationalistic", "is_correct": false }
+      ],
+      "answer": "It becomes prejudiced"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT mentioned as a problem facing India in the concluding summary?",
+      "options": [
+        { "option_id": 1, "text": "Overpopulation", "is_correct": false },
+        { "option_id": 2, "text": "Agriculture", "is_correct": false },
+        { "option_id": 3, "text": "Space Exploration", "is_correct": true },
+        { "option_id": 4, "text": "Poverty", "is_correct": false }
+      ],
+      "answer": "Space Exploration"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "When did the operation 'Operation Blue Star' end?",
+      "options": [
+        { "option_id": 1, "text": "3rd June", "is_correct": false },
+        { "option_id": 2, "text": "4th June", "is_correct": false },
+        { "option_id": 3, "text": "5th June", "is_correct": false },
+        { "option_id": 4, "text": "6th June", "is_correct": true }
+      ],
+      "answer": "6th June"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which schedule of the Indian Constitution contains special provisions for North-east tribal areas?",
+      "options": [
+        { "option_id": 1, "text": "V Schedule", "is_correct": false },
+        { "option_id": 2, "text": "VI Schedule", "is_correct": true },
+        { "option_id": 3, "text": "VII Schedule", "is_correct": false },
+        { "option_id": 4, "text": "VIII Schedule", "is_correct": false }
+      ],
+      "answer": "VI Schedule"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The 1959 famine in Mizoram led to the rise of which leader's popularity?",
+      "options": [
+        { "option_id": 1, "text": "Prafullakumar Mohanto", "is_correct": false },
+        { "option_id": 2, "text": "Laldenga", "is_correct": true },
+        { "option_id": 3, "text": "Angami Zapu Fizo", "is_correct": false },
+        { "option_id": 4, "text": "Sant Harcharan Singh", "is_correct": false }
+      ],
+      "answer": "Laldenga"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What was the main purpose of the 'Anandpur Sahib Resolution' passed in 1973?",
+      "answer": "The resolution made demands for including Punjabi-speaking parts in Punjab, increasing Sikh recruitment in the army, and seeking more autonomy for the state."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Where did Sant Harcharan Singh Longowal direct his activists from?",
+      "answer": "He used to direct his activists from the Golden Temple to stage protests."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why did Bhindranwale's followers capture the Golden Temple?",
+      "answer": "They captured it to build a barricade of sandbags, making the area look like a fort to conduct terrorist activities."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the definition of an 'operation' in a military context?",
+      "answer": "A military expedition taken up with a particular objective is called an operation."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Name the eight states that make up North-east India.",
+      "answer": "The states are Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "When was the North-East Frontier Agency (NEFA) created?",
+      "answer": "NEFA was created in 1954, comprising territories on the Sino-Indian border and tribal areas north of Assam."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What was the role of the Northeastern Council Act of 1971?",
+      "answer": "It was meant to advise the Central Government on economic/social spheres, transport, electricity, and flood control for the region."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Which leader established the Naga National Council (NNC) and what was their demand?",
+      "options": null,
+      "answer": "Educated Naga youth established the NNC in 1946; they later demanded an independent State of Nagaland under Angami Zapu Fizo."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "When did Arunachal Pradesh get the status of a constituent State?",
+      "answer": "Arunachal Pradesh got the status of a constituent State on 20th February 1987."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What triggered the Naxalite movement in 1967?",
+      "answer": "It was triggered by an organization of small farmers and laborers in Naxalbari who took charge of land and declared it free territory."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are 'Action Committees' in the context of the Naxalite movement?",
+      "answer": "They were committees established to raise a voice against exploitation by landlords and to confiscate and distribute land to tenants."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name four states currently affected by Naxalism as listed in the text.",
+      "answer": "States affected include West Bengal, Andhra Pradesh, Telangana, Maharashtra, Chhattisgarh, Madhya Pradesh, and Odisha."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How did Naxalism become a serious challenge to India's internal security?",
+      "answer": "It became a challenge by rejecting the democratic system, using terrorism, and establishing a parallel system."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the root cause of communalism according to the text?",
+      "answer": "Communalism emerges out of narrow and excessive religious pride which eventually turns into bigotry and fanaticism."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How does fanaticism affect a person's view of national interest?",
+      "answer": "Fanaticism makes a person oblivious of national interest as they prioritize their religion above the country."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why do riots break out due to communal thinking?",
+      "answer": "Riots break out because people become too sensitive and react violently to insults (real or perceived) against their religion or religious symbols."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the primary way to end communalism and strengthen national unity?",
+      "answer": "The way to end it is to mix with people of different religions, accept good ideas, and understand problems rationally rather than through religion."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is regionalism?",
+      "answer": "Regionalism means having excessive pride about one's region, to the point of feeling superior to people from other provinces."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How does regional imbalance lead to a negative impact on national unity?",
+      "answer": "It breaks understanding between states as people in backward areas feel cheated and kept away from development benefits."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the foundation of progress for any state?",
+      "answer": "Economic development and reforms are the foundation of progress for a state."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who was the first Prime Minister of independent India who took the lead in mainstreaming North-east tribes?",
+      "answer": "Pandit Jawaharlal Nehru took the lead in bringing these tribes into the mainstream."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What was the demand of the 'Greater Mizoram' movement?",
+      "answer": "The demand was for an independent nation carved out of Tripura, Manipur, and Mizo majority areas from the Lushai hills."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "In 1955, which military force was involved in skirmishes with the local Nagas?",
+      "answer": "The soldiers of the Assam Rifles were involved in skirmishes with local Nagas."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What agreement was reached in the 1985 Assam Accord regarding illegal migrants?",
+      "answer": "It was decided to send the Bangladeshi citizens who had infiltrated in Assam back to their original places."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which leader became the Chief Minister of Assam following the 1986 elections?",
+      "answer": "Prafullakumar Mohanto of the Asom Ganaparishad became the new Chief Minister."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Name two states that have achieved more economic and industrial progress in the post-independence period.",
+      "answer": "Maharashtra and Gujarat are two examples of states that achieved significant economic and industrial progress."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why do people in backward areas try to unnecessarily glorify local traditions?",
+      "answer": "They do so to prove their uniqueness and arouse regional identity in order to organize themselves."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does 'commensality' mean in the context of religious harmony?",
+      "answer": "It refers to the act of coming together to eat or socialize, which becomes rare when communalism takes root."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which city is the shared capital of Punjab and Haryana?",
+      "answer": "Chandigarh is the capital of both Punjab and Haryana, as well as the Chandigarh Union Territory."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Who was the Central Home Minister who signed the 1985 Assam Accord?",
+      "answer": "Shankarrao Chavan was the Central Home Minister who signed the Accord."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 1973 'Anandpur Sahib Resolution' and the specific demands it included.",
+      "answer": "The Anandpur Sahib Resolution was a pivotal document passed by the Akali Dal in 1973. It outlined several major demands for the state of Punjab, including the transfer of Chandigarh to Punjab and the inclusion of Punjabi-speaking areas from other states. Additionally, it called for an increase in the recruitment of Sikhs into the Indian army and requested a significantly higher degree of autonomy for the State of Punjab."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the events that led to the necessity of Operation Blue Star in 1984.",
+      "answer": "The situation in Punjab worsened in the early 1980s as the movement for an 'Independent Khalistan' grew. Followers of Sant Jarnailsingh Bhindranwale captured the Golden Temple and fortified it with sandbags, effectively turning a holy site into a fort for terrorist activities. This occupation disturbed the peace of the state and posed a major challenge to Indian democracy, forcing the government to launch Operation Blue Star to evict the terrorists."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "How did the Indian government handle the Mizo National Front's demand for independence?",
+      "answer": "Initially, Prime Minister Indira Gandhi handled the MNF's 1966 declaration of independence firmly by suppressing the rebellion. Once the situation calmed down in 1972, the Mizo majority area was granted Union Territory status. Later, in 1985, Prime Minister Rajiv Gandhi reached an agreement with Laldenga, leading to Mizoram becoming a full-fledged state and Laldenga becoming its first Chief Minister."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain the evolution of Nagaland's status from a tribal area to a constituent state of India.",
+      "answer": "Starting with the formation of the Naga National Council in 1946, the Naga people demanded an independent state. After years of skirmishes between local Nagas and government forces like the Assam Rifles, several rounds of discussion took place. The Central Government eventually granted the Naga majority territory Union Territory status and finally created the full-fledged State of Nagaland on December 1, 1963, by combining the Naga hills and Tuensang area."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "What was the core objective of the Naxalite movement when it began in Naxalbari, and how did it change over time?",
+      "answer": "The Naxalite movement originally aimed to organize small farmers and land laborers against exploitation by landlords. Their goals included establishing Action Committees to confiscate land from landlords and distribute it to tenants. However, the movement eventually strayed from these objectives, adopting terrorism to block government welfare schemes and creating a parallel system that rejects India's democratic framework."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Discuss the impact of communalism on social unity and national security in India.",
+      "answer": "Communalism acts as a serious threat to national unity by replacing mutual trust with suspicion and treating compatriots of different religions as enemies. This prejudice makes it difficult for citizens to organize for common rights and often leads to violent riots. These riots cause loss of life and property, damage the social fabric, and force the government to focus resources on internal security rather than development."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Analyze the relationship between regional imbalance in development and the rise of regionalism.",
+      "answer": "Regionalism thrives when some states progress significantly while others remain backward. Developed states may feel superior and unwilling to share benefits, while people in backward states feel cheated and deprived of opportunities like education and employment. This sense of being neglected causes people in underdeveloped regions to arouse strong regional identities and glorification of local traditions to organize themselves, which ultimately endangers national unity."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "What measures does the text suggest to counter the threat of communalism effectively?",
+      "answer": "To counter communalism, the text suggests that citizens must mix with people of different religions and accept each other's good practices. It is essential to understand economic and social problems rationally and not mix them with religious identity. We must search for the historical, political, or economic reasons behind religious disharmony and strengthen mutual trust, which is the true basis of national coexistence."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe the progress made by North-east India between 1960 and 2000 as mentioned in the chapter.",
+      "answer": "During this forty-year period, North-east India transitioned from a region of unrest to a more matured democracy. Through the democratic process, states like Mizoram, Nagaland, and Assam established peace after long-standing agitations or rebellions. The region is now on a path of progress through increased industrialization, the spread of education, and integration into the national mainstream while preserving its unique cultural diversity."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain why 'religious fanaticism' is considered the base of communalism and why it is dangerous.",
+      "answer": "Religious fanaticism occurs when pride in one's religion becomes excessive and turns into bigotry, where one views their religion as superior and others as inferior. It is dangerous because it makes individuals oblivious to national interest and breeds suspicion between communities. This mindset prevents people from coming together for common rights and turns compatriots into enemies, leading to riots and the destruction of public peace."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "How did the problem of 'Bengali migrants' in Assam reach a resolution?",
+      "answer": "The dominance of Bengali migrants in Assam led to an intense agitation by the All Assam Students Union and Assam Ganasangram Parishad in 1983. The conflict was resolved in 1985 when Prime Minister Rajiv Gandhi signed an Accord with Assamese leader Prafullakumar Mohanto. They agreed to identify and deport Bangladeshi citizens who had infiltrated the state, and the subsequent 1986 democratic elections helped establish lasting peace."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain the role of the North-East Frontier Agency (NEFA) in the development of the North-east region.",
+      "answer": "NEFA was formed in 1954 by Jawaharlal Nehru to manage tribal areas along the Sino-Indian border and north of Assam. The policy was to bring about development for hundreds of tribes while carefully preserving their unique cultures. Initially administered by the Ministry of External Affairs, this area later evolved into the Union Territory and eventually the constituent State of Arunachal Pradesh, showing a progression towards democratic integration."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Contrast the views of people in 'developed states' vs 'backward states' regarding regionalism.",
+      "answer": "People in developed states often feel superior due to their progress and history, leading them to look down on others and resist sharing development benefits. Conversely, people in backward states feel cheated and kept away from progress, which leads them to arouse regional identity and glorify local traditions to organize and demand their rights. Both perspectives, when taken to extremes, create a divide that weakens national unity."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Why was the 'Operation Black Thunder' necessary in 1986?",
+      "answer": "Despite the conclusion of Operation Blue Star in 1984, terrorist activities persisted in Punjab. In 1986, it became necessary to conduct another military operation against terrorists who had again taken up positions in the Golden Temple. This second operation, known as Operation Black Thunder, was crucial for eliminating the remaining terrorist threat and allowing the process of establishing peace in Punjab to gain significant momentum."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "What are the common interests that the Northeastern Council advises the Central Government on?",
+      "answer": "As per the Northeastern Council Act of 1971, the council is responsible for advising the Central Government on various aspects of common interest across the eight states. These include economic and social spheres to ensure balanced regional growth. Specifically, they focus on inter-state transport, electricity production and distribution, and flood control, which are vital for the collective progress of the North-east."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the transition of Mizoram from a district to a Union Territory and then to a State.",
+      "answer": "Originally part of the Lushai hills with administrative autonomy, the region saw rising expectations after the 1953 States Reorganisation Commission. Following a severe drought in 1959 and a rebellion led by the Mizo National Front in 1966, the government took firm action to restore order. In 1972, it was made a Union Territory to provide more local governance, and finally, after the 1985 agreement with Rajiv Gandhi, it became a full-fledged state with its own Chief Minister."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Describe the current geographical spread of the Naxalite movement in India as per the text.",
+      "answer": "While it began in Naxalbari, West Bengal, the movement spread across a 'Red Corridor' in India. It reached East Godavari and Vishakhapattanam in Andhra Pradesh, and Karimnagar and Adilabad in Telangana. It also established presence in the Bastar and Sukma regions of Chhattisgarh, the Gadchiroli and Chandrapur districts of Maharashtra, parts of Madhya Pradesh, and the Koraput district in Odisha."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Why does the text state that 'Trust between people is the basis of coexistence'?",
+      "answer": "Trust is considered the foundation of a healthy society because it allows people of diverse backgrounds and religions to live together peacefully. When trust is broken due to communalism or fanaticism, social unity receives a major blow. Without social unity, it is impossible to achieve national unity, as people become suspicious of one another and view their fellow citizens as enemies rather than compatriots."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "What role did Laldenga play in the history of Mizoram's struggle for identity?",
+      "answer": "Laldenga emerged as a significant leader during the 1959 famine when he served the common people, gaining their trust. He founded the Mizo National Front (MNF) in 1961 and campaigned for 'Greater Mizoram,' an independent nation. Although he initially led an armed rebellion, he eventually moved towards a peaceful resolution, signing an accord with the central government in 1985 and serving as the first Chief Minister of the newly formed Mizoram state."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Analyze how regionalism can affect even developed states negatively.",
+      "answer": "Regionalism is not limited to backward areas; it also affects developed states by fostering a sense of 'excessive regional pride.' People in these states may begin to believe they are naturally superior because of their history or culture, leading them to look down on others. This attitude makes them unwilling to share the benefits of national development with backward states, creating friction and breaking the mutual understanding necessary for national unity."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How did the British 'sow the seeds of communalism' in India?",
+      "answer": "The text states that the British sowed the seeds of communalism as part of their colonial strategy. Before their influence, people of different religions had lived together happily for centuries. By encouraging people to identify primarily with their religion rather than their shared nationality, and by fostering divisions, the British created the groundwork for the religious fanaticism and communal tensions that continue to challenge India today."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Describe the military restraint shown during Operation Blue Star.",
+      "answer": "During Operation Blue Star, which took place inside the Golden Temple—a highly sacred religious site—the Indian army functioned with great restraint. The main task was to evict terrorists while minimizing damage to the religious structure and avoiding unnecessary casualties. Despite the challenges of fighting in a fortified area that 'looked like a fort,' the operation was successfully completed between June 3rd and June 6th, 1984."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "What are the various social problems mentioned in the text that India is trying to overcome today?",
+      "answer": "Beyond the major internal security challenges like Naxalism and communalism, the text lists several ongoing social and economic problems. These include overpopulation, the need for better cleanliness (sanitation), challenges in the agricultural sector affecting farmers, and widespread poverty. The country also faces issues related to providing adequate housing and food for all its citizens as it progresses towards the future."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "How does the Naxalite movement impact the lives of common people in the areas where it is active?",
+      "answer": "Naxalism negatively impacts common people by using terrorism to prevent government welfare schemes and infrastructure projects from reaching them. By rejecting the democratic system and establishing a parallel system of governance, they create an atmosphere of fear and conflict. This prevents the region from achieving economic development, education, and health improvements, keeping the population in a state of perpetual instability."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What is the significance of the 1977 Akali Dal government in Punjab's political history?",
+      "answer": "In 1977, the Akali Dal came to power in Punjab and attempted to fulfill the regional aspirations of its voters. While taking charge, they reiterated their old demands from the Anandpur Sahib Resolution and added new ones, such as a larger share of river waters for Punjab and 'holy city' status for Amritsar. This period marked a peak in regional political assertion which, when combined with rising extremist movements, led to the complex challenges of the 1980s."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Why is it important not to mix economic and social problems with religion?",
+      "answer": "Mixing economic or social problems with religion leads to communalism because it makes people think that their religion is the reason for their suffering or lack of political influence. This framework causes people to become too sensitive and suspicious of the government and other religious groups. By looking at these problems rationally and searching for political or historical causes instead, we can find real solutions and preserve religious harmony."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Describe the martial history and settlement of the Naga tribe.",
+      "answer": "The Naga tribe is historically recognized as a martial tribe with a strong warrior tradition. They traditionally settled in the regions of the Eastern Himalayas, specifically the Naga hills and the border areas shared between Assam and Myanmar. Their distinct identity and geographic location contributed to their early demands for autonomy and the eventual creation of a separate state to preserve their unique heritage."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How does regionalism act as an 'evil' that endangers national unity?",
+      "answer": "Regionalism is described as an evil because it turns natural love for one's province into a 'morbid' and 'abnormal' pride. It creates a hierarchy where people feel superior or inferior based on their state of origin. This breaks the emotional and social bonds between citizens of the same nation, leads to internal conflict, and makes it difficult for the country to function as a united democratic entity."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Explain the role of the 'Akal Takht' in the Punjab unrest of the early 1980s.",
+      "answer": "The Akal Takht is a significant religious place within the Golden Temple complex. During the period of unrest, the staunch Khalistan supporter Bhindranwale went to stay there. His followers then used the surrounding sacred area to build sandbag barricades and stock weapons, using the religious sanctity of the location as a shield for their militant activities. This occupation necessitated the military intervention known as Operation Blue Star."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "How has the democratic process contributed to establishing peace in conflict-ridden areas of India?",
+      "answer": "The democratic process has been the most effective tool for resolving internal challenges. In Assam, the 1986 elections allowed local leaders to take office and address grievances through governance. In Mizoram, the transition of a rebel leader like Laldenga into a Chief Minister within the Indian constitutional framework brought stability. By giving people a voice and a stake in the system, democracy has helped transition many regions from violent separatist movements to peaceful progress."
+    }
+  ]
+}

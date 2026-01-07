@@ -1,0 +1,471 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.3.2",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Reading Works of Art"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which Indian artist is known for paintings with simple geometric shapes and the prominent use of blue and orange?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. F. Husain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sayed Haider Raza",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tyeb Mehta",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jamini Roy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sayed Haider Raza"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What style of painting does Raza's work belong to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Realism",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Impressionism",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abstract",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Surrealism",
+          "is_correct": false
+        }
+      ],
+      "answer": "Abstract"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What became the core or central theme of Raza's paintings in his later work?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The human figure",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Landscapes of France",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The 'bindu' or point",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Copies of traditional tales",
+          "is_correct": false
+        }
+      ],
+      "answer": "The 'bindu' or point"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a characteristic feature of Raza's paintings as described in the passage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Striking colour combinations",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lifelike human figures",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Simple geometric shapes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Captivating compositions",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lifelike human figures"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Gond Art is primarily a form of:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Classical dance",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tribal art",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Modern sculpture",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Urban street art",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tribal art"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Traditionally, on what surface was Gond art originally drawn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Canvas",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Paper scrolls",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earthen walls of houses",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tree bark",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earthen walls of houses"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is used in traditional Gond art to create textures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Photographs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Digital tools",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dots, straight lines, and circles",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Oil paints only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dots, straight lines, and circles"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Complete the idiom: 'Once in a _____ moon' (meaning: very rarely).",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "blue",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "green",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "black",
+          "is_correct": false
+        }
+      ],
+      "answer": "blue"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which idiom means 'a person who brings disgrace to the family'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Green-eyed boy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Black sheep",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Blue blood",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red carpet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Black sheep"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "According to the author, where might the roots of folk arts like Gond art lie?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In commercial art galleries",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In men's hunting rituals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In women's daily chores and leisure activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In royal court traditions",
+          "is_correct": false
+        }
+      ],
+      "answer": "In women's daily chores and leisure activities"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What are the two main art forms discussed in the chapter 'Reading Works of Art'?",
+      "answer": "The paintings of Sayed Haider Raza and Gond Art."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "Name the three Padma awards that Raza was honoured with.",
+      "answer": "Padma Shri, Padma Bhushan, and Padma Vibhushan."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "Where did Raza go for higher studies in art?",
+      "answer": "He went to France to study art."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What is the source of inspiration for abstract paintings like Raza's?",
+      "answer": "They originate from the artist's own inner mind, not from external factors."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "Which Indian states are mentioned as places where the Gond tribal people largely reside?",
+      "answer": "Madhya Pradesh, Maharashtra, Telangana, Andhra Pradesh, and Odisha."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is one key difference between Raza's art and traditional Gond art in terms of subject matter?",
+      "answer": "Raza's art is abstract and does not depict lifelike figures, while Gond art often involves designs and patterns drawn from tradition and observation."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What does the idiom 'out of the blue' mean?",
+      "answer": "Suddenly or unexpectedly."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What natural materials were traditionally used to prepare colours in Gond art?",
+      "answer": "Soils of different shades, plant juice, leaves, tree bark, flowers, fruits, coal, and cow-dung."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What is the 'effective medium of communication' for an artist like Raza?",
+      "answer": "His work or his paintings."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does the author say a house decorated with beautiful Gond pictures creates?",
+      "answer": "A pleasant atmosphere."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What year did Raza pass away?",
+      "answer": "2016."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Which language is the Gondi language similar to?",
+      "answer": "Telugu, a Dravidian language."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Complete the idiom: 'to have _____ fingers' (be good at gardening).",
+      "answer": "green"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What feeling do Raza's pictures seem to radiate?",
+      "answer": "Peace and life at the same time."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is one function of folk art mentioned in the passage?",
+      "answer": "It is a medium of recording and preserving what is seen."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is a common feature used to fill outlines in Gond art to make pictures lively?",
+      "answer": "Designs using dots, lines, curvy shapes, and circles."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "In the warming-up activity, what colour term completes the idiom: 'a bolt from the _____'?",
+      "answer": "blue"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Where did Raza begin his formal art education in India?",
+      "answer": "At the 'Chitrakala Mahavidyalaya' in Nagpur."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What does the author say is 'transferred from generation to generation in a smoothly flowing process' in folk arts?",
+      "answer": "The techniques and knowledge of the art form."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "According to the passage, what does creating folk art involve preparing yourself?",
+      "answer": "The 'canvas' (surface) and the colours."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Explain what abstract art is, with reference to Raza's work as described in the passage.",
+      "answer": "Abstract art is a style of painting that does not attempt to represent external reality or depict lifelike figures or scenes. Instead, it uses shapes, colours, forms, and gestural marks to achieve its effect. As described in the passage, Raza's abstract paintings are characterized by simple geometric shapes (circles, triangles, squares), striking colour combinations (especially blue and orange), and captivating compositions. They originate from his inner mind and are inspired by his study of Indian art, heritage, and philosophy. His work explores spiritual and metaphysical themes, with the 'bindu' or point becoming a core element, making the painting a visible form of deep thought rather than a copy of the visible world."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Describe the traditional process of creating Gond art as mentioned in the passage. What makes this experience 'enriching'?",
+      "answer": "The traditional process of creating Gond art is deeply connected to nature and self-sufficiency. First, the artist prepares their own 'canvas,' which was originally the earthen walls of their houses. Second, they prepare their own colours using natural materials like soils of various shades, plant juices, leaves, tree bark, flowers, fruits, coal, and cow-dung. The art is then created using outlines filled with textured designs made from dots, straight lines, dotted lines, curvy shapes, and circles. This experience is described as 'enriching' because the artist is intimately involved in every step, from sourcing materials to the final execution. This direct engagement with natural elements and the creative process adds a layer of personal connection and authenticity to the art, making it a holistic and deeply rewarding practice."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "How did Raza's artistic journey evolve from his early life to his international recognition? Summarize key milestones.",
+      "answer": "Raza's artistic journey began in a small village in Madhya Pradesh, where he started painting at age twelve. His formal training started at the Chitrakala Mahavidyalaya in Nagpur, followed by the J.J. School of Art in Mumbai. A significant turning point was his move to France for further art studies, where he eventually settled. He gained international recognition, winning numerous national and international awards. He was uniquely honoured with all three Padma awards (Shri, Bhushan, Vibhushan). Throughout his career, his style evolved towards abstraction, deeply influenced by Indian philosophy. His work gradually focused on spiritual and metaphysical themes, with the 'bindu' becoming central. He continued painting until his death at 94 in 2016, leaving a legacy of expressive, abstract works that communicate deep thought through colour and form."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Compare and contrast the inspirations and purposes of Raza's abstract paintings and traditional Gond art.",
+      "answer": "The inspirations and purposes of the two art forms are quite different. **Raza's abstract paintings** are inspired internally by his own inner mind, his study of Indian art heritage, and spiritual philosophy. Their purpose is not to depict the external world but to express deep, metaphysical thoughts and radiate peace and life. They are a form of personal, intellectual, and spiritual exploration. **Traditional Gond art**, in contrast, is inspired by the tribal community's traditional tales, mythology, and the natural environment they observe. Its purposes are more communal and functional: to decorate and create a pleasant atmosphere in homes, to record and preserve visual knowledge, and to continue cultural traditions through generations. While Raza's art is contemplative and individualistic, Gond art is decorative, narrative, and deeply rooted in community life and nature."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "What is the significance of the 'Warming up!' activity on colour idioms? How does it relate to the chapter's theme?",
+      "answer": "The 'Warming up!' activity on colour idioms serves two main purposes. First, it builds vocabulary and cultural literacy by introducing students to common English idioms that use colour terms metaphorically (e.g., 'green with envy,' 'black sheep'). This enhances their understanding of figurative language. Second, it directly relates to the chapter's theme of 'Reading Works of Art.' Colour is a fundamental element in both Raza's paintings (with his signature blue and orange) and Gond art (with its natural, vibrant colours). By exploring how colours carry symbolic and emotional meanings in language, students are primed to appreciate how artists like Raza and Gond artists use colour not just literally but expressively and symbolically to convey mood, identity, and deeper messages in their visual artwork."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "According to the passage, why is creating folk art considered a smoothly flowing generational process? What ensures its continuity?",
+      "answer": "Creating folk art is considered a smoothly flowing generational process because its knowledge, techniques, and aesthetics are passed down naturally within the community, often from elders to the younger generation, through observation, participation, and practice. This continuity is ensured because the art is integrated into daily life and cultural rituals—such as decorating homes for festivals or marking important events. The use of locally available, natural materials makes the art sustainable and accessible. The techniques for preparing colours and surfaces are simple yet effective, learned through hands-on experience rather than formal institutions. This embeddedness in community practice, combined with the art's functional and decorative roles, ensures that it is preserved and adapted over time without being lost."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "Explain Raza's own description of his work: 'My work is my own inner experience and involvement with the mysteries of nature and form...'. How does this statement reflect in his paintings?",
+      "answer": "Raza's statement highlights two core aspects of his art: introspection and a deep connection with fundamental principles. 'My own inner experience' points to the abstract nature of his work, which stems from peering into his own mind rather than depicting outer reality. 'Involvement with the mysteries of nature and form' suggests his exploration of essential, universal elements—like geometric shapes (circle, triangle), space, and light—which he sees as the building blocks of both art and the natural world. This reflection is evident in his paintings through the repetitive use of simple geometric shapes (the 'bindu,' triangles, squares), which symbolize these mysteries. The expressive use of colour (blue, orange) and composition is how he translates these intangible inner experiences and philosophical contemplations about nature into a visible, sensory form on canvas."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "What does the author imply by saying 'In folk arts, you yourself prepare the ‘canvas’ – the surface on which to draw and the colours with which you draw'? Discuss the value of this self-reliance.",
+      "answer": "The author implies that folk art is a holistic, self-contained practice where the artist is directly involved in creating every component of the artwork, not just the final design. This self-reliance has immense value. First, it fosters a deep, intimate connection between the artist, their materials, and their environment, as they gather colours from soils, plants, and other natural sources. Second, it empowers the artist with complete creative control and independence from commercial art supplies. Third, this process is educational, transmitting practical knowledge about nature's resources. Finally, it adds authenticity and a unique, personal touch to each piece, as the prepared colours and surfaces have variations that machine-made materials lack. This self-reliance makes the act of creation more meaningful, sustainable, and rooted in local tradition."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "How does the chapter structure (Warming up, followed by passages on two art forms, then a workshop) help in achieving its learning objectives?",
+      "answer": "The chapter structure is pedagogically sound and helps achieve layered learning objectives. The **Warming up!** section activates prior knowledge and engages students with a relatable, language-based activity (colour idioms), preparing them to think about colour symbolically. The **two main passages** then provide contrasting yet complementary models: one on a world-renowned individual modern artist (Raza) and another on a community-based traditional art form (Gond). This exposes students to diverse artistic expressions within India. The **ENGLISH WORKSHOP** activities then solidify learning through multiple modes: error correction (language skill), diagram completion and note-making (comprehension and summarization), comparative analysis (with book/play reviews), and creative extension (writing a short note). This structure moves students from engagement to information intake, then to analysis, application, and creative synthesis, ensuring a comprehensive understanding of both the content and the skill of 'reading' visual art."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "Based on the descriptions in the chapter, what broader messages do you think the arts of Raza and the Gond community convey about Indian culture and heritage?",
+      "answer": "Together, the arts of Raza and the Gond community convey the incredible diversity, depth, and continuity of Indian culture and heritage. **Raza's art** represents the sophisticated, philosophical, and global face of modern Indian art. It shows how traditional Indian concepts (like the 'bindu' from tantric philosophy) can be reimagined through a contemporary, abstract lens, achieving international acclaim while remaining deeply rooted in Indian thought. **Gond art** represents the enduring, vibrant, and earth-connected traditions of India's tribal communities. It highlights the richness of folk knowledge, sustainable practices, and communal storytelling that has been preserved for thousands of years. Both forms, though vastly different in style and context, demonstrate that Indian heritage is not monolithic but a living tapestry where ancient tribal traditions and refined philosophical explorations coexist and flourish, each contributing to the nation's rich cultural identity."
+    }
+  ]
+}

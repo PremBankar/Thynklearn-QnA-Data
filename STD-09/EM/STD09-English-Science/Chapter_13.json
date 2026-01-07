@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.General_Science.13",
+    "standard": "9",
+    "subject": "General Science",
+    "medium": "English",
+    "chapter_name": "Carbon : An Important Element"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the atomic number of carbon?",
+      "options": [
+        { "option_id": 1, "text": "6", "is_correct": true },
+        { "option_id": 2, "text": "12", "is_correct": false },
+        { "option_id": 3, "text": "4", "is_correct": false },
+        { "option_id": 4, "text": "8", "is_correct": false }
+      ],
+      "answer": "6"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a crystalline allotrope of carbon?",
+      "options": [
+        { "option_id": 1, "text": "Diamond", "is_correct": false },
+        { "option_id": 2, "text": "Graphite", "is_correct": false },
+        { "option_id": 3, "text": "Fullerene", "is_correct": false },
+        { "option_id": 4, "text": "Coal", "is_correct": true }
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the valency of carbon?",
+      "options": [
+        { "option_id": 1, "text": "2", "is_correct": false },
+        { "option_id": 2, "text": "3", "is_correct": false },
+        { "option_id": 3, "text": "4", "is_correct": true },
+        { "option_id": 4, "text": "1", "is_correct": false }
+      ],
+      "answer": "4"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which scientist first synthesized urea from an inorganic compound?",
+      "options": [
+        { "option_id": 1, "text": "Alessandro Volta", "is_correct": false },
+        { "option_id": 2, "text": "Friedrich Wöhler", "is_correct": true },
+        { "option_id": 3, "text": "Harold Kroto", "is_correct": false },
+        { "option_id": 4, "text": "Richard Smalley", "is_correct": false }
+      ],
+      "answer": "Friedrich Wöhler"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In which form is carbon found in the atmosphere?",
+      "options": [
+        { "option_id": 1, "text": "Diamond", "is_correct": false },
+        { "option_id": 2, "text": "Graphite", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Methane", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which allotrope of carbon is a good conductor of electricity?",
+      "options": [
+        { "option_id": 1, "text": "Diamond", "is_correct": false },
+        { "option_id": 2, "text": "Graphite", "is_correct": true },
+        { "option_id": 3, "text": "Fullerene", "is_correct": false },
+        { "option_id": 4, "text": "Coal", "is_correct": false }
+      ],
+      "answer": "Graphite"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the hardest natural substance?",
+      "options": [
+        { "option_id": 1, "text": "Graphite", "is_correct": false },
+        { "option_id": 2, "text": "Diamond", "is_correct": true },
+        { "option_id": 3, "text": "Fullerene", "is_correct": false },
+        { "option_id": 4, "text": "Quartz", "is_correct": false }
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which type of bond does carbon usually form?",
+      "options": [
+        { "option_id": 1, "text": "Ionic bond", "is_correct": false },
+        { "option_id": 2, "text": "Covalent bond", "is_correct": true },
+        { "option_id": 3, "text": "Metallic bond", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen bond", "is_correct": false }
+      ],
+      "answer": "Covalent bond"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the main component of biogas?",
+      "options": [
+        { "option_id": 1, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 2, "text": "Methane", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "Methane"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following is a saturated hydrocarbon?",
+      "options": [
+        { "option_id": 1, "text": "Ethene", "is_correct": false },
+        { "option_id": 2, "text": "Ethane", "is_correct": true },
+        { "option_id": 3, "text": "Ethyne", "is_correct": false },
+        { "option_id": 4, "text": "Propene", "is_correct": false }
+      ],
+      "answer": "Ethane"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the molecular formula of methane?",
+      "options": [
+        { "option_id": 1, "text": "CH4", "is_correct": true },
+        { "option_id": 2, "text": "C2H6", "is_correct": false },
+        { "option_id": 3, "text": "CO2", "is_correct": false },
+        { "option_id": 4, "text": "C6H6", "is_correct": false }
+      ],
+      "answer": "CH4"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which gas turns limewater milky?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the purest form of coal?",
+      "options": [
+        { "option_id": 1, "text": "Peat", "is_correct": false },
+        { "option_id": 2, "text": "Lignite", "is_correct": false },
+        { "option_id": 3, "text": "Bituminous", "is_correct": false },
+        { "option_id": 4, "text": "Anthracite", "is_correct": true }
+      ],
+      "answer": "Anthracite"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which allotrope of carbon is used in pencils?",
+      "options": [
+        { "option_id": 1, "text": "Diamond", "is_correct": false },
+        { "option_id": 2, "text": "Graphite", "is_correct": true },
+        { "option_id": 3, "text": "Fullerene", "is_correct": false },
+        { "option_id": 4, "text": "Charcoal", "is_correct": false }
+      ],
+      "answer": "Graphite"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the main element in all organic compounds?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon", "is_correct": true },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of an unsaturated hydrocarbon?",
+      "options": [
+        { "option_id": 1, "text": "Methane", "is_correct": false },
+        { "option_id": 2, "text": "Ethane", "is_correct": false },
+        { "option_id": 3, "text": "Propane", "is_correct": false },
+        { "option_id": 4, "text": "Ethene", "is_correct": true }
+      ],
+      "answer": "Ethene"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the molecular mass of carbon dioxide?",
+      "options": [
+        { "option_id": 1, "text": "28", "is_correct": false },
+        { "option_id": 2, "text": "32", "is_correct": false },
+        { "option_id": 3, "text": "44", "is_correct": true },
+        { "option_id": 4, "text": "16", "is_correct": false }
+      ],
+      "answer": "44"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which gas is produced when methane burns completely?",
+      "options": [
+        { "option_id": 1, "text": "Carbon monoxide", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen dioxide", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the common name for methane found in marshy areas?",
+      "options": [
+        { "option_id": 1, "text": "Natural gas", "is_correct": false },
+        { "option_id": 2, "text": "Marsh gas", "is_correct": true },
+        { "option_id": 3, "text": "Biogas", "is_correct": false },
+        { "option_id": 4, "text": "Coal gas", "is_correct": false }
+      ],
+      "answer": "Marsh gas"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is a use of solid carbon dioxide?",
+      "options": [
+        { "option_id": 1, "text": "Making aerated drinks", "is_correct": false },
+        { "option_id": 2, "text": "Cold storage", "is_correct": true },
+        { "option_id": 3, "text": "Fire extinguishers", "is_correct": false },
+        { "option_id": 4, "text": "Dry cleaning", "is_correct": false }
+      ],
+      "answer": "Cold storage"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is the symbol of carbon?",
+      "answer": "C"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What is the atomic mass of carbon?",
+      "answer": "12"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is allotropy?",
+      "answer": "The property of an element to exist in more than one form with different physical properties but same chemical properties."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Name two crystalline allotropes of carbon.",
+      "answer": "Diamond and graphite."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why is diamond hard?",
+      "answer": "Because each carbon atom is bonded to four other carbon atoms in a rigid three-dimensional structure."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why is graphite a good conductor of electricity?",
+      "answer": "Because it has free electrons that can move within its layered structure."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is fullerene?",
+      "answer": "An allotrope of carbon whose molecules are hollow spheres or tubes, like C60."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the main constituent of coal?",
+      "answer": "Carbon."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What are hydrocarbons?",
+      "answer": "Compounds made only of carbon and hydrogen."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Give an example of a saturated hydrocarbon.",
+      "answer": "Methane (CH4) or ethane (C2H6)."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Give an example of an unsaturated hydrocarbon.",
+      "answer": "Ethene (C2H4) or ethyne (C2H2)."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is the product when carbon burns in oxygen?",
+      "answer": "Carbon dioxide (CO2)."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "How is carbon dioxide prepared in the laboratory?",
+      "answer": "By reacting calcium carbonate (marble chips) with dilute hydrochloric acid."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What happens when CO2 is passed through limewater?",
+      "answer": "It turns milky due to formation of calcium carbonate."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is the melting point of diamond?",
+      "answer": "3500°C."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What is the density of graphite?",
+      "answer": "1.9 to 2.3 g/cm³."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Which allotrope of carbon is used in cutting glass?",
+      "answer": "Diamond."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of methane?",
+      "answer": "CH4."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Who discovered methane?",
+      "answer": "Alessandro Volta."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is biogas?",
+      "answer": "A fuel gas produced by anaerobic decomposition of organic matter, mainly containing methane."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What are the two stages of biogas production?",
+      "answer": "1. Production of acids. 2. Methane gas production."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why is carbon dioxide used in fire extinguishers?",
+      "answer": "Because it is denser than air, does not support combustion, and is non-conductive."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the percentage of carbon in anthracite coal?",
+      "answer": "About 95%."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the electronic configuration of carbon?",
+      "answer": "2,4."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the Latin origin of the word 'carbon'?",
+      "answer": "From 'carbo' meaning coal."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Which allotrope of carbon is used as a lubricant?",
+      "answer": "Graphite."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is coke?",
+      "answer": "The porous, high-carbon residue left after heating coal in the absence of air."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name a non-crystalline form of carbon.",
+      "answer": "Charcoal or coal."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the product of chlorination of methane?",
+      "answer": "Methyl chloride (CH3Cl) and hydrogen chloride (HCl)."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the proportion of methane in natural gas?",
+      "answer": "About 87%."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Which gas is produced when methane reacts with chlorine in sunlight?",
+      "answer": "Methyl chloride and hydrogen chloride."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the chemical reaction for complete combustion of methane?",
+      "answer": "CH4 + 2O2 → CO2 + 2H2O + heat."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is organic chemistry called the chemistry of carbon compounds?",
+      "answer": "Because carbon is the main element in all organic compounds."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the molecular mass of methane?",
+      "answer": "16."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the colour of carbon dioxide gas?",
+      "answer": "Colourless."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the smell of carbon dioxide?",
+      "answer": "Odourless."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is graphite slippery?",
+      "answer": "Because its layers can slide over each other easily."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the use of diamond in surgery?",
+      "answer": "Diamond knives are used in eye surgery."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of calcium carbonate?",
+      "answer": "CaCO3."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the chemical reaction between calcium carbonate and hydrochloric acid?",
+      "answer": "CaCO3 + 2HCl → CaCl2 + H2O + CO2."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the product when CO2 is passed into sodium hydroxide solution?",
+      "answer": "Sodium carbonate (Na2CO3) and water."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the product when CO2 is passed into sodium carbonate solution?",
+      "answer": "Sodium bicarbonate (NaHCO3)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of sodium bicarbonate?",
+      "answer": "NaHCO3."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of sodium carbonate?",
+      "answer": "Na2CO3."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is methane called a greenhouse gas?",
+      "answer": "Because it traps heat in the atmosphere, contributing to global warming."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the main use of coke?",
+      "answer": "As a reducing agent in metallurgy and as a fuel."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of carbon monoxide?",
+      "answer": "CO."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of carbon disulfide?",
+      "answer": "CS2."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of acetylene?",
+      "answer": "C2H2."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of ethene?",
+      "answer": "C2H4."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the allotropic forms of carbon with examples.",
+      "answer": "Carbon exhibits allotropy, meaning it exists in different physical forms with the same chemical properties. The main allotropes are: 1. Diamond: Hard, transparent, crystalline, non-conductor. 2. Graphite: Soft, black, slippery, good conductor. 3. Fullerene: Molecule-like structures such as C60 (buckyballs) and nanotubes. 4. Amorphous forms: Coal, charcoal, coke, which lack a regular crystalline structure."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the structure and properties of diamond.",
+      "answer": "Diamond has a tetrahedral structure where each carbon atom is covalently bonded to four other carbon atoms in a rigid three-dimensional network. This makes diamond extremely hard, with a high melting point (3500°C), high density (3.5 g/cm³), transparent, brilliant, and a poor conductor of electricity. It is chemically inert, insoluble in solvents, and burns in oxygen to give CO2. Uses include cutting tools, jewelry, and surgical instruments."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Describe the structure and properties of graphite.",
+      "answer": "Graphite has a layered structure where each carbon atom is bonded to three others in hexagonal rings, forming flat sheets. The layers are held by weak van der Waals forces and can slide over each other, making graphite soft and slippery. It is black, opaque, a good conductor of electricity due to delocalized electrons, and has a density of 1.9–2.3 g/cm³. It is used in pencils, lubricants, electrodes, and refractories."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "What are fullerenes? Explain their structure and uses.",
+      "answer": "Fullerenes are molecular allotropes of carbon with cage-like structures. The most common is C60 (buckminsterfullerene), a hollow sphere of 60 carbon atoms arranged in pentagons and hexagons like a soccer ball. Others include C70, nanotubes (buckytubes). They are soluble in organic solvents, exhibit superconductivity at low temperatures, and are used as insulators, catalysts, in drug delivery, and nanotechnology."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Differentiate between crystalline and amorphous forms of carbon.",
+      "answer": "Crystalline forms have a regular, definite arrangement of atoms (long-range order), high melting points, and specific shapes. Examples: diamond, graphite, fullerene. Amorphous forms lack a regular atomic arrangement, are irregular in shape, and have lower melting points. Examples: coal, charcoal, coke, carbon black. Both are chemically similar but differ in physical properties due to structure."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the different types of coal and their uses.",
+      "answer": "Coal is a fossil fuel formed from plant remains. Types: 1. Peat: First stage, high water, low carbon (<60%), low heat. 2. Lignite: Brown coal, 60–70% carbon, used in thermal power plants. 3. Bituminous: Soft coal, 70–90% carbon, used for coke production and as fuel. 4. Anthracite: Hard coal, ~95% carbon, high heat, low smoke, used in metallurgy and heating. Coal is used for electricity generation, steel production, and as a chemical feedstock."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "What are hydrocarbons? Classify them with examples.",
+      "answer": "Hydrocarbons are organic compounds containing only carbon and hydrogen. They are classified as: 1. Saturated hydrocarbons (alkanes): Only single bonds, e.g., methane (CH4), ethane (C2H6). 2. Unsaturated hydrocarbons: Contain double or triple bonds. a. Alkenes: Double bonds, e.g., ethene (C2H4). b. Alkynes: Triple bonds, e.g., ethyne (C2H2). They are fuels, solvents, and raw materials for plastics, drugs, etc."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Describe the laboratory preparation and properties of carbon dioxide.",
+      "answer": "CO2 is prepared by reacting calcium carbonate (marble chips) with dilute hydrochloric acid: CaCO3 + 2HCl → CaCl2 + H2O + CO2. It is collected by upward displacement of air. Properties: Colourless, odourless gas, denser than air, soluble in water forming carbonic acid, turns limewater milky (Ca(OH)2 + CO2 → CaCO3 + H2O), does not support combustion, acidic oxide. Uses: Fire extinguishers, aerated drinks, refrigeration, photosynthesis."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the occurrence, properties, and uses of methane.",
+      "answer": "Methane (CH4) occurs in natural gas (87%), biogas, marsh gas, coal mines. It is colourless, odourless, lighter than air, sparingly soluble in water, burns with a blue flame: CH4 + 2O2 → CO2 + 2H2O + heat. It undergoes substitution reactions like chlorination in sunlight. Uses: Fuel for heating/cooking, in chemical synthesis (methanol, chloroform), power generation, and as a reducing agent."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "How is biogas produced? Explain the working of a biogas plant.",
+      "answer": "Biogas is produced by anaerobic digestion of organic waste (dung, plant matter) by bacteria. Process: 1. Hydrolysis: Complex organics break into sugars, amino acids. 2. Acidogenesis: Acids (acetic, propionic) form. 3. Methanogenesis: Methanogenic bacteria convert acids to methane (CH4) and CO2. Biogas plant: Mixing tank (slurry) → digester (anaerobic fermentation) → gas holder → gas used for cooking/electricity → spent slurry as manure. Benefits: Renewable, reduces waste, produces energy and fertilizer."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Why is carbon dioxide used in fire extinguishers? Explain with a chemical reaction.",
+      "answer": "CO2 is used because it is denser than air, cuts off oxygen supply, does not support combustion, and is non-conductive. In soda-acid extinguishers: sodium bicarbonate reacts with sulphuric acid: 2NaHCO3 + H2SO4 → Na2SO4 + 2H2O + 2CO2. The CO2 released smothers the fire. Modern extinguishers use pressurized liquid CO2, which expands to gas, cooling and displacing oxygen. Suitable for electrical and flammable liquid fires."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Compare diamond and graphite in terms of structure and properties.",
+      "answer": "Diamond: Each C atom bonded tetrahedrally to 4 others in a 3D network. Properties: hardest, transparent, poor conductor, high density, high melting point. Graphite: Each C atom bonded trigonally to 3 others in layers. Properties: soft, slippery, black, good conductor, lower density. Difference due to bonding: diamond has strong directional covalent bonds in all directions; graphite has strong in-plane bonds but weak interlayer forces."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "What are covalent compounds? Give properties of covalent compounds formed by carbon.",
+      "answer": "Covalent compounds are formed by sharing of electrons between atoms. Carbon forms covalent bonds due to its tetravalency. Properties: Low melting/boiling points (molecular solids), insoluble in water but soluble in organic solvents, poor conductors of electricity (except graphite), often volatile, show isomerism. Examples: Methane, ethane, benzene, carbon tetrachloride."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain the reaction of carbon with oxygen and its products.",
+      "answer": "Carbon reacts with oxygen to form oxides. Complete combustion (excess oxygen): C + O2 → CO2 (carbon dioxide), heat. Incomplete combustion (limited oxygen): 2C + O2 → 2CO (carbon monoxide). CO2 is acidic, used in fire extinguishers; CO is toxic, used as reducing agent. Carbon also forms CO2 when burned in air, seen as black residue (soot) in organic combustion."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Describe the physical and chemical properties of carbon dioxide.",
+      "answer": "Physical: Colourless, odourless gas, denser than air, soluble in water (forms H2CO3), sublimes at −78.5°C as dry ice. Chemical: Acidic oxide, turns limewater milky (CaCO3 precipitate), reacts with alkalis to form carbonates/bicarbonates, does not support combustion (used in fire extinguishers), reacts with water to form carbonic acid (H2CO3), used in photosynthesis."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What are the uses of diamond?",
+      "answer": "1. Jewelry due to brilliance and hardness. 2. Cutting, grinding, drilling tools (glass cutters, rock drills). 3. Surgical instruments (diamond knives for eye surgery). 4. Polishing other diamonds (diamond dust). 5. Radiation windows in space vehicles and satellites. 6. High-pressure experiments (diamond anvil cells). 7. Thermal conductors in electronics."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What are the uses of graphite?",
+      "answer": "1. Pencil leads (mixed with clay). 2. Lubricant (solid, high-temperature). 3. Electrodes (in batteries, electrolysis). 4. Refractory linings (crucibles). 5. Moderator in nuclear reactors. 6. Paints and polishes. 7. Arc lamps (bright light). 8. Graphene for advanced materials."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Explain the chlorination of methane.",
+      "answer": "Methane reacts with chlorine in presence of UV light or heat (250–400°C) to give substitution products: CH4 + Cl2 → CH3Cl + HCl (methyl chloride). Further substitution can occur: CH3Cl + Cl2 → CH2Cl2 (methylene chloride) → CHCl3 (chloroform) → CCl4 (carbon tetrachloride). Mechanism: free radical substitution. Uses: CH3Cl as solvent, refrigerant; CH2Cl2 as degreaser; CHCl3 as anesthetic; CCl4 as fire extinguisher (now restricted)."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Why is carbon considered a unique element?",
+      "answer": "Carbon is unique due to: 1. Catenation: Ability to form long chains/branched chains/rings with C-C bonds. 2. Tetravalency: Forms four covalent bonds. 3. Multiple bond formation: Double/triple bonds with itself/other elements. 4. Allotropy: Exists in diverse forms (diamond, graphite, etc.). 5. Forms millions of organic compounds. 6. Basis of life (biomolecules: proteins, DNA, carbohydrates). 7. Stable covalent compounds with many elements."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What is the importance of carbon in daily life?",
+      "answer": "Carbon is essential in: 1. Food: Carbohydrates, proteins, fats contain carbon. 2. Clothing: Natural fibres (cotton, wool) are organic. 3. Fuels: Coal, petroleum, natural gas, biogas. 4. Materials: Plastics, rubber, synthetic fibres. 5. Medicines: Most drugs are carbon-based. 6. Household items: Soaps, detergents, paper. 7. Environment: CO2 in photosynthesis, carbon cycle. 8. Technology: Graphite in batteries, diamond in tools."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How will you prove experimentally that graphite conducts electricity?",
+      "answer": "Take a pencil lead (graphite), connect it in a circuit with a battery and a bulb. When current passes, the bulb glows, showing graphite conducts electricity. Alternatively, use a multimeter to measure resistance; graphite shows low resistance. Explanation: Graphite has delocalized electrons in its layered structure that move freely under potential difference, allowing conduction."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Write the chemical reactions of carbon dioxide with: a) Water b) Limewater c) Sodium hydroxide.",
+      "answer": "a) CO2 + H2O ⇌ H2CO3 (carbonic acid). b) Ca(OH)2 + CO2 → CaCO3↓ (white precipitate) + H2O (milky). Excess CO2: CaCO3 + H2O + CO2 → Ca(HCO3)2 (clear). c) 2NaOH + CO2 → Na2CO3 + H2O (sodium carbonate). Further: Na2CO3 + H2O + CO2 → 2NaHCO3 (sodium bicarbonate)."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "What is the role of carbon in the environment?",
+      "answer": "Carbon cycles through ecosystems via the carbon cycle. CO2 is absorbed by plants in photosynthesis to produce organic matter, which is consumed by animals. Respiration and decomposition return CO2 to the atmosphere. Fossil fuels store ancient carbon; burning releases CO2, increasing greenhouse effect. Carbonates in rocks/oceans act as reservoirs. Balance is vital for climate and life."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Explain the term 'allotropy' with reference to carbon, sulphur, and phosphorus.",
+      "answer": "Allotropy is the existence of an element in two or more forms with different physical properties but same chemical properties. Carbon: diamond, graphite, fullerene. Sulphur: rhombic, monoclinic, plastic sulphur. Phosphorus: white, red, black phosphorus. Allotropes differ in atomic arrangement, leading to variations in hardness, density, conductivity, etc. Caused by different bonding patterns or molecular structures."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What is the difference between organic and inorganic compounds?",
+      "answer": "Organic compounds contain carbon (except oxides, carbonates, bicarbonates, cyanides) and are derived from living organisms or synthesized. They are covalent, numerous, often flammable, e.g., methane, glucose. Inorganic compounds may or may not contain carbon, are from minerals, include ionic/covalent bonds, e.g., NaCl, CO2, CaCO3. Wöhler's synthesis of urea from ammonium cyanate bridged the two categories."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Describe the formation and types of coal.",
+      "answer": "Coal forms from buried plant matter under high pressure and temperature over millions of years (carbonization). Stages: 1. Peat: partially decayed plant matter, high moisture. 2. Lignite: brown coal, more carbon, used in power plants. 3. Bituminous: soft coal, higher carbon, used for coke and fuel. 4. Anthracite: hard coal, highest carbon, low volatile, high heat. Carbon content increases with rank; volatile matter decreases."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "How is coke obtained? What are its uses?",
+      "answer": "Coke is obtained by heating coal in the absence of air (destructive distillation) to remove volatile matter. It is a porous, grey, hard substance with high carbon content. Uses: 1. Fuel in blast furnaces for iron smelting. 2. Reducing agent in metallurgy. 3. Production of water gas (CO + H2) and producer gas. 4. Domestic fuel (smokeless). 5. In electrodes and carbon brushes."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What is carbon dating? How does it work?",
+      "answer": "Carbon dating (radiocarbon dating) is a method to determine the age of organic materials by measuring the decay of carbon-14 (14C). Living organisms absorb 14C from atmosphere; after death, absorption stops and 14C decays with a half-life of 5730 years. By comparing remaining 14C to stable 12C, the age can be calculated. Used in archaeology, geology, and environmental science."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Explain the greenhouse effect and the role of carbon dioxide and methane.",
+      "answer": "The greenhouse effect is the trapping of solar heat by gases in the atmosphere, warming the Earth. CO2 and CH4 are major greenhouse gases. They allow sunlight in but absorb infrared radiation emitted by Earth, re-radiating it back. Human activities (burning fossil fuels, deforestation, agriculture) increase these gases, enhancing the effect, leading to global warming and climate change. Methane is 25 times more potent than CO2 over 100 years."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "What are the environmental impacts of excessive carbon dioxide and methane?",
+      "answer": "Excess CO2 and CH4 cause: 1. Global warming: rising temperatures, melting ice, sea-level rise. 2. Climate change: extreme weather, droughts, floods. 3. Ocean acidification: CO2 dissolves in seawater forming carbonic acid, harming marine life (coral bleaching, shell dissolution). 4. Air pollution: smog, health issues. 5. Methane leaks from mining, agriculture add to warming. Mitigation: renewable energy, afforestation, carbon capture, sustainable practices."
+    }
+  ]
+}

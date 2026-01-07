@@ -1,0 +1,1306 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.03",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Exogenetic Processes – Part I"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are exogenetic processes?",
+      "options": [
+        { "option_id": 1, "text": "Processes occurring inside the Earth", "is_correct": false },
+        { "option_id": 2, "text": "Processes occurring on the Earth’s surface", "is_correct": true },
+        { "option_id": 3, "text": "Processes caused by plate movement", "is_correct": false },
+        { "option_id": 4, "text": "Processes related to earthquakes", "is_correct": false }
+      ],
+      "answer": "Processes occurring on the Earth’s surface"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which energy mainly drives exogenetic processes?",
+      "options": [
+        { "option_id": 1, "text": "Internal heat energy", "is_correct": false },
+        { "option_id": 2, "text": "Solar energy", "is_correct": true },
+        { "option_id": 3, "text": "Nuclear energy", "is_correct": false },
+        { "option_id": 4, "text": "Magnetic energy", "is_correct": false }
+      ],
+      "answer": "Solar energy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is an exogenetic process?",
+      "options": [
+        { "option_id": 1, "text": "Folding", "is_correct": false },
+        { "option_id": 2, "text": "Faulting", "is_correct": false },
+        { "option_id": 3, "text": "Weathering", "is_correct": true },
+        { "option_id": 4, "text": "Volcanism", "is_correct": false }
+      ],
+      "answer": "Weathering"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is weathering?",
+      "options": [
+        { "option_id": 1, "text": "Transportation of sediments", "is_correct": false },
+        { "option_id": 2, "text": "Breaking or weakening of rocks in situ", "is_correct": true },
+        { "option_id": 3, "text": "Deposition of materials", "is_correct": false },
+        { "option_id": 4, "text": "Formation of mountains", "is_correct": false }
+      ],
+      "answer": "Breaking or weakening of rocks in situ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How many types of weathering are there?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": true },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which type of weathering is dominant in dry climates?",
+      "options": [
+        { "option_id": 1, "text": "Chemical weathering", "is_correct": false },
+        { "option_id": 2, "text": "Biological weathering", "is_correct": false },
+        { "option_id": 3, "text": "Mechanical weathering", "is_correct": true },
+        { "option_id": 4, "text": "Mass wasting", "is_correct": false }
+      ],
+      "answer": "Mechanical weathering"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which weathering is dominant in humid climates?",
+      "options": [
+        { "option_id": 1, "text": "Mechanical", "is_correct": false },
+        { "option_id": 2, "text": "Chemical", "is_correct": true },
+        { "option_id": 3, "text": "Biological", "is_correct": false },
+        { "option_id": 4, "text": "Mass movement", "is_correct": false }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which process involves expansion and contraction of rocks?",
+      "options": [
+        { "option_id": 1, "text": "Oxidation", "is_correct": false },
+        { "option_id": 2, "text": "Carbonation", "is_correct": false },
+        { "option_id": 3, "text": "Temperature weathering", "is_correct": true },
+        { "option_id": 4, "text": "Solution", "is_correct": false }
+      ],
+      "answer": "Temperature weathering"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which process causes shattering of rocks due to freezing water?",
+      "options": [
+        { "option_id": 1, "text": "Oxidation", "is_correct": false },
+        { "option_id": 2, "text": "Frost weathering", "is_correct": true },
+        { "option_id": 3, "text": "Carbonation", "is_correct": false },
+        { "option_id": 4, "text": "Biological weathering", "is_correct": false }
+      ],
+      "answer": "Frost weathering"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which type of weathering forms honeycomb structures on rocks?",
+      "options": [
+        { "option_id": 1, "text": "Frost weathering", "is_correct": false },
+        { "option_id": 2, "text": "Crystal growth", "is_correct": true },
+        { "option_id": 3, "text": "Carbonation", "is_correct": false },
+        { "option_id": 4, "text": "Biological weathering", "is_correct": false }
+      ],
+      "answer": "Crystal growth"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is exfoliation?",
+      "options": [
+        { "option_id": 1, "text": "Breaking of rocks into blocks", "is_correct": false },
+        { "option_id": 2, "text": "Peeling of outer rock layers", "is_correct": true },
+        { "option_id": 3, "text": "Chemical dissolution of rocks", "is_correct": false },
+        { "option_id": 4, "text": "Burrowing by animals", "is_correct": false }
+      ],
+      "answer": "Peeling of outer rock layers"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which rock weathering is similar to peeling of an onion?",
+      "options": [
+        { "option_id": 1, "text": "Granular weathering", "is_correct": false },
+        { "option_id": 2, "text": "Exfoliation", "is_correct": true },
+        { "option_id": 3, "text": "Oxidation", "is_correct": false },
+        { "option_id": 4, "text": "Carbonation", "is_correct": false }
+      ],
+      "answer": "Exfoliation"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which weathering loosens sand particles in rocks?",
+      "options": [
+        { "option_id": 1, "text": "Granular weathering", "is_correct": true },
+        { "option_id": 2, "text": "Frost weathering", "is_correct": false },
+        { "option_id": 3, "text": "Oxidation", "is_correct": false },
+        { "option_id": 4, "text": "Biological weathering", "is_correct": false }
+      ],
+      "answer": "Granular weathering"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which agent plays the most important role in chemical weathering?",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Ice", "is_correct": false },
+        { "option_id": 4, "text": "Temperature", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which chemical weathering process causes rusting of rocks?",
+      "options": [
+        { "option_id": 1, "text": "Carbonation", "is_correct": false },
+        { "option_id": 2, "text": "Oxidation", "is_correct": true },
+        { "option_id": 3, "text": "Solution", "is_correct": false },
+        { "option_id": 4, "text": "Hydration", "is_correct": false }
+      ],
+      "answer": "Oxidation"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which weathering dissolves limestone?",
+      "options": [
+        { "option_id": 1, "text": "Oxidation", "is_correct": false },
+        { "option_id": 2, "text": "Carbonation", "is_correct": true },
+        { "option_id": 3, "text": "Frost action", "is_correct": false },
+        { "option_id": 4, "text": "Exfoliation", "is_correct": false }
+      ],
+      "answer": "Carbonation"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which acid is formed when rainwater mixes with carbon dioxide?",
+      "options": [
+        { "option_id": 1, "text": "Sulphuric acid", "is_correct": false },
+        { "option_id": 2, "text": "Carbonic acid", "is_correct": true },
+        { "option_id": 3, "text": "Nitric acid", "is_correct": false },
+        { "option_id": 4, "text": "Hydrochloric acid", "is_correct": false }
+      ],
+      "answer": "Carbonic acid"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which weathering is caused by plant roots?",
+      "options": [
+        { "option_id": 1, "text": "Mechanical", "is_correct": false },
+        { "option_id": 2, "text": "Chemical", "is_correct": false },
+        { "option_id": 3, "text": "Biological", "is_correct": true },
+        { "option_id": 4, "text": "Granular", "is_correct": false }
+      ],
+      "answer": "Biological"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which organisms help in biological weathering?",
+      "options": [
+        { "option_id": 1, "text": "Lichens and algae", "is_correct": true },
+        { "option_id": 2, "text": "Clouds", "is_correct": false },
+        { "option_id": 3, "text": "Winds", "is_correct": false },
+        { "option_id": 4, "text": "Glaciers", "is_correct": false }
+      ],
+      "answer": "Lichens and algae"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which animals contribute to biological weathering?",
+      "options": [
+        { "option_id": 1, "text": "Birds", "is_correct": false },
+        { "option_id": 2, "text": "Burrowing animals", "is_correct": true },
+        { "option_id": 3, "text": "Fish", "is_correct": false },
+        { "option_id": 4, "text": "Reptiles", "is_correct": false }
+      ],
+      "answer": "Burrowing animals"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is mass movement?",
+      "options": [
+        { "option_id": 1, "text": "Movement of soil due to wind", "is_correct": false },
+        { "option_id": 2, "text": "Downslope movement due to gravity", "is_correct": true },
+        { "option_id": 3, "text": "Movement due to rivers", "is_correct": false },
+        { "option_id": 4, "text": "Movement due to glaciers", "is_correct": false }
+      ],
+      "answer": "Downslope movement due to gravity"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which force causes mass movements?",
+      "options": [
+        { "option_id": 1, "text": "Solar force", "is_correct": false },
+        { "option_id": 2, "text": "Gravitational force", "is_correct": true },
+        { "option_id": 3, "text": "Magnetic force", "is_correct": false },
+        { "option_id": 4, "text": "Centrifugal force", "is_correct": false }
+      ],
+      "answer": "Gravitational force"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which is a rapid mass movement?",
+      "options": [
+        { "option_id": 1, "text": "Soil creep", "is_correct": false },
+        { "option_id": 2, "text": "Rockfall", "is_correct": true },
+        { "option_id": 3, "text": "Solifluction", "is_correct": false },
+        { "option_id": 4, "text": "Weathering", "is_correct": false }
+      ],
+      "answer": "Rockfall"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which mass movement occurs slowly on gentle slopes?",
+      "options": [
+        { "option_id": 1, "text": "Landslide", "is_correct": false },
+        { "option_id": 2, "text": "Soil creep", "is_correct": true },
+        { "option_id": 3, "text": "Rockfall", "is_correct": false },
+        { "option_id": 4, "text": "Slumping", "is_correct": false }
+      ],
+      "answer": "Soil creep"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is solifluction?",
+      "options": [
+        { "option_id": 1, "text": "Flow of lava", "is_correct": false },
+        { "option_id": 2, "text": "Slow movement of saturated soil", "is_correct": true },
+        { "option_id": 3, "text": "Sudden rock breakage", "is_correct": false },
+        { "option_id": 4, "text": "River erosion", "is_correct": false }
+      ],
+      "answer": "Slow movement of saturated soil"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which mass movement sinks material in the same place?",
+      "options": [
+        { "option_id": 1, "text": "Rockfall", "is_correct": false },
+        { "option_id": 2, "text": "Slumping", "is_correct": true },
+        { "option_id": 3, "text": "Landslide", "is_correct": false },
+        { "option_id": 4, "text": "Soil creep", "is_correct": false }
+      ],
+      "answer": "Slumping"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which climate favours landslides?",
+      "options": [
+        { "option_id": 1, "text": "Dry", "is_correct": false },
+        { "option_id": 2, "text": "Humid", "is_correct": true },
+        { "option_id": 3, "text": "Cold desert", "is_correct": false },
+        { "option_id": 4, "text": "Polar", "is_correct": false }
+      ],
+      "answer": "Humid"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which factor increases landslide probability?",
+      "options": [
+        { "option_id": 1, "text": "Gentle slopes", "is_correct": false },
+        { "option_id": 2, "text": "Heavy rainfall", "is_correct": true },
+        { "option_id": 3, "text": "Low relief", "is_correct": false },
+        { "option_id": 4, "text": "Vegetation", "is_correct": false }
+      ],
+      "answer": "Heavy rainfall"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which mass movement occurred at Malin village?",
+      "options": [
+        { "option_id": 1, "text": "Soil creep", "is_correct": false },
+        { "option_id": 2, "text": "Mudslide", "is_correct": true },
+        { "option_id": 3, "text": "Rockfall", "is_correct": false },
+        { "option_id": 4, "text": "Solifluction", "is_correct": false }
+      ],
+      "answer": "Mudslide"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which external process removes weathered material?",
+      "options": [
+        { "option_id": 1, "text": "Weathering", "is_correct": false },
+        { "option_id": 2, "text": "Erosion", "is_correct": true },
+        { "option_id": 3, "text": "Deposition", "is_correct": false },
+        { "option_id": 4, "text": "Mass wasting", "is_correct": false }
+      ],
+      "answer": "Erosion"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are exogenetic processes?",
+      "answer": "Exogenetic processes are external processes that operate on the Earth’s surface."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is weathering?",
+      "answer": "Weathering is the breaking or weakening of rocks at the place where they are formed."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name the three types of weathering.",
+      "answer": "Mechanical, chemical and biological weathering."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which weathering is common in deserts?",
+      "answer": "Mechanical weathering is common in deserts."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which weathering is common in humid regions?",
+      "answer": "Chemical weathering is common in humid regions."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is mechanical weathering?",
+      "answer": "Mechanical weathering is physical breaking of rocks without chemical change."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What causes frost weathering?",
+      "answer": "Freezing of water in rock cracks causes frost weathering."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is exfoliation?",
+      "answer": "Exfoliation is the peeling of outer layers of rocks."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is granular weathering?",
+      "answer": "Granular weathering occurs when sand particles loosen due to water."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What causes crystal growth weathering?",
+      "answer": "Crystallization of salts in rock cracks causes crystal growth weathering."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is chemical weathering?",
+      "answer": "Chemical weathering is decomposition of rocks by chemical reactions."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is oxidation?",
+      "answer": "Oxidation is rusting of iron-rich rocks."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is carbonation?",
+      "answer": "Carbonation is dissolution of rocks by carbonic acid."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which rock dissolves easily in carbonic acid?",
+      "answer": "Limestone dissolves easily in carbonic acid."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What role does water play in chemical weathering?",
+      "answer": "Water acts as a solvent and medium for chemical reactions."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is biological weathering?",
+      "answer": "Biological weathering occurs due to plants, animals and microorganisms."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How do plant roots cause weathering?",
+      "answer": "Roots grow into cracks and break rocks."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the role of burrowing animals in weathering?",
+      "answer": "They loosen rocks and soil causing weathering."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are lichens?",
+      "answer": "Lichens are organisms that grow on rocks and cause weathering."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is mass wasting?",
+      "answer": "Mass wasting is downslope movement of material due to gravity."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which force causes mass movements?",
+      "answer": "Gravitational force causes mass movements."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is soil creep?",
+      "answer": "Soil creep is slow movement of soil down gentle slopes."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is solifluction?",
+      "answer": "Solifluction is slow flow of water-saturated soil."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is a landslide?",
+      "answer": "A landslide is rapid downward movement of rock and soil."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is rockfall?",
+      "answer": "Rockfall is sudden falling of rocks from steep slopes."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is slumping?",
+      "answer": "Slumping is sinking of weathered material at the same place."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which climate favours mass movements?",
+      "answer": "Humid climate favours mass movements."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which factor triggers landslides?",
+      "answer": "Heavy rainfall triggers landslides."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Name one Indian example of landslide.",
+      "answer": "Malin village landslide in Maharashtra."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is erosion?",
+      "answer": "Erosion is removal of weathered material by agents."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Name any two agents of erosion.",
+      "answer": "Wind and running water."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which agent of erosion is studied next?",
+      "answer": "Agents like wind, rivers, glaciers and sea."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What are primary landforms?",
+      "answer": "Landforms formed due to internal movements are primary landforms."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What are tertiary landforms?",
+      "answer": "Landforms formed due to exogenetic processes are tertiary landforms."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Give one example of tertiary landform.",
+      "answer": "Valley is a tertiary landform."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What causes block disintegration?",
+      "answer": "Combined effect of temperature and water causes block disintegration."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why do rocks break faster in deserts?",
+      "answer": "Due to high diurnal temperature range."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What happens when water freezes in rocks?",
+      "answer": "It expands and breaks rocks."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why does rust form on rocks?",
+      "answer": "Due to oxidation of iron minerals."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why are chemical reactions faster in humid climates?",
+      "answer": "Because water is easily available."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How do ants contribute to weathering?",
+      "answer": "They loosen soil while making anthills."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is solution weathering?",
+      "answer": "It is dissolution of minerals in water."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is honeycomb structure?",
+      "answer": "A rock structure formed due to salt crystallization."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Which weathering changes rock colour?",
+      "answer": "Oxidation changes rock colour."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which process prepares rocks for erosion?",
+      "answer": "Weathering prepares rocks for erosion."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which slopes favour soil creep?",
+      "answer": "Gentle slopes favour soil creep."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Which mass movement is fastest?",
+      "answer": "Rockfall is fastest."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why are landslides destructive?",
+      "answer": "They occur suddenly with great force."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What increases weight of slope material?",
+      "answer": "Rainwater increases weight of material."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why are exogenetic processes important?",
+      "answer": "They shape and modify landforms continuously."
+    },
+    
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why are exogenetic processes called external processes?",
+      "answer": "They operate on the Earth’s surface and are driven by external energy."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which energy is the main source of exogenetic processes?",
+      "answer": "Solar energy is the main source of exogenetic processes."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is weathering called an in-situ process?",
+      "answer": "Because rocks break down at the place where they are formed."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which weathering occurs without chemical change?",
+      "answer": "Mechanical weathering occurs without chemical change."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is mechanical weathering common in deserts?",
+      "answer": "Due to large day and night temperature differences."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What role does temperature play in weathering?",
+      "answer": "Temperature causes expansion and contraction of rocks."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why does water freezing break rocks?",
+      "answer": "Frozen water expands and exerts pressure on rock cracks."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which weathering forms onion-shaped rocks?",
+      "answer": "Exfoliation forms onion-shaped rocks."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why does salt crystal growth break rocks?",
+      "answer": "Growing salt crystals exert pressure inside rock cracks."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is block disintegration?",
+      "answer": "Breaking of rocks into blocks due to combined weathering effects."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is water important for chemical weathering?",
+      "answer": "It acts as a solvent and medium for chemical reactions."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which gas is responsible for carbonation?",
+      "answer": "Carbon dioxide is responsible for carbonation."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why does limestone dissolve easily?",
+      "answer": "It reacts with carbonic acid formed in rainwater."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why does oxidation change rock colour?",
+      "answer": "Iron minerals rust and change the rock’s colour."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Which climate favours chemical weathering?",
+      "answer": "Warm and humid climate favours chemical weathering."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How do plant roots cause weathering?",
+      "answer": "Roots grow into cracks and widen them."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How do burrowing animals aid weathering?",
+      "answer": "They loosen soil and rocks while digging."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What role do lichens play in weathering?",
+      "answer": "They release acids that weaken rock surfaces."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Which weathering is both mechanical and chemical?",
+      "answer": "Biological weathering involves both processes."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is biological weathering slower?",
+      "answer": "It depends on gradual growth of organisms."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is mass wasting?",
+      "answer": "Downward movement of rock or soil due to gravity."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Which factor is essential for mass movements?",
+      "answer": "Gravity is essential for mass movements."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why does heavy rainfall trigger landslides?",
+      "answer": "It increases weight and reduces friction."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Which slope favours landslides?",
+      "answer": "Steep slopes favour landslides."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is soil creep difficult to observe?",
+      "answer": "It occurs very slowly over time."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Which mass movement is fastest?",
+      "answer": "Rockfall is the fastest mass movement."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Which mass movement occurs in cold regions?",
+      "answer": "Solifluction occurs in cold regions."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is mudslide?",
+      "answer": "Rapid movement of water-saturated soil downhill."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why are landslides destructive?",
+      "answer": "They occur suddenly and carry heavy material."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Which Indian state faces frequent landslides?",
+      "answer": "Maharashtra faces frequent landslides."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is erosion?",
+      "answer": "Removal of weathered material by natural agents."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Which process follows weathering?",
+      "answer": "Erosion follows weathering."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Which agent of erosion is studied later?",
+      "answer": "Rivers, wind, glaciers and sea."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What are tertiary landforms?",
+      "answer": "Landforms formed by exogenetic processes."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why are exogenetic processes continuous?",
+      "answer": "They operate constantly due to external energy."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why do rocks weather faster in humid regions?",
+      "answer": "Because water accelerates chemical reactions."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Which process prepares rocks for erosion?",
+      "answer": "Weathering prepares rocks for erosion."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Which weathering forms rounded rocks?",
+      "answer": "Exfoliation forms rounded rocks."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why does salt weathering occur near coasts?",
+      "answer": "Due to presence of saline water."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is mass wasting common in hilly regions?",
+      "answer": "Due to steep slopes and gravity."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What increases friction on slopes?",
+      "answer": "Vegetation increases friction on slopes."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why does deforestation increase landslides?",
+      "answer": "Roots no longer bind the soil."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Which human activity triggers landslides?",
+      "answer": "Road cutting and mining trigger landslides."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is the main driving force of erosion?",
+      "answer": "Gravity is the main driving force."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why do slopes collapse after rainfall?",
+      "answer": "Water increases weight and reduces cohesion."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Which weathering creates soil?",
+      "answer": "All types of weathering help in soil formation."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is soil creep harmful?",
+      "answer": "It damages roads, fences and buildings slowly."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What makes slopes stable?",
+      "answer": "Vegetation and gentle slope angle."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Which process changes landforms slowly?",
+      "answer": "Exogenetic processes change landforms slowly."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is study of exogenetic processes important?",
+      "answer": "It helps understand landform evolution."
+    },
+
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain exogenetic processes.",
+      "answer": "Exogenetic processes are external processes acting on the Earth’s surface. They are driven mainly by solar energy and gravity. These processes include weathering, erosion, transportation and deposition. Weathering breaks rocks at their place of origin. Erosion removes weathered material. Exogenetic processes continuously modify landforms."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain weathering and its types.",
+      "answer": "Weathering is the breaking or weakening of rocks in situ. It is of three types: mechanical, chemical and biological. Mechanical weathering breaks rocks physically. Chemical weathering decomposes rocks through chemical reactions. Biological weathering occurs due to plants and animals. Weathering prepares rocks for erosion."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain mechanical weathering.",
+      "answer": "Mechanical weathering is the physical disintegration of rocks without chemical change. It occurs due to temperature changes, frost action and salt crystallization. Exfoliation and block disintegration are examples. It is common in dry and cold regions. Rocks break into smaller fragments."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain chemical weathering.",
+      "answer": "Chemical weathering is decomposition of rocks through chemical reactions. Water plays an important role in this process. Oxidation, carbonation and solution are major processes. It is common in warm and humid regions. Rocks change their composition during this process."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain biological weathering.",
+      "answer": "Biological weathering occurs due to living organisms. Plant roots grow into cracks and break rocks. Burrowing animals loosen soil. Lichens release acids that weaken rocks. It involves both mechanical and chemical processes. It is usually slow."
+    },
+
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain exfoliation with diagram reference.",
+      "answer": "Exfoliation is a type of mechanical weathering. Outer layers of rocks peel off like onion skins. It occurs due to repeated heating and cooling. Rocks expand and contract causing layers to separate. It forms rounded rock surfaces."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain frost weathering.",
+      "answer": "Frost weathering occurs in cold regions. Water enters cracks in rocks and freezes. Frozen water expands and exerts pressure. Repeated freezing and thawing break rocks. It results in angular rock fragments."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Explain oxidation.",
+      "answer": "Oxidation is a chemical weathering process. Oxygen reacts with iron minerals in rocks. Rust forms and weakens the rock. The colour of rocks changes. Oxidation is common in humid regions."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain carbonation.",
+      "answer": "Carbonation is a chemical weathering process. Rainwater mixes with carbon dioxide forming carbonic acid. This acid dissolves limestone. Karst landforms develop due to carbonation. It is common in limestone regions."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Explain mass wasting.",
+      "answer": "Mass wasting is the downward movement of rock and soil due to gravity. It does not involve transportation by agents like water or wind. Landslides, soil creep and rockfall are examples. It is common in hilly regions. Rainfall often triggers it."
+    },
+
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain landslides.",
+      "answer": "Landslides are rapid mass movements of rock and soil down slopes. They occur due to gravity. Heavy rainfall, earthquakes and human activities trigger them. Landslides cause destruction of life and property. Hilly regions are most affected."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain soil creep.",
+      "answer": "Soil creep is a slow mass movement on gentle slopes. It occurs due to repeated expansion and contraction of soil. It is difficult to notice. Over time it damages roads, walls and fences. It is common in moist regions."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Explain solifluction.",
+      "answer": "Solifluction occurs in cold regions. Upper soil thaws while lower soil remains frozen. Saturated soil slowly flows downslope. It is a slow mass movement. It occurs in permafrost regions."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain rockfall.",
+      "answer": "Rockfall is a rapid mass movement. Rocks fall suddenly from steep slopes. It occurs due to weathering and gravity. It is common in mountainous regions. Rockfall is dangerous."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain slumping.",
+      "answer": "Slumping is a type of mass movement. Material sinks or slips at the same place. It occurs on weak slopes. Circular movement is observed. It results in step-like landforms."
+    },
+
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain the role of gravity in exogenetic processes.",
+      "answer": "Gravity pulls material downward. It drives mass wasting and erosion. Weathered material moves downslope due to gravity. It works with other agents. Gravity shapes slopes continuously."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain why heavy rainfall causes landslides.",
+      "answer": "Rainwater increases weight of slope material. It reduces friction between particles. Soil becomes saturated. Slopes lose stability. Landslides occur."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain the Malin village landslide.",
+      "answer": "Malin village in Maharashtra faced a landslide in 2014. Heavy rainfall triggered the mudslide. Entire village was buried. Loss of life occurred. It highlighted landslide hazards."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain the relationship between weathering and erosion.",
+      "answer": "Weathering breaks rocks into smaller pieces. Erosion removes the weathered material. Weathering prepares rocks for erosion. Both processes work together. They shape landforms."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Explain why deserts show mechanical weathering.",
+      "answer": "Deserts have high temperature variation. Rocks expand during day and contract at night. This causes cracking. Water is scarce for chemical weathering. Hence mechanical weathering dominates."
+    },
+
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain why humid regions show chemical weathering.",
+      "answer": "Humid regions have abundant water. Chemical reactions occur easily. Water acts as solvent. Oxidation and carbonation are common. Rocks decompose chemically."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain the importance of weathering.",
+      "answer": "Weathering forms soil. It prepares rocks for erosion. It contributes to soil fertility. Landforms evolve due to weathering. It supports agriculture."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Explain the impact of mass movements on humans.",
+      "answer": "Mass movements destroy houses and roads. Loss of life occurs. Agriculture land is damaged. Transport is disrupted. Economic losses increase."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain how vegetation controls landslides.",
+      "answer": "Roots bind soil particles. Vegetation increases friction. Water absorption improves. Slopes become stable. Landslide risk reduces."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Explain how human activities increase landslides.",
+      "answer": "Deforestation weakens slopes. Road cutting disturbs balance. Mining loosens rocks. Construction adds load. Landslide risk increases."
+    },
+
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain erosion as an exogenetic process.",
+      "answer": "Erosion removes weathered material. Agents like water, wind and ice cause erosion. Gravity helps movement. Landforms are modified. Erosion follows weathering."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Explain how slopes influence mass movements.",
+      "answer": "Steep slopes increase gravitational pull. Material moves faster. Gentle slopes slow movement. Slope angle controls stability. Mass movements depend on slope."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Explain the role of climate in exogenetic processes.",
+      "answer": "Climate controls weathering type. Rainfall affects erosion. Temperature affects rock expansion. Humidity influences chemical reactions. Climate shapes landforms."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the difference between weathering and erosion.",
+      "answer": "Weathering breaks rocks in place. Erosion removes material. Weathering is in-situ. Erosion involves movement. Both work together."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Explain why exogenetic processes never stop.",
+      "answer": "Solar energy is continuous. Gravity always acts. Atmosphere and water remain active. Landforms are constantly modified. Processes never stop."
+    },
+
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain how soil is formed by weathering.",
+      "answer": "Weathering breaks rocks into fine particles. Organic matter mixes with minerals. Soil layers develop over time. Climate influences soil type. Soil supports vegetation."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain the role of water in exogenetic processes.",
+      "answer": "Water causes chemical weathering. It transports sediments. It triggers landslides. It aids erosion. Water is a powerful agent."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Explain why mountains undergo rapid weathering.",
+      "answer": "Mountains have steep slopes. Temperature variation is high. Frost action occurs. Weathering is intense. Material moves downslope."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Explain why mass wasting is dangerous.",
+      "answer": "It occurs suddenly. Large volumes move at once. Settlements are buried. Roads are destroyed. Rescue becomes difficult."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain the importance of studying exogenetic processes.",
+      "answer": "They explain landform evolution. Natural hazards are understood. Planning improves. Resource management becomes better. Geography knowledge deepens."
+    },
+
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain how weathering supports agriculture.",
+      "answer": "Weathering forms soil. Minerals are released. Soil fertility increases. Crops grow better. Agriculture depends on weathering."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain how erosion reshapes landforms.",
+      "answer": "Erosion removes material. Valleys deepen. Slopes change shape. New landforms develop. Landscape evolves."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Explain why hilly regions are landslide-prone.",
+      "answer": "They have steep slopes. Heavy rainfall occurs. Weathering weakens rocks. Human activity disturbs balance. Landslides occur."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain the link between deforestation and mass wasting.",
+      "answer": "Trees bind soil with roots. Removal weakens slopes. Water runoff increases. Soil stability reduces. Mass wasting increases."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Explain the long-term effects of exogenetic processes.",
+      "answer": "Mountains wear down. Plains form. Soil develops. Landscapes change. Earth’s surface is reshaped."
+    },
+
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain how exogenetic and endogenetic processes work together.",
+      "answer": "Endogenetic processes build landforms. Exogenetic processes wear them down. Both operate continuously. Balance shapes Earth. Landscape evolves."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain why erosion cannot occur without weathering.",
+      "answer": "Weathering loosens rocks. Erosion removes loosened material. Without weathering, erosion is difficult. Both are interconnected."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Explain how climate change may affect exogenetic processes.",
+      "answer": "Rainfall patterns may change. Weathering rates may vary. Landslides may increase. Erosion patterns may alter. Landforms may change faster."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain preventive measures for landslides.",
+      "answer": "Afforestation stabilizes slopes. Controlled construction helps. Proper drainage reduces risk. Monitoring slopes saves lives."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Explain why mass wasting is more common after rainfall.",
+      "answer": "Rain increases soil weight. Friction reduces. Slope becomes unstable. Gravity pulls material. Mass wasting occurs."
+    },
+
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain how weathering contributes to natural resources.",
+      "answer": "Minerals are released. Soil forms. Construction materials develop. Natural resources become available. Human use increases."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Explain why exogenetic processes are slow but powerful.",
+      "answer": "They act continuously. Effects accumulate over time. Large landforms change. Power lies in persistence. Earth’s surface transforms."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Explain the impact of mass movements on transport.",
+      "answer": "Roads are blocked. Railways are damaged. Communication breaks. Transport disruption occurs. Economic loss increases."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Explain why studying slopes is important in geography.",
+      "answer": "Slopes influence erosion. They control mass movements. Settlement planning depends on slopes. Risk assessment improves."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Explain why exogenetic processes are essential to Earth’s balance.",
+      "answer": "They counterbalance internal forces. Landforms remain stable. Soil renews. Surface equilibrium is maintained."
+    }
+  ]
+}

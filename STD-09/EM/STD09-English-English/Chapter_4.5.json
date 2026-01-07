@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.20",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "4.5 Tansen"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the name of the raga that Tansen sang, which caused his body to burst into flames?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Malhar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Malkous",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Deepak",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Megh",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deepak"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How did Akbar reward Tansen for his singing in court?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He made him a minister.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He gave him many gems and called him the chief jewel in his diadem.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He gave him a palace.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He declared him a saint.",
+          "is_correct": false
+        }
+      ],
+      "answer": "He gave him many gems and called him the chief jewel in his diadem."
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which raga was sung to cure Tansen after he sang the Deepak Raga?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Malkous",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Malhar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Deepak",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bhairav",
+          "is_correct": false
+        }
+      ],
+      "answer": "Malhar"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "According to Tansen, where did his teacher, Ostad, live?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a palace in Delhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a forest near Vrindavan",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a cave in the Himalayas",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "By the banks of the Ganges",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a cave in the Himalayas"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why did Akbar change his attire to that of a slave when going to meet Ostad?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To test Tansen's loyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To travel incognito for safety",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Because Ostad disdained to sing to earthly kings, and coming as a poor slave would be better.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Because it was a tradition to meet saints in humble clothing.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Because Ostad disdained to sing to earthly kings, and coming as a poor slave would be better."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was the magical effect of Ostad singing the Malkous Raga?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It caused it to rain.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It put everyone to sleep.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Enchanted birds and beasts gathered, and Akbar felt waves of heavenly rapture.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "It made flowers bloom instantly.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Enchanted birds and beasts gathered, and Akbar felt waves of heavenly rapture."
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What happened to Ostad immediately after he finished singing for Akbar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He asked for a reward.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He began teaching Tansen a new raga.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He had vanished from sight.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He fell into a deep meditation.",
+          "is_correct": false
+        }
+      ],
+      "answer": "He had vanished from sight."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "According to Tansen, what is the fundamental difference between his singing and Ostad's?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tansen sings for money, Ostad sings for fame.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tansen sings to please the earthly king, but Ostad sings to God.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tansen sings classical ragas, Ostad sings folk songs.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tansen sings in court, Ostad sings in nature.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tansen sings to please the earthly king, but Ostad sings to God."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What are archaic words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Words borrowed from other languages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Words that are difficult to spell",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Words no longer in common use but add a historical flavour to writing",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Words with multiple meanings",
+          "is_correct": false
+        }
+      ],
+      "answer": "Words no longer in common use but add a historical flavour to writing"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In the chapter, what is an activity suggested to understand Ragas better?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paint a picture inspired by a raga.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Find names of at least 10 Ragas and the time they are sung for greater effect.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Compose a new raga.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Translate raga names into English.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Find names of at least 10 Ragas and the time they are sung for greater effect."
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Who was Tansen?",
+      "options": [],
+      "answer": "Tansen was a famous singer in the court of Emperor Akbar."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What physical effect did singing the Deepak Raga have on Tansen?",
+      "options": [],
+      "answer": "His body burst into consuming flames."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "Who cured Tansen, and how?",
+      "options": [],
+      "answer": "A maiden cured him by singing the Malhar Raga, the song of cold water."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What did Akbar call Tansen after being impressed by his singing?",
+      "options": [],
+      "answer": "He called Tansen the chief jewel in his diadem."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What quality of Ostad did Akbar praise after hearing about him from Tansen?",
+      "options": [],
+      "answer": "Akbar said Ostad must be mighty and divine, and his magic was learnt by Tansen at his feet."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Why did Ostad agree to sing for Akbar and Tansen?",
+      "options": [],
+      "answer": "Ostad was won over by their humility and supplication."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "According to the poem, what gathered to hear Ostad's song?",
+      "options": [],
+      "answer": "Birds and beasts gathered, enchanted by his song."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is the modern equivalent of the archaic word 'hither'?",
+      "options": [],
+      "answer": "To this place."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Name one of the 'nine gems' (Navratnas) believed to be in Akbar's court.",
+      "options": [],
+      "answer": "Tansen was one of the nine gems. (Other possible names from legend include Birbal, Raja Todar Mal, etc.)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What request did Akbar make to Tansen after hearing about Ostad?",
+      "options": [],
+      "answer": "Akbar expressed a strong desire to see Ostad once and hear his celestial song."
+    },
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "Describe the incident of Tansen singing the Deepak Raga and its consequences.",
+      "options": [],
+      "answer": "One day, Tansen sang the Deepak Raga with great vigour in Akbar's court. The raga, known as the Song of Fire, had a magical and physical effect, causing his body to burst into consuming flames. To cure this burning, a maiden sang the Malhar Raga, which is the song of cold water. The cooling effect of Malhar restored Tansen's health and comfort."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "Explain why Akbar decided to dress like a slave for his journey to meet Ostad.",
+      "options": [],
+      "answer": "Akbar desired to meet Tansen's teacher, Ostad, who lived in a remote Himalayan cave. Tansen advised the emperor that Ostad, being lifted above earthly things, disdained to sing for earthly kings. Therefore, it would be better if Akbar approached him not as a king but as a poor slave. Akbar accepted this advice, humbled himself, and followed Tansen dressed in the miserable attire of a slave to win the chance to hear Ostad sing."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "Summarize the encounter between Akbar, Tansen, and Ostad in the Himalayan cave.",
+      "options": [],
+      "answer": "After a long journey to the cave high in the mountains, Akbar (as a slave) and Tansen knelt at Ostad's feet. They prayed with humble supplication, requesting the holy master to bless them with his song. Won by their humility, Ostad sang the Malkous Raga enchantingly. The song had a magical effect, gathering birds and beasts and filling Akbar's soul with heavenly rapture. However, before Akbar could even utter words of praise, Ostad vanished from sight, leaving the emperor in wonder."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "What is the core message or moral conveyed by the narrative poem 'Tansen'?",
+      "options": [],
+      "answer": "The poem conveys several intertwined messages. It highlights the supreme power of pure, divine devotion over worldly talent. Tansen's art, though magnificent, serves an earthly king, while Ostad's music is an offering to God, making it truly transcendental. It also emphasizes the virtues of humility, as Akbar had to shed his royal pride to experience divine joy. Finally, it suggests that true art and spiritual mastery lie beyond material wealth and royal patronage, in simplicity and connection with the divine."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "Compare and contrast the characters of Tansen and his teacher Ostad as presented in the poem.",
+      "options": [],
+      "answer": "Tansen is portrayed as a court musician of great renown, celebrated by Emperor Akbar and rewarded with gems. His art is powerful enough to invoke elemental forces (fire) but exists within a worldly framework. In contrast, Ostad is depicted as a recluse, living remotely in a Himalayan cave, utterly detached from worldly wealth and royalty. His music is not for entertainment or patronage but is a celestial offering to God, producing a more profound, spiritual ecstasy that enchants all of nature. Tansen serves the king; Ostad serves God, representing the difference between worldly excellence and divine devotion."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "Based on the chapter, describe the two main purposes of the 'Warming up!' activities given before the poem.",
+      "options": [],
+      "answer": "The 'Warming up!' activities serve two main preparatory purposes. First, they build contextual knowledge by asking students to research Indian Classical Music (specifically Ragas) and historical legends (the Nine Gems of Akbar's court). This background makes the poem's references more meaningful. Second, they introduce a key linguistic feature of the poem by having students explore archaic words in their own language. This pre-teaching helps students understand and appreciate the dated vocabulary used in the poem's narrative, enhancing their comprehension and literary analysis."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Ragas 'Deepak' and 'Malhar' in the poem's narrative.",
+      "options": [],
+      "answer": "In the poem, the Ragas Deepak and Malhar are not just musical forms but carry symbolic and narrative significance. The Deepak Raga (Song of Fire) demonstrates the immense, almost dangerous, power of Tansen's art, capable of generating literal heat and flames. It represents intense passion and energy. The Malhar Raga (Song of Water/Coolness) acts as its perfect counterbalance, possessing healing and cooling properties. Their sequence in the story creates a classic conflict and resolution—fire versus water, ailment versus cure. This use of ragas drives the plot and illustrates the ancient belief in the tangible, elemental effects of specific musical modes."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "How does the poem depict Akbar's character? Support your answer with examples from the text.",
+      "options": [],
+      "answer": "The poem depicts Akbar as a great emperor who is also a genuine connoisseur of art and a seeker of spiritual experience. He is generous, rewarding Tansen lavishly. More importantly, he shows remarkable humility and open-mindedness. His deep desire to hear Ostad sing makes him willing to deny his royal state, dress in poverty, and undertake a long, arduous journey as a slave. He kneels and prays humbly before Ostad. This shows that despite his power, he recognizes and submits to a higher, divine authority represented by true art and spirituality, valuing experience over prestige."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "What role does humility play in the story of Tansen, Akbar, and Ostad?",
+      "options": [],
+      "answer": "Humility is a central theme and a crucial catalyst in the story. Akbar's initial praise for Tansen is gracious. However, true humility is shown when Akbar, upon learning about Ostad, is willing to shed all symbols of his kingship—his attire, status, and pride—to become a slave. This act of humility, coupled with their 'supplication sweet' at the cave, is what convinces the reclusive Ostad to sing for them. The poem suggests that divine art or spiritual blessings are not accessible through power or wealth but only through genuine humility and reverence."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "In the context of the chapter, why is the activity of finding archaic words from one's mother tongue valuable for a student?",
+      "options": [],
+      "answer": "This activity is valuable for multiple reasons. First, it creates a personal connection by encouraging students to explore the linguistic history of their own culture and language. Second, it demystifies the concept of 'archaic words' by showing they exist in all languages, making the same feature in the English poem less alien. Third, it builds analytical skills as students draw parallels between old and modern equivalents. Finally, it enhances appreciation for how language evolves and how writers use archaic terms deliberately to add a historical, classical, or poetic flavour to their work, just as the poet does in 'Tansen'."
+    }
+  ]
+}

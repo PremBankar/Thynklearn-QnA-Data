@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.History.08",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Industry and Trade"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What was the purpose of establishing the Industrial Finance Corporation of India in 1948?",
+      "options": [
+        { "option_id": 1, "text": "To develop the industrial sector", "is_correct": false },
+        { "option_id": 2, "text": "To make available long-term loans to industrial projects", "is_correct": true },
+        { "option_id": 3, "text": "To generate employment", "is_correct": false },
+        { "option_id": 4, "text": "To determine the quality of finished goods", "is_correct": false }
+      ],
+      "answer": "To make available long-term loans to industrial projects"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which industry in India is referred to as the 'Sunrise Sector'?",
+      "options": [
+        { "option_id": 1, "text": "Jute", "is_correct": false },
+        { "option_id": 2, "text": "Automobile", "is_correct": true },
+        { "option_id": 3, "text": "Cement", "is_correct": false },
+        { "option_id": 4, "text": "Khadi and Village Industries", "is_correct": false }
+      ],
+      "answer": "Automobile"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What percentage of total industrial production does the textile industry contribute?",
+      "options": [
+        { "option_id": 1, "text": "7%", "is_correct": false },
+        { "option_id": 2, "text": "14%", "is_correct": true },
+        { "option_id": 3, "text": "21%", "is_correct": false },
+        { "option_id": 4, "text": "28%", "is_correct": false }
+      ],
+      "answer": "14%"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the primary responsibility of the Textile Committee established under the Textile Committee Act of 1963?",
+      "options": [
+        { "option_id": 1, "text": "Production of cloth", "is_correct": false },
+        { "option_id": 2, "text": "Determining quality standards for textiles for domestic and export markets", "is_correct": true },
+        { "option_id": 3, "text": "Export of cloth", "is_correct": false },
+        { "option_id": 4, "text": "Welfare of weavers", "is_correct": false }
+      ],
+      "answer": "Determining quality standards for textiles for domestic and export markets"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In which city is the Seribiotic Research Laboratory, which researches silkworm and mulberry species, located?",
+      "options": [
+        { "option_id": 1, "text": "Mysore", "is_correct": false },
+        { "option_id": 2, "text": "Bengaluru", "is_correct": true },
+        { "option_id": 3, "text": "Chennai", "is_correct": false },
+        { "option_id": 4, "text": "Hyderabad", "is_correct": false }
+      ],
+      "answer": "Bengaluru"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which industry is considered 'labour intensive' and benefits from export preferences?",
+      "options": [
+        { "option_id": 1, "text": "Automobile", "is_correct": false },
+        { "option_id": 2, "text": "Hand sculpting", "is_correct": true },
+        { "option_id": 3, "text": "Cement", "is_correct": false },
+        { "option_id": 4, "text": "Salt", "is_correct": false }
+      ],
+      "answer": "Hand sculpting"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is India's rank in global jute production?",
+      "options": [
+        { "option_id": 1, "text": "Second", "is_correct": false },
+        { "option_id": 2, "text": "Third", "is_correct": false },
+        { "option_id": 3, "text": "Top-ranking", "is_correct": true },
+        { "option_id": 4, "text": "Fifth", "is_correct": false }
+      ],
+      "answer": "Top-ranking"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which city is the main centre for bicycle manufacturing in India?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Ludhiana", "is_correct": true },
+        { "option_id": 3, "text": "Cochin", "is_correct": false },
+        { "option_id": 4, "text": "Kolkata", "is_correct": false }
+      ],
+      "answer": "Ludhiana"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What was the main objective behind establishing the Khadi and Village Industries Commission?",
+      "options": [
+        { "option_id": 1, "text": "To promote heavy industries", "is_correct": false },
+        { "option_id": 2, "text": "To generate foreign exchange", "is_correct": false },
+        { "option_id": 3, "text": "To promote industrialization in rural areas and make villages self-reliant", "is_correct": true },
+        { "option_id": 4, "text": "To control the quality of exports", "is_correct": false }
+      ],
+      "answer": "To promote industrialization in rural areas and make villages self-reliant"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What was the investment threshold for a factory to be classified as a 'heavy industry' under the 1970 Industrial Licensing Policy?",
+      "options": [
+        { "option_id": 1, "text": "More than 1 crore rupees", "is_correct": false },
+        { "option_id": 2, "text": "More than 5 crore rupees", "is_correct": true },
+        { "option_id": 3, "text": "More than 10 crore rupees", "is_correct": false },
+        { "option_id": 4, "text": "More than 50 crore rupees", "is_correct": false }
+      ],
+      "answer": "More than 5 crore rupees"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following industries is primarily export-oriented according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Cement", "is_correct": false },
+        { "option_id": 2, "text": "Leather", "is_correct": true },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Agriculture", "is_correct": false }
+      ],
+      "answer": "Leather"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "India's tractor industry is the biggest in the world. What fraction of world tractors is produced in India?",
+      "options": [
+        { "option_id": 1, "text": "One-fourth", "is_correct": false },
+        { "option_id": 2, "text": "One-third", "is_correct": true },
+        { "option_id": 3, "text": "Half", "is_correct": false },
+        { "option_id": 4, "text": "Two-thirds", "is_correct": false }
+      ],
+      "answer": "One-third"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which sector fulfills the basic needs of man and involves the participation of women equal to that of men?",
+      "options": [
+        { "option_id": 1, "text": "Tourism", "is_correct": false },
+        { "option_id": 2, "text": "Agriculture", "is_correct": true },
+        { "option_id": 3, "text": "Automobile", "is_correct": false },
+        { "option_id": 4, "text": "Textile", "is_correct": false }
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does the 'Mega Cluster' scheme aim to do?",
+      "options": [
+        { "option_id": 1, "text": "Develop automobile hubs", "is_correct": false },
+        { "option_id": 2, "text": "Help weavers through self-help groups and NGOs", "is_correct": true },
+        { "option_id": 3, "text": "Promote cement production", "is_correct": false },
+        { "option_id": 4, "text": "Increase salt exports", "is_correct": false }
+      ],
+      "answer": "Help weavers through self-help groups and NGOs"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which Five Year Plan focused on industries like paper, pharmaceuticals, and motor-tractors?",
+      "options": [
+        { "option_id": 1, "text": "Second", "is_correct": false },
+        { "option_id": 2, "text": "Third", "is_correct": false },
+        { "option_id": 3, "text": "Fourth", "is_correct": true },
+        { "option_id": 4, "text": "Fifth", "is_correct": false }
+      ],
+      "answer": "Fourth"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a product obtained from jute?",
+      "options": [
+        { "option_id": 1, "text": "Cloth", "is_correct": false },
+        { "option_id": 2, "text": "Sack cloth", "is_correct": false },
+        { "option_id": 3, "text": "Ropes", "is_correct": false },
+        { "option_id": 4, "text": "Medicines", "is_correct": true }
+      ],
+      "answer": "Medicines"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the annual production of salt in India?",
+      "options": [
+        { "option_id": 1, "text": "100 lakh tons", "is_correct": false },
+        { "option_id": 2, "text": "150 lakh tons", "is_correct": false },
+        { "option_id": 3, "text": "200 lakh tons", "is_correct": true },
+        { "option_id": 4, "text": "250 lakh tons", "is_correct": false }
+      ],
+      "answer": "200 lakh tons"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What facilities have been provided for the growth of the fisheries industry?",
+      "options": [
+        { "option_id": 1, "text": "Only building new harbours", "is_correct": false },
+        { "option_id": 2, "text": "Only fish seed incubation centres", "is_correct": false },
+        { "option_id": 3, "text": "Building/redeveloping harbours, fish seed incubation centres, and training centres", "is_correct": true },
+        { "option_id": 4, "text": "Only tourism promotion", "is_correct": false }
+      ],
+      "answer": "Building/redeveloping harbours, fish seed incubation centres, and training centres"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of these resources is NOT mentioned as playing a major role in industrial development?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Coal", "is_correct": false },
+        { "option_id": 3, "text": "Mineral oil", "is_correct": false },
+        { "option_id": 4, "text": "Diamonds", "is_correct": true }
+      ],
+      "answer": "Diamonds"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What percentage of Indian society depends on jobs related to agriculture?",
+      "options": [
+        { "option_id": 1, "text": "50%", "is_correct": false },
+        { "option_id": 2, "text": "60%", "is_correct": false },
+        { "option_id": 3, "text": "70%", "is_correct": true },
+        { "option_id": 4, "text": "80%", "is_correct": false }
+      ],
+      "answer": "70%"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of the following is a feature of markets like 'Dilli Haat'?",
+      "options": [
+        { "option_id": 1, "text": "They are only for urban craftsmen", "is_correct": false },
+        { "option_id": 2, "text": "They enable rural and urban craftsmen to get a market for their wares", "is_correct": true },
+        { "option_id": 3, "text": "They are government-owned factories", "is_correct": false },
+        { "option_id": 4, "text": "They only sell imported goods", "is_correct": false }
+      ],
+      "answer": "They enable rural and urban craftsmen to get a market for their wares"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "To how many countries does India export vehicles?",
+      "options": [
+        { "option_id": 1, "text": "20", "is_correct": false },
+        { "option_id": 2, "text": "30", "is_correct": false },
+        { "option_id": 3, "text": "40", "is_correct": true },
+        { "option_id": 4, "text": "50", "is_correct": false }
+      ],
+      "answer": "40"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which of these is a modern farming technique mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Bullock ploughing", "is_correct": false },
+        { "option_id": 2, "text": "Drip irrigation", "is_correct": true },
+        { "option_id": 3, "text": "Shifting cultivation", "is_correct": false },
+        { "option_id": 4, "text": "None of the above", "is_correct": false }
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT listed as an item of India's imports after planning started in 1951?",
+      "options": [
+        { "option_id": 1, "text": "Machines", "is_correct": false },
+        { "option_id": 2, "text": "Iron", "is_correct": false },
+        { "option_id": 3, "text": "Tea", "is_correct": true },
+        { "option_id": 4, "text": "Fertilizers", "is_correct": false }
+      ],
+      "answer": "Tea"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What are some of the main exports of India mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Machines and mineral oil", "is_correct": false },
+        { "option_id": 2, "text": "Tea, coffee, spices, and cotton textiles", "is_correct": true },
+        { "option_id": 3, "text": "Cars and cement", "is_correct": false },
+        { "option_id": 4, "text": "Jute and leather only", "is_correct": false }
+      ],
+      "answer": "Tea, coffee, spices, and cotton textiles"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Internal trade in India takes place via which modes of transport?",
+      "options": [
+        { "option_id": 1, "text": "Only railways and roads", "is_correct": false },
+        { "option_id": 2, "text": "Railways, waterways, roads, and airways", "is_correct": true },
+        { "option_id": 3, "text": "Only airways", "is_correct": false },
+        { "option_id": 4, "text": "Only waterways", "is_correct": false }
+      ],
+      "answer": "Railways, waterways, roads, and airways"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of a tourist attraction in India?",
+      "options": [
+        { "option_id": 1, "text": "Places of worship of different religions", "is_correct": false },
+        { "option_id": 2, "text": "Pilgrimage centers", "is_correct": false },
+        { "option_id": 3, "text": "Forts and caves", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What does the chapter state as the overall impact of industrial development?",
+      "options": [
+        { "option_id": 1, "text": "Only increases pollution", "is_correct": false },
+        { "option_id": 2, "text": "Improves the standard of life and creates employment", "is_correct": true },
+        { "option_id": 3, "text": "Only helps in earning foreign exchange", "is_correct": false },
+        { "option_id": 4, "text": "Decreases agricultural dependence", "is_correct": false }
+      ],
+      "answer": "Improves the standard of life and creates employment"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What kind of help is given to farmers for agricultural improvement through Panchayat Samitis?",
+      "options": [
+        { "option_id": 1, "text": "Only financial loans", "is_correct": false },
+        { "option_id": 2, "text": "Study visits, agricultural outdoor trips, and farmers' get-togethers", "is_correct": true },
+        { "option_id": 3, "text": "Only supply of seeds", "is_correct": false },
+        { "option_id": 4, "text": "Only training in soil testing", "is_correct": false }
+      ],
+      "answer": "Study visits, agricultural outdoor trips, and farmers' get-togethers"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the role of forests in industry according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "They have no role", "is_correct": false },
+        { "option_id": 2, "text": "They provide raw material for industries like paper, silk, and matchboxes", "is_correct": true },
+        { "option_id": 3, "text": "They are only for tourism", "is_correct": false },
+        { "option_id": 4, "text": "They are a source of mineral wealth", "is_correct": false }
+      ],
+      "answer": "They provide raw material for industries like paper, silk, and matchboxes"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which institution was established in 1954 for the greater development of the industrial sector?",
+      "options": [
+        { "option_id": 1, "text": "Industrial Finance Corporation of India", "is_correct": false },
+        { "option_id": 2, "text": "Industrial Development Corporation", "is_correct": true },
+        { "option_id": 3, "text": "Textile Committee", "is_correct": false },
+        { "option_id": 4, "text": "Khadi and Village Industries Commission", "is_correct": false }
+      ],
+      "answer": "Industrial Development Corporation"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the production capacity of iodised salt in India annually?",
+      "options": [
+        { "option_id": 1, "text": "20 lakh tons", "is_correct": false },
+        { "option_id": 2, "text": "40 lakh tons", "is_correct": false },
+        { "option_id": 3, "text": "60 lakh tons", "is_correct": true },
+        { "option_id": 4, "text": "80 lakh tons", "is_correct": false }
+      ],
+      "answer": "60 lakh tons"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "To which countries are tractors manufactured in India exported?",
+      "options": [
+        { "option_id": 1, "text": "Only European countries", "is_correct": false },
+        { "option_id": 2, "text": "Turkey, Malaysia, and several African countries", "is_correct": true },
+        { "option_id": 3, "text": "Only to the USA", "is_correct": false },
+        { "option_id": 4, "text": "Only to neighbouring countries", "is_correct": false }
+      ],
+      "answer": "Turkey, Malaysia, and several African countries"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What are some examples of crops mainly produced in India?",
+      "options": [
+        { "option_id": 1, "text": "Jowar, wheat, rice, pulses, oilseeds", "is_correct": true },
+        { "option_id": 2, "text": "Coffee, tea, rubber", "is_correct": false },
+        { "option_id": 3, "text": "Cotton and sugarcane only", "is_correct": false },
+        { "option_id": 4, "text": "Fruits and vegetables only", "is_correct": false }
+      ],
+      "answer": "Jowar, wheat, rice, pulses, oilseeds"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of the following is a result of the Industrial Licensing Policy of 1970 mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Only public sector could invest in heavy industries", "is_correct": false },
+        { "option_id": 2, "text": "Big industrial houses and foreign companies were allowed to invest in non-reserved heavy industries", "is_correct": true },
+        { "option_id": 3, "text": "All small industries were banned", "is_correct": false },
+        { "option_id": 4, "text": "It focused only on agriculture", "is_correct": false }
+      ],
+      "answer": "Big industrial houses and foreign companies were allowed to invest in non-reserved heavy industries"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of these ports is NOT mentioned as important for internal trade?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Kolkata", "is_correct": false },
+        { "option_id": 3, "text": "Cochi", "is_correct": false },
+        { "option_id": 4, "text": "Visakhapatnam", "is_correct": true }
+      ],
+      "answer": "Visakhapatnam"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What kind of training is given to farmers at the district level?",
+      "options": [
+        { "option_id": 1, "text": "Only in soil testing", "is_correct": false },
+        { "option_id": 2, "text": "In nursery of fruit plants, pisciculture, poultry, dairy farming, etc.", "is_correct": true },
+        { "option_id": 3, "text": "Only in modern machinery operation", "is_correct": false },
+        { "option_id": 4, "text": "Only in organic farming", "is_correct": false }
+      ],
+      "answer": "In nursery of fruit plants, pisciculture, poultry, dairy farming, etc."
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What role does the Tourism Development Corporation play?",
+      "options": [
+        { "option_id": 1, "text": "It manufactures curios", "is_correct": false },
+        { "option_id": 2, "text": "It provides facilities for tourist stay and travel", "is_correct": true },
+        { "option_id": 3, "text": "It builds hotels only", "is_correct": false },
+        { "option_id": 4, "text": "It trains guides", "is_correct": false }
+      ],
+      "answer": "It provides facilities for tourist stay and travel"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "According to the chapter, which industry is one of the most technologically advanced in India?",
+      "options": [
+        { "option_id": 1, "text": "Handloom", "is_correct": false },
+        { "option_id": 2, "text": "Cement", "is_correct": true },
+        { "option_id": 3, "text": "Khadi", "is_correct": false },
+        { "option_id": 4, "text": "Salt", "is_correct": false }
+      ],
+      "answer": "Cement"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "How does the chapter describe India's progress in food grain production?",
+      "options": [
+        { "option_id": 1, "text": "Still dependent on imports", "is_correct": false },
+        { "option_id": 2, "text": "Rapidly becoming independent", "is_correct": true },
+        { "option_id": 3, "text": "Has not improved since independence", "is_correct": false },
+        { "option_id": 4, "text": "Only focuses on cash crops", "is_correct": false }
+      ],
+      "answer": "Rapidly becoming independent"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "When was the Industrial Finance Corporation of India established and why?",
+      "answer": "It was established in 1948 to make available long-term loans to industrial projects."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the two main components of the textile industry.",
+      "answer": "Powerloom industry and handloom industry."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the role of the Seribiotic Research Laboratory in Bengaluru?",
+      "answer": "It conducts research on the species of silkworm and mulberry trees for the silk industry."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Which state is the main centre for bicycle manufacturing in India?",
+      "answer": "Punjab (with Ludhiana as the main centre)."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What are the main products obtained from jute?",
+      "answer": "Cloth, sack cloth, and ropes."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Mega Cluster' scheme?",
+      "answer": "To help weavers through self-finance groups and non-governmental organisations."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Why is the automobile industry called the 'sunrise sector' in India?",
+      "answer": "Because India is a major producer and exporter of vehicles, including being the world's biggest tractor producer."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the annual production of salt in India?",
+      "answer": "200 lakh tons."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name the commission established to promote industrialization in rural areas.",
+      "answer": "Khadi and Village Industries Commission."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What percentage of industrial production does the textile industry account for?",
+      "answer": "14%."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "List two countries to which India exports bicycles.",
+      "answer": "Nigeria and Mexico (or Kenya, Uganda, Brazil)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are the two types of fisheries mentioned in the chapter?",
+      "answer": "Sea water fish and fresh water fish."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are some modern techniques used in Indian agriculture?",
+      "answer": "Drip irrigation and organic farming."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name two items that India imports.",
+      "answer": "Machines and iron (or mineral oil, fertilizers, medicines)."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name two items that India exports.",
+      "answer": "Tea and coffee (or spices, cotton textiles, leather, footwear, pearls, precious stones)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which act established the Textile Committee?",
+      "answer": "The Textile Committee Act of 1963."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the hand sculpting craft benefit from, according to the chapter?",
+      "answer": "Export preference and the possibility of earning more foreign exchange."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the investment threshold for heavy industries as per the 1970 policy?",
+      "answer": "More than 5 crore rupees."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How many small industries were registered with the government by the end of 1972?",
+      "answer": "3 lakh 18 thousand."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What are the main modes of transport for internal trade?",
+      "answer": "Railways, waterways, roads, and airways."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What kind of help do local people sometimes provide to tourists in remote areas?",
+      "answer": "They help tourists reach their destination in return for a fee when vehicles cannot."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name two industries based on forest resources.",
+      "answer": "Paper industry and matchbox industry (or silk, medicinal herbs, construction)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the significance of the cement industry?",
+      "answer": "It plays an important role in the development of housing and infrastructure."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which Five Year Plan focused on the paper and pharmaceutical industries?",
+      "answer": "The Fourth Five Year Plan."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the purpose of giving loans to farmers?",
+      "answer": "To encourage farming."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the main center for silk industry research?",
+      "answer": "Seribiotic Research Laboratory in Bengaluru."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How does the Tourism Development Corporation help the tourism industry?",
+      "answer": "By providing facilities for tourists to stay and travel."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the benefit of market mechanisms like 'Dilli Haat'?",
+      "answer": "They enable craftsmen from rural and urban areas to get a market for their wares."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are the two main states where bicycles are manufactured?",
+      "answer": "Punjab and Tamil Nadu."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the key reason for promoting exports after independence?",
+      "answer": "To gain valuable foreign exchange."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the structure and significance of the textile industry in India.",
+      "answer": "The textile industry is a major pillar of the Indian industrial sector, contributing 14% to the total industrial production. It comprises two key segments: the powerloom industry and the handloom industry. The handloom sector is particularly important as it is labour-intensive, providing employment to millions. To ensure quality and competitiveness, the Textile Committee was established under the Textile Committee Act of 1963. This committee is responsible for setting and maintaining quality standards for textiles manufactured for both the domestic (internal) market and for export. The industry's significance lies in its massive employment generation, contribution to exports (like cotton textiles), preservation of traditional crafts, and its role in the overall industrial and economic growth of the country."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the role and functions of the Khadi and Village Industries Commission.",
+      "answer": "The Khadi and Village Industries Commission (KVIC) was established with the primary objective of promoting industrialization in rural areas. Its key functions are to develop traditional industries, handicrafts, and cottage industries. The commission aims to encourage industries that utilize locally available material and human resources, thereby fostering self-reliance in villages. By creating employment opportunities in rural settings, KVIC helps to reduce migration to cities, supports the rural economy, and preserves indigenous crafts and skills. It plays a crucial role in the government's strategy for decentralized and inclusive economic growth, ensuring that the benefits of industrial development reach the grassroots level."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Why is the automobile industry referred to as the 'sunrise sector' in India? Discuss its achievements.",
+      "answer": "The automobile industry is called the 'sunrise sector' in India because it represents a rapidly growing, dynamic, and promising area of the economy with immense potential. This designation reflects its bright future and significant contributions. Key achievements that justify this title include: India being one of the major global producers of vehicles, exporting to 40 countries. Notably, India's tractor industry is the world's largest, producing one-third of all tractors globally. These tractors are exported to countries like Turkey, Malaysia, and across Africa. The sector's growth drives ancillary industries, creates skilled jobs, brings in foreign exchange through exports, and showcases India's manufacturing prowess, making it a beacon of industrial progress."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Discuss the importance of agriculture as an industry in India, highlighting the participation and support mechanisms.",
+      "answer": "Agriculture is the most significant industry and occupation in India, fulfilling basic human needs and involving around 70% of the population in related jobs. It is unique for the equal participation of women alongside men. The industry operates using both traditional (e.g., bullocks) and modern methods (e.g., machinery for ploughing, harvesting). To promote and improve this sector, the government and institutions provide extensive support: farmers receive loans through rural banks and cooperatives; Panchayat Samitis organize study visits, agricultural trips, and gatherings for knowledge sharing; there is supply of tools, seeds, and fertilizers; and training is provided in soil testing, horticulture, pisciculture, poultry, and dairy. Financial aid is also given for building warehouses. Modern techniques like drip irrigation and organic farming are encouraged, helping India move towards self-reliance in food grain production and advanced farming techniques."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Explain how the Industrial Licensing Policy of 1970 impacted the industrial landscape of India.",
+      "answer": "The Industrial Licensing Policy of 1970 was a significant step in shaping India's industrial development. It defined heavy industries as those factories requiring an investment of more than 5 crore rupees. A key provision of this policy was that big industrial houses and foreign companies were permitted to invest in heavy industries that were not exclusively reserved for the public sector. This liberalization move aimed to attract private capital and expertise into capital-intensive sectors. A notable outcome of this policy was the rapid registration of small-scale industries; by the end of 1972, as many as 3 lakh 18 thousand small industries were registered with the government. Thus, the policy helped in diversifying industrial ownership, boosting investment in heavy industries, and simultaneously fostering the growth of the small-scale sector, creating a more layered industrial economy."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the diversity and economic importance of India's tourism industry.",
+      "answer": "India's tourism industry is diverse and economically vital due to the country's rich cultural heritage and varied attractions. Tourist destinations include places of worship from all major religions, pilgrimage centers, river confluences, historical forts, and natural caves, attracting both domestic and international visitors year-round. This diversity fuels several economic activities: the Tourism Development Corporation provides essential facilities for stay and travel; the sale of local curios and handicrafts thrives; the hotel industry expands; and local guides find employment by sharing information. In remote areas, locals even assist tourists for a fee when transport is unavailable. Collectively, tourism generates extensive employment opportunities in hospitality, transport, retail, and services, contributes to local economies, promotes cultural exchange, and earns valuable revenue, making it a key sector for national progress."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Compare and contrast India's import and export composition in the post-independence period as mentioned in the chapter.",
+      "answer": "In the post-independence period, particularly after planning began in 1951, India's import and export composition reflected its developmental needs and economic strengths. Imports primarily consisted of industrial goods and raw materials necessary for production and infrastructure building. Key imports included machinery, iron, mineral oil, fertilizers, and medicines – items essential for industrialization and meeting basic needs. On the other hand, exports were driven by the need to earn valuable foreign exchange. India's exports were largely based on its agricultural and traditional manufacturing strengths. Major exports included tea, coffee, spices, cotton textiles, leather, footwear, pearls, and precious stones. This contrast shows imports focused on capital goods and inputs for development, while exports leveraged India's natural resources and established labour-intensive industries."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the role of forest resources in supporting various industries in India.",
+      "answer": "Forest resources play a critical role as a raw material base for a wide range of industries in India. To ensure sustainable supply, the government has reserved certain forests specifically for industrial use. The conservation of these forests is a shared responsibility of the central government, state governments, and local communities. Industries heavily dependent on forest resources include: the construction industry (for timber), the paper and newsprint industry (for pulp), the silk industry (for host plants like mulberry), the matchbox industry (for wood), and industries processing medicinal herbs, honey, and lacquer. Additionally, forests provide raw materials needed for paints and other products. Thus, forests are not just ecological assets but vital economic resources that fuel multiple industrial sectors, support livelihoods, and require careful management for balanced development."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What efforts has the government made to develop the fisheries industry in India?",
+      "answer": "The government has undertaken several initiatives to develop the fisheries industry, which includes both sea water and fresh water (rivers, canals, ponds, lakes) fish. Key efforts involve infrastructure development: building new harbours and redeveloping old ones to facilitate fishing and trade. To boost production, fish seed incubation centres have been established. Furthermore, to build a skilled workforce, specialized fishing industry training centres have been set up. These measures aim to increase fish production, improve the livelihoods of fishing communities, enhance storage and processing capabilities, and promote both domestic consumption and exports. This holistic approach supports the growth of a sustainable and productive fisheries sector."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Discuss the factors that contribute to internal trade within India and list some major commodities traded.",
+      "answer": "Internal trade in India is facilitated by a developed network of multiple transport modes: railways, waterways, roads, and airways. Major ports like Mumbai, Kolkata, Cochin, and Chennai serve as crucial hubs for this trade, handling both coastal and inland shipments. The commodities that form the bulk of internal trade are essential goods that connect producing regions with consuming markets across the country. These include coal, cotton, cotton textiles, rice, wheat, raw jute, iron, steel, oilseeds, salt, and sugar. This extensive movement of goods ensures the availability of raw materials for industries, distributes food grains, and supplies consumer products nationwide. Efficient internal trade is vital for economic integration, price stability, and the overall development of a unified national market."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "How does the 'Mega Cluster' scheme support weavers and the handloom sector?",
+      "answer": "The 'Mega Cluster' scheme is a targeted government initiative designed to provide comprehensive support to weavers and revitalize the handloom sector. The scheme operates by channeling help through self-finance groups and non-governmental organizations (NGOs). The support offered is multi-faceted: it includes providing access to raw materials at reasonable rates, establishing 'design banks' to offer contemporary and traditional designs, facilitating the development and adoption of improved technology for better efficiency and product quality, and focusing on the overall welfare of the weavers themselves. By addressing these key areas – inputs, design, technology, and welfare – the scheme aims to enhance the competitiveness of handloom products, ensure sustainable livelihoods for weavers, and preserve this important cultural and economic heritage."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain the significance of mineral wealth like iron and coal for India's industrial development.",
+      "answer": "Mineral wealth, particularly iron and coal, is fundamental to India's industrial development as it provides the essential raw materials for core industries. Iron ore is the primary input for the iron and steel industry, which is the backbone of sectors like construction, machinery, automobile, and shipbuilding. Coal is a critical source of energy for thermal power plants, which generate a major share of India's electricity, powering factories, homes, and railways. The chapter notes that India has adequate reserves of iron, manganese, coal, and mineral oil. This domestic availability reduces dependence on costly imports, provides cost advantages to manufacturing, supports heavy industries, and lays the foundation for a self-reliant industrial economy. Thus, these minerals are not just commodities but strategic resources that fuel the entire industrial ecosystem."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "What are the various ways in which employment is generated in the tourism sector?",
+      "answer": "The tourism sector is a significant generator of diverse employment opportunities. Direct employment is created in hotels, resorts, restaurants, and travel agencies for roles like managers, chefs, waitstaff, and travel agents. The need for transportation employs drivers, pilots, and crew in airlines, railways, and road transport. Local guides find work by providing information and tours to visitors. The sale of souvenirs, curios, and handicrafts at tourist spots supports artisans and shopkeepers. In remote areas, locals may be employed to assist tourists where regular transport fails. Indirectly, tourism boosts demand in supporting industries like construction (for hotels), agriculture (for food supplies), and retail. Thus, tourism creates a wide-ranging job market from skilled to unskilled levels, contributing substantially to livelihoods, especially in areas with cultural or natural attractions."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Describe the progress and characteristics of the silk industry in India.",
+      "answer": "The silk industry in India functions under the Ministry of Textiles and has shown notable progress. Scientific research for the industry is centralized at the Seribiotic Research Laboratory in Bengaluru, which focuses on improving silkworm species and mulberry cultivation. Traditionally concentrated in states like Karnataka, Andhra Pradesh, West Bengal, and Jammu & Kashmir, the industry is now being deliberately extended to states with predominantly tribal populations, aiming for inclusive regional development. This expansion strategy helps generate income in underdeveloped areas. The industry involves sericulture (silk farming) and silk weaving, producing high-value fabric. By combining scientific research, traditional knowledge, and targeted geographical spread, the silk industry contributes to export earnings, rural employment, and the preservation of a luxurious textile heritage."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How does the development of industries lead to an improvement in the standard of living?",
+      "answer": "The development of industries leads to a marked improvement in the standard of living through multiple channels. Firstly, it creates a vast number of employment opportunities in factories, offices, and ancillary services, providing people with stable incomes. This increased purchasing power allows for better food, housing, education, and healthcare. Secondly, industries produce a wide range of goods (from vehicles to textiles) that make life more comfortable and convenient. Thirdly, industrial growth generates government revenue through taxes, which can be reinvested in public infrastructure like roads, schools, and hospitals. Fourthly, it fosters technological advancement and skill development. On a national level, industrial strength boosts exports, earns foreign exchange, and increases economic resilience. Thus, industrial progress is directly linked to higher quality of life, reduced poverty, and overall national prosperity."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What is the importance of the cement industry in India's development?",
+      "answer": "The cement industry holds paramount importance in India's development due to its foundational role in building infrastructure. As one of the most technologically advanced industries in the country, it produces the essential material for construction. Cement is critical for building houses, apartments, and commercial buildings, addressing the crucial need for shelter. Beyond housing, it is indispensable for large-scale infrastructure projects like roads, bridges, dams, ports, airports, and railways. The growth of this industry directly supports urbanization, industrial expansion, and connectivity. By providing a reliable supply of a key construction material, the cement industry enables both public and private sector development, creates jobs, and is a key indicator of economic growth, making it a cornerstone of national progress."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Explain the term 'labour intensive' with reference to industries mentioned in the chapter.",
+      "answer": "In the context of industries mentioned in the chapter, 'labour intensive' refers to production processes that rely heavily on human labour rather than machinery or automation. These industries require a large workforce to create their products. Two prime examples are highlighted: the handloom industry and hand sculpting. In the handloom sector, the weaving of cloth is done manually on looms, employing a significant number of artisans and weavers. Similarly, hand sculpting involves craftsmen manually carving and shaping materials like wood or stone into artifacts. Such industries are crucial for economies like India's as they have a high capacity to absorb workers, require relatively smaller capital investment compared to heavy machinery, and help in preserving traditional skills and crafts while generating employment, especially in rural and semi-urban areas."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What role does the Industrial Development Corporation (established in 1954) play?",
+      "answer": "The Industrial Development Corporation was established in 1954 with the specific objective of bringing about greater development of the industrial sector in India. While the chapter does not detail its functions, such corporations typically act as developmental financial institutions or promotional agencies. Their role often involves identifying growth areas, facilitating large-scale industrial projects, providing technical and financial assistance to entrepreneurs, developing industrial estates and infrastructure, and sometimes acting as a catalyst for public-private partnerships. By focusing on strategic industrial development, such a corporation would work to overcome investment hurdles, promote balanced regional growth, and accelerate the overall industrialization process in the post-independence era, complementing the work of the Industrial Finance Corporation of India."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How do market mechanisms like 'Dilli Haat' benefit craftsmen and the economy?",
+      "answer": "Market mechanisms like 'Dilli Haat' provide a dedicated and organized platform for craftsmen, particularly from rural and urban areas, to directly sell their products to consumers. They benefit craftsmen by eliminating middlemen, allowing them to get better prices for their wares and receive immediate feedback from customers. These markets showcase a diverse range of handmade products, from textiles to sculptures, helping to preserve and promote traditional arts. For the economy, such mechanisms boost the handicrafts and handloom sector, which is a significant source of employment and export earnings. They attract tourists and locals alike, stimulating local commerce. By providing a formal market space, initiatives like Dilli Haat integrate informal sector artisans into the mainstream economy, support sustainable livelihoods, and contribute to cultural tourism and heritage conservation."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "List the industries that were given focus in the Fourth Five Year Plan according to the chapter.",
+      "answer": "According to the chapter, the Fourth Five Year Plan placed its industrial focus on a diverse set of sectors to drive economic growth and self-sufficiency. The industries that received specific attention included: the paper industry, the pharmaceutical industry, the motor-tractor industry, leather goods, the textile industry, the food processing industry, and the oil, colour, and sugar industries. This selection indicates a balanced approach, targeting both basic industries (like paper, textiles), essential goods (pharmaceuticals, food processing), capital goods (motor-tractors), and consumer goods (leather, sugar). Focusing on these sectors aimed to reduce import dependence, meet domestic demand, generate employment, and build a broad-based industrial foundation for the country."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What is the state of India's salt industry?",
+      "answer": "India's salt industry is robust and holds a prominent position globally, being one of the top producers of salt in the world. The country has an annual production capacity of 200 lakh tons of salt. A significant portion of this production, about 60 lakh tons annually, is dedicated to iodised salt, which is crucial for public health to prevent iodine deficiency disorders. The industry not only meets the vast domestic demand for edible salt but also supplies salt for industrial uses. This large-scale production demonstrates efficient resource utilization (from sea water and salt pans), supports related chemical industries, and contributes to both food security and industrial growth, making it an important, though often overlooked, segment of the national economy."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "How has India's position in food grain production evolved?",
+      "answer": "India's position in food grain production has evolved significantly from a state of dependence to one of growing self-reliance and technological advancement. While agriculture still uses traditional methods like bullock power, it has increasingly adopted modern machinery for tasks from ploughing to threshing. The government supports this shift through training, credit, and input supply. The chapter notes that India is rapidly becoming independent in food grain production and farming techniques. The adoption of modern methods like drip irrigation (for water efficiency) and organic farming (for sustainability) points towards a more productive and environmentally conscious agricultural sector. This evolution ensures food security for a large population, reduces vulnerability, and allows for potential surpluses that can contribute to exports and economic stability."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "What are the key features of the hand sculpting craft as an industry?",
+      "answer": "The hand sculpting craft, as described in the chapter, possesses several distinctive features that define it as a unique industry. Firstly, it is highly labour-intensive, meaning it provides employment to a large number of sculptors and artisans. Its capacity to absorb more craftsmen is a significant advantage for job creation. Secondly, it requires relatively small initial investment compared to large-scale manufacturing, making it accessible. Thirdly, it can yield more profits, especially when linked to exports. Fourthly, it enjoys preference in export markets, which helps in earning valuable foreign exchange for the country. These features make hand sculpting not just an art form but a viable economic activity that supports livelihoods, promotes cultural exports, and contributes to the national economy through its export-oriented nature."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Why is the conservation of forests a shared responsibility as mentioned in the chapter?",
+      "answer": "The conservation of forests is described as a shared responsibility involving the central government, state governments, and local people because forests are multi-functional resources with national, regional, and local significance. The central government sets overarching policies and frameworks for forest management and conservation. State governments are responsible for the on-ground implementation of these policies, law enforcement, and managing state forest departments. Most crucially, local people who live in or near forests depend on them for their livelihoods, fuel, fodder, and other resources. Their involvement is essential for sustainable management, as they have traditional knowledge and a direct stake in the forest's health. This collaborative approach ensures that conservation efforts are effective, balanced with developmental needs, and inclusive, preventing degradation while allowing for regulated industrial use of forest resources."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Describe the training and guidance provided to Indian farmers for agricultural improvement.",
+      "answer": "To bring about improvements in agriculture, Indian farmers receive comprehensive training and guidance through a structured system. At the grassroots level, Panchayat Samitis organize study visits, agricultural outdoor trips, and farmers' get-togethers for experiential learning and knowledge sharing. For skill development, district-level training institutes provide guidance on a wide array of topics. This includes technical training in soil testing to optimize fertilizer use, setting up nurseries for fruit plants, pisciculture (fish farming), poultry management, cattle and goat rearing, and dairy farming practices. Additionally, the government facilitates the supply of improved tools, implements, seeds, and fertilizers. Farmers also receive financial assistance, such as loans through rural banks and cooperatives, and help to build warehouses for proper storage of produce. This multi-faceted support system aims to enhance productivity, diversify income sources, and promote modern, sustainable farming techniques."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "What was the impact of allowing big industrial houses and foreign companies to invest in heavy industries (as per the 1970 policy)?",
+      "answer": "The Industrial Licensing Policy of 1970, which allowed big industrial houses and foreign companies to invest in heavy industries not reserved for the public sector, had a significant impact on India's industrial trajectory. This policy shift was a move towards liberalization, aimed at injecting much-needed capital, advanced technology, and managerial expertise into capital-intensive sectors. By opening these areas to private and foreign investment, the policy stimulated growth in heavy industries like steel, machinery, and chemicals, which are crucial for overall industrial development. It helped bridge the investment gap, increased competition, and potentially improved efficiency and product quality. This step marked a gradual shift from a predominantly state-led industrial model to a more mixed economy, paving the way for greater private sector participation in core industries and contributing to industrial diversification and capacity building."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "How does the leather industry contribute to the Indian economy?",
+      "answer": "The leather industry is a major contributor to the Indian economy, primarily through its strong export orientation. As a big industry, it generates substantial employment in tanning, manufacturing, and designing leather products like footwear, garments, bags, and accessories. By being export-oriented, it earns valuable foreign exchange, which is crucial for the country's balance of payments. The industry utilizes domestically available raw materials (hides and skins) and adds significant value through processing and crafting. It supports a vast network of small and medium enterprises (SMEs) and artisans. The growth of this industry also stimulates related sectors like chemicals (for tanning) and retail. Thus, the leather industry plays a key role in industrial output, job creation, export earnings, and the promotion of India's manufacturing capabilities on the global stage."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What are the primary objectives behind giving impetus to exports after independence?",
+      "answer": "After independence, the Indian government gave significant impetus to exports primarily to achieve two interconnected economic objectives. The foremost objective was to earn valuable foreign exchange. Foreign exchange reserves are essential for a developing country to pay for critical imports that are not produced domestically, such as sophisticated machinery, technology, mineral oil, and fertilizers needed for industrial and agricultural development. A strong export sector helps build these reserves, ensuring economic stability and the ability to finance essential imports without excessive debt. Secondly, promoting exports helps integrate the Indian economy into global trade networks, provides a larger market for domestic industries, encourages competitiveness and quality improvement, and ultimately contributes to economic growth, job creation, and a stronger position in the international community."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Summarize the role of agriculture and its allied activities in the Indian economy as per the chapter.",
+      "answer": "Agriculture and its allied activities form the bedrock of the Indian economy. As the major occupation, it provides livelihoods directly or indirectly to about 70% of the population, with equal participation from women. It fulfills the basic need for food through the production of staple crops like jowar, wheat, rice, pulses, and oilseeds, as well as commercial crops like cotton and sugarcane. Allied activities include animal husbandry, dairy farming, poultry, pisciculture, and horticulture (fruits and vegetables), which diversify income and nutrition. The sector is supported by government initiatives like credit supply, training, and infrastructure (warehouses). The growth of food processing industries adds value. Agriculture's progress ensures food security, supplies raw materials to industries (e.g., cotton for textiles), supports a vast rural market, and is fundamental to the nation's overall economic and social stability."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Explain the statement: 'Due to the development of industries, the standard of life in the country improves.'",
+      "answer": "The statement highlights the positive correlation between industrial development and an improved standard of living. Industrial growth creates a multitude of employment opportunities in factories and related services, providing people with stable incomes and purchasing power. This enables better access to food, housing, education, and healthcare. Industries also produce a wide array of consumer goods—from clothing and bicycles to vehicles and electronics—that make daily life more convenient and comfortable. The revenue generated from industries through taxes allows governments to invest in public infrastructure like roads, schools, hospitals, and sanitation, which directly benefits citizens. Furthermore, industrial progress fosters technological innovation, skill development, and economic resilience. On a national scale, it strengthens the economy, reduces poverty, and raises overall prosperity, thereby unequivocally elevating the quality and standard of life for the population."
+    }
+  ]
+}
