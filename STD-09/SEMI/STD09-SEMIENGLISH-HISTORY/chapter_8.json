@@ -1,0 +1,730 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Semi-English.08",
+    "standard": "9",
+    "subject": "History",
+    "medium": "Semi-English",
+    "chapter_name": "Industry and Trade"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारतीय औद्योगिक वित्त महामंडळाची स्थापना कोणत्या वर्षी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९५४", "is_correct": false },
+        { "option_id": 2, "text": "१९६३", "is_correct": false },
+        { "option_id": 3, "text": "१९४८", "is_correct": true },
+        { "option_id": 4, "text": "१९७२", "is_correct": false }
+      ],
+      "answer": "१९४८"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारतीय औद्योगिक वित्त महामंडळ स्थापनेमागील मुख्य उद्देश कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "वस्त्रांची गुणवत्ता निश्चित करणे", "is_correct": false },
+        { "option_id": 2, "text": "औद्योगिक प्रकल्पांना दीर्घ मुदतीचे कर्ज उपलब्ध करून देणे", "is_correct": true },
+        { "option_id": 3, "text": "वाहनांची निर्यात करणे", "is_correct": false },
+        { "option_id": 4, "text": "खनिज संशोधन करणे", "is_correct": false }
+      ],
+      "answer": "औद्योगिक प्रकल्पांना दीर्घ मुदतीचे कर्ज उपलब्ध करून देणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "भारतीय औद्योगिक विकास महामंडळाची स्थापना कोणत्या वर्षी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९६३", "is_correct": false },
+        { "option_id": 2, "text": "१९५६", "is_correct": false },
+        { "option_id": 3, "text": "१९५४", "is_correct": true },
+        { "option_id": 4, "text": "१९४८", "is_correct": false }
+      ],
+      "answer": "१९५४"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "देशाच्या एकूण औद्योगिक उत्पादनात वस्त्रोद्योगाचा वाटा सुमारे किती टक्के आहे?",
+      "options": [
+        { "option_id": 1, "text": "१४%", "is_correct": true },
+        { "option_id": 2, "text": "२०%", "is_correct": false },
+        { "option_id": 3, "text": "७०%", "is_correct": false },
+        { "option_id": 4, "text": "६०%", "is_correct": false }
+      ],
+      "answer": "१४%"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वस्त्रोद्योगात कोणत्या उद्योगांचा समावेश होतो?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंट व मीठ उद्योग", "is_correct": false },
+        { "option_id": 2, "text": "खनिज तेल व औषध उद्योग", "is_correct": false },
+        { "option_id": 3, "text": "यंत्रमाग उद्योग व हातमाग उद्योग", "is_correct": true },
+        { "option_id": 4, "text": "वाहन व पर्यटन उद्योग", "is_correct": false }
+      ],
+      "answer": "यंत्रमाग उद्योग व हातमाग उद्योग"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हातमाग उद्योग कोणत्या प्रकारचा उद्योग आहे?",
+      "options": [
+        { "option_id": 1, "text": "भांडवलप्रधान", "is_correct": false },
+        { "option_id": 2, "text": "तंत्रज्ञानप्रधान", "is_correct": false },
+        { "option_id": 3, "text": "निर्यातप्रधान", "is_correct": false },
+        { "option_id": 4, "text": "श्रमप्रधान", "is_correct": true }
+      ],
+      "answer": "श्रमप्रधान"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "टेक्सटाईल कमिटी ॲक्ट कोणत्या वर्षी संमत झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९६३", "is_correct": true },
+        { "option_id": 2, "text": "१९४८", "is_correct": false },
+        { "option_id": 3, "text": "१९५४", "is_correct": false },
+        { "option_id": 4, "text": "१९८७", "is_correct": false }
+      ],
+      "answer": "१९६३"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "रेशीम उद्योग कोणत्या मंत्रालयाच्या अंतर्गत कार्य करतो?",
+      "options": [
+        { "option_id": 1, "text": "संरक्षण मंत्रालय", "is_correct": false },
+        { "option_id": 2, "text": "वस्त्रोद्योग मंत्रालय", "is_correct": true },
+        { "option_id": 3, "text": "पर्यटन मंत्रालय", "is_correct": false },
+        { "option_id": 4, "text": "रेल्वे मंत्रालय", "is_correct": false }
+      ],
+      "answer": "वस्त्रोद्योग मंत्रालय"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भारतातील सिमेंट उद्योग कोणत्या क्षेत्रात भूमिका बजावतो?",
+      "options": [
+        { "option_id": 1, "text": "हवाई वाहतूक", "is_correct": false },
+        { "option_id": 2, "text": "गृहनिर्माण व पायाभूत संरचना", "is_correct": true },
+        { "option_id": 3, "text": "मत्स्योद्योग", "is_correct": false },
+        { "option_id": 4, "text": "सायकल उद्योग", "is_correct": false }
+      ],
+      "answer": "गृहनिर्माण व पायाभूत संरचना"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भारतातील वाहन उद्योगाला कोणते क्षेत्र म्हटले जाते?",
+      "options": [
+        { "option_id": 1, "text": "गोल्डन क्षेत्र", "is_correct": false },
+        { "option_id": 2, "text": "सनराईज क्षेत्र", "is_correct": true },
+        { "option_id": 3, "text": "ग्रीन क्षेत्र", "is_correct": false },
+        { "option_id": 4, "text": "मेगा क्षेत्र", "is_correct": false }
+      ],
+      "answer": "सनराईज क्षेत्र"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जगाच्या एकूण ट्रॅक्टर उत्पादनातील भारताचा वाटा किती आहे?",
+      "options": [
+        { "option_id": 1, "text": "१/३", "is_correct": true },
+        { "option_id": 2, "text": "१/२", "is_correct": false },
+        { "option_id": 3, "text": "२/३", "is_correct": false },
+        { "option_id": 4, "text": "१/४", "is_correct": false }
+      ],
+      "answer": "१/३"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लुधियाना हे शहर कोणत्या उद्योगासाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंट उद्योग", "is_correct": false },
+        { "option_id": 2, "text": "सायकल उद्योग", "is_correct": true },
+        { "option_id": 3, "text": "ताग उद्योग", "is_correct": false },
+        { "option_id": 4, "text": "मीठ उद्योग", "is_correct": false }
+      ],
+      "answer": "सायकल उद्योग"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खादी व ग्रामोद्योग आयोगाची स्थापना कोणत्या उद्देशाने झाली?",
+      "options": [
+        { "option_id": 1, "text": "ग्रामीण औद्योगिकीकरणास चालना देणे", "is_correct": true },
+        { "option_id": 2, "text": "वाहनांची निर्यात वाढवणे", "is_correct": false },
+        { "option_id": 3, "text": "सायकलींचे उत्पादन करणे", "is_correct": false },
+        { "option_id": 4, "text": "खनिज तेल संशोधन", "is_correct": false }
+      ],
+      "answer": "ग्रामीण औद्योगिकीकरणास चालना देणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भारतातील ताग उद्योग कोणत्या वस्तू तयार करतो?",
+      "options": [
+        { "option_id": 1, "text": "सायकल", "is_correct": false },
+        { "option_id": 2, "text": "रेशीम", "is_correct": false },
+        { "option_id": 3, "text": "गोणपाट व दोरखंड", "is_correct": true },
+        { "option_id": 4, "text": "सिमेंट", "is_correct": false }
+      ],
+      "answer": "गोणपाट व दोरखंड"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "भारतातील चर्मोद्योग कोणत्या प्रकारचा उद्योग आहे?",
+      "options": [
+        { "option_id": 1, "text": "आयाताभिमुख", "is_correct": false },
+        { "option_id": 2, "text": "निर्याताभिमुख", "is_correct": true },
+        { "option_id": 3, "text": "ग्रामीण सेवा", "is_correct": false },
+        { "option_id": 4, "text": "हरितक्रांतीशी संबंधित", "is_correct": false }
+      ],
+      "answer": "निर्याताभिमुख"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भारत आयोडिनयुक्त मिठाचे उत्पादन सुमारे किती लाख टन करतो?",
+      "options": [
+        { "option_id": 1, "text": "६० लाख टन", "is_correct": true },
+        { "option_id": 2, "text": "२० लाख टन", "is_correct": false },
+        { "option_id": 3, "text": "१० लाख टन", "is_correct": false },
+        { "option_id": 4, "text": "१०० लाख टन", "is_correct": false }
+      ],
+      "answer": "६० लाख टन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "देशाच्या औद्योगिक विकासात कोणती दोन खनिजे सर्वाधिक महत्त्वाची मानली जातात?",
+      "options": [
+        { "option_id": 1, "text": "सोने व चांदी", "is_correct": false },
+        { "option_id": 2, "text": "लोह व दगडी कोळसा", "is_correct": true },
+        { "option_id": 3, "text": "खनिज तेल व तांबे", "is_correct": false },
+        { "option_id": 4, "text": "मँगनीज व बॉक्साईट", "is_correct": false }
+      ],
+      "answer": "लोह व दगडी कोळसा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मत्स्योद्योगाच्या विकासासाठी कोणत्या सुविधा उभारल्या जातात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ कारखाने", "is_correct": false },
+        { "option_id": 2, "text": "हस्तशिल्प बाजारपेठ", "is_correct": false },
+        { "option_id": 3, "text": "बंदर, प्रशिक्षण केंद्रे व मत्स्यबीज केंद्रे", "is_correct": true },
+        { "option_id": 4, "text": "वाहन निर्यात केंद्रे", "is_correct": false }
+      ],
+      "answer": "बंदर, प्रशिक्षण केंद्रे व मत्स्यबीज केंद्रे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भारतात वनसंपत्तीवर आधारित कोणते उद्योग चालतात?",
+      "options": [
+        { "option_id": 1, "text": "कागद व औषधी वनस्पती उद्योग", "is_correct": true },
+        { "option_id": 2, "text": "फक्त वाहन उद्योग", "is_correct": false },
+        { "option_id": 3, "text": "फक्त सायकल उद्योग", "is_correct": false },
+        { "option_id": 4, "text": "संगणक आयात उद्योग", "is_correct": false }
+      ],
+      "answer": "कागद व औषधी वनस्पती उद्योग"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "भारतातील INSAT-१ बी उपग्रह कोणत्या वर्षी यशस्वी झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९८१", "is_correct": false },
+        { "option_id": 2, "text": "१९८३", "is_correct": true },
+        { "option_id": 3, "text": "१९७५", "is_correct": false },
+        { "option_id": 4, "text": "१९८७", "is_correct": false }
+      ],
+      "answer": "१९८३"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भारत सिमेंट निर्मितीत जगात कोणत्या स्थानावर आहे?",
+      "options": [
+        { "option_id": 1, "text": "महत्त्वाचा देश आहे", "is_correct": true },
+        { "option_id": 2, "text": "कमी उत्पादन करणारा देश आहे", "is_correct": false },
+        { "option_id": 3, "text": "फक्त आयात करणारा देश आहे", "is_correct": false },
+        { "option_id": 4, "text": "अप्रगत देश आहे", "is_correct": false }
+      ],
+      "answer": "महत्त्वाचा देश आहे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "IIT संस्था कोणत्या शिक्षणासाठी प्रसिद्ध आहेत?",
+      "options": [
+        { "option_id": 1, "text": "वैद्यकीय शिक्षण", "is_correct": false },
+        { "option_id": 2, "text": "व्यवस्थापन शिक्षण", "is_correct": false },
+        { "option_id": 3, "text": "उच्च तांत्रिक शिक्षण", "is_correct": true },
+        { "option_id": 4, "text": "कला शिक्षण", "is_correct": false }
+      ],
+      "answer": "उच्च तांत्रिक शिक्षण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "IIM संस्था कोणत्या क्षेत्रात तज्ज्ञ तयार करतात?",
+      "options": [
+        { "option_id": 1, "text": "अंतराळ संशोधन", "is_correct": false },
+        { "option_id": 2, "text": "संरक्षण तंत्रज्ञान", "is_correct": false },
+        { "option_id": 3, "text": "व्यवस्थापन क्षेत्र", "is_correct": true },
+        { "option_id": 4, "text": "सायकल उत्पादन", "is_correct": false }
+      ],
+      "answer": "व्यवस्थापन क्षेत्र"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "स्पीड पोस्ट सेवा कोणत्या विभागाने सुरू केली?",
+      "options": [
+        { "option_id": 1, "text": "रेल्वे विभाग", "is_correct": false },
+        { "option_id": 2, "text": "टपाल विभाग", "is_correct": true },
+        { "option_id": 3, "text": "वाहन उद्योग मंत्रालय", "is_correct": false },
+        { "option_id": 4, "text": "वस्त्रोद्योग मंत्रालय", "is_correct": false }
+      ],
+      "answer": "टपाल विभाग"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भारताची पहिली दूरसंचार उपग्रह सेवा कोणत्या उपग्रहामुळे सुरू झाली?",
+      "options": [
+        { "option_id": 1, "text": "APPLE", "is_correct": true },
+        { "option_id": 2, "text": "आर्यभट्ट", "is_correct": false },
+        { "option_id": 3, "text": "भास्कर-१", "is_correct": false },
+        { "option_id": 4, "text": "ध्रुव", "is_correct": false }
+      ],
+      "answer": "APPLE"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भारताच्या ग्रामीण भागातील प्रमुख व्यवसाय कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाहन उद्योग", "is_correct": false },
+        { "option_id": 2, "text": "शेती", "is_correct": true },
+        { "option_id": 3, "text": "सिमेंट उद्योग", "is_correct": false },
+        { "option_id": 4, "text": "हस्तशिल्प", "is_correct": false }
+      ],
+      "answer": "शेती"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भारताने कोणत्या वर्षापासून निर्यातीला चालना देण्याचे धोरण स्वीकारले?",
+      "options": [
+        { "option_id": 1, "text": "स्वातंत्र्यानंतर लगेच", "is_correct": true },
+        { "option_id": 2, "text": "१९९० नंतर", "is_correct": false },
+        { "option_id": 3, "text": "१९६० च्या दशकात", "is_correct": false },
+        { "option_id": 4, "text": "१९८० नंतर", "is_correct": false }
+      ],
+      "answer": "स्वातंत्र्यानंतर लगेच"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "दिल्ली हाट सारखी मार्केट यंत्रणा कशासाठी सुरू करण्यात आली?",
+      "options": [
+        { "option_id": 1, "text": "खनिज निर्यात", "is_correct": false },
+        { "option_id": 2, "text": "हस्तशिल्प कारागिरांना बाजारपेठ उपलब्ध करून देणे", "is_correct": true },
+        { "option_id": 3, "text": "वाहन उद्योग विकास", "is_correct": false },
+        { "option_id": 4, "text": "सायकल उत्पादन", "is_correct": false }
+      ],
+      "answer": "हस्तशिल्प कारागिरांना बाजारपेठ उपलब्ध करून देणे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सायकल उत्पादनात भारत कोणत्या राज्यात प्रमुख आहे?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "पंजाब व तमिळनाडू", "is_correct": true },
+        { "option_id": 3, "text": "कर्नाटक", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिम बंगाल", "is_correct": false }
+      ],
+      "answer": "पंजाब व तमिळनाडू"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भारतातील मीठ उद्योग कोणत्या प्रकारचे वार्षिक उत्पादन करतो?",
+      "options": [
+        { "option_id": 1, "text": "६० लाख टन", "is_correct": false },
+        { "option_id": 2, "text": "२०० लाख टन", "is_correct": true },
+        { "option_id": 3, "text": "१४%", "is_correct": false },
+        { "option_id": 4, "text": "७६० किमी", "is_correct": false }
+      ],
+      "answer": "२०० लाख टन"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "भारत कोणत्या देशांना सायकली निर्यात करतो?",
+      "options": [
+        { "option_id": 1, "text": "जपान", "is_correct": false },
+        { "option_id": 2, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 3, "text": "ऑस्ट्रेलिया", "is_correct": false },
+        { "option_id": 4, "text": "नायजेरिया, मेक्सिको, केनिया, युगांडा, ब्राझील", "is_correct": true }
+      ],
+      "answer": "नायजेरिया, मेक्सिको, केनिया, युगांडा, ब्राझील"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भारत वाहनांची निर्यात किती देशांना करतो?",
+      "options": [
+        { "option_id": 1, "text": "दहा", "is_correct": false },
+        { "option_id": 2, "text": "वीस", "is_correct": false },
+        { "option_id": 3, "text": "चाळीस", "is_correct": true },
+        { "option_id": 4, "text": "पन्नास", "is_correct": false }
+      ],
+      "answer": "चाळीस"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "NPCIL संस्था कोणत्या क्षेत्राशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाहन उद्योग", "is_correct": false },
+        { "option_id": 2, "text": "अणु ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "वस्त्रोद्योग", "is_correct": false },
+        { "option_id": 4, "text": "पर्यटन", "is_correct": false }
+      ],
+      "answer": "अणु ऊर्जा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "लोह व दगडी कोळसा या खनिजांचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "पर्यटन विकास", "is_correct": false },
+        { "option_id": 2, "text": "औद्योगिक विकास", "is_correct": true },
+        { "option_id": 3, "text": "सायकल उत्पादन", "is_correct": false },
+        { "option_id": 4, "text": "मीठ उत्पादन", "is_correct": false }
+      ],
+      "answer": "औद्योगिक विकास"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "ताग उद्योगात भारत कोणत्या स्थानावर आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्रमुख देश आहे", "is_correct": true },
+        { "option_id": 2, "text": "कमी उत्पादन करणारा", "is_correct": false },
+        { "option_id": 3, "text": "आयातप्रधान", "is_correct": false },
+        { "option_id": 4, "text": "अप्रगत", "is_correct": false }
+      ],
+      "answer": "प्रमुख देश आहे"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "स्वातंत्र्यानंतर भारताच्या आयातीत कोणत्या वस्तूंचा समावेश होता?",
+      "options": [
+        { "option_id": 1, "text": "यंत्रसामग्री, लोखंड, खनिज तेल, खते, औषधे", "is_correct": true },
+        { "option_id": 2, "text": "फक्त चहा व कॉफी", "is_correct": false },
+        { "option_id": 3, "text": "केवळ सायकली", "is_correct": false },
+        { "option_id": 4, "text": "हस्तशिल्प वस्तू", "is_correct": false }
+      ],
+      "answer": "यंत्रसामग्री, लोखंड, खनिज तेल, खते, औषधे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भारताच्या निर्यातीत कोणत्या वस्तूंचा समावेश होतो?",
+      "options": [
+        { "option_id": 1, "text": "चहा, कॉफी, मसाले, सुती कापड, चामडे", "is_correct": true },
+        { "option_id": 2, "text": "खनिज तेल", "is_correct": false },
+        { "option_id": 3, "text": "रेल्वे इंजिन", "is_correct": false },
+        { "option_id": 4, "text": "सिमेंट", "is_correct": false }
+      ],
+      "answer": "चहा, कॉफी, मसाले, सुती कापड, चामडे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "दिल्ली हाट यंत्रणा कोणत्या शहरात उपलब्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "चेन्नई", "is_correct": false },
+        { "option_id": 2, "text": "कोलकता", "is_correct": false },
+        { "option_id": 3, "text": "मुंबई", "is_correct": true },
+        { "option_id": 4, "text": "कोची", "is_correct": false }
+      ],
+      "answer": "मुंबई"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "खनिज तेल उद्योग कोणत्या विकासासाठी महत्त्वाचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "दूरसंचार", "is_correct": false },
+        { "option_id": 2, "text": "औद्योगिक ऊर्जा आणि वाहतूक", "is_correct": true },
+        { "option_id": 3, "text": "हस्तशिल्प", "is_correct": false },
+        { "option_id": 4, "text": "खादी उद्योग", "is_correct": false }
+      ],
+      "answer": "औद्योगिक ऊर्जा आणि वाहतूक"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सायकल उद्योगाचे प्रमुख केंद्र कोणते शहर आहे?",
+      "options": [
+        { "option_id": 1, "text": "अमरावती", "is_correct": false },
+        { "option_id": 2, "text": "लुधियाना", "is_correct": true },
+        { "option_id": 3, "text": "मुंबई", "is_correct": false },
+        { "option_id": 4, "text": "पुणे", "is_correct": false }
+      ],
+      "answer": "लुधियाना"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "भारताच्या औद्योगिक उत्पादनात वस्त्रोद्योगाचा वाटा किती टक्के आहे?",
+      "options": [
+        { "option_id": 1, "text": "१०%", "is_correct": false },
+        { "option_id": 2, "text": "१४%", "is_correct": true },
+        { "option_id": 3, "text": "७०%", "is_correct": false },
+        { "option_id": 4, "text": "२५%", "is_correct": false }
+      ],
+      "answer": "१४%"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "ताग उद्योगात भारत कशापासून वस्तू तयार करतो?",
+      "options": [
+        { "option_id": 1, "text": "कापूस", "is_correct": false },
+        { "option_id": 2, "text": "ताग", "is_correct": true },
+        { "option_id": 3, "text": "रेशीम", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "ताग"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "रेशीम उद्योगाचा प्रसार कोणत्या राज्यांत केला जात आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ पंजाब", "is_correct": false },
+        { "option_id": 2, "text": "आदिवासीबहुल राज्यांत", "is_correct": true },
+        { "option_id": 3, "text": "फक्त गुजरात", "is_correct": false },
+        { "option_id": 4, "text": "फक्त महाराष्ट्र", "is_correct": false }
+      ],
+      "answer": "आदिवासीबहुल राज्यांत"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "IIT संस्था कोणत्या प्रकारचे शिक्षण देतात?",
+      "options": [
+        { "option_id": 1, "text": "कला शिक्षण", "is_correct": false },
+        { "option_id": 2, "text": "तांत्रिक शिक्षण", "is_correct": true },
+        { "option_id": 3, "text": "व्यापार शिक्षण", "is_correct": false },
+        { "option_id": 4, "text": "कृषी शिक्षण", "is_correct": false }
+      ],
+      "answer": "तांत्रिक शिक्षण"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कोकण रेल्वे मार्ग कोणत्या किनारपट्टीवरील वाहतूक सुलभ करतो?",
+      "options": [
+        { "option_id": 1, "text": "पूर्व किनारपट्टी", "is_correct": false },
+        { "option_id": 2, "text": "पश्चिम किनारपट्टी", "is_correct": true },
+        { "option_id": 3, "text": "दक्षिण किनारपट्टी", "is_correct": false },
+        { "option_id": 4, "text": "उत्तर किनारपट्टी", "is_correct": false }
+      ],
+      "answer": "पश्चिम किनारपट्टी"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "मेगा क्लस्टर योजना कोणासाठी उपयुक्त आहे?",
+      "options": [
+        { "option_id": 1, "text": "सायकल उत्पादक", "is_correct": false },
+        { "option_id": 2, "text": "विणकर आणि कारागीर", "is_correct": true },
+        { "option_id": 3, "text": "पर्यटक", "is_correct": false },
+        { "option_id": 4, "text": "वाहन निर्यातदार", "is_correct": false }
+      ],
+      "answer": "विणकर आणि कारागीर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "लुधियाना हे शहर कोणत्या राज्यात आहे?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "हरियाणा", "is_correct": false },
+        { "option_id": 3, "text": "पंजाब", "is_correct": true },
+        { "option_id": 4, "text": "तमिळनाडू", "is_correct": false }
+      ],
+      "answer": "पंजाब"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "भारत सायकलींची निर्यात कोणत्या खंडात मोठ्या प्रमाणावर करतो?",
+      "options": [
+        { "option_id": 1, "text": "युरोप", "is_correct": false },
+        { "option_id": 2, "text": "आशिया", "is_correct": false },
+        { "option_id": 3, "text": "आफ्रिका", "is_correct": true },
+        { "option_id": 4, "text": "ऑस्ट्रेलिया", "is_correct": false }
+      ],
+      "answer": "आफ्रिका"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "भारताच्या सिमेंट उद्योगाचा उपयोग कोणत्या विकासात होतो?",
+      "options": [
+        { "option_id": 1, "text": "गृहनिर्माण", "is_correct": true },
+        { "option_id": 2, "text": "अंतराळ संशोधन", "is_correct": false },
+        { "option_id": 3, "text": "मत्स्योद्योग", "is_correct": false },
+        { "option_id": 4, "text": "सायकल उद्योग", "is_correct": false }
+      ],
+      "answer": "गृहनिर्माण"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "भारत सरकारने चौथ्या पंचवार्षिक योजनेत कोणत्या उद्योगांवर लक्ष केंद्रित केले?",
+      "options": [
+        { "option_id": 1, "text": "कागद उद्योग व औषध उद्योग", "is_correct": true },
+        { "option_id": 2, "text": "फक्त सायकल उद्योग", "is_correct": false },
+        { "option_id": 3, "text": "फक्त वाहन उद्योग", "is_correct": false },
+        { "option_id": 4, "text": "पर्यटन उद्योग व मीठ उद्योग", "is_correct": false }
+      ],
+      "answer": "कागद उद्योग व औषध उद्योग"
+    },
+    
+{ "question_id": 51, "question_type": "SHORT", "question": "उद्योग म्हणजे काय?", "answer": "उद्योग म्हणजे कच्च्या मालावर प्रक्रिया करून वस्तूंचे उत्पादन करणारी आर्थिक क्रिया होय." },
+{ "question_id": 52, "question_type": "SHORT", "question": "व्यापार म्हणजे काय?", "answer": "व्यापार म्हणजे उत्पादित वस्तूंची खरेदी आणि विक्री करण्याची प्रक्रिया होय." },
+{ "question_id": 53, "question_type": "SHORT", "question": "भारतातील औद्योगिक विकास का आवश्यक आहे?", "answer": "रोजगार निर्मिती आणि आर्थिक प्रगतीसाठी भारतातील औद्योगिक विकास आवश्यक आहे." },
+{ "question_id": 54, "question_type": "SHORT", "question": "श्रमप्रधान उद्योग कोणते?", "answer": "ज्या उद्योगात मोठ्या प्रमाणावर मनुष्यबळ लागते त्यांना श्रमप्रधान उद्योग म्हणतात." },
+{ "question_id": 55, "question_type": "SHORT", "question": "भांडवलप्रधान उद्योग म्हणजे काय?", "answer": "ज्या उद्योगात यंत्रसामग्री आणि गुंतवणूक जास्त लागते त्यांना भांडवलप्रधान उद्योग म्हणतात." },
+{ "question_id": 56, "question_type": "SHORT", "question": "वस्त्रोद्योगाचा अर्थव्यवस्थेतील वाटा किती आहे?", "answer": "भारताच्या औद्योगिक उत्पादनात वस्त्रोद्योगाचा वाटा सुमारे १४ टक्के आहे." },
+{ "question_id": 57, "question_type": "SHORT", "question": "हातमाग उद्योग का महत्त्वाचा आहे?", "answer": "हातमाग उद्योगामुळे ग्रामीण भागात मोठ्या प्रमाणावर रोजगार उपलब्ध होतो." },
+{ "question_id": 58, "question_type": "SHORT", "question": "ताग उद्योग कोणत्या मालावर आधारित आहे?", "answer": "ताग उद्योग हा ताग या कच्च्या मालावर आधारित आहे." },
+{ "question_id": 59, "question_type": "SHORT", "question": "चर्मोद्योग कोणत्या प्रकारचा उद्योग आहे?", "answer": "चर्मोद्योग हा निर्याताभिमुख उद्योग मानला जातो." },
+{ "question_id": 60, "question_type": "SHORT", "question": "मीठ उद्योगाचे महत्त्व कोणते?", "answer": "मीठ उद्योगामुळे खाद्यप्रक्रिया आणि रासायनिक उद्योगांना कच्चा माल मिळतो." },
+{ "question_id": 61, "question_type": "SHORT", "question": "भारतातील प्रमुख सायकल उत्पादन केंद्र कोणते?", "answer": "भारतातील प्रमुख सायकल उत्पादन केंद्र लुधियाना आहे." },
+{ "question_id": 62, "question_type": "SHORT", "question": "क्षेपणास्त्र विकास कार्यक्रमामुळे काय साध्य झाले?", "answer": "क्षेपणास्त्र विकास कार्यक्रमामुळे भारताची संरक्षण क्षमता वाढली." },
+{ "question_id": 63, "question_type": "SHORT", "question": "ISRO संस्थेचे मुख्य कार्य काय आहे?", "answer": "ISRO संस्थेचे मुख्य कार्य अवकाश संशोधन व उपग्रह प्रक्षेपण करणे आहे." },
+{ "question_id": 64, "question_type": "SHORT", "question": "INSAT प्रणालीचा लाभ कोणता?", "answer": "INSAT प्रणालीमुळे देशातील दूरसंचार सेवा अधिक सक्षम झाल्या." },
+{ "question_id": 65, "question_type": "SHORT", "question": "पिनकोड प्रणाली कशासाठी वापरली जाते?", "answer": "पिनकोड प्रणाली टपाल वर्गीकरण व वितरण सुलभ करण्यासाठी वापरली जाते." },
+{ "question_id": 66, "question_type": "SHORT", "question": "भारताने निर्यातीचे धोरण केव्हा स्वीकारले?", "answer": "भारताने स्वातंत्र्यानंतर लगेच निर्यातीचे धोरण स्वीकारले." },
+{ "question_id": 67, "question_type": "SHORT", "question": "दिल्ली हाट यंत्रणेचे उद्दिष्ट काय आहे?", "answer": "दिल्ली हाट यंत्रणेचे उद्दिष्ट हस्तशिल्प कारागिरांना बाजारपेठ उपलब्ध करून देणे आहे." },
+{ "question_id": 68, "question_type": "SHORT", "question": "वाहन उद्योगाला सनराईज क्षेत्र का म्हणतात?", "answer": "वाहन उद्योग वेगाने वाढत असल्याने त्याला सनराईज क्षेत्र म्हणतात." },
+{ "question_id": 69, "question_type": "SHORT", "question": "भारत कोणत्या देशांना सायकली निर्यात करतो?", "answer": "भारत आफ्रिका आणि लॅटिन अमेरिका खंडातील अनेक देशांना सायकली निर्यात करतो." },
+{ "question_id": 70, "question_type": "SHORT", "question": "औद्योगिक वित्त महामंडळाची स्थापना केव्हा झाली?", "answer": "भारतीय औद्योगिक वित्त महामंडळाची स्थापना १९४८ साली झाली." },
+
+{ "question_id": 71, "question_type": "SHORT", "question": "औद्योगिक विकास महामंडळ म्हणजे काय?", "answer": "औद्योगिक प्रकल्पांना चालना देणारी संस्था म्हणजे भारतीय औद्योगिक विकास महामंडळ." },
+{ "question_id": 72, "question_type": "SHORT", "question": "कोकण रेल्वे मार्ग किती राज्यांतून जातो?", "answer": "कोकण रेल्वे मार्ग महाराष्ट्रासह एकूण चार राज्यांतून जातो." },
+{ "question_id": 73, "question_type": "SHORT", "question": "कोकण रेल्वे मार्गावर किती बोगदे आहेत?", "answer": "कोकण रेल्वे मार्गावर एकूण ९२ बोगदे आहेत." },
+{ "question_id": 74, "question_type": "SHORT", "question": "कोकण रेल्वे केव्हा सुरू झाली?", "answer": "कोकण रेल्वे १९९८ साली प्रवाशांसाठी सुरू झाली." },
+{ "question_id": 75, "question_type": "SHORT", "question": "खनिजांवर आधारित उद्योग कोणते?", "answer": "लोह, कोळसा आणि खनिज तेल यांवर आधारित अनेक मोठे उद्योग भारतात चालतात." },
+{ "question_id": 76, "question_type": "SHORT", "question": "वनसंपत्तीवर आधारित उद्योग कोणते?", "answer": "कागद उद्योग आणि औषधी वनस्पती उद्योग हे वनसंपत्तीवर आधारित उद्योग आहेत." },
+{ "question_id": 77, "question_type": "SHORT", "question": "कोठारी आयोगाच्या शिफारशी कोणत्या होत्या?", "answer": "१०+२+३ आकृतिबंध आणि समान शिक्षण संधी या कोठारी आयोगाच्या प्रमुख शिफारशी होत्या." },
+{ "question_id": 78, "question_type": "SHORT", "question": "ब्रेन ड्रेनमुळे कोणती समस्या निर्माण होते?", "answer": "ब्रेन ड्रेनमुळे कुशल मनुष्यबळ देशाबाहेर जाते आणि विकासावर परिणाम होतो." },
+{ "question_id": 79, "question_type": "SHORT", "question": "उद्योगांचा प्रादेशिक समतोल का महत्त्वाचा आहे?", "answer": "उद्योगांचा प्रादेशिक समतोल राखल्यास सर्व राज्यांचा समान विकास होतो." },
+{ "question_id": 80, "question_type": "SHORT", "question": "ग्रामीण औद्योगिकीकरणाचे लाभ कोणते?", "answer": "ग्रामीण औद्योगिकीकरणामुळे रोजगार वाढतो आणि स्थलांतर कमी होते." },
+
+{ "question_id": 81, "question_type": "SHORT", "question": "लघुउद्योग म्हणजे काय?", "answer": "कमी भांडवलावर चालणारे आणि स्थानिक स्तरावर रोजगार देणारे उद्योग म्हणजे लघुउद्योग." },
+{ "question_id": 82, "question_type": "SHORT", "question": "मोठे उद्योग कोणत्या मालावर आधारित असतात?", "answer": "मोठे उद्योग प्रामुख्याने भांडवल आणि यंत्रसामग्रीवर आधारित असतात." },
+{ "question_id": 83, "question_type": "SHORT", "question": "निर्याताभिमुख उद्योगांचे महत्त्व काय आहे?", "answer": "निर्याताभिमुख उद्योग परकीय चलन मिळवून देतात म्हणून ते महत्त्वाचे आहेत." },
+{ "question_id": 84, "question_type": "SHORT", "question": "मत्स्योद्योगाचा अर्थव्यवस्थेत कसा सहभाग आहे?", "answer": "मत्स्योद्योग अन्नपुरवठा आणि रोजगार निर्मितीत महत्त्वाचा सहभाग देतो." },
+{ "question_id": 85, "question_type": "SHORT", "question": "औद्योगिक धोरणाचा उद्देश काय असतो?", "answer": "औद्योगिक धोरणाचा उद्देश उत्पादनवाढ आणि रोजगारनिर्मिती हा असतो." },
+{ "question_id": 86, "question_type": "SHORT", "question": "आधुनिक तंत्रज्ञान उद्योगांसाठी का आवश्यक आहे?", "answer": "आधुनिक तंत्रज्ञानामुळे उद्योग अधिक उत्पादक आणि स्पर्धात्मक होतात." },
+{ "question_id": 87, "question_type": "SHORT", "question": "भारतातील तंत्रज्ञान शिक्षणाचे केंद्र कोणते?", "answer": "IIT संस्था भारतातील तंत्रज्ञान शिक्षणाचे प्रमुख केंद्र आहेत." },
+{ "question_id": 88, "question_type": "SHORT", "question": "व्यापाराचा राष्ट्रीय विकासात कसा सहभाग असतो?", "answer": "व्यापारामुळे वस्तू सर्वत्र पोहोचतात आणि बाजारपेठा विकसित होतात." },
+{ "question_id": 89, "question_type": "SHORT", "question": "मीठ उत्पादनासाठी कोणत्या पद्धती वापरतात?", "answer": "मीठ उत्पादनासाठी समुद्रपाण्याचे बाष्पीभवन ही प्रमुख पद्धत वापरतात." },
+{ "question_id": 90, "question_type": "SHORT", "question": "ताग उद्योगाचे प्रमुख केंद्र कोणते?", "answer": "ताग उद्योगाचे प्रमुख केंद्र पश्चिम बंगाल आहे." },
+
+{ "question_id": 91, "question_type": "SHORT", "question": "कोकण रेल्वे प्रकल्पाचे वैशिष्ट्य कोणते?", "answer": "अत्यंत कठीण भौगोलिक प्रदेशातून तयार झालेला मार्ग हे कोकण रेल्वेचे वैशिष्ट्य आहे." },
+{ "question_id": 92, "question_type": "SHORT", "question": "औद्योगिक क्षेत्र आणि सेवा क्षेत्र यांचा फरक कोणता?", "answer": "औद्योगिक क्षेत्र उत्पादन करते तर सेवा क्षेत्र सुविधा पुरवते." },
+{ "question_id": 93, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा कोणत्या कारणाने सुरू झाली?", "answer": "टपाल जलद वितरण करण्याच्या गरजेमुळे स्पीड पोस्ट सेवा सुरू झाली." },
+{ "question_id": 94, "question_type": "SHORT", "question": "ISRO संस्थेमुळे कोणते लाभ झाले?", "answer": "ISRO मुळे भारताची अवकाश संशोधन क्षमता वाढली." },
+{ "question_id": 95, "question_type": "SHORT", "question": "IIT संस्थांचा उद्देश काय आहे?", "answer": "उच्च तांत्रिक मनुष्यबळ तयार करणे हा IIT संस्थांचा उद्देश आहे." },
+{ "question_id": 96, "question_type": "SHORT", "question": "IIM संस्थांचे महत्त्व कोणते?", "answer": "कुशल व्यवस्थापक तयार करणे हे IIM संस्थांचे महत्त्व आहे." },
+{ "question_id": 97, "question_type": "SHORT", "question": "ब्रेन ड्रेन म्हणजे कोणती समस्या?", "answer": "उच्च शिक्षित लोक परदेशात स्थायिक होणे ही ब्रेन ड्रेन समस्या आहे." },
+{ "question_id": 98, "question_type": "SHORT", "question": "वनसंपत्तीवर आधारित उद्योग कोणते?", "answer": "कागद आणि औषधी वनस्पती उद्योग वनसंपत्तीवर आधारित आहेत." },
+{ "question_id": 99, "question_type": "SHORT", "question": "खनिजांवर आधारित उद्योगांची उदाहरणे द्या.", "answer": "लोह उद्योग आणि खनिज तेल उद्योग ही खनिजांवर आधारित उदाहरणे आहेत." },
+{ "question_id": 100, "question_type": "SHORT", "question": "ग्रामीण उद्योगांचे मुख्य लाभ कोणते?", "answer": "ग्रामीण उद्योग रोजगार आणि स्थानिक विकासाला मदत करतात." },
+
+{ "question_id": 101, "question_type": "SHORT", "question": "कोकण रेल्वे मार्गावर किती मोठे पूल आहेत?", "answer": "कोकण रेल्वे मार्गावर सुमारे १७९ मोठे पूल आहेत." },
+{ "question_id": 102, "question_type": "SHORT", "question": "भारताचा सायकल उत्पादनातील वाटा कसा आहे?", "answer": "भारत हा जगातील प्रमुख सायकल उत्पादक देशांपैकी एक आहे." },
+{ "question_id": 103, "question_type": "SHORT", "question": "मीठ उद्योगाचे वार्षिक उत्पादन सुमारे किती आहे?", "answer": "भारतातील मीठ उद्योगाचे वार्षिक उत्पादन सुमारे २०० लाख टन आहे." },
+{ "question_id": 104, "question_type": "SHORT", "question": "मत्स्योद्योगामुळे कोणता लाभ होतो?", "answer": "मत्स्योद्योगामुळे अन्नपुरवठा वाढतो आणि रोजगार मिळतो." },
+{ "question_id": 105, "question_type": "SHORT", "question": "INSAT प्रणाली कशासाठी उपयुक्त आहे?", "answer": "INSAT प्रणाली दूरसंचार आणि प्रसारण सेवेसाठी उपयुक्त आहे." },
+{ "question_id": 106, "question_type": "SHORT", "question": "DRDO संस्था कोणत्या क्षेत्रात काम करते?", "answer": "DRDO संस्था संरक्षण तंत्रज्ञान विकास क्षेत्रात काम करते." },
+{ "question_id": 107, "question_type": "SHORT", "question": "IIT संस्था कोणत्या शिक्षणात मदत करतात?", "answer": "IIT संस्था तांत्रिक आणि अभियांत्रिकी शिक्षणात मदत करतात." },
+{ "question_id": 108, "question_type": "SHORT", "question": "IIM संस्था कोणत्या क्षेत्रात योगदान देतात?", "answer": "IIM संस्था व्यवस्थापन शिक्षण क्षेत्रात योगदान देतात." },
+{ "question_id": 109, "question_type": "SHORT", "question": "ग्रामीण औद्योगिकीकरणाचा उद्देश काय आहे?", "answer": "ग्रामीण औद्योगिकीकरणाचा उद्देश रोजगार वाढवणे हा आहे." },
+{ "question_id": 110, "question_type": "SHORT", "question": "ब्रेन ड्रेनमुळे कोणता परिणाम होतो?", "answer": "ब्रेन ड्रेनमुळे देशातील कुशल मनुष्यबळ कमी होते." },
+
+{ "question_id": 111, "question_type": "SHORT", "question": "ताग उद्योग कोणत्या प्रकारचा उद्योग आहे?", "answer": "ताग उद्योग हा श्रमप्रधान आणि निर्याताभिमुख उद्योग आहे." },
+{ "question_id": 112, "question_type": "SHORT", "question": "सायकल उद्योगाचे प्रमुख केंद्र कोणते?", "answer": "सायकल उद्योगाचे प्रमुख केंद्र लुधियाना आहे." },
+{ "question_id": 113, "question_type": "SHORT", "question": "मीठ उद्योग कोणत्या मालावर आधारित आहे?", "answer": "मीठ उद्योग समुद्रपाण्यावर आधारित आहे." },
+{ "question_id": 114, "question_type": "SHORT", "question": "मत्स्योद्योग कोणत्या भागात विकसित होतो?", "answer": "मत्स्योद्योग किनारपट्टी भागात विकसित होतो." },
+{ "question_id": 115, "question_type": "SHORT", "question": "INSAT प्रणाली कोणत्या वर्षी सुरू झाली?", "answer": "INSAT प्रणाली १९८१ साली सुरू झाली." },
+{ "question_id": 116, "question_type": "SHORT", "question": "NPCIL संस्था कोणत्या क्षेत्राशी संबंधित आहे?", "answer": "NPCIL संस्था अणु ऊर्जा क्षेत्राशी संबंधित आहे." },
+{ "question_id": 117, "question_type": "SHORT", "question": "वनसंपत्तीवर आधारित उद्योगांचे उदाहरण द्या.", "answer": "कागद उद्योग हे वनसंपत्तीवर आधारित उदाहरण आहे." },
+{ "question_id": 118, "question_type": "SHORT", "question": "ब्रेन ड्रेन म्हणजे काय?", "answer": "ब्रेन ड्रेन म्हणजे उच्च शिक्षित लोक परदेशात जाणे होय." },
+{ "question_id": 119, "question_type": "SHORT", "question": "ग्रामीण उद्योगांसाठी कोणत्या योजना उपयुक्त आहेत?", "answer": "खादी व ग्रामोद्योग आयोगाच्या योजना ग्रामीण उद्योगांसाठी उपयुक्त आहेत." },
+{ "question_id": 120, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा कोणत्या विभागाशी संबंधित आहे?", "answer": "स्पीड पोस्ट सेवा भारतीय टपाल विभागाशी संबंधित आहे." },
+
+{ "question_id": 121, "question_type": "SHORT", "question": "कोकण रेल्वे मार्ग का महत्त्वाचा आहे?", "answer": "कोकण रेल्वे मार्गामुळे पश्चिम किनारपट्टीवरील वाहतूक सुलभ झाली." },
+{ "question_id": 122, "question_type": "SHORT", "question": "भारत वाहनांची निर्यात कोणत्या क्षेत्रात करतो?", "answer": "भारत वाहनांची निर्यात आंतरराष्ट्रीय व्यापार क्षेत्रात करतो." },
+{ "question_id": 123, "question_type": "SHORT", "question": "मीठ उद्योगाचे उत्पादन कोणत्या राज्यांत होते?", "answer": "महाराष्ट्र, गुजरात आणि तमिळनाडू या राज्यांत मीठ उत्पादन होते." },
+{ "question_id": 124, "question_type": "SHORT", "question": "मत्स्योद्योगाचा प्रमुख लाभार्थी कोण?", "answer": "मत्स्योद्योगाचे प्रमुख लाभार्थी ग्रामीण आणि किनारपट्टी भागातील लोक आहेत." },
+{ "question_id": 125, "question_type": "SHORT", "question": "INSAT प्रणालीमुळे शिक्षण प्रसार कसा झाला?", "answer": "INSAT प्रणालीमुळे दूरदर्शनवरील शैक्षणिक कार्यक्रम प्रसारित करणे शक्य झाले." },
+{ "question_id": 126, "question_type": "SHORT", "question": "NPCIL संस्थेमुळे कोणता लाभ होतो?", "answer": "NPCIL संस्थेमुळे अणु विद्युत निर्मिती वाढते." },
+{ "question_id": 127, "question_type": "SHORT", "question": "ब्रेन ड्रेन रोखण्यासाठी काय आवश्यक आहे?", "answer": "ब्रेन ड्रेन रोखण्यासाठी देशात योग्य संधी उपलब्ध करणे आवश्यक आहे." },
+{ "question_id": 128, "question_type": "SHORT", "question": "कोकण रेल्वे मार्गावर किती छोटे पूल आहेत?", "answer": "कोकण रेल्वे मार्गावर सुमारे १८१९ छोटे पूल आहेत." },
+{ "question_id": 129, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा केव्हा सुरू झाली?", "answer": "स्पीड पोस्ट सेवा १९८६ साली सुरू झाली." },
+{ "question_id": 130, "question_type": "SHORT", "question": "IIT संस्था कोणत्या क्षेत्रात योगदान देतात?", "answer": "IIT संस्था तंत्रज्ञान विकास आणि संशोधन क्षेत्रात योगदान देतात." },
+
+{ "question_id": 131, "question_type": "SHORT", "question": "IIM संस्था कोणत्या क्षेत्रात महत्त्वाच्या आहेत?", "answer": "IIM संस्था व्यवस्थापन शिक्षण आणि उद्योग विकासात महत्त्वाच्या आहेत." },
+{ "question_id": 132, "question_type": "SHORT", "question": "मीठ उद्योग कोणत्या प्रकारचा उद्योग आहे?", "answer": "मीठ उद्योग हा नैसर्गिक संसाधनावर आधारित उद्योग आहे." },
+{ "question_id": 133, "question_type": "SHORT", "question": "मत्स्योद्योग कोणत्या प्रकारचा व्यवसाय आहे?", "answer": "मत्स्योद्योग हा प्राथमिक क्षेत्रातील व्यवसाय आहे." },
+{ "question_id": 134, "question_type": "SHORT", "question": "ब्रेन ड्रेनमुळे कोणता तोटा होतो?", "answer": "ब्रेन ड्रेनमुळे देशातील कुशल मनुष्यबळ कमी होते." },
+{ "question_id": 135, "question_type": "SHORT", "question": "INSAT प्रणाली कशासाठी ओळखली जाते?", "answer": "INSAT प्रणाली दूरसंचार आणि प्रसारणासाठी ओळखली जाते." },
+{ "question_id": 136, "question_type": "SHORT", "question": "NPCIL संस्था कशासाठी कार्य करते?", "answer": "NPCIL संस्था अणु ऊर्जा प्रकल्पांचे व्यवस्थापन करते." },
+{ "question_id": 137, "question_type": "SHORT", "question": "IIT संस्थांचे मुख्य कार्य कोणते?", "answer": "IIT संस्थांचे मुख्य कार्य तांत्रिक शिक्षण देणे आहे." },
+{ "question_id": 138, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा कोणत्या उद्देशाने सुरू झाली?", "answer": "टपाल जलद वितरण करण्याच्या उद्देशाने स्पीड पोस्ट सेवा सुरू झाली." },
+{ "question_id": 139, "question_type": "SHORT", "question": "मत्स्योद्योगामुळे कोणती सुधारणा होते?", "answer": "मत्स्योद्योगामुळे स्थानिक रोजगार आणि अन्नपुरवठा सुधारतो." },
+{ "question_id": 140, "question_type": "SHORT", "question": "मीठ उत्पादनासाठी कोणती पद्धत वापरतात?", "answer": "समुद्रपाण्याचे बाष्पीभवन करून मीठ उत्पादन करतात." },
+
+{ "question_id": 141, "question_type": "SHORT", "question": "ब्रेन ड्रेन समस्या कोणत्या शिक्षणाशी संबंधित आहे?", "answer": "ब्रेन ड्रेन समस्या उच्च शिक्षणाशी संबंधित आहे." },
+{ "question_id": 142, "question_type": "SHORT", "question": "INSAT प्रणालीमुळे कोणते कार्यक्रम प्रसारित होतात?", "answer": "INSAT प्रणालीमुळे शैक्षणिक आणि माहितीपर कार्यक्रम प्रसारित होतात." },
+{ "question_id": 143, "question_type": "SHORT", "question": "NPCIL संस्थेमुळे कोणती ऊर्जा निर्मिती होते?", "answer": "NPCIL संस्थेमुळे अणु विद्युत ऊर्जा निर्मिती होते." },
+{ "question_id": 144, "question_type": "SHORT", "question": "IIT संस्थांचे विद्यार्थी कोठे काम करतात?", "answer": "IIT संस्थांचे विद्यार्थी मोठ्या तंत्रज्ञान संस्थांत काम करतात." },
+{ "question_id": 145, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा कोणत्या विभागाची आहे?", "answer": "स्पीड पोस्ट सेवा टपाल विभागाची आहे." },
+{ "question_id": 146, "question_type": "SHORT", "question": "मीठ उद्योगाचे उत्पादन कोणत्या भागात होते?", "answer": "मीठ उद्योगाचे उत्पादन किनारपट्टी भागात होते." },
+{ "question_id": 147, "question_type": "SHORT", "question": "मत्स्योद्योगाचा मुख्य उद्देश काय आहे?", "answer": "मत्स्योद्योगाचा मुख्य उद्देश मासे उत्पादन वाढवणे हा आहे." },
+{ "question_id": 148, "question_type": "SHORT", "question": "ब्रेन ड्रेन रोखण्यासाठी कोणते उपाय आवश्यक आहेत?", "answer": "देशात योग्य रोजगार संधी उपलब्ध करणे हा उपाय आवश्यक आहे." },
+{ "question_id": 149, "question_type": "SHORT", "question": "INSAT प्रणालीमुळे कोणता लाभ होतो?", "answer": "INSAT प्रणालीमुळे देशभर संपर्क सुलभ होतो." },
+{ "question_id": 150, "question_type": "SHORT", "question": "IIM संस्थांमुळे कोणते कौशल्य विकसित होते?", "answer": "IIM संस्थांमुळे व्यवस्थापन कौशल्य विकसित होते." }
+
+
+  ]
+}
+

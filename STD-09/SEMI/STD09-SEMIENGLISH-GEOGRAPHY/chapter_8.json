@@ -1,0 +1,1591 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.08",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "अर्थशास्त्राशी परिचय"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "अर्थशास्त्र ही संज्ञा कोणत्या ग्रीक शब्दापासून बनली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Economy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oikonomia",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Eikos",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nomos",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oikonomia"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Oikonomia या शब्दाचा अर्थ काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कौटुंबिक व्यवस्थापन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादन खर्च",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जागतिक व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सरकारी तिजोरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कौटुंबिक व्यवस्थापन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अर्थशास्त्राचे जनक कोणाला मानले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लिओनेल रॉबिन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अमर्त्य सेन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अॅडम स्मिथ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अरिस्टॉटल",
+          "is_correct": false
+        }
+      ],
+      "answer": "अॅडम स्मिथ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अॅडम स्मिथ यांनी अर्थशास्त्राची कोणती व्याख्या केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्याणकारी शास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संपत्तीचे शास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्मिळतेचे शास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्पादनाचे शास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "संपत्तीचे शास्त्र"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'वेल्थ ऑफ नेशन्स' (Wealth of Nations) हा ग्रंथ कोणत्या वर्षी प्रकाशित झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१७५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१७८६",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१७७६",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१८७६",
+          "is_correct": false
+        }
+      ],
+      "answer": "१७७६"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भांडवलशाही अर्थव्यवस्थेत उत्पादनाच्या साधनांची मालकी कोणाकडे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खासगी व्यक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सहकारी संस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "खासगी व्यक्ती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भांडवलशाही अर्थव्यवस्थेचा मुख्य हेतू काय असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समाजकल्याण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमाल नफा मिळवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गरिबांना मदत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समान वाटप",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमाल नफा मिळवणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या देशाने भांडवलशाही अर्थव्यवस्था स्वीकारली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अमेरिकेची संयुक्त संस्थाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रशिया",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमेरिकेची संयुक्त संस्थाने"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "समाजवादी अर्थव्यवस्थेत उत्पादनाची साधने कोणाच्या मालकीची असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परकीय कंपन्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खासगी व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सरकार (समाज)",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पंचायत",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरकार (समाज)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "समाजवादी अर्थव्यवस्थेचा मुख्य हेतू कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नफा कमवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्पर्धा निर्माण करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सामाजिक कल्याण साधणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खासगी मालमत्ता वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामाजिक कल्याण साधणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या देशात समाजवादी अर्थव्यवस्था आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जपान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वीडन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जर्मनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चीन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मिश्र अर्थव्यवस्थेत कोणत्या दोन क्षेत्रांचे सहअस्तित्व असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शहरी व ग्रामीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थानिक व परकीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सार्वजनिक व खासगी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शेती व उद्योग",
+          "is_correct": false
+        }
+      ],
+      "answer": "सार्वजनिक व खासगी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भारताने कोणत्या प्रकारची अर्थव्यवस्था स्वीकारली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भांडवलशाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समाजवादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मिश्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "साम्यवादी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मिश्र"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मिश्र अर्थव्यवस्थेत कशाचा योग्य सहसंबंध राखला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नफा व सामाजिक कल्याण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त नफा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त निर्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नफा व खासगी मालमत्ता",
+          "is_correct": false
+        }
+      ],
+      "answer": "नफा व सामाजिक कल्याण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "जागतिकीकरण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देशाच्या सीमा बंद करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विदेशी वस्तूंवर बंदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "देशाच्या अर्थव्यवस्थेला जागतिक अर्थव्यवस्थेशी एकरूप करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ शेतीवर लक्ष केंद्रित करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाच्या अर्थव्यवस्थेला जागतिक अर्थव्यवस्थेशी एकरूप करणे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "जागतिकीकरणामध्ये कशाचा प्रवाह मुक्तपणे देशांच्या सीमापार जात असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भांडवल व श्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तंत्रज्ञान व सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नैसर्गिक साधनसंपत्ती व नफा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "अर्थव्यवस्थेची सुरुवात कुठून होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कारखान्यापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घरापासून (कुटुंबापासून)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बँकेपासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बाजारापासून",
+          "is_correct": false
+        }
+      ],
+      "answer": "घरापासून (कुटुंबापासून)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कौटुंबिक व्यवस्थापन हे प्रामुख्याने कोणत्या घटकाशी संबंधित असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पन्न व खर्च",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्पन्न व खर्च"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अर्थशास्त्र हे कोणते शास्त्र आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैसर्गिक शास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सामाजिक विषय/शास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अभियांत्रिकी शास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामाजिक विषय/शास्त्र"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "अमर्याद गरजा आणि मर्यादित साधने यांचा मेळ घालणारे शास्त्र म्हणजे अर्थशास्त्र, ही व्याख्या कोणी केली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अॅडम स्मिथ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अल्फ्रेड मार्शल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिओनेल रॉबिन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अमर्त्य सेन",
+          "is_correct": false
+        }
+      ],
+      "answer": "लिओनेल रॉबिन्स"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अर्थव्यवस्थेच्या प्रमुख कार्यांमध्ये खालीलपैकी कशाचा समावेश होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कोणत्या वस्तूचे किती उत्पादन करायचे याचा निर्णय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादनखर्चात काटकसर करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राष्ट्रीय उत्पन्नाचे न्याय्य वाटप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "स्वीडन आणि युनायटेड किंगडममध्ये कोणती अर्थव्यवस्था आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भांडवलशाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मिश्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समाजवादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "साम्यवादी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मिश्र"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "अर्थव्यवस्थेचा मुख्य प्रयत्न कशाचा मेळ घालण्याचा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गरजा आणि साधने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त पैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या आणि जमीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण आणि आरोग्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "गरजा आणि साधने"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "उत्पादन कोणासाठी करावे हा निर्णय कोण घेते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ ग्राहक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अर्थव्यवस्था",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परकीय देश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ मजूर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थव्यवस्था"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भौगोलिकदृष्ट्या विशिष्ट भूप्रदेशातील उत्पादन, वितरण आणि उपभोग यांच्याशी संबंधित उपक्रम म्हणजे ______ होय.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यवसाय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अर्थव्यवस्था",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रशासन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थव्यवस्था"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "जागतिकीकरणात गुंतवणुकीवरील सर्व ______ काढून टाकली जातात.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंधने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सवलती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फायदे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नियम",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंधने"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते अर्थव्यवस्थेचे वैशिष्ट्य नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राजकीय सार्वभौमत्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नैसर्गिक साधनसामग्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ धार्मिक सण",
+          "is_correct": true
+        }
+      ],
+      "answer": "केवळ धार्मिक सण"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "अर्थशास्त्रामुळे कशाचा प्रभावी वापर कसा करावा हे समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेळ व पैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "श्रम व भूमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "साधने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "मानवाच्या कोणत्या गरजा अर्थव्यवस्थेत भागवल्या जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अमर्याद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काल्पनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ मूलभूत",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमर्याद"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "जागतिकीकरणामुळे कोणती अर्थव्यवस्था निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थानिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वैश्विक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बंदिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रादेशिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वैश्विक"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "भांडवलशाही अर्थव्यवस्थेत नफा मिळवण्यासाठी काय असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुक्त स्पर्धा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारी ताबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निर्बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सहकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्त स्पर्धा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "जर्मनी आणि जपान या देशांनी कोणती अर्थव्यवस्था स्वीकारली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मिश्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समाजवादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडवलशाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "साम्यवादी",
+          "is_correct": false
+        }
+      ],
+      "answer": "भांडवलशाही"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "समाजवादी अर्थव्यवस्थेत केंद्रस्थानी काय असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खासगी हित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नफा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समाजकल्याण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ निर्यात",
+          "is_correct": false
+        }
+      ],
+      "answer": "समाजकल्याण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "अर्थव्यवस्थेच्या कार्यामध्ये 'तरतूद' कशासाठी केली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भूतकाळातील कर्जासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भविष्यकाळातील आर्थिक गरजांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खर्चासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "भविष्यकाळातील आर्थिक गरजांसाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "सीमारहित अर्थव्यवस्था कशाला म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भांडवलशाहीला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समाजवादाला",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जागतिकीकरणाला",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मिश्र अर्थव्यवस्थेला",
+          "is_correct": false
+        }
+      ],
+      "answer": "जागतिकीकरणाला"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "रशियामध्ये कोणत्या प्रकारची अर्थव्यवस्था प्रामुख्याने दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भांडवलशाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समाजवादी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मिश्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खासगी",
+          "is_correct": false
+        }
+      ],
+      "answer": "समाजवादी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "मानवाच्या सामाजिक प्रगतीमध्ये कशाचे महत्त्व अनन्यसाधारण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अर्थशास्त्राचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ खेळाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कलेचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धाचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थशास्त्राचे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "उत्पन्न आणि खर्च यांचा मेळ घालणे म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उधळपट्टी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यवस्थापन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गुंतवणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यवस्थापन"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "अर्थशास्त्राचा जन्म कशातून झाला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विज्ञानातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कौटुंबिक व्यवस्थापनाच्या गरजेतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "युद्धातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राजकारणातून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कौटुंबिक व्यवस्थापनाच्या गरजेतून"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "अॅडम स्मिथ यांचा ग्रंथ 'वेल्थ ऑफ नेशन्स' कशावर आधारित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपत्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संस्कृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संपत्ती"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता घटक अर्थव्यवस्थेच्या प्रमुख कार्यांपैकी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादनखर्चात काटकसर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पन्नाचे असमान वाटप",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अमर्याद साधनसंपत्ती निर्माण करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ नफा मिळवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्पादनखर्चात काटकसर"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "मुक्त व्यापार हे कशाचे प्रमुख लक्षण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थानिक अर्थव्यवस्थेचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जागतिकीकरणाचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बंदिस्त बाजारपेठेचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृषी क्षेत्राचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "जागतिकीकरणाचे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "खासगी मालकी व नफा हे कोणत्या अर्थव्यवस्थेचे वैशिष्ट्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समाजवादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भांडवलशाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मिश्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सहकारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "भांडवलशाही"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मिश्र अर्थव्यवस्थेत सरकारी क्षेत्राचा उद्देश काय असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ कर गोळा करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नफा कमवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सामाजिक कल्याण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खासगी कंपन्यांना बंद करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामाजिक कल्याण"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "उत्पादनाची साधने दुर्मिळ असतात म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती सहज उपलब्ध असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ती मर्यादित असतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ती मुबलक असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती संपणारी नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "ती मर्यादित असतात"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "अर्थव्यवस्थेचे जागतिक स्तरावर किती मुख्य प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कौटुंबिक उत्पन्नातून खर्चाचा ताळमेळ बसवताना कशाला महत्त्व दिले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राधान्यक्रमाला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ विलासाला",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कधीही न संपणाऱ्या खर्चाला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उधारीला",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राधान्यक्रमाला"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "अर्थशास्त्राचा उपयोग खालीलपैकी कोणत्या क्षेत्रात केला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रशासन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कायदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दैनंदिन कार्यक्षेत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय उत्पन्नाचे वाटप कशाच्या आधारे व्हावे असे अर्थव्यवस्थेचे कार्य सांगते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्रीमंतीनुसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सामाजिक व आर्थिक न्यायानुसार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त शहरांच्या गरजेनुसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जातीनुसार",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामाजिक व आर्थिक न्यायानुसार"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कौटुंबिक व्यवस्थापन आणि अर्थशास्त्र यामध्ये काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विरोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साम्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोणताही संबंध नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फरक",
+          "is_correct": false
+        }
+      ],
+      "answer": "साम्य"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कौटुंबिक अर्थव्यवस्थेत कोणत्या गोष्टीला प्राधान्य दिले जाते?",
+      "answer": "कौटुंबिक अर्थव्यवस्थेत मर्यादित उत्पन्नातून गरजा पूर्ण करताना सर्वात आवश्यक असलेल्या गरजांना आणि त्यांच्या प्राधान्यक्रमाला महत्त्व दिले जाते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "अॅडम स्मिथ यांनी लिहिलेल्या प्रसिद्ध ग्रंथाचे नाव काय आहे?",
+      "answer": "अॅडम स्मिथ यांनी 'वेल्थ ऑफ नेशन्स' (Wealth of Nations) हा जगप्रसिद्ध ग्रंथ १७७६ मध्ये लिहिला."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "भांडवलशाही अर्थव्यवस्थेचे मुख्य वैशिष्ट्य कोणते?",
+      "answer": "भांडवलशाही अर्थव्यवस्थेत उत्पादनाच्या साधनांची खासगी मालकी आणि कमाल नफा मिळवणे हे मुख्य वैशिष्ट्य असते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "समाजवादी अर्थव्यवस्थेत उत्पादनाचे नियोजन कोण करते?",
+      "answer": "समाजवादी अर्थव्यवस्थेत उत्पादनाचे नियोजन आणि अंमलबजावणी ही मध्यवर्ती सरकारी यंत्रणेद्वारे केली जाते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "मिश्र अर्थव्यवस्थेचा मुख्य उद्देश काय असतो?",
+      "answer": "मिश्र अर्थव्यवस्थेचा मुख्य उद्देश आर्थिक नफा आणि सामाजिक कल्याण यांचा योग्य ताळमेळ राखणे हा असतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणात 'सीमारहित अर्थव्यवस्था' म्हणजे काय?",
+      "answer": "सीमारहित अर्थव्यवस्था म्हणजे जिथे जगातील सर्व देश आपली अर्थव्यवस्था जागतिक बाजारपेठेशी जोडतात आणि व्यापारातील सर्व बंधने दूर करतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "अर्थव्यवस्थेची व्याप्ती कशामुळे समजते?",
+      "answer": "उत्पादन, वितरण, विनिमय आणि उपभोग या आर्थिक क्रियांच्या अभ्यासातून अर्थव्यवस्थेची व्याप्ती समजते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अर्थशास्त्र हे केवळ पैशाचे शास्त्र आहे का?",
+      "answer": "नाही, अर्थशास्त्र हे केवळ पैशाचे शास्त्र नसून ते मानवी गरजा, संसाधनांचे नियोजन आणि सामाजिक प्रगतीचा अभ्यास करणारे सामाजिक शास्त्र आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "अर्थव्यवस्थेचे कार्य करताना 'उत्पादन कोणासाठी करावे' हा निर्णय का महत्त्वाचा असतो?",
+      "answer": "समाजातील विविध स्तरांच्या गरजा भिन्न असतात, त्यामुळे साधनांच्या न्याय्य वाटपासाठी कोणासाठी उत्पादन करावे हे ठरवणे गरजेचे असते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "उत्पादनखर्चात काटकसर करणे म्हणजे काय?",
+      "answer": "उपलब्ध साधनांचा कमीत कमी वापर करून दर्जेदार उत्पादन मिळवणे आणि अनावश्यक खर्च टाळणे म्हणजे उत्पादनखर्चात काटकसर करणे होय."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय उत्पन्नाचे न्याय्य वाटप का गरजेचे आहे?",
+      "answer": "समाजातील आर्थिक विषमता कमी करण्यासाठी आणि सर्व स्तरांपर्यंत विकासाची फळे पोहोचवण्यासाठी न्याय्य वाटप गरजेचे असते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "भविष्यातील आर्थिक गरजांची तरतूद का करावी लागते?",
+      "answer": "नैसर्गिक आपत्ती, आर्थिक मंदी किंवा आपत्कालीन परिस्थितीचा सामना करण्यासाठी अर्थव्यवस्थेत योग्य ती तरतूद करणे आवश्यक असते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या हा अर्थव्यवस्थेचा महत्त्वाचा घटक का आहे?",
+      "answer": "लोकसंख्या ही उत्पादनासाठी श्रमशक्ती पुरवते आणि उत्पादित मालासाठी ग्राहक (बाजारपेठ) म्हणून कार्य करते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "भौगोलिक क्षेत्र अर्थव्यवस्थेवर कसा परिणाम करते?",
+      "answer": "विशिष्ट भौगोलिक क्षेत्रानुसार तिथे उपलब्ध असणारी साधनसंपत्ती, हवामान आणि वाहतूक सुविधा बदलतात, ज्याचा थेट परिणाम अर्थव्यवस्थेवर होतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "खासगी आणि सार्वजनिक क्षेत्रातील फरक सांगा.",
+      "answer": "खासगी क्षेत्र नफा मिळवण्यासाठी व्यक्तींच्या मालकीचे असते, तर सार्वजनिक क्षेत्र समाजकल्याणासाठी सरकारच्या मालकीचे असते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "मिश्र अर्थव्यवस्थेमध्ये स्पर्धा असते का?",
+      "answer": "हो, मिश्र अर्थव्यवस्थेत खासगी क्षेत्राच्या उपस्थितीमुळे स्पर्धा असते, मात्र त्यावर सरकारचे काही अंशी नियंत्रण असते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "दुर्मिळ साधने म्हणजे काय?",
+      "answer": "मानवाच्या गरजांच्या तुलनेत ज्या साधनांचा पुरवठा मर्यादित असतो, त्यांना दुर्मिळ साधने म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "अर्थशास्त्राचे जनक कोण आहेत?",
+      "answer": "अॅडम स्मिथ यांना अर्थशास्त्राचे जनक मानले जाते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "जागतिक अर्थव्यवस्थेची कोणतीही दोन उद्दिष्टे सांगा.",
+      "answer": "१. मुक्त व्यापार प्रोत्साहन आणि २. देशांच्या सीमा ओलांडून भांडवल व तंत्रज्ञानाचा प्रवाह वाढवणे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "अर्थव्यवस्थेमुळे मानवाची कोणती प्रगती होते?",
+      "answer": "अर्थव्यवस्थेमुळे मानवाचे जीवनमान उंचावते आणि सामाजिक व आर्थिक स्थैर्य प्राप्त होऊन सर्वांगीण प्रगती होते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "कौटुंबिक व्यवस्थापन आणि अर्थशास्त्र यांचा सहसंबंध सविस्तर स्पष्ट करा.",
+      "answer": "अर्थशास्त्र ही संज्ञा मूळ ग्रीक शब्द 'ओयकोनोमिया' (Oikonomia) यापासून तयार झाली आहे, ज्याचा अर्थ 'कौटुंबिक व्यवस्थापन' असा होतो. ज्याप्रमाणे एखाद्या कुटुंबाचे मर्यादित उत्पन्न आणि अमर्याद गरजा असतात, त्यांचा मेळ बसवण्यासाठी आपण खर्चाचा प्राधान्यक्रम ठरवतो, त्याला कौटुंबिक व्यवस्थापन म्हणतात. हेच व्यवस्थापन जेव्हा गाव, शहर किंवा देशाच्या स्तरावर केले जाते, तेव्हा त्याला अर्थशास्त्र म्हटले जाते. थोडक्यात, कुटुंबाच्या आर्थिक नियोजनाचा विस्तार म्हणजे अर्थशास्त्र होय. कौटुंबिक व्यवस्थापनाप्रमाणेच अर्थशास्त्रातही उत्पन्न आणि खर्च यांचा ताळमेळ बसवणे हा मुख्य उद्देश असतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "भांडवलशाही अर्थव्यवस्थेची वैशिष्ट्ये आणि कार्यपद्धती स्पष्ट करा.",
+      "answer": "भांडवलशाही अर्थव्यवस्थेत उत्पादनाच्या साधनांची मालकी आणि व्यवस्थापन खासगी व्यक्तींकडे असते. या अर्थव्यवस्थेचा मुख्य हेतू जास्तीत जास्त नफा मिळवणे हा असतो. यात ग्राहकांच्या पसंतीनुसार उत्पादन केले जाते आणि बाजारपेठेत मुक्त स्पर्धा असते. अमेरिकेची संयुक्त संस्थाने, जर्मनी आणि जपान यांसारख्या देशांनी ही अर्थव्यवस्था स्वीकारली आहे. यात सरकारी हस्तक्षेप कमीत कमी असतो आणि किमती प्रामुख्याने मागणी व पुरवठा यानुसार ठरतात. खासगी मालकी असल्यामुळे यात संशोधनाला आणि कार्यक्षमतेला मोठे प्रोत्साहन मिळते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "समाजवादी अर्थव्यवस्थेचे स्वरूप आणि उद्दिष्टे सविस्तर लिहा.",
+      "answer": "समाजवादी अर्थव्यवस्थेत उत्पादनाची साधने संपूर्ण समाजाच्या म्हणजेच सरकारच्या मालकीची असतात. या अर्थव्यवस्थेचा मुख्य हेतू वैयक्तिक नफा नसून सामाजिक कल्याण साधणे हा असतो. यात उत्पादनाचे नियोजन मध्यवर्ती सरकारी यंत्रणेमार्फत केले जाते. सर्व नागरिकांच्या मूलभूत गरजा जसे की अन्न, वस्त्र, निवारा, शिक्षण व आरोग्य यांची पूर्तता करण्याची जबाबदारी सरकारची असते. यात आर्थिक विषमता कमी करण्याचा प्रयत्न केला जातो. चीन आणि रशिया यांसारख्या देशांनी ही अर्थव्यवस्था स्वीकारली आहे. यात स्पर्धा नसते, तर सहकार्यावर भर दिला जातो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "मिश्र अर्थव्यवस्थेची गरज आणि महत्त्व स्पष्ट करा.",
+      "answer": "मिश्र अर्थव्यवस्था म्हणजे भांडवलशाही आणि समाजवादी या दोन्ही अर्थव्यवस्थेतील चांगल्या गुणांचा संगम होय. यात सार्वजनिक क्षेत्र (सरकार) आणि खासगी क्षेत्र यांचे सहअस्तित्व असते. भारतासारख्या विकसनशील देशासाठी ही अर्थव्यवस्था अत्यंत महत्त्वाची आहे कारण यात वैयक्तिक नफ्यासोबतच सामाजिक कल्याणाचा विचार केला जातो. यात संरक्षण, रेल्वे यांसारखी महत्त्वाची क्षेत्रे सरकारकडे असतात, तर इतर उत्पादने खासगी क्षेत्राकडे असतात. यामुळे देशाचा आर्थिक विकास वेगाने होतो आणि सामाजिक न्यायही जपला जातो. भारत, स्वीडन आणि युनायटेड किंगडम या देशांनी ही अर्थव्यवस्था स्वीकारली आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "जागतिकीकरण म्हणजे काय आणि त्याचे अर्थव्यवस्थेवरील परिणाम स्पष्ट करा.",
+      "answer": "जागतिकीकरण म्हणजे देशाच्या अर्थव्यवस्थेला जागतिक अर्थव्यवस्थेशी एकरूप करणे होय. यात विविध देशांमधील व्यापार आणि गुंतवणुकीवरील सर्व कायदेशीर बंधने काढून टाकली जातात. जागतिकीकरणामुळे भांडवल, श्रम, तंत्रज्ञान आणि सेवांचा प्रवाह देशांच्या सीमा ओलांडून मुक्तपणे जगभर फिरू लागतो. यामुळे 'सीमारहित अर्थव्यवस्था' निर्माण होते. याचे परिणाम म्हणजे बाजारपेठेत स्पर्धा वाढते, ग्राहकांना स्वस्त आणि दर्जेदार वस्तू मिळतात, रोजगाराच्या नवीन संधी उपलब्ध होतात आणि जगभरातील नवनवीन तंत्रज्ञान सहज उपलब्ध होते. तथापि, यामुळे स्थानिक उद्योगांना मोठ्या जागतिक कंपन्यांशी स्पर्धा करावी लागते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "अर्थव्यवस्थेची प्रमुख पाच कार्ये सविस्तर स्पष्ट करा.",
+      "answer": "कोणत्याही अर्थव्यवस्थेला पुढील महत्त्वाची कार्ये पार पाडावी लागतात: १. कोणत्या वस्तूचे किती उत्पादन करायचे याचा निर्णय घेणे, कारण साधने मर्यादित असतात. २. उत्पादनखर्चात जास्तीत जास्त काटकसर करणे, जेणेकरून कमी संसाधनात अधिक उत्पादन होईल. ३. राष्ट्रीय उत्पन्नाचे सामाजिक व आर्थिक न्यायानुसार वाटप करणे, जेणेकरून विषमता कमी होईल. ४. भविष्यकाळातील आर्थिक गरजा भागवण्यासाठी योग्य ती तरतूद (बचत/गुंतवणूक) करून ठेवणे. ५. उत्पादन कोणासाठी करावे (गरिबांसाठी की श्रीमंतांसाठी) याबाबत निर्णय घेणे. या कार्यांद्वारे अमर्याद गरजा आणि मर्यादित साधने यांचा मेळ घातला जातो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "अॅडम स्मिथ आणि लिओनेल रॉबिन्स यांच्या अर्थशास्त्राच्या व्याख्यांमधील फरक स्पष्ट करा.",
+      "answer": "अॅडम स्मिथ यांना अर्थशास्त्राचे जनक मानले जाते; त्यांनी १७७६ मध्ये 'वेल्थ ऑफ नेशन्स' या ग्रंथात अर्थशास्त्राला 'संपत्तीचे शास्त्र' असे संबोधले. त्यांच्या व्याख्येचा केंद्रबिंदू संपत्तीची निर्मिती आणि साठा हा होता. याउलट, लिओनेल रॉबिन्स यांनी १९३२ मध्ये अधिक शास्त्रीय व्याख्या केली. त्यांच्या मते, मानवाच्या गरजा अमर्याद आहेत आणि त्या पूर्ण करणारी साधने मर्यादित व पर्यायी उपयोगाची आहेत. या गरजा आणि साधने यांचा मेळ घालणाऱ्या मानवी वर्तनाचा अभ्यास म्हणजे अर्थशास्त्र होय. रॉबिन्स यांची व्याख्या निवडीच्या समस्यांवर आणि मानवी वर्तनावर आधारित आहे, तर स्मिथ यांची व्याख्या केवळ भौतिक संपत्तीवर आधारित आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "अर्थव्यवस्थेचे अस्तित्व कोणत्या भौगोलिक आणि मानवी घटकांवर अवलंबून असते?",
+      "answer": "अर्थव्यवस्थेचे अस्तित्व प्रामुख्याने तीन घटकांवर अवलंबून असते: १. भौगोलिक क्षेत्र: एखाद्या प्रदेशाचे स्थान आणि आकारमान तिथल्या व्यापारावर परिणाम करते. २. नैसर्गिक साधनसामग्री: जमीन, पाणी, खनिजे आणि जंगले ही उत्पादनाचा पाया असतात. ज्या प्रदेशात नैसर्गिक साधने मुबलक असतात, तिथे विकास वेगाने होतो. ३. लोकसंख्या: लोकसंख्या ही केवळ ग्राहक नसून ती उत्पादनासाठी आवश्यक असलेली श्रमशक्ती देखील आहे. लोकसंख्येची कुशलता आणि आरोग्य अर्थव्यवस्थेचा दर्जा ठरवते. याशिवाय राजकीय सार्वभौमत्व देखील महत्त्वाचे असते, कारण स्थिर सरकारच चांगले आर्थिक निर्णय घेऊ शकते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "अर्थशास्त्राचे मानवी जीवनातील महत्त्व विशद करा.",
+      "answer": "अर्थशास्त्र हे केवळ आकडेमोडीचे शास्त्र नसून ते मानवी जीवन सुसह्य करण्याचे साधन आहे. १. साधनसंपत्तीचे नियोजन: उपलब्ध मर्यादित साधनांचा प्रभावी वापर कसा करावा हे अर्थशास्त्र शिकवते. २. वेळेचे आणि पैशाचे व्यवस्थापन: दैनंदिन जीवनात खर्चाचा प्राधान्यक्रम ठरवण्यासाठी याची मदत होते. ३. सामाजिक प्रगती: अर्थशास्त्रामुळे गरिबी, बेरोजगारी आणि विषमता यांसारख्या सामाजिक समस्यांचे निराकरण करण्यास मदत होते. ४. धोरण निश्चिती: शासन, प्रशासन आणि कायदेमंडळाला देशाच्या विकासासाठी योग्य धोरणे आखताना अर्थशास्त्राचा आधार घ्यावा लागतो. ५. वैयक्तिक विकास: हे शास्त्र माणसाला सुजाण ग्राहक आणि जबाबदार नागरिक बनवते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "उत्पादनखर्चात काटकसर करणे अर्थव्यवस्थेसाठी का आवश्यक आहे?",
+      "answer": "उत्पादनखर्चात काटकसर करणे म्हणजे उपलब्ध साधनांचा अपव्यय टाळून कमीत कमी खर्चात जास्तीत जास्त दर्जेदार उत्पादन मिळवणे होय. हे अर्थव्यवस्थेसाठी आवश्यक आहे कारण: १. साधनसंपत्तीची दुर्मिळता: निसर्गातील संसाधने मर्यादित आहेत, त्यांचा अतिवापर भविष्यात टंचाई निर्माण करू शकतो. २. नफा वाढवणे: उत्पादन खर्च कमी झाल्यास नफ्याचे प्रमाण वाढते, ज्यामुळे अधिक गुंतवणूक करता येते. ३. आंतरराष्ट्रीय स्पर्धा: जागतिकीकरणाच्या युगात ज्या देशाचा उत्पादन खर्च कमी असतो, त्यांच्या वस्तू जागतिक बाजारपेठेत स्वस्त मिळतात आणि मागणी वाढते. ४. ग्राहकांचे हित: खर्च कमी झाल्यास वस्तूच्या किमती कमी होतात, ज्यामुळे सामान्य ग्राहकांची खरेदीशक्ती वाढते."
+    }
+  ]
+}

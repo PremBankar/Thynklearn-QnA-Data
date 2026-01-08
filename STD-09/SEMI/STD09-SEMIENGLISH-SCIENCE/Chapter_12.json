@@ -1,0 +1,791 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.General_Science.12",
+    "standard": "9",
+    "subject": "General Science",
+    "medium": "English",
+    "chapter_name": "Study of Sound"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is sound?",
+      "options": [
+        { "option_id": 1, "text": "A type of light", "is_correct": false },
+        { "option_id": 2, "text": "A form of energy that creates the sensation of hearing", "is_correct": true },
+        { "option_id": 3, "text": "A type of heat", "is_correct": false },
+        { "option_id": 4, "text": "A form of electrical energy", "is_correct": false }
+      ],
+      "answer": "A form of energy that creates the sensation of hearing"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What type of wave is a sound wave?",
+      "options": [
+        { "option_id": 1, "text": "Transverse wave", "is_correct": false },
+        { "option_id": 2, "text": "Longitudinal wave", "is_correct": true },
+        { "option_id": 3, "text": "Electromagnetic wave", "is_correct": false },
+        { "option_id": 4, "text": "Surface wave", "is_correct": false }
+      ],
+      "answer": "Longitudinal wave"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is necessary for the propagation of sound waves?",
+      "options": [
+        { "option_id": 1, "text": "Vacuum", "is_correct": false },
+        { "option_id": 2, "text": "Medium", "is_correct": true },
+        { "option_id": 3, "text": "Light", "is_correct": false },
+        { "option_id": 4, "text": "Heat", "is_correct": false }
+      ],
+      "answer": "Medium"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In a sound wave, what do compressions and rarefactions represent?",
+      "options": [
+        { "option_id": 1, "text": "Changes in color", "is_correct": false },
+        { "option_id": 2, "text": "Changes in temperature", "is_correct": false },
+        { "option_id": 3, "text": "Changes in density and pressure", "is_correct": true },
+        { "option_id": 4, "text": "Changes in direction", "is_correct": false }
+      ],
+      "answer": "Changes in density and pressure"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What determines the pitch of a sound?",
+      "options": [
+        { "option_id": 1, "text": "Amplitude", "is_correct": false },
+        { "option_id": 2, "text": "Frequency", "is_correct": true },
+        { "option_id": 3, "text": "Wavelength", "is_correct": false },
+        { "option_id": 4, "text": "Speed", "is_correct": false }
+      ],
+      "answer": "Frequency"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What determines the loudness of a sound?",
+      "options": [
+        { "option_id": 1, "text": "Frequency", "is_correct": false },
+        { "option_id": 2, "text": "Wavelength", "is_correct": false },
+        { "option_id": 3, "text": "Amplitude", "is_correct": true },
+        { "option_id": 4, "text": "Velocity", "is_correct": false }
+      ],
+      "answer": "Amplitude"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following travels fastest through iron?",
+      "options": [
+        { "option_id": 1, "text": "Light", "is_correct": false },
+        { "option_id": 2, "text": "Sound", "is_correct": true },
+        { "option_id": 3, "text": "Heat", "is_correct": false },
+        { "option_id": 4, "text": "Electricity", "is_correct": false }
+      ],
+      "answer": "Sound"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the relationship between velocity (v), frequency (ν), and wavelength (λ) of sound?",
+      "options": [
+        { "option_id": 1, "text": "v = ν / λ", "is_correct": false },
+        { "option_id": 2, "text": "v = ν × λ", "is_correct": true },
+        { "option_id": 3, "text": "v = λ / ν", "is_correct": false },
+        { "option_id": 4, "text": "v = ν + λ", "is_correct": false }
+      ],
+      "answer": "v = ν × λ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In which state of matter does sound travel the fastest?",
+      "options": [
+        { "option_id": 1, "text": "Solid", "is_correct": true },
+        { "option_id": 2, "text": "Liquid", "is_correct": false },
+        { "option_id": 3, "text": "Gas", "is_correct": false },
+        { "option_id": 4, "text": "Plasma", "is_correct": false }
+      ],
+      "answer": "Solid"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the approximate speed of sound in air at 25°C?",
+      "options": [
+        { "option_id": 1, "text": "332 m/s", "is_correct": false },
+        { "option_id": 2, "text": "346 m/s", "is_correct": true },
+        { "option_id": 3, "text": "1500 m/s", "is_correct": false },
+        { "option_id": 4, "text": "5000 m/s", "is_correct": false }
+      ],
+      "answer": "346 m/s"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How is the velocity of sound in a gas related to its temperature?",
+      "options": [
+        { "option_id": 1, "text": "Directly proportional to temperature", "is_correct": false },
+        { "option_id": 2, "text": "Inversely proportional to temperature", "is_correct": false },
+        { "option_id": 3, "text": "Directly proportional to the square root of temperature", "is_correct": true },
+        { "option_id": 4, "text": "Inversely proportional to the square root of temperature", "is_correct": false }
+      ],
+      "answer": "Directly proportional to the square root of temperature"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How is the velocity of sound in a gas related to its density?",
+      "options": [
+        { "option_id": 1, "text": "Directly proportional to density", "is_correct": false },
+        { "option_id": 2, "text": "Inversely proportional to density", "is_correct": false },
+        { "option_id": 3, "text": "Directly proportional to the square root of density", "is_correct": false },
+        { "option_id": 4, "text": "Inversely proportional to the square root of density", "is_correct": true }
+      ],
+      "answer": "Inversely proportional to the square root of density"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the range of audible sound for the human ear?",
+      "options": [
+        { "option_id": 1, "text": "20 Hz to 20 kHz", "is_correct": true },
+        { "option_id": 2, "text": "10 Hz to 10 kHz", "is_correct": false },
+        { "option_id": 3, "text": "5 Hz to 25 kHz", "is_correct": false },
+        { "option_id": 4, "text": "1 Hz to 100 kHz", "is_correct": false }
+      ],
+      "answer": "20 Hz to 20 kHz"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is sound with frequency less than 20 Hz called?",
+      "options": [
+        { "option_id": 1, "text": "Ultrasound", "is_correct": false },
+        { "option_id": 2, "text": "Audible sound", "is_correct": false },
+        { "option_id": 3, "text": "Infrasound", "is_correct": true },
+        { "option_id": 4, "text": "Supersonic sound", "is_correct": false }
+      ],
+      "answer": "Infrasound"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is sound with frequency greater than 20 kHz called?",
+      "options": [
+        { "option_id": 1, "text": "Audible sound", "is_correct": false },
+        { "option_id": 2, "text": "Infrasound", "is_correct": false },
+        { "option_id": 3, "text": "Ultrasound", "is_correct": true },
+        { "option_id": 4, "text": "Sonic boom", "is_correct": false }
+      ],
+      "answer": "Ultrasound"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which animal uses ultrasound for navigation?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Bat", "is_correct": true },
+        { "option_id": 3, "text": "Elephant", "is_correct": false },
+        { "option_id": 4, "text": "Whale", "is_correct": false }
+      ],
+      "answer": "Bat"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a use of ultrasound?",
+      "options": [
+        { "option_id": 1, "text": "Cleaning intricate machine parts", "is_correct": false },
+        { "option_id": 2, "text": "Sterilizing milk", "is_correct": false },
+        { "option_id": 3, "text": "Producing loud music", "is_correct": true },
+        { "option_id": 4, "text": "Echocardiography", "is_correct": false }
+      ],
+      "answer": "Producing loud music"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is an echo?",
+      "options": [
+        { "option_id": 1, "text": "The original sound", "is_correct": false },
+        { "option_id": 2, "text": "The reflection of sound", "is_correct": true },
+        { "option_id": 3, "text": "The absorption of sound", "is_correct": false },
+        { "option_id": 4, "text": "The transmission of sound", "is_correct": false }
+      ],
+      "answer": "The reflection of sound"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the minimum distance required to hear a distinct echo at 22°C?",
+      "options": [
+        { "option_id": 1, "text": "17.2 m", "is_correct": true },
+        { "option_id": 2, "text": "34.4 m", "is_correct": false },
+        { "option_id": 3, "text": "10 m", "is_correct": false },
+        { "option_id": 4, "text": "50 m", "is_correct": false }
+      ],
+      "answer": "17.2 m"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is reverberation?",
+      "options": [
+        { "option_id": 1, "text": "Single reflection of sound", "is_correct": false },
+        { "option_id": 2, "text": "Multiple reflections of sound", "is_correct": true },
+        { "option_id": 3, "text": "Absorption of sound", "is_correct": false },
+        { "option_id": 4, "text": "Transmission of sound", "is_correct": false }
+      ],
+      "answer": "Multiple reflections of sound"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does SONAR stand for?",
+      "options": [
+        { "option_id": 1, "text": "Sound Navigation and Ranging", "is_correct": true },
+        { "option_id": 2, "text": "Sound Natural Radiation", "is_correct": false },
+        { "option_id": 3, "text": "Sonar Navigation and Reflection", "is_correct": false },
+        { "option_id": 4, "text": "Sound Natural Reflection", "is_correct": false }
+      ],
+      "answer": "Sound Navigation and Ranging"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What type of waves does SONAR use?",
+      "options": [
+        { "option_id": 1, "text": "Light waves", "is_correct": false },
+        { "option_id": 2, "text": "Radio waves", "is_correct": false },
+        { "option_id": 3, "text": "Ultrasonic waves", "is_correct": true },
+        { "option_id": 4, "text": "Infrared waves", "is_correct": false }
+      ],
+      "answer": "Ultrasonic waves"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the principle used in sonography?",
+      "options": [
+        { "option_id": 1, "text": "Reflection of light", "is_correct": false },
+        { "option_id": 2, "text": "Reflection of ultrasound", "is_correct": true },
+        { "option_id": 3, "text": "Refraction of sound", "is_correct": false },
+        { "option_id": 4, "text": "Absorption of sound", "is_correct": false }
+      ],
+      "answer": "Reflection of ultrasound"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which part of the ear collects sound waves?",
+      "options": [
+        { "option_id": 1, "text": "Middle ear", "is_correct": false },
+        { "option_id": 2, "text": "Inner ear", "is_correct": false },
+        { "option_id": 3, "text": "Outer ear (Pinna)", "is_correct": true },
+        { "option_id": 4, "text": "Eardrum", "is_correct": false }
+      ],
+      "answer": "Outer ear (Pinna)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What vibrates in the middle ear when sound waves reach it?",
+      "options": [
+        { "option_id": 1, "text": "Cochlea", "is_correct": false },
+        { "option_id": 2, "text": "Auditory nerve", "is_correct": false },
+        { "option_id": 3, "text": "Eardrum", "is_correct": true },
+        { "option_id": 4, "text": "Semicircular canals", "is_correct": false }
+      ],
+      "answer": "Eardrum"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which part of the ear converts vibrations into electrical signals?",
+      "options": [
+        { "option_id": 1, "text": "Outer ear", "is_correct": false },
+        { "option_id": 2, "text": "Middle ear", "is_correct": false },
+        { "option_id": 3, "text": "Cochlea in the inner ear", "is_correct": true },
+        { "option_id": 4, "text": "Eardrum", "is_correct": false }
+      ],
+      "answer": "Cochlea in the inner ear"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the velocity of sound in a vacuum?",
+      "options": [
+        { "option_id": 1, "text": "340 m/s", "is_correct": false },
+        { "option_id": 2, "text": "1500 m/s", "is_correct": false },
+        { "option_id": 3, "text": "0 m/s", "is_correct": true },
+        { "option_id": 4, "text": "300,000 km/s", "is_correct": false }
+      ],
+      "answer": "0 m/s"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which gas has the highest speed of sound among the listed gases at 25°C?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": true },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Air", "is_correct": false },
+        { "option_id": 4, "text": "Sulfur dioxide", "is_correct": false }
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Why are sound-absorbing materials used in auditoriums?",
+      "options": [
+        { "option_id": 1, "text": "To increase echo", "is_correct": false },
+        { "option_id": 2, "text": "To reduce reverberation", "is_correct": true },
+        { "option_id": 3, "text": "To increase sound intensity", "is_correct": false },
+        { "option_id": 4, "text": "To reflect sound better", "is_correct": false }
+      ],
+      "answer": "To reduce reverberation"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the time period for which the human brain retains a sound?",
+      "options": [
+        { "option_id": 1, "text": "0.01 s", "is_correct": false },
+        { "option_id": 2, "text": "0.1 s", "is_correct": true },
+        { "option_id": 3, "text": "1 s", "is_correct": false },
+        { "option_id": 4, "text": "10 s", "is_correct": false }
+      ],
+      "answer": "0.1 s"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is a longitudinal wave?",
+      "answer": "A wave in which the particles of the medium oscillate parallel to the direction of wave propagation."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is a transverse wave?",
+      "answer": "A wave in which the particles of the medium oscillate perpendicular to the direction of wave propagation."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the formula for the velocity of sound in terms of wavelength and frequency?",
+      "answer": "v = ν × λ"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "In which medium does sound travel faster: solid, liquid, or gas?",
+      "answer": "Solid"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is the speed of sound in air at 0°C?",
+      "answer": "332 m/s"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "How does temperature affect the speed of sound in air?",
+      "answer": "Speed increases with increase in temperature."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the audible frequency range for humans?",
+      "answer": "20 Hz to 20,000 Hz"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is infrasound?",
+      "answer": "Sound with frequency less than 20 Hz."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is ultrasound?",
+      "answer": "Sound with frequency greater than 20 kHz."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Name one animal that can hear ultrasound.",
+      "answer": "Bat or dolphin"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Give one use of ultrasound in medicine.",
+      "answer": "Sonography for imaging internal organs."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is an echo?",
+      "answer": "Repetition of sound due to reflection from a surface."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the minimum distance required to hear an echo at 22°C?",
+      "answer": "17.2 m from the reflecting surface."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is reverberation?",
+      "answer": "Persistence of sound due to multiple reflections."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What does SONAR stand for?",
+      "answer": "Sound Navigation and Ranging."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What type of sound does SONAR use?",
+      "answer": "Ultrasonic sound."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the principle of sonography?",
+      "answer": "Reflection of ultrasound waves from internal organs."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name the three parts of the human ear.",
+      "answer": "Outer ear, middle ear, and inner ear."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Which part of the ear vibrates when sound waves strike?",
+      "answer": "Eardrum (tympanic membrane)."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the function of the cochlea?",
+      "answer": "Converts sound vibrations into electrical signals."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who first calculated the speed of sound?",
+      "answer": "Italian physicists Borelli and Viviani."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the speed of sound in seawater?",
+      "answer": "Approximately 1531 m/s at 25°C."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a good reflector of sound?",
+      "answer": "A hard, flat surface like a wall."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a bad reflector of sound?",
+      "answer": "Soft materials like cloth, carpet, or curtains."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is the roof of a concert hall curved?",
+      "answer": "To direct sound evenly and reduce echoes."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the full form of PNDT Act?",
+      "answer": "Pre-Natal Diagnostic Techniques Act."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is female foeticide?",
+      "answer": "Illegal abortion of a female fetus."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the role of gel in sonography?",
+      "answer": "Ensures proper contact between skin and probe for effective ultrasound transmission."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one instrument that uses the principle of reflection of sound.",
+      "answer": "Stethoscope or SONAR."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the effect of pressure on the speed of sound in a gas?",
+      "answer": "No effect, if temperature is constant."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why can't we hear sound in space?",
+      "answer": "Because space is a vacuum and sound requires a medium to travel."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the unit of frequency?",
+      "answer": "Hertz (Hz)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the unit of wavelength?",
+      "answer": "Meter (m)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the unit of velocity of sound?",
+      "answer": "Meters per second (m/s)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the time period of a wave?",
+      "answer": "Time taken for one complete oscillation."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is amplitude?",
+      "answer": "Maximum displacement of particles from mean position."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the relationship between velocity and molecular weight of a gas?",
+      "answer": "Velocity is inversely proportional to the square root of molecular weight."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name one animal that produces infrasound.",
+      "answer": "Elephant or whale."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the approximate speed of sound in water?",
+      "answer": "About 1500 m/s."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the name of the structure in the inner ear that looks like a snail shell?",
+      "answer": "Cochlea."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the difference between longitudinal and transverse waves with examples.",
+      "answer": "Longitudinal waves are those in which the particles of the medium oscillate parallel to the direction of wave propagation. Example: Sound waves in air, where air particles move back and forth along the direction of sound travel. Transverse waves are those in which particles oscillate perpendicular to the direction of wave propagation. Example: Waves on a string or water waves, where water particles move up and down while the wave travels horizontally."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe how sound travels through a medium with the help of compressions and rarefactions.",
+      "answer": "Sound travels as a longitudinal wave. When an object vibrates, it pushes the adjacent particles of the medium, creating a region of high pressure and density called a compression. These particles then push the next particles, transferring energy. Behind the compression, the particles move back, creating a region of low pressure and density called a rarefaction. This cycle of compressions and rarefactions propagates through the medium, carrying the sound energy from the source to the listener."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Explain the factors affecting the velocity of sound in a gaseous medium.",
+      "answer": "The velocity of sound in a gas depends on: 1. Temperature: It is directly proportional to the square root of absolute temperature. As temperature increases, molecular speed increases, so sound travels faster. 2. Density: It is inversely proportional to the square root of density. Denser gases have slower sound speed because particles are heavier and respond slower. 3. Molecular weight: It is inversely proportional to the square root of molecular weight. Lighter gases (like hydrogen) allow faster sound propagation. 4. Pressure: At constant temperature, pressure has no effect because density increases proportionally with pressure, keeping the ratio constant."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Compare the speed of sound in solids, liquids, and gases. Why does it differ?",
+      "answer": "Sound travels fastest in solids, slower in liquids, and slowest in gases. In solids, particles are closely packed and strongly bonded, allowing rapid energy transfer via vibrations. In liquids, particles are less tightly packed, so energy transfer is slower. In gases, particles are far apart and interact weakly, resulting in the slowest speed. For example, speed in steel is about 5960 m/s, in water about 1500 m/s, and in air about 346 m/s at 25°C."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "What are audible, infrasonic, and ultrasonic sounds? Give examples of each.",
+      "answer": "Audible sounds are within the human hearing range of 20 Hz to 20,000 Hz. Example: human speech, music. Infrasonic sounds have frequencies below 20 Hz. Example: vibrations before an earthquake, sounds produced by elephants for communication. Ultrasonic sounds have frequencies above 20,000 Hz. Example: sounds used by bats for echolocation, medical ultrasound imaging."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe how bats use ultrasound to navigate and hunt in the dark.",
+      "answer": "Bats produce high-frequency ultrasonic sounds (above 20 kHz) through their mouth or nose. These sound waves travel forward and strike obstacles or prey. The reflected echoes are received by the bat's large ears. By analyzing the time delay and intensity of the returning echoes, bats can determine the distance, size, shape, and even movement of objects. This ability, called echolocation, allows them to fly and hunt insects accurately in complete darkness."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "List and explain five uses of ultrasound.",
+      "answer": "1. Medical Imaging (Sonography): Ultrasound waves are reflected from internal organs to create images, used to monitor pregnancy, detect tumors, etc. 2. Cleaning: Ultrasonic vibrations create bubbles in liquid that scrub intricate objects like jewelry, machine parts. 3. Welding: Ultrasounds can join plastic parts by generating heat through friction. 4. Sterilization: High-frequency sound kills bacteria in liquids like milk. 5. SONAR: Used in ships to measure sea depth, locate underwater objects like submarines, shipwrecks."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the laws of reflection of sound with an activity.",
+      "answer": "The laws of reflection of sound state: 1. The incident sound wave, reflected sound wave, and the normal at the point of incidence all lie in the same plane. 2. The angle of incidence is equal to the angle of reflection. Activity: Take two cardboard tubes and place them on a table facing a wall. Place a clock near one tube's end and listen through the other. Adjust the tubes until the ticking is clearest. Measure angles θ1 (incident) and θ2 (reflected). They will be equal, verifying the second law. The tubes and wall lie in the same plane, verifying the first law."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What is an echo? Derive the minimum distance required to hear a distinct echo.",
+      "answer": "An echo is the repetition of sound caused by reflection from a surface like a cliff or wall. To hear a distinct echo, the reflected sound must reach the ear more than 0.1 s after the original sound, because the brain retains sound for 0.1 s. Speed of sound in air at 22°C is 344 m/s. Distance traveled by sound in 0.1 s = speed × time = 344 × 0.1 = 34.4 m. This is the total to-and-fro distance. So, minimum distance from source to reflector = 34.4 / 2 = 17.2 m."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "What is reverberation? How can it be reduced in auditoriums?",
+      "answer": "Reverberation is the persistence of sound due to multiple reflections from walls, ceiling, and floor, causing a continuous blur of sound even after the source stops. It reduces clarity. To reduce reverberation: 1. Use sound-absorbing materials like acoustic tiles, carpets, curtains, and cushioned seats. 2. Design walls and ceilings with uneven surfaces to scatter sound. 3. Install perforated panels or foam panels that trap sound energy. 4. Ensure proper auditorium shape to avoid focusing of sound. 5. Use upholstered furniture to absorb extra sound."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the working of SONAR with a labeled diagram.",
+      "answer": "SONAR (Sound Navigation and Ranging) is used to detect underwater objects. It consists of a transmitter and receiver mounted on a ship. The transmitter emits ultrasonic pulses (high-frequency sound waves) into the water. These pulses travel down, strike an object (like a submarine or seafloor), and reflect back as echoes. The receiver detects these echoes. The time delay (t) between transmission and reception is measured. Speed of sound in water (v) is known (about 1500 m/s). Distance to object = (v × t) / 2. The factor ½ is because sound travels to the object and back. SONAR is used for mapping seabed, locating wrecks, and navigation."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Describe the process of sonography and its medical importance.",
+      "answer": "Sonography is a diagnostic imaging technique using ultrasound. A probe (transducer) is placed on the skin over the area to be examined, with a gel applied for good contact. The probe emits high-frequency ultrasound waves (2–18 MHz) into the body. These waves reflect differently from tissues, organs, and boundaries. The echoes are captured by the probe and sent to a computer, which processes them into real-time images on a monitor. It is non-invasive, painless, and safe (no radiation). It is used to examine fetal development, detect abnormalities in organs (liver, kidney, heart), diagnose conditions like gallstones, and guide biopsies."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain the structure and function of the human ear.",
+      "answer": "The human ear has three parts: 1. Outer Ear: Includes pinna (collects sound) and auditory canal (channels sound to eardrum). 2. Middle Ear: Contains eardrum (vibrates with sound) and three small bones (malleus, incus, stapes) that amplify vibrations and transmit them to the inner ear. The Eustachian tube equalizes pressure. 3. Inner Ear: Consists of cochlea (a fluid-filled, spiral-shaped organ with hair cells that convert vibrations into electrical signals) and vestibular system (for balance). The auditory nerve carries signals to the brain, which interprets them as sound."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Why should we avoid listening to very loud sounds? How can we protect our ears?",
+      "answer": "Loud sounds (above 85 dB) can damage delicate hair cells in the cochlea, leading to noise-induced hearing loss, which may be permanent. It can also cause tinnitus (ringing in ears). To protect ears: 1. Use earplugs or earmuffs in noisy environments (concerts, construction sites). 2. Keep volume low on headphones and follow the 60/60 rule (60% volume for max 60 minutes). 3. Take breaks from continuous noise. 4. Avoid inserting objects into ears. 5. Get regular hearing check-ups if exposed to loud noise regularly."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Solve: A sound wave has a frequency of 2 kHz and wavelength 0.35 m. How far will it travel in 2.5 seconds?",
+      "answer": "Given: ν = 2 kHz = 2000 Hz, λ = 0.35 m. Velocity v = ν × λ = 2000 × 0.35 = 700 m/s. Time t = 2.5 s. Distance = v × t = 700 × 2.5 = 1750 m. The sound wave travels 1750 m in 2.5 seconds."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Solve: A ship sends a SONAR pulse and receives its echo after 3 seconds. If the speed of sound in seawater is 1500 m/s, find the depth of the sea.",
+      "answer": "Given: Time for echo t = 3 s, speed v = 1500 m/s. Time for sound to reach seabed = t/2 = 1.5 s. Depth = v × time to seabed = 1500 × 1.5 = 2250 m. The depth of the sea is 2250 m."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Why is the velocity of sound in hydrogen four times that in oxygen under the same conditions? Show mathematically.",
+      "answer": "Velocity of sound in a gas is inversely proportional to the square root of its molecular weight: v ∝ 1/√M. Molecular weight of O₂ = 32, H₂ = 2. So, v(H₂)/v(O₂) = √(M_O₂ / M_H₂) = √(32/2) = √16 = 4. Thus, sound travels four times faster in hydrogen than in oxygen at the same temperature and pressure."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Discuss the social issue related to misuse of sonography technology.",
+      "answer": "Sonography, meant for medical diagnosis, is misused for sex-selective abortion (female foeticide) due to gender bias, especially in some regions. This has led to skewed sex ratios, declining female population, and social imbalance. To prevent this, India enacted the Pre-Natal Diagnostic Techniques (PNDT) Act, 1994, banning sex determination and regulating ultrasound clinics. Violations are punishable. Awareness campaigns promote gender equality and the value of girl children. Ethical use of technology is crucial for social health."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Explain why we see lightning before hearing thunder.",
+      "answer": "Light travels much faster (about 3 × 10⁸ m/s) than sound (about 340 m/s in air). During a thunderstorm, lightning and thunder occur at the same time and place. But light reaches our eyes almost instantly, while sound takes time. The delay between seeing lightning and hearing thunder can be used to estimate distance: distance (in meters) = speed of sound × time delay (in seconds). For example, a 5-second delay means the lightning is about 1700 m away."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What is the Golghumat? How does it produce multiple echoes?",
+      "answer": "Golghumat (Gol Gumbaz) in Vijapur, Karnataka, is a large mausoleum with a massive dome. Its spherical interior and hard surfaces cause sound to reflect multiple times. A single sound made at the centre gets reflected repeatedly from the walls and dome, producing multiple overlapping echoes that persist for several seconds. This phenomenon is due to the large size, curved architecture, and highly reflective surfaces, which prevent sound absorption and allow sustained reverberation."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How can classroom design prevent echo?",
+      "answer": "To prevent echo in classrooms: 1. Use sound-absorbing materials on walls (acoustic panels, fabric wall coverings). 2. Install false ceilings with acoustic tiles. 3. Use carpets or rubber flooring. 4. Place curtains on windows. 5. Arrange furniture (bookshelves, upholstered chairs) to break up sound waves. 6. Avoid large parallel walls; design walls with angles or curves to scatter sound. 7. Ensure proper room dimensions (not too high or too long) to reduce reflection paths. These measures absorb sound energy and reduce reflection, improving speech clarity."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Compare good and bad reflectors of sound with examples.",
+      "answer": "Good reflectors of sound are hard, smooth, and dense surfaces that reflect most incident sound. Examples: concrete walls, metal sheets, tiled floors, mountains. They produce clear echoes. Bad reflectors (sound absorbers) are soft, porous, and rough materials that absorb sound energy. Examples: carpets, curtains, foam, upholstered furniture, acoustic tiles. They reduce echo and reverberation, improving acoustic quality in rooms."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Describe Spallanzani's experiment with bats. What did he discover?",
+      "answer": "Italian scientist Spallanzani (18th century) experimented with bats to understand how they navigate in darkness. He covered bats' eyes, ears, and noses separately and observed their flight. Bats with covered eyes flew normally without collisions. But bats with covered ears collided with obstacles even with eyes open. He concluded that bats rely on hearing, not vision, to avoid obstacles. This led to the discovery of echolocation—bats emit high-pitched sounds and use echoes to sense surroundings."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "How does the human brain process sound from the ear?",
+      "answer": "Sound waves enter the ear, vibrate the eardrum, which moves the ossicles in the middle ear. These vibrations reach the cochlea in the inner ear, where fluid motion bends hair cells. Bending generates electrical signals in the auditory nerve. These signals travel to the brainstem, then to the auditory cortex in the temporal lobe. The brain processes pitch, loudness, direction, and pattern, allowing recognition of speech, music, and environmental sounds. It also filters background noise and focuses on relevant sounds."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What is the 60/60 rule for headphone safety?",
+      "answer": "The 60/60 rule is a guideline to prevent hearing damage from headphones: listen at no more than 60% of maximum volume for no longer than 60 minutes at a time. Prolonged exposure to high volume can damage inner ear hair cells. Taking breaks allows ears to recover. Using noise-cancelling headphones helps listen at lower volumes in noisy environments. Following this rule reduces risk of noise-induced hearing loss."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "How do temperature and humidity affect sound speed in air?",
+      "answer": "Temperature: Sound speed increases with temperature because warmer air has faster-moving molecules that transmit vibrations quicker. Formula: v ∝ √T. Humidity: Sound travels slightly faster in humid air because water vapor molecules are lighter than nitrogen and oxygen, reducing the average molecular weight of air. However, the effect is small compared to temperature. For example, at 20°C, sound speed is about 343 m/s in dry air and about 344 m/s in saturated air."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Explain why sound cannot travel through a vacuum.",
+      "answer": "Sound requires a medium (solid, liquid, or gas) to travel because it propagates through vibrations of particles. In a vacuum, there are no particles to vibrate and transfer energy. Thus, sound waves cannot be transmitted. This is why astronauts cannot talk directly in space; they use radio waves (electromagnetic waves) which do not need a medium. Demonstrations like a bell jar experiment show that as air is pumped out, the sound from a bell inside becomes fainter and eventually inaudible."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What is noise pollution? List its sources and effects.",
+      "answer": "Noise pollution is unwanted or harmful sound that disrupts the environment. Sources: traffic, industrial machinery, construction, loudspeakers, aircraft, household appliances. Effects: 1. Hearing loss (temporary or permanent). 2. Stress, sleep disturbance, hypertension. 3. Reduced concentration and productivity. 4. Wildlife disruption (birds, marine animals). 5. Communication interference. Control measures: sound barriers, noise regulations, use of silencers, green belts, public awareness."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Describe how string instruments produce sound of different pitches.",
+      "answer": "String instruments (e.g., guitar, violin) produce sound by vibrating strings. Pitch depends on frequency, which is determined by: 1. Length: Shorter strings vibrate faster, producing higher pitch. 2. Tension: Tighter strings vibrate faster, higher pitch. 3. Thickness/Mass: Thinner/lighter strings vibrate faster, higher pitch. Players change pitch by pressing strings against frets to shorten vibrating length (guitar) or by adjusting tension (tuning pegs). The vibrating strings transfer energy to the instrument's body, which amplifies the sound."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "What is Jaltarang? How does it produce musical notes?",
+      "answer": "Jaltarang is an Indian musical instrument consisting of porcelain or metal bowls filled with varying amounts of water. The bowls are struck gently with wooden sticks. The pitch of the sound depends on the amount of water: more water lowers the pitch (frequency) because the vibrating mass increases and the effective length of the air column changes. By adjusting water levels, different notes (sa, re, ga, ma, etc.) are produced. The bowls act as resonators, amplifying the sound. It demonstrates principles of vibration and resonance in musical acoustics."
+    }
+  ]
+}

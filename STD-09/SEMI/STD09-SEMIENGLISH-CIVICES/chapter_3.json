@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Semi-English.01",
+    "standard": "9",
+    "subject": "Civics",
+    "medium": "Semi-English",
+    "chapter_name": "महायुद्धोत्तर राजकीय घडामोडी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "स्वतंत्र आणि सार्वभौम राष्ट्रांचा समूह म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थानिक व्यवस्था",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आंतरराष्ट्रीय व्यवस्था",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सामाजिक व्यवस्था",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राज्यव्यवस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "आंतरराष्ट्रीय व्यवस्था"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "परस्परावलंबन हे कोणत्या व्यवस्थेचे महत्त्वाचे वैशिष्ट्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राचीन व्यवस्था",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्ययुगीन व्यवस्था",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आंतरराष्ट्रीय व्यवस्था",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जातिव्यवस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "आंतरराष्ट्रीय व्यवस्था"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पहिले महायुद्ध कोणत्या वर्षी संपले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९१८",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१९३९",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९४५",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९५०",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९१८"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भौगोलिक आकाराचा परराष्ट्र धोरणावर कसा परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काहीही परिणाम होत नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "थेट परिणाम होतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त सामाजिक परिणाम होतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त अंतर्गत परिणाम होतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "थेट परिणाम होतो"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "दुसरे महायुद्ध कोणत्या वर्षी सुरू झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९१४",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१९३९",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "१९४७",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९६२",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९३९"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "लोकशाही व्यवस्थेत परराष्ट्र धोरणावर कोण नियंत्रण ठेवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लष्कर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संसद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पोलीस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थानिक संस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "संसद"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "परराष्ट्र धोरण हे कशासाठी आवश्यक असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "व्यक्तिगत हितासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय हितासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थानिक राजकारणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ व्यापारासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय हितासाठी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "संयुक्त राष्ट्र संघटना कोणत्या उद्देशाने स्थापन झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युद्ध वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जागतिक शांतता राखण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार थांबवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वैचारिक संघर्षासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जागतिक शांतता राखण्यासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भारताच्या संविधानातील कलम ५१ कोणत्या क्षेत्राशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परराष्ट्र धोरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थानिक स्वराज्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृषी",
+          "is_correct": false
+        }
+      ],
+      "answer": "परराष्ट्र धोरण"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भारताने १९७४ साली अणुचाचणी कुठे केली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थुंबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पोखरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जैतापूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिल्ली",
+          "is_correct": false
+        }
+      ],
+      "answer": "पोखरण"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मानवी सुरक्षा ही संकल्पना कधी महत्त्वाची ठरली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पहिल्या महायुद्धानंतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शीतयुद्धानंतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "१९६२ नंतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वातंत्र्यापूर्वी",
+          "is_correct": false
+        }
+      ],
+      "answer": "शीतयुद्धानंतर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अलिप्ततावादाचा स्वीकार भारताने का केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युद्धात सहभागी होण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तटस्थ राहून विकास साधण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "महासत्ता बनण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यापार थांबवण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तटस्थ राहून विकास साधण्यासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "परराष्ट्र व्यवहार मंत्रालयाचे प्रमुख कार्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माहिती संकलन व विश्लेषण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्थानिक कायदे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पोलीस भरती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शालेय नियोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहिती संकलन व विश分析"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "१९९१ नंतर भारताने कोणते धोरण स्वीकारले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नियंत्रित अर्थव्यवस्था",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुक्त आर्थिक धोरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हुकूमशाही धोरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संरक्षण निर्बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्त आर्थिक धोरण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सीमा सुरक्षा दलाचे कार्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवाई संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सागरी संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सीमेवर गस्त घालणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अंतरिक्ष संशोधन",
+          "is_correct": false
+        }
+      ],
+      "answer": "सीमेवर गस्त घालणे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "तटरक्षक दल कोणत्या सीमांचे रक्षण करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भूदलाच्या सीमा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सागरी किनाऱ्यांच्या सीमा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवाई सीमा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राज्यसीमा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सागरी किनाऱ्यांच्या सीमा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धाचा कालखंड कधी संपला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९८०",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१९९१",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२००१",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९७१",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९९१"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भारताच्या संरक्षण दलांचे नियंत्रण कोणाकडे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रधानमंत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रपती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राज्यपाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मुख्यमंत्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रपती"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "प्रादेशिक सहकार्य वाढवण्यासाठी कोणती संघटना महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाटो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सार्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "G-7",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "UNO Security Council",
+          "is_correct": false
+        }
+      ],
+      "answer": "सार्क"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "मानवी सुरक्षेत कोणत्या गोष्टींचा समावेश होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त भौगोलिक सुरक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षण व आरोग्य सुरक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ लष्करी सुरक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्ध धोरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षण व आरोग्य सुरक्षा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणाचा मुख्य आधार कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संविधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लष्कर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "महासत्ता स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थानिक संस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "संविधान"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आर्थिक संबंध दृढ झाल्याने काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संघर्ष वाढतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "युद्धे टाळली जातात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निर्बंध वाढतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवाई धोका वाढतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "युद्धे टाळली जातात"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणाचा सुरुवातीचा कालखंड कोणत्या वर्षांपर्यंत मानला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९९० पर्यंत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१९७० पर्यंत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२००० पर्यंत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९५० पर्यंत",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९९० पर्यंत"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "परराष्ट्र धोरणाचे स्वरूप कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रवाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हुकूमशाहीवर आधारित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अमर्याद",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रवाही"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भारताच्या सागरी सीमांचे रक्षण कोण करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भूदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नौदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वायुदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "NCC",
+          "is_correct": false
+        }
+      ],
+      "answer": "नौदल"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भारताने कोणत्या करारावर स्वाक्षरी करण्यास नकार दिला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "NPT",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सार्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "NATO",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "BRICS",
+          "is_correct": false
+        }
+      ],
+      "answer": "NPT"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "१९९८ साली भारताने अणुचाचणी केली हे विधान कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बरोबर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अंशतः बरोबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "बरोबर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "संरक्षणानंतर परराष्ट्र धोरणात कोणत्या क्षेत्राला महत्त्व मिळाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरोग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जातिसंस्था",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धर्म",
+          "is_correct": false
+        }
+      ],
+      "answer": "तंत्रज्ञान"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "संघराज्य व्यवस्था असणाऱ्या देशांत कोणत्या घटकांचा विचार आवश्यक असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घटकराज्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त केंद्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ लष्कर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परदेशी कंपन्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "घटकराज्य"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भारताचे हवाई सीमा रक्षण कोण करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नौदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायुदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "CRPF",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "होमगार्ड",
+          "is_correct": false
+        }
+      ],
+      "answer": "वायुदल"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "आर्थिकदृष्ट्या सक्षम राष्ट्राला कोणता लाभ होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वतंत्र निर्णय घेता येतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "युद्धे करावी लागतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "करार आवश्यक नसतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंतर्गत संघर्ष वाढतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वतंत्र निर्णय घेता येतात"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "मानवी सुरक्षा म्हणजे कोणाची सुरक्षा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त देशाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशातील माणसांची",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ विद्यार्थ्यांची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लष्करी अधिकाऱ्यांची",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशातील माणसांची"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "सीमा सुरक्षा दलाचे भरती वयोगट कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२० ते ३५ वर्षे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१५ ते २० वर्षे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "३५ ते ५० वर्षे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१८ ते २५ वर्षे",
+          "is_correct": false
+        }
+      ],
+      "answer": "२० ते ३५ वर्षे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "दुसरे महायुद्ध कोणत्या वर्षी संपले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९४५",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१९३९",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९१८",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९६२",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९४५"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारताच्या अंतर्गत सुरक्षेला सर्वाधिक धोका कशाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दहशतवाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "माध्यमे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "NCC",
+          "is_correct": false
+        }
+      ],
+      "answer": "दहशतवाद"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "प्रादेशिक सहकार्यासाठी भारताने कोणत्या संघटनेत सहभाग घेतला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सार्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "NPT",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "NATO",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "G-8",
+          "is_correct": false
+        }
+      ],
+      "answer": "सार्क"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भारताच्या संरक्षण दलांना मदत करणारी दले कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निमलष्करी दले",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विद्यार्थी संघटना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्थानिक पोलीस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खाजगी संस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "निमलष्करी दले"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धानंतर भारताने कोणत्या देशांशी संबंध सुधारले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमेरिका व चीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त पाकिस्तान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इराण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ रशिया",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमेरिका व चीन"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "वैचारिक मतभेदांवर आधारित संघर्ष कोणत्या काळात अधिक होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शीतयुद्ध काळात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्यापूर्वी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९७४ नंतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२००० नंतर",
+          "is_correct": false
+        }
+      ],
+      "answer": "शीतयुद्ध काळात"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "संयुक्त राष्ट्र संघटना कोणत्या तत्त्वावर कार्य करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांतता व सहकार्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लष्करी वर्चस्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आर्थिक निर्बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अलिप्तता",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांतता व सहकार्य"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेतील अंतर्गत आणि बाह्य फरक कसा झाला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तो कमी महत्त्वाचा झाला आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तो अधिक महत्त्वाचा झाला आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तो तसाच राहिला आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फरक पूर्णपणे वाढला आहे",
+          "is_correct": false
+        }
+      ],
+      "answer": "तो कमी महत्त्वाचा झाला आहे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "होमगार्ड कोणत्या वयोगटातील नागरिकांना सामावून घेतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२० ते ३५",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१५ ते २०",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "३५ ते ५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१८ ते २५",
+          "is_correct": false
+        }
+      ],
+      "answer": "२० ते ३५"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणात आर्थिक पैलूंचा समावेश कशामुळे झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुक्त आर्थिक धोरणामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लष्करी करारामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संयुक्त राष्ट्रांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रादेशिक संघर्षामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्त आर्थिक धोरणामुळे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "तटरक्षक दलाचे मुख्य लक्ष कोणत्या सुरक्षेवर असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सागरी किनारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हवाई सीमा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भूदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सागरी किनारा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "शीतयुद्ध समाप्तीनंतर कोणते तत्त्व अधिक महत्त्वाचे ठरले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी सुरक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शस्त्रस्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हुकूमशाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अलिप्तता",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी सुरक्षा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सीमेलगत नागरिकांच्या मनात सुरक्षिततेची भावना कोण निर्माण करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सीमा सुरक्षा दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "NCC",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रधानमंत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माध्यमे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सीमा सुरक्षा दल"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "परराष्ट्र धोरण ठरवण्याचा अंतिम अधिकार कोणाकडे असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रधानमंत्री व मंत्रिमंडळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रपती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संसद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राज्यपाल",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रधानमंत्री व मंत्रिमंडळ"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "भारत-पाकिस्तान संघर्ष कोणत्या प्रश्नाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काश्मीर प्रश्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यापार प्रश्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षण प्रश्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यावरण प्रश्न",
+          "is_correct": false
+        }
+      ],
+      "answer": "काश्मीर प्रश्न"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "आर्थिकदृष्ट्या दुर्बल राष्ट्राला स्वातंत्र्य जपणे कठीण जाते हे विधान कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बरोबर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अंशतः बरोबर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "बरोबर"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "भारताच्या हवाई सीमा रक्षणाची जबाबदारी कोणत्या दलावर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भूदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नौदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वायुदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "CRPF",
+          "is_correct": false
+        }
+      ],
+      "answer": "वायुदल"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षा म्हणजे काय?",
+      "answer": "स्वतंत्र व सार्वभौम राष्ट्राने आपल्या अस्तित्वाचे आणि सार्वभौमत्वाचे रक्षण करण्यासाठी केलेली व्यवस्था म्हणजे राष्ट्रीय सुरक्षा होय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेचा संबंध कशाशी जोडलेला असतो?",
+      "answer": "राष्ट्रीय सुरक्षेचा संबंध प्रामुख्याने भौगोलिकतेशी जोडलेला असतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "भारताच्या सुरक्षा यंत्रणेत कोणती दले समाविष्ट आहेत?",
+      "answer": "भारताच्या सुरक्षा यंत्रणेत भूदल, नौदल आणि वायुदल ही तीन संरक्षण दले समाविष्ट आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भूदलाची मुख्य जबाबदारी कोणती असते?",
+      "answer": "भारताच्या भौगोलिक सीमांचे रक्षण करण्याची मुख्य जबाबदारी भूदलावर असते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "नौदल कोणत्या सीमांचे रक्षण करते?",
+      "answer": "नौदल भारताच्या सागरी सीमांचे रक्षण करते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वायुदलाची जबाबदारी कोणती असते?",
+      "answer": "भारताच्या हवाई सीमा आणि अवकाशाचे रक्षण करण्याची जबाबदारी वायुदलाची असते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "संरक्षण दलांवर कोणत्या मंत्रालयाचे नियंत्रण असते?",
+      "answer": "भारताच्या संरक्षण दलांवर संरक्षण मंत्रालयाचे नियंत्रण असते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "भारताचे भूदल आकाराने कसे आहे?",
+      "answer": "भारताचे भूदल खूप मोठे असून ते जगातील सातव्या क्रमांकाचे मानले जाते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "भूदलाच्या प्रमुखाला काय म्हणतात?",
+      "answer": "भूदलाच्या प्रमुखाला जनरल असे म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "नौदलाच्या प्रमुखाला कोणती पदवी असते?",
+      "answer": "नौदलाच्या प्रमुखाला ॲडमिरल ही पदवी असते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वायुदलाच्या प्रमुखाला काय म्हणतात?",
+      "answer": "वायुदलाच्या प्रमुखाला एअर चीफ मार्शल असे म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "संरक्षण प्रमुख हे पद कधी निर्माण करण्यात आले?",
+      "answer": "तीनही दलांत समन्वय राखण्यासाठी संरक्षण प्रमुख हे पद २०१९ मध्ये निर्माण करण्यात आले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "संरक्षण प्रमुखाची नेमणूक कोण करतो?",
+      "answer": "संरक्षण प्रमुखाची नेमणूक भारताचे राष्ट्रपती करतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "निमलष्करी दले म्हणजे काय?",
+      "answer": "भारताच्या संरक्षण दलांना मदत करणारी, परंतु पूर्णतः लष्करी नसलेली दले म्हणजे निमलष्करी दले होय."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सीमा सुरक्षा दल कोणती कामे करते?",
+      "answer": "सीमा सुरक्षा दल सीमेवर गस्त घालणे, तस्करी रोखणे आणि नागरिकांच्या मनात सुरक्षिततेची भावना निर्माण करणे ही कामे करते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "तटरक्षक दलाची निर्मिती कशासाठी झाली?",
+      "answer": "भारताच्या सागरी किनाऱ्यांचे रक्षण करण्यासाठी तटरक्षक दलाची निर्मिती करण्यात आली."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "तटरक्षक दल कोणती कामे पार पाडते?",
+      "answer": "सागरी हद्दीतील मच्छीमारी व्यवसायास संरक्षण देणे आणि चोरटा व्यापार थांबवणे ही कामे तटरक्षक दल करते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "केंद्रीय राखीव पोलीस दलाचे प्रमुख कार्य काय?",
+      "answer": "कायद्याचे व सुव्यवस्थेचे काम करताना राज्य प्रशासनास मदत करणे हे केंद्रीय राखीव पोलीस दलाचे प्रमुख कार्य आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "जलद कृतिदल कधी सक्रिय होते?",
+      "answer": "बाँबस्फोट, दंगे किंवा अचानक अस्थिरता निर्माण झाल्यास जलद कृतिदल सक्रिय होते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय छात्रसेना म्हणजे काय?",
+      "answer": "विद्यार्थ्यांमध्ये शिस्त व लष्करी शिक्षणाची आवड निर्माण करण्यासाठी स्थापन केलेली संघटना म्हणजे राष्ट्रीय छात्रसेना होय."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "होमगार्डमध्ये भरतीसाठी वयोगट कोणता आहे?",
+      "answer": "वीस ते पस्तीस वर्षे वयोगटातील कोणत्याही स्त्री-पुरुष नागरिकांस होमगार्डमध्ये भरती होता येते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "गृहरक्षक दल कोणती कामे करते?",
+      "answer": "पोलिसांच्या बरोबरीने सार्वजनिक सुरक्षितता राखणे आणि आपत्तीच्या वेळी मदत करणे ही कामे गृहरक्षक दल करते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "अंतर्गत सुरक्षितता आणि बाह्य सुरक्षितता यातील फरक कसा आहे?",
+      "answer": "आधुनिक काळात अंतर्गत आणि बाह्य सुरक्षितता यातील फरक पूर्वीसारखा महत्त्वाचा राहिलेला नाही."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "नक्षलवादी चळवळ कोणत्या प्रकारचे आव्हान निर्माण करते?",
+      "answer": "नक्षलवादी चळवळ भारताच्या अंतर्गत सुरक्षेला मोठे आव्हान निर्माण करते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "दहशतवाद ही कोणत्या प्रकारची समस्या आहे?",
+      "answer": "दहशतवाद ही एक जागतिक स्वरूपाची समस्या आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षा म्हणजे काय?",
+      "answer": "मानवी सुरक्षा म्हणजे केवळ देशाची नाही तर देशात राहणाऱ्या माणसांची सर्व धोक्यांपासून सुरक्षा होय."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षा कशासाठी आवश्यक आहे?",
+      "answer": "माणसांना शिक्षण, आरोग्य आणि विकासाच्या संधी मिळाव्यात म्हणून मानवी सुरक्षा आवश्यक आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "हिंसाचार वाढल्याने कोणता धोका निर्माण होतो?",
+      "answer": "समाजात हिंसाचार वाढल्याने मानवी सुरक्षेला धोका निर्माण होतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पर्यावरणातील बदलांचा मानवी सुरक्षेशी काय संबंध आहे?",
+      "answer": "पर्यावरणातील बदल आणि प्रदूषण यांमुळे मानवी आरोग्यास धोका निर्माण होतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "रोगराई हा मानवी सुरक्षेतील घटक का आहे?",
+      "answer": "एड्स, डेंग्यू, कोरोना यांसारख्या रोगांपासून संरक्षण करणे हा मानवी सुरक्षेचा महत्त्वाचा भाग आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय संघर्ष कधी निर्माण होतो?",
+      "answer": "जेव्हा राष्ट्रांमध्ये परस्परविरोधी हितसंबंध निर्माण होतात तेव्हा आंतरराष्ट्रीय संघर्ष निर्माण होतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "संघर्ष निराकरणाचे मुख्य मार्ग कोणते?",
+      "answer": "तडजोड, चर्चा आणि वाटाघाटी हे संघर्ष निराकरणाचे मुख्य मार्ग आहेत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "आधुनिक तंत्रज्ञानाचा सुरक्षा व्यवस्थेत कसा उपयोग होतो?",
+      "answer": "धोक्याचा अंदाज बांधणे आणि संरक्षण दलांचे आधुनिकीकरण करणे यासाठी आधुनिक तंत्रज्ञानाचा उपयोग होतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "लष्करी ताकद वाढवण्यामागील मुख्य उद्देश काय?",
+      "answer": "भौगोलिक सीमांना असणारा धोका दूर ठेवणे हा लष्करी ताकद वाढवण्यामागील मुख्य उद्देश आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "लष्करी राजवट म्हणजे काय?",
+      "answer": "ज्या देशात लोकशाही शासन नसून लष्कराचे पूर्ण नियंत्रण असते ती व्यवस्था म्हणजे लष्करी राजवट होय."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "लोकशाहीत नागरी नेतृत्व कसे मानले जाते?",
+      "answer": "लोकशाहीत नागरी नेतृत्व लष्करी नेतृत्वापेक्षा श्रेष्ठ मानले जाते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "राष्ट्राच्या अस्तित्वाला धोका कशामुळे निर्माण होतो?",
+      "answer": "आक्रमक राष्ट्रांचे लष्करी सामर्थ्य आणि अंतर्गत बंडखोर चळवळी यांमुळे राष्ट्राच्या अस्तित्वाला धोका निर्माण होतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "अण्वस्त्र कपात का आवश्यक आहे?",
+      "answer": "शस्त्रस्पर्धेमुळे असुरक्षिततेची भावना वाढत असल्याने अण्वस्त्र कपात आवश्यक आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "परस्परावलंबन वाढल्याने काय होते?",
+      "answer": "परस्परावलंबन वाढल्याने राष्ट्रांमध्ये शांतता आणि सुरक्षितता वाढते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "संयुक्त राष्ट्र संघटना कोणती कामे करते?",
+      "answer": "आंतरराष्ट्रीय शांतता राखणे आणि वाद सोडवण्यासाठी व्यासपीठ उपलब्ध करणे ही कामे संयुक्त राष्ट्र संघटना करते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "भारताच्या हवाई सीमांचे रक्षण कोण करते?",
+      "answer": "भारताच्या हवाई सीमांचे रक्षण वायुदल करते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "सागरी सीमा रक्षणाचे काम कोणत्या दलाचे आहे?",
+      "answer": "सागरी सीमा रक्षणाचे काम नौदल आणि तटरक्षक दलाचे आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "महत्त्वाच्या ठिकाणांचे संरक्षण कोण करते?",
+      "answer": "रेल्वेस्थानके, तेलसाठे, पाणीसाठे यांसारख्या महत्त्वाच्या ठिकाणांचे संरक्षण निमलष्करी दले करतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापनात कोण सहभागी असतात?",
+      "answer": "नैसर्गिक किंवा मानवनिर्मित आपत्ती व्यवस्थापनात निमलष्करी दले सहभागी असतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर परराष्ट्र धोरणात कोणता बदल झाला?",
+      "answer": "शीतयुद्धानंतर परराष्ट्र धोरण अधिक व्यापक झाले आणि मानवी सुरक्षेला महत्त्व मिळाले."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "संविधानातील मार्गदर्शक तत्त्वे कशासाठी उपयुक्त आहेत?",
+      "answer": "ही तत्त्वे परराष्ट्र धोरणाची दिशा ठरवण्यासाठी उपयुक्त आहेत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणात शांततेचे स्थान कोणते?",
+      "answer": "भारताच्या परराष्ट्र धोरणात आंतरराष्ट्रीय शांततेला मध्यवर्ती स्थान आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "भारत-चीन संबंधांत तणाव का आहे?",
+      "answer": "सीमावाद आणि प्रादेशिक स्पर्धेमुळे भारत-चीन संबंधांत तणाव आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "भारत-पाकिस्तान संबंधात कोणते प्रश्न आहेत?",
+      "answer": "काश्मीर समस्या, पाणीवाटप आणि सीमावाद हे भारत-पाकिस्तान संबंधातील महत्त्वाचे प्रश्न आहेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेसाठी कोणती बाब सर्वाधिक महत्त्वाची आहे?",
+      "answer": "कोणत्याही परिस्थितीत राष्ट्राचे सार्वभौमत्व आणि अस्तित्व सुरक्षित ठेवणे ही बाब सर्वाधिक महत्त्वाची आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "भारताचे भूदल जगात कोणत्या क्रमांकाचे मानले जाते?",
+      "answer": "भारताचे भूदल जगातील सातव्या क्रमांकाचे मानले जाते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "संरक्षण दलांचे समन्वय कोण करते?",
+      "answer": "संरक्षण प्रमुख (Chief of Defence Staff) हे पद संरक्षण दलांचे समन्वय करते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "राष्ट्राच्या सीमारेषांबाबत वाद कोणत्या देशांशी आहेत?",
+      "answer": "भारताच्या सीमारेषांबाबत वाद प्रामुख्याने पाकिस्तान आणि चीन या देशांशी आहेत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षेत कोणत्या क्षेत्रांचा समावेश होतो?",
+      "answer": "मानवी सुरक्षेत शिक्षण, आरोग्य, पर्यावरण आणि मानवी हक्क यांचा समावेश होतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षेचा अंतिम उद्देश काय आहे?",
+      "answer": "सर्वांना सन्मानाने आणि निर्भयपणे जगण्यास पोषक परिस्थिती निर्माण करणे हा मानवी सुरक्षेचा अंतिम उद्देश आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय व्यवस्था कोणत्या राष्ट्रांची बनलेली आहे?",
+      "answer": "आंतरराष्ट्रीय व्यवस्था सार्वभौम राष्ट्रांची बनलेली आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंघ कोणत्या युद्धानंतर स्थापन झाला?",
+      "answer": "राष्ट्रसंघ पहिल्या महायुद्धानंतर स्थापन झाला."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धाचा कालखंड कधी संपला?",
+      "answer": "शीतयुद्धाचा कालखंड १९९१ साली संपला."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "लोकशाहीत कोणते साधन युद्ध टाळण्यास मदत करते?",
+      "answer": "आर्थिक संबंध आणि परस्परावलंबन हे साधन युद्ध टाळण्यास मदत करते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "परस्परविरोधी हितसंबंधांचे निराकारण कशावर आधारित असते?",
+      "answer": "परस्परविरोधी हितसंबंधांचे निराकारण तडजोड आणि चर्चेवर आधारित असते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "भारताच्या सागरी हद्दीचे रक्षण कोण करते?",
+      "answer": "भारताच्या सागरी हद्दीचे रक्षण नौदल आणि तटरक्षक दल करते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "केंद्रीय राखीव पोलीस दल कोणत्या कामात मदत करते?",
+      "answer": "केंद्रीय राखीव पोलीस दल विविध राज्यांमध्ये कायदा व सुव्यवस्था राखण्यात मदत करते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "अणुबॉम्ब वापराचे उदाहरण कोणत्या युद्धाशी संबंधित आहे?",
+      "answer": "अणुबॉम्ब वापराचे उदाहरण दुसऱ्या महायुद्धाशी संबंधित आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "परराष्ट्र धोरणातील निर्णय कसे घेतले जातात?",
+      "answer": "परराष्ट्र धोरणातील निर्णय माहिती आणि विश्लेषण यांच्या आधारे विचारपूर्वक घेतले जातात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षेला धोका कोणत्या समस्येमुळे अधिक आहे?",
+      "answer": "मानवी सुरक्षेला धोका दहशतवाद या समस्येमुळे सर्वाधिक आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "पर्यावरण प्रदूषणामुळे कोणता धोका निर्माण होतो?",
+      "answer": "पर्यावरण प्रदूषणामुळे मानवी आरोग्य आणि जीवनमान धोक्यात येते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "भारताच्या संरक्षण दलांवर अंतिम नियंत्रण कोणाचे असते?",
+      "answer": "भारताच्या संरक्षण दलांवर अंतिम नियंत्रण राष्ट्रपतींचे असते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "अवकाश रक्षणासाठी कोणते दल जबाबदार असते?",
+      "answer": "अवकाश रक्षणासाठी वायुदल जबाबदार असते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "सीमा सुरक्षा दल कोणत्या वयोगटातील नागरिकांना संरक्षण देते?",
+      "answer": "सीमा सुरक्षा दल सीमेलगत राहणाऱ्या सर्व नागरिकांना संरक्षण देते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षा ही संकल्पना कोणत्या काळानंतर अधिक महत्त्वाची झाली?",
+      "answer": "मानवी सुरक्षा ही संकल्पना शीतयुद्धानंतर अधिक महत्त्वाची झाली."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय करारांचे पालन न केल्यास काय होते?",
+      "answer": "आंतरराष्ट्रीय करारांचे पालन न केल्यास राष्ट्रांमध्ये तणाव आणि संघर्ष वाढतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध काळातील प्रमुख खर्च कोणत्या क्षेत्रात होता?",
+      "answer": "शीतयुद्ध काळातील प्रमुख खर्च लष्करी क्षेत्रात होता."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "परस्परावलंबनामुळे शांतता का वाढते?",
+      "answer": "परस्परावलंबनामुळे आर्थिक लाभ आणि संवाद वाढतो म्हणून शांतता वाढते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "भारताच्या संविधानात राष्ट्रीय सुरक्षा कशासाठी आवश्यक मानली आहे?",
+      "answer": "भारताच्या संविधानात राष्ट्रीय सुरक्षा सार्वभौमत्वाच्या रक्षणासाठी आवश्यक मानली आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "दंगे किंवा बंद या काळात कोणते दल मदत करते?",
+      "answer": "दंगे किंवा बंद या काळात गृहरक्षक दल मदत करते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "सीमेवर तस्करी रोखण्याचे कार्य कोण करते?",
+      "answer": "सीमेवर तस्करी रोखण्याचे कार्य सीमा सुरक्षा दल करते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "मच्छीमारी व्यवसायास संरक्षण देणारे दल कोणते?",
+      "answer": "मच्छीमारी व्यवसायास संरक्षण देणारे दल तटरक्षक दल आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय व्यवस्था प्रवाही का मानली जाते?",
+      "answer": "राष्ट्रांचे हितसंबंध बदलत असल्याने आंतरराष्ट्रीय व्यवस्था प्रवाही मानली जाते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षेसाठी कोणत्या संधी आवश्यक आहेत?",
+      "answer": "मानवी सुरक्षेसाठी शिक्षण, आरोग्य आणि विकासाच्या संधी आवश्यक आहेत."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध समाप्तीनंतर कोणते राष्ट्र सर्वाधिक प्रभावी ठरले?",
+      "answer": "शीतयुद्ध समाप्तीनंतर अमेरिका हे राष्ट्र सर्वाधिक प्रभावी ठरले."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "भारताच्या हवाई सीमांचे रक्षण करण्यासाठी कोणती यंत्रणा सज्ज ठेवावी लागते?",
+      "answer": "भारताच्या हवाई सीमांचे रक्षण करण्यासाठी वायुदल सज्ज आणि अद्ययावत ठेवावे लागते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेला धोका निर्माण करणारे शेजारी देश कोणते?",
+      "answer": "राष्ट्रीय सुरक्षेला धोका निर्माण करणारे शेजारी देश पाकिस्तान आणि चीन आहेत."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षेत पर्यावरण रक्षणाचा समावेश का होतो?",
+      "answer": "पर्यावरणातील बदल मानवी जीवनाला धोका निर्माण करतात म्हणून पर्यावरण रक्षणाचा समावेश होतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापनात निमलष्करी दले कशी मदत करतात?",
+      "answer": "आपत्तीच्या काळात मनुष्यबळ आणि व्यवस्थापन पुरवून निमलष्करी दले मदत करतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "परराष्ट्र धोरण आणि सुरक्षा व्यवस्था यातील मुख्य संबंध काय?",
+      "answer": "परराष्ट्र धोरण आणि सुरक्षा व्यवस्था दोन्ही राष्ट्रीय हितसंबंधांच्या रक्षणासाठी आवश्यक असतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "संरक्षण मंत्रालयाचे कार्य काय असते?",
+      "answer": "संरक्षण मंत्रालय संरक्षण दलांचे नियंत्रण, नियोजन आणि आधुनिकीकरण करते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध काळातील संघर्षाचा मुख्य आधार कोणता होता?",
+      "answer": "शीतयुद्ध काळातील संघर्षाचा मुख्य आधार वैचारिक मतभेद आणि शस्त्रस्पर्धा हा होता."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "सीमावादामुळे कोणता धोका निर्माण होतो?",
+      "answer": "सीमावादामुळे राष्ट्राच्या भौगोलिक सुरक्षेला धोका निर्माण होतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावादी चळवळीचे मुख्य मूल्य कोणते?",
+      "answer": "अलिप्ततावादी चळवळीचे मुख्य मूल्य मानवतावाद आणि जागतिक शांतता आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "भारताचे राष्ट्रपती कोणत्या प्रकारच्या सत्तेचे प्रतिनिधित्व करतात?",
+      "answer": "भारताचे राष्ट्रपती नागरी सत्तेचे प्रतिनिधित्व करतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "अंतर्गत बंडखोर चळवळींमुळे काय परिणाम होतो?",
+      "answer": "अंतर्गत बंडखोर चळवळींमुळे देशात अस्थिरता आणि असुरक्षितता वाढते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "दहशतवादाचे लक्ष्य कोण असतात?",
+      "answer": "दहशतवादाचे लक्ष्य सामान्य आणि निरपराध नागरिक असतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "पर्यावरणीय बदलांचे एक उदाहरण द्या.",
+      "answer": "पर्यावरणीय बदलांचे एक उदाहरण म्हणजे प्रदूषण वाढ आणि हवामान बदल होय."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "कोरोना सारख्या रोगांनी कोणते आव्हान निर्माण केले?",
+      "answer": "कोरोना सारख्या रोगांनी मानवी सुरक्षेसाठी आरोग्यविषयक मोठे आव्हान निर्माण केले."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय शांततेसाठी कोणत्या गोष्टी आवश्यक आहेत?",
+      "answer": "आंतरराष्ट्रीय शांततेसाठी राष्ट्रांमधील संवाद आणि परस्परावलंबन आवश्यक आहेत."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "आर्थिक नुकसानीच्या भीतीमुळे राष्ट्रे काय करतात?",
+      "answer": "आर्थिक नुकसानीच्या भीतीमुळे राष्ट्रे युद्धे टाळण्याचा प्रयत्न करतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षा कशासाठी केंद्रस्थानी ठेवली जाते?",
+      "answer": "राष्ट्रीय सुरक्षा ही अंतिमतः माणसांसाठी असल्याने मानवी सुरक्षा केंद्रस्थानी ठेवली जाते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "भारत कोणत्या समस्येच्या विरोधात प्रयत्नशील आहे?",
+      "answer": "भारत दहशतवाद नष्ट करण्याच्या समस्येच्या विरोधात प्रयत्नशील आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "आरोग्यविषयक सुरक्षा हा कोणत्या सुरक्षेचा भाग आहे?",
+      "answer": "आरोग्यविषयक सुरक्षा हा मानवी सुरक्षेचा भाग आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणानंतर परराष्ट्र धोरणात कोणते बदल झाले?",
+      "answer": "जागतिकीकरणानंतर परराष्ट्र धोरणात खुलेपणा, व्यापार वाढ आणि तंत्रज्ञान देवाणघेवाण यांसारखे बदल झाले."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय व्यवस्था कशी तयार होते?",
+      "answer": "आंतरराष्ट्रीय व्यवस्था स्वतंत्र आणि सार्वभौम देशांच्या परस्पर संबंधांमधून तयार होते. प्रत्येक राष्ट्र आपले हितसंबंध जपण्यासाठी इतर राष्ट्रांशी व्यवहार करते. या व्यवहारात आर्थिक, सामाजिक आणि राजकीय घटक महत्त्वाचे असतात. देशांमधील सहकार्य आणि स्पर्धा यांचा समतोल साधला जातो. आंतरराष्ट्रीय समस्या चर्चा आणि वाटाघाटीने सोडवल्या जातात. त्यामुळे जागतिक शांतता राखण्याचा प्रयत्न होतो."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "पहिल्या महायुद्धाचे स्वरूप स्पष्ट करा.",
+      "answer": "पहिले महायुद्ध १९१४ ते १९१८ या कालखंडात झाले. या युद्धात प्रामुख्याने युरोप खंडाला महत्त्व होते. अनेक राष्ट्रे दोन गटांत विभागली गेली होती. युद्धामुळे मोठ्या प्रमाणावर मनुष्यहानी आणि वित्तहानी झाली. या युद्धाने जागतिक राजकारण बदलले. राष्ट्रसंघाच्या स्थापनेस चालना मिळाली."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "राष्ट्रसंघाची स्थापना आणि अपयश स्पष्ट करा.",
+      "answer": "पहिल्या महायुद्धानंतर युद्ध टाळण्यासाठी राष्ट्रसंघाची स्थापना करण्यात आली. आंतरराष्ट्रीय समस्या चर्चा करण्याचे ते व्यासपीठ होते. राष्ट्रांमधील तणाव कमी करणे हा त्याचा उद्देश होता. मात्र महासत्तांच्या स्पर्धेमुळे राष्ट्रसंघाला मर्यादित यश मिळाले. दुसरे महायुद्ध टाळण्यात राष्ट्रसंघ अपयशी ठरला. त्यामुळे ही संघटना कमजोर झाली."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "दुसऱ्या महायुद्धाचे परिणाम स्पष्ट करा.",
+      "answer": "दुसरे महायुद्ध १९३९ ते १९४५ या कालखंडात झाले. हे युद्ध पहिल्या महायुद्धापेक्षा अधिक व्यापक होते. या युद्धात अणुबॉम्बसारख्या संहारक तंत्रज्ञानाचा वापर झाला. हिरोशिमा आणि नागासाकीवर अणुबॉम्ब टाकण्यात आले. युद्धामुळे जगभर अस्थिरता निर्माण झाली. शीतयुद्धाची सुरुवात झाली."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध म्हणजे काय ते स्पष्ट करा.",
+      "answer": "शीतयुद्ध म्हणजे प्रत्यक्ष युद्ध नसले तरी तणावपूर्ण संघर्षाची परिस्थिती होय. दुसऱ्या महायुद्धानंतर अमेरिका आणि सोव्हिएत रशिया या महासत्तांमध्ये हा संघर्ष सुरू झाला. दोन्ही राष्ट्रांनी आपले वर्चस्व वाढवण्याचा प्रयत्न केला. NATO आणि वॉर्सा करार यांसारख्या लष्करी संघटना निर्माण झाल्या. या काळात जगाचे द्विध्रुवीकरण झाले. अखेर १९९१ साली सोव्हिएत रशियाच्या विघटनामुळे शीतयुद्ध संपले."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "शीतयुद्धामुळे जगाचे द्विध्रुवीकरण कसे झाले?",
+      "answer": "शीतयुद्धाच्या काळात अमेरिका आणि सोव्हिएत रशिया या दोन महासत्तांमध्ये तीव्र स्पर्धा होती. दोन्ही महासत्तांनी आपापले गट निर्माण केले. लहान आणि विकसनशील राष्ट्रांना आपल्या बाजूने वळवण्याचा प्रयत्न झाला. त्यामुळे जगातील देश दोन प्रमुख गटांत विभागले गेले. यालाच द्विध्रुवीकरण असे म्हणतात. या विभागणीमुळे आंतरराष्ट्रीय राजकारण तणावपूर्ण बनले."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "मिखाईल गोर्बाचेव्ह यांच्या धोरणांचे महत्त्व स्पष्ट करा.",
+      "answer": "मिखाईल गोर्बाचेव्ह यांनी पेरेस्त्रोईका आणि ग्लासनोस्त ही धोरणे स्वीकारली. या धोरणांमुळे सोव्हिएत रशियात खुलेपणा आणि पुनर्रचना घडून आली. माध्यमांवरील नियंत्रण कमी करण्यात आले. लोकशाहीकरणाला चालना मिळाली. आंतरराष्ट्रीय तणाव कमी होण्यास मदत झाली. अखेर सोव्हिएत रशियाचे विघटन होऊन शीतयुद्ध संपले."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "NATO संघटनेचे स्वरूप आणि उद्देश स्पष्ट करा.",
+      "answer": "NATO ही अमेरिकेच्या प्रभुत्वाखालील लष्करी संघटना होती. शीतयुद्धाच्या काळात संरक्षणासाठी ही संघटना निर्माण करण्यात आली. पश्चिम युरोपातील राष्ट्रे या गटात सामील झाली होती. साम्यवादी प्रभाव रोखणे हा मुख्य उद्देश होता. या संघटनेने अमेरिकेचे लष्करी वर्चस्व वाढवले. शीतयुद्ध काळात NATO महत्त्वाची भूमिका बजावत होती."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "वॉर्सा कराराचे स्वरूप स्पष्ट करा.",
+      "answer": "वॉर्सा करार ही सोव्हिएत रशियाच्या प्रभुत्वाखालील लष्करी संघटना होती. शीतयुद्धाच्या काळात अमेरिकेच्या NATO ला प्रत्युत्तर म्हणून हा करार करण्यात आला. पूर्व युरोपातील राष्ट्रे या गटात होती. या करारामुळे साम्यवादी राष्ट्रांची लष्करी एकता वाढली. त्यामुळे महासत्तांमधील तणाव अधिक तीव्र झाला. हा करार शीतयुद्ध समाप्तीपर्यंत अस्तित्वात होता."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळ का आवश्यक वाटली?",
+      "answer": "शीतयुद्धाच्या काळात महासत्तांमध्ये तीव्र स्पर्धा सुरू होती. या स्पर्धेत लहान राष्ट्रांचे हित दुर्लक्षित होत होते. त्यामुळे आशिया आणि आफ्रिका खंडातील राष्ट्रांनी तटस्थ राहण्याचा निर्णय घेतला. गरीब राष्ट्रांच्या समस्या मांडण्यासाठी स्वतंत्र व्यासपीठ हवे होते. म्हणून अलिप्ततावादी चळवळ सुरू करण्यात आली. या चळवळीने शांततेच्या मार्गाला प्रोत्साहन दिले."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "अलिप्ततावाद म्हणजे काय?",
+      "answer": "अलिप्ततावाद म्हणजे महासत्तांच्या संघर्षापासून दूर राहण्याचे धोरण होय. या चळवळीची सुरुवात १९६१ साली झाली. या चळवळीने वसाहतवाद, साम्राज्यवाद आणि वंशवाद यांना विरोध केला. भारत या चळवळीचा महत्त्वाचा सदस्य होता. विकसनशील राष्ट्रांना न्याय मिळवून देणे हा त्याचा उद्देश होता. अलिप्ततावाद मानवतावादी मूल्यांवर आधारित होता."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतर आंतरराष्ट्रीय राजकारणात कोणते बदल झाले?",
+      "answer": "१९९१ नंतर शीतयुद्ध संपले. त्यानंतर आंतरराष्ट्रीय संबंध अधिक खुले आणि आर्थिक स्वरूपाचे झाले. सीमारेषांचे महत्त्व कमी झाले. शत्रुराष्ट्र ऐवजी स्पर्धक राष्ट्र ही संकल्पना पुढे आली. प्रादेशिक संघटनांचे महत्त्व वाढले. जागतिक शांतता राखण्यासाठी संयुक्त राष्ट्रांची भूमिका विस्तारली."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "जागतिकीकरणामुळे आंतरराष्ट्रीय संबंध कसे बदलले?",
+      "answer": "जागतिकीकरणामुळे राष्ट्रांमधील आर्थिक व्यवहार वाढले. माहिती तंत्रज्ञान विकसित झाल्याने देवाणघेवाण सुलभ झाली. विविध क्षेत्रांमध्ये आंतरराष्ट्रीय सहकार्य वाढले. व्यापाराला अधिक प्राधान्य मिळाले. त्यामुळे जागतिक पातळीवरील संवाद अधिक वेगवान झाला. देशांमधील परस्परावलंबन अधिक दृढ झाले."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध संपण्याची प्रक्रिया स्पष्ट करा.",
+      "answer": "सोव्हिएत रशियात आर्थिक आणि राजकीय संकटे वाढली होती. गोर्बाचेव्ह यांनी पुनर्रचना आणि खुलेपणाची धोरणे स्वीकारली. माध्यमांवरील निर्बंध कमी केले. पूर्व युरोपातील राष्ट्रे स्वतंत्र होऊ लागली. अखेर १९९१ साली सोव्हिएत रशियाचे विघटन झाले. या घटनेमुळे शीतयुद्ध पूर्णपणे संपले."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय समस्या सोडवण्यात चर्चा का महत्त्वाची असते?",
+      "answer": "युद्ध हे समस्या सोडवण्याचा योग्य मार्ग नाही. युद्धामुळे मोठ्या प्रमाणावर हानी होते. चर्चा आणि वाटाघाटीने तणाव कमी होतो. परस्पर समज वाढते. राष्ट्रांचे हितसंबंध जपले जातात. म्हणून आंतरराष्ट्रीय संबंधात चर्चा अत्यंत महत्त्वाची असते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "पहिल्या महायुद्धानंतर लोकशाहीवर काय परिणाम झाला?",
+      "answer": "पहिल्या महायुद्धानंतर अनेक देशांमध्ये अस्थिरता निर्माण झाली. युरोपात हुकूमशाही राजवटी उदयास आल्या. लोकशाही मूल्ये धोक्यात आली. राष्ट्रांमध्ये अविश्वास वाढला. या परिस्थितीतून दुसरे महायुद्ध घडले. त्यामुळे लोकशाहीवर नकारात्मक परिणाम झाला."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीचे यश कोणते?",
+      "answer": "अलिप्ततावादी चळवळीने गरीब राष्ट्रांना आवाज दिला. शांततेच्या मार्गाचा पुरस्कार केला. विकसनशील राष्ट्रांमधील एकता वाढवली. जागतिक प्रश्न मांडण्यासाठी व्यासपीठ दिले. NIEO सारख्या मागण्यांना प्रोत्साहन मिळाले. त्यामुळे ही चळवळ काही प्रमाणात यशस्वी ठरली."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "संयुक्त राष्ट्र संघटनेची शीतयुद्धानंतरची भूमिका स्पष्ट करा.",
+      "answer": "शीतयुद्धानंतर संयुक्त राष्ट्र संघटना अधिक सक्रिय झाली. जागतिक शांतता आणि सुरक्षिततेसाठी प्रयत्न वाढले. आर्थिक आणि पर्यावरणीय प्रश्न महत्त्वाचे झाले. विविध राष्ट्रांमध्ये सहकार्य वाढवण्यावर भर दिला गेला. संघर्ष सोडवण्यासाठी UN हे प्रमुख व्यासपीठ बनले. त्यामुळे आंतरराष्ट्रीय व्यवस्थेत UN चे महत्त्व खूप वाढले."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "परस्परावलंबनामुळे कोणते लाभ होतात?",
+      "answer": "परस्परावलंबनामुळे राष्ट्रांमध्ये व्यापार वाढतो. तंत्रज्ञानाची देवाणघेवाण होते. सामाजिक व सांस्कृतिक संवाद वाढतो. विकासाला गती मिळते. संघर्ष कमी होण्यास मदत होते. जागतिक शांतता प्रस्थापित करण्याचा मार्ग सुलभ होतो."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील आर्थिक परिणाम स्पष्ट करा.",
+      "answer": "शीतयुद्धाच्या काळात दोन्ही महासत्तांनी लष्करी खर्च वाढवला. त्यामुळे आर्थिक ताण निर्माण झाला. गरीब राष्ट्रांना मदत देण्यामागे राजकीय उद्देश होते. जागतिक व्यापार मर्यादित स्वरूपाचा होता. विकासाऐवजी स्पर्धेला प्राधान्य मिळाले. याचा परिणाम जागतिक अर्थव्यवस्थेवर झाला."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "द्विध्रुवीकरणामुळे कोणती संकटे निर्माण झाली?",
+      "answer": "द्विध्रुवीकरणामुळे जगातील राष्ट्रे दोन गटांत विभागली गेली. तणाव आणि अविश्वास वाढला. लष्करी करारांची स्पर्धा सुरू झाली. आंतरराष्ट्रीय संघर्ष तीव्र झाले. गरीब राष्ट्रांचे प्रश्न दुर्लक्षित राहिले. जागतिक शांतता धोक्यात आली."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "आर्थिक विकासाला युद्धामुळे का खीळ बसते?",
+      "answer": "युद्धाच्या काळात राष्ट्रांचे संसाधने लष्करी कारणांसाठी वापरली जातात. पायाभूत सुविधा नष्ट होतात. व्यापार आणि उत्पादन घटते. मानवी हानी होते. आर्थिक नियोजन बिघडते. म्हणून युद्धामुळे आर्थिक विकासाला खीळ बसते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय व्यवस्थेत प्रादेशिक संघटनांचे महत्त्व स्पष्ट करा.",
+      "answer": "प्रादेशिक संघटना राष्ट्रांमध्ये आर्थिक सहकार्य वाढवतात. गरीब राष्ट्रांना एकत्र येण्याची संधी देतात. व्यापार सुलभ होतो. विकासासाठी सामूहिक प्रयत्न होतात. तणाव कमी होतो. म्हणून शीतयुद्धानंतर प्रादेशिक संघटनांचे महत्त्व वाढले."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीचे शाश्वत महत्त्व कोणते?",
+      "answer": "ही चळवळ मानवतावादी मूल्यांवर आधारित होती. तिने जागतिक शांततेचा पुरस्कार केला. वसाहतवाद आणि वंशवादाला विरोध केला. गरीब राष्ट्रांना आवाज दिला. आजही तिचे शांततावादी मूल्य महत्त्वाचे आहेत. म्हणून या चळवळीचे महत्त्व शाश्वत आहे."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "पहिल्या महायुद्धात भारताची भूमिका काय होती?",
+      "answer": "पहिल्या महायुद्धात भारत ब्रिटिश वसाहत होता. ब्रिटनच्या बाजूने भारतीय सैनिकांनी सहभाग घेतला. अनेक भारतीयांनी युद्धात प्राण गमावले. भारताची आर्थिक संसाधने वापरली गेली. या सहभागाचा भारतीय समाजावर परिणाम झाला. मात्र निर्णयप्रक्रियेत भारताला स्वातंत्र्य नव्हते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "दुसऱ्या महायुद्धातील तंत्रज्ञानाचा वापर स्पष्ट करा.",
+      "answer": "दुसऱ्या महायुद्धात अत्याधुनिक शस्त्रास्त्रांचा वापर झाला. विमान, रडार आणि अणुतंत्रज्ञान विकसित झाले. अणुबॉम्बचा पहिला वापर याच युद्धात झाला. या तंत्रज्ञानामुळे युद्ध अधिक संहारक बनले. हिरोशिमा आणि नागासाकीवर भयानक परिणाम झाले. त्यामुळे युद्धानंतर नवे आंतरराष्ट्रीय प्रश्न निर्माण झाले."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतर सीमारेषांचे महत्त्व का कमी झाले?",
+      "answer": "जागतिकीकरणामुळे आर्थिक व्यवहारांना प्राधान्य मिळाले. माहिती तंत्रज्ञानामुळे जग जवळ आले. व्यापार आणि सेवा क्षेत्र जागतिक झाले. लोकांचा संवाद वेगवान झाला. त्यामुळे भौगोलिक सीमारेषा अडथळा ठरल्या नाहीत. म्हणून सीमांचे महत्त्व कमी झाले."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "राष्ट्रसंघाच्या निर्मितीमागील कल्पना स्पष्ट करा.",
+      "answer": "पहिल्या महायुद्धातील भीषण हानीमुळे जागतिक शांततेची गरज वाटू लागली. राष्ट्रांमध्ये समस्या चर्चेने सोडवण्याचे व्यासपीठ हवे होते. म्हणून राष्ट्रसंघाची स्थापना करण्यात आली. ही संघटना सामूहिक सुरक्षिततेच्या तत्त्वावर आधारित होती. भविष्यात युद्ध टाळणे हा मुख्य उद्देश होता. ही कल्पना आदर्शवादी होती."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "अमेरिका आणि सोव्हिएत रशिया यांच्यातील संघर्षाचे स्वरूप कसे होते?",
+      "answer": "दोन्ही महासत्तांमध्ये वैचारिक संघर्ष होता. अमेरिका भांडवलशाहीचा पुरस्कार करत होती. सोव्हिएत रशिया समाजवादाचा पुरस्कार करत होता. प्रत्यक्ष युद्धाऐवजी तणावपूर्ण स्पर्धा होती. लष्करी करारांची निर्मिती झाली. या संघर्षालाच शीतयुद्ध म्हणतात."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीने वसाहतवादाला का विरोध केला?",
+      "answer": "आशिया आणि आफ्रिका खंडातील अनेक देश वसाहती होते. वसाहतवादामुळे त्यांचे आर्थिक शोषण होत होते. स्वातंत्र्य आणि समान संधी नव्हत्या. महासत्तांच्या स्पर्धेत त्यांचे हित दुर्लक्षित होते. म्हणून अलिप्ततावादी चळवळीने वसाहतवादाला विरोध केला. मानवतावाद हा त्यामागील आधार होता."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील लष्करी संघटनांची गरज का निर्माण झाली?",
+      "answer": "महासत्तांमध्ये तीव्र राजकीय तणाव होता. आपले संरक्षण मजबूत करणे दोन्ही गटांना आवश्यक वाटत होते. म्हणून अमेरिकेने NATO संघटना निर्माण केली. सोव्हिएत रशियाने वॉर्सा करार केला. या संघटनांमुळे लष्करी एकता वाढली. ही गरज शीतयुद्धामुळे निर्माण झाली."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "जागतिकीकरणाचा आंतरराष्ट्रीय व्यवस्थेवर कोणता मुख्य परिणाम झाला?",
+      "answer": "व्यापार आणि आर्थिक संबंध वेगाने वाढले. तंत्रज्ञानाची देवाणघेवाण सुलभ झाली. प्रादेशिक सहकार्याला महत्त्व मिळाले. सीमारेषांचे महत्त्व कमी झाले. माहिती प्रसारण जलद झाले. त्यामुळे आंतरराष्ट्रीय व्यवस्था अधिक खुली बनली."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध समाप्तीनंतर शत्रुराष्ट्र संकल्पना का मागे पडली?",
+      "answer": "शीतयुद्ध संपल्याने प्रत्यक्ष शत्रुत्व कमी झाले. आर्थिक विकासाला प्राधान्य मिळाले. राष्ट्रे परस्पर स्पर्धक म्हणून पाहिली जाऊ लागली. व्यापाराला महत्त्व मिळाले. सहकार्याचे नवे प्रवाह आले. म्हणून शत्रुराष्ट्र संकल्पना मागे पडली."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "परस्परावलंबनामुळे संघर्ष कसे कमी होतात?",
+      "answer": "परस्परावलंबनामुळे राष्ट्रांचे हितसंबंध एकमेकांत गुंततात. व्यापार वाढतो. संवाद आणि चर्चा वाढतात. आर्थिक लाभ सर्वांना मिळतात. त्यामुळे युद्ध टाळण्याची वृत्ती तयार होते. म्हणून संघर्ष कमी होतात."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "CNN ने इराक युद्धाचे वार्तांकन दाखवल्याचा परिणाम काय झाला?",
+      "answer": "माहिती तंत्रज्ञानातील प्रगतीमुळे हे शक्य झाले. जगातील घटना त्वरित लोकांना कळू लागल्या. प्रसारण क्षेत्राचे महत्त्व वाढले. माध्यमांचे जागतिक स्वरूप स्पष्ट झाले. युद्धाचे भीषण वास्तव लोकांसमोर आले. त्यामुळे जागतिक जनमत तयार होण्यास मदत झाली."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "NIEO ची मागणी का करण्यात आली?",
+      "answer": "विकसनशील राष्ट्रांचे आर्थिक प्रश्न गंभीर होते. श्रीमंत राष्ट्रांकडून योग्य न्याय मिळत नव्हता. गरीब राष्ट्रांचे शोषण होत होते. समान आर्थिक संधी आवश्यक होत्या. म्हणून नवी आंतरराष्ट्रीय आर्थिक व्यवस्था म्हणजे NIEO ची मागणी करण्यात आली. अलिप्ततावादी चळवळीने ही मागणी पुढे नेली."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील राजकीय तणाव कशामुळे वाढत गेला?",
+      "answer": "महासत्तांमधील वैचारिक मतभेद तीव्र होते. लष्करी करारांची स्पर्धा सुरू होती. शस्त्रास्त्र निर्मिती वाढत होती. प्रादेशिक संघर्ष होत होते. राष्ट्रसंघ अपयशी ठरला होता. या सर्व कारणांमुळे राजकीय तणाव वाढत गेला."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "माध्यमांवरील नियंत्रण कमी करण्याचे महत्त्व काय होते?",
+      "answer": "माध्यमांवरील नियंत्रण कमी झाल्याने खुलेपणा वाढला. लोकशाहीकरणाला चालना मिळाली. जनमत मोकळेपणाने व्यक्त होऊ लागले. सरकारची जबाबदारी वाढली. आंतरराष्ट्रीय संवाद सुधारला. याचे मोठे महत्त्व गोर्बाचेव्ह यांच्या काळात दिसून आले."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील आर्थिक खर्चाचा समाजावर काय परिणाम झाला?",
+      "answer": "लष्करी खर्च वाढल्याने विकासकामांना निधी कमी पडला. गरीब राष्ट्रांमध्ये आर्थिक ताण निर्माण झाला. रोजगार संधी कमी झाल्या. सामाजिक समस्या वाढल्या. जीवनमानावर नकारात्मक परिणाम झाला. हा परिणाम जागतिक स्वरूपाचा होता."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळात प्रत्यक्ष युद्ध टाळले गेले तरी तणाव का टिकून राहिला?",
+      "answer": "दोन्ही महासत्तांचे हितसंबंध परस्परविरोधी होते. वैचारिक संघर्ष संपला नव्हता. लष्करी संघटना सक्रिय होत्या. शस्त्रस्पर्धा चालू होती. आंतरराष्ट्रीय प्रश्न गंभीर होते. म्हणून प्रत्यक्ष युद्ध नसले तरी तणाव टिकून राहिला."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीने गरीब राष्ट्रांना कसा आधार दिला?",
+      "answer": "या चळवळीने त्यांचे प्रश्न जागतिक व्यासपीठावर मांडले. समानता आणि शांततेचा पुरस्कार केला. प्रादेशिक सहकार्याला प्रोत्साहन दिले. आर्थिक न्यायाची मागणी केली. NIEO सारख्या कल्पनांना पाठिंबा मिळवला. त्यामुळे गरीब राष्ट्रांना मोठा आधार मिळाला."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध समाप्तीनंतर एकध्रुवीय व्यवस्था कशी तयार झाली?",
+      "answer": "सोव्हिएत रशियाचे विघटन झाले. त्याचा लष्करी गट कमजोर झाला. अमेरिका शक्तिशाली राष्ट्र म्हणून उरली. जागतिक राजकारणावर अमेरिकेचे वर्चस्व वाढले. अन्य राष्ट्रे तिच्यावर अवलंबून राहिली. म्हणून एकध्रुवीय व्यवस्था तयार झाली."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय व्यवस्थेत स्पर्धा आणि सहकार्य यांचा समतोल का आवश्यक असतो?",
+      "answer": "फक्त स्पर्धा असल्यास संघर्ष वाढतात. फक्त सहकार्य असल्यास राष्ट्रांचे हित धोक्यात येऊ शकते. आर्थिक विकासासाठी सहकार्य आवश्यक असते. संरक्षणासाठी काही प्रमाणात स्पर्धा टिकते. म्हणून समतोल राखणे आवश्यक असते. हीच आंतरराष्ट्रीय व्यवस्थेची गरज आहे."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "पहिल्या महायुद्धानंतर आंतरराष्ट्रीय व्यवस्थेची गरज का वाटू लागली?",
+      "answer": "युद्धामुळे प्रचंड हानी झाली होती. राष्ट्रांमध्ये अविश्वास वाढला होता. समस्या चर्चेने सोडवण्याचे व्यासपीठ नव्हते. भविष्यात युद्ध टाळणे आवश्यक होते. जागतिक शांतता ही मुख्य गरज होती. म्हणून आंतरराष्ट्रीय व्यवस्थेची नवी मांडणी आवश्यक वाटली."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील वैचारिक संघर्षाचे शैक्षणिक महत्त्व काय?",
+      "answer": "या काळात लोकशाही आणि समाजवाद यांची तुलना झाली. गरीब राष्ट्रांचे प्रश्न समोर आले. प्रादेशिक संघटनांचे महत्त्व कळले. माध्यमांची भूमिका समजली. आंतरराष्ट्रीय संबंधांचे नवे प्रवाह अभ्यासले गेले. त्यामुळे राजकीय जाण वाढली."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "शीतयुद्धामुळे लोकशाही आणि समाजवाद यांच्यातील फरक कसा स्पष्ट झाला?",
+      "answer": "अमेरिका लोकशाही आणि भांडवलशाहीचा पुरस्कार करत होती. सोव्हिएत रशिया समाजवादाचा पुरस्कार करत होता. दोन्ही गटांनी आपापली मूल्ये जगासमोर मांडली. संघर्षातून या मतभेदांची तीव्रता कळली. विविध राष्ट्रांनी आपली भूमिका ठरवली. म्हणून हा फरक स्पष्ट झाला."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीची आजच्या काळातील उपयुक्तता कोणती?",
+      "answer": "या चळवळीची शांततावादी मूल्ये आजही महत्त्वाची आहेत. ती मानवतावादावर आधारित आहेत. गरीब राष्ट्रांच्या समस्या अजूनही टिकून आहेत. प्रादेशिक सहकार्याची गरज वाढली आहे. म्हणून अलिप्ततावादाचा विचार आजही उपयुक्त ठरतो. आंतरराष्ट्रीय शांततेसाठी तो मार्गदर्शक आहे."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय व्यवस्थेत भारताने कोणती भूमिका बजावली?",
+      "answer": "भारत अलिप्ततावादी चळवळीचा संस्थापक सदस्य होता. पंडित नेहरू यांनी शांततेचा पुरस्कार केला. भारताने युद्धाऐवजी चर्चेला प्राधान्य दिले. गरीब राष्ट्रांचे प्रश्न मांडले. प्रादेशिक संघटनांमध्ये सहभाग घेतला. त्यामुळे भारताची आंतरराष्ट्रीय प्रतिमा उंचावली."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील माध्यमांची भूमिका स्पष्ट करा.",
+      "answer": "माध्यमे माहिती प्रसारणाचे मुख्य साधन होती. मात्र सोव्हिएत रशियात त्यांच्यावर निर्बंध होते. अमेरिकेत माध्यमे अधिक स्वतंत्र होती. CNN सारख्या वाहिन्यांनी जागतिक वार्तांकन केले. माध्यमांमुळे जनमत तयार होत गेले. त्यामुळे लोकशाही मूल्ये पसरली."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "महायुद्धानंतरच्या राजकीय घडामोडींनी जग कसे बदलले?",
+      "answer": "महायुद्धानंतर राजकीय नकाशा बदलला. हुकूमशाही राजवटी उदयास आल्या. राष्ट्रसंघाची स्थापना झाली. पुढे शीतयुद्ध सुरू झाले. माहिती तंत्रज्ञान विकसित झाले. अखेर जागतिकीकरणाचे नवे पर्व सुरू झाले."
+    }
+  ]
+}

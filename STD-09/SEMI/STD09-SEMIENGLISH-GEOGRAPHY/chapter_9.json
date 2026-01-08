@@ -1,0 +1,1771 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.09",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "व्यापार"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "व्यापार ही कोणती संकल्पना आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सामाजिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आर्थिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धार्मिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्थिक"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वस्तूंची खरेदी करणे म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुरवठा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मागणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विक्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "मागणी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ज्या ठिकाणी वस्तूंचे उत्पादन अतिरिक्त होते, तेथे वस्तूंचा ______ जास्त असतो.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुरवठा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खपत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मागणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुटवडा",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुरवठा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "वस्तूंच्या बदल्यात वस्तू देऊन केल्या जाणाऱ्या व्यापाराला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्य व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अदृश्य व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वस्तू विनिमय व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आधुनिक व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तू विनिमय व्यापार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "आधुनिक काळात कशाच्या माध्यमातून व्यापार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वस्तू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "श्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चलन (पैसा)",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अन्नधान्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "चलन (पैसा)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दृश्य व्यापारात कशाची देवाणघेवाण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्तू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विचार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "श्रम",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तू"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "अदृश्य व्यापारात कशाची देवाणघेवाण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मालाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भांडवलाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सेवांची",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खनिजांची",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवांची"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "जेव्हा व्यापार एकाच देशाच्या अंतर्गत होतो, तेव्हा त्याला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आंतरराष्ट्रीय व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अंतर्गत व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्विपक्षीय व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बहुपक्षीय व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंतर्गत व्यापार"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "दोन किंवा अधिक देशांमधील व्यापाराला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थानिक व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रादेशिक व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आंतरराष्ट्रीय व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "किरकोळ व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "आंतरराष्ट्रीय व्यापार"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "निर्यात मूल्य हे आयात मूल्यापेक्षा जास्त असल्यास कोणत्या प्रकारचे व्यापार संतुलन असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रतिकूल व्यापार संतुलन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनुकूल व्यापार संतुलन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संतुलित व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य व्यापार संतुलन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुकूल व्यापार संतुलन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जेव्हा आयात मूल्य हे निर्यात मूल्यापेक्षा जास्त असते, तेव्हा त्याला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रतिकूल व्यापार संतुलन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अनुकूल व्यापार संतुलन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सम व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धनात्मक संतुलन",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रतिकूल व्यापार संतुलन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "WTO या जागतिक व्यापार संघटनेचे मुख्यालय कोठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूयॉर्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पॅरिस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिनेव्हा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ब्रूसेल्स",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिनेव्हा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "EU (युरोपीय संघ) या संघटनेची समान करन्सी (चलन) कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डॉलर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "येन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "युरो",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पौंड",
+          "is_correct": false
+        }
+      ],
+      "answer": "युरो"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "तेल निर्यात करणाऱ्या देशांची संघटना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "SAARC",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "OPEC",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ASEAN",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "APEC",
+          "is_correct": false
+        }
+      ],
+      "answer": "OPEC"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "SAARC या संघटनेचे मुख्यालय कोठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काठमांडू",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नवी दिल्ली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोलंबो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ढाका",
+          "is_correct": false
+        }
+      ],
+      "answer": "काठमांडू"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "किरकोळ विक्रेते माल कोणाकडून खरेदी करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ग्राहकांकडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घाऊक व्यापाऱ्यांकडून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सरकारकडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बँकेकडून",
+          "is_correct": false
+        }
+      ],
+      "answer": "घाऊक व्यापाऱ्यांकडून"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "जेव्हा एखाद्या देशातून माल दुसऱ्या देशात विकला जातो, तेव्हा त्याला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आयात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निर्यात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थानिक विक्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घाऊक व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "निर्यात"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "उत्पादनाचे मूल्य कशामुळे वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विपणन (Marketing)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त साठवणूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वस्तूची मोडतोड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जास्त उत्पादन",
+          "is_correct": false
+        }
+      ],
+      "answer": "विपणन (Marketing)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "इंटरनेटच्या साह्याने होणाऱ्या व्यापाराला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रिटेल व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ई-मार्केटिंग/ई-कॉमर्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घाऊक व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अदृश्य व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "ई-मार्केटिंग/ई-कॉमर्स"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "दक्षिण आशियाई राष्ट्रांची संघटना कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "OPEC",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "EU",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "SAARC",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "BRICS",
+          "is_correct": false
+        }
+      ],
+      "answer": "SAARC"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कोणत्या व्यापारात मालाचा साठा मोठा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "किरकोळ व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घाऊक व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अदृश्य व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नमुना व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "घाऊक व्यापार"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "व्यापार संतुलनाचे किती प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "BRICS या संघटनेत खालीलपैकी कोणता देश नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रशिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जपान",
+          "is_correct": true
+        }
+      ],
+      "answer": "जपान"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मालाची गुणवत्ता, दर्जा आणि बांधणी कशासाठी महत्त्वाची असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ साठवणुकीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विपणनासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मालाचे वजन वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वस्त विकण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विपणनासाठी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आग्नेय आशियाई राष्ट्रांची संघटना कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ASEAN",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "EU",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "OPEC",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "SAARC",
+          "is_correct": false
+        }
+      ],
+      "answer": "ASEAN"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "जेव्हा दोन देशांमध्ये व्यापार होतो, तेव्हा त्याला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बहुपक्षीय व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्विपक्षीय व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अंतर्गत व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थानिक व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्विपक्षीय व्यापार"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "एका देशाचा अनेक देशांशी चालणाऱ्या व्यापाराला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकपक्षीय व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्विपक्षीय व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बहुपक्षीय व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "किरकोळ व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "बहुपक्षीय व्यापार"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "व्यापारात 'विक्रेता' काय करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वस्तू खरेदी करतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्तूंची विक्री करतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वस्तू दान करतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वस्तू फेकून देतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तूंची विक्री करतो"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय व्यापारावर नियंत्रण ठेवणारी सर्वात मोठी संस्था कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जागतिक बँक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जागतिक व्यापार संघटना (WTO)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संयुक्त राष्ट्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आशियाई विकास बँक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जागतिक व्यापार संघटना (WTO)"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "आयात आणि निर्यात मूल्य समान असल्यास कोणते व्यापार संतुलन असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुकूल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिकूल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संतुलित",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अस्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "संतुलित"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "व्यापाराचा मुख्य आधार काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मागणी व पुरवठा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ मागणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ पुरवठा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जाहिरात",
+          "is_correct": false
+        }
+      ],
+      "answer": "मागणी व पुरवठा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "एखाद्या वस्तूचा पुरवठा हा मागणीपेक्षा जास्त झाल्यास किमतींवर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "किमती वाढतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "किमती कमी होतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच परिणाम होत नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वस्तू फुकट मिळते",
+          "is_correct": false
+        }
+      ],
+      "answer": "किमती कमी होतात"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ग्राहकांकडून खरेदी केली जाणारी व्यापारी पद्धत कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाऊक व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "किरकोळ व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अदृश्य व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परदेशी व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "किरकोळ व्यापार"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "आशिया पॅसिफिक आर्थिक सहकार्य संघटना कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "OPEC",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "APEC",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "EU",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "BRICS",
+          "is_correct": false
+        }
+      ],
+      "answer": "APEC"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "व्यापारात कशाची विक्री केली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माल व सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ कच्चा माल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ यंत्रे",
+          "is_correct": false
+        }
+      ],
+      "answer": "माल व सेवा"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "SAARC या संघटनेत किती सदस्य देश आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "५",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "७",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "८",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१०",
+          "is_correct": false
+        }
+      ],
+      "answer": "८"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "एखाद्या राष्ट्राचा विकास कशावर मोजला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ लोकसंख्येवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यापार संतुलनावर व वृद्धीवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नद्यांच्या संख्येवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेतीच्या आकारावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यापार संतुलनावर व वृद्धीवर"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय व्यापारात कोणत्या चलनाचे महत्त्व जास्त असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रुपया",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अमेरिकन डॉलर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिणार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रुबल",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमेरिकन डॉलर"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "व्यापाराचा मुख्य हेतू काय असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ वस्तू गोळा करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नफा मिळवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "श्रम करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त सेवा देणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "नफा मिळवणे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "किरकोळ व्यापारात मालाचे प्रमाण कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खूप जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घाऊक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नमुना",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "विपणनाचा मुख्य भाग कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जाहिरात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ साठवणूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मजुरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वजन करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाहिरात"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "जागतिक व्यापार संघटनेचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त श्रीमंत देशांना मदत करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आंतरराष्ट्रीय व्यापारातील अडथळे दूर करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तेल उत्पादन वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धाला मदत करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आंतरराष्ट्रीय व्यापारातील अडथळे दूर करणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "ज्या देशात वस्तूची टंचाई असते, तिथे वस्तूची काय असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मागणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पुरवठा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विक्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कमी किंमत",
+          "is_correct": false
+        }
+      ],
+      "answer": "मागणी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "ग्राहक कोणाला म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जो वस्तू विकतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जो वस्तू खरेदी करतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जो वस्तू बनवतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जो वस्तू फेकून देतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "जो वस्तू खरेदी करतो"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "द्विपक्षीय व्यापारात किती देश सहभागी असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "१०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनेक",
+          "is_correct": false
+        }
+      ],
+      "answer": "२"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "व्यापारामुळे कोणाला रोजगार मिळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ मालकांना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनेक लोकांना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोणालाच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त रोबोटला",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनेक लोकांना"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "विपणनामुळे ग्राहकांना काय मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वस्तूची माहिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ जास्त किंमत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जुना माल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त जाहिरात",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तूची माहिती"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "युरोपीय संघाचे संक्षिप्त नाव काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "EU",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "UN",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "OPEC",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "APEC",
+          "is_correct": false
+        }
+      ],
+      "answer": "EU"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "एखाद्या वस्तूची जाहिरात कशासाठी केली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकप्रियता व विक्री वाढवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त वेळ घालवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वस्तू लपवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "किमत कमी करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकप्रियता व विक्री वाढवण्यासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "व्यापार ही कोणती प्रक्रिया आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकतर्फी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुतर्फी (खरेदी-विक्री)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ धार्मिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ राजकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुतर्फी (खरेदी-विक्री)"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "व्यापार म्हणजे काय?",
+      "answer": "दोन व्यक्ती, दोन संस्था किंवा दोन देशांमध्ये होणाऱ्या वस्तू व सेवांच्या खरेदी-विक्रीला व्यापार म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "व्यापारातील 'मागणी' म्हणजे काय?",
+      "answer": "दैनंदिन गरजा पूर्ण करण्यासाठी आपण जेव्हा वस्तूंची खरेदी करतो, तेव्हा त्याला मागणी म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "व्यापारातील 'पुरवठा' म्हणजे काय?",
+      "answer": "उत्पादकाकडून मागणी पूर्ण करण्यासाठी जेव्हा वस्तू उपलब्ध करून दिल्या जातात, तेव्हा त्याला पुरवठा म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वस्तू विनिमय व्यापार म्हणजे काय?",
+      "answer": "वस्तूंच्या बदल्यात वस्तूंची देवाणघेवाण करून जो व्यापार होतो, त्याला वस्तू विनिमय व्यापार म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "दृश्य व्यापार म्हणजे काय?",
+      "answer": "ज्या व्यापारात वस्तूंची प्रत्यक्षात खरेदी-विक्री (देवाणघेवाण) होते, त्याला दृश्य व्यापार म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "अदृश्य व्यापार म्हणजे काय?",
+      "answer": "ज्या व्यापारात वस्तूंची देवाणघेवाण न होता केवळ सेवांची देवाणघेवाण होते, त्याला अदृश्य व्यापार म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "व्यापार संतुलनाचे सूत्र काय आहे?",
+      "answer": "व्यापार संतुलन = निर्यातीचे मूल्य - आयातीचे मूल्य."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "प्रतिकूल व्यापार संतुलन म्हणजे काय?",
+      "answer": "जेव्हा आयातीचे मूल्य हे निर्यातीच्या मूल्यापेक्षा जास्त असते, तेव्हा त्याला प्रतिकूल व्यापार संतुलन म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अनुकूल व्यापार संतुलन म्हणजे काय?",
+      "answer": "जेव्हा निर्यातीचे मूल्य हे आयातीच्या मूल्यापेक्षा जास्त असते, तेव्हा त्याला अनुकूल व्यापार संतुलन म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "संतुलित व्यापार म्हणजे काय?",
+      "answer": "जेव्हा आयात आणि निर्यात मूल्य जवळपास सारखेच असते, तेव्हा त्याला संतुलित व्यापार म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "अंतर्गत व्यापार म्हणजे काय?",
+      "answer": "देशाच्या भौगोलिक सीमांच्या आत (एकाच देशातील विविध प्रदेशांत) होणाऱ्या व्यापाराला अंतर्गत व्यापार म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय व्यापार म्हणजे काय?",
+      "answer": "दोन किंवा अधिक देशांमध्ये होणाऱ्या वस्तू व सेवांच्या खरेदी-विक्रीला आंतरराष्ट्रीय व्यापार म्हणतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "घाऊक व्यापार म्हणजे काय?",
+      "answer": "मोठ्या प्रमाणावर मालाची खरेदी थेट उत्पादकाकडून करून ती किरकोळ विक्रेत्यांना विकणे म्हणजे घाऊक व्यापार होय."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "किरकोळ व्यापार म्हणजे काय?",
+      "answer": "घाऊक व्यापाऱ्यांकडून माल विकत घेऊन तो थेट ग्राहकांना विकण्याच्या प्रक्रियेला किरकोळ व्यापार म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आयात म्हणजे काय?",
+      "answer": "आपल्या देशाला आवश्यक असणारा माल किंवा सेवा दुसऱ्या देशाकडून विकत घेणे म्हणजे आयात होय."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "निर्यात म्हणजे काय?",
+      "answer": "आपल्या देशात अतिरिक्त असणारा माल किंवा सेवा दुसऱ्या देशाला विकणे म्हणजे निर्यात होय."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "जागतिक व्यापार संघटनेचा (WTO) मुख्य उद्देश काय आहे?",
+      "answer": "आंतरराष्ट्रीय व्यापारातील अडथळे दूर करून व्यापार अधिक मुक्त व सुलभ करणे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "युरोपीय संघाची (EU) स्थापना कशासाठी झाली?",
+      "answer": "युरोपातील देशांमध्ये व्यापाराला चालना देणे आणि समान बाजारपेठ निर्माण करणे यासाठी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "ओपेक (OPEC) ही संघटना कशासाठी कार्य करते?",
+      "answer": "खनिज तेलाच्या व्यापाराचे नियमन करणे आणि तेलाच्या किमतींवर नियंत्रण ठेवणे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सार्क (SAARC) संघटनेचे पूर्ण रूप काय आहे?",
+      "answer": "दक्षिण आशियाई प्रादेशिक सहकार्य संघटना (South Asian Association for Regional Cooperation)."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "विपणन (Marketing) म्हणजे काय?",
+      "answer": "उत्पादित वस्तू ग्राहकांपर्यंत आकर्षक रीतीने पोहोचवण्याची आणि तिची विक्री वाढवण्याची प्रक्रिया म्हणजे विपणन होय."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "विपणनाचा ग्राहकांना काय फायदा होतो?",
+      "answer": "विपणनामुळे ग्राहकांना वस्तूंबद्दल माहिती मिळते आणि मालाची गुणवत्ता व दर्जा याबद्दल खात्री पटते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "द्विपक्षीय व्यापार म्हणजे काय?",
+      "answer": "जेव्हा व्यापार फक्त दोनच देशांमध्ये होतो, तेव्हा त्याला द्विपक्षीय व्यापार म्हणतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "बहुपक्षीय व्यापार म्हणजे काय?",
+      "answer": "एका देशाचा अनेक देशांशी चालणाऱ्या व्यापाराला बहुपक्षीय व्यापार म्हणतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ब्रिक्स (BRICS) या संघटनेत कोणते देश आहेत?",
+      "answer": "ब्राझील, रशिया, भारत, चीन आणि दक्षिण आफ्रिका."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "ई-कॉमर्स म्हणजे काय?",
+      "answer": "इंटरनेट आणि इलेक्ट्रॉनिक साधनांच्या साह्याने वस्तू व सेवांची खरेदी-विक्री करणे म्हणजे ई-कॉमर्स होय."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "व्यापाराचा मुख्य आधार काय असतो?",
+      "answer": "देशातील नैसर्गिक साधनसंपत्तीची उपलब्धता आणि भौगोलिक विविधता हा व्यापाराचा मुख्य आधार असतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "व्यापार का निर्माण होतो?",
+      "answer": "जेव्हा एखाद्या प्रदेशात एखाद्या वस्तूचा तुटवडा असतो आणि दुसऱ्या प्रदेशात ती अतिरिक्त असते, तेव्हा गरज पूर्ण करण्यासाठी व्यापार निर्माण होतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "मुक्त व्यापार क्षेत्र म्हणजे काय?",
+      "answer": "असे क्षेत्र जिथे सदस्य देशांमध्ये व्यापारावर कोणतेही निर्बंध किंवा सीमाशुल्क नसते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "व्यापारामुळे रोजगारावर काय परिणाम होतो?",
+      "answer": "व्यापारामुळे उत्पादन, वाहतूक, साठवणूक आणि विपणन अशा विविध क्षेत्रांत रोजगाराच्या नवीन संधी निर्माण होतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "विपणनातील जाहिरातीचे महत्त्व काय?",
+      "answer": "जाहिरातीमुळे वस्तूची माहिती ग्राहकांपर्यंत पोहोचते आणि वस्तूची मागणी वाढण्यास मदत होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय व्यापारात कोणत्या चलनाचा सर्वाधिक वापर होतो?",
+      "answer": "आंतरराष्ट्रीय व्यापारात प्रामुख्याने अमेरिकन डॉलरचा वापर विनिमयासाठी केला जातो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "ओपेक संघटनेचे मुख्यालय कोठे आहे?",
+      "answer": "ओपेक संघटनेचे मुख्यालय ऑस्ट्रियामधील 'व्हिएन्ना' येथे आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "आशियान (ASEAN) संघटनेचा उद्देश काय आहे?",
+      "answer": "आग्नेय आशियाई देशांमध्ये आर्थिक विकास आणि सामाजिक-सांस्कृतिक सलोखा वाढवणे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "व्यापार ही कोणती प्रक्रिया आहे?",
+      "answer": "व्यापार ही एक महत्त्वाची तृतीयक आर्थिक क्रिया आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "व्यापार वृद्धी म्हणजे काय?",
+      "answer": "एखाद्या देशाच्या व्यापाराच्या प्रमाणात होणाऱ्या सततच्या वाढीला व्यापार वृद्धी म्हणतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "आयात-निर्यात शुल्क म्हणजे काय?",
+      "answer": "एका देशातून दुसऱ्या देशात माल येताना किंवा जाताना सरकारकडून आकारल्या जाणाऱ्या कराला आयात-निर्यात शुल्क म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "व्यापारातील विक्रेत्याची भूमिका काय असते?",
+      "answer": "विक्रेता वस्तूंची विक्री करून नफा मिळवण्याचे कार्य करतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "व्यापारातील ग्राहकाची भूमिका काय असते?",
+      "answer": "ग्राहक आपल्या गरजा पूर्ण करण्यासाठी वस्तूंची खरेदी करून मागणी निर्माण करतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "अंतर्गत व्यापाराचे एक उदाहरण द्या.",
+      "answer": "महाराष्ट्रातील कापूस पश्चिम बंगालला विकणे हा अंतर्गत व्यापार आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय व्यापाराचे एक उदाहरण द्या.",
+      "answer": "भारताने आखाती देशांकडून खनिज तेल खरेदी करणे हा आंतरराष्ट्रीय व्यापार आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "व्यापाराचा अर्थव्यवस्थेवर काय परिणाम होतो?",
+      "answer": "व्यापारामुळे देशाच्या उत्पन्नात वाढ होते आणि लोकांचे जीवनमान सुधारते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "ई-मार्केटिंगचे दोन फायदे सांगा.",
+      "answer": "१. घरबसल्या खरेदी-विक्री करता येते. २. वेळेची आणि श्रमाची बचत होते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "व्यापार संघटनेची गरज का भासते?",
+      "answer": "सदस्य देशांमधील व्यापार सुलभ करण्यासाठी आणि वादांचे निराकरण करण्यासाठी व्यापार संघटनेची गरज भासते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "सार्क संघटनेत किती सदस्य देश आहेत?",
+      "answer": "सार्क संघटनेत एकूण ८ सदस्य देश आहेत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "विपणनात ब्रँडिंगचे महत्त्व काय?",
+      "answer": "ब्रँडिंगमुळे वस्तूला स्वतंत्र ओळख मिळते आणि ग्राहकांचा विश्वास वाढतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "व्यापारासाठी वाहतूक का महत्त्वाची आहे?",
+      "answer": "उत्पादित माल बाजारपेठेपर्यंत आणि ग्राहकांपर्यंत पोहोचवण्यासाठी वाहतूक ही महत्त्वाची सुविधा आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "आयात पर्यायीकरण म्हणजे काय?",
+      "answer": "दुसऱ्या देशातून आयात होणाऱ्या वस्तू स्वतःच्या देशात तयार करून आयात कमी करणे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "किरकोळ विक्रीची ठिकाणे कोणती?",
+      "answer": "किराणा दुकाने, भाजी बाजार, मॉल आणि सुपर मार्केट ही किरकोळ विक्रीची ठिकाणे आहेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय व्यापारातील तूट म्हणजे काय?",
+      "answer": "जेव्हा एखाद्या देशाची आयात ही निर्यातीपेक्षा खूप जास्त असते, तेव्हा त्या फरकाला व्यापार तूट म्हणतात."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "व्यापार ही संकल्पना स्पष्ट करून व्यापाराचे महत्त्व सांगा.",
+      "answer": "दोन व्यक्ती, संस्था किंवा देशांमध्ये होणाऱ्या वस्तू व सेवांच्या खरेदी-विक्रीला 'व्यापार' म्हणतात. व्यापारात विक्रेता वस्तूंची विक्री करतो आणि खरेदीदार वस्तूंची मागणी करतो. व्यापाराचे महत्त्व पुढीलप्रमाणे आहे: १. व्यापार ही एक महत्त्वाची आर्थिक क्रिया असून देशाच्या आर्थिक विकासात तिचा मोठा वाटा असतो. २. ज्या ठिकाणी वस्तूंची टंचाई असते, तिथली गरज व्यापारामुळे पूर्ण होते. ३. व्यापारामुळे वस्तूंचे उत्पादन, वाहतूक, साठवणूक आणि विपणन या क्षेत्रांत रोजगाराच्या संधी निर्माण होतात. ४. आंतरराष्ट्रीय व्यापारामुळे विविध देशांचे संबंध सुधारतात आणि जागतिक बाजारपेठ उपलब्ध होते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "व्यापार संतुलनाचे तीन प्रकार सविस्तर स्पष्ट करा.",
+      "answer": "एखाद्या देशाच्या ठराविक काळातील आयात व निर्यात मूल्यांमधील फरकाला 'व्यापार संतुलन' म्हणतात. याचे तीन प्रकार आहेत: १. प्रतिकूल व्यापार संतुलन: जेव्हा आयातीचे मूल्य हे निर्यातीच्या मूल्यापेक्षा जास्त असते, तेव्हा त्याला प्रतिकूल व्यापार संतुलन म्हणतात. २. अनुकूल व्यापार संतुलन: जेव्हा निर्यातीचे मूल्य हे आयातीच्या मूल्यापेक्षा जास्त असते, तेव्हा त्याला अनुकूल व्यापार संतुलन म्हणतात. ३. संतुलित व्यापार: जेव्हा आयात आणि निर्यात मूल्य जवळपास सारखेच असते, तेव्हा त्याला संतुलित व्यापार म्हणतात. देशाच्या प्रगतीसाठी अनुकूल व्यापार संतुलन असणे फायदेशीर असते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "घाऊक व्यापार आणि किरकोळ व्यापार यांमधील फरक स्पष्ट करा.",
+      "answer": "घाऊक आणि किरकोळ व्यापार हे व्यापाराचे दोन महत्त्वाचे प्रकार आहेत. १. घाऊक व्यापार: यात व्यापारी उत्पादकाकडून मोठ्या प्रमाणावर मालाची खरेदी करतात. हा माल साठवून ठेवला जातो आणि तो पुढे किरकोळ विक्रेत्यांना विकला जातो. यात भांडवल जास्त लागते. २. किरकोळ व्यापार: यात व्यापारी घाऊक व्यापाऱ्यांकडून माल विकत घेतात आणि तो थेट ग्राहकांना विकतात. हा व्यापार कमी प्रमाणावर होतो. यात मालाचा साठा मर्यादित असतो आणि ग्राहकांशी थेट संपर्क येतो. घाऊक व्यापारी उत्पादक व किरकोळ विक्रेता यांच्यातील दुवा असतो, तर किरकोळ विक्रेता ग्राहक व घाऊक व्यापारी यांच्यातील दुवा असतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "जागतिक व्यापार संघटनेची (WTO) मुख्य कार्ये लिहा.",
+      "answer": "आंतरराष्ट्रीय व्यापाराचे नियमन करण्यासाठी १ जानेवारी १९९५ रोजी जागतिक व्यापार संघटनेची स्थापना झाली. तिची मुख्य कार्ये खालीलप्रमाणे आहेत: १. आंतरराष्ट्रीय व्यापारासाठी आवश्यक असणारे नियम आणि कायदे ठरवणे. २. सदस्य देशांमधील व्यापाराशी संबंधित वादांचे निराकरण करणे. ३. देशांच्या दरम्यान होणाऱ्या व्यापारातील अडथळे (जसे की सीमाशुल्क) दूर करणे आणि मुक्त व्यापाराला प्रोत्साहन देणे. ४. विकसनशील देशांना व्यापारविषयक तांत्रिक मदत आणि सल्ला देणे. यामुळे जागतिक व्यापार अधिक सुलभ आणि पारदर्शक होतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "विपणन (Marketing) म्हणजे काय? त्याचे महत्त्व सविस्तर स्पष्ट करा.",
+      "answer": "उत्पादित माल ग्राहकांपर्यंत आकर्षक पद्धतीने पोहोचवून त्याची विक्री वाढवण्याच्या प्रक्रियेला 'विपणन' म्हणतात. याचे महत्त्व खालीलप्रमाणे आहे: १. विपणनामुळे वस्तूचे मूल्य वाढते आणि ती ग्राहकांच्या नजरेत भरते. २. जाहिरात आणि माहितीमुळे ग्राहकांना वस्तूबद्दल विश्वास वाटतो आणि मागणी वाढते. ३. यामुळे मोठ्या प्रमाणावर उत्पादन करणे सोपे होते, कारण मालाचा खप वाढतो. ४. दर्जा, गुणवत्ता, पॅकेजिंग आणि ब्रँडिंग यांमुळे वस्तूची स्वतंत्र ओळख निर्माण होते. ५. सध्याच्या स्पर्धात्मक युगात कोणत्याही व्यवसायाच्या यशासाठी प्रभावी विपणन ही काळाची गरज बनली आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय व्यापार संघटनांची गरज का निर्माण झाली?",
+      "answer": "विविध देशांच्या आर्थिक धोरणांमुळे आंतरराष्ट्रीय व्यापारात अनेक अडथळे निर्माण होतात. हे अडथळे दूर करण्यासाठी व्यापार संघटनांची गरज असते: १. विविध देशांमधील व्यापारातील अटी आणि नियम सुसूत्र करण्यासाठी. २. सदस्य देशांमध्ये वस्तू व सेवांचा प्रवाह मुक्तपणे व्हावा यासाठी. ३. व्यापारावरून होणारे संघर्ष किंवा वाद शांततेने मिटवण्यासाठी. ४. मागासलेल्या किंवा विकसनशील देशांच्या व्यापाराला चालना देऊन त्यांचा आर्थिक विकास साधण्यासाठी. ५. समान बाजारपेठ आणि समान चलन (उदा. युरोपीय संघ) निर्माण करून व्यापार सुलभ करण्यासाठी."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "दृश्य आणि अदृश्य व्यापार यांमधील फरक उदाहरणासह स्पष्ट करा.",
+      "answer": "१. दृश्य व्यापार: ज्या व्यापारात वस्तूंची प्रत्यक्षात देवाणघेवाण होते, त्याला दृश्य व्यापार म्हणतात. यात मालाचे अस्तित्व डोळ्यांनी पाहता येते. उदाहरणार्थ- चहाची निर्यात, यंत्रसामग्रीची आयात किंवा कापडाची विक्री. २. अदृश्य व्यापार: ज्या व्यापारात वस्तूंची देवाणघेवाण न होता केवळ सेवांची खरेदी-विक्री होते, त्याला अदृश्य व्यापार म्हणतात. यात सेवा पाहता येत नाहीत, पण त्यांचे आर्थिक मूल्य असते. उदाहरणार्थ- बँक सेवा, पर्यटन सेवा, विमा किंवा सॉफ्टवेअर सेवांचा व्यापार. दोन्ही प्रकारात आर्थिक व्यवहार मात्र महत्त्वाचा असतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "ई-कॉमर्स किंवा ई-मार्केटिंगचे फायदे आणि मर्यादा स्पष्ट करा.",
+      "answer": "इंटरनेटच्या साह्याने होणाऱ्या खरेदी-विक्रीला ई-कॉमर्स म्हणतात. फायदे: १. घरबसल्या कधीही खरेदी करता येते, ज्यामुळे वेळेची बचत होते. २. विविध कंपन्यांच्या वस्तूंची तुलना करणे सोपे जाते. ३. मध्यस्थ नसल्यामुळे वस्तू अनेकदा स्वस्त दरात मिळतात. मर्यादा: १. वस्तू प्रत्यक्षात न पाहिल्यामुळे कधीकधी निकृष्ट दर्जाची वस्तू मिळू शकते. २. ऑनलाइन व्यवहारात सायबर गुन्हे किंवा फसवणुकीची भीती असते. ३. वस्तू घरपोच मिळेपर्यंत प्रतीक्षा करावी लागते. ४. तांत्रिक माहिती नसलेल्या लोकांसाठी ही पद्धत वापरणे कठीण असते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "आशियान (ASEAN) आणि सार्क (SAARC) या संघटनांची माहिती द्या.",
+      "answer": "१. सार्क (SAARC): ही दक्षिण आशियाई देशांची संघटना असून तिचे मुख्यालय काठमांडू (नेपाळ) येथे आहे. भारत, पाकिस्तान, श्रीलंका यांसारखे ८ देश याचे सदस्य आहेत. दक्षिण आशियात आर्थिक व सामाजिक विकास साधणे हे तिचे उद्दिष्ट आहे. २. आशियान (ASEAN): ही आग्नेय आशियाई देशांची संघटना आहे. जकार्ता (इंडोनेशिया) येथे तिचे मुख्यालय आहे. १० देश याचे सदस्य असून आग्नेय आशियात मुक्त व्यापार, सांस्कृतिक विकास आणि शांतता राखणे हे या संघटनेचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "व्यापार संतुलनावर कोणत्या घटकांचा परिणाम होतो?",
+      "answer": "व्यापार संतुलनावर अनेक घटकांचा परिणाम होतो: १. देशातील नैसर्गिक साधनसामग्रीची उपलब्धता: मुबलक खनिजे किंवा पिके असल्यास निर्यात वाढते. २. तंत्रज्ञानाचा विकास: प्रगत तंत्रज्ञानामुळे दर्जेदार वस्तूंचे उत्पादन होऊन निर्यात मूल्य वाढते. ३. लोकसंख्या: जास्त लोकसंख्या असल्यास देशांतर्गत मागणी वाढते, ज्यामुळे निर्यात कमी व आयात वाढू शकते. ४. सरकारी धोरणे: आयात-निर्यात शुल्काचे दर व्यापारावर परिणाम करतात. ५. आंतरराष्ट्रीय संबंध आणि जागतिक बाजारपेठेतील मागणी-पुरवठ्याचे गणित व्यापार संतुलनात महत्त्वाची भूमिका बजावते."
+    }
+  ]
+}

@@ -1,0 +1,2011 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "09.Geography.12",
+        "standard": "9",
+        "subject": "Geography",
+        "medium": "Marathi",
+        "chapter_name": "पर्यटन"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "आपले राहते ठिकाण सोडून विविध कारणांनी केलेला प्रवास म्हणजे _______ होय.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्थलांतर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "पर्यटन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "भ्रमण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फेरफटका",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पर्यटन"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "राजकीय सीमांच्या आधारे पर्यटनाचे प्रमुख _______ प्रकार पडतात.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दोन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाच",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दोन"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "देशाच्या भौगोलिक सीमांच्या आत केलेल्या पर्यटनाला _______ म्हणतात.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "परदेशी पर्यटन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्वदेशी पर्यटन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "आंतरराष्ट्रीय पर्यटन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सागरी पर्यटन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वदेशी पर्यटन"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "परदेशी पर्यटनासाठी _______ असणे अनिवार्य असते.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आधार कार्ड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "रेशन कार्ड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पारपत्र (Passport)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "मतदान कार्ड",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पारपत्र (Passport)"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "दुसऱ्या देशात प्रवेश करण्यासाठी आणि वास्तव्यासाठी आवश्यक असणाऱ्या परवानगीला _______ म्हणतात.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "व्हिसा (Visa)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तिकीट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "परवाना",
+                    "is_correct": false
+                }
+            ],
+            "answer": "व्हिसा (Visa)"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "पर्यटन हा कोणत्या प्रकारचा आर्थिक व्यवसाय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्राथमिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "द्वितीयक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तृतीयक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "चतुर्थक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तृतीयक"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "पर्यटनाला _______ व्यापार असेही म्हणतात.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दृश्य",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "अदृश्य",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "मोठा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आंतरराष्ट्रीय",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अदृश्य"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "निसर्गाचे संतुलन राखून केलेल्या पर्यटनाला _______ पर्यटन म्हणतात.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "धार्मिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कृषि",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पर्यावरणस्नेही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "ऐतिहासिक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पर्यावरणस्नेही"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "शहरापासून दूर प्रदूषणमुक्त ठिकाणी शेतीशी संबंधित कार्याची सांगड घालून केलेले पर्यटन म्हणजे _______ होय.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "निसर्ग पर्यटन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कृषिपर्यटन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "ग्रामीण पर्यटन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सांस्कृतिक पर्यटन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कृषिपर्यटन"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "जीपीएस (GPS) यंत्रणेचा मुख्य उपयोग कशासाठी होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हवामान मोजण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मार्ग शोधण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "पैसे पाठवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फोटो काढण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मार्ग शोधण्यासाठी"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "भारतात कमी खर्चात उत्तम आरोग्य सेवा मिळत असल्याने _______ पर्यटन विकसित होत आहे.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वैद्यकीय",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "क्रीडा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शैक्षणिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "योग",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वैद्यकीय"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "महाराष्ट्रातील तारकर्ली (मालवण) हे ठिकाण कशासाठी प्रसिद्ध आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "किल्ले",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्नॉर्कलिंग व स्कूबा डायव्हिंग",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "थंड हवा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "धार्मिक विधी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्नॉर्कलिंग व स्कूबा डायव्हिंग"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "चित्रीकरण झालेल्या स्थळांना भेट देणे म्हणजे _______ पर्यटन होय.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कला पर्यटन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "चित्रपट पर्यटन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "मनोरंजन पर्यटन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सांस्कृतिक पर्यटन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चित्रपट पर्यटन"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "महाराष्ट्र पर्यटन विकास महामंडळाचे (MTDC) मुख्य कार्य काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शेती सुधारणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "पर्यटनाला चालना देणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वाहतूक नियंत्रित करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शिक्षण देणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पर्यटनाला चालना देणे"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "पर्यटनामुळे स्थानिक पातळीवर _______ संधी उपलब्ध होतात.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रोजगाराच्या",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बेरोजगारीच्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "केवळ धार्मिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "राजकीय",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रोजगाराच्या"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "सातारा जिल्ह्यातील 'ठोसेघर' हे ठिकाण कशासाठी प्रसिद्ध आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लेणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "धबधबा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "किल्ला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मंदिर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "धबधबा"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "महाराष्ट्रातील थंड हवेचे ठिकाण खालीलपैकी कोणते आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "महाबळेश्वर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मुंबई",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पुणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नागपूर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "महाबळेश्वर"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "अजिंठा व वेरूळ ही स्थळे कोणत्या गटात मोडतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "थंड हवेची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "ऐतिहासिक/लेणी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "समुद्रकिनारे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "धार्मिक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ऐतिहासिक/लेणी"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "पर्यटनामुळे देशाला मोठ्या प्रमाणात _______ प्राप्त होते.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "परकीय चलन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "सोने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खनिज तेल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अन्नधान्य",
+                    "is_correct": false
+                }
+            ],
+            "answer": "परकीय चलन"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "खडक तापल्याने त्याचे पापुद्रे सुटून होणारे विदारण म्हणजे _______ होय.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अपपर्णन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खनन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वहन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अवक्षेपण",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अपपर्णन"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "विमान प्रवासात दिशा निश्चितीसाठी कशाचा उपयोग होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "होकायंत्र",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "जीपीएस",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "नकाश",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "घड्याळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जीपीएस"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "नदीच्या खनन कार्यामुळे _______ आकाराची दरी तयार होते.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "U",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "L",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "V",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "S",
+                    "is_correct": false
+                }
+            ],
+            "answer": "V"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "पर्यटनाचे मूळ उद्देश काय असू शकतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मनोरंजन व आनंद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "व्यापार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आरोग्य सुविधा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "पर्यावरणस्नेही पर्यटनात कशाला महत्त्व दिले जाते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रदूषण वाढवण्याला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "निसर्ग संवर्धनाला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "हॉटेल बांधण्याला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शिकारीला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "निसर्ग संवर्धनाला"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "खालीलपैकी कोणते धार्मिक पर्यटन स्थळ आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शिर्डी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "महाबळेश्वर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रायगड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ताडोबा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शिर्डी"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "ऐतिहासिक पर्यटनात कोणाचा समावेश होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अभयारण्ये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "किल्ले",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "हॉस्पिटल्स",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बँका",
+                    "is_correct": false
+                }
+            ],
+            "answer": "किल्ले"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "पर्यटकांना पर्यटन स्थळाची माहिती देणाऱ्या व्यक्तीला काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चालक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मार्गदर्शक (Guide)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "व्यवस्थापक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रक्षक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मार्गदर्शक (Guide)"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "महाराष्ट्रातील ताडोबा हे कशासाठी प्रसिद्ध आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पक्षी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "वाघ (व्याघ्र प्रकल्प)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "हत्ती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नद्या",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वाघ (व्याघ्र प्रकल्प)"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "पर्यटनामुळे कोणत्या पायाभूत सुविधांचा विकास होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वाहतूक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "संदेशवहन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वीज व पाणीपुरवठा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "स्वतःच्या देशाचा नागरिक जेव्हा दुसऱ्या देशात जातो, तेव्हा त्याला काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्थानिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "परदेशी पर्यटक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाहुणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "व्यापारी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "परदेशी पर्यटक"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "महाराष्ट्रात 'डेक्कन ओडिसी' ही काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बस सेवा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "पर्यटन रेल्वे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "विमान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मालवाहू जहाज",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पर्यटन रेल्वे"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "पर्यटनामुळे कोणत्या घटकाला चालना मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्थानिक हस्तकला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मोठे कारखाने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शेती अवजारे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शस्त्रनिर्मिती",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्थानिक हस्तकला"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "आंतरराष्ट्रीय पर्यटनात कोणत्या गोष्टीची मोठी अडचण येऊ शकते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भाषा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कपडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हवा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भाषा"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "पर्यटनामुळे समाजातील _______ एकात्मता वाढते.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "राष्ट्रीय",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "राजकीय",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "प्रादेशिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जातीय",
+                    "is_correct": false
+                }
+            ],
+            "answer": "राष्ट्रीय"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "समुद्रकिनाऱ्याजवळील पर्यटन स्थळ खालीलपैकी कोणते आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गणपतीपुळे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "लोणावळा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पंढरपूर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अजिंठा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गणपतीपुळे"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "पर्यटनाचे स्वरूप सध्या कसे होत चालले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "संकुचित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "व्यापक व आधुनिक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त धार्मिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मर्यादित",
+                    "is_correct": false
+                }
+            ],
+            "answer": "व्यापक व आधुनिक"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "खालीलपैकी कोणते विधान बरोबर आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पर्यटनामुळे प्रदूषण कमी होते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "पर्यटन हा अदृश्य व्यापार आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्वदेशी पर्यटनाला व्हिसा लागतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पर्यटन हा प्राथमिक व्यवसाय आहे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पर्यटन हा अदृश्य व्यापार आहे"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "पर्यटनासाठी पूर्वतयारीत कशाचा समावेश होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मार्ग निवडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "वाहतुकीची साधने ठरवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दैनंदिन वस्तूंची यादी करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "महाराष्ट्रातील 'चिखलदरा' हे थंड हवेचे ठिकाण कोणत्या जिल्ह्यात आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सातारा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "अमरावती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "पुणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नाशिक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अमरावती"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "विसा (Visa) कोणाकडून मिळवावा लागतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वतःच्या देशाच्या सरकारकडून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "ज्या देशात जाणार आहोत त्या देशाच्या सरकारकडून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "जिल्हाधिकाऱ्यांकडून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ग्रामपंचायतीकडून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ज्या देशात जाणार आहोत त्या देशाच्या सरकारकडून"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "पर्यटनामुळे प्रादेशिक विकास होतो, कारण ________.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तेथे सुविधा वाढतात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्थानिकांना रोजगार मिळतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बाजारपेठ विकसित होते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "निसर्ग पर्यटनात कशाचा आनंद घेतला जातो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मोठ्या शहरांचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "जंगले, डोंगर व समुद्रकिनारे यांचा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "बँकांच्या कामाचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शाळेच्या अभ्यासाचा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जंगले, डोंगर व समुद्रकिनारे यांचा"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "पर्यटनाला चालना देण्यासाठी महाराष्ट्रात कोणती संकल्पना राबविली जात आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कृषिपर्यटन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "उद्यम पर्यटन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिक्षण पर्यटन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "केवळ औद्योगिक पर्यटन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कृषिपर्यटन"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "पर्यटकांच्या वास्तव्याची सोय म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रवास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "निवास व्यवस्था (Accommodation)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "मार्गदर्शन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "व्यापार",
+                    "is_correct": false
+                }
+            ],
+            "answer": "निवास व्यवस्था (Accommodation)"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "आंतरराष्ट्रीय पर्यटन कशामुळे सोपे झाले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विमान वाहतुकीमुळे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बैलगाडीमुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "साइकिलमुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाया चालण्यामुळे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विमान वाहतुकीमुळे"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "पर्यटनातून मिळणारा मुख्य आर्थिक फायदा कोणता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शेतमालाची नासाडी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "परकीय चलनाची प्राप्ती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "प्रदूषण वाढणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "महागाई कमी होणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "परकीय चलनाची प्राप्ती"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "महाराष्ट्रातील 'लोणावळा' हे ठिकाण कोणत्या पर्यटनासाठी ओळखले जाते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "धार्मिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "थंड हवेचे ठिकाण",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "औद्योगिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ऐतिहासिक राजधानी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "थंड हवेचे ठिकाण"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "पर्यटकांच्या सुरक्षेसाठी शासन काय करते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पर्यटन पोलीस नेमते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "प्रवास बंद करते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तिकीट दर वाढवते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीही करत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पर्यटन पोलीस नेमते"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "पर्यटनामुळे कोणत्या सेवा क्षेत्रात वाढ होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बँकिंग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "विमा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उपहारगृहे (Hotels)",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "शाश्वत पर्यटनात कशावर भर दिला जातो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भविष्यातील पिढीसाठी वारसा टिकवण्यावर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "केवळ आजचा नफा मिळवण्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जास्तीत जास्त शिकार करण्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जंगल तोडीवर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भविष्यातील पिढीसाठी वारसा टिकवण्यावर"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "पर्यटन म्हणजे काय?",
+            "answer": "आपले राहते ठिकाण सोडून वेगवेगळ्या ठिकाणी भेट देणे, आनंद मिळवणे, मनोरंजन करणे, व्यापार करणे किंवा निवास करणे या उद्देशाने केलेला प्रवास म्हणजे पर्यटन होय."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "राजकीय सीमेच्या आधारावर पर्यटनाचे दोन मुख्य प्रकार कोणते?",
+            "answer": "राजकीय सीमेच्या आधारावर स्वदेशी पर्यटन (Domestic Tourism) आणि परदेशी पर्यटन (International Tourism) हे दोन मुख्य प्रकार पडतात."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "स्वदेशी पर्यटन कशाला म्हणतात?",
+            "answer": "देशाच्या भौगोलिक सीमांच्या आत केलेल्या प्रवासाला किंवा पर्यटनाला स्वदेशी पर्यटन असे म्हणतात. यासाठी परकीय चलनाची गरज नसते."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "परदेशी पर्यटनासाठी कोणती दोन प्रमुख कागदपत्रे अनिवार्य असतात?",
+            "answer": "परदेशी पर्यटनासाठी स्वतःच्या देशाचा पारपत्र (Passport) आणि ज्या देशात भेट देणार आहोत त्या देशाचा विसा (Visa) ही कागदपत्रे अनिवार्य असतात."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "पर्यटनाला 'अदृश्य व्यापार' का म्हणतात?",
+            "answer": "पर्यटनातून सेवांची विक्री होऊन देशाला परकीय चलन मिळते, परंतु वस्तूंची प्रत्यक्ष भौतिक देवाणघेवाण दिसत नाही, म्हणून याला 'अदृश्य व्यापार' म्हणतात."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "पर्यावरणस्नेही पर्यटनाचा मुख्य उद्देश काय असतो?",
+            "answer": "पर्यटन करताना पर्यावरणाला हानी पोहोचणार नाही, निसर्गाचा ऱ्हास होणार नाही आणि पर्यावरणाचे संतुलन राखले जाईल याची काळजी घेणे हा याचा मुख्य उद्देश असतो."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "कृषिपर्यटन म्हणजे काय?",
+            "answer": "शहरी लोकांना ग्रामीण जीवन आणि शेतीशी संबंधित कामांचा प्रत्यक्ष अनुभव देण्यासाठी केले जाणारे आधुनिक पर्यटन म्हणजे कृषिपर्यटन होय."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "जीपीएस (GPS) यंत्रणेचा पर्यटनात कोणता मोठा फायदा होतो?",
+            "answer": "जीपीएसमुळे पर्यटकांना आपले नेमके भौगोलिक स्थान समजते, प्रवासाचा मार्ग शोधणे सोपे जाते आणि प्रवासाचे नियोजन अचूक करता येते."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "चित्रपट पर्यटन (Film Tourism) म्हणजे काय?",
+            "answer": "ज्या ठिकाणी चित्रपटांचे चित्रीकरण झाले आहे, त्या निसर्गरम्य किंवा ऐतिहासिक स्थळांना भेट देण्यासाठी पर्यटकांना आकर्षित करणे म्हणजे चित्रपट पर्यटन होय."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "वैद्यकीय पर्यटन कशामुळे विकसित झाले आहे?",
+            "answer": "विकसित देशांच्या तुलनेत भारतात कमी खर्चात आणि जागतिक दर्जाच्या आरोग्य सुविधा उपलब्ध असल्याने परदेशी रुग्ण भारतात येतात, यातून वैद्यकीय पर्यटन विकसित झाले आहे."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "पर्यटनाचा अर्थव्यवस्थेवर कोणता सकारात्मक परिणाम होतो?",
+            "answer": "पर्यटनामुळे उपहारगृहे, वाहतूक आणि स्थानिक हस्तकला यांसारख्या सेवा क्षेत्रात मोठ्या प्रमाणावर रोजगार निर्माण होऊन देशाचे उत्पन्न वाढते."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "धार्मिक पर्यटनाची दोन उदाहरणे लिहा.",
+            "answer": "महाराष्ट्रातील पंढरपूरची वारी आणि शिर्डीचे साईबाबा मंदिर ही धार्मिक पर्यटनाची प्रमुख उदाहरणे आहेत."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "पर्यटनामुळे सामाजिक विकास कसा होतो?",
+            "answer": "पर्यटनामुळे विविध संस्कृतीचे लोक एकमेकांच्या संपर्कात येतात, विचारांची देवाणघेवाण होते आणि राष्ट्रीय एकात्मता वाढण्यास मदत होते."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "पर्यटनासाठी पूर्वतयारी करताना कोणत्या गोष्टींचे नियोजन करावे लागते?",
+            "answer": "प्रवासाचा मार्ग निवडणे, वाहतुकीची साधने ठरवणे, आवश्यक दैनंदिन वस्तूंची यादी करणे आणि राहण्याची सोय (Booking) करणे या गोष्टींचे नियोजन करावे लागते."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "महाराष्ट्रातील दोन थंड हवेच्या ठिकाणांची नावे लिहा.",
+            "answer": "महाबळेश्वर (सातारा जिल्हा) आणि चिखलदरा (अमरावती जिल्हा) ही महाराष्ट्रातील प्रसिद्ध थंड हवेची ठिकाणे आहेत."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "ऐतिहासिक पर्यटनाचे महत्त्व काय?",
+            "answer": "ऐतिहासिक पर्यटनामुळे आपल्याला आपल्या पूर्वजांचा इतिहास, संस्कृती, कला आणि वास्तुकलेचा वारसा जवळून समजून घेता येतो."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "कोकणातील तारकर्ली हे ठिकाण कशासाठी प्रसिद्ध आहे?",
+            "answer": "तारकर्ली हे ठिकाण समुद्रतळ आणि त्याखालील जीवसृष्टी पाहण्यासाठी (स्नॉर्कलिंग आणि स्कूबा डायव्हिंग) जगप्रसिद्ध आहे."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "पर्यटनामुळे पर्यावरणाचे संवर्धन कसे होते?",
+            "answer": "पर्यटनाच्या माध्यमातून अभयारण्ये आणि राष्ट्रीय उद्यानांचा विकास होतो, ज्यासाठी शासन निधी खर्च करते, परिणामी निसर्गाचे जतन होते."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "साहसी पर्यटन म्हणजे काय?",
+            "answer": "पर्वतारोहण, ट्रेकिंग किंवा रिव्हर राफ्टिंग यांसारख्या शारीरिक धाडसाचा आणि आव्हानांचा समावेश असलेल्या प्रवासाला साहसी पर्यटन म्हणतात."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "पर्यटकांनी पर्यटन स्थळी कोणती मुख्य काळजी घ्यावी?",
+            "answer": "पर्यटकांनी पर्यटन स्थळी कचरा टाकू नये, ऐतिहासिक वास्तूंचे विद्रुपीकरण करू नये आणि स्थानिक संस्कृतीचा आदर राखावा."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "पर्यटनातील 'मार्गदर्शक' (Guide) ची भूमिका काय असते?",
+            "answer": "मार्गदर्शक पर्यटकांना त्या स्थळाची ऐतिहासिक, भौगोलिक आणि सांस्कृतिक माहिती रंजक पद्धतीने देऊन त्यांचा अनुभव समृद्ध करतो."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "महाराष्ट्रात पर्यटनाला चालना देणारी मुख्य संस्था कोणती?",
+            "answer": "महाराष्ट्र पर्यटन विकास महामंडळ (MTDC) ही महाराष्ट्रात पर्यटनाला चालना देणारी आणि पर्यटकांना सुविधा पुरवणारी मुख्य संस्था आहे."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "स्वदेशी पर्यटनासाठी भाषेचा फायदा कसा होतो?",
+            "answer": "स्वदेशी पर्यटनात स्वतःच्या देशातील भाषा अवगत असल्याने संवाद साधणे आणि माहिती मिळवणे पर्यटकांना सोपे जाते."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "जागतिक वारसा स्थळ म्हणजे काय?",
+            "answer": "अतिशय महत्त्वाचा ऐतिहासिक किंवा नैसर्गिक वारसा लाभलेल्या आणि 'युनेस्को' (UNESCO) ने संरक्षणासाठी घोषित केलेल्या स्थळाला जागतिक वारसा स्थळ म्हणतात."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "पर्यटनामुळे ग्रामीण भागातील स्थलांतर कसे रोखले जाते?",
+            "answer": "ग्रामीण भागात पर्यटन आणि कृषिपर्यटनामुळे रोजगाराच्या स्थानिक संधी उपलब्ध होतात, त्यामुळे तरुणांना शहरांकडे जाण्याची गरज उरत नाही."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "शाश्वत पर्यटन म्हणजे काय?",
+            "answer": "निसर्ग आणि संस्कृतीचे संवर्धन करून भविष्यातील पिढ्यांसाठी पर्यटन स्थळे सुरक्षित ठेवण्याच्या हेतूने केलेले पर्यटन म्हणजे शाश्वत पर्यटन होय."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "पर्यटनामुळे परकीय चलन कसे प्राप्त होते?",
+            "answer": "परदेशी पर्यटक भारतात आल्यावर येथील सेवांसाठी त्यांच्या चलनाचे भारतीय रुपयात रूपांतर करतात, ज्यातून देशाला महसूल मिळतो."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "पर्यटनाचा 'तृतीयक व्यवसाय' का मानले जाते?",
+            "answer": "पर्यटन हे कोणत्याही वस्तूचे उत्पादन न करता पर्यटकांना केवळ 'सेवा' पुरवण्याचे काम करते, म्हणून तो तृतीयक व्यवसाय आहे."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "महाराष्ट्रात 'डेक्कन ओडिसी' ही काय आहे?",
+            "answer": "पर्यटकांना महाराष्ट्राचे दर्शन घडवण्यासाठी चालवली जाणारी एक आलिशान आणि विशेष पर्यटन रेल्वे म्हणजे 'डेक्कन ओडिसी' होय."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "विसा (Visa) मिळवण्यासाठी कोणती माहिती द्यावी लागते?",
+            "answer": "विसा मिळवण्यासाठी पर्यटकाला प्रवासाचा हेतू, वास्तव्याचा कालावधी आणि आर्थिक सक्षमतेचे पुरावे संबंधित देशाच्या दूतावासात द्यावे लागतात."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "पर्यटनामुळे पायाभूत सुविधांचा विकास कसा होतो?",
+            "answer": "पर्यटन स्थळांच्या सोयीसाठी शासन रस्ते, वीज, पाणी आणि इंटरनेट सुविधा पुरवते, ज्याचा लाभ स्थानिक लोकांनाही मिळतो."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "सांस्कृतिक पर्यटनाचा एक फायदा सांगा.",
+            "answer": "सांस्कृतिक पर्यटनामुळे एखाद्या प्रदेशातील लोककला, सण आणि परंपरांचे जतन होते व त्यांना जागतिक ओळख मिळते."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "जीपीएस तंत्रज्ञानातील 'इंटरॅक्टिव्ह मॅप्स'चा काय उपयोग होतो?",
+            "answer": "या नकाशामुळे पर्यटकांना जवळची हॉटेल्स, पेट्रोल पंप आणि प्रेक्षणीय स्थळांची माहिती रीअल-टाइममध्ये मिळते."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "ऐतिहासिक किल्ल्यांचे जतन करणे का आवश्यक आहे?",
+            "answer": "किल्ले हे आपल्या पूर्वजांच्या शौर्याचे आणि वास्तुकलेचे प्रतीक आहेत, तसेच ते पर्यटनाद्वारे रोजगाराचे मोठे साधन आहेत."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "पर्यटनात 'राहण्याची सोय' (Accomodation) का महत्त्वाची असते?",
+            "answer": "लांबच्या प्रवासात पर्यटकांना विश्रांतीसाठी सुरक्षित आणि आरामदायी निवासाची गरज असते, ज्यामुळे पर्यटनाचा अनुभव सुखद होतो."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "स्वदेशी पर्यटनामुळे राष्ट्रीय एकात्मता कशी वाढते?",
+            "answer": "देशाच्या विविध भागांतील लोक एकमेकांच्या संस्कृतीशी जोडले गेल्यामुळे आपुलकी आणि एकतेची भावना निर्माण होते."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "निसर्ग पर्यटनाचे दोन प्रकार सांगा.",
+            "answer": "जंगल सफारी आणि पक्षी निरीक्षण ही निसर्ग पर्यटनाची दोन मुख्य उदाहरणे आहेत."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "पर्यटनात माहिती तंत्रज्ञानाचा काय वाटा आहे?",
+            "answer": "इंटरनेट आणि मोबाईल ॲप्समुळे तिकीट बुकिंगपासून ते स्थळांच्या माहितीपर्यंत सर्व गोष्टी पर्यटकांना सहज उपलब्ध झाल्या आहेत."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "पर्यटनामुळे स्थानिक हस्तकलेला प्रोत्साहन कसे मिळते?",
+            "answer": "पर्यटक स्थानिक कारागिरांनी बनवलेल्या वस्तू आठवण म्हणून खरेदी करतात, ज्यामुळे त्या कलेला बाजारपेठ मिळते."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "महाराष्ट्रातील 'चिखलदरा' कशासाठी प्रसिद्ध आहे?",
+            "answer": "चिखलदरा हे विदर्भातील अमरावती जिल्ह्यातील एकमेव आणि प्रसिद्ध थंड हवेचे ठिकाण म्हणून ओळखले जाते."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "साहसी पर्यटनासाठी कोणती खबरदारी घ्यावी लागते?",
+            "answer": "साहसी पर्यटनात तज्ज्ञ मार्गदर्शक सोबत असणे आणि सुरक्षेच्या साधनांचा (उदा. हेल्मेट, रोप) वापर करणे आवश्यक असते."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "आंतरराष्ट्रीय पर्यटनात चलनाची देवाणघेवाण कशी केली जाते?",
+            "answer": "बँका किंवा अधिकृत चलन विनिमय केंद्रांवरून स्वतःच्या देशाच्या चलनाच्या बदल्यात परदेशी चलन मिळवता येते."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "शालेय सहलींचे पर्यटनात काय महत्त्व आहे?",
+            "answer": "शालेय सहलींमुळे विद्यार्थ्यांना पुस्तकातील माहितीचा प्रत्यक्ष अनुभव मिळतो आणि त्यांचे भौगोलिक ज्ञान वाढते."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "पर्यटनाचा मानसिक आरोग्यावर काय परिणाम होतो?",
+            "answer": "निसर्गाच्या सानिध्यात फिरल्यामुळे आणि दैनंदिन कामातून विश्रांती मिळाल्यामुळे मानसिक ताण कमी होतो."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "पर्यटनामुळे प्रादेशिक असंतुलन कसे कमी होते?",
+            "answer": "दुर्गम भागातील पर्यटन स्थळे विकसित झाल्यामुळे त्या मागासलेल्या भागाचा आर्थिक विकास होऊन प्रादेशिक समतोल राखला जातो."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "पर्यटक पोलीस (Tourism Police) कशासाठी नेमले जातात?",
+            "answer": "परदेशी आणि स्थानिक पर्यटकांना संरक्षण देण्यासाठी आणि त्यांना मार्गदर्शनासाठी विशेष पर्यटन पोलीस नेमले जातात."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "महाराष्ट्रातील ताडोबा राष्ट्रीय उद्यान कशासाठी प्रसिद्ध आहे?",
+            "answer": "ताडोबा राष्ट्रीय उद्यान हे प्रामुख्याने वाघांच्या वास्तव्यासाठी आणि वन्यजीव सफारीसाठी प्रसिद्ध आहे."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "स्वदेशी पर्यटनात कोणती आर्थिक सोय असते?",
+            "answer": "स्वदेशी पर्यटनात आपल्याच देशाचे चलन चालत असल्यामुळे चलन बदलण्याचे शुल्क वाचते आणि आर्थिक व्यवहार सोपे होतात."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "पर्यटन व्यवसायाचा भविष्यातील कल काय आहे?",
+            "answer": "भविष्यात ईको-टुरिझम (पर्यावरणपूरक पर्यटन) आणि व्हर्च्युअल टुरिझम या संकल्पनांना अधिक महत्त्व प्राप्त होईल."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "पर्यटनाचा 'विविधता' या घटकाशी काय संबंध आहे?",
+            "answer": "पर्यटनामुळे आपल्याला जगातील भौगोलिक, सांस्कृतिक आणि भाषिक विविधता प्रत्यक्ष अनुभवता येते."
+        },
+        {
+            "question_id": 101,
+            "question_type": "LONG",
+            "question": "पर्यटनाचे स्वरूप स्पष्ट करून त्याचे प्रमुख उद्देश सविस्तर लिहा.",
+            "answer": "पर्यटन हा एक महत्त्वाचा तृतीयक आर्थिक व्यवसाय असून त्यात सेवांचे आदानप्रदान केले जाते. आपले राहते ठिकाण सोडून विविध ठिकाणी भेट देणे, आनंद मिळवणे आणि मनोरंजन करणे हा पर्यटनाचा मूळ हेतू असतो. पर्यटनाचे मुख्य उद्देश म्हणजे मनोरंजन, निसर्गनिरीक्षण, व्यापार, आरोग्य सुविधांचा लाभ घेणे आणि धार्मिक दर्शन हे आहेत. आधुनिक काळात पर्यटनाचे स्वरूप बदलले असून त्यात साहसी खेळ, चित्रपट चित्रीकरण आणि कृषी पर्यटनाचाही समावेश झाला आहे. कोणत्याही ठिकाणी पर्यटनासाठी जाताना मार्गाची निवड, वाहतूक साधने आणि राहण्याची सोय यांचे नियोजन करणे आवश्यक असते. पर्यटनामुळे वैयक्तिक आनंदासोबतच सांस्कृतिक आणि आर्थिक विकासही घडून येतो."
+        },
+        {
+            "question_id": 102,
+            "question_type": "LONG",
+            "question": "स्वदेशी पर्यटन आणि परदेशी पर्यटन यांच्यातील मूलभूत फरक स्पष्ट करा.",
+            "answer": "स्वदेशी पर्यटन म्हणजे आपल्याच देशाच्या भौगोलिक सीमांच्या आत केलेला प्रवास होय, तर परदेशी पर्यटन म्हणजे देशाच्या सीमा ओलांडून दुसऱ्या देशात केलेला प्रवास होय. स्वदेशी पर्यटनासाठी भाषेची अडचण कमी असते आणि चलन बदलण्याची गरज भासत नाही, मात्र परदेशी पर्यटनासाठी परकीय चलनाची आवश्यकता असते. स्वदेशी पर्यटनासाठी कागदपत्रांची पूर्तता कमी लागते, पण परदेशी पर्यटनासाठी पारपत्र (Passport) आणि व्हिसा (Visa) अनिवार्य असतो. स्वदेशी पर्यटनामुळे देशांतर्गत पैसा फिरतो, तर परदेशी पर्यटनामुळे देशाला मौल्यवान परकीय चलन प्राप्त होते. दोन्ही प्रकारच्या पर्यटनामुळे पर्यटकाला नवीन संस्कृती आणि भौगोलिक प्रदेशांची माहिती मिळते. परदेशी पर्यटनासाठी विमानाचा प्रवास अधिक होतो, तर स्वदेशी पर्यटन रस्ते किंवा रेल्वेमार्गे करणे सुलभ असते."
+        },
+        {
+            "question_id": 103,
+            "question_type": "LONG",
+            "question": "पर्यटनाचा अर्थव्यवस्थेवर होणारा सकारात्मक परिणाम सविस्तर स्पष्ट करा.",
+            "answer": "पर्यटन हा एक महत्त्वाचा आर्थिक व्यवसाय असून यामुळे देशाच्या आणि स्थानिक प्रदेशाच्या अर्थव्यवस्थेला मोठी चालना मिळते. पर्यटनामुळे उपहारगृहे, दुकाने, वाहतूक व्यवस्था आणि निवास व्यवस्था यांसारख्या सेवा क्षेत्रांत मोठ्या प्रमाणावर रोजगार निर्माण होतो. परदेशी पर्यटकांच्या आगमनामुळे देशाला मौल्यवान परकीय चलन प्राप्त होते, म्हणूनच पर्यटनाला 'अदृश्य व्यापार' म्हटले जाते. पर्यटन स्थळांच्या विकासामुळे तेथील पायाभूत सुविधा जसे की रस्ते, वीज आणि पाणीपुरवठा यात मोठी सुधारणा होते. स्थानिक हस्तकला आणि कौशल्यांना आंतरराष्ट्रीय बाजारपेठ उपलब्ध होऊन ग्रामीण अर्थव्यवस्थेत भर पडते. थोडक्यात, पर्यटन हे प्रादेशिक विकासाचे आणि गरिबी निर्मूलनाचे एक प्रभावी साधन ठरते."
+        },
+        {
+            "question_id": 104,
+            "question_type": "LONG",
+            "question": "पर्यावरणस्नेही पर्यटनाची संकल्पना आणि त्याचे महत्त्व स्पष्ट करा.",
+            "answer": "पर्यावरणस्नेही पर्यटन म्हणजे निसर्गाचे संतुलन राखून आणि पर्यावरणाला हानी न पोहचवता केलेले पर्यटन होय. यामध्ये पर्यटन करताना प्लास्टिकचा वापर टाळणे, वन्यजीवांना त्रास न देणे आणि कचऱ्याचे योग्य व्यवस्थापन करणे अपेक्षित असते. या संकल्पनेमुळे पर्यटन स्थळांचे नैसर्गिक सौंदर्य दीर्घकाळ टिकून राहते आणि मानवी हस्तक्षेपामुळे होणाऱ्या प्रदूषणावर नियंत्रण मिळवता येते. पर्यावरणस्नेही पर्यटनात स्थानिक साधनसंपत्तीचा अपव्यय टाळला जातो आणि निसर्ग संवर्धनाबाबत पर्यटकांमध्ये जनजागृती केली जाते. यामुळे पर्यटकांना शुद्ध हवा आणि प्रदूषणमुक्त वातावरणाचा निखळ आनंद घेता येतो. भविष्यातील पिढीसाठी नैसर्गिक वारसा जतन करण्याच्या दृष्टीने ही पर्यटन पद्धती अत्यंत महत्त्वाची मानली जाते."
+        },
+        {
+            "question_id": 105,
+            "question_type": "LONG",
+            "question": "कृषिपर्यटनाच्या विकासासाठी कोणकोणत्या बाबी आवश्यक आहेत आणि त्याचे फायदे काय?",
+            "answer": "कृषिपर्यटन ही एक आधुनिक संकल्पना असून तिच्या विकासासाठी ग्रामीण भागातील नैसर्गिक वातावरण आणि शेतीची उपलब्धता आवश्यक असते. पर्यटकांना आकर्षित करण्यासाठी शेतावर राहण्याची सोय, ग्रामीण पद्धतीचे जेवण आणि शेतीकामांचा प्रत्यक्ष अनुभव देणारी व्यवस्था असावी लागते. यामध्ये फळबागा, फुलशेती, पशुपालन आणि ग्रामीण खेळ यांसारख्या बाबींचा समावेश केल्यास पर्यटकांचा प्रतिसाद वाढतो. शहरापासून जवळ असलेले आणि प्रदूषणमुक्त असलेले क्षेत्र कृषिपर्यटनासाठी अधिक योग्य ठरते. या व्यवसायामुळे शेतकऱ्यांना शेतीसोबतच पर्यटनाचा जोडधंदा उपलब्ध होतो आणि शहरी लोकांना ग्रामीण संस्कृतीशी जोडता येते. ग्रामीण भागातील स्थलांतर रोखण्यासाठी आणि स्थानिक रोजगार वाढवण्यासाठी कृषिपर्यटन अत्यंत फायदेशीर ठरत आहे."
+        },
+        {
+            "question_id": 106,
+            "question_type": "LONG",
+            "question": "पर्यटनासाठी जीपीएस (GPS) प्रणालीचा वापर कशा प्रकारे केला जातो?",
+            "answer": "जीपीएस (Global Positioning System) ही प्रणाली आधुनिक पर्यटनासाठी एक अत्यंत उपयुक्त साधन बनली आहे. पर्यटकांना एखाद्या अनोळखी ठिकाणी जाताना मार्ग शोधण्यासाठी स्मार्टफोनमधील गुगल मॅप्ससारख्या ॲप्सचा प्रभावी वापर करता येतो. यामध्ये दोन ठिकाणांमधील अंतर, प्रवासाचा संभाव्य वेळ आणि मार्गावरील वाहतुकीची कोंडी याबद्दल अचूक माहिती मिळते. जीपीएसमुळे पर्यटकाला आपले नेमके स्थान कळते, ज्यामुळे तो रस्ता चुकण्यापासून वाचतो. प्रवासाच्या मार्गावरील हॉटेल्स, पेट्रोल पंप, प्रेक्षणीय स्थळे आणि रुग्णालये यांची माहिती तात्काळ मिळवता येते. दुर्गम भागात किंवा घनदाट जंगलात ट्रेकिंग करताना सुरक्षिततेच्या दृष्टीने जीपीएस अत्यंत महत्त्वाचे ठरते, कारण आपत्कालीन स्थितीत मदतीसाठी अचूक स्थान कळवणे शक्य होते."
+        },
+        {
+            "question_id": 107,
+            "question_type": "LONG",
+            "question": "वैद्यकीय पर्यटनासाठी भारत हे प्रमुख जागतिक केंद्र का बनत आहे?",
+            "answer": "भारतातील आरोग्य सुविधांचा दर्जा आंतरराष्ट्रीय स्तराचा असून उपचार खर्च विकसित देशांच्या तुलनेत खूपच कमी आहे. यामुळे पाश्चिमात्य आणि आखाती देशांतून अनेक रुग्ण जटिल शस्त्रक्रिया आणि उपचारांसाठी भारताला पसंती देतात. भारतामध्ये अद्ययावत रुग्णालये, तज्ज्ञ डॉक्टर्स आणि आधुनिक वैद्यकीय उपकरणे सहज उपलब्ध आहेत. वैद्यकीय उपचारांसोबतच भारत हा योग, आयुर्वेद आणि निसर्गोपचारासाठी जगप्रसिद्ध असल्याने पर्यटक इकडे आकर्षित होतात. येथील हवामान आणि रुग्णांची घेतली जाणारी विशेष काळजी हेदेखील वैद्यकीय पर्यटनाला चालना देणारे महत्त्वाचे घटक आहेत. या सर्व कारणांमुळे भारताला वैद्यकीय पर्यटनाचे जागतिक केंद्र (Medical Hub) म्हणून ओळखले जाते, ज्यामुळे देशाला मोठा महसूल मिळतो."
+        },
+        {
+            "question_id": 108,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे सामाजिक विकास कसा घडून येतो ते स्पष्ट करा.",
+            "answer": "पर्यटनामुळे विविध प्रदेशांतील आणि संस्कृतींतील लोक एकमेकांच्या संपर्कात येतात, ज्यामुळे विचारांची देवाणघेवाण होते. जेव्हा पर्यटक उपेक्षित घटक किंवा सामाजिक प्रकल्पांना भेटी देतात, तेव्हा समाजात जनजागृती होऊन मदतीचे हात पुढे येतात. महाराष्ट्रातील आनंदवन किंवा हिवरे बाजार यांसारख्या ठिकाणांना भेटी दिल्याने पर्यटकांना सामाजिक कार्याची प्रेरणा मिळते. पर्यटनामुळे स्थानिक लोकांच्या अंगभूत कलागुणांना आणि हस्तकलेला जागतिक व्यासपीठ मिळते, ज्यामुळे त्यांचे जीवनमान सुधारते. यामुळे लोकांमध्ये आत्मविश्वास निर्माण होतो आणि प्रादेशिक अस्मितेचे जतन केले जाते. थोडक्यात, पर्यटन हे समाजातील विविध स्तरांना जोडण्याचे आणि राष्ट्रीय एकात्मता वाढवण्याचे कार्य करते, ज्यामुळे अंधश्रद्धा दूर होण्यास मदत होते."
+        },
+        {
+            "question_id": 109,
+            "question_type": "LONG",
+            "question": "पर्यटनासाठी पूर्वतयारी करताना कोणत्या महत्त्वाच्या गोष्टींचे नियोजन करावे लागते?",
+            "answer": "पर्यटनाचा आनंद लुटण्यासाठी प्रवासापूर्वी केलेले पद्धतशीर नियोजन अत्यंत महत्त्वाचे असते. सुरुवातीला पर्यटन स्थळाची निवड करून तेथे जाण्याचा योग्य मार्ग आणि वाहतुकीचे साधन निश्चित करावे लागते. प्रवासासाठी लागणारी कागदपत्रे (उदा. तिकीट, आयडी प्रूफ, व्हिसा), हवामानानुसार लागणारे कपडे आणि अत्यावश्यक औषधे यांची तयारी करावी लागते. पर्यटनाच्या ठिकाणी राहण्याची सोय (Booking) आधीच करणे आवश्यक असते जेणेकरून आयत्या वेळी गैरसोय टाळता येईल. सहलीचा एकूण अंदाजित खर्च आणि आर्थिक तरतूद केल्यामुळे प्रवासात पैशांची अडचण येत नाही. ठिकाणची माहिती आधीच इंटरनेटवरून घेतल्यास प्रवासाचा वेळ वाचतो. कॅमेरा, बॅटरी बँक आणि आवश्यक मोबाईल ॲप्स डाऊनलोड करणे हे देखील नियोजनाचा भाग आहे."
+        },
+        {
+            "question_id": 110,
+            "question_type": "LONG",
+            "question": "चित्रपट पर्यटन (Film Tourism) म्हणजे काय आणि त्याचे फायदे सांगा.",
+            "answer": "चित्रपटाचे चित्रीकरण ज्या नैसर्गिक किंवा ऐतिहासिक ठिकाणी झाले आहे, त्या ठिकाणी भेटी देणे म्हणजे चित्रपट पर्यटन होय. चित्रपटात दिसणारी निसर्गरम्य स्थळे पाहण्याची उत्सुकता पर्यटकांना त्या विशिष्ट प्रदेशाकडे आकर्षित करते. यामुळे ज्या ग्रामीण किंवा दुर्गम भागात चित्रीकरण होते, त्या भागातील पर्यटन व्यवसायाला मोठी चालना मिळते. महाराष्ट्रातील कोल्हापूर, महाबळेश्वर किंवा मुंबईतील फिल्मसिटी ही चित्रपट पर्यटनाची प्रमुख उदाहरणे आहेत. या पर्यटनामुळे स्थानिक लोकांना चित्रपटाच्या संचासाठी काम किंवा विविध सेवा पुरवून रोजगार मिळतो. पर्यटकांना आपल्या आवडत्या कलाकारांच्या वास्तव्याची ठिकाणे पाहणे हा एक रोमांचक अनुभव असतो. यामुळे त्या स्थळाचे ब्रँडिंग होऊन तेथे पायाभूत सुविधांचा विकास वेगाने होतो."
+        },
+        {
+            "question_id": 111,
+            "question_type": "LONG",
+            "question": "पर्यटनाचे पर्यावरणावर होणारे नकारात्मक परिणाम सांगून त्यावर उपाय सुचवा.",
+            "answer": "पर्यटनामुळे कधीकधी निसर्गाचा ऱ्हास होतो; जसे की पर्यटकांनी टाकलेला प्लास्टिक कचरा, ध्वनी प्रदूषण आणि वायू प्रदूषण. मोठ्या प्रमाणावर होणाऱ्या बांधकामांमुळे जंगलतोड होते आणि वन्यजीवांच्या अधिवासात अडथळा निर्माण होतो. पर्यटन स्थळी पाण्याची कमतरता भासते कारण पर्यटकांची गरज स्थानिक लोकांच्या तुलनेत जास्त असते. यावर उपाय म्हणून 'पर्यावरणस्नेही पर्यटन' राबवणे आवश्यक आहे. पर्यटकांनी कचऱ्याचे योग्य व्यवस्थापन करावे आणि नैसर्गिक संसाधनांचा कमीत कमी वापर करावा. शासनाने पर्यटन स्थळांवर पर्यटकांच्या संख्येवर मर्यादा घालावी आणि वृक्षारोपणास प्रोत्साहन द्यावे. स्थानिक जैवविविधतेचे रक्षण करण्यासाठी पर्यटकांमध्ये जनजागृती करणे हा सर्वात प्रभावी उपाय आहे."
+        },
+        {
+            "question_id": 112,
+            "question_type": "LONG",
+            "question": "महाराष्ट्रातील ऐतिहासिक पर्यटनाचे महत्त्व सविस्तर स्पष्ट करा.",
+            "answer": "महाराष्ट्र हा ऐतिहासिक वारशाने नटलेला प्रदेश असून येथील किल्ले, लेणी आणि राजवाडे जागतिक स्तरावर प्रसिद्ध आहेत. छत्रपती शिवाजी महाराजांच्या इतिहासाशी संबंधित रायगड, राजगड, प्रतापगड यांसारखे किल्ले पर्यटकांना प्रेरणेसोबतच वास्तुकलेचा अद्भूत नमुना दाखवतात. अजिंठा आणि वेरूळ यांसारख्या जागतिक वारसा लाभलेल्या लेण्यांमुळे महाराष्ट्राला आंतरराष्ट्रीय स्तरावर ओळख मिळाली आहे. ऐतिहासिक पर्यटनामुळे नवीन पिढीला आपल्या पूर्वजांच्या पराक्रमाची आणि संस्कृतीची माहिती मिळते. या पर्यटन केंद्रांमुळे स्थानिक परिसरात हॉटेल व्यवसाय, गाईड सेवा आणि हस्तकला उद्योगाला मोठी चालना मिळते. ऐतिहासिक वास्तूंच्या जतनासाठी पर्यटनातून मिळणारा महसूल वापरता येतो. थोडक्यात, ऐतिहासिक पर्यटन हे महाराष्ट्राच्या संस्कृतीचे जतन करण्याचे प्रभावी माध्यम आहे."
+        },
+        {
+            "question_id": 113,
+            "question_type": "LONG",
+            "question": "साहसी पर्यटनासाठी महाराष्ट्रात कोणत्या संधी उपलब्ध आहेत ते लिहा.",
+            "answer": "महाराष्ट्राची भौगोलिक रचना साहसी पर्यटनासाठी अत्यंत पूरक आहे. सह्याद्रीच्या रांगांमध्ये ट्रेकिंग, रॉक क्लाइंबिंग आणि रॅपलिंगसाठी अनेक कडे आणि सुळके उपलब्ध आहेत. कोकण किनारपट्टीवर वॉटर स्पोर्ट्स, स्नॉर्कलिंग आणि स्कूबा डायव्हिंगसारख्या जलसाहसांच्या मोठ्या संधी आहेत. लोणावळा-खंडाळा किंवा पाचगणी यांसारख्या ठिकाणी पॅराग्लाइडिंगसाठी अनुकूल हवामान आणि उंची मिळते. नद्यांमध्ये रिव्हर राफ्टिंग आणि जंगलांमध्ये नाईट सफारी यांसारखे थरारक अनुभव पर्यटकांना घेता येतात. साहसी पर्यटनामुळे तरुणांना रोजगाराच्या नवीन संधी उपलब्ध होतात आणि पर्यटकांमध्ये धाडस व निर्णयक्षमता वाढीस लागते. सुरक्षा साधनांचा वापर आणि तज्ज्ञांचे मार्गदर्शन घेतल्यास हे पर्यटन अत्यंत आनंददायी ठरू शकते."
+        },
+        {
+            "question_id": 114,
+            "question_type": "LONG",
+            "question": "धार्मिक पर्यटनाचा सामाजिक आणि आर्थिक प्रभाव स्पष्ट करा.",
+            "answer": "धार्मिक पर्यटन हे भारतात सर्वात जुने आणि मोठ्या प्रमाणावर चालणारे पर्यटन आहे. यामुळे वेगवेगळ्या जाती-धर्माचे लोक एकत्र येतात, ज्यामुळे समाजात धार्मिक सलोखा आणि एकात्मता वाढण्यास मदत होते. पंढरपूर, शिर्डी, कोल्हापूर किंवा नाशिक यांसारख्या धार्मिक केंद्रांवर वर्षाकाठी लाखो भाविक येतात. या गर्दीमुळे तेथील स्थानिक बाजारपेठांना मोठी आर्थिक उभारी मिळते. निवास व्यवस्था, पूजेचे साहित्य, प्रसाद आणि वाहतूक यांतून मोठ्या प्रमाणावर पैसा फिरतो. धार्मिक स्थळांच्या विकासामुळे तेथील रस्ते आणि रेल्वे सुविधांमध्ये सुधारणा होते. मात्र, अशा ठिकाणी गर्दीचे योग्य व्यवस्थापन आणि स्वच्छता राखणे हे मोठे आव्हान असते. योग्य नियोजनामुळे धार्मिक पर्यटन हे त्या प्रदेशाच्या आर्थिक प्रगतीचे मुख्य साधन बनते."
+        },
+        {
+            "question_id": 115,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे होणारा पायाभूत सुविधांचा विकास उदाहरणासह स्पष्ट करा.",
+            "answer": "एखाद्या प्रदेशात पर्यटन वाढले की तेथे पर्यटकांच्या सोयीसाठी शासन आणि खाजगी संस्था पायाभूत सुविधांचा विकास करतात. यामध्ये प्रामुख्याने रस्ते आणि वाहतूक मार्गांचे जाळे विस्तारले जाते, जसे की अजिंठा लेण्यांकडे जाण्यासाठी विमानतळ आणि उत्तम रस्त्यांची सोय करण्यात आली आहे. वीजपुरवठा, पिण्याच्या पाण्याची सोय आणि स्वच्छतागृहे यांसारख्या मूलभूत सुविधांमध्ये सुधारणा होते. संदेशवहनासाठी मोबाईल नेटवर्क आणि हाय-स्पीड इंटरनेटची उपलब्धता वाढवली जाते. पर्यटकांच्या वास्तव्यासाठी हॉटेल्स, लॉजेस आणि रिसॉर्ट्सचे बांधकाम होते. या सर्व सुविधांचा फायदा केवळ पर्यटकांनाच नाही, तर तेथील स्थानिक नागरिकांनाही त्यांच्या दैनंदिन जीवनासाठी होतो. यामुळे त्या भागाचे राहणीमान सुधारते आणि शहरीकरण वेगाने होते."
+        },
+        {
+            "question_id": 116,
+            "question_type": "LONG",
+            "question": "स्वदेशी पर्यटनाचे महत्त्व भारताच्या संदर्भात स्पष्ट करा.",
+            "answer": "भारत हा विविधतेने नटलेला देश असल्याने स्वदेशी पर्यटनाला येथे खूप वाव आहे. स्वदेशी पर्यटनामुळे देशातील पैसा देशातच राहतो आणि अर्थव्यवस्थेला बळकटी मिळते. नागरिकांना आपल्या देशाचा समृद्ध सांस्कृतिक आणि नैसर्गिक वारसा जवळून पाहता येतो. यामुळे राष्ट्रीय एकात्मतेची भावना प्रबळ होते आणि लोक एकमेकांच्या भाषा, आहार व रीतिरिवाजांचा आदर करायला शिकतात. स्वदेशी पर्यटनासाठी व्हिसा किंवा पासपोर्टची गरज नसल्याने सर्वसामान्य लोकांसाठी हे परवडणारे असते. यामुळे ग्रामीण आणि दुर्गम भागातील पर्यटनाला चालना मिळून तेथील गरिबी निर्मूलनास मदत होते. सण-उत्सवांच्या काळात होणारे स्वदेशी पर्यटन हे स्थानिक व्यापाराचा कणा असते. भारताच्या कानाकोपऱ्यातील पर्यटनामुळे देशाची संस्कृती टिकून राहण्यास मदत होते."
+        },
+        {
+            "question_id": 117,
+            "question_type": "LONG",
+            "question": "पर्यटनाच्या विकासासाठी जाहिरात आणि माहिती तंत्रज्ञानाचा वापर कसा आवश्यक आहे?",
+            "answer": "आधुनिक काळात पर्यटनाचा विकास हा जाहिरात आणि माहिती तंत्रज्ञानावर मोठ्या प्रमाणावर अवलंबून आहे. सोशल मीडिया, वेबसाइट्स आणि टीव्ही जाहिरातींद्वारे एखाद्या स्थळाचे सौंदर्य जगासमोर मांडता येते. माहिती तंत्रज्ञानामुळे पर्यटकांना घरबसल्या ऑनलाईन तिकीट बुकिंग, हॉटेल आरक्षण आणि ठिकाणाची संपूर्ण माहिती मिळते. माहितीपट किंवा ट्रॅव्हल ब्लॉग्समुळे पर्यटकांना सहलीचे नियोजन करणे सोपे जाते. कल्पक जाहिरातींमुळे उपेक्षित किंवा कमी माहिती असलेली पर्यटन स्थळे प्रकाशझोतात येतात. व्हर्च्युअल टूर (Virtual Tour) च्या माध्यमातून पर्यटक आधीच त्या ठिकाणाचा अनुभव घेऊ शकतात. पर्यटकांचे अभिप्राय (Reviews) इंटरनेटवर वाचल्यामुळे इतर पर्यटकांना निर्णय घेणे सुलभ होते. थोडक्यात, पर्यटनाला जागतिक बाजारपेठ मिळवून देण्यासाठी तंत्रज्ञान हे एक अनिवार्य साधन आहे."
+        },
+        {
+            "question_id": 118,
+            "question_type": "LONG",
+            "question": "शाश्वत पर्यटनाची संकल्पना स्पष्ट करून त्याचे भविष्य सांगा.",
+            "answer": "शाश्वत पर्यटन म्हणजे अशी पर्यटन व्यवस्था जी आजच्या पर्यटकांच्या गरजा पूर्ण करतेच, पण भविष्यातील पिढीसाठी नैसर्गिक व सांस्कृतिक ठेवा जतन करते. यामध्ये नैसर्गिक साधनसंपत्तीचा अतिवापर टाळला जातो आणि स्थानिक लोकांच्या हक्कांचे संरक्षण केले जाते. पर्यटन स्थळांवरील प्रदूषणावर नियंत्रण मिळवणे आणि जैवविविधता टिकवणे हा याचा मूळ गाभा आहे. भविष्यात ग्लोबल वॉर्मिंगच्या धोक्यामुळे शाश्वत पर्यटनाला मोठी मागणी असेल. जागतिक स्तरावर 'इको-टुरिझम' ही संकल्पना शाश्वत पर्यटनाचाच भाग म्हणून रुजत आहे. जे देश आपल्या निसर्गाचे संरक्षण करतील, तेच भविष्यात पर्यटनाचे केंद्र राहतील. प्लास्टिक बंदी, सौर उर्जेचा वापर आणि स्थानिक उत्पादनांना प्रोत्साहन देणे हे शाश्वत पर्यटनाचे भविष्य आहे."
+        },
+        {
+            "question_id": 119,
+            "question_type": "LONG",
+            "question": "महाराष्ट्र पर्यटन विकास महामंडळ (MTDC) ची भूमिका सविस्तर स्पष्ट करा.",
+            "answer": "महाराष्ट्र पर्यटन विकास महामंडळ ही राज्य शासनाची संस्था असून महाराष्ट्रात पर्यटनाला चालना देण्याचे मुख्य काम ती करते. MTDC द्वारे राज्यातील विविध पर्यटन स्थळांवर निवास व्यवस्थेसाठी रिसॉर्ट्स आणि हॉटेल्स चालवली जातात. पर्यटकांना माहिती पुरवण्यासाठी माहिती केंद्रे चालवणे आणि नकाशे, माहितीपुस्तिका प्रकाशित करणे हे त्यांचे कार्य आहे. पर्यटनासाठी विशेष रेल्वे 'डेक्कन ओडिसी' चालवण्यात MTDC चा मोठा वाटा आहे. ऐतिहासिक वास्तूंचे संवर्धन करणे आणि त्या ठिकाणी पर्यटकांना सोयीसुविधा पुरवणे ही त्यांची जबाबदारी आहे. पर्यटनाच्या जाहिरातीद्वारे महाराष्ट्राचा वारसा जागतिक स्तरावर पोहोचवण्याचे काम ही संस्था करते. कृषिपर्यटन आणि साहसी पर्यटनासारख्या नवीन संकल्पनांना प्रोत्साहन देण्यासाठी MTDC विविध योजना राबवते."
+        },
+        {
+            "question_id": 120,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे स्थानिक हस्तकला आणि उद्योगांचा विकास कसा होतो?",
+            "answer": "पर्यटन हा स्थानिक कलाकारांसाठी आणि कारागिरांसाठी एक मोठा वरदान आहे. पर्यटक जेव्हा एखाद्या नवीन प्रदेशात जातात, तेव्हा तेथील आठवण म्हणून स्थानिक हस्तकलेच्या वस्तू खरेदी करतात. यामुळे पैठणी साडी, कोल्हापुरी चप्पल, वारली पेंटिंग्ज यांसारख्या पारंपारिक उद्योगांना मोठी बाजारपेठ मिळते. मागणी वाढल्यामुळे या कला जिवंत राहतात आणि तरुण पिढी या व्यवसायाकडे आकर्षित होते. स्थानिक वस्तूंचे प्रदर्शन आणि विक्री केंद्रांमुळे मध्यस्थांची साखळी कमी होऊन कारागिरांना थेट नफा मिळतो. पर्यटनामुळे स्थानिक खाद्यसंस्कृतीलाही महत्त्व मिळते, ज्यातून अनेक बचत गट आणि लहान उपहारगृहे उभी राहतात. अशा प्रकारे पर्यटन हे ग्रामीण उद्योजकता वाढवण्याचे आणि गरिबी दूर करण्याचे प्रभावी साधन ठरते."
+        },
+        {
+            "question_id": 121,
+            "question_type": "LONG",
+            "question": "कोकणातील पर्यटनाचे महत्त्व आणि तेथील संधींवर चर्चा करा.",
+            "answer": "कोकण हा नैसर्गिक सौंदर्याने समृद्ध असलेला प्रदेश असून पर्यटनाच्या दृष्टीने महाराष्ट्राचा 'कॅलिफोर्निया' मानला जातो. येथील स्वच्छ समुद्रकिनारे, नारळ-सुपारीच्या बागा आणि हिरवेगार डोंगर पर्यटकांना भुरळ घालतात. तारकर्लीसारख्या ठिकाणी स्कूबा डायव्हिंग आणि गणपतीपुळे येथे धार्मिक पर्यटनाच्या मोठ्या संधी आहेत. कोकणातील किल्ले जसे की जंजिरा आणि विजयदुर्ग ऐतिहासिक पर्यटनासाठी महत्त्वाचे आहेत. हापूस आंबा आणि स्थानिक मासे यांमुळे येथे खाद्य पर्यटनाला (Food Tourism) मोठा वाव आहे. कोकणात पर्यटन वाढल्यास तेथील तरुणांना रोजगारासाठी मुंबईकडे स्थलांतर करण्याची गरज भासणार नाही. रस्ते आणि रेल्वे (कोकण रेल्वे) सुविधांच्या सुधारणेमुळे येथे पर्यटकांचा ओघ वाढला आहे. होम-स्टे संकल्पनेमुळे कोकणी संस्कृती पर्यटकांना जवळून अनुभवता येते."
+        },
+        {
+            "question_id": 122,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे निर्माण होणाऱ्या रोजगाराच्या विविध संधींची माहिती द्या.",
+            "answer": "पर्यटन हा श्रमप्रधान व्यवसाय असून यात थेट आणि अप्रत्यक्ष अशा दोन्ही प्रकारच्या रोजगाराच्या संधी मिळतात. थेट रोजगारात हॉटेल कर्मचारी, गाईड्स, ट्रॅव्हल एजंट्स आणि वाहन चालकांचा समावेश होतो. अप्रत्यक्षपणे पर्यटन हे बांधकाम क्षेत्र, शेती, दुग्धव्यवसाय आणि किरकोळ विक्री व्यवसायाला चालना देते. पर्यटन स्थळी असणाऱ्या माहिती केंद्रांमध्ये आणि तिकीट खिडक्यांवर तरुणांना काम मिळते. भाषा अवगत असलेल्या लोकांना दुभाषी (Translator) म्हणून परदेशी पर्यटकांसोबत काम करण्याची संधी मिळते. स्थानिक हस्तकला वस्तूंचे कारागीर आणि विक्रेते यांना मोठी बाजारपेठ मिळते. साहसी पर्यटनामुळे इन्स्ट्रक्टर्स आणि जीवरक्षकांना (Lifeguards) काम मिळते. थोडक्यात, पर्यटनामुळे समाजातील सर्व स्तरांतील लोकांसाठी उत्पन्नाचे साधन निर्माण होते."
+        },
+        {
+            "question_id": 123,
+            "question_type": "LONG",
+            "question": "जागतिक वारसा स्थळांचे जतन करण्यासाठी पर्यटकांची भूमिका काय असावी?",
+            "answer": "जागतिक वारसा स्थळे हा मानवाचा अनमोल ठेवा असून त्यांचे जतन करणे हे प्रत्येक पर्यटकाचे कर्तव्य आहे. पर्यटकांनी अशा वास्तूंना भेटी देताना भिंतीवर नाव कोरणे किंवा विद्रुपीकरण करणे टाळावे. ऐतिहासिक परिसरात कचरा करू नये आणि प्रशासनाने दिलेल्या नियमांचे काटेकोरपणे पालन करावे. प्राचीन मूर्ती किंवा कलाकृतींना स्पर्श करणे टाळावे कारण मानवी स्पर्शाने त्या खराब होऊ शकतात. शक्य असल्यास जतन कार्यासाठी लोकवर्गणी किंवा देणगी द्यावी. पर्यटकांनी अशा स्थळांचे महत्त्व सोशल मीडियावरून लोकांपर्यंत पोहचवावे पण ते करताना चुकीची माहिती पसरवू नये. आपल्या कृतीतून वारसा स्थळांचा सन्मान राखल्यास पुढील पिढीलाही हा वैभवशाली इतिहास पाहता येईल."
+        },
+        {
+            "question_id": 124,
+            "question_type": "LONG",
+            "question": "स्वच्छता आणि पर्यटन यांचा परस्पर संबंध सविस्तर लिहा.",
+            "answer": "स्वच्छता हा पर्यटनाचा कणा आहे; ज्या ठिकाणी स्वच्छता असते, तेथे पर्यटक वारंवार जाणे पसंत करतात. स्वच्छ परिसर पर्यटन स्थळाची प्रतिमा जागतिक स्तरावर उंचावतो. उलटपक्षी, अस्वच्छतेमुळे पर्यटकांचा ओघ कमी होतो, ज्याचा थेट परिणाम स्थानिक अर्थव्यवस्थेवर होतो. पर्यटकांच्या आरोग्यासाठी आणि रोगांचा प्रसार रोखण्यासाठी पर्यटन स्थळी पिण्याचे शुद्ध पाणी आणि स्वच्छ शौचालये असणे आवश्यक आहे. शासनासोबतच स्थानिक नागरिक आणि पर्यटकांचीही ही जबाबदारी आहे की त्यांनी परिसर प्लास्टिकमुक्त ठेवावा. 'स्वच्छ भारत अभियान' सारख्या मोहिमांमुळे भारतातील पर्यटन स्थळांचा कायापालट होत आहे. स्वच्छ पर्यटन स्थळे हे देशाच्या शिस्तीचे आणि प्रगत संस्कृतीचे लक्षण मानले जातात."
+        },
+        {
+            "question_id": 125,
+            "question_type": "LONG",
+            "question": "आंतरराष्ट्रीय पर्यटनात येणाऱ्या अडचणी आणि त्यावरील उपाय सांगा.",
+            "answer": "आंतरराष्ट्रीय पर्यटनात भाषा, चलन, हवामान आणि कागदपत्रे या मुख्य अडचणी असतात. परदेशातील भाषा माहीत नसल्यास संवाद साधणे कठीण होते, यावर उपाय म्हणून ट्रान्सलेशन ॲप्स किंवा गाईड्सची मदत घेता येते. परकीय चलनाचा दर बदलल्याने आर्थिक नियोजन कोलमडू शकते, यासाठी ट्रॅव्हल कार्ड्स वापरणे सोयीचे ठरते. व्हिसा मिळवण्याची प्रक्रिया कधीकधी क्लिष्ट असते, ती सुलभ करण्यासाठी ई-व्हिसा सुविधा फायदेशीर ठरते. सुरक्षेच्या समस्या आणि दहशतवादाचा धोका टाळण्यासाठी पर्यटकांनी प्रवास विमा घ्यावा आणि दूतावासाच्या संपर्कात रहावे. भिन्न संस्कृती आणि अन्नाची सवय नसल्याने आरोग्य बिघडू शकते, यासाठी स्वतःसोबत आवश्यक औषधे ठेवावीत. नियोजित प्रवासाने आणि माहिती तंत्रज्ञानाच्या वापरामुळे या अडचणींवर मात करता येते."
+        },
+        {
+            "question_id": 126,
+            "question_type": "LONG",
+            "question": "ग्रामीण पर्यटनामुळे (Rural Tourism) ग्रामीण भागाचा चेहरामोहरा कसा बदलू शकतो?",
+            "answer": "ग्रामीण पर्यटनामुळे शहरात राहणाऱ्या लोकांना शांत आणि नैसर्गिक वातावरणाचा अनुभव मिळतो, तर ग्रामीण भागाला आर्थिक उभारी मिळते. यामुळे गावात रस्ते, वीज आणि इंटरनेट यांसारख्या सोयीसुविधा जलद गतीने पोहोचतात. शेतीला पर्यटनाची जोड मिळाल्याने शेतकऱ्यांचे उत्पन्न वाढते. गावातील जुन्या वास्तू, विहिरी आणि निसर्गाचे जतन करण्याची उर्मी स्थानिकांमध्ये निर्माण होते. हस्तकला आणि लोककलांना पुन्हा वैभव प्राप्त होते. यामुळे ग्रामीण भागातील सुशिक्षित तरुणांना शहराकडे धाव घेण्याची गरज उरत नाही, कारण त्यांना गावातच पर्यटन व्यवसायात संधी मिळते. थोडक्यात, ग्रामीण पर्यटन हे ग्रामीण अर्थव्यवस्थेचे बळकटीकरण करण्याचे आणि शहरी-ग्रामीण दरी कमी करण्याचे उत्तम साधन आहे."
+        },
+        {
+            "question_id": 127,
+            "question_type": "LONG",
+            "question": "महाराष्ट्रातील वन्यजीव पर्यटनाची माहिती देऊन त्याचे संवर्धनातील महत्त्व स्पष्ट करा.",
+            "answer": "महाराष्ट्र हे जैवविविधतेने नटलेले असून येथे ताडोबा, मेळघाट आणि सह्याद्री यांसारखे महत्त्वाचे व्याघ्र प्रकल्प आहेत. वन्यजीव पर्यटनामुळे पर्यटकांना वाघ, बिबट्या, पक्षी आणि दुर्मिळ वनस्पती जवळून पाहता येतात. पर्यटनातून मिळणारा महसूल हा अभयारण्यांच्या संरक्षणासाठी आणि वनरक्षकांच्या प्रशिक्षणासाठी वापरला जातो. जेव्हा पर्यटक अभयारण्यांना भेटी देतात, तेव्हा त्यांना निसर्ग संवर्धनाचे महत्त्व पटते आणि वन्यजीवांबद्दल आपुलकी निर्माण होते. स्थानिक लोकांना वन पर्यटनामुळे गाईड किंवा वाहन चालक म्हणून रोजगार मिळतो, ज्यामुळे ते शिकारीसारख्या अवैध कामांपासून दूर राहतात. मात्र, पर्यटन करताना वन्यजीवांना त्रास होणार नाही याची काळजी घेणे आवश्यक आहे. थोडक्यात, जबाबदार वन्यजीव पर्यटन हे निसर्ग रक्षणासाठी पूरक ठरते."
+        },
+        {
+            "question_id": 128,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे राष्ट्रीय एकात्मता कशी वाढते ते स्पष्ट करा.",
+            "answer": "भारत हा विविध भाषा, धर्म आणि संस्कृती असलेला देश आहे. पर्यटनामुळे उत्तर भारतातील माणूस दक्षिणेत जातो आणि पूर्वेकडील माणूस पश्चिमेत येतो. या प्रवासादरम्यान ते एकमेकांचे सण, आहार आणि चालीरीती पाहतात, ज्यामुळे त्यांच्यातील अंतर कमी होते. ऐतिहासिक स्थळांना भेटी दिल्याने आपल्या सामायिक इतिहासाचा आणि संघर्षाचा अभिमान वाटतो. विविध प्रदेशांतील लोक एकत्र प्रवासात संवाद साधतात, ज्यातून बंधुत्वाची भावना निर्माण होते. पर्यटनामुळे 'विविधतेत एकता' हे भारताचे वैशिष्ट्य अधोरेखित होते. जेव्हा आपण देशाच्या कानाकोपऱ्यात फिरतो, तेव्हा आपल्याला आपल्या देशाच्या अफाट सौंदर्याचा आणि वैभवाचा साक्षात्कार होतो, जो राष्ट्रीय अस्मिता जागृत करण्यासाठी अत्यंत आवश्यक आहे."
+        },
+        {
+            "question_id": 129,
+            "question_type": "LONG",
+            "question": "सागरी पर्यटनाचे फायदे आणि त्यातील आव्हाने स्पष्ट करा.",
+            "answer": "सागरी पर्यटनामध्ये समुद्रकिनारे, जलक्रीडा आणि क्रूझ ट्रॅव्हलचा समावेश होतो. यामुळे देशाला मोठ्या प्रमाणात महसूल मिळतो आणि किनारपट्टीवरील लोकांचे जीवनमान सुधारते. पर्यटकांना निवांतपणा आणि साहसी खेळांचा आनंद मिळतो. मात्र, सागरी पर्यटनामुळे समुद्रकिनाऱ्यांवर कचरा वाढतो आणि सागरी जीवसृष्टीला धोका निर्माण होतो. मोटरबोट्सच्या आवाजामुळे आणि इंधनामुळे पाण्याचे प्रदूषण होते. हवामानातील बदलांमुळे किंवा भरती-ओहोटीमुळे पर्यटकांच्या सुरक्षिततेचे आव्हान असते. यावर उपाय म्हणून 'ब्ल्यू फ्लॅग' प्रमाणन (Blue Flag Certification) सारख्या मोहिमा राबवून समुद्रकिनारे स्वच्छ आणि सुरक्षित ठेवणे आवश्यक आहे. जबाबदार सागरी पर्यटन हे अर्थव्यवस्थेसाठी आणि आरोग्यासाठी अत्यंत फायदेशीर ठरू शकते."
+        },
+        {
+            "question_id": 130,
+            "question_type": "LONG",
+            "question": "पर्यटनासाठी 'वाहतूक' हा घटक किती महत्त्वाचा आहे ते सविस्तर लिहा.",
+            "answer": "वाहतूक हा पर्यटनाचा कणा मानला जातो; कारण वाहतुकीशिवाय पर्यटन शक्य नाही. पर्यटनाचा विकास हा पूर्णपणे रस्ते, रेल्वे, जलमार्ग आणि हवाई मार्गांच्या उपलब्धतेवर अवलंबून असतो. जलद आणि सुरक्षित वाहतुकीमुळे पर्यटकांचा वेळ वाचतो आणि प्रवास सुखकर होतो. स्वस्त वाहतूक दरांमुळे मध्यमवर्गीय लोकही पर्यटनाकडे आकर्षित होतात. दुर्गम भागातील पर्यटन स्थळे वाहतुकीच्या सोयीमुळेच पर्यटनाच्या नकाशावर येतात. आंतरराष्ट्रीय पर्यटनासाठी हवाई वाहतूक हा सर्वात मोठा आधार आहे. वाहतूक साधनांमधील आधुनिकता जसे की हाय-स्पीड ट्रेन्स किंवा लक्झरी बसेस पर्यटनाचा दर्जा उंचावतात. ज्या देशात किंवा राज्यात वाहतूक व्यवस्था उत्तम आहे, तिथे पर्यटकांचा ओघ अधिक असतो, जो आर्थिक विकासाला गती देतो."
+        },
+        {
+            "question_id": 131,
+            "question_type": "LONG",
+            "question": "हवामान आणि पर्यटन यांचा संबंध स्पष्ट करा.",
+            "answer": "पर्यटनाच्या नियोजनात हवामान हा सर्वात महत्त्वाचा नैसर्गिक घटक असतो. लोक त्यांच्या राहत्या ठिकाणच्या हवामानापेक्षा वेगळे आणि आल्हाददायक हवामान असलेल्या ठिकाणी जाणे पसंत करतात. उदाहरणार्थ, उन्हाळ्यात लोक थंड हवेच्या ठिकाणी (महाबळेश्वर, सिमला) जातात, तर हिवाळ्यात ऊबदार हवामान असलेल्या समुद्रकिनाऱ्यांकडे (गोवा, कोकण) वळतात. अतिवृष्टी किंवा कडाक्याची थंडी पर्यटनावर नकारात्मक परिणाम करते. काही पर्यटन स्थळे ही विशिष्ट ऋतूंमध्येच प्रसिद्ध असतात, जसे की पावसाळ्यातील धबधबे किंवा हिवाळ्यातील बर्फाळ प्रदेशातील खेळ. हवामानाचा परिणाम पर्यटकांच्या आहार, कपडे आणि आरोग्यावरही होतो. त्यामुळे पर्यटनाची निवड करताना त्या ठिकाणच्या हवामानाचा अंदाज घेणे हे यशस्वी सहलीसाठी अनिवार्य असते."
+        },
+        {
+            "question_id": 132,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे समाजातील अंधश्रद्धा दूर होण्यास कशी मदत होते?",
+            "answer": "पर्यटनामुळे लोकांचा दृष्टीकोन व्यापक आणि वैज्ञानिक होतो. जेव्हा लोक विविध प्रांतांत फिरतात, तेव्हा त्यांना वेगवेगळ्या परंपरांचे मूळ कारण समजते. ऐतिहासिक आणि वैज्ञानिक स्थळांना (उदा. तारांगण, विज्ञान केंद्रे) भेटी दिल्याने तर्कशुद्ध विचार करण्याची क्षमता वाढते. भिन्न संस्कृतीतील लोकांच्या संपर्कात आल्यामुळे आपल्याच समजुती श्रेष्ठ आहेत हा भ्रम दूर होतो. पर्यटनामुळे शिक्षणाचा प्रसार होतो आणि लोकांमध्ये जनजागृती होते. सामाजिक पर्यटनाच्या माध्यमातून जेव्हा लोक आनंदवन किंवा साने गुरुजींच्या आश्रमासारख्या ठिकाणी जातात, तेव्हा त्यांना खऱ्या मानवधर्माची ओळख होते. थोडक्यात, प्रवास केल्याने माणसाचे मन प्रगल्भ होते आणि तो रूढी-परंपरांच्या जोखडातून बाहेर पडण्यास मदत होते."
+        },
+        {
+            "question_id": 133,
+            "question_type": "LONG",
+            "question": "हॉटेल व्यवसाय आणि पर्यटन यांचे नाते स्पष्ट करा.",
+            "answer": "हॉटेल व्यवसाय हा पर्यटनाचा अविभाज्य घटक असून पर्यटकांच्या समाधानासाठी उत्तम निवास व्यवस्था असणे गरजेचे आहे. ज्या ठिकाणी राहण्याची सोय चांगली असते, तिथे पर्यटक जास्त काळ वास्तव्यास राहतात. पर्यटकांच्या बजेटनुसार अलिशान हॉटेल्सपासून ते साध्या लॉजेसपर्यंत आणि होम-स्टेपर्यंत विविध पर्याय उपलब्ध असणे आवश्यक आहे. हॉटेल व्यवसायामुळे स्थानिक शेतकऱ्यांच्या मालाला आणि दुग्धव्यवसायाला मागणी मिळते. उत्कृष्ट सेवा, स्वच्छता आणि स्थानिक खाद्यपदार्थ पर्यटकांना पुन्हा त्या ठिकाणी येण्यास प्रवृत्त करतात. पर्यटन वाढले की हॉटेल व्यवसायाची व्याप्ती वाढते आणि त्यातून मोठ्या प्रमाणात रोजगार निर्माण होतो. हॉटेलमधील आदरातिथ्य हे पर्यटन स्थळाची आणि देशाची प्रतिमा उंचावण्यासाठी महत्त्वाचे ठरते."
+        },
+        {
+            "question_id": 134,
+            "question_type": "LONG",
+            "question": "स्वदेशी पर्यटकांना भेडसावणाऱ्या समस्या आणि उपाय लिहा.",
+            "answer": "स्वदेशी पर्यटकांना अनेकदा पर्यटन स्थळांवरील गर्दी, निकृष्ट निवास व्यवस्था आणि अव्वाच्या सव्वा दरांचा सामना करावा लागतो. काही ठिकाणी सार्वजनिक स्वच्छतागृहांचा अभाव असतो आणि पिण्याच्या पाण्याची सोय नसते. दिशादर्शक फलक नसणे आणि स्थानिक गाईड्सकडून होणारी फसवणूक या मुख्य समस्या आहेत. यावर उपाय म्हणून शासनाने पर्यटन स्थळांचे कडक प्रमाणीकरण (Rating) करावे. ऑनलाईन तक्रार निवारण केंद्र आणि सीसीटीव्ही निगराणी वाढवावी. पर्यटकांच्या सोयीसाठी रेल्वे आणि बस फेऱ्यांचे योग्य नियोजन असावे. स्थानिक लोकांना पर्यकांशी आदराने वागण्याचे प्रशिक्षण द्यावे. पर्यटन स्थळांवरील खाद्यपदार्थांचे दर नियंत्रित ठेवावेत. सुदृढ पर्यटन व्यवस्थेमुळे स्वदेशी पर्यटकांचा ओघ अधिक वाढू शकतो."
+        },
+        {
+            "question_id": 135,
+            "question_type": "LONG",
+            "question": "शालेय सहलींचे आयोजन करताना भौगोलिक दृष्टिकोनातून कोणत्या बाबी विचारात घ्याव्यात?",
+            "answer": "शालेय सहलींचे आयोजन करताना ते केवळ मनोरंजनाचे साधन न राहता शिक्षणाचे माध्यम असावे. ठिकाण निवडताना विद्यार्थ्यांच्या वयोगटानुसार भौगोलिक महत्त्व (उदा. नद्यांचे उगम, किल्ल्यांची रचना, मृदा प्रकार) असलेले ठिकाण निवडावे. सहलीपूर्वी विद्यार्थ्यांना त्या ठिकाणचा नकाशा, हवामान आणि इतिहासाची प्राथमिक माहिती द्यावी. प्रवासात विद्यार्थ्यांना निरीक्षणाची सवय लावण्यासाठी प्रश्नपत्रिका किंवा नोंदी ठेवण्यास सांगावे. सुरक्षेच्या दृष्टीने पावसाळा किंवा कडक उन्हाळा टाळून आल्हाददायक हवामानात सहल काढावी. विद्यार्थ्यांनी निसर्गाची हानी करू नये यासाठी पर्यावरण रक्षणाचे धडे द्यावेत. स्थानिक लोकांशी संवाद साधून तेथील जीवनमानाचा अभ्यास करण्यास प्रोत्साहित करावे. अशी सहल विद्यार्थ्यांच्या ज्ञानाचा विस्तार करते."
+        },
+        {
+            "question_id": 136,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे होणारा भाषिक विकास स्पष्ट करा.",
+            "answer": "पर्यटन हे भाषा शिकण्याचे आणि संवादाचे एक मोठे व्यासपीठ आहे. जेव्हा पर्यटक दुसऱ्या राज्यात किंवा देशात जातात, तेव्हा त्यांना तिथली स्थानिक भाषा ऐकायला मिळते. अनेक पर्यटक प्रवासासाठी त्या प्रदेशातील काही महत्त्वाचे शब्द आणि वाक्ये शिकतात, ज्यामुळे त्यांना स्थानिकांशी जोडले जाणे सोपे होते. परदेशी पर्यटनामुळे इंग्रजी किंवा इतर आंतरराष्ट्रीय भाषांचा सराव होतो. पर्यटन स्थळांवरील मार्गदर्शक (Guides) अनेकदा बहुभाषिक असतात, ज्यामुळे भाषेचे अडथळे दूर होतात. पर्यटनामुळे विविध बोलीभाषांमधील शब्दांची देवाणघेवाण होऊन भाषा अधिक समृद्ध होते. सांस्कृतिक पर्यटनातून लोकगीते आणि पारंपारिक नाटके पाहिल्यामुळे भाषेतील गोडवा आणि विविधता पर्यटकांना अनुभवायला मिळते."
+        },
+        {
+            "question_id": 137,
+            "question_type": "LONG",
+            "question": "डिजिटल पेमेंट्सचा पर्यटनावर झालेला परिणाम सविस्तर स्पष्ट करा.",
+            "answer": "डिजिटल पेमेंट्समुळे पर्यटकांचा प्रवास अधिक सुरक्षित आणि सोयीस्कर झाला आहे. आता पर्यटकांना रोख रक्कम मोठ्या प्रमाणात सोबत बाळगण्याची गरज उरत नाही, ज्यामुळे चोरीचा धोका कमी झाला आहे. युपीआय (UPI), क्रेडिट कार्ड्स आणि मोबाईल वॉलेट्समुळे तिकीट बुकिंगपासून ते स्थानिक चहाच्या टपरीपर्यंत कुठेही व्यवहार करणे शक्य झाले आहे. परदेशी पर्यटनात 'फॉरेक्स कार्ड्स' मुळे चलन विनिमयाची कटकट कमी झाली आहे. डिजिटल व्यवहारांमुळे पारदर्शकता वाढली असून पर्यटकांची फसवणूक होण्याचे प्रमाण कमी झाले आहे. पर्यटन स्थळांवरील हॉटेल आणि रिसॉर्ट्सचे बुकिंग आगाऊ पैसे देऊन करणे सोपे झाले आहे. यामुळे पर्यटनातील व्यवहार वेगवान झाले असून पर्यटन अर्थव्यवस्थेला डिजिटल क्रांतीचा मोठा आधार मिळाला आहे."
+        },
+        {
+            "question_id": 138,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे निर्माण होणारी कचरा समस्या आणि त्याचे व्यवस्थापन यावर तुमचे मत लिहा.",
+            "answer": "पर्यटन वाढले की त्या स्थळावर कचऱ्याची समस्या प्रामुख्याने निर्माण होते, विशेषतः प्लास्टिक बाटल्या, वेष्टने आणि अन्नाचा कचरा. हा कचरा नैसर्गिक सौंदर्याला बाधा आणतोच, पण माती आणि पाण्याचे प्रदूषणही करतो. डोंगराळ भागात कचरा साठल्याने तेथील पर्यावरणाचे संतुलन बिघडते. यावर व्यवस्थापन करण्यासाठी 'शून्य कचरा' (Zero Waste) संकल्पना राबवली पाहिजे. पर्यटन स्थळी ठिकठिकाणी कचरा कुंडी ठेवावी आणि कचऱ्याचे वर्गीकरण (ओला व सुका) करावे. प्लास्टिक वापरावर कडक बंदी घालून दंडात्मक कारवाई करावी. स्थानिक लोकांच्या मदतीने नियमित स्वच्छता मोहिमा राबवाव्यात. पर्यटकांनी स्वतःची पाण्याची बाटली सोबत ठेवावी आणि कचरा आपल्यासोबत परत आणण्याची सवय लावावी. स्वच्छता हा पर्यटनाचा आत्मा असून तिचे पालन करणे सर्वांची जबाबदारी आहे."
+        },
+        {
+            "question_id": 139,
+            "question_type": "LONG",
+            "question": "ऐतिहासिक वास्तूंच्या विद्रुपीकरणामुळे पर्यटनावर होणारा परिणाम स्पष्ट करा.",
+            "answer": "ऐतिहासिक वास्तूंवर नावे कोरणे, थुंकणे किंवा भिंती खराब करणे याला विद्रुपीकरण म्हणतात. यामुळे त्या वास्तूचे ऐतिहासिक मूल्य आणि सौंदर्य नष्ट होते, ज्याचा नकारात्मक परिणाम पर्यटनावर होतो. परदेशी पर्यटक अशा वास्तू पाहून देशाबद्दल चुकीची प्रतिमा तयार करतात. विद्रुपीकरणामुळे वास्तूंचे आयुष्य कमी होते आणि पुरातत्व विभागाला त्यांच्या डागडुजीवर मोठा खर्च करावा लागतो. अशा स्थळांचे आकर्षण कमी झाल्यामुळे पर्यटकांची संख्या घटते आणि स्थानिक व्यवसायांवर परिणाम होतो. हे रोखण्यासाठी कडक कायदे आणि दंडाची तरतूद असणे आवश्यक आहे. ऐतिहासिक वास्तू हा आपला वारसा आहे आणि तो जतन करणे हे प्रत्येक पर्यटकाचे संस्कार असले पाहिजेत. शाळा-कॉलेजमध्ये वारसा स्थळांच्या रक्षणाचे महत्त्व पटवून देणे हा दीर्घकालीन उपाय आहे."
+        },
+        {
+            "question_id": 140,
+            "question_type": "LONG",
+            "question": "पर्यटनाचे वैयक्तिक जीवनातील महत्त्व सविस्तर लिहा.",
+            "answer": "पर्यटन हे केवळ मनोरंजनाचे साधन नसून ते वैयक्तिक विकासासाठी अत्यंत महत्त्वाचे आहे. दैनंदिन धावपळीच्या आणि तणावाच्या जीवनातून पर्यटनामुळे मनाला शांतता आणि विश्रांती मिळते. नवीन ठिकाणी गेल्यामुळे नवीन लोकांशी संवाद साधण्याची आणि परिस्थितीशी जुळवून घेण्याची क्षमता वाढते. पर्यटनामुळे जगाचा अनुभव येतो, जो पुस्तकी ज्ञानापेक्षा अधिक समृद्ध असतो. विविध संस्कृती आणि भौगोलिक प्रदेश पाहिल्यामुळे आपला दृष्टीकोन व्यापक होतो. कुटुंबासोबत किंवा मित्रांसोबत केलेल्या प्रवासाने नातेसंबंध अधिक घट्ट होतात. पर्यटन धाडस, नियोजन आणि निर्णयक्षमता शिकवते. शारीरिक आणि मानसिक आरोग्य सुधारण्यासाठी प्रवास हा एक उत्तम मार्ग आहे. थोडक्यात, पर्यटन माणसाला प्रगल्भ बनवते आणि त्याच्या स्मृतींमध्ये आनंदाचे क्षण साठवते."
+        },
+        {
+            "question_id": 141,
+            "question_type": "LONG",
+            "question": "महाराष्ट्रातील लेण्यांचे पर्यटनातील स्थान सविस्तर स्पष्ट करा.",
+            "answer": "महाराष्ट्र हा लेण्यांचा प्रदेश म्हणून ओळखला जातो आणि पर्यटनात या लेण्यांना अनन्यसाधारण महत्त्व आहे. अजिंठा येथील जागतिक दर्जाची चित्रे आणि वेरूळचे कैलास मंदिर हे वास्तुकलेचे अद्भूत नमुने आहेत. या लेण्यांमुळे जगाच्या नकाशावर महाराष्ट्राला मानाचे स्थान मिळाले आहे. कार्ला, भाजे, एलिफंटा (घारापुरी) आणि कान्हेरी यांसारख्या लेण्या पर्यटकांना प्राचीन संस्कृतीची आणि बौद्ध, हिंदू व जैन धर्माच्या इतिहासाची माहिती देतात. या लेण्यांच्या माध्यमातून आपल्याला तत्कालीन समाजजीवन, वेशभूषा आणि शिल्पकलेचा अभ्यास करता येतो. लेण्यांचे जतन करण्यासाठी केंद्र आणि राज्य सरकार सतत प्रयत्नशील असते. पर्यटनातून मिळणाऱ्या परकीय चलनाचा मोठा वाटा या ऐतिहासिक लेण्यांमधून येतो. निसर्गरम्य डोंगरदऱ्यात असलेल्या या लेण्या पर्यटकांना शांतता आणि आध्यात्मिक अनुभव प्रदान करतात."
+        },
+        {
+            "question_id": 142,
+            "question_type": "LONG",
+            "question": "पर्यटनातील 'निवास व्यवस्था' (Accommodation) चे विविध प्रकार स्पष्ट करा.",
+            "answer": "पर्यटकांच्या विविध गरजांनुसार निवास व्यवस्थेचे अनेक प्रकार विकसित झाले आहेत. श्रीमंत पर्यकांसाठी पंचतारांकित हॉटेल्स (5-Star Hotels) असतात, जिथे सर्व सुखसोयी उपलब्ध असतात. मध्यमवर्गीयांसाठी बजेट हॉटेल्स आणि लॉजेस असतात. निसर्गाच्या सानिध्यात राहण्यासाठी रिसॉर्ट्स आणि कॉटेजेसचा वापर होतो. दुर्गम भागात किंवा ट्रेकिंग दरम्यान टेंट (Tents) किंवा तंबूचा वापर केला जातो. ग्रामीण संस्कृतीचा अनुभव घेण्यासाठी 'होम-स्टे' (Home-stay) ही संकल्पना लोकप्रिय होत आहे, जिथे पर्यटक स्थानिक कुटुंबासोबत राहतात. सरकारी मालकीचे डाक बंगले किंवा MTDC रिसॉर्ट्स माफक दरात उपलब्ध असतात. अलीकडे 'यूथ हॉस्टेल्स' ही संकल्पना विद्यार्थ्यांमध्ये लोकप्रिय आहे. पर्यटनाच्या यशात उत्तम आणि सुरक्षित निवास व्यवस्थेचा मोठा वाटा असतो."
+        },
+        {
+            "question_id": 143,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे प्रादेशिक विकासातील तफावत कशी दूर होऊ शकते?",
+            "answer": "पर्यटन हे प्रादेशिक विकास संतुलित करण्याचे एक प्रभावी साधन आहे. अनेकदा डोंगराळ, वाळवंटी किंवा दुर्गम भागात औद्योगिक विकास करणे कठीण असते, मात्र अशा ठिकाणी नैसर्गिक सौंदर्य असल्याने तिथे पर्यटनाचा विकास करता येतो. पर्यटन वाढल्यामुळे त्या भागात रस्ते, पाणी आणि विजेची सोय पोहचते. स्थानिक हस्तकला आणि कृषी उत्पादनांना बाजारपेठ मिळते, ज्यामुळे तेथील लोकांचे उत्पन्न वाढते. पर्यटनामुळे होणाऱ्या रोजगाराच्या संधींमुळे ग्रामीण भागातून शहराकडे होणारे स्थलांतर थांबते. त्या प्रदेशातील मागासलेपण दूर होऊन लोकांचे राहणीमान सुधारते. उदाहरणार्थ, महाराष्ट्रातील महाबळेश्वर किंवा माथेरान यांसारख्या दुर्गम भागांचा विकास केवळ पर्यटनामुळेच झाला आहे. अशा प्रकारे पर्यटन हे प्रादेशिक समतोल राखण्यास मदत करते."
+        },
+        {
+            "question_id": 144,
+            "question_type": "LONG",
+            "question": "सांस्कृतिक पर्यटनाचा स्थानिक समुदायावर होणारा परिणाम स्पष्ट करा.",
+            "answer": "सांस्कृतिक पर्यटनामुळे स्थानिक समुदायाला त्यांच्या वारशाबद्दल अभिमान वाटतो आणि तो टिकवून ठेवण्यासाठी प्रोत्साहन मिळते. पारंपारिक नृत्ये, लोकसंगीत आणि उत्सव पाहण्यासाठी पर्यटक येतात, ज्यामुळे या कला जिवंत राहतात. स्थानिक भाषेत बोलणे आणि पारंपारिक वेशभूषा करणे हे पर्यकांसाठी आकर्षणाचे केंद्र बनते. यामुळे स्थानिक कारागिरांना त्यांच्या वस्तू विकण्याची संधी मिळते, ज्यामुळे त्यांची आर्थिक स्थिती सुधारते. मात्र, कधीकधी पर्यटनामुळे मूळ संस्कृतीचे व्यवसायीकरण होते, ज्यामुळे तिची मौलिकता धोक्यात येऊ शकते. पाश्चिमात्य संस्कृतीच्या प्रभावामुळे तरुण पिढी स्वतःची संस्कृती विसरण्याची भीती असते. त्यामुळे पर्यटकांनी स्थानिक संस्कृतीचा सन्मान राखणे आणि समुदायाने स्वतःचे मूळ टिकवून ठेवणे महत्त्वाचे आहे."
+        },
+        {
+            "question_id": 145,
+            "question_type": "LONG",
+            "question": "पर्यटनाच्या विकासासाठी शासनाच्या जबाबदाऱ्या कोणत्या आहेत?",
+            "answer": "पर्यटनाचा सर्वांगीण विकास करणे ही शासनाची महत्त्वाची जबाबदारी आहे. शासनाने पर्यटन स्थळांपर्यंत पोहोचण्यासाठी रस्ते, रेल्वे आणि हवाई वाहतुकीचे उत्तम जाळे निर्माण करावे. पर्यटकांच्या सुरक्षेसाठी 'पर्यटन पोलीस' दल स्थापन करावे आणि कायदा व सुव्यवस्था राखावी. ऐतिहासिक आणि नैसर्गिक वारसा स्थळांचे जतन करण्यासाठी कडक कायदे करावेत. पर्यटनाला चालना देण्यासाठी देश-विदेशात जाहिराती कराव्यात आणि सवलतींच्या योजना राबवाव्यात. पर्यटन क्षेत्रात खाजगी गुंतवणूक वाढवण्यासाठी उद्योजकांना प्रोत्साहन द्यावे. स्थानिक लोकांना पर्यटन व्यवसायाचे प्रशिक्षण देण्यासाठी कौशल्य विकास केंद्र सुरू करावेत. सर्वात महत्त्वाचे म्हणजे पर्यटन स्थळांवर स्वच्छता आणि मूलभूत सोयी पुरवण्यावर लक्ष द्यावे. शासनाच्या योग्य धोरणामुळे पर्यटनाचा महसूल वाढू शकतो."
+        },
+        {
+            "question_id": 146,
+            "question_type": "LONG",
+            "question": "पर्यटकांच्या सुरक्षिततेसाठी कोणते उपाय योजणे आवश्यक आहे?",
+            "answer": "पर्यटकांची सुरक्षितता ही पर्यटन व्यवसायाची पहिली अट आहे. पर्यटन स्थळांवर सीसीटीव्ही कॅमेरे आणि पुरेशी प्रकाश व्यवस्था असणे आवश्यक आहे. दुर्गम किंवा डोंगराळ भागात दिशादर्शक फलक आणि आपत्कालीन मदतीसाठी फोन बूथ असावे. समुद्रकिनाऱ्यांवर अनुभवी जीवरक्षक (Lifeguards) तैनात असावेत. महिला पर्यटकांच्या सुरक्षेसाठी विशेष दक्षता पथके नेमावीत. पर्यटकांची फसवणूक टाळण्यासाठी गाईड्स आणि वाहन चालकांची नोंदणी अनिवार्य असावी. आपत्कालीन आरोग्य सेवेसाठी प्राथमिक उपचार केंद्र आणि रुग्णवाहिका उपलब्ध असावी. पर्यटकांना प्रवासापूर्वी विम्याबद्दल (Travel Insurance) प्रोत्साहित करावे. स्थानिक प्रशासनाने पर्यटकांच्या तक्रारींची दखल घेण्यासाठी २४ तास हेल्पलाईन सुरू ठेवावी. सुरक्षिततेच्या भावनेमुळे पर्यटकांचा विश्वास वाढतो."
+        },
+        {
+            "question_id": 147,
+            "question_type": "LONG",
+            "question": "भविष्यातील 'अवकाश पर्यटन' (Space Tourism) या संकल्पनेवर तुमचे विचार मांडा.",
+            "answer": "अवकाश पर्यटन ही विज्ञानातील एक क्रांतिकारी संकल्पना असून ती आता वास्तवात येत आहे. भविष्यात पृथ्वी सोडून अवकाशात सहलीला जाणे हे श्रीमंत पर्यकांसाठी शक्य होईल. यामुळे विश्वाचे अफाट स्वरूप जवळून पाहण्याची आणि गुरुत्वाकर्षण मुक्ततेचा अनुभव घेण्याची संधी मिळेल. मात्र, हे पर्यटन अत्यंत महागडे आणि जोखमीचे आहे. यासाठी लागणारे इंधन आणि तंत्रज्ञान यामुळे पर्यावरणावर काय परिणाम होईल, हा एक मोठा चर्चेचा विषय आहे. अवकाश पर्यटनामुळे विज्ञानाचे महत्त्व वाढेल आणि अंतराळ संशोधनाला खाजगी निधी उपलब्ध होईल. भविष्यात सामान्य माणसासाठी हे शक्य होईल का, हे तंत्रज्ञानाच्या वेगावर अवलंबून आहे. ही संकल्पना रोमांचक असली तरी पृथ्वीवरील निसर्ग पर्यटनाची जागा ती घेऊ शकणार नाही."
+        },
+        {
+            "question_id": 148,
+            "question_type": "LONG",
+            "question": "पर्यटनामुळे होणाऱ्या प्रदूषण वाढीस पर्यटकांची वागणूक कशी कारणीभूत ठरते?",
+            "answer": "पर्यटकांची बेजबाबदार वागणूक पर्यटन स्थळांच्या प्रदूषणास मोठ्या प्रमाणावर कारणीभूत असते. अनेक पर्यटक निसर्गरम्य ठिकाणी किंवा ऐतिहासिक वास्तूंकडे प्लास्टिक कचरा फेकतात. पाण्याचे स्त्रोत (नद्या, समुद्र) अस्वच्छ करतात. पर्यटकांच्या वाहनांमुळे होणारे वायू प्रदूषण आणि मोठ्या आवाजातील संगीतामुळे होणारे ध्वनी प्रदूषण यामुळे वन्यजीवांना त्रास होतो. पर्यटन स्थळांवर पाण्याचा अपव्यय करणे आणि झाडांच्या फांद्या तोडणे यांमुळे निसर्गाचे नुकसान होते. ऐतिहासिक वास्तूंवर लिहिणे किंवा थुंकणे यामुळे वास्तूंचे विद्रुपीकरण होते. जर पर्यटकांनी 'जबाबदार पर्यटक' म्हणून आपली कर्तव्ये पार पाडली, तर ही समस्या कमी होऊ शकते. निसर्गाचा आनंद घेताना निसर्गाला मान देणे ही पर्यटनाची मूलभूत अट असली पाहिजे."
+        },
+        {
+            "question_id": 149,
+            "question_type": "LONG",
+            "question": "खाद्य पर्यटन (Food Tourism) म्हणजे काय? महाराष्ट्राच्या संदर्भात माहिती द्या.",
+            "answer": "एखाद्या प्रदेशातील पारंपारिक आणि वैशिष्ट्यपूर्ण खाद्यपदार्थांचा आस्वाद घेण्यासाठी केलेले पर्यटन म्हणजे खाद्य पर्यटन होय. महाराष्ट्र हा खाद्य पर्यटनासाठी अत्यंत समृद्ध आहे. कोकणात पर्यटकांना मासे आणि सोलकढीचा आस्वाद घेता येतो, तर खानदेशात 'मांडे' आणि 'भरीत' प्रसिद्ध आहे. कोल्हापूरचा तांबडा-पांढरा रस्सा, पुण्यातील मिसळ आणि मुंबईचे वडापाव हे पर्यटकांच्या आकर्षणाचे केंद्र आहेत. नागपूरची संत्री आणि महाबळेश्वरची स्ट्रॉबेरी ही फळ पर्यटनाला चालना देतात. अनेक पर्यटक आता विशिष्ट ऋतूत विशिष्ट पदार्थ खाण्यासाठी प्रवास करतात. यामुळे स्थानिक खाद्य उद्योगाला आणि कृषी व्यवसायाला मोठी चालना मिळते. हॉटेल व्यवसायात स्थानिक चवीला महत्त्व मिळाल्याने अनेक पारंपारिक पदार्थ जागतिक स्तरावर लोकप्रिय होत आहेत."
+        },
+        {
+            "question_id": 150,
+            "question_type": "LONG",
+            "question": "पर्यटनाच्या विकासासाठी 'होम-स्टे' (Home-stay) ही संकल्पना कशी फायदेशीर आहे?",
+            "answer": "होम-स्टे म्हणजे पर्यटकांनी हॉटेलमध्ये न राहता स्थानिक लोकांच्या घरात पाहुणे म्हणून राहणे. ही संकल्पना पर्यटकांना स्थानिक संस्कृती, आहार आणि चालीरीती प्रत्यक्ष अनुभवण्याची संधी देते. यामुळे हॉटेलच्या तुलनेत प्रवासाचा खर्च कमी होतो, जो मध्यमवर्गीय पर्यटकांना आकर्षित करतो. स्थानिक कुटुंबांना थेट उत्पन्नाचे साधन मिळते, ज्यातून त्यांचा आर्थिक विकास होतो. यामुळे पर्यटन स्थळावर मोठे हॉटेल बांधण्यासाठी होणारी जंगलतोड किंवा पर्यावरणाची हानी टळते. पर्यटकांना घरात बनवलेले सकस आणि शुद्ध अन्न मिळते. होम-स्टे मुळे पर्यटक आणि स्थानिक लोक यांच्यात मैत्रीचे संबंध निर्माण होतात, जे सामाजिक सलोख्यासाठी उत्तम आहेत. महाराष्ट्रातील कोकण आणि सह्याद्रीच्या भागात ही संकल्पना वेगाने लोकप्रिय होत आहे."
+        }
+    ]
+}

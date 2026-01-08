@@ -1,0 +1,1161 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.03",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "बाह्यप्रक्रिया भाग-१"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "अंतर्गत हालचालींमुळे पृथ्वीवर निर्माण होणाऱ्या खंडांना व पर्वतांना कोणती भूरूपे म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्राथमिक व द्वितीयक", "is_correct": true },
+        { "option_id": 2, "text": "तृतीयक", "is_correct": false },
+        { "option_id": 3, "text": "बाह्य भूरूपे", "is_correct": false },
+        { "option_id": 4, "text": "गतिजन्य भूरूपे", "is_correct": false }
+      ],
+      "answer": "प्राथमिक व द्वितीयक"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "विदारण, वहन आणि संचयनामुळे कोणती भूरूपे तयार होतात?",
+      "options": [
+        { "option_id": 1, "text": "प्राथमिक", "is_correct": false },
+        { "option_id": 2, "text": "द्वितीयक", "is_correct": false },
+        { "option_id": 3, "text": "तृतीयक", "is_correct": true },
+        { "option_id": 4, "text": "अंतर्गत", "is_correct": false }
+      ],
+      "answer": "तृतीयक"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खडक फुटणे किंवा कमकुवत होणे ही कोणती प्रक्रिया आहे?",
+      "options": [
+        { "option_id": 1, "text": "संचयन", "is_correct": false },
+        { "option_id": 2, "text": "विदारण", "is_correct": true },
+        { "option_id": 3, "text": "वहन", "is_correct": false },
+        { "option_id": 4, "text": "अंतर्गत हालचाल", "is_correct": false }
+      ],
+      "answer": "विदारण"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कोरड्या हवामानाच्या प्रदेशात प्रामुख्याने कोणते विदारण घडते?",
+      "options": [
+        { "option_id": 1, "text": "रासायनिक", "is_correct": false },
+        { "option_id": 2, "text": "कायिक", "is_correct": true },
+        { "option_id": 3, "text": "जैविक", "is_correct": false },
+        { "option_id": 4, "text": "द्रवीकरण", "is_correct": false }
+      ],
+      "answer": "कायिक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कांद्याच्या पापुद्र्याप्रमाणे खडकाचा थर मोकळा होण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कणात्मक विदारण", "is_correct": false },
+        { "option_id": 2, "text": "अपपर्णन", "is_correct": true },
+        { "option_id": 3, "text": "भस्मीकरण", "is_correct": false },
+        { "option_id": 4, "text": "द्रवीकरण", "is_correct": false }
+      ],
+      "answer": "अपपर्णन"
+    },
+    
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दमट हवामानाच्या प्रदेशात कोणते विदारण प्रामुख्याने आढळते?",
+      "options": [
+        { "option_id": 1, "text": "कायिक", "is_correct": false },
+        { "option_id": 2, "text": "रासायनिक", "is_correct": true },
+        { "option_id": 3, "text": "कणात्मक", "is_correct": false },
+        { "option_id": 4, "text": "दाबमुक्ती", "is_correct": false }
+      ],
+      "answer": "रासायनिक"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पाणी गोठल्यावर त्याचे आकारमान काय होते?",
+      "options": [
+        { "option_id": 1, "text": "कमी होते", "is_correct": false },
+        { "option_id": 2, "text": "वाढते", "is_correct": true },
+        { "option_id": 3, "text": "स्थिर राहते", "is_correct": false },
+        { "option_id": 4, "text": "शून्य होते", "is_correct": false }
+      ],
+      "answer": "वाढते"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सागरकिनारी खडकांमध्ये कोणत्या क्रियेमुळे कायिक विदारण होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी गोठणे", "is_correct": false },
+        { "option_id": 2, "text": "क्षारांचे स्फटिकीकरण", "is_correct": true },
+        { "option_id": 3, "text": "मुंग्यांची बिळे", "is_correct": false },
+        { "option_id": 4, "text": "लोह गंजणे", "is_correct": false }
+      ],
+      "answer": "क्षारांचे स्फटिकीकरण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खडकाचे लहान तुकडे होऊन ते विलग होण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कणात्मक विदारण", "is_correct": false },
+        { "option_id": 2, "text": "खंड-विखंडन", "is_correct": true },
+        { "option_id": 3, "text": "भस्मीकरण", "is_correct": false },
+        { "option_id": 4, "text": "कार्बनेशन", "is_correct": false }
+      ],
+      "answer": "खंड-विखंडन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाणी हे काय मानले जाते?",
+      "options": [
+        { "option_id": 1, "text": "विद्रुतक", "is_correct": false },
+        { "option_id": 2, "text": "कठोर पदार्थ", "is_correct": false },
+        { "option_id": 3, "text": "वैश्विक विद्रावक", "is_correct": true },
+        { "option_id": 4, "text": "वायु", "is_correct": false }
+      ],
+      "answer": "वैश्विक विद्रावक"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी जमिनीवर येण्यापूर्वी हवेतून प्रवास करताना कोणत्या वायूशी मिसळते?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 3, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 4, "text": "मिथेन", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी व कार्बन डायऑक्साइड यांच्या संयोगातून कोणते आम्ल तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "सल्फ्युरिक आम्ल", "is_correct": false },
+        { "option_id": 2, "text": "हायड्रोक्लोरिक आम्ल", "is_correct": false },
+        { "option_id": 3, "text": "सौम्य कर्बाम्ल", "is_correct": true },
+        { "option_id": 4, "text": "नायट्रिक आम्ल", "is_correct": false }
+      ],
+      "answer": "सौम्य कर्बाम्ल"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लोहयुक्त खडकावर कोणती रासायनिक प्रक्रिया होऊन गंज चढतो?",
+      "options": [
+        { "option_id": 1, "text": "कार्बनेशन", "is_correct": false },
+        { "option_id": 2, "text": "द्रवीकरण", "is_correct": false },
+        { "option_id": 3, "text": "भस्मीकरण", "is_correct": true },
+        { "option_id": 4, "text": "अपपर्णन", "is_correct": false }
+      ],
+      "answer": "भस्मीकरण"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मुंग्या, उंदीर, घुशी यांसारख्या प्राण्यांमुळे कोणते विदारण घडते?",
+      "options": [
+        { "option_id": 1, "text": "कायिक", "is_correct": false },
+        { "option_id": 2, "text": "रासायनिक", "is_correct": false },
+        { "option_id": 3, "text": "जैविक", "is_correct": true },
+        { "option_id": 4, "text": "सौर", "is_correct": false }
+      ],
+      "answer": "जैविक"
+    },
+    
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "विदारित माल केवळ गुरुत्वीय बलामुळे उताराच्या दिशेने खाली सरकतो, तेव्हा त्यास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "विस्तृत झीज", "is_correct": true },
+        { "option_id": 2, "text": "खनन", "is_correct": false },
+        { "option_id": 3, "text": "वहन", "is_correct": false },
+        { "option_id": 4, "text": "अपघर्षण", "is_correct": false }
+      ],
+      "answer": "विस्तृत झीज"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पुणे जिल्ह्यातील कोणती दुर्घटना 'विस्तृत झीज' या प्रक्रियेचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "कोयना", "is_correct": false },
+        { "option_id": 2, "text": "माळीण", "is_correct": true },
+        { "option_id": 3, "text": "लोणावळा", "is_correct": false },
+        { "option_id": 4, "text": "भंडारदरा", "is_correct": false }
+      ],
+      "answer": "माळीण"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "बर्फाच्छादित प्रदेशाच्या सीमावर्ती भागात उतारावर माती मंद गतीने सरकण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "भूस्खलन", "is_correct": false },
+        { "option_id": 2, "text": "मातलोट", "is_correct": true },
+        { "option_id": 3, "text": "द्रवीकरण", "is_correct": false },
+        { "option_id": 4, "text": "दरड कोसळणे", "is_correct": false }
+      ],
+      "answer": "मातलोट"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "वारा, वाहते पाणी आणि हिमनदी यांच्यामुळे कोणती बाह्यप्रक्रिया घडून येते?",
+      "options": [
+        { "option_id": 1, "text": "विदारण", "is_correct": false },
+        { "option_id": 2, "text": "विस्तृत झीज", "is_correct": false },
+        { "option_id": 3, "text": "खनन (अपक्षरण)", "is_correct": true },
+        { "option_id": 4, "text": "भस्मीकरण", "is_correct": false }
+      ],
+      "answer": "खनन (अपक्षरण)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "खडकांच्या तड्यांमध्ये साचलेले पाणी गोठल्यामुळे काय निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "ताण", "is_correct": true },
+        { "option_id": 2, "text": "उष्णता", "is_correct": false },
+        { "option_id": 3, "text": "ओलावा", "is_correct": false },
+        { "option_id": 4, "text": "गॅस", "is_correct": false }
+      ],
+      "answer": "ताण"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "चुनायुक्त प्रदेशात खडकातील क्षार पाण्यात विरघळून वाहून जाण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "भस्मीकरण", "is_correct": false },
+        { "option_id": 2, "text": "द्रवीकरण", "is_correct": true },
+        { "option_id": 3, "text": "अपपर्णन", "is_correct": false },
+        { "option_id": 4, "text": "मातलोट", "is_correct": false }
+      ],
+      "answer": "द्रवीकरण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ज्या प्रदेशात तापमान गोठणबिंदूच्या खाली जाते, तिथे कोणते कायिक विदारण प्रभावी असते?",
+      "options": [
+        { "option_id": 1, "text": "दहिवर", "is_correct": true },
+        { "option_id": 2, "text": "दाबमुक्ती", "is_correct": false },
+        { "option_id": 3, "text": "क्षार", "is_correct": false },
+        { "option_id": 4, "text": "वनस्पती", "is_correct": false }
+      ],
+      "answer": "दहिवर"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पुणे जिल्ह्यातील 'अहमदनगर-कल्याण' महामार्गावर कोठे चुनखडीचे अवक्षेपण आढळते?",
+      "options": [
+        { "option_id": 1, "text": "वडगाव दर्या", "is_correct": true },
+        { "option_id": 2, "text": "जुन्नर", "is_correct": false },
+        { "option_id": 3, "text": "माळशेज", "is_correct": false },
+        { "option_id": 4, "text": "आंबेगाव", "is_correct": false }
+      ],
+      "answer": "वडगाव दर्या"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "विदारणाचे किती मुख्य प्रकार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कोणत्या विदारणात खडकाचे रासायनिक गुणधर्म बदलतात?",
+      "options": [
+        { "option_id": 1, "text": "कायिक", "is_correct": false },
+        { "option_id": 2, "text": "रासायनिक", "is_correct": true },
+        { "option_id": 3, "text": "जैविक", "is_correct": false },
+        { "option_id": 4, "text": "यांत्रिक", "is_correct": false }
+      ],
+      "answer": "रासायनिक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "खडकांतील लोहाचा हवेतील कोणत्या वायूशी संयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "हायड्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 3, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 4, "text": "कार्बन डायऑक्साइड", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कोणती ऊर्जा बाह्यप्रक्रियांसाठी महत्त्वाची असते?",
+      "options": [
+        { "option_id": 1, "text": "अणू ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "सौर ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "विद्युत ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "चुंबकीय ऊर्जा", "is_correct": false }
+      ],
+      "answer": "सौर ऊर्जा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "दगडावर वाढणाऱ्या 'दगडफूल' (Lichen) मुळे कोणते विदारण घडते?",
+      "options": [
+        { "option_id": 1, "text": "कायिक", "is_correct": false },
+        { "option_id": 2, "text": "जैविक", "is_correct": true },
+        { "option_id": 3, "text": "कार्बनेशन", "is_correct": false },
+        { "option_id": 4, "text": "अपपर्णन", "is_correct": false }
+      ],
+      "answer": "जैविक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "बाहेरच्या थरावरील ताण कमी झाल्यामुळे खडकाचा आतील भाग प्रसरण पावून कोणते विदारण घडते?",
+      "options": [
+        { "option_id": 1, "text": "दाबमुक्ती", "is_correct": true },
+        { "option_id": 2, "text": "तापमान", "is_correct": false },
+        { "option_id": 3, "text": "दहिवर", "is_correct": false },
+        { "option_id": 4, "text": "भस्मीकरण", "is_correct": false }
+      ],
+      "answer": "दाबमुक्ती"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "जुन्या ऐतिहासिक वास्तूंवर किंवा किल्ल्यांच्या बुरुजावर वाढलेल्या झाडांच्या मुळांमुळे कोणते विदारण होते?",
+      "options": [
+        { "option_id": 1, "text": "कायिक", "is_correct": false },
+        { "option_id": 2, "text": "रासायनिक", "is_correct": false },
+        { "option_id": 3, "text": "जैविक", "is_correct": true },
+        { "option_id": 4, "text": "भस्मीकरण", "is_correct": false }
+      ],
+      "answer": "जैविक"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "तीव्र उतारावर विदारित पदार्थ वेगाने खाली कोसळण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मातलोट", "is_correct": false },
+        { "option_id": 2, "text": "भूस्खलन", "is_correct": true },
+        { "option_id": 3, "text": "क्षरण", "is_correct": false },
+        { "option_id": 4, "text": "संचयन", "is_correct": false }
+      ],
+      "answer": "भूस्खलन"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "मैदान ही कोणत्या प्रकारची भूरूपे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "प्राथमिक", "is_correct": false },
+        { "option_id": 2, "text": "द्वितीयक", "is_correct": true },
+        { "option_id": 3, "text": "तृतीयक", "is_correct": false },
+        { "option_id": 4, "text": "खंड", "is_correct": false }
+      ],
+      "answer": "द्वितीयक"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "वाळूच्या टेकड्या ही कोणत्या प्रकारची भूरूपे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "प्राथमिक", "is_correct": false },
+        { "option_id": 2, "text": "द्वितीयक", "is_correct": false },
+        { "option_id": 3, "text": "तृतीयक", "is_correct": true },
+        { "option_id": 4, "text": "खंड", "is_correct": false }
+      ],
+      "answer": "तृतीयक"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कोणत्या प्रदेशात कायिक विदारण कमी प्रमाणात होते?",
+      "options": [
+        { "option_id": 1, "text": "कोरडे हवामान", "is_correct": false },
+        { "option_id": 2, "text": "दमट हवामान", "is_correct": true },
+        { "option_id": 3, "text": "वाळवंटी प्रदेश", "is_correct": false },
+        { "option_id": 4, "text": "गोठणबिंदू खालील प्रदेश", "is_correct": false }
+      ],
+      "answer": "दमट हवामान"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "खडकाचे कण सुटे होणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "कणात्मक विदारण", "is_correct": true },
+        { "option_id": 2, "text": "भस्मीकरण", "is_correct": false },
+        { "option_id": 3, "text": "द्रवीकरण", "is_correct": false },
+        { "option_id": 4, "text": "कार्बनेशन", "is_correct": false }
+      ],
+      "answer": "कणात्मक विदारण"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी खडकाच्या छिद्रांमधून जमिनीत शिरल्यामुळे कोणते विदारण वेगाने होते?",
+      "options": [
+        { "option_id": 1, "text": "कायिक", "is_correct": false },
+        { "option_id": 2, "text": "रासायनिक", "is_correct": true },
+        { "option_id": 3, "text": "जैविक", "is_correct": false },
+        { "option_id": 4, "text": "दाबमुक्ती", "is_correct": false }
+      ],
+      "answer": "रासायनिक"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "खडकांमधील क्षारांची हालचाल झाल्यामुळे कोणता आकार तयार होतो?",
+      "options": [
+        { "option_id": 1, "text": "चौकोनी", "is_correct": false },
+        { "option_id": 2, "text": "गोल", "is_correct": false },
+        { "option_id": 3, "text": "मधाच्या पोळ्यासारखा", "is_correct": true },
+        { "option_id": 4, "text": "त्रिकोणी", "is_correct": false }
+      ],
+      "answer": "मधाच्या पोळ्यासारखा"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कोणत्या प्रकारच्या विदारणात 'दहिवर' (Frost) प्रमुख भूमिका बजावते?",
+      "options": [
+        { "option_id": 1, "text": "रासायनिक", "is_correct": false },
+        { "option_id": 2, "text": "कायिक", "is_correct": true },
+        { "option_id": 3, "text": "जैविक", "is_correct": false },
+        { "option_id": 4, "text": "भस्मीकरण", "is_correct": false }
+      ],
+      "answer": "कायिक"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "खडकांचा चुरा होणे ही विदारण प्रक्रिया प्रामुख्याने कोठे आढळते?",
+      "options": [
+        { "option_id": 1, "text": "सागरतळाशी", "is_correct": false },
+        { "option_id": 2, "text": "भूपृष्ठावर", "is_correct": true },
+        { "option_id": 3, "text": "पृथ्वीच्या गाभ्यात", "is_correct": false },
+        { "option_id": 4, "text": "वातावरणाच्या वरच्या स्तरात", "is_correct": false }
+      ],
+      "answer": "भूपृष्ठावर"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "ज्या भागात जास्त पाऊस पडतो, तिथे खडकाचे कोणते विदारण सर्वाधिक होते?",
+      "options": [
+        { "option_id": 1, "text": "कायिक", "is_correct": false },
+        { "option_id": 2, "text": "रासायनिक", "is_correct": true },
+        { "option_id": 3, "text": "दाबमुक्ती", "is_correct": false },
+        { "option_id": 4, "text": "अपपर्णन", "is_correct": false }
+      ],
+      "answer": "रासायनिक"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "विस्तृत झीज घडण्यासाठी कोणते बल कारणीभूत असते?",
+      "options": [
+        { "option_id": 1, "text": "गुरुत्वीय बल", "is_correct": true },
+        { "option_id": 2, "text": "चुंबकीय बल", "is_correct": false },
+        { "option_id": 3, "text": "विद्युत बल", "is_correct": false },
+        { "option_id": 4, "text": "अणू बल", "is_correct": false }
+      ],
+      "answer": "गुरुत्वीय बल"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "मातलोट ही प्रक्रिया कोणत्या प्रकारच्या हवामानात आढळते?",
+      "options": [
+        { "option_id": 1, "text": "अतिउष्ण", "is_correct": false },
+        { "option_id": 2, "text": "दमट", "is_correct": false },
+        { "option_id": 3, "text": "बर्फाच्छादित", "is_correct": true },
+        { "option_id": 4, "text": "विषुववृत्तीय", "is_correct": false }
+      ],
+      "answer": "बर्फाच्छादित"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "खडकातील लोहावर गंज चढल्यामुळे खडकाला कोणता रंग येतो?",
+      "options": [
+        { "option_id": 1, "text": "काळा", "is_correct": false },
+        { "option_id": 2, "text": "निळा", "is_correct": false },
+        { "option_id": 3, "text": "तपकिरी किंवा तांबूस", "is_correct": true },
+        { "option_id": 4, "text": "पांढरा", "is_correct": false }
+      ],
+      "answer": "तपकिरी किंवा तांबूस"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी कोणते खनन कारक नाही?",
+      "options": [
+        { "option_id": 1, "text": "वारा", "is_correct": false },
+        { "option_id": 2, "text": "वाहते पाणी", "is_correct": false },
+        { "option_id": 3, "text": "सागरी जल", "is_correct": false },
+        { "option_id": 4, "text": "भूकंप", "is_correct": true }
+      ],
+      "answer": "भूकंप"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "खडक आकुंचन-प्रसरण पावल्यामुळे त्यांच्यामध्ये काय निर्माण होतो?",
+      "options": [
+        { "option_id": 1, "text": "ओलावा", "is_correct": false },
+        { "option_id": 2, "text": "ताण", "is_correct": true },
+        { "option_id": 3, "text": "विद्युत प्रवाह", "is_correct": false },
+        { "option_id": 4, "text": "चुंबकीय शक्ती", "is_correct": false }
+      ],
+      "answer": "ताण"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "खडकांच्या तड्यांमध्ये साचलेले पाणी गोठल्यामुळे खडकावर कोणता परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "खडक मऊ होतो", "is_correct": false },
+        { "option_id": 2, "text": "खडक फुटतो", "is_correct": true },
+        { "option_id": 3, "text": "खडक विरघळतो", "is_correct": false },
+        { "option_id": 4, "text": "काहीच बदल होत नाही", "is_correct": false }
+      ],
+      "answer": "खडक फुटतो"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कार्बनेशन क्रियेमुळे प्रामुख्याने कोणत्या खडकाचे विदारण होते?",
+      "options": [
+        { "option_id": 1, "text": "ग्रॅनाईट", "is_correct": false },
+        { "option_id": 2, "text": "चुनखडी", "is_correct": true },
+        { "option_id": 3, "text": "बॅसाल्ट", "is_correct": false },
+        { "option_id": 4, "text": "संगमरवर", "is_correct": false }
+      ],
+      "answer": "चुनखडी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "खडकाचा जो भाग उघडा पडतो, त्यावर कायिक विदारण कोठे सर्वाधिक होते?",
+      "options": [
+        { "option_id": 1, "text": "खालच्या बाजूला", "is_correct": false },
+        { "option_id": 2, "text": "वरच्या थरावर", "is_correct": true },
+        { "option_id": 3, "text": "गाभ्यात", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यात", "is_correct": false }
+      ],
+      "answer": "वरच्या थरावर"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "विस्तृत झीज कोणत्या कारणामुळे मंद गतीने होते?",
+      "options": [
+        { "option_id": 1, "text": "जास्त उतार", "is_correct": false },
+        { "option_id": 2, "text": "कमी उतार", "is_correct": true },
+        { "option_id": 3, "text": "पावसाचे प्रमाण जास्त असणे", "is_correct": false },
+        { "option_id": 4, "text": "भूकंप होणे", "is_correct": false }
+      ],
+      "answer": "कमी उतार"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठावरील भूरूपांची निर्मिती व ऱ्हास कशामुळे अव्याहतपणे होत असतो?",
+      "options": [
+        { "option_id": 1, "text": "बाह्य प्रक्रिया", "is_correct": true },
+        { "option_id": 2, "text": "आंतरिक प्रक्रिया", "is_correct": false },
+        { "option_id": 3, "text": "मानवी हस्तक्षेप", "is_correct": false },
+        { "option_id": 4, "text": "सौर डाग", "is_correct": false }
+      ],
+      "answer": "बाह्य प्रक्रिया"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "विदारणामुळे सुटे झालेले कण उताराच्या दिशेने वाहून नेण्याची प्रक्रिया म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "वहन", "is_correct": true },
+        { "option_id": 2, "text": "संचयन", "is_correct": false },
+        { "option_id": 3, "text": "विदारण", "is_correct": false },
+        { "option_id": 4, "text": "भस्मीकरण", "is_correct": false }
+      ],
+      "answer": "वहन"
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "विदारणाचे तीन मुख्य प्रकार कोणते?",
+      "answer": "कायिक विदारण, रासायनिक विदारण आणि जैविक विदारण हे विदारणाचे तीन मुख्य प्रकार आहेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "दैनिक तापमानकक्षा म्हणजे काय?",
+      "answer": "दिवसाचे कमाल तापमान आणि रात्रीचे किमान तापमान यांतील फरकाला दैनिक तापमानकक्षा म्हणतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "दहिवर विदारण खडकावर कसा परिणाम करते?",
+      "answer": "पाणी गोठल्यावर त्याचे आकारमान ९ टक्क्यांनी वाढते, त्यामुळे खडकातील भेगा रुंदावतात आणि खडक फुटतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कोणत्या खडकाचे लवकर अपपर्णन होते?",
+      "answer": "ग्रॅनाईट आणि एकजिनसी खडकांचे तापमान बदलामुळे लवकर अपपर्णन होते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मुंग्या खडकावर काय परिणाम करतात?",
+      "answer": "मुंग्या वारुळे तयार करण्यासाठी खडकातील कणांना मोकळे करतात, ज्यामुळे खडकाची झीज होते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "लवणस्तंभ म्हणजे काय?",
+      "answer": "चुनखडीच्या प्रदेशात छतातून गळणाऱ्या पाण्यातून चुनखडीचे अवक्षेपण होऊन जमिनीवर किंवा छताला तयार होणाऱ्या खांबांना लवणस्तंभ म्हणतात."
+    },
+
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "दरड कोसळणे म्हणजे काय?",
+      "answer": "तीव्र उतारावरील विदारित खडकांचे मोठे तुकडे गुरुत्वाकर्षणामुळे वेगाने खाली येण्याच्या क्रियेला दरड कोसळणे म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "भस्मीकरण प्रक्रिया प्रामुख्याने कोठे दिसते?",
+      "answer": "ज्या खडकात लोहाचे प्रमाण जास्त असते आणि जिथे पावसाचे प्रमाण जास्त असते, तिथे भस्मीकरण प्रक्रिया प्रामुख्याने दिसते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "विस्तृत झीज मंद गतीने कोठे होते?",
+      "answer": "कमी उताराच्या आणि कोरड्या हवामानाच्या प्रदेशात विस्तृत झीज मंद गतीने होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "खननाची कारके कोणती आहेत?",
+      "answer": "वारा, वाहते पाणी, हिमनदी, सागरी जल आणि भूजल ही खननाची मुख्य कारके आहेत."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "खडकाचा प्रसरण दर कशावर अवलंबून असतो?",
+      "answer": "खडकाचा प्रसरण दर त्यातील खनिजांच्या प्रकारावर आणि तापमानावर अवलंबून असतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "कार्बनन क्रियेचे उदाहरण द्या.",
+      "answer": "पावसाचे पाणी चुनखडीत मुरल्यामुळे चुनखडी विरघळणे हे कार्बनन क्रियेचे उदाहरण आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कायिक विदारणात पाण्याचे कोणते दोन प्रकार परिणाम करतात?",
+      "answer": "पाणी खडकात मुरणे आणि साचलेले पाणी गोठणे (दहिवर) या दोन प्रकारे पाणी कायिक विदारणात भूमिका बजावते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "भूपृष्ठाचा ऱ्हास कशामुळे होतो?",
+      "answer": "विदारण, खनन आणि विस्तृत झीज या बाह्यप्रक्रियांमुळे भूपृष्ठाचा ऱ्हास होतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "तीव्र उतारावर माती खाली येण्यास काय मदत करते?",
+      "answer": "पाणी मुरल्यामुळे मातीचे वजन वाढते आणि गुरुत्वीय बल तिला वेगाने खाली खेचते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "मानव जैविक विदारण कसे घडवतो?",
+      "answer": "रस्ते बांधणी, खाणकाम आणि पाया खोदणे यांसारख्या कृतींतून मानवाकडून जैविक विदारण घडते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "दगडफुलामुळे खडक कमकुवत का होतो?",
+      "answer": "दगडफूल किंवा शेवाळ यांच्यापासून निघणाऱ्या आम्लामुळे खडकाचा पृष्ठभाग रासायनिकदृष्ट्या कमकुवत होतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "क्षारांचे स्फटिकीकरण खडकावर काय परिणाम करते?",
+      "answer": "क्षारांच्या स्फटिकामुळे खडकावर ताण निर्माण होऊन त्यावर छिद्रे पडतात आणि खडक मधाच्या पोळ्यासारखा दिसतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "खडक फुटण्याच्या क्रियेला गती कशामुळे मिळते?",
+      "answer": "खडकातील तड्यांमध्ये पाणी साचल्यामुळे आणि वनस्पतींची मुळे खोलवर गेल्यामुळे खडक फुटण्याच्या क्रियेला गती मिळते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "बाह्यप्रक्रियेचा अंतिम परिणाम काय असतो?",
+      "answer": "बाह्यप्रक्रियेचा अंतिम परिणाम म्हणजे मूळ भूरूपांचे विच्छेदन होऊन नवीन तृतीयक भूरूपांची निर्मिती होणे हा असतो."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "कायिक विदारणात खनिजांचा रासायनिक बदल होतो का?",
+      "answer": "नाही, कायिक विदारणात खडकांचे केवळ भौतिक तुकडे होतात, त्यांचे रासायनिक गुणधर्म बदलत नाहीत."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "सौम्य कर्बाम्ल कसे तयार होते?",
+      "answer": "पावसाचे पाणी ढगातून जमिनीवर येताना हवेतील कार्बन डायऑक्साइड त्यात मिसळल्याने सौम्य कर्बाम्ल तयार होते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "विस्तृत झीज प्रक्रियेत मुख्य घटक कोणता?",
+      "answer": "गुरुत्वाकर्षण हा विस्तृत झीज प्रक्रियेतील सर्वात मुख्य घटक आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यातील डोंगरकडा कोसळणे हे कशाचे उदाहरण आहे?",
+      "answer": "हे तीव्र गतीने होणाऱ्या विस्तृत झीजेचे उदाहरण आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "विदारणामुळे कशाची निर्मिती होते?",
+      "answer": "विदारणामुळे खडकांचा चुरा होतो, ज्यातून कालांतराने मृदेची (मातीची) निर्मिती होण्यास मदत होते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "भस्मीकरणामुळे लोखंडाचे रूपांतर कशात होते?",
+      "answer": "भस्मीकरणामुळे लोखंडाचे रूपांतर आयर्न ऑक्साईडमध्ये (गंज) होते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "कोरड्या हवामानात विदारण मंद का असते?",
+      "answer": "कोरड्या हवामानात ओलावा नसल्यामुळे रासायनिक विदारण होत नाही, केवळ तापमानामुळे कायिक विदारण होते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "मातलोट प्रक्रियेमुळे उतारावर काय तयार होते?",
+      "answer": "मातलोट प्रक्रियेमुळे उतारावर मातीचे लंबगोलाकार ढिगारे किंवा पायऱ्यांसारखे आकार तयार होतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "विदारित मालाचे वहन कोण करते?",
+      "answer": "विदारित मालाचे वहन वारा, नदी आणि हिमनदी यांसारखी कारके करतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "दाबमुक्तीमुळे खडकावर काय परिणाम होतो?",
+      "answer": "दाबमुक्तीमुळे खडकातील अंतर्गत ताण मोकळा होतो आणि खडकाच्या भेगा रुंदावतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "खडकांचे विखंडन म्हणजे काय?",
+      "answer": "तापमान बदलामुळे खडकाचे मोठे तुकडे वेगळे होणे याला विखंडन म्हणतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "भस्मीकरण क्रियेमुळे खडकाचे वजन वाढते का?",
+      "answer": "हो, ऑक्सिजनचा संयोग झाल्यामुळे खडकाचे वजन काही प्रमाणात वाढू शकते परंतु खडक कमकुवत होतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "भूजल खनन कसे करते?",
+      "answer": "भूजल जमिनीखालील विद्राव्य खनिजे विरघळवून गुहा किंवा पोकळ्या निर्माण करून खनन करते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "अतिवृष्टीमुळे होणारी विस्तृत झीज विध्वंसक का असते?",
+      "answer": "ती अचानक आणि मोठ्या प्रमाणावर होत असल्यामुळे मनुष्यहानी व मालमत्तेचे नुकसान करते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "खंड ही कोणत्या प्रकारची भूरूपे आहेत?",
+      "answer": "खंड ही प्राथमिक भूरूपे आहेत."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "त्रिभुज प्रदेश हे कोणत्या बाह्यप्रक्रियेचा परिणाम आहे?",
+      "answer": "त्रिभुज प्रदेश हे नदीच्या संचयन या बाह्यप्रक्रियेचा परिणाम आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "दगडफुलाचा विदारणातील वाटा काय?",
+      "answer": "ते खडकातील क्षारांचे शोषण करते आणि आम्ल सोडून खडकाचा पृष्ठभाग विरघळवते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "सागरी लाटांमुळे होणारे विदारण प्रामुख्याने कोठे दिसते?",
+      "answer": "सागरी लाटांमुळे होणारे विदारण प्रामुख्याने समुद्रकिनाऱ्यावरील खडकाळ भागात दिसते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "नदी वहन कसे करते?",
+      "answer": "नदी आपल्या प्रवाहाच्या वेगाने विदारित खडक आणि माती उतारावरून खाली वाहून नेते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "विदारणामुळे खडकाची ताकद वाढते की कमी होते?",
+      "answer": "विदारणामुळे खडकाची ताकद कमी होते आणि तो कमकुवत होतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "ज्या प्रदेशात तापमान नेहमी गोठणबिंदूच्या वर असते तिथे कायिक विदारण कशामुळे होते?",
+      "answer": "तिथे कायिक विदारण प्रामुख्याने तापमानातील दैनिक फरकामुळे होते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "कार्बनेशन क्रियेचे रासायनिक सूत्र काय सुचवते?",
+      "answer": "ते पाणी आणि कार्बन डायऑक्साइड मिळून आम्ल तयार होण्याची क्रिया सुचवते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "दरड कोसळण्याचे मुख्य कारण काय?",
+      "answer": "तीव्र उतार आणि अतिवृष्टी ही दरड कोसळण्याची मुख्य कारणे आहेत."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "खडक फुटताना आवाज का येतो?",
+      "answer": "खडकातील ताण अचानक मोकळा झाल्यामुळे किंवा मोठ्या प्रमाणात आकुंचन-प्रसरण झाल्यामुळे खडक फुटताना आवाज येतो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "वहन आणि संचयन यातील संबंध काय?",
+      "answer": "वहनाचा वेग कमी झाला की संचयनाची प्रक्रिया सुरू होते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "पर्वत हे कोणत्या श्रेणीचे भूरूप आहे?",
+      "answer": "पर्वत हे द्वितीयक श्रेणीचे भूरूप आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "मैदानांची निर्मिती कशामुळे होते?",
+      "answer": "मैदानांची निर्मिती नद्यांनी वाहून आणलेल्या गाळाच्या संचयनामुळे होते."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "खडकातील भेगांमध्ये झाडांची मुळे वाढल्यास काय होते?",
+      "answer": "भेगा रुंदावतात आणि खडकावर प्रचंड ताण येऊन तो फुटतो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात खडकाच्या कोणत्या भागाचे तापमान सर्वाधिक असते?",
+      "answer": "उन्हाळ्यात खडकाच्या बाह्य किंवा वरच्या थराचे तापमान सर्वाधिक असते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "द्रवीकरणामुळे खडक सच्छिद्र का होतो?",
+      "answer": "खडकातील विद्राव्य खनिजे पाण्यात विरघळून निघून गेल्यामुळे तिथे पोकळ्या तयार होतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "विस्तृत झीज रोखण्यासाठी काय उपाय करता येईल?",
+      "answer": "डोंगरउतारावर वृक्षारोपण केल्यास मुळांमुळे माती धरून ठेवली जाते आणि विस्तृत झीज कमी होते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "कोरड्या हवामानात रासायनिक विदारण का होत नाही?",
+      "answer": "कारण रासायनिक विदारणासाठी पाण्याची उपलब्धता आवश्यक असते, जी कोरड्या हवामानात नसते."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "वाळूच्या टेकड्या कोणत्या कारकामुळे तयार होतात?",
+      "answer": "वाळूच्या टेकड्या वाऱ्याच्या संचयन कार्यामुळे तयार होतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "खडकातील सांधे (Joints) म्हणजे काय?",
+      "answer": "खडकामध्ये नैसर्गिकरित्या असणाऱ्या भेगा किंवा जोड म्हणजे सांधे होत."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "लोह गंजल्यावर त्याचा मूळ कडकपणा राहतो का?",
+      "answer": "नाही, गंजल्यामुळे लोखंड ठिसूळ होते आणि त्याचा कडकपणा कमी होतो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "भूपृष्ठावर सतत बदल घडवून आणणारी ऊर्जा कोणती?",
+      "answer": "भूपृष्ठावर सतत बदल घडवून आणणारी ऊर्जा ही प्रामुख्याने सौरऊर्जा आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "नदीच्या पात्रातील गोलाकार दगड कशामुळे तयार होतात?",
+      "answer": "पाण्याच्या प्रवाहामुळे दगडांचे एकमेकांवर घर्षण होऊन (खनन) ते गोलाकार होतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "विदारणाचा वेग कशावर अवलंबून असतो?",
+      "answer": "विदारणाचा वेग हवामान, खडकाचा प्रकार आणि संरचनेवर अवलंबून असतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "अतिथंड प्रदेशात खडकांचे कायिक विदारण का जास्त होते?",
+      "answer": "पाण्याचे सतत बर्फात रूपांतर होण्यामुळे (दहिवर) तिथे कायिक विदारण जास्त होते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "भस्मीकरण ही संथ प्रक्रिया आहे की जलद?",
+      "answer": "भस्मीकरण ही तुलनेने एक संथ रासायनिक प्रक्रिया आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "कांद्याचा पापुद्रा निघणे हे कोणत्या विदारणाचे उदाहरण आहे?",
+      "answer": "हे कायिक विदारणातील अपपर्णन या प्रक्रियेचे उदाहरण आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "विस्तृत झीज म्हणजे केवळ माती खाली येणे का?",
+      "answer": "नाही, यात मातीसोबतच दगड, गोटे आणि विदारित खडकांचा ढिगारा यांचाही समावेश असतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "उताराचा कोन विस्तृत झीजवर कसा परिणाम करतो?",
+      "answer": "कोन जितका जास्त तितकी विस्तृत झीज तीव्र गतीने होते."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "सागरी जल खननाचे कार्य कोठे करते?",
+      "answer": "ते समुद्रकिनाऱ्यावरील खडकांवर लाटांच्या आघाताद्वारे खननाचे कार्य करते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "भूरूपांचा ऱ्हास होणे म्हणजे काय?",
+      "answer": "भूरूपांचा ऱ्हास होणे म्हणजे बाह्य कारकांमुळे मूळ भूरूपाची उंची किंवा आकार कमी होणे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "खडकाचे कण एकमेकांपासून विलग होण्यास काय कारणीभूत असते?",
+      "answer": "खनिजांचे वेगवेगळे प्रसरण आणि आकुंचन हे खडक विलग होण्यास कारणीभूत असते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "विदारित माल कोठे साचतो?",
+      "answer": "विदारित माल प्रामुख्याने डोंगरपायथ्याशी किंवा सखल भागात साचतो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "घुशी विदारण कसे घडवतात?",
+      "answer": "घुशी जमिनीत खोलवर बिळे करून खडकांचे सांधे मोकळे करतात, ज्यामुळे विदारण होते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "कायिक विदारणाचे स्वरूप कसे असते?",
+      "answer": "कायिक विदारणाचे स्वरूप प्रामुख्याने यांत्रिक किंवा भौतिक असते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "या पाठात आपण कोणत्या प्रक्रियांचा अभ्यास केला?",
+      "answer": "या पाठात आपण प्रामुख्याने विदारण, विस्तृत झीज आणि खननाच्या सुरुवातीच्या प्रक्रियांचा अभ्यास केला."
+    },
+    
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "कायिक विदारण म्हणजे काय? कायिक विदारणाचे प्रमुख घटक सविस्तर स्पष्ट करा.",
+      "answer": "खडकांचे रासायनिक गुणधर्म न बदलता त्यांचे केवळ भौतिक तुकडे होणे म्हणजे कायिक विदारण होय. याचे प्रमुख घटक खालीलप्रमाणे आहेत: १) तापमान: उष्ण प्रदेशात खनिजांच्या आकुंचन-प्रसरणामुळे खडकांना तडे जातात. २) दहिवर: खडकातील भेगांत पाणी साचून ते गोठल्यास आकारमान वाढते व खडक फुटतो. ३) स्फटिकांची वाढ: सागरी किनारी भागात क्षारांच्या स्फटिकीकरणामुळे खडकावर ताण येतो. ४) दाबमुक्ती: खडकाचा वरचा थर निघाल्यावर खालचा भाग प्रसरण पावून विदारण घडते. ५) पाणी: काही खडकांत पाणी मुरल्याने कणात्मक विदारण होते."
+    },
+    
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "रासायनिक विदारण म्हणजे काय? त्याचे प्रमुख प्रकार उदाहरणासह स्पष्ट करा.",
+      "answer": "खडकांमधील खनिजांचा हवेतील वायू व पाण्याशी संयोग होऊन खडकांच्या मूळ गुणधर्मात बदल होण्याला रासायनिक विदारण म्हणतात. १) कार्बनन: पावसाच्या पाण्यात कार्बन डायऑक्साइड मिसळून सौम्य कर्बाम्ल तयार होते, ज्यात चुनखडी विरघळते. २) द्रवीकरण: मूळ खडकातील क्षार पाण्यात विरघळून वाहून गेल्याने खडक ठिसूळ होतात (उदा. वडगाव दर्या). ३) भस्मीकरण: खडकातील लोहाचा ऑक्सिजनशी संपर्क आल्यास गंज चढतो आणि खडक खराब होतात. हे विदारण दमट हवामानात जास्त प्रभावी असते."
+    },
+    
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "जैविक विदारण घडून येण्याची प्रमुख कारणे सविस्तर लिहा.",
+      "answer": "सजीव घटकांमुळे होणाऱ्या विदारणास जैविक विदारण म्हणतात. १) वनस्पतींची मुळे: जुन्या वास्तू किंवा खडकांच्या भेगांत झाडांची मुळे वाढल्याने खडक फुटतात. २) खनक प्राणी: उंदीर, घुशी, ससे यांसारखे प्राणी जमिनीत बिळे तयार करून खडकांना कमकुवत करतात. ३) सूक्ष्मजीव: शेवाळ, दगडफूल यांसारख्या वनस्पती खडकांच्या पृष्ठभागावर वाढतात व विशिष्ट आम्ले सोडून खडकाचा पृष्ठभाग कमकुवत करतात. ४) मानवी कृती: खाणकाम, रस्ते बांधणी आणि डोंगर पोखरून बोगदे करणे यांमुळे मोठ्या प्रमाणावर जैविक विदारण होते."
+    },
+    
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "विस्तृत झीज म्हणजे काय? तीव्र गतीने होणारी विस्तृत झीज स्पष्ट करा.",
+      "answer": "विदारित माल केवळ गुरुत्वीय बलामुळे उताराच्या दिशेने खाली सरकणे याला विस्तृत झीज म्हणतात. तीव्र गतीने होणारी विस्तृत झीज दमट हवामानात आणि तीव्र उतारावर आढळते. १) दरडी कोसळणे: अचानक खडकांचे मोठे तुकडे खाली पडणे. २) भूस्खलन: पावसाळ्यात जमिनीत पाणी मुरल्याने विदारित पदार्थांचे वजन वाढते व ते वेगाने खाली सरकतात. ३) जमीन खचणे: जमिनीखालील हालचालींमुळे किंवा पाण्याच्या ओव्यामुळे जमीन खाली दबली जाते. पुणे जिल्ह्यातील 'माळीण' गावची दुर्घटना हे याचे मोठे उदाहरण आहे."
+    },
+    
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "विदारण व विस्तृत झीज यांतील मुख्य फरक स्पष्ट करा.",
+      "answer": "विदारण आणि विस्तृत झीज हे दोन भिन्न भौगोलिक प्रकार आहेत. १) विदारण ही खडकांच्या विघटनाची प्रक्रिया आहे, तर विस्तृत झीज ही विदारित मालाच्या हालचालीची प्रक्रिया आहे. २) विदारण हे प्रामुख्याने हवामान, तापमान आणि पाण्यामुळे घडते, तर विस्तृत झीज केवळ गुरुत्वीय बलामुळे होते. ३) विदारण जागेवरच घडते (In-situ), तर विस्तृत झीजमध्ये पदार्थांचे स्थानांतरण होते. ४) विदारणाचे कायिक, रासायनिक असे प्रकार आहेत, तर विस्तृत झीजमध्ये तीव्र आणि मंद असे दोन प्रमुख प्रकार आढळतात."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "मंद गतीने होणारी विस्तृत झीज म्हणजे काय? त्यातील 'मातलोट' ही प्रक्रिया स्पष्ट करा.",
+      "answer": "कमी उताराच्या आणि कोरड्या हवामानाच्या प्रदेशात विदारित माल अतिशय संथ गतीने खाली सरकतो, त्यास मंद विस्तृत झीज म्हणतात. यामध्ये 'मातलोट' ही महत्त्वाची प्रक्रिया आहे. १) मातलोट प्रामुख्याने बर्फाच्छादित प्रदेशाच्या सीमावर्ती भागात आढळतो. २) तिथे उन्हाळ्यात बर्फ वितळल्यावर जमीन सळसळीत होते आणि चिखलयुक्त माती मंद गतीने उतारावरून खाली सरकते. ३) या प्रक्रियेमुळे उतारावर मातीचे लंबगोलाकार ढिगारे तयार होतात. ही प्रक्रिया डोळ्यांनी सहज दिसत नाही पण वर्षांनुवर्षे सुरू असते."
+    },
+    
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "कायिक विदारणावर तापमानाचा प्रभाव कसा होतो? उदाहरणासह लिहा.",
+      "answer": "तापमान हे कायिक विदारणाचे सर्वात महत्त्वाचे कारण आहे. १) उष्ण प्रदेशात दिवसा खडकातील खनिजे तापल्यामुळे प्रसरण पावतात व रात्री तापमान कमी झाल्यामुळे आकुंचन पावतात. २) या सततच्या क्रियेमुळे खडकातील कणांमध्ये ताण निर्माण होतो आणि खडक फुटतो. ३) ज्या प्रदेशात दैनिक तापमानकक्षा जास्त असते (उदा. वाळवंटी प्रदेश), तिथे खडक फुटण्याचे प्रमाण जास्त असते. ४) कधीकधी खडकाचा वरचा भाग तापल्याने कांद्याच्या पापुद्र्यासारखे त्याचे थर सुटे होतात, ज्याला आपण 'अपपर्णन' म्हणतो."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "खनन (Erosion) म्हणजे काय? खननाची विविध कारके थोडक्यात स्पष्ट करा.",
+      "answer": "विदारण आणि विस्तृत झीजेप्रमाणेच खनन ही देखील एक महत्त्वाची बाह्यप्रक्रिया आहे. विदारित पदार्थांचे वाहून नेले जाणे आणि भूपृष्ठाची झीज होणे म्हणजे खनन होय. खननाची प्रमुख कारके खालीलप्रमाणे आहेत: १) वारा: वाळवंटी प्रदेशात वाळूच्या कणांमुळे खडकांचे खनन होते. २) वाहते पाणी (नदी): नदीपात्रातील दगड-गोटे आणि पाण्याचा वेग जमिनीचे खनन करतात. ३) हिमनदी: बर्फाचा प्रचंड ढिगारा उतारावरून सरकताना जमिनीची मोठ्या प्रमाणावर झीज करतो. ४) सागरी जल: लाटा खडकावर आदळून किनाऱ्याचे खनन करतात. ५) भूजल: जमिनीखालील विद्राव्य खनिजे विरघळवून खनन घडवून आणते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "भूपृष्ठावर कार्यरत असलेल्या ऊर्जेचे स्त्रोत आणि त्यांचे महत्त्व सांगा.",
+      "answer": "भूपृष्ठावर बाह्यप्रक्रिया घडून येण्यासाठी विशिष्ट ऊर्जेची गरज असते. १) सौरऊर्जा: ही बाह्यप्रक्रियांसाठी सर्वात मोठी ऊर्जा आहे. तापमान बदल आणि पाऊस यासाठी ही जबाबदार असते. २) गुरुत्वीय बल: विदारित माल खाली सरकण्यासाठी (विस्तृत झीज) गुरुत्वाकर्षण आवश्यक असते. ३) गतिजन्य ऊर्जा: वारा, वाहते पाणी आणि हिमनदी हे गतिमान असल्यामुळे त्यातील ऊर्जेचा वापर खननासाठी होतो. या ऊर्जेमुळेच प्राथमिक व द्वितीयक भूरूपांचे तृतीयक भूरूपात रूपांतर होते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "अपपर्णन (Exfoliation) ही प्रक्रिया सविस्तर स्पष्ट करा.",
+      "answer": "अपपर्णन हे कायिक विदारणाचे एक वैशिष्ट्यपूर्ण रूप आहे. १) खडकांचा पृष्ठभाग उघडा असतो, तेव्हा त्यावर सूर्याची उष्णता थेट पडते. २) खडक उष्णतेचा सुवाहक नसल्यामुळे केवळ बाह्य स्तर तापतो व प्रसरण पावतो, तर आतील भाग थंड राहतो. ३) यामुळे खडकाच्या थरांमध्ये ताण निर्माण होतो आणि वरचा थर कांद्याच्या पापुद्र्याप्रमाणे सोलला जातो. ४) ही प्रक्रिया प्रामुख्याने ग्रॅनाईट किंवा इतर एकजिनसी खडकांमध्ये जास्त प्रमाणात दिसून येते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "दहिवर विदारण प्रामुख्याने कोठे आणि कसे घडते?",
+      "answer": "दहिवर विदारण प्रामुख्याने अतिथंड किंवा अतिउंचीवरील प्रदेशात घडते. १) दिवसा किंवा पावसाळ्यात खडकातील भेगांमध्ये पाणी साचते. २) रात्री जेव्हा तापमान गोठणबिंदूच्या (0°C) खाली जाते, तेव्हा हे पाणी गोठून त्याचे बर्फात रूपांतर होते. ३) पाण्याचे बर्फात रूपांतर झाल्यावर त्याचे आकारमान ९ टक्क्यांनी वाढते, ज्यामुळे खडकातील तड्यांवर प्रचंड अंतर्गत ताण येतो. ४) हा ताण सहन न झाल्यामुळे खडक तडकतो आणि त्याचे तुकडे होतात."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "सागरी किनारी भागात होणाऱ्या कायिक विदारणाचे स्वरूप स्पष्ट करा.",
+      "answer": "सागरी किनारी भागात क्षारांच्या स्फटिकीकरणामुळे कायिक विदारण होते. १) सागरी लाटांचे पाणी खडकावर आदळते तेव्हा त्यातील क्षारयुक्त तुषार खडकाच्या भेगांत साचतात. २) सूर्याच्या उष्णतेमुळे पाण्याची वाफ होते व क्षारांचे स्फटिकीकरण सुरू होते. ३) हे स्फटिक वाढत असताना ते खडकातील कणांवर दाब निर्माण करतात. ४) यामुळे खडकाचा पृष्ठभाग मऊ होतो आणि तिथे अनेक छिद्रे पडतात. यालाच खडकावर मधाच्या पोळ्यासारखा आकार तयार होणे असेही म्हणतात."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "द्रवीकरण (Solution) म्हणजे काय? उदाहरणासह स्पष्ट करा.",
+      "answer": "खडकातील विद्राव्य खनिजे पाण्यात विरघळून वाहून जाण्याच्या क्रियेला द्रवीकरण म्हणतात. १) खडकांमधील काही खनिजे (उदा. मीठ, क्षार) पाण्यात सहज विरघळतात. २) पावसाच्या पाण्यासोबत ही खनिजे द्रावण स्वरूपात वाहून जातात. ३) यामुळे खडक सच्छिद्र आणि ठिसूळ होतो. ४) अहमदनगर जिल्ह्यातील वडगाव दर्या येथे चुनखडीचे अशा प्रकारे द्रवीकरण होऊन पुन्हा अवक्षेपण झाल्यामुळे लवणस्तंभ तयार झाले आहेत."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "भस्मीकरण (Oxidation) प्रक्रियेचे भौगोलिक महत्त्व लिहा.",
+      "answer": "भस्मीकरण ही एक महत्त्वाची रासायनिक विदारण प्रक्रिया आहे. १) ज्या खडकात लोहाचे (Iron) प्रमाण जास्त असते, तिथे ही प्रक्रिया प्रामुख्याने घडते. २) खडकातील लोहाचा हवा किंवा पाण्यातील ऑक्सिजनशी संपर्क आल्यावर त्यातून लोह ऑक्साईड तयार होते. ३) यामुळे खडकावर तांबूस किंवा तपकिरी रंगाचा थर येतो, ज्याला आपण 'गंजणे' म्हणतो. ४) गंजल्यामुळे खडकाचा मूळ कडकपणा नाहीसा होतो आणि तो सहज भुगा होऊ शकतो. जास्त पावसाच्या प्रदेशात हे विदारण वेगाने होते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "कणात्मक विदारण (Granular Weathering) म्हणजे काय? ते कशामुळे घडते?",
+      "answer": "खडक कणाकणाने फुटून विलग होण्याच्या प्रक्रियेला कणात्मक विदारण म्हणतात. १) खडक हे अनेक खनिजांच्या मिश्रणाने बनलेले असतात. २) काही प्रदेशात केवळ तापमान किंवा केवळ पाणी यामुळे विदारण होत नाही, तर दोन्ही घटकांचा एकत्र परिणाम होतो. ३) खडकातील वेगवेगळ्या खनिजांचा प्रसरण दर वेगळा असल्याने त्यांच्या जोडांमध्ये ताण येतो. ४) जेव्हा पाणी अशा जोडांमध्ये शिरते, तेव्हा खडकातील कण एकमेकांपासून सुटे होऊन खडक वाळूसारखा विखुरला जातो."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "विस्तृत झीजेवर परिणाम करणाऱ्या घटकांची चर्चा करा.",
+      "answer": "विस्तृत झीज होण्यासाठी अनेक भौगोलिक घटक कारणीभूत असतात. १) उताराची तीव्रता: उतार जेवढा जास्त, तेवढी झीज वेगाने होते. २) पर्जन्यमान: अतिवृष्टीमुळे विदारित पदार्थात पाणी मुरून त्याचे वजन वाढते आणि ते घसरण्यास मदत होते. ३) वनस्पतींचा अभाव: झाडे नसल्यास माती सुटी होते आणि सहज वाहून जाते. ४) खडकाची संरचना: ठिसूळ किंवा भेगा असलेले खडक लवकर खाली कोसळतात. ५) भूकंप: भूकंपाच्या धक्क्यांमुळे डोंगरावरील स्थिर माल अस्थिर होतो आणि विस्तृत झीज घडते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "कार्बनन (Carbonation) प्रक्रिया सविस्तर स्पष्ट करा.",
+      "answer": "पावसाचे पाणी जमिनीवर येताना हवेतील विविध वायू त्यात मिसळतात. १) ढगातून खाली येताना पावसाचे पाणी हवेतील कार्बन डायऑक्साइड वायू शोषून घेते. २) यामुळे पाण्यात सौम्य कर्बाम्ल (Carbonic Acid) तयार होते. ३) हे आम्लयुक्त पाणी जेव्हा चुनखडीसारख्या (Limestone) खडकांवर पडते, तेव्हा रासायनिक अभिक्रिया होऊन चुनखडी विरघळते. ४) या प्रक्रियेमुळे खडकाचे रासायनिक विघटन होते. चुनखडीच्या प्रदेशात ही प्रक्रिया सर्वाधिक प्रभावी असते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "दाबमुक्तीमुळे (Pressure Release) विदारण कसे घडते?",
+      "answer": "दाबमुक्ती हे कायिक विदारणाचे एक महत्त्वाचे कारण आहे. १) भूपृष्ठाखालील खडकांवर वरच्या थरांचा प्रचंड दाब असतो. २) जेव्हा खनन प्रक्रिया किंवा मानवी हस्तक्षेपामुळे वरचे थर निघून जातात, तेव्हा खालच्या खडकावरील दाब कमी होतो. ३) दाब कमी झाल्यामुळे हा खडक प्रसरण पावण्याचा प्रयत्न करतो आणि त्यात भेगा किंवा जोड निर्माण होतात. ४) यामुळे खडक कमकुवत होतो आणि विदारण प्रक्रियेला सुरुवात होते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "खंड-विखंडन (Block Disintegration) म्हणजे काय?",
+      "answer": "खडकाचे मोठे तुकडे होऊन ते एकमेकांपासून विलग होणे म्हणजे खंड-विखंडन होय. १) तापमान बदलामुळे खडकातील खनिजांचे आकुंचन-प्रसरण होते. २) यामुळे खडकातील सांधे किंवा जोड रुंदावतात. ३) पाणी या सांध्यामध्ये शिरल्यावर खडकाचे मोठे चौकोनी किंवा आयताकृती तुकडे मूळ खडकापासून वेगळे होतात. ४) ज्या प्रदेशात खडक सांधेयुक्त असतात आणि तापमानकक्षा जास्त असते, तिथे हे विदारण मोठ्या प्रमाणावर दिसते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "बाह्यप्रक्रियेचे भूपृष्ठावरील परिणाम स्पष्ट करा.",
+      "answer": "बाह्यप्रक्रिया भूपृष्ठात सतत बदल घडवून आणतात. १) या प्रक्रियांमुळे उंचवटे झिजतात आणि सखल भाग भरले जातात. २) विदारणामुळे खडकांचा चुरा होऊन मृदेच्या निर्मितीची प्रक्रिया सुरू होते. ३) खननामुळे नवनवीन भूरूपे (उदा. दऱ्या, डोंगरकडे) तयार होतात. ४) प्राथमिक व द्वितीयक भूरूपांचे रूपांतर तृतीयक भूरूपात होते. ५) बाह्यप्रक्रिया मानवासाठी जमिनीची सुपीकता वाढवण्यास आणि खनिजे उपलब्ध करून देण्यास मदत करतात."
+    }
+
+  ]
+}

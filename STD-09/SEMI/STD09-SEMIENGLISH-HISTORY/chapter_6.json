@@ -1,0 +1,1038 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Semi-English.06",
+    "standard": "9",
+    "subject": "History",
+    "medium": "Semi-English",
+    "chapter_name": "महिला व अन्य दुर्बल घटकांचे सशक्तीकरण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "स्वातंत्र्यलढ्यात स्त्रियांनी कसा सहभाग घेतला?",
+      "options": [
+        { "option_id": 1, "text": "मर्यादित", "is_correct": false },
+        { "option_id": 2, "text": "नगण्य", "is_correct": false },
+        { "option_id": 3, "text": "मोठ्या प्रमाणात", "is_correct": true },
+        { "option_id": 4, "text": "कधीच नाही", "is_correct": false }
+      ],
+      "answer": "मोठ्या प्रमाणात"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "लाटणे मोर्चा कोणत्या वर्षी काढण्यात आला?",
+      "options": [
+        { "option_id": 1, "text": "१९७०", "is_correct": false },
+        { "option_id": 2, "text": "१९७२", "is_correct": true },
+        { "option_id": 3, "text": "१९७५", "is_correct": false },
+        { "option_id": 4, "text": "१९८४", "is_correct": false }
+      ],
+      "answer": "१९७२"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लाटणे मोर्चाचे नेतृत्व कोणी केले?",
+      "options": [
+        { "option_id": 1, "text": "सुचेता कृपलानी", "is_correct": false },
+        { "option_id": 2, "text": "प्रमिला दंडवते", "is_correct": false },
+        { "option_id": 3, "text": "मृणाल गोरे", "is_correct": true },
+        { "option_id": 4, "text": "विद्या बाळ", "is_correct": false }
+      ],
+      "answer": "मृणाल गोरे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चिपको आंदोलन कोणत्या वर्षी सुरू झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९६१", "is_correct": false },
+        { "option_id": 2, "text": "१९७३", "is_correct": true },
+        { "option_id": 3, "text": "१९७५", "is_correct": false },
+        { "option_id": 4, "text": "१९९३", "is_correct": false }
+      ],
+      "answer": "१९७३"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "चिपको आंदोलनात स्त्रियांनी कोणते तंत्र अवलंबले?",
+      "options": [
+        { "option_id": 1, "text": "झाडांना मिठी मारणे", "is_correct": true },
+        { "option_id": 2, "text": "उपोषण", "is_correct": false },
+        { "option_id": 3, "text": "संप", "is_correct": false },
+        { "option_id": 4, "text": "निवेदन देणे", "is_correct": false }
+      ],
+      "answer": "झाडांना मिठी मारणे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मद्यपानविरोधी चळवळ कोणत्या वर्षी आंध्र प्रदेशात सुरू झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९८८", "is_correct": false },
+        { "option_id": 2, "text": "१९९२", "is_correct": true },
+        { "option_id": 3, "text": "१९७३", "is_correct": false },
+        { "option_id": 4, "text": "२००१", "is_correct": false }
+      ],
+      "answer": "१९९२"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "अरक विरोधी आंदोलन कोणत्या जिल्ह्यातील गावातून सुरू झाले?",
+      "options": [
+        { "option_id": 1, "text": "नेल्लोर जिल्हा", "is_correct": true },
+        { "option_id": 2, "text": "मुंबई", "is_correct": false },
+        { "option_id": 3, "text": "पुणे", "is_correct": false },
+        { "option_id": 4, "text": "कोल्हापूर", "is_correct": false }
+      ],
+      "answer": "नेल्लोर जिल्हा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "संयुक्त राष्ट्रांनी १९७५ हे वर्ष कसे घोषित केले?",
+      "options": [
+        { "option_id": 1, "text": "आंतरराष्ट्रीय शिक्षण वर्ष", "is_correct": false },
+        { "option_id": 2, "text": "आंतरराष्ट्रीय महिला वर्ष", "is_correct": true },
+        { "option_id": 3, "text": "मानवाधिकार वर्ष", "is_correct": false },
+        { "option_id": 4, "text": "बालक वर्ष", "is_correct": false }
+      ],
+      "answer": "आंतरराष्ट्रीय महिला वर्ष"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भारत सरकारने महिला आयोगाची स्थापना कोणाच्या अध्यक्षतेखाली केली?",
+      "options": [
+        { "option_id": 1, "text": "डॉ. फुलरेणू गुहा", "is_correct": true },
+        { "option_id": 2, "text": "ममता बॅनर्जी", "is_correct": false },
+        { "option_id": 3, "text": "उमा भारती", "is_correct": false },
+        { "option_id": 4, "text": "शीला दीक्षित", "is_correct": false }
+      ],
+      "answer": "डॉ. फुलरेणू गुहा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हुंडा प्रतिबंधक कायदा कोणत्या वर्षी करण्यात आला?",
+      "options": [
+        { "option_id": 1, "text": "१९५२", "is_correct": false },
+        { "option_id": 2, "text": "१९६१", "is_correct": true },
+        { "option_id": 3, "text": "१९८४", "is_correct": false },
+        { "option_id": 4, "text": "१९९०", "is_correct": false }
+      ],
+      "answer": "१९६१"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भारतीय संविधानाच्या कोणत्या अनुच्छेदानुसार अस्पृश्यता नष्ट करण्यात आली?",
+      "options": [
+        { "option_id": 1, "text": "अनुच्छेद १७", "is_correct": true },
+        { "option_id": 2, "text": "अनुच्छेद १९", "is_correct": false },
+        { "option_id": 3, "text": "अनुच्छेद २१", "is_correct": false },
+        { "option_id": 4, "text": "अनुच्छेद ७४", "is_correct": false }
+      ],
+      "answer": "अनुच्छेद १७"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "स्थानिक शासन संस्थांमध्ये महिलांसाठी किती जागा राखीव ठेवण्यात आल्या?",
+      "options": [
+        { "option_id": 1, "text": "एक तृतीयांश", "is_correct": true },
+        { "option_id": 2, "text": "अर्ध्या", "is_correct": false },
+        { "option_id": 3, "text": "सर्व", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "एक तृतीयांश"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रासह किती राज्यांत महिलांसाठी ५० टक्के आरक्षण देण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "५ राज्ये", "is_correct": false },
+        { "option_id": 2, "text": "१० राज्ये", "is_correct": false },
+        { "option_id": 3, "text": "१५ राज्ये", "is_correct": true },
+        { "option_id": 4, "text": "२० राज्ये", "is_correct": false }
+      ],
+      "answer": "१५ राज्ये"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कौटुंबिक न्यायालयांची स्थापना कोणत्या वर्षी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९८०", "is_correct": false },
+        { "option_id": 2, "text": "१९८४", "is_correct": true },
+        { "option_id": 3, "text": "१९९३", "is_correct": false },
+        { "option_id": 4, "text": "२००१", "is_correct": false }
+      ],
+      "answer": "१९८४"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सती प्रथेच्या विरोधात कोणत्या वर्षी सुधारणा कायदा संमत झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९८७", "is_correct": false },
+        { "option_id": 2, "text": "१९८८", "is_correct": true },
+        { "option_id": 3, "text": "१९९०", "is_correct": false },
+        { "option_id": 4, "text": "१९७५", "is_correct": false }
+      ],
+      "answer": "१९८८"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पोटगी संदर्भातील शाहबानो खटला कोणत्या वर्षी झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९८५", "is_correct": true },
+        { "option_id": 2, "text": "१९९२", "is_correct": false },
+        { "option_id": 3, "text": "१९९३", "is_correct": false },
+        { "option_id": 4, "text": "२००१", "is_correct": false }
+      ],
+      "answer": "१९८५"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मानव अधिकार संरक्षण कायदा कोणत्या वर्षी करण्यात आला?",
+      "options": [
+        { "option_id": 1, "text": "१९९३", "is_correct": true },
+        { "option_id": 2, "text": "१९८४", "is_correct": false },
+        { "option_id": 3, "text": "१९६१", "is_correct": false },
+        { "option_id": 4, "text": "१९७३", "is_correct": false }
+      ],
+      "answer": "१९९३"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भटक्या जातींवर ब्रिटिशांनी कोणत्या वर्षी निर्बंध आणले?",
+      "options": [
+        { "option_id": 1, "text": "१८७१", "is_correct": true },
+        { "option_id": 2, "text": "१९५२", "is_correct": false },
+        { "option_id": 3, "text": "१९६१", "is_correct": false },
+        { "option_id": 4, "text": "१९७५", "is_correct": false }
+      ],
+      "answer": "१८७१"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भटक्या जातींचा विमुक्त जातींमध्ये समावेश केव्हा करण्यात आला?",
+      "options": [
+        { "option_id": 1, "text": "स्वातंत्र्योत्तर काळात", "is_correct": true },
+        { "option_id": 2, "text": "१९७२", "is_correct": false },
+        { "option_id": 3, "text": "१९८८", "is_correct": false },
+        { "option_id": 4, "text": "२००१", "is_correct": false }
+      ],
+      "answer": "स्वातंत्र्योत्तर काळात"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "अल्पसंख्याकांना कोणते हक्क संविधानाने दिले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "फक्त राजकीय हक्क", "is_correct": false },
+        { "option_id": 2, "text": "सांस्कृतिक व शैक्षणिक हक्क", "is_correct": true },
+        { "option_id": 3, "text": "फक्त धार्मिक हक्क", "is_correct": false },
+        { "option_id": 4, "text": "कोणतेही हक्क नाहीत", "is_correct": false }
+      ],
+      "answer": "सांस्कृतिक व शैक्षणिक हक्क"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "हुंडाबंदी सुधारणा कायदा कोणत्या वर्षी संमत झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९८१", "is_correct": false },
+        { "option_id": 2, "text": "१९८४", "is_correct": true },
+        { "option_id": 3, "text": "१९९३", "is_correct": false },
+        { "option_id": 4, "text": "२००१", "is_correct": false }
+      ],
+      "answer": "१९८४"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "प्रसूती सुविधा अधिनियम कोणत्या वर्षी अस्तित्वात आला?",
+      "options": [
+        { "option_id": 1, "text": "१९६१", "is_correct": true },
+        { "option_id": 2, "text": "१९५२", "is_correct": false },
+        { "option_id": 3, "text": "१९८४", "is_correct": false },
+        { "option_id": 4, "text": "१९९२", "is_correct": false }
+      ],
+      "answer": "१९६१"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "भटक्या जमाती मुख्यतः कोणत्या व्यवसायांवर अवलंबून असतात?",
+      "options": [
+        { "option_id": 1, "text": "शेअर बाजार", "is_correct": false },
+        { "option_id": 2, "text": "पशुपालन व छोटे व्यवसाय", "is_correct": true },
+        { "option_id": 3, "text": "औद्योगिक कारखाने", "is_correct": false },
+        { "option_id": 4, "text": "परकीय व्यापार", "is_correct": false }
+      ],
+      "answer": "पशुपालन व छोटे व्यवसाय"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "हुंडाबंदी कायदा कोणत्या प्रकारचा गुन्हा मानतो?",
+      "options": [
+        { "option_id": 1, "text": "नागरी गुन्हा", "is_correct": false },
+        { "option_id": 2, "text": "फौजदारी गुन्हा", "is_correct": true },
+        { "option_id": 3, "text": "आर्थिक गुन्हा", "is_correct": false },
+        { "option_id": 4, "text": "राजकीय गुन्हा", "is_correct": false }
+      ],
+      "answer": "फौजदारी गुन्हा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "महिलांच्या सामूहिक शक्तीचा आविष्कार प्रथम कोणत्या आंदोलनातून दिसून आला?",
+      "options": [
+        { "option_id": 1, "text": "चिपको आंदोलन", "is_correct": false },
+        { "option_id": 2, "text": "लाटणे मोर्चा", "is_correct": true },
+        { "option_id": 3, "text": "भूदान चळवळ", "is_correct": false },
+        { "option_id": 4, "text": "अारक विरोधी आंदोलन", "is_correct": false }
+      ],
+      "answer": "लाटणे मोर्चा"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "तेलंगणातील मुक्तिलढ्यात स्त्रियांचा सहभाग कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "लक्षणीय", "is_correct": true },
+        { "option_id": 2, "text": "मर्यादित", "is_correct": false },
+        { "option_id": 3, "text": "नगण्य", "is_correct": false },
+        { "option_id": 4, "text": "सहभाग नव्हता", "is_correct": false }
+      ],
+      "answer": "लक्षणीय"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "मद्यपानविरोधी आंदोलनाचा सर्वाधिक फटका कोणाला बसतो?",
+      "options": [
+        { "option_id": 1, "text": "पुरुषांना", "is_correct": false },
+        { "option_id": 2, "text": "स्त्रियांना", "is_correct": true },
+        { "option_id": 3, "text": "सरकारला", "is_correct": false },
+        { "option_id": 4, "text": "उद्योजकांना", "is_correct": false }
+      ],
+      "answer": "स्त्रियांना"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "आसाम करार कोणत्या वर्षी झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९८४", "is_correct": false },
+        { "option_id": 2, "text": "१९८५", "is_correct": true },
+        { "option_id": 3, "text": "१९९२", "is_correct": false },
+        { "option_id": 4, "text": "१९७५", "is_correct": false }
+      ],
+      "answer": "१९८५"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रात रोजगार हमी योजना कशासाठी उपयोगी ठरली?",
+      "options": [
+        { "option_id": 1, "text": "औद्योगिक विकास", "is_correct": false },
+        { "option_id": 2, "text": "स्त्री सबलीकरण", "is_correct": true },
+        { "option_id": 3, "text": "शेती उत्पादन", "is_correct": false },
+        { "option_id": 4, "text": "शहर विकास", "is_correct": false }
+      ],
+      "answer": "स्त्री सबलीकरण"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "महिलांना मतदानाचा हक्क कशामुळे मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "ब्रिटिश कायद्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "संविधानातील समतेच्या तत्त्वांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "WTO मुळे", "is_correct": false },
+        { "option_id": 4, "text": "बँक राष्ट्रीयीकरणामुळे", "is_correct": false }
+      ],
+      "answer": "संविधानातील समतेच्या तत्त्वांमुळे"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "१९९३ च्या संविधान दुरुस्तीने महिलांना कोणत्या क्षेत्रात आरक्षण मिळाले?",
+      "options": [
+        { "option_id": 1, "text": "लोकसभा", "is_correct": false },
+        { "option_id": 2, "text": "स्थानिक शासन संस्था", "is_correct": true },
+        { "option_id": 3, "text": "सर्वोच्च न्यायालय", "is_correct": false },
+        { "option_id": 4, "text": "औद्योगिक क्षेत्र", "is_correct": false }
+      ],
+      "answer": "स्थानिक शासन संस्था"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "स्त्रियांच्या अनेक समस्यांचे मूळ कशात दडले आहे?",
+      "options": [
+        { "option_id": 1, "text": "शासकीय धोरणात", "is_correct": false },
+        { "option_id": 2, "text": "पुरुषी मानसिकतेत", "is_correct": true },
+        { "option_id": 3, "text": "तंत्रज्ञानात", "is_correct": false },
+        { "option_id": 4, "text": "परकीय व्यापारात", "is_correct": false }
+      ],
+      "answer": "पुरुषी मानसिकतेत"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "भारत सरकारने महिलांसाठी विशेष परिषद कोणत्या वर्षी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९६१", "is_correct": false },
+        { "option_id": 2, "text": "१९७५", "is_correct": true },
+        { "option_id": 3, "text": "१९९२", "is_correct": false },
+        { "option_id": 4, "text": "२००१", "is_correct": false }
+      ],
+      "answer": "१९७५"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "चिपको आंदोलनाचा मुख्य उद्देश कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "जंगल संरक्षण", "is_correct": true },
+        { "option_id": 2, "text": "बँक सुधारणा", "is_correct": false },
+        { "option_id": 3, "text": "निवडणूक सुधारणा", "is_correct": false },
+        { "option_id": 4, "text": "दारूबंदी", "is_correct": false }
+      ],
+      "answer": "जंगल संरक्षण"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "मानवाधिकार आयोगाची स्थापना कोणत्या कायद्यामुळे झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९६१ कायदा", "is_correct": false },
+        { "option_id": 2, "text": "१९९३ चा मानव अधिकार संरक्षण कायदा", "is_correct": true },
+        { "option_id": 3, "text": "१९८४ चा कौटुंबिक न्यायालय कायदा", "is_correct": false },
+        { "option_id": 4, "text": "१८७१ चा गुन्हेगारी जमात कायदा", "is_correct": false }
+      ],
+      "answer": "१९९३ चा मानव अधिकार संरक्षण कायदा"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "भटक्या जमातींवरील अन्यायकारक ब्रिटिश कायदा कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "गुन्हेगारी प्रतिबंधक कायदा १८७१", "is_correct": true },
+        { "option_id": 2, "text": "हुंडा प्रतिबंधक कायदा १९६१", "is_correct": false },
+        { "option_id": 3, "text": "सती प्रतिबंधक कायदा १९८८", "is_correct": false },
+        { "option_id": 4, "text": "कौटुंबिक न्यायालय कायदा १९८४", "is_correct": false }
+      ],
+      "answer": "गुन्हेगारी प्रतिबंधक कायदा १८७१"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "संविधानाच्या ७३ व ७४ व्या दुरुस्तीने काय साध्य झाले?",
+      "options": [
+        { "option_id": 1, "text": "महिलांना स्थानिक आरक्षण", "is_correct": true },
+        { "option_id": 2, "text": "बँकांचे खासगीकरण", "is_correct": false },
+        { "option_id": 3, "text": "उद्योगधंद्यांचे राष्ट्रीयीकरण", "is_correct": false },
+        { "option_id": 4, "text": "परकीय व्यापार वाढ", "is_correct": false }
+      ],
+      "answer": "महिलांना स्थानिक आरक्षण"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रात महिलांनी संघटित ताकद कोणत्या मोर्चातून दाखवली?",
+      "options": [
+        { "option_id": 1, "text": "अरक विरोधी आंदोलन", "is_correct": false },
+        { "option_id": 2, "text": "लाटणे मोर्चा", "is_correct": true },
+        { "option_id": 3, "text": "नक्षलवादी आंदोलन", "is_correct": false },
+        { "option_id": 4, "text": "आसाम आंदोलन", "is_correct": false }
+      ],
+      "answer": "लाटणे मोर्चा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "भूदान चळवळीत स्त्रीशक्तीचा उपयोग कोणी केला?",
+      "options": [
+        { "option_id": 1, "text": "विनोबा भावे", "is_correct": true },
+        { "option_id": 2, "text": "चंडिप्रसाद भट्ट", "is_correct": false },
+        { "option_id": 3, "text": "सुंदरलाल बहुगुणा", "is_correct": false },
+        { "option_id": 4, "text": "प्रमिला दंडवते", "is_correct": false }
+      ],
+      "answer": "विनोबा भावे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रात स्त्रीमुक्ती संघर्ष समितीचे मुखपत्र कोणते होते?",
+      "options": [
+        { "option_id": 1, "text": "मिळून साऱ्याजणी", "is_correct": false },
+        { "option_id": 2, "text": "प्रेरक ललकारी", "is_correct": true },
+        { "option_id": 3, "text": "बायजा", "is_correct": false },
+        { "option_id": 4, "text": "दृष्टी", "is_correct": false }
+      ],
+      "answer": "प्रेरक ललकारी"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "हुंडाबंदी सुधारणा कायदा अस्तित्वात आल्याने कोणता परिणाम झाला?",
+      "options": [
+        { "option_id": 1, "text": "स्त्रियांवरील त्रास कमी झाला", "is_correct": true },
+        { "option_id": 2, "text": "दारूविक्री वाढली", "is_correct": false },
+        { "option_id": 3, "text": "उद्योगधंदे बंद पडले", "is_correct": false },
+        { "option_id": 4, "text": "परकीय व्यापार घटला", "is_correct": false }
+      ],
+      "answer": "स्त्रियांवरील त्रास कमी झाला"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "अरक विरोधी आंदोलनाचे यश कोणत्या गोष्टीत होते?",
+      "options": [
+        { "option_id": 1, "text": "अरक दुकान बंद करणे", "is_correct": true },
+        { "option_id": 2, "text": "परकीय गुंतवणूक वाढवणे", "is_correct": false },
+        { "option_id": 3, "text": "नवे शैक्षणिक धोरण", "is_correct": false },
+        { "option_id": 4, "text": "नक्षलवाद समाप्ती", "is_correct": false }
+      ],
+      "answer": "अरक दुकान बंद करणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय महिला दिन कोणत्या तारखेला साजरा होतो?",
+      "options": [
+        { "option_id": 1, "text": "२६ जानेवारी", "is_correct": false },
+        { "option_id": 2, "text": "८ मार्च", "is_correct": true },
+        { "option_id": 3, "text": "४ सप्टेंबर", "is_correct": false },
+        { "option_id": 4, "text": "१ मे", "is_correct": false }
+      ],
+      "answer": "८ मार्च"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "भारताच्या संविधानाने स्त्रियांना कोणते महत्त्वाचे हक्क दिले?",
+      "options": [
+        { "option_id": 1, "text": "सांस्कृतिक हक्क", "is_correct": false },
+        { "option_id": 2, "text": "राजकीय व सामाजिक समानतेचे हक्क", "is_correct": true },
+        { "option_id": 3, "text": "व्यापारी हक्क", "is_correct": false },
+        { "option_id": 4, "text": "अणु संशोधन हक्क", "is_correct": false }
+      ],
+      "answer": "राजकीय व सामाजिक समानतेचे हक्क"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "भटक्या जमातींच्या विकासासाठी कोणते उपाय आवश्यक आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षण व रोजगार संधी", "is_correct": true },
+        { "option_id": 2, "text": "परकीय व्यापार", "is_correct": false },
+        { "option_id": 3, "text": "बँकांचे खासगीकरण", "is_correct": false },
+        { "option_id": 4, "text": "स्पर्धा वाढ", "is_correct": false }
+      ],
+      "answer": "शिक्षण व रोजगार संधी"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "अल्पसंख्याकांना स्वतःच्या शिक्षण संस्था स्थापन करण्याचा हक्क कशासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "भाषा आणि संस्कृतीचे संरक्षण", "is_correct": true },
+        { "option_id": 2, "text": "नफा मिळवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "लष्करी प्रशिक्षणासाठी", "is_correct": false },
+        { "option_id": 4, "text": "परकीय गुंतवणुकीसाठी", "is_correct": false }
+      ],
+      "answer": "भाषा आणि संस्कृतीचे संरक्षण"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "१९८७ मधील रूपकुंवर घटना कोणत्या राज्यात घडली?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर प्रदेश", "is_correct": false },
+        { "option_id": 2, "text": "राजस्थान", "is_correct": true },
+        { "option_id": 3, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 4, "text": "बिहार", "is_correct": false }
+      ],
+      "answer": "राजस्थान"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "तेलंगणातील मुक्तिलढ्यात कोणती प्रथा रद्द झाली?",
+      "options": [
+        { "option_id": 1, "text": "बहुपत्नित्व", "is_correct": false },
+        { "option_id": 2, "text": "वेठबिगारी", "is_correct": true },
+        { "option_id": 3, "text": "हुंडा प्रथा", "is_correct": false },
+        { "option_id": 4, "text": "मद्यविक्री", "is_correct": false }
+      ],
+      "answer": "वेठबिगारी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "१९९२ मध्ये अरक विरोधी आंदोलनाचे कारण कोणती घटना ठरली?",
+      "options": [
+        { "option_id": 1, "text": "तीन तरुणांचा तळ्यात बुडून मृत्यू", "is_correct": true },
+        { "option_id": 2, "text": "बँकांचे राष्ट्रीयीकरण", "is_correct": false },
+        { "option_id": 3, "text": "शैक्षणिक धोरण बदल", "is_correct": false },
+        { "option_id": 4, "text": "महागाई कमी होणे", "is_correct": false }
+      ],
+      "answer": "तीन तरुणांचा तळ्यात बुडून मृत्यू"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "महिला बचत गटांचा मुख्य उद्देश कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "सामूहिक आर्थिक सबलीकरण", "is_correct": true },
+        { "option_id": 2, "text": "परकीय व्यापार", "is_correct": false },
+        { "option_id": 3, "text": "औद्योगिक स्पर्धा", "is_correct": false },
+        { "option_id": 4, "text": "धार्मिक प्रचार", "is_correct": false }
+      ],
+      "answer": "सामूहिक आर्थिक सबलीकरण"
+    },
+    { "question_id": 51, "question_type": "SHORT", "question": "या प्रकरणाचा मुख्य विषय कोणता आहे?", "answer": "या प्रकरणाचा मुख्य विषय महिला व इतर दुर्बल घटकांचे सशक्तीकरण हा आहे." },
+{ "question_id": 52, "question_type": "SHORT", "question": "स्वातंत्र्यलढ्यात स्त्रियांचा सहभाग कसा होता?", "answer": "स्वातंत्र्यलढ्यात स्त्रियांचा सहभाग लक्षणीय व प्रभावी होता." },
+{ "question_id": 53, "question_type": "SHORT", "question": "१९७२ मधील लाटणे मोर्चाचे कारण काय होते?", "answer": "मुंबईतील जीवनावश्यक वस्तूंच्या टंचाईमुळे लाटणे मोर्चा काढण्यात आला." },
+{ "question_id": 54, "question_type": "SHORT", "question": "लाटणे मोर्चाचे नेतृत्व कोणी केले?", "answer": "लाटणे मोर्चाचे नेतृत्व मृणाल गोरे यांनी केले." },
+{ "question_id": 55, "question_type": "SHORT", "question": "चिपको आंदोलन कोणत्या वर्षी सुरू झाले?", "answer": "चिपको आंदोलन १९७३ साली सुरू झाले." },
+{ "question_id": 56, "question_type": "SHORT", "question": "चिपको आंदोलनाचा उद्देश कोणता होता?", "answer": "चिपको आंदोलनाचा उद्देश जंगलांचे संरक्षण करणे हा होता." },
+{ "question_id": 57, "question_type": "SHORT", "question": "अरक विरोधी आंदोलन कोणत्या राज्यात सुरू झाले?", "answer": "अरक विरोधी आंदोलन आंध्र प्रदेश राज्यात सुरू झाले." },
+{ "question_id": 58, "question_type": "SHORT", "question": "अरक विरोधी आंदोलन केव्हा सुरू झाले?", "answer": "अरक विरोधी आंदोलन १९९२ साली सुरू झाले." },
+{ "question_id": 59, "question_type": "SHORT", "question": "संयुक्त राष्ट्रांनी १९७५ हे वर्ष कसे घोषित केले?", "answer": "संयुक्त राष्ट्रांनी १९७५ हे वर्ष आंतरराष्ट्रीय महिला वर्ष म्हणून घोषित केले." },
+{ "question_id": 60, "question_type": "SHORT", "question": "महिला आयोगाची स्थापना भारतात कोणत्या वर्षी झाली?", "answer": "भारत सरकारने महिला आयोगाची स्थापना १९७५ साली केली." },
+{ "question_id": 61, "question_type": "SHORT", "question": "हुंडा प्रतिबंधक कायदा कोणत्या वर्षी संमत झाला?", "answer": "हुंडा प्रतिबंधक कायदा १९६१ साली संमत झाला." },
+{ "question_id": 62, "question_type": "SHORT", "question": "हुंडाबंदी सुधारणा कायदा केव्हा करण्यात आला?", "answer": "हुंडाबंदी सुधारणा कायदा १९८४ साली करण्यात आला." },
+{ "question_id": 63, "question_type": "SHORT", "question": "प्रसूती सुविधा अधिनियम कोणत्या वर्षी अस्तित्वात आला?", "answer": "प्रसूती सुविधा अधिनियम १९६१ साली अस्तित्वात आला." },
+{ "question_id": 64, "question_type": "SHORT", "question": "कौटुंबिक न्यायालयांची स्थापना कोणत्या वर्षी झाली?", "answer": "कौटुंबिक न्यायालयांची स्थापना १९८४ साली झाली." },
+{ "question_id": 65, "question_type": "SHORT", "question": "शाहबानो खटला कोणत्या वर्षी झाला?", "answer": "शाहबानो खटला १९८५ साली झाला." },
+{ "question_id": 66, "question_type": "SHORT", "question": "मानव अधिकार संरक्षण कायदा केव्हा करण्यात आला?", "answer": "मानव अधिकार संरक्षण कायदा १९९३ साली करण्यात आला." },
+{ "question_id": 67, "question_type": "SHORT", "question": "संविधानाच्या कोणत्या अनुच्छेदानुसार अस्पृश्यता नष्ट करण्यात आली?", "answer": "संविधानाच्या अनुच्छेद १७ नुसार अस्पृश्यता नष्ट करण्यात आली." },
+{ "question_id": 68, "question_type": "SHORT", "question": "स्थानिक शासन संस्थांमध्ये महिलांना आरक्षण केव्हा मिळाले?", "answer": "स्थानिक शासन संस्थांमध्ये महिलांना १९९३ नंतर आरक्षण मिळाले." },
+{ "question_id": 69, "question_type": "SHORT", "question": "महाराष्ट्रासह किती राज्यांत महिलांसाठी ५० टक्के आरक्षण देण्यात आले?", "answer": "महाराष्ट्रासह सुमारे १५ राज्यांत महिलांसाठी ५० टक्के आरक्षण देण्यात आले." },
+{ "question_id": 70, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनाचे तात्काळ कारण कोणते होते?", "answer": "तीन तरुणांचा तळ्यात बुडून मृत्यू ही घटना आंदोलनाचे तात्काळ कारण ठरली." },
+
+{ "question_id": 71, "question_type": "SHORT", "question": "स्त्रीमुक्ती संघर्ष समितीचे मुखपत्र कोणते होते?", "answer": "स्त्रीमुक्ती संघर्ष समितीचे मुखपत्र प्रेरक ललकारी हे होते." },
+{ "question_id": 72, "question_type": "SHORT", "question": "महिला बचत गटांचा मुख्य हेतू काय आहे?", "answer": "महिला बचत गटांचा मुख्य हेतू सामूहिक आर्थिक सबलीकरण हा आहे." },
+{ "question_id": 73, "question_type": "SHORT", "question": "चिपको आंदोलनात स्त्रियांनी कोणती भूमिका बजावली?", "answer": "स्त्रियांनी झाडांना मिठी मारून जंगलतोड थांबवली." },
+{ "question_id": 74, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनात स्त्रियांनी काय मागणी केली?", "answer": "स्त्रियांनी अरक दुकाने बंद करण्याची मागणी केली." },
+{ "question_id": 75, "question_type": "SHORT", "question": "हुंडाबंदी कायदा कोणत्या प्रकारचा गुन्हा मानतो?", "answer": "हुंडाबंदी कायदा हुंडा घेणे-देणे हा फौजदारी गुन्हा मानतो." },
+{ "question_id": 76, "question_type": "SHORT", "question": "महिलांना मतदानाचा हक्क कशामुळे मिळाला?", "answer": "संविधानातील समतेच्या तत्त्वांमुळे महिलांना मतदानाचा हक्क मिळाला." },
+{ "question_id": 77, "question_type": "SHORT", "question": "महिलांसाठी स्थानिक शासन आरक्षण प्रथम कोणत्या दुरुस्तीने मिळाले?", "answer": "७३ व ७४ व्या संविधान दुरुस्तीने महिलांसाठी स्थानिक आरक्षण मिळाले." },
+{ "question_id": 78, "question_type": "SHORT", "question": "१९९२ मधील आंदोलनाचा परिणाम काय झाला?", "answer": "१९९२ मधील आंदोलनामुळे मद्यविक्रीवर निर्बंध आणण्यात आले." },
+{ "question_id": 79, "question_type": "SHORT", "question": "NCERT संस्था कशासाठी कार्य करते?", "answer": "NCERT संस्था शैक्षणिक संशोधन आणि प्रशिक्षणासाठी कार्य करते." },
+{ "question_id": 80, "question_type": "SHORT", "question": "बालभारती संस्थेची स्थापना कोणत्या हेतूने झाली?", "answer": "पाठ्यपुस्तक निर्मिती व अभ्यासक्रम सुधारणा या हेतूने बालभारती संस्था स्थापन झाली." },
+{ "question_id": 81, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनात महिलांची शक्ती कशी दिसून आली?", "answer": "महिलांनी संघटित होऊन सामाजिक प्रश्नावर प्रभावी आंदोलन केले." },
+{ "question_id": 82, "question_type": "SHORT", "question": "महिलांच्या समस्यांचे निराकरण करण्यासाठी कोणती पावले उचलली गेली?", "answer": "सरकारने कायदे, आयोग आणि विविध योजना सुरू केल्या." },
+{ "question_id": 83, "question_type": "SHORT", "question": "मध्यान्ह भोजन योजनेमुळे कोणता फायदा झाला?", "answer": "विद्यार्थ्यांचे पोषण सुधारले आणि शाळेतील उपस्थिती वाढली." },
+{ "question_id": 84, "question_type": "SHORT", "question": "शाहबानो खटल्याचे महत्त्व काय होते?", "answer": "महिलांच्या पोटगी हक्काबाबत हा खटला ऐतिहासिक ठरला." },
+{ "question_id": 85, "question_type": "SHORT", "question": "मानवाधिकार आयोग का स्थापन करण्यात आला?", "answer": "नागरिकांच्या मूलभूत हक्कांचे संरक्षण करण्यासाठी आयोग स्थापन झाला." },
+{ "question_id": 86, "question_type": "SHORT", "question": "चिपको आंदोलनाचा सामाजिक संदेश कोणता होता?", "answer": "निसर्ग संरक्षणात महिलांची भूमिका महत्त्वाची आहे हा संदेश मिळाला." },
+{ "question_id": 87, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनाचे स्वरूप कसे होते?", "answer": "हे आंदोलन ग्रामीण महिलांनी शांततापूर्ण पद्धतीने केले." },
+{ "question_id": 88, "question_type": "SHORT", "question": "महिला आयोगाची भूमिका काय आहे?", "answer": "महिलांच्या तक्रारींचे निवारण व धोरण सल्ला देणे ही आयोगाची भूमिका आहे." },
+{ "question_id": 89, "question_type": "SHORT", "question": "स्थानिक शासन आरक्षणामुळे महिलांमध्ये कोणता बदल झाला?", "answer": "महिलांचा राजकीय सहभाग आणि आत्मविश्वास वाढला." },
+{ "question_id": 90, "question_type": "SHORT", "question": "हुंडाबंदी कायद्यामुळे कोणता परिणाम साध्य झाला?", "answer": "महिलांवरील कौटुंबिक अत्याचार कमी होण्यास मदत झाली." },
+
+{ "question_id": 91, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनाची प्रेरणा कशातून मिळाली?", "answer": "सामाजिक अन्याय आणि दारूमुळे होणारा त्रास यातून प्रेरणा मिळाली." },
+{ "question_id": 92, "question_type": "SHORT", "question": "चिपको आंदोलनाचे नेतृत्व कोणत्या महिलांनी केले?", "answer": "गावातील स्थानिक महिलांनी आंदोलनाचे नेतृत्व केले." },
+{ "question_id": 93, "question_type": "SHORT", "question": "७३ व ७४ व्या दुरुस्तीचे मुख्य उद्दिष्ट काय होते?", "answer": "महिलांना सत्तेत योग्य प्रतिनिधित्व देणे हे उद्दिष्ट होते." },
+{ "question_id": 94, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनात सर्वाधिक सहभाग कोणाचा होता?", "answer": "अरक विरोधी आंदोलनात ग्रामीण महिलांचा सर्वाधिक सहभाग होता." },
+{ "question_id": 95, "question_type": "SHORT", "question": "महिलांचे आर्थिक सबलीकरण कशामुळे शक्य झाले?", "answer": "बचत गट आणि स्वयंरोजगार योजनांमुळे आर्थिक सबलीकरण शक्य झाले." },
+{ "question_id": 96, "question_type": "SHORT", "question": "मानवाधिकार संरक्षण कायदा कोणासाठी उपयुक्त आहे?", "answer": "हा कायदा सर्व नागरिकांच्या हक्कांसाठी उपयुक्त आहे." },
+{ "question_id": 97, "question_type": "SHORT", "question": "शिक्षण प्रसारात कोणती माध्यमे उपयोगी ठरली?", "answer": "दूरदर्शन, उपग्रह आणि इंटरनेट ही माध्यमे उपयोगी ठरली." },
+{ "question_id": 98, "question_type": "SHORT", "question": "हुंडा प्रतिबंधक कायद्याची गरज का होती?", "answer": "महिलांवरील अन्याय थांबवण्यासाठी या कायद्याची गरज होती." },
+{ "question_id": 99, "question_type": "SHORT", "question": "शाहबानो खटल्यानंतर कोणता मुद्दा पुढे आला?", "answer": "मुस्लिम महिलांच्या अधिकारांचा मुद्दा प्रकर्षाने पुढे आला." },
+{ "question_id": 100, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनामुळे कोणते दुकान बंद झाले?", "answer": "आंदोलनामुळे अरक विक्रीची दुकाने बंद करण्यात आली." },
+
+{ "question_id": 101, "question_type": "SHORT", "question": "महिलांना शिक्षण क्षेत्रात कोणत्या संधी मिळाल्या?", "answer": "स्वातंत्र्यानंतर महिलांना शिक्षणाच्या अनेक नव्या संधी मिळाल्या." },
+{ "question_id": 102, "question_type": "SHORT", "question": "चिपको आंदोलनात कोणती प्रमुख मागणी होती?", "answer": "जंगलतोड थांबवणे ही प्रमुख मागणी होती." },
+{ "question_id": 103, "question_type": "SHORT", "question": "मध्यान्ह भोजन योजनेचा उद्देश कोणता होता?", "answer": "गरीब विद्यार्थ्यांचे पोषण सुधारणे हा उद्देश होता." },
+{ "question_id": 104, "question_type": "SHORT", "question": "स्थानिक शासन आरक्षणामुळे कोणता घटक सशक्त झाला?", "answer": "स्थानिक शासन आरक्षणामुळे महिला घटक सशक्त झाला." },
+{ "question_id": 105, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनाची सुरुवात कोणी केली?", "answer": "अरक विरोधी आंदोलनाची सुरुवात नेल्लोर जिल्ह्यातील महिलांनी केली." },
+{ "question_id": 106, "question_type": "SHORT", "question": "हुंडा प्रतिबंधक कायदा कोणत्या गोष्टीवर बंदी घालतो?", "answer": "हा कायदा हुंडा घेणे व देणे यावर बंदी घालतो." },
+{ "question_id": 107, "question_type": "SHORT", "question": "शिक्षण संक्रमण मासिकाचा उपयोग कशासाठी होतो?", "answer": "हे मासिक शिक्षकांना शैक्षणिक बदलांचे मार्गदर्शन करण्यासाठी उपयोगी ठरते." },
+{ "question_id": 108, "question_type": "SHORT", "question": "१९९३ मध्ये महिलांना कोणत्या क्षेत्रात आरक्षण मिळाले?", "answer": "१९९३ मध्ये महिलांना स्थानिक शासन संस्थांमध्ये आरक्षण मिळाले." },
+{ "question_id": 109, "question_type": "SHORT", "question": "चिपको आंदोलनामुळे कोणता परिणाम झाला?", "answer": "चिपको आंदोलनामुळे जंगल संरक्षणाची जाणीव वाढली." },
+{ "question_id": 110, "question_type": "SHORT", "question": "महिलांच्या सबलीकरणासाठी कोणती चळवळ प्रभावी ठरली?", "answer": "अरक विरोधी आणि चिपको चळवळ प्रभावी ठरल्या." },
+
+{ "question_id": 111, "question_type": "SHORT", "question": "स्वयंसेवी संस्थांनी महिलांसाठी काय केले?", "answer": "स्वयंसेवी संस्थांनी महिलांना संघटित करून त्यांचे प्रश्न मांडले." },
+{ "question_id": 112, "question_type": "SHORT", "question": "महिलांचा राजकीय सहभाग कशामुळे वाढला?", "answer": "आरक्षण आणि शिक्षण प्रसारामुळे महिलांचा राजकीय सहभाग वाढला." },
+{ "question_id": 113, "question_type": "SHORT", "question": "हुंडाबंदी सुधारणा कायदा कोणत्या वर्षी झाला?", "answer": "हुंडाबंदी सुधारणा कायदा १९८४ साली झाला." },
+{ "question_id": 114, "question_type": "SHORT", "question": "शाहबानो खटला कोणत्या विषयाशी संबंधित होता?", "answer": "शाहबानो खटला पोटगी आणि महिलांच्या कायदेशीर हक्कांशी संबंधित होता." },
+{ "question_id": 115, "question_type": "SHORT", "question": "मानवाधिकार आयोग कोणत्या कायद्यामुळे स्थापन झाला?", "answer": "मानवाधिकार आयोग १९९३ च्या मानव अधिकार संरक्षण कायद्यामुळे स्थापन झाला." },
+{ "question_id": 116, "question_type": "SHORT", "question": "चिपको आंदोलनाचे स्वरूप कसे होते?", "answer": "चिपको आंदोलन शांततापूर्ण आणि अहिंसक स्वरूपाचे होते." },
+{ "question_id": 117, "question_type": "SHORT", "question": "मध्यान्ह भोजन योजनेमुळे शिक्षणात कोणता बदल झाला?", "answer": "योजनेमुळे विद्यार्थ्यांचा शिक्षणातील टिकाव वाढला." },
+{ "question_id": 118, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनात महिलांनी कोणती मागणी लावून धरली?", "answer": "दारूविक्री बंद करण्याची मागणी महिलांनी लावून धरली." },
+{ "question_id": 119, "question_type": "SHORT", "question": "स्थानिक शासन संस्थांमध्ये महिलांसाठी आरक्षणाचे प्रमाण किती आहे?", "answer": "स्थानिक शासन संस्थांमध्ये महिलांसाठी किमान एक तृतीयांश आरक्षण आहे." },
+{ "question_id": 120, "question_type": "SHORT", "question": "१९७५ वर्ष महिलांसाठी का महत्त्वाचे ठरले?", "answer": "१९७५ हे वर्ष आंतरराष्ट्रीय महिला वर्ष म्हणून घोषित झाल्याने महत्त्वाचे ठरले." },
+
+{ "question_id": 121, "question_type": "SHORT", "question": "शिक्षण व्यवस्थेत महिलांना समान हक्क कशामुळे मिळाले?", "answer": "संविधानातील समता तत्त्वांमुळे महिलांना समान हक्क मिळाले." },
+{ "question_id": 122, "question_type": "SHORT", "question": "महिलांच्या सशक्तीकरणासाठी बचत गट का महत्त्वाचे आहेत?", "answer": "बचत गटांमुळे महिलांचे आर्थिक व सामाजिक सबलीकरण होते." },
+{ "question_id": 123, "question_type": "SHORT", "question": "चिपको आंदोलनात कोणत्या घटकाने नेतृत्व केले?", "answer": "चिपको आंदोलनात महिलांनी नेतृत्व केले." },
+{ "question_id": 124, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनात कोणत्या पद्धतीचा वापर झाला?", "answer": "अरक विरोधी आंदोलनात शांततापूर्ण निदर्शने करण्यात आली." },
+{ "question_id": 125, "question_type": "SHORT", "question": "हुंडाबंदी कायद्याची अंमलबजावणी कशासाठी झाली?", "answer": "महिलांवरील अन्याय थांबवण्यासाठी अंमलबजावणी झाली." },
+{ "question_id": 126, "question_type": "SHORT", "question": "मानवाधिकार आयोगाचे कार्य कशाशी संबंधित आहे?", "answer": "मानवाधिकार आयोग नागरिकांच्या हक्क संरक्षणाशी संबंधित आहे." },
+{ "question_id": 127, "question_type": "SHORT", "question": "मध्यान्ह भोजन योजना केव्हा देशभर लागू झाली?", "answer": "मध्यान्ह भोजन योजना १९९५ साली देशभर लागू झाली." },
+{ "question_id": 128, "question_type": "SHORT", "question": "शाहबानो खटल्यानंतर कोणत्या अधिकारावर चर्चा झाली?", "answer": "महिलांच्या पोटगी अधिकारावर चर्चा झाली." },
+{ "question_id": 129, "question_type": "SHORT", "question": "१९९३ दुरुस्तीमुळे महिलांना कोणत्या संधी मिळाल्या?", "answer": "राजकीय प्रतिनिधित्वाच्या संधी मिळाल्या." },
+{ "question_id": 130, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनाचे मुख्य कारण काय होते?", "answer": "दारूमुळे होणारा महिलांचा कौटुंबिक त्रास हे मुख्य कारण होते." },
+
+{ "question_id": 131, "question_type": "SHORT", "question": "महिला आयोगाने कोणते कार्य केले?", "answer": "महिलांच्या समस्या ऐकून त्यावर उपाय सुचवले." },
+{ "question_id": 132, "question_type": "SHORT", "question": "चिपको आंदोलनामुळे कोणती जाणीव निर्माण झाली?", "answer": "निसर्ग संरक्षणाची जाणीव निर्माण झाली." },
+{ "question_id": 133, "question_type": "SHORT", "question": "मध्यान्ह भोजन योजनेचा उद्देश काय आहे?", "answer": "विद्यार्थ्यांचे पोषण सुधारणे आणि शिक्षण प्रसार करणे हा उद्देश आहे." },
+{ "question_id": 134, "question_type": "SHORT", "question": "स्थानिक शासन आरक्षणामुळे महिलांचा सहभाग कसा झाला?", "answer": "महिलांचा सहभाग सक्रिय व प्रभावी झाला." },
+{ "question_id": 135, "question_type": "SHORT", "question": "हुंडाबंदी कायदा कोणत्या वर्षी सुधारित झाला?", "answer": "हुंडाबंदी कायदा १९८४ साली सुधारित झाला." },
+{ "question_id": 136, "question_type": "SHORT", "question": "मानव अधिकार संरक्षण कायदा केव्हा झाला?", "answer": "मानव अधिकार संरक्षण कायदा १९९३ साली झाला." },
+{ "question_id": 137, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनात कोण सहभागी झाले?", "answer": "ग्रामीण महिला मोठ्या संख्येने सहभागी झाल्या." },
+{ "question_id": 138, "question_type": "SHORT", "question": "चिपको आंदोलनाचे मुख्य उद्दिष्ट काय होते?", "answer": "जंगलतोड थांबवणे आणि पर्यावरण संरक्षण करणे हे मुख्य उद्दिष्ट होते." },
+{ "question_id": 139, "question_type": "SHORT", "question": "मध्यान्ह भोजन योजनेमुळे कुपोषणावर कसा परिणाम झाला?", "answer": "मध्यान्ह भोजन योजनेमुळे कुपोषण कमी होण्यास मदत झाली." },
+{ "question_id": 140, "question_type": "SHORT", "question": "स्थानिक शासन आरक्षणामुळे महिलांमध्ये कोणता बदल दिसून आला?", "answer": "नेतृत्वगुण आणि आत्मविश्वास वाढल्याचा बदल दिसून आला." },
+
+{ "question_id": 141, "question_type": "SHORT", "question": "शाहबानो खटल्यानंतर कोणता मुद्दा प्रकर्षाने पुढे आला?", "answer": "महिलांच्या कायदेशीर अधिकारांचा मुद्दा प्रकर्षाने पुढे आला." },
+{ "question_id": 142, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनाचा परिणाम काय झाला?", "answer": "अरक विक्रीची दुकाने बंद झाली हा परिणाम झाला." },
+{ "question_id": 143, "question_type": "SHORT", "question": "चिपको आंदोलनामुळे कोणती प्रथा थांबली?", "answer": "चिपको आंदोलनामुळे जंगलतोड थांबली." },
+{ "question_id": 144, "question_type": "SHORT", "question": "मध्यान्ह भोजन योजना केव्हा सुरू झाली?", "answer": "मध्यान्ह भोजन योजना १९९५ साली सुरू झाली." },
+{ "question_id": 145, "question_type": "SHORT", "question": "महिला बचत गटांचा उद्देश कोणता आहे?", "answer": "महिला बचत गटांचा उद्देश सामूहिक आर्थिक सबलीकरण हा आहे." },
+{ "question_id": 146, "question_type": "SHORT", "question": "मानवाधिकार आयोग कोणासाठी काम करतो?", "answer": "मानवाधिकार आयोग सर्व नागरिकांसाठी काम करतो." },
+{ "question_id": 147, "question_type": "SHORT", "question": "स्थानिक शासन आरक्षणामुळे कोणता फायदा झाला?", "answer": "महिलांना सत्तेत योग्य प्रतिनिधित्व मिळाले हा फायदा झाला." },
+{ "question_id": 148, "question_type": "SHORT", "question": "हुंडाबंदी कायदा कोणत्या अन्यायाला प्रतिबंध करतो?", "answer": "हुंडाबंदी कायदा महिलांवरील कौटुंबिक अन्यायाला प्रतिबंध करतो." },
+{ "question_id": 149, "question_type": "SHORT", "question": "अरक विरोधी आंदोलनाचे महत्त्व कोणते होते?", "answer": "महिलांच्या संघटित शक्तीचे दर्शन घडले हे महत्त्व होते." },
+{ "question_id": 150, "question_type": "SHORT", "question": "चिपको आंदोलनात कोणते तंत्र वापरले गेले?", "answer": "झाडांना मिठी मारण्याचे तंत्र वापरले गेले." },
+
+  {
+    "question_id": 151,
+    "question_type": "LONG",
+    "question": "स्वातंत्र्यलढ्यात महिलांच्या सहभागाचे स्वरूप स्पष्ट करा.",
+    "answer": "स्वातंत्र्यलढ्यात महिलांनी मोठ्या प्रमाणात सहभाग घेतला. त्यांनी मोर्चे, सत्याग्रह आणि जनजागृतीच्या कार्यक्रमात भाग घेतला. अनेक महिलांनी तुरुंगवासही भोगला. सामाजिक सुधारणांसाठी त्यांनी पुढाकार घेतला. त्यांच्या सहभागामुळे लढ्याला नैतिक बळ मिळाले. राष्ट्रीय चळवळ अधिक व्यापक झाली. महिलांची संघटित शक्ती देशासमोर आली."
+  },
+  {
+    "question_id": 152,
+    "question_type": "LONG",
+    "question": "महिलांच्या सशक्तीकरणासाठी शिक्षण का महत्त्वाचे आहे ते लिहा.",
+    "answer": "महिलांच्या सशक्तीकरणासाठी शिक्षण हा मुख्य आधार मानला जातो. शिक्षणामुळे महिलांमध्ये आत्मविश्वास निर्माण होतो. त्यांना नवे विचार आणि कौशल्ये प्राप्त होतात. आर्थिक संधींची माहिती मिळते. सामाजिक प्रतिष्ठा वाढते. अन्यायाविरुद्ध आवाज उठवण्याची क्षमता निर्माण होते. म्हणून शिक्षण अत्यंत महत्त्वाचे ठरते."
+  },
+  {
+    "question_id": 153,
+    "question_type": "LONG",
+    "question": "लाटणे मोर्चा १९७२ चे वर्णन करा.",
+    "answer": "१९७२ साली मुंबईत जीवनावश्यक वस्तूंची मोठी टंचाई होती. महागाईमुळे सर्वसामान्य कुटुंबे त्रस्त झाली होती. या परिस्थितीत महिलांनी लाटणे मोर्चा काढला. या मोर्चाचे नेतृत्व मृणाल गोरे यांनी केले. मोर्चा पूर्णपणे शांततापूर्ण होता. सरकारला समस्येची दखल घ्यावी लागली. या आंदोलनामुळे महिलांची ताकद स्पष्टपणे दिसून आली."
+  },
+  {
+    "question_id": 154,
+    "question_type": "LONG",
+    "question": "चिपको आंदोलन १९७३ चे स्वरूप स्पष्ट करा.",
+    "answer": "चिपको आंदोलन १९७३ साली उत्तर भारतात सुरू झाले. या आंदोलनाचा उद्देश जंगलतोड थांबवणे हा होता. महिलांनी झाडांना मिठी मारून विरोध केला. हे आंदोलन अहिंसक पद्धतीने करण्यात आले. पर्यावरण रक्षणाचा संदेश देशभर पोहोचला. सरकारला धोरणात बदल करावे लागले. महिलांचा निसर्ग संरक्षणातील सहभाग अधोरेखित झाला."
+  },
+  {
+    "question_id": 155,
+    "question_type": "LONG",
+    "question": "अरक विरोधी आंदोलन १९९२ चे वर्णन करा.",
+    "answer": "अरक विरोधी आंदोलन १९९२ साली आंध्र प्रदेशात सुरू झाले. दारूमुळे महिलांना कौटुंबिक त्रास सहन करावा लागत होता. एका घटनेत तीन तरुणांचा तळ्यात बुडून मृत्यू झाला. त्यामुळे महिलांनी अरक दुकाने बंद करण्याची मागणी केली. आंदोलन शांततापूर्ण होते. अनेक गावांत दुकाने बंद झाली. या आंदोलनामुळे सामाजिक परिवर्तन घडले."
+  },
+  {
+    "question_id": 156,
+    "question_type": "LONG",
+    "question": "हुंडाबंदी कायद्याचे महत्त्व स्पष्ट करा.",
+    "answer": "हुंडाबंदी कायदा महिलांच्या संरक्षणासाठी संमत करण्यात आला. १९६१ साली हा कायदा प्रथम अस्तित्वात आला. १९८४ साली त्यात सुधारणा करण्यात आली. या कायद्यामुळे हुंडा घेणे-देणे गुन्हा मानले गेले. महिलांवरील अत्याचार कमी झाले. कायदेशीर संरक्षण मिळाले. त्यामुळे समाजात महिलांचा दर्जा सुधारण्यास मदत झाली."
+  },
+  {
+    "question_id": 157,
+    "question_type": "LONG",
+    "question": "महिला आयोगाची स्थापना आणि भूमिका लिहा.",
+    "answer": "भारत सरकारने महिला आयोगाची स्थापना १९७५ साली केली. या आयोगाच्या अध्यक्ष डॉ. फुलरेणू गुहा होत्या. आयोग महिलांच्या तक्रारींचे निवारण करतो. सरकारला धोरण सल्ला देतो. महिलांच्या हक्कांचे संरक्षण करतो. जनजागृती करतो. त्यामुळे महिला सशक्तीकरणास गती मिळते."
+  },
+  {
+    "question_id": 158,
+    "question_type": "LONG",
+    "question": "मध्यान्ह भोजन योजनेचे वर्णन करा.",
+    "answer": "मध्यान्ह भोजन योजना १९९५ साली देशभर सुरू करण्यात आली. गरीब विद्यार्थ्यांचे पोषण सुधारणे हा तिचा उद्देश होता. योजनेमुळे विद्यार्थ्यांची उपस्थिती वाढली. कुपोषण कमी झाले. शिक्षणातील गळतीचे प्रमाण घटले. सामाजिक समतेला चालना मिळाली. म्हणून ही योजना महत्त्वाची ठरली."
+  },
+  {
+    "question_id": 159,
+    "question_type": "LONG",
+    "question": "बालभारती संस्थेची स्थापना का आवश्यक होती ते लिहा.",
+    "answer": "बालभारती संस्था १९६७ साली स्थापन करण्यात आली. पाठ्यपुस्तकांची दर्जेदार निर्मिती करणे हा तिचा उद्देश होता. विद्यार्थ्यांसाठी सोपी पुस्तके तयार झाली. अभ्यासक्रम अधिक आकर्षक बनला. शिक्षकांना मार्गदर्शक साहित्य मिळाले. शैक्षणिक एकसमानता आली. म्हणून स्थापना आवश्यक होती."
+  },
+  {
+    "question_id": 160,
+    "question_type": "LONG",
+    "question": "दूरदर्शनवरील शैक्षणिक प्रसारणाचे महत्त्व स्पष्ट करा.",
+    "answer": "दूरदर्शनवरील कंट्रिवाइड क्लासरूम कार्यक्रम शिक्षण प्रसारासाठी सुरू झाला. उपग्रह तंत्रज्ञानामुळे हा कार्यक्रम प्रभावी ठरला. ग्रामीण विद्यार्थ्यांपर्यंत माहिती पोहोचली. दूरस्थ शिक्षणास मदत झाली. शिक्षक प्रशिक्षण सुलभ झाले. नवे विचार सर्वांपर्यंत पोहोचले. त्यामुळे शिक्षण अधिक व्यापक झाले."
+  },
+
+  {
+    "question_id": 161,
+    "question_type": "LONG",
+    "question": "स्थानिक शासन संस्थांमधील महिला आरक्षणाचे महत्त्व लिहा.",
+    "answer": "७३ व ७४ व्या संविधान दुरुस्तीने महिला आरक्षण लागू झाले. महिलांना किमान एक तृतीयांश जागा राखीव मिळाल्या. काही राज्यांत ५० टक्के आरक्षण देण्यात आले. त्यामुळे महिलांचा राजकीय सहभाग वाढला. नेतृत्वाची संधी मिळाली. सामाजिक बदल घडले. लोकशाही अधिक समताधिष्ठित झाली."
+  },
+  {
+    "question_id": 162,
+    "question_type": "LONG",
+    "question": "शाहबानो खटल्याचे शैक्षणिक आणि सामाजिक परिणाम लिहा.",
+    "answer": "शाहबानो खटला १९८५ साली झाला. महिलांच्या पोटगी हक्कावर चर्चा झाली. अल्पसंख्याक महिलांच्या अधिकारांचा मुद्दा पुढे आला. कायद्यांत सुधारणा करण्याची गरज स्पष्ट झाली. सामाजिक जाणीव वाढली. महिलांना न्यायासाठी लढण्याचे बळ मिळाले. म्हणून हा खटला ऐतिहासिक ठरला."
+  },
+  {
+    "question_id": 163,
+    "question_type": "LONG",
+    "question": "अरक विरोधी आंदोलनातून महिलांची संघटित शक्ती कशी दिसून आली ते लिहा.",
+    "answer": "अरक विरोधी आंदोलनात महिलांनी एकत्र येऊन लढा दिला. त्यांनी शांततापूर्ण निदर्शने केली. दारूमुळे होणारा त्रास समाजासमोर मांडला. सरकारला दुकानबंदी करावी लागली. महिलांमध्ये आत्मविश्वास वाढला. सामाजिक प्रश्नावर प्रभाव निर्माण झाला. त्यामुळे परिवर्तन घडले."
+  },
+  {
+    "question_id": 164,
+    "question_type": "LONG",
+    "question": "मानव अधिकार संरक्षण कायदा १९९३ चे महत्त्व स्पष्ट करा.",
+    "answer": "मानव अधिकार संरक्षण कायदा १९९३ साली संमत झाला. या कायद्यामुळे राष्ट्रीय मानवाधिकार आयोग स्थापन झाला. नागरिकांच्या मूलभूत हक्कांचे संरक्षण मजबूत झाले. अन्यायाविरुद्ध कायदेशीर दाद मिळू लागली. लोकशाही मूल्ये बळकट झाली. दुर्बल घटकांना न्याय मिळू लागला. म्हणून हा कायदा महत्त्वाचा ठरतो."
+  },
+  {
+    "question_id": 165,
+    "question_type": "LONG",
+    "question": "भटक्या जाती-जमातींच्या समस्यांचे स्वरूप लिहा.",
+    "answer": "ब्रिटिश काळात भटक्या जमातींवर निर्बंध आणले गेले. १८७१ चा कायदा अन्यायकारक होता. स्वातंत्र्यानंतर त्यांचा विमुक्त जातींमध्ये समावेश झाला. तरीही सामाजिक भेदभाव टिकून होता. शिक्षण आणि रोजगार संधी कमी होत्या. महिलांमध्ये गळतीचे प्रमाण जास्त होते. म्हणून त्यांचे सशक्तीकरण आवश्यक ठरले."
+  },
+
+  {
+    "question_id": 166,
+    "question_type": "LONG",
+    "question": "महिला बचत गटांच्या कार्याचे वर्णन करा.",
+    "answer": "महिला बचत गट ग्रामीण भागात स्थापन झाले. या गटांमुळे महिलांनी बचतीची सवय लावली. छोटे व्यवसाय सुरू करता आले. आर्थिक स्वावलंबन वाढले. सामाजिक ऐक्य निर्माण झाले. महिलांना निर्णय प्रक्रियेत स्थान मिळाले. त्यामुळे महिला सबलीकरणास गती मिळाली."
+  },
+  {
+    "question_id": 167,
+    "question_type": "LONG",
+    "question": "चिपको आंदोलनाचे मुख्य तत्त्व कोणते होते?",
+    "answer": "चिपको आंदोलन अहिंसा या तत्त्वावर आधारित होते. निसर्ग संरक्षण हा मुख्य हेतू होता. झाडांना मिठी मारणे हे प्रतीकात्मक तंत्र होते. स्थानिक महिलांचा सहभाग मोठा होता. सामाजिक जाणीव निर्माण झाली. विकास आणि पर्यावरण यातील समतोल आवश्यक आहे हा संदेश मिळाला. म्हणून हे तत्त्व महत्त्वाचे होते."
+  },
+  {
+    "question_id": 168,
+    "question_type": "LONG",
+    "question": "मध्यान्ह भोजन योजना आणि स्त्रीशिक्षण यातील संबंध लिहा.",
+    "answer": "मध्यान्ह भोजन योजनेमुळे गरीब कुटुंबातील मुलांना प्रोत्साहन मिळाले. मुलींची शाळेतील उपस्थिती वाढली. कुपोषण कमी झाले. शिक्षणातील गळती घटली. महिलांमध्ये शिक्षणाबद्दल सकारात्मक दृष्टिकोन तयार झाला. म्हणून मुलींच्या शिक्षणासाठी ही योजना उपयोगी ठरली."
+  },
+  {
+    "question_id": 169,
+    "question_type": "LONG",
+    "question": "ऑपरेशन ब्लॅक बोर्ड योजनेचे परिणाम लिहा.",
+    "answer": "ऑपरेशन ब्लॅक बोर्ड योजना १९८८ साली सुरू झाली. शाळांना मूलभूत सुविधा पुरवण्यात आल्या. प्रत्येक शाळेत किमान दोन शिक्षक नेमले गेले. अध्ययन-अध्यापन अधिक परिणामकारक झाले. विद्यार्थ्यांची उपस्थिती वाढली. शाळांची गुणवत्ता सुधारली. त्यामुळे प्राथमिक शिक्षण मजबूत झाले."
+  },
+  {
+    "question_id": 170,
+    "question_type": "LONG",
+    "question": "अल्पसंख्याकांच्या सांस्कृतिक आणि शैक्षणिक हक्कांचे वर्णन करा.",
+    "answer": "भारतीय संविधानाने अल्पसंख्याकांना विशेष हक्क दिले. त्यांना स्वतःच्या शिक्षण संस्था स्थापन करण्याचा अधिकार आहे. भाषा आणि संस्कृती जतन करण्याचा हक्क आहे. धार्मिक स्वातंत्र्याची हमी आहे. या हक्कांमुळे अल्पसंख्याकांचे संरक्षण होते. राष्ट्रीय एकात्मता राखली जाते. म्हणून हे हक्क महत्त्वाचे आहेत."
+  },
+
+  {
+    "question_id": 171,
+    "question_type": "LONG",
+    "question": "ब्रेन ड्रेन समस्येचे कारणे लिहा.",
+    "answer": "ब्रेन ड्रेन समस्या उच्च शिक्षणाशी संबंधित आहे. देशात योग्य रोजगार संधी कमी असतात. संशोधन सुविधा अपुऱ्या असतात. परदेशात उच्च वेतन मिळते. चांगल्या जीवनमानाच्या संधी असतात. त्यामुळे गुणवंत विद्यार्थी परदेशात जातात. म्हणून ही समस्या निर्माण होते."
+  },
+  {
+    "question_id": 172,
+    "question_type": "LONG",
+    "question": "महिला सबलीकरणासाठी कोणत्या योजना उपयुक्त ठरल्या?",
+    "answer": "महिला सबलीकरणासाठी शिक्षण प्रसाराच्या योजना महत्त्वाच्या ठरल्या. बचत गट कार्यक्रम प्रभावी ठरले. स्थानिक शासन आरक्षणामुळे संधी मिळाल्या. प्रसूती सुविधा कायद्यामुळे संरक्षण मिळाले. सामाजिक आंदोलनांनी जाणीव वाढवली. त्यामुळे अनेक योजना उपयुक्त ठरल्या."
+  },
+  {
+    "question_id": 173,
+    "question_type": "LONG",
+    "question": "अरक विरोधी आंदोलनाचे दूरगामी परिणाम लिहा.",
+    "answer": "अरक विरोधी आंदोलनामुळे महिलांची ताकद वाढली. दारूबंदीची मागणी यशस्वी झाली. ग्रामीण भागात सामाजिक शिस्त आली. महिलांमध्ये आत्मविश्वास वाढला. शासनाला महिलांच्या प्रश्नाची दखल घ्यावी लागली. कुटुंबव्यवस्था सुधारण्यास मदत झाली. म्हणून दूरगामी परिणाम महत्त्वाचे होते."
+  },
+  {
+    "question_id": 174,
+    "question_type": "LONG",
+    "question": "चिपको आंदोलनामुळे शासन धोरणात काय बदल झाले?",
+    "answer": "चिपको आंदोलन अहिंसक पद्धतीने करण्यात आले. महिलांनी जंगलतोड थांबवली. पर्यावरण संरक्षणाची गरज स्पष्ट झाली. शासनाला नवे नियम करावे लागले. जंगलांचे संरक्षण मजबूत झाले. स्थानिक समुदायाचा सहभाग वाढला. म्हणून धोरणात बदल झाले."
+  },
+  {
+    "question_id": 175,
+    "question_type": "LONG",
+    "question": "महिला आयोगाच्या स्थापनेचे महत्त्व लिहा.",
+    "answer": "महिला आयोग १९७५ साली स्थापन झाला. महिलांना तक्रारी मांडण्याची संधी मिळाली. सरकारला धोरण सल्ला मिळू लागला. महिलांच्या हक्कांचे संरक्षण झाले. सामाजिक जाणीव वाढली. महिलांचे सबलीकरण सुलभ झाले. म्हणून आयोगाचे महत्त्व मोठे आहे."
+  },
+
+  {
+    "question_id": 176,
+    "question_type": "LONG",
+    "question": "भटक्या जमातींच्या सशक्तीकरणासाठी कोणते उपाय सुचवले गेले?",
+    "answer": "भटक्या जमातींवर ब्रिटिश काळात अन्याय झाला होता. स्वातंत्र्यानंतर त्यांचा विमुक्त जातींमध्ये समावेश झाला. शिक्षण आणि रोजगार संधी देणे आवश्यक मानले गेले. महिलांसाठी विशेष सुविधा सुचवण्यात आल्या. स्वयंसेवी संस्थांचा सहभाग आवश्यक ठरला. त्यामुळे विविध उपाय सुचवले गेले."
+  },
+  {
+    "question_id": 177,
+    "question_type": "LONG",
+    "question": "मध्यान्ह भोजन योजना विद्यार्थ्यांसाठी का महत्त्वाची ठरली?",
+    "answer": "मध्यान्ह भोजन योजना १९९५ साली सुरू झाली. विद्यार्थ्यांचे पोषण सुधारले. मुलींची उपस्थिती वाढली. शाळेतील गळती कमी झाली. गरीब कुटुंबांना आधार मिळाला. शिक्षण प्रसारास चालना मिळाली. म्हणून योजना महत्त्वाची ठरली."
+  },
+  {
+    "question_id": 178,
+    "question_type": "LONG",
+    "question": "स्थानिक शासन संस्थांमध्ये महिलांसाठी आरक्षणाची गरज का होती?",
+    "answer": "महिलांचा राजकीय सहभाग अत्यंत कमी होता. निर्णय प्रक्रियेत त्यांना स्थान नव्हते. सामाजिक समानता आणणे आवश्यक होते. म्हणून आरक्षणाची गरज निर्माण झाली. ७३ व ७४ व्या दुरुस्तीने ही तरतूद करण्यात आली. त्यामुळे महिलांचे सबलीकरण शक्य झाले."
+  },
+  {
+    "question_id": 179,
+    "question_type": "LONG",
+    "question": "हुंडाबंदी कायदा १९६१ ची मुख्य वैशिष्ट्ये लिहा.",
+    "answer": "हुंडाबंदी कायदा १९६१ साली संमत झाला. हुंडा घेणे-देणे हा गुन्हा मानला गेला. कायदेशीर कारवाईची तरतूद झाली. महिलांचे संरक्षण हे मुख्य उद्दिष्ट होते. सामाजिक अन्याय थांबवणे हा हेतू होता. त्यामुळे कायद्याची अंमलबजावणी सुरू झाली."
+  },
+  {
+    "question_id": 180,
+    "question_type": "LONG",
+    "question": "महिलांच्या सशक्तीकरणात सामाजिक आंदोलनांचे योगदान लिहा.",
+    "answer": "चिपको आणि अरक विरोधी आंदोलनांनी महिलांना संघटित केले. त्यांनी अन्यायाविरुद्ध आवाज उठवला. शासनाला धोरण बदल करावे लागले. महिलांमध्ये आत्मविश्वास निर्माण झाला. समाजात पर्यावरण आणि सामाजिक शिस्त याबाबत जाणीव वाढली. म्हणून आंदोलनांचे योगदान मोठे आहे."
+  },
+
+  {
+    "question_id": 181,
+    "question_type": "LONG",
+    "question": "शिक्षण संक्रमण मासिक शिक्षकांसाठी कसे उपयुक्त आहे?",
+    "answer": "शिक्षण संक्रमण मासिकातून शैक्षणिक बदलांची माहिती मिळते. शिक्षकांना नवे विचार समजतात. अध्यापन पद्धती सुधारण्याचे मार्गदर्शन मिळते. महिलांच्या शिक्षणाबाबत माहिती प्रसिद्ध होते. दूरस्थ शिक्षणासाठी उपयुक्त सूचना मिळतात. म्हणून हे मासिक शिक्षकांसाठी महत्त्वाचे आहे."
+  },
+  {
+    "question_id": 182,
+    "question_type": "LONG",
+    "question": "अरक विरोधी आंदोलनाचे नेतृत्व आणि स्वरूप लिहा.",
+    "answer": "अरक विरोधी आंदोलन १९९२ साली नेल्लोर जिल्ह्यात सुरू झाले. ग्रामीण महिलांनी त्यात पुढाकार घेतला. आंदोलन शांततापूर्ण होते. दारूमुळे होणारा त्रास मांडणे हा हेतू होता. महिलांनी अरक दुकाने बंद करण्याची मागणी केली. शासनाला दखल घ्यावी लागली. म्हणून स्वरूप महत्त्वाचे होते."
+  },
+  {
+    "question_id": 183,
+    "question_type": "LONG",
+    "question": "चिपको आंदोलन अहिंसक का मानले जाते?",
+    "answer": "चिपको आंदोलनात कोणत्याही प्रकारची हिंसा नव्हती. झाडांना मिठी मारून प्रतीकात्मक विरोध केला गेला. महिलांचा सहभाग शांततापूर्ण होता. पर्यावरण संरक्षण हा हेतू होता. शासनाला जाणीव करून देणे हे उद्दिष्ट होते. म्हणून आंदोलन अहिंसक मानले जाते."
+  },
+  {
+    "question_id": 184,
+    "question_type": "LONG",
+    "question": "मध्यान्ह भोजन योजना कुपोषण कमी करण्यास कशी मदत करते?",
+    "answer": "गरीब विद्यार्थ्यांना रोजचे पोषण मिळते. मुलींची उपस्थिती वाढते. नियमित अन्नामुळे आरोग्य सुधारते. शाळेतील गळती कमी होते. शिक्षणात सातत्य येते. म्हणून ही योजना कुपोषण कमी करण्यास मदत करते."
+  },
+  {
+    "question_id": 185,
+    "question_type": "LONG",
+    "question": "बालभारती संस्था अभ्यासक्रम सुधारण्यास कशी मदत करते?",
+    "answer": "बालभारती संस्था १९६७ साली स्थापन झाली. विद्यार्थ्यांसाठी दर्जेदार पुस्तके तयार केली जातात. भाषा सोपी ठेवली जाते. नवीन विषयांचा समावेश केला जातो. शिक्षकांसाठी मार्गदर्शक साहित्य दिले जाते. त्यामुळे अभ्यासक्रम सुधारण्यास मदत होते."
+  },
+
+  {
+    "question_id": 186,
+    "question_type": "LONG",
+    "question": "स्थानिक शासन आरक्षणामुळे महिलांमध्ये कोणता आत्मविश्वास निर्माण झाला?",
+    "answer": "आरक्षणामुळे महिलांना सत्तेत प्रतिनिधित्व मिळाले. निर्णय प्रक्रियेत स्थान मिळाले. नेतृत्वगुण विकसित झाले. सामाजिक प्रतिष्ठा वाढली. सार्वजनिक कामात सहभाग वाढला. म्हणून महिलांमध्ये आत्मविश्वास निर्माण झाला."
+  },
+  {
+    "question_id": 187,
+    "question_type": "LONG",
+    "question": "हुंडाबंदी कायदा समाजात कसा प्रभाव निर्माण करतो?",
+    "answer": "हुंडाबंदी कायदा १९६१ साली संमत झाला. १९८४ साली सुधारणा करण्यात आली. हा कायदा फौजदारी गुन्ह्याची तरतूद करतो. महिलांचे संरक्षण करतो. सामाजिक अन्यायाला प्रतिबंध करतो. कायदेशीर कारवाईची भीती निर्माण होते. म्हणून प्रभाव निर्माण होतो."
+  },
+  {
+    "question_id": 188,
+    "question_type": "LONG",
+    "question": "अरक विरोधी आंदोलन सामाजिक शिस्त आणण्यास कसे उपयुक्त ठरले?",
+    "answer": "दारूमुळे महिलांचा त्रास वाढला होता. महिलांनी संघटित लढा दिला. शांततापूर्ण निदर्शने केली. गावातील दारू दुकाने बंद झाली. कुटुंबव्यवस्था सुधारली. ग्रामीण भागात सामाजिक शिस्त आली. म्हणून आंदोलन उपयुक्त ठरले."
+  },
+  {
+    "question_id": 189,
+    "question_type": "LONG",
+    "question": "चिपको आंदोलनामुळे पर्यावरण संरक्षणाची जाणीव कशी वाढली?",
+    "answer": "महिलांनी झाडांना मिठी मारून जंगलतोड थांबवली. अहिंसक मार्गाने संदेश दिला. देशभर या आंदोलनाची चर्चा झाली. शासनाला नियम करावे लागले. जंगल संरक्षणाचे महत्त्व स्पष्ट झाले. म्हणून जाणीव वाढली."
+  },
+  {
+    "question_id": 190,
+    "question_type": "LONG",
+    "question": "मध्यान्ह भोजन योजना शिक्षण प्रसारास कशी मदत करते?",
+    "answer": "मध्यान्ह भोजन योजना १९९५ साली सुरू झाली. गरीब विद्यार्थ्यांना पोषण मिळाले. मुलींची उपस्थिती वाढली. शाळेतील गळती कमी झाली. शिक्षणात टिकाव वाढला. सामाजिक समतेला चालना मिळाली. म्हणून शिक्षण प्रसारास मदत झाली."
+  },
+
+  {
+    "question_id": 191,
+    "question_type": "LONG",
+    "question": "NCERT संस्थेची भूमिका स्पष्ट करा.",
+    "answer": "NCERT संस्था शैक्षणिक संशोधनाचे कार्य करते. शिक्षकांसाठी प्रशिक्षण कार्यक्रम आयोजित करते. अभ्यासक्रम विकासात मदत करते. नवीन धोरणांना मार्गदर्शन करते. महिलांच्या शिक्षणाबाबत माहिती प्रसिद्ध करते. त्यामुळे शिक्षणाची गुणवत्ता सुधारते."
+  },
+  {
+    "question_id": 192,
+    "question_type": "LONG",
+    "question": "स्थानिक शासन संस्थांमध्ये आरक्षणाची अंमलबजावणी केल्याने कोणते बदल झाले?",
+    "answer": "महिलांना सत्तेत योग्य स्थान मिळाले. राजकीय सहभाग वाढला. नेतृत्वगुण विकसित झाले. सामाजिक प्रश्न सुटण्यास मदत झाली. शिक्षणाबद्दल सकारात्मक दृष्टिकोन तयार झाला. लोकशाही अधिक मजबूत झाली. म्हणून बदल झाले."
+  },
+  {
+    "question_id": 193,
+    "question_type": "LONG",
+    "question": "हुंडाबंदी कायदा १९८४ सुधारणा का आवश्यक ठरली?",
+    "answer": "१९६१ च्या कायद्यात अंमलबजावणीची मर्यादा होत्या. महिलांवरील अत्याचार सुरूच होते. कायदा अधिक कठोर करणे गरजेचे होते. म्हणून १९८४ साली सुधारणा करण्यात आली. फौजदारी कारवाईची तरतूद वाढली. त्यामुळे कायदा अधिक प्रभावी झाला."
+  },
+  {
+    "question_id": 194,
+    "question_type": "LONG",
+    "question": "अरक विरोधी आंदोलन अहिंसक का होते?",
+    "answer": "अरक विरोधी आंदोलन ग्रामीण महिलांनी शांततापूर्ण पद्धतीने केले. निदर्शने अहिंसक होती. सामाजिक अन्याय मांडणे हा हेतू होता. दुकानबंदीची मागणी केली गेली. सरकारला दखल घ्यावी लागली. म्हणून हे अहिंसक मानले जाते."
+  },
+  {
+    "question_id": 195,
+    "question_type": "LONG",
+    "question": "चिपको आंदोलनातून महिलांची भूमिका कशी अधोरेखित झाली?",
+    "answer": "चिपको आंदोलन १९७३ साली सुरू झाले. महिलांनी त्यात नेतृत्व केले. झाडांना मिठी मारून जंगलतोड थांबवली. अहिंसक संदेश दिला. पर्यावरण संरक्षणाचा मुद्दा पुढे आला. महिलांचा सार्वजनिक जीवनातील सहभाग वाढला. म्हणून भूमिका अधोरेखित झाली."
+  },
+
+  {
+    "question_id": 196,
+    "question_type": "LONG",
+    "question": "स्थानिक शासन आरक्षणामुळे महिलांच्या विकासास कशी गती मिळाली?",
+    "answer": "आरक्षणामुळे महिलांना राजकीय संधी मिळाल्या. निर्णय प्रक्रियेत स्थान मिळाले. आर्थिक कार्यक्रमात सहभाग वाढला. सामाजिक प्रतिष्ठा सुधारली. शिक्षण प्रसारास मदत झाली. म्हणून महिलांच्या विकासास गती मिळाली."
+  },
+  {
+    "question_id": 197,
+    "question_type": "LONG",
+    "question": "हुंडाबंदी कायदा आणि प्रसूती सुविधा अधिनियम यांचा महिला सशक्तीकरणाशी संबंध लिहा.",
+    "answer": "हे दोन्ही कायदे महिलांच्या संरक्षणासाठी महत्त्वाचे आहेत. १९६१ साली ते अस्तित्वात आले. कौटुंबिक आणि कामाच्या ठिकाणी महिलांना संरक्षण मिळाले. आर्थिक आणि सामाजिक सुरक्षितता वाढली. शिक्षण आणि रोजगारात टिकाव वाढला. म्हणून महिला सशक्तीकरणाशी संबंध आहे."
+  },
+  {
+    "question_id": 198,
+    "question_type": "LONG",
+    "question": "मध्यान्ह भोजन योजना आणि बालभारती संस्थेचा शैक्षणिक विकासात कसा सहभाग आहे?",
+    "answer": "मध्यान्ह भोजन योजना १९९५ साली सुरू झाली. बालभारती संस्था १९६७ साली स्थापन झाली. या दोन्हीमुळे शिक्षण प्रसारास मदत झाली. विद्यार्थ्यांचे पोषण आणि दर्जेदार पुस्तके उपलब्ध झाली. शाळेतील गळती कमी झाली. शिक्षणाची गुणवत्ता सुधारली. म्हणून सहभाग महत्त्वाचा आहे."
+  },
+  {
+    "question_id": 199,
+    "question_type": "LONG",
+    "question": "अरक विरोधी आंदोलन आणि चिपको आंदोलन यांची तुलना करा.",
+    "answer": "अरक विरोधी आंदोलन १९९२ साली आंध्र प्रदेशात झाले. चिपको आंदोलन १९७३ साली उत्तर भारतात झाले. पहिले आंदोलन दारूविक्री बंद करण्यासाठी होते. दुसरे जंगल संरक्षणासाठी होते. दोन्ही आंदोलनांत महिलांचा सहभाग मोठा होता. दोन्ही अहिंसक स्वरूपाचे होते. म्हणून तुलना करता येते."
+  },
+  {
+    "question_id": 200,
+    "question_type": "LONG",
+    "question": "महिलांच्या सशक्तीकरणासाठी शासन, समाज आणि तंत्रज्ञान यांची भूमिका लिहा.",
+    "answer": "शासनाने महिलांसाठी कायदे आणि योजना सुरू केल्या. समाजाने आंदोलनांतून महिलांना संघटित केले. तंत्रज्ञानामुळे माहिती प्रसारण सुलभ झाले. महिलांना शिक्षण आणि रोजगाराच्या संधी मिळाल्या. आत्मविश्वास आणि प्रतिष्ठा वाढली. म्हणून सर्व घटकांची भूमिका महत्त्वाची आहे."
+  }
+
+
+
+  ]
+}

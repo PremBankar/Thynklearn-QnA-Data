@@ -1,0 +1,1863 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.05",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "वृष्टी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा किती टक्के भाग जलयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "७१ %",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "७०.८ %",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "६० %",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "८० %",
+          "is_correct": false
+        }
+      ],
+      "answer": "७०.८ %"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आकाशातून जमिनीवर पाणी किंवा बर्फाच्या स्वरूपात होणाऱ्या वर्षावाला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बाष्पीभवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वृष्टी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सांद्रीभवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बाष्पोत्सर्जन",
+          "is_correct": false
+        }
+      ],
+      "answer": "वृष्टी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वातावरणातील बाष्पाचे थेट हिमकणात रूपांतर होण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रवीभवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संप्लवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बाष्पीभवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मिश्रण",
+          "is_correct": false
+        }
+      ],
+      "answer": "संप्लवन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठावर ऊर्ध्वगामी हवेचे प्रवाह जोरात असल्यास कोणत्या प्रकारची वृष्टी होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिमवर्षाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गारा (गारपीट)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धुके",
+          "is_correct": false
+        }
+      ],
+      "answer": "गारा (गारपीट)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गारांमध्ये कोणत्या स्वरूपाचे थर पाहायला मिळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पोकळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पुंजक्यासारखे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकावर एक असलेले चक्रीय",
+          "is_correct": true
+        }
+      ],
+      "answer": "एकावर एक असलेले चक्रीय"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भारतात प्रामुख्याने कोणत्या ऋतूत गारा पडतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिवाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पावसाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उन्हाळा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शरद ऋतू",
+          "is_correct": false
+        }
+      ],
+      "answer": "उन्हाळा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "विषुववृत्तीय प्रदेशात प्रामुख्याने कोणत्या प्रकारचा पाऊस पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रतिरोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभिसरण (आरोह)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आवर्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आम्ल पाऊस",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिसरण (आरोह)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "डोंगराच्या अडथळ्यामुळे पडणाऱ्या पावसाला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आवर्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रतिरोध",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हिम पाऊस",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रतिरोध"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "डोंगराच्या पलीकडील बाजूला पावसाचे प्रमाण कमी असते, त्या प्रदेशास काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अतिवृष्टी प्रदेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्जन्यछायेचा प्रदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विषुववृत्तीय प्रदेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिम प्रदेश",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्जन्यछायेचा प्रदेश"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "जगातील सर्वाधिक भागात कोणत्या प्रकारचा पाऊस पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आवर्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रतिरोध",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "गारपीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रतिरोध"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "एखाद्या ठिकाणी हवेचा दाब कमी होऊन आसपासची हवा त्या केंद्राकडे चक्राकार गतीने येते, त्याला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोसमी वारे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आवर्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रतिरोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभिसरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "आवर्त"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पर्जन्य मोजण्यासाठी कोणत्या उपकरणाचा वापर करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमापक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वातदिशादर्शक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्जन्यमापक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दाबमापक",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्जन्यमापक"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पर्जन्यमापनासाठी पाऊस मोजण्याचे एकक कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "किलोग्रॅम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मिलीमीटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डिग्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "मिलीमीटर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "१२० मिलीमीटर हिमवर्षाव म्हणजे किती मिलीमीटर पाऊस?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१२० मिमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१ मिमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१० मिमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१०० मिमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "१० मिमी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "धुके, दव आणि दहीवर ही वृष्टीची स्वरूपे कोठे आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकाशात खूप उंचीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूपृष्ठालगत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त वाळवंटात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त हिमालयात",
+          "is_correct": false
+        }
+      ],
+      "answer": "भूपृष्ठालगत"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "बाष्पयुक्त हवेचे तापमान कमी झाल्यामुळे बाष्पाचे सांद्रीभवन होऊन तयार होणाऱ्या सूक्ष्म जलकणांना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धुके",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आम्ल पाऊस",
+          "is_correct": false
+        }
+      ],
+      "answer": "धुके"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठावरील थंड वस्तूंवर बाष्पाचे सांद्रीभवन होऊन पाण्याचे थेंब जमा होतात, त्यास काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दहीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धुके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "दव"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठावरील वस्तूंचे तापमान गोठणबिंदूखाली गेल्यामुळे दवबिंदू गोठतात, त्यास काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दहीवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गारपीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धुके",
+          "is_correct": false
+        }
+      ],
+      "answer": "दहीवर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "प्रदूषित औद्योगिक भागात हवेतील रसायने पावसाच्या पाण्यात मिसळल्यामुळे कोणता पाऊस पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिसरण पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिरोध पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आम्ल पाऊस",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कृत्रिम पाऊस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आम्ल पाऊस"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "अतिवृष्टीमुळे काय उद्भवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुष्काळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "महापूर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भूकंप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वनवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "महापूर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अभिसरण पाऊस प्रामुख्याने दिवसा कोणत्या वेळी पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सकाळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुपारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मध्यरात्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पहाटे",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुपारी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रातील महाबळेश्वर येथे कोणत्या प्रकारचा पाऊस पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिरोध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आवर्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आम्ल",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रतिरोध"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पर्जन्यमापक उघड्या जागी का ठेवले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चोरी होऊ नये म्हणून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाऊस थेट बाटलीत पडण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थंडावा मिळावा म्हणून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाणी गरम होण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाऊस थेट बाटलीत पडण्यासाठी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "जमिनीत पाणी मुरल्यामुळे कोणता साठा वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सागरी जल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूजल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नदी जल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिम जल",
+          "is_correct": false
+        }
+      ],
+      "answer": "भूजल"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "वृष्टीचे मुख्य रूप कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धुके",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पाऊस",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दहीवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाऊस"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "हिमकण हवेत तरंगत असल्यामुळे जमिनीवर कोणता थर साचतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाण्याचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिमथर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाळूचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिखलाचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिमथर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ढगांमध्ये पाण्याचे थेंब गोठून काय तयार होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धुके",
+          "is_correct": false
+        }
+      ],
+      "answer": "गारा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "गारांमुळे कशाचे नुकसान होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पिकांचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सागरी जीवांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगरांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नद्यांचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पिकांचे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "बाष्पयुक्त हवा उंचावर गेल्यावर काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गरम होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "थंड होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बाष्प वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवेचा दाब वाढतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "थंड होते"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सांद्रीभवन क्रियेनंतर कशाची निर्मिती होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बाष्पाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ढगांची",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाऱ्याची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उन्हाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "ढगांची"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पाऊस मोजण्यासाठी वापरल्या जाणाऱ्या बाटलीच्या तोंडावर काय बसवलेले असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाकण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नरसाळे (Funnel)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कापड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जाळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नरसाळे (Funnel)"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "आग्नेय आशियात कोणत्या वाऱ्यांमुळे पाऊस पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "व्यापारी वारे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोसमी वारे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थानिक वारे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्रुवीय वारे",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोसमी वारे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "हवेतील बाष्पाचे प्रमाण जास्त असल्यास वृष्टीची शक्यता कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनिश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "धुक्यामुळे कोणत्या क्षेत्रात अडथळे निर्माण होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खनिज उत्खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विणकाम",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "वृष्टीचा कोणता प्रकार वनस्पतींसाठी हानिकारक ठरू शकतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आम्ल पाऊस",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "धुके",
+          "is_correct": false
+        }
+      ],
+      "answer": "आम्ल पाऊस"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "गारा नेहमी का पडत नाहीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बाष्प कमी असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विशिष्ट ऊर्ध्वगामी हवा प्रवाहाची गरज असते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सूर्यप्रकाश नसतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वारंवार पाऊस पडतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "विशिष्ट ऊर्ध्वगामी हवा प्रवाहाची गरज असते"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "नरसाळ्याचा व्यास आणि बाटलीचा व्यास यांच्या गुणोत्तरावरून काय मोजले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्जन्याची उंची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वाऱ्याचा वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हवेचे तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सागरी खोली",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्जन्याची उंची"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "वृष्टीमुळे पृथ्वीला काय मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शुद्ध हवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गोड्या पाण्याचा पुरवठा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गरमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खनिजे",
+          "is_correct": false
+        }
+      ],
+      "answer": "गोड्या पाण्याचा पुरवठा"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सह्याद्रीच्या पश्चिम भागात कोणता पाऊस जास्त पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिरोध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आवर्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिम पाऊस",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रतिरोध"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "हिमकण आणि पाणी यांचे मिश्रण होऊन पडणाऱ्या वृष्टीला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गारपीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्लीट (Sleet)",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दव",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्लीट (Sleet)"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "पर्जन्यमापनासाठी नरसाळे कशावर बसवले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जमिनीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बाटलीवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काचेवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चौथऱ्यावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "बाटलीवर"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "बाष्पयुक्त हवा डोंगर ओलांडून गेल्यावर कोरडी का होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बाष्प धारण क्षमता वाढते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वारा थांबतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सांद्रीभवन थांबते",
+          "is_correct": false
+        }
+      ],
+      "answer": "बाष्प धारण क्षमता वाढते"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "आवर्त पाऊस कोणत्या कटिबंधात जास्त पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्ण कटिबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शीत कटिबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समशीतोष्ण कटिबंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विषुववृत्तीय भाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "समशीतोष्ण कटिबंध"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कोणत्या वृष्टीमुळे दृश्यमानता (Visibility) कमी होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धुके",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गारपीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिम पाऊस",
+          "is_correct": false
+        }
+      ],
+      "answer": "धुके"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "पर्जन्यमापकाची बाटली दर किती तासांनी रिकामी करावी लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१ तास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "५ तास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२४ तास",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१२ तास",
+          "is_correct": false
+        }
+      ],
+      "answer": "२४ तास"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "वृष्टीची प्रक्रिया प्रामुख्याने कोठे घडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जमिनीखाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वातावरणात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्राच्या तळाशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चंद्रावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "वातावरणात"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "गारा कशा बनलेल्या असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मऊ कापूस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कठोर बर्फ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धुके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाळू",
+          "is_correct": false
+        }
+      ],
+      "answer": "कठोर बर्फ"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "अभिसरण पावसात विजांचा कडकडाट आणि ढगांचा गडगडाट असतो का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कधीकधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सांगता येत नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "हो"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील जलाविष्काराचे कारण काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वातावरणातील बाष्प",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वाऱ्याची दिशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जमिनीचा उतार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूकंप",
+          "is_correct": false
+        }
+      ],
+      "answer": "वातावरणातील बाष्प"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वृष्टी म्हणजे काय?",
+      "answer": "वातावरणातील बाष्पाचे जलरूपात किंवा घनरूपात भूपृष्ठावर पडणे याला वृष्टी म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वृष्टीची मुख्य रूपे कोणती?",
+      "answer": "हिम, गारा आणि पाऊस ही वृष्टीची मुख्य रूपे आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "हिमवृष्टी म्हणजे काय?",
+      "answer": "वातावरणातील तापमान गोठणबिंदूच्या खाली गेल्यास बाष्पाचे थेट हिमकणात रूपांतर होते, याला हिमवृष्टी म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "हिम आणि बर्फ यांतील मुख्य फरक काय?",
+      "answer": "हिम भुसभुशीत आणि अपारदर्शक असते, तर बर्फ घट्ट, कठीण आणि पारदर्शक असतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "गारा कशा तयार होतात?",
+      "answer": "हवेच्या जोरदार ऊर्ध्वगामी प्रवाहामुळे जलकण उंचावर जाऊन गोठतात आणि त्यांच्यावर थरांवर थर साचून गारा तयार होतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "गारपिटीचा पिकांवर काय परिणाम होतो?",
+      "answer": "गारपिटीमुळे पिकांचे अतोनात नुकसान होते आणि फळबागा उद्ध्वस्त होतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सांद्रीभवन म्हणजे काय?",
+      "answer": "वातावरणातील वायुरूपातील बाष्पाचे जलरूपात रूपांतर होण्याच्या क्रियेला सांद्रीभवन म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अभिसरण पाऊस प्रामुख्याने कोठे पडतो?",
+      "answer": "अभिसरण पाऊस प्रामुख्याने विषुववृत्तीय प्रदेशात पडतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "प्रतिरोध पाऊस कशामुळे पडतो?",
+      "answer": "समुद्रावरून येणाऱ्या बाष्पयुक्त वाऱ्यांना पर्वताचा अडथळा निर्माण झाल्यामुळे प्रतिरोध पाऊस पडतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पर्जन्यछायेचा प्रदेश म्हणजे काय?",
+      "answer": "पर्वताला ओलांडून गेल्यावर वाऱ्यातील बाष्प कमी झाल्यामुळे डोंगराच्या दुसऱ्या बाजूला जो कमी पावसाचा प्रदेश तयार होतो, त्याला पर्जन्यछायेचा प्रदेश म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आवर्त पाऊस म्हणजे काय?",
+      "answer": "एखाद्या ठिकाणी हवेचा दाब कमी झाल्यामुळे चक्राकार गतीने येणाऱ्या वाऱ्यांमुळे पडणाऱ्या पावसाला आवर्त पाऊस म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "जगातील सर्वाधिक भागात कोणत्या प्रकारचा पाऊस पडतो?",
+      "answer": "जगातील सर्वाधिक भागात प्रतिरोध प्रकारचा पाऊस पडतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पर्जन्यमापकाचा वापर कशासाठी केला जातो?",
+      "answer": "एका विशिष्ट कालावधीत पडलेल्या पावसाचे प्रमाण मोजण्यासाठी पर्जन्यमापकाचा वापर केला जातो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "दव कसे तयार होते?",
+      "answer": "बाष्पयुक्त हवेचा संपर्क अतिशय थंड वस्तूंशी आल्यास बाष्पाचे सांद्रीभवन होऊन पाण्याचे थेंब तयार होतात, याला दव म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "दहीवर (Frost) म्हणजे काय?",
+      "answer": "हवेचे तापमान गोठणबिंदूच्या खाली गेल्यास दवबिंदू गोठतात, याला दहीवर म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "धुके कसे तयार होते?",
+      "answer": "भूपृष्ठालगतच्या हवेतील बाष्पाचे सांद्रीभवन होऊन सूक्ष्म जलकण हवेत तरंगू लागल्यास धुके तयार होते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "आम्ल पाऊस कशामुळे होतो?",
+      "answer": "हवेतील प्रदूषित वायू (उदा. नायट्रोजन ऑक्साइड, सल्फर डायऑक्साइड) पावसाच्या पाण्यात मिसळल्यामुळे आम्ल पाऊस होतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "धुक्यामुळे वाहतुकीवर काय परिणाम होतो?",
+      "answer": "धुक्यामुळे दृश्यमानता कमी होते, ज्यामुळे रस्ते, रेल्वे आणि हवाई वाहतुकीत अडथळे येतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पावसाचे थेंब मोठे का होतात?",
+      "answer": "ढगातील लहान जलकण एकत्र आल्यामुळे ते वजनाने जड होतात आणि पावसाच्या थेंबाच्या स्वरूपात खाली पडतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "हिमाचे पाऊस कशास म्हणतात?",
+      "answer": "जेव्हा वातावरणात हिमकण आणि पाण्याचे थेंब एकत्र स्वरूपात पडतात, तेव्हा त्यास 'स्लीट' किंवा हिमाचा पाऊस म्हणतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पर्जन्यमापकाचे मोजपात्र कशात मोजले जाते?",
+      "answer": "पर्जन्यमापकाचे मोजपात्र मिलीमीटर (mm) मध्ये मोजले जाते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "अभिसरण पावसाला 'आरोह' पाऊस का म्हणतात?",
+      "answer": "उष्णतेमुळे हवा हलकी होऊन वरच्या दिशेला (आरोह) जात असल्यामुळे पडणाऱ्या पावसाला आरोह पाऊस म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "सह्याद्री पर्वताच्या पूर्व बाजूला पावसाचे प्रमाण कमी का आहे?",
+      "answer": "सह्याद्री पर्वताच्या पूर्व बाजूला पर्जन्यछायेचा प्रदेश असल्यामुळे तिथे पावसाचे प्रमाण कमी आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "गारांचा आकार कसा असतो?",
+      "answer": "गारा घन स्वरूपाच्या, कठीण आणि साधारणपणे गोल आकाराच्या असतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "बाष्प धारण क्षमता कशावर अवलंबून असते?",
+      "answer": "बाष्प धारण क्षमता प्रामुख्याने हवेच्या तापमानावर अवलंबून असते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "गारांमधील थरांना काय म्हणतात?",
+      "answer": "गारांमधील थरांना 'केंद्रीत थर' म्हणतात, जे वारंवार वर-खाली जाण्याच्या प्रक्रियेतून तयार होतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "विषुववृत्तीय भागात दररोज दुपारी कोणता पाऊस पडतो?",
+      "answer": "विषुववृत्तीय भागात दररोज दुपारी अभिसरण प्रकारचा पाऊस पडतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "स्लीड (Sleet) म्हणजे काय?",
+      "answer": "पाऊस पडत असताना हवेचे तापमान गोठणबिंदूच्या खाली असल्यास पाण्याचे थेंब अर्धे गोठलेल्या स्थितीत पडतात, त्यास स्लीट म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "धुक्यामुळे आरोग्यावर काय परिणाम होऊ शकतो?",
+      "answer": "धुक्यात प्रदूषके मिसळल्यास श्वसनाचे विकार उद्भवू शकतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "आम्ल पाऊस ऐतिहासिक वास्तूंवर काय परिणाम करतो?",
+      "answer": "आम्ल पावसामुळे ऐतिहासिक वास्तूंचा (उदा. ताजमहाल) दगड झिजतो आणि विद्रूप होतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "कृत्रिम पाऊस म्हणजे काय?",
+      "answer": "विमान किंवा रॉकेटच्या साहाय्याने ढगांमध्ये विशिष्ट रसायने (उदा. सिल्व्हर आयोडाइड) सोडून पाऊस पाडण्याच्या तंत्राला कृत्रिम पाऊस म्हणतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वृष्टीसाठी सर्वात महत्त्वाचा घटक कोणता?",
+      "answer": "वृष्टीसाठी हवेतील 'बाष्प' हा सर्वात महत्त्वाचा घटक आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "दहीवर प्रामुख्याने कोणत्या ऋतूत आढळते?",
+      "answer": "दहीवर प्रामुख्याने हिवाळ्यात कडाक्याच्या थंडीच्या वेळी आढळते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ढगांची निर्मिती कोठे होते?",
+      "answer": "वातावरणातील जास्त उंचीवर बाष्पाचे सांद्रीभवन झाल्यावर ढगांची निर्मिती होते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "पावसाचे मोजमाप करण्यासाठी पर्जन्यमापक कोठे ठेवतात?",
+      "answer": "पर्जन्यमापक मोकळ्या जागी, ३० सें.मी. उंच चौथऱ्यावर ठेवतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "बाष्पीभवन म्हणजे काय?",
+      "answer": "उष्णतेमुळे पाण्याचे वाफेत (बाष्पात) रूपांतर होण्याच्या क्रियेला बाष्पीभवन म्हणतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "गारांना इंग्रजीत काय म्हणतात?",
+      "answer": "गारांना इंग्रजीत 'Hailstones' म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "दवबिंदू म्हणजे काय?",
+      "answer": "बाष्पाचे रूपांतर पाण्याच्या ज्या सूक्ष्म थेंबात होते, त्याला दवबिंदू म्हणतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "पर्जन्यछायेच्या प्रदेशाचे महाराष्ट्रातील एक उदाहरण द्या.",
+      "answer": "पुणे जिल्ह्याचा पूर्व भाग हा पर्जन्यछायेच्या प्रदेशाचे उदाहरण आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "आम्ल पावसाचे पीएच (pH) मूल्य किती असते?",
+      "answer": "आम्ल पावसाचे पीएच मूल्य साधारणपणे ५.६ पेक्षा कमी असते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "वृष्टीमुळे पृथ्वीला काय मिळते?",
+      "answer": "वृष्टीमुळे पृथ्वीला गोड्या पाण्याचा नैसर्गिक पुरवठा होतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "ढग म्हणजे काय?",
+      "answer": "वातावरणात तरंगणाऱ्या सूक्ष्म जलकणांच्या किंवा हिमकणांच्या समूहाला ढग म्हणतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "गारा पडण्याचे प्रमुख कारण काय?",
+      "answer": "ढगांमध्ये असलेल्या पाण्याचा वारंवार होणारा ऊर्ध्वगामी प्रवास हे गारा पडण्याचे प्रमुख कारण आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "भारतात कोणत्या वाऱ्यांमुळे पाऊस पडतो?",
+      "answer": "भारतात प्रामुख्याने नैऋत्य मोसमी वाऱ्यांमुळे पाऊस पडतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "धुक्याचे मुख्य प्रकार कोणते?",
+      "answer": "भूपृष्ठ धुके, दरी धुके आणि सागरी धुके हे धुक्याचे काही प्रकार आहेत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "हिमाचा रंग पांढरा का दिसतो?",
+      "answer": "हिमामध्ये हवा अडकलेली असते आणि ते सूर्यप्रकाश परावर्तित करते, म्हणून हिम पांढरे दिसते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "अतिवृष्टीमुळे काय होते?",
+      "answer": "अतिवृष्टीमुळे नद्यांना महापूर येतात आणि मोठ्या प्रमाणावर जीवित व वित्तहानी होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "जगातील सर्वात जास्त पावसाचे ठिकाण कोणते?",
+      "answer": "मेघालय राज्यातील 'मौसिनराम' हे जगातील सर्वात जास्त पावसाचे ठिकाण आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "दव आणि धुके यातील फरक काय?",
+      "answer": "दव हे वस्तूंच्या पृष्ठभागावर साचते, तर धुके हे हवेत तरंगणाऱ्या स्वरूपात असते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पावसाचे प्रमाण कमी झाल्यास काय होते?",
+      "answer": "पावसाचे प्रमाण खूप कमी झाल्यास दुष्काळाची परिस्थिती निर्माण होते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "बाष्पीभवन आणि सांद्रीभवन या प्रक्रियांमधील फरक स्पष्ट करा.",
+      "answer": "१) बाष्पीभवन: सौरऊर्जेमुळे पाण्याची वाफ होण्याच्या क्रियेला बाष्पीभवन म्हणतात. सांद्रीभवन: बाष्पाचे पुन्हा जलरूपात रूपांतर होण्याच्या क्रियेला सांद्रीभवन म्हणतात. २) बाष्पीभवन प्रामुख्याने भूपृष्ठावर जलसाठ्यांजवळ घडते, तर सांद्रीभवन वातावरणात उंचावर किंवा थंड वस्तूंच्या संपर्कात घडते. ३) बाष्पीभवनासाठी उष्णतेची गरज असते, तर सांद्रीभवनासाठी तापमान कमी होण्याची गरज असते. ४) बाष्पीभवनामुळे हवेत आर्द्रता वाढते, तर सांद्रीभवनामुळे ढग, दव, धुके यांसारखे आविष्कार निर्माण होतात."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "हिम आणि बर्फ यांतील फरक सविस्तर स्पष्ट करा.",
+      "answer": "१) हिम हे वातावरणातील बाष्पाचे थेट घनरूपात रूपांतर झाल्याने तयार होते (संप्लवन), तर बर्फ हा पाण्याचे थेंब गोठल्यामुळे किंवा हिमाचे एकावर एक थर साचून दाब पडल्यामुळे तयार होतो. २) हिम भुसभुशीत आणि अपारदर्शक असते, तर बर्फ हा घट्ट, कठीण आणि पारदर्शक असतो. ३) हिमवृष्टी प्रामुख्याने उच्च अक्षवृत्तीय किंवा अतिउंच प्रदेशात होते, तर बर्फ हा हिमवृष्टी झालेल्या प्रदेशात किंवा थंड पाण्याच्या साठ्यांत आढळतो. ४) हिम पाण्यात तरंगते कारण ते हलके असते, तर बर्फाची घनता हिमापेक्षा जास्त असते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "पर्जन्यछायेच्या प्रदेशाची निर्मिती महाराष्ट्राच्या संदर्भात स्पष्ट करा.",
+      "answer": "१) अरबी समुद्रावरून येणारे बाष्पयुक्त वारे सह्याद्री पर्वताला धडकतात. २) या वाऱ्यांना सह्याद्रीच्या पश्चिमेकडील उतारावर अडथळा निर्माण झाल्यामुळे तिथे मोठ्या प्रमाणात प्रतिरोध पाऊस पडतो (उदा. महाबळेश्वर, कोकण). ३) हे वारे सह्याद्री ओलांडून जेव्हा पूर्वेकडे देश किंवा पठारी भागावर उतरतात, तेव्हा त्यातील बाष्प संपलेले असते. ४) खाली उतरताना हवेचे तापमान वाढते, ज्यामुळे तिची बाष्प धारण क्षमता वाढते आणि पाऊस पडण्याची शक्यता कमी होते. ५) यामुळे सह्याद्रीच्या पूर्वेकडील भाग (उदा. पुणे जिल्ह्याचा पूर्व भाग, सोलापूर, अहमदनगर) हा 'पर्जन्यछायेचा प्रदेश' म्हणून ओळखला जातो."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "आम्ल पाऊस म्हणजे काय? तो कसा तयार होतो ते स्पष्ट करा.",
+      "answer": "१) औद्योगिक प्रदेशात हवेत कोळसा किंवा तेलाच्या ज्वलनातून सल्फर डायऑक्साइड आणि नायट्रोजन ऑक्साइड यांसारखे वायू मोठ्या प्रमाणावर बाहेर पडतात. २) पावसाचे पाणी जेव्हा ढगातून जमिनीकडे येते, तेव्हा हे वायू त्या पाण्यात मिसळतात. ३) यामुळे पाण्यात रासायनिक प्रक्रिया होऊन सल्फ्युरिक आम्ल किंवा नायट्रिक आम्ल तयार होते. ४) अशा आम्लयुक्त पावसाला 'आम्ल पाऊस' म्हणतात. ५) हा पाऊस मानवी आरोग्य, शेती आणि स्मारकांसाठी अत्यंत हानिकारक असतो."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "धुक्याची निर्मिती कोणत्या परिस्थितीत होते आणि त्याचे प्रकार सांगा.",
+      "answer": "१) जेव्हा भूपृष्ठालगतच्या हवेचे तापमान कमी होते, तेव्हा हवेतील बाष्पाचे सांद्रीभवन होते. २) हे सूक्ष्म जलकण हवेत तरंगतात, ज्यामुळे दृश्यमानता कमी होते, याला धुके म्हणतात. ३) परिस्थिती: बाष्पाचे जास्त प्रमाण, शांत हवा आणि कमी तापमान. ४) प्रकार: अ) भूपृष्ठ धुके - जमिनीलगत तयार होणारे. ब) दरी धुके - रात्री थंड हवा दरीत साचल्यामुळे तयार होणारे. क) सागरी धुके - उष्ण आणि थंड सागरी प्रवाहांच्या मिलनामुळे तयार होणारे."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "कृत्रिम पावसाच्या प्रयोगांची गरज आणि पद्धत स्पष्ट करा.",
+      "answer": "१) गरज: ज्या भागात पावसाचे प्रमाण अत्यंत कमी असते किंवा जिथे दुष्काळाची स्थिती असते, तिथे कृत्रिम पाऊस पाडला जातो. २) पद्धत: विमानाद्वारे किंवा रॉकेटद्वारे ढगांवर 'सिल्व्हर आयोडाइड' किंवा 'शुष्क बर्फ' (Dry Ice) यांसारख्या रसायनांची फवारणी केली जाते. ३) यामुळे ढगातील जलकणांचे सांद्रीभवन किंवा गोठण्याची प्रक्रिया जलद होते. ४) जलकण जड होऊन पावसाच्या स्वरूपात खाली पडतात. याला 'क्लाउड सीडिंग' असेही म्हणतात."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "वृष्टीच्या वितरणावर परिणाम करणाऱ्या घटकांचे वर्णन करा.",
+      "answer": "१) अक्षवृत्तीय स्थान: विषुववृत्तीय प्रदेशात जास्त पाऊस पडतो, तर ध्रुवीय प्रदेशात कमी. २) समुद्रसपाटीपासूनची उंची: उंची वाढल्यास तापमान कमी होते आणि पावसाचे प्रमाण वाढते. ३) समुद्रापासूनचे अंतर: किनाऱ्यालगत पाऊस जास्त असतो, तर खंडांतर्गत भागात तो कमी होत जातो. ४) पर्वत रांगांची दिशा: पर्वताच्या वाऱ्याकडील बाजूवर पाऊस जास्त आणि विरुद्ध बाजूवर कमी असतो. ५) वाऱ्याची दिशा: बाष्पयुक्त वारे पाऊस आणतात, तर कोरड्या वाऱ्यांमुळे पाऊस पडत नाही."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "पर्जन्यमापकाची काळजी कशी घ्यावी? अचूक मापनासाठी कोणत्या गोष्टी महत्त्वाच्या आहेत?",
+      "answer": "१) पर्जन्यमापक मोकळ्या जागी ठेवावे, जिथे आसपास झाडे किंवा इमारतींचा अडथळा नसेल. २) ते ३० सेमी उंच चौथऱ्यावर ठेवावे जेणेकरून जमिनीवरून उडणारे पाणी त्यात जाणार नाही. ३) नरसाळ्याचा आणि मोजपात्राचा व्यास प्रमाणित असावा. ४) दररोज सकाळी एकाच निश्चित वेळी (उदा. ८:३० वाजता) पावसाचे मोजमाप करावे. ५) बाटलीतील पाणी मोजताना मोजपात्र जमिनीवर सरळ ठेवून डोळ्याच्या पातळीत रीडिंग घ्यावे."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "विषुववृत्तीय प्रदेशात दररोज दुपारी पाऊस का पडतो? या पावसाची वैशिष्ट्ये सांगा.",
+      "answer": "१) कारण: विषुववृत्तावर सूर्यकिरण लंब रूप पडतात, त्यामुळे हवा खूप गरम होते. २) तापलेली हवा हलकी होऊन वेगाने वर जाते (अभिसरण). ३) दुपारी २ ते ४ च्या दरम्यान ही हवा उंचावर जाऊन थंड होते आणि तिचे सांद्रीभवन होते. ४) वैशिष्ट्ये: अ) हा पाऊस विजांच्या कडकडाटासह आणि ढगांच्या गडगडाटासह पडतो. ब) हा पाऊस कमी वेळ पण अत्यंत जोरात पडतो. क) या पावसात सातत्य नसते, तो स्थानिक स्वरूपाचा असतो."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "गारपिटीमुळे मानवी वसाहतींवर होणारे परिणाम सविस्तर स्पष्ट करा.",
+      "answer": "१) मालमत्तेचे नुकसान: गारांच्या आघातामुळे घरांची छपरे (विशेषतः पत्र्याची किंवा कौलारू) फुटतात. २) वाहनांचे नुकसान: कारच्या काचा फुटणे किंवा पत्र्यावर खड्डे पडणे असे प्रकार घडतात. ३) वीज पुरवठा: विजेच्या तारा तुटल्यामुळे वीज पुरवठा खंडित होतो. ४) पाळीव प्राणी: उघड्यावर असलेल्या जनावरांना जखमा होतात किंवा त्यांचा मृत्यू ओढवू शकतो. ५) वाहतूक: रस्त्यावर गारांचा थर साचल्यामुळे गाड्या घसरून अपघात होतात."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "हवेची बाष्प धारण क्षमता तापमानानुसार कशी बदलते? उदाहरणासह स्पष्ट करा.",
+      "answer": "१) हवेचे तापमान वाढल्यास तिची बाष्प धारण क्षमता वाढते. २) तापमान कमी झाल्यास बाष्प धारण क्षमता कमी होते. ३) उदाहरण: उन्हाळ्यात हवेचे तापमान जास्त असते, त्यामुळे हवा जास्त बाष्प सामावून घेऊ शकते. ४) हिवाळ्यात किंवा रात्री हवा थंड झाल्यावर तिची बाष्प साठवण्याची क्षमता संपते आणि अतिरिक्त बाष्पाचे सांद्रीभवन होऊन दव किंवा धुके तयार होते. ५) म्हणूनच उंचावर हवा थंड झाल्यावर पावसाची निर्मिती होते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "दव आणि दहीवर यांमध्ये भौगोलिक फरक स्पष्ट करा.",
+      "answer": "१) दव हे बाष्पाच्या जलरूपात (द्रवरूप) रूपांतर झाल्याने तयार होते, तर दहीवर हे बाष्पाच्या थेट हिमकणात (घनरूप) रूपांतर झाल्याने तयार होते. २) दव तयार होण्यासाठी तापमान गोठणबिंदूच्या वर असणे आवश्यक आहे, तर दहीवरसाठी तापमान गोठणबिंदूच्या खाली जाणे आवश्यक आहे. ३) दव वनस्पतींना ओलावा देते, तर दहीवर हे पिकांच्या पेशी गोठवून त्यांचे मोठ्या प्रमाणावर नुकसान करते. ४) दोन्ही आविष्कार स्वच्छ आकाश आणि शांत हवेत घडतात."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "आवर्त पावसाचे (Cyclonic Rainfall) जगभरातील वितरण स्पष्ट करा.",
+      "answer": "१) आवर्त पाऊस समशीतोष्ण कटिबंधात (३०° ते ६०° उत्तर व दक्षिण) मोठ्या प्रमाणावर पडतो. २) तिथे हा पाऊस शांत स्वरूपाचा आणि दीर्घकाळ पडणारा असतो. ३) उष्ण कटिबंधात आवर्त पाऊस चक्रीवादळांच्या स्वरूपात पडतो (उदा. बंगालचा उपसागर किंवा अरबी समुद्रात येणारी वादळे). ४) उष्ण कटिबंधातील आवर्त पाऊस मर्यादित क्षेत्रावर असतो पण तो अत्यंत विनाशकारी आणि जोराचा असतो. ५) मोसमी हवामानाच्या प्रदेशात पावसाळ्याच्या सुरुवातीला आणि शेवटी आवर्त पावसाचा प्रभाव जाणवतो."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "पावसाचे पाण्याचे महत्त्व पृथ्वीवरील सजीव सृष्टीसाठी विशद करा.",
+      "answer": "१) पाऊस हा पृथ्वीवरील पिण्यायोग्य पाण्याचा प्राथमिक स्त्रोत आहे. २) नद्या, तलाव आणि धरणे पावसाच्या पाण्यामुळेच भरतात. ३) शेतीसाठी पावसाचे पाणी अत्यंत महत्त्वाचे आहे, कारण जगातील मोठी लोकसंख्या पावसावर आधारित शेतीवर अवलंबून आहे. ४) वृष्टीमुळे वनस्पतींचे संवर्धन होते आणि जंगले टिकून राहतात. ५) पावसाचे पाणी जमिनीत मुरल्यामुळे भूजल पातळी वाढते, ज्याचा वापर आपण विहिरींद्वारे करतो. ६) थोडक्यात, पावसाशिवाय पृथ्वीवरील अन्नसाखळी आणि जलचक्र पूर्ण होऊ शकत नाही."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "पर्जन्यमानाचे प्रदेशानुसार वर्गीकरण करा (जास्त, मध्यम आणि कमी पाऊस).",
+      "answer": "१) जास्त पावसाचे प्रदेश: विषुववृत्तीय भाग, मान्सून प्रदेशातील किनाऱ्यालगतचे भाग (उदा. कोकण, ईशान्य भारत) आणि पर्वतांच्या वाऱ्याकडील बाजू. २) मध्यम पावसाचे प्रदेश: खंडांतर्गत भागात समुद्रापासून लांब असलेले प्रदेश आणि पर्वतांच्या रांगांपासून थोड्या अंतरावरील भाग. ३) कमी पावसाचे प्रदेश: जगातील उष्ण वाळवंटे (उदा. सहारा, थर), अतिउंच पर्वत रांगांच्या पलीकडील पर्जन्यछायेचे प्रदेश आणि ध्रुवीय प्रदेश. ४) हे वितरण प्रामुख्याने वारे आणि भूपृष्ठ रचनेवर अवलंबून असते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "हिमवृष्टीमुळे मानवी जनजीवनावर काय परिणाम होतात?",
+      "answer": "१) वाहतूक कोंडी: रस्ते आणि रेल्वे रूळ बर्फाखाली गाडले गेल्यामुळे वाहतूक पूर्णपणे ठप्प होते. २) आरोग्य: कडाक्याच्या थंडीमुळे हायपोथर्मिया किंवा फ्रॉस्टबाइट यांसारखे आजार होऊ शकतात. ३) शेती: पिके बर्फाखाली गाडली गेल्यामुळे शेतीचे नुकसान होते. ४) पाणी पुरवठा: पाण्याचे नळ गोठल्यामुळे पिण्याच्या पाण्याची समस्या निर्माण होते. ५) संधी: पर्यटन आणि हिवाळी खेळांना (उदा. स्कीइंग) चालना मिळते. ६) घरावर बर्फाचा थर साचल्यामुळे घरे कोसळण्याचा धोका असतो."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "धुके आणि धुरके (Smog) यातील फरक स्पष्ट करा.",
+      "answer": "१) धुके हे नैसर्गिक बाष्पाच्या सांद्रीभवनाने तयार होते, तर धुरके हे धूर आणि धुके यांच्या मिश्रणाने तयार होते. २) धुके प्रामुख्याने ग्रामीण किंवा नैसर्गिक भागात आढळते, तर धुरके हे औद्योगिक आणि शहरी भागात आढळते. ३) धुरके हे धुक्यापेक्षा जास्त धोकादायक असते कारण त्यात विषारी रसायने (प्रदूषके) असतात. ४) धुरक्यामुळे डोळे जळजळणे आणि दम्याचा त्रास वाढणे असे विकार होतात. ५) धुरके हे मानवनिर्मित प्रदूषणामुळे वाढते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "नरसाळ्याचा व्यास आणि मोजपात्रावरील खुणा यातील संबंध स्पष्ट करा.",
+      "answer": "१) पर्जन्यमापकातील नरसाळ्याचा व्यास मोजपात्राच्या व्यासापेक्षा मोठा असतो. २) यामुळे बाटलीत गोळा झालेले पाणी मोजपात्रात टाकल्यास त्याची उंची वाढते. ३) ही रचना कमी पाऊस देखील अचूकपणे मोजण्यासाठी केलेली असते. ४) मोजपात्रावरील १ मिमीची खूण म्हणजे प्रत्यक्ष जमिनीवर पडलेल्या १ मिमी पावसाच्या थराचे प्रमाण असते. ५) नरसाळ्याचा क्षेत्रफळाचा वापर करून गणिती पद्धतीने ही मोजपट्टी तयार केलेली असते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "सांद्रीभवन होण्यासाठी कोणत्या अटींची आवश्यकता असते?",
+      "answer": "१) हवेचे तापमान कमी होणे (गोठणबिंदूच्या जवळ जाणे). २) हवेत बाष्पाचे प्रमाण जास्त असणे. ३) हवेत सूक्ष्म धुलीकण किंवा क्षार असणे, ज्यांच्या भोवती बाष्प जमा होऊ शकते (सांद्रीभवन केंद्रके). ४) हवेचा दाब आणि बाष्प संपृक्तता यांचा योग्य मेळ असणे. ५) हवा शांत असणे, जेणेकरून जलकण एकत्र येऊन ढग किंवा धुके तयार होऊ शकतील."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "पर्जन्यछायेचा प्रदेश आणि वाळवंट यांतील फरक स्पष्ट करा.",
+      "answer": "१) पर्जन्यछायेचा प्रदेश हा पर्वताच्या अडथळ्यामुळे तयार होतो, तर वाळवंट हे प्रामुख्याने वाऱ्याच्या दिशेमुळे किंवा उच्च दाबाच्या पट्ट्यामुळे तयार होते. २) पर्जन्यछायेच्या प्रदेशात थोड्या प्रमाणात पाऊस पडतो, पण वाळवंटात पाऊस अत्यंत दुर्मिळ असतो. ३) पर्जन्यछायेचा प्रदेश पर्वताच्या एका बाजूला असतो, तर वाळवंटे विस्तीर्ण खंडांतर्गत प्रदेशात असतात. ४) महाराष्ट्राचे पठार हे पर्जन्यछायेचे क्षेत्र आहे, तर राजस्थानचे थर हे वाळवंट आहे."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "वृष्टीचा प्रकार म्हणून 'गारा' या विषयावर टीप लिहा.",
+      "answer": "१) गारा हे वृष्टीचे घन रूप आहे. २) गारांच्या निर्मितीसाठी हवेचे जोरदार ऊर्ध्वगामी प्रवाह आवश्यक असतात. ३) गारांची रचना पाहिली तर त्यात कांद्यासारखे एकावर एक असलेले थर दिसतात. ४) गारा पडण्यापूर्वी सहसा उष्ण हवामान असते. ५) गारांचा जमिनीवर पडण्याचा वेग खूप जास्त असतो, ज्यामुळे त्या आदळल्यास इजा होऊ शकते. ६) गारा थोड्या वेळच पडतात पण त्यांचे परिणाम दीर्घकाळ टिकणारे असतात."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "अभिसरण पावसाचे फायदे आणि तोटे सांगा.",
+      "answer": "१) फायदे: विषुववृत्तीय जंगलांच्या वाढीसाठी हा पाऊस उपयुक्त आहे. दररोजच्या पावसामुळे हवामानातील उष्णता थोडी कमी होते. २) तोटे: हा पाऊस दररोज पडत असल्यामुळे शेतीची कामे करणे कठीण होते. विजा पडण्याची भीती जास्त असते. दळणवळणात अडथळे येतात. ३) हा पाऊस मर्यादित प्रदेशातच पडत असल्याने त्याचा फायदा जागतिक स्तरावर कमी आहे."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "हिमाचे पाऊस (Sleet) आणि गारा यांमधील फरक स्पष्ट करा.",
+      "answer": "१) स्लीटमध्ये पाण्याचे थेंब आणि अर्धवट गोठलेले बर्फाचे कण एकत्र असतात, तर गारा पूर्णपणे कठीण बर्फाचे गोळे असतात. २) स्लीटसाठी हवेचे खालचे थर थंड असणे आवश्यक आहे, तर गारांसाठी हवेचे ऊर्ध्वगामी प्रवाह महत्त्वाचे आहेत. ३) स्लीटमुळे रस्ते निसरडे होतात, पण गारांमुळे प्रत्यक्ष वस्तूंची मोडतोड होते. ४) स्लीट प्रामुख्याने शीत कटिबंधात आढळते, तर गारा उष्ण आणि समशीतोष्ण कटिबंधात उन्हाळ्यात पडतात."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "पावसाचे वितरण असमान असण्याचे भौगोलिक कारण स्पष्ट करा.",
+      "answer": "१) पृथ्वीच्या गोलाकार आकारामुळे सूर्याची उष्णता सर्वत्र समान मिळत नाही. २) यामुळे हवेच्या दाबाचे पट्टे निर्माण होतात, जे वाऱ्याची दिशा ठरवतात. ३) पर्वतांची मांडणी वाऱ्यांना अडवते किंवा वाट करून देते. ४) जमिनीचे आणि पाण्याचे वितरण असमान असल्यामुळे बाष्पाचा पुरवठा सगळीकडे सारखा नसतो. ५) या सर्व नैसर्गिक घटकांच्या एकत्रित परिणामामुळे कुठे अतिवृष्टी तर कुठे कोरडा दुष्काळ असतो."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "आम्ल पाऊस रोखण्यासाठी कोणते उपाय केले पाहिजेत?",
+      "answer": "१) कारखान्यांमधून बाहेर पडणाऱ्या धुरावर प्रक्रिया करून त्यातील गंधक (Sulphur) काढून टाकणे. २) कोळशाऐवजी नैसर्गिक वायू किंवा सौरऊर्जेचा वापर वाढवणे. ३) वाहनांच्या प्रदूषणावर नियंत्रण मिळवण्यासाठी सीएनजी (CNG) किंवा इलेक्ट्रिक वाहनांचा वापर करणे. ४) मोठ्या प्रमाणावर वृक्षारोपण करणे जेणेकरून हवा शुद्ध राहील. ५) प्रदूषणाबाबत कडक कायदे बनवणे आणि त्यांची अंमलबजावणी करणे."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "वृष्टीच्या विविध रूपांच्या निर्मितीसाठी 'तापमान' हा घटक कसा जबाबदार आहे?",
+      "answer": "१) तापमान गोठणबिंदूच्या वर असल्यास 'पाऊस' पडतो. २) तापमान गोठणबिंदूच्या खाली असल्यास बाष्पाचे रूपांतर 'हिमत' होते. ३) पृष्ठभागाचे तापमान अचानक कमी झाल्यास 'दव' किंवा 'दहीवर' तयार होते. ४) हवेचे तापमान खूप जास्त असल्यास ऊर्ध्वगामी प्रवाहांमुळे 'गारा' तयार होतात. ५) थोडक्यात, तापमान हे ठरवते की वृष्टी जलरूपात होणार की घनरूपात."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "धुके आणि दव यांचा वनस्पतींच्या वाढीवर होणारा परिणाम स्पष्ट करा.",
+      "answer": "१) दव वनस्पतींना नैसर्गिक ओलावा पुरवते, ज्यामुळे पानांची ताजेतवाने वाढ होते. २) धुके सूर्यप्रकाश रोखत असल्यामुळे वनस्पतींच्या प्रकाशसंश्लेषण (Photosynthesis) प्रक्रियेत अडथळा येतो. ३) धुक्यातील जास्त ओलाव्यामुळे पिकांवर बुरशीजन्य रोग पडण्याची शक्यता असते. ४) मात्र, काही विशिष्ट पिकांना (उदा. द्राक्षे किंवा कॉफी) थोड्या प्रमाणातील धुके पोषक ठरू शकते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "जागतिक जलचक्रात (Water Cycle) वृष्टीची भूमिका काय आहे?",
+      "answer": "१) जलचक्रातील वृष्टी हा बाष्पाचे पुन्हा पृथ्वीवर येण्याचा मार्ग आहे. २) वृष्टीमुळेच समुद्राचे बाष्प जमिनीपर्यंत पोहोचते आणि सजीवांना उपलब्ध होते. ३) वृष्टीमुळे नद्या प्रवाहित होतात, ज्यामुळे पर्वतावरील खनिजद्रव्ये मैदानी प्रदेशापर्यंत येतात. ४) वृष्टी ही वातावरणातील उष्णतेचे संतुलन राखण्यास मदत करते. ५) वृष्टीशिवाय जलचक्र खंडित होईल आणि पृथ्वीवरील जीवन धोक्यात येईल."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "हिमवर्षाव आणि पाऊस यांच्या मापनातील तफावत कशी दूर करतात?",
+      "answer": "१) हिम हे भुसभुशीत असल्याने त्याची उंची जास्त दिसते पण त्यात पाण्याचे प्रमाण कमी असते. २) साधारणपणे १२० मिमी हिम वर्षाव हा १० मिमी पावसाच्या बरोबर मानला जातो. ३) पावसाचे मापन थेट मोजपात्राने केले जाते. ४) हिम मोजण्यासाठी ते वितळवून त्याचे पाण्याचे प्रमाण मोजले जाते किंवा विशिष्ट गुणोत्तराचा वापर करून त्याचे पावसाच्या प्रमाणात रूपांतर केले जाते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "पर्जन्यमानातील बदल (Climate Change) आणि त्याचा वृष्टीवर होणारा परिणाम स्पष्ट करा.",
+      "answer": "१) जागतिक तापमान वाढीमुळे (Global Warming) बाष्पीभवनाचा वेग वाढला आहे. २) यामुळे पावसाचे दिवस कमी झाले आहेत पण पावसाची तीव्रता (Intensity) वाढली आहे. ३) ढगफुटीसारख्या घटनांचे प्रमाण वाढले आहे. ४) हिमवर्षावाचे क्षेत्र कमी होत चालले आहे आणि हिमनद्या वितळण्याचे प्रमाण वाढले आहे. ५) पावसाचा मोसम अनिश्चित झाला असून कधी अतिवृष्टी तर कधी अकाली पाऊस पडत आहे."
+    }
+  ]
+}

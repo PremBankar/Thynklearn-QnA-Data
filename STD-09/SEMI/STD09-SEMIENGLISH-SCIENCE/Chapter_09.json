@@ -1,0 +1,1491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Science.09",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Environmental Management"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the definition of 'weather' as per the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The long-term average of atmospheric conditions.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Atmospheric conditions at a specific time and place.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The study of storms and rainfall.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The movement of tectonic plates.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Atmospheric conditions at a specific time and place."
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does 'climate' refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily changes in temperature.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The average of daily weather readings over many years for a region.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A sudden thunderstorm.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The amount of waste in an area.",
+          "is_correct": false
+        }
+      ],
+      "answer": "The average of daily weather readings over many years for a region."
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT listed as a weather-related or climatic factor in figure 9.1?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Temperature",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Atmospheric pressure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Soil pH",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Humidity",
+          "is_correct": false
+        }
+      ],
+      "answer": "Soil pH"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the main difference between weather and climate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Weather changes slowly; climate changes rapidly.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Weather is related to a specific time and place; climate is the long-term average for a larger area.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Climate is measured daily; weather is measured annually.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weather only includes rainfall; climate includes all factors.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Weather is related to a specific time and place; climate is the long-term average for a larger area."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why is climate especially important for India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Because it is a desert country.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Because it is an agrarian country.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Because it has no mountains.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Because it is an island.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Because it is an agrarian country."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which organization, established by the UN, plays a key role in food security and water management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "World Health Organization (WHO)",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "World Meteorological Organization (WMO)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Food and Agriculture Organization (FAO)",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "United Nations Environment Programme (UNEP)",
+          "is_correct": false
+        }
+      ],
+      "answer": "World Meteorological Organization (WMO)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "In which year was the India Meteorological Department (IMD) founded?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1857",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1875",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1901",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "1875"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What was the parameter used by H.F. Blanford for his first monsoon prediction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ocean temperature",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Snowfall in the Himalayas",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Atmospheric pressure in Mumbai",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wind speed over the Bay of Bengal",
+          "is_correct": false
+        }
+      ],
+      "answer": "Snowfall in the Himalayas"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which model for monsoon prediction was developed by Dr Vasantrao Govarikar in the 1990s?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A model based on 5 local parameters.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A model based on 16 worldwide climatic parameters.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A model based solely on satellite data.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A model using only historical rainfall data.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A model based on 16 worldwide climatic parameters."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a type of monsoon prediction model mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statistical Model",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mathematical (Dynamic) Model",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Holistic Model",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Biological Model",
+          "is_correct": true
+        }
+      ],
+      "answer": "Biological Model"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is 'solid waste'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liquid pollutants from factories.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Waste materials generated through human activities.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gases released from vehicles.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Radioactive energy.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Waste materials generated through human activities."
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of 'Industrial Waste'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Leftover food",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic bags",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chemicals and ash",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Newspapers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemicals and ash"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is 'Biomedical Waste'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Waste from gardens and farms.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Waste from clinics and hospitals like bandages and needles.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Broken electronic devices.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Plastic wrappers.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Waste from clinics and hospitals like bandages and needles."
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which type of waste is easily degraded by microbes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Biodegradable waste",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Non-biodegradable waste",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electronic waste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Radioactive waste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Biodegradable waste"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the main characteristic of non-biodegradable waste?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It decomposes quickly.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It is mainly organic.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It is not easily degraded and requires a long time.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "It produces good compost.",
+          "is_correct": false
+        }
+      ],
+      "answer": "It is not easily degraded and requires a long time."
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "According to the chapter, which material takes the longest to degrade naturally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Banana peelings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Certain plastic bags",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tin cans",
+          "is_correct": false
+        }
+      ],
+      "answer": "Certain plastic bags"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does 'ABC' stand for in the basic principles of first aid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Always Be Careful",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Airway, Breathing, Circulation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Alert, Brace, Call",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Assess, Bandage, Comfort",
+          "is_correct": false
+        }
+      ],
+      "answer": "Airway, Breathing, Circulation"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the 'RICE' remedy used for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Treating burns",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Treating sprains, twisting, and contusions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treating fractures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Treating bleeding wounds",
+          "is_correct": false
+        }
+      ],
+      "answer": "Treating sprains, twisting, and contusions"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which method of transporting a victim is suitable for someone who is unconscious and needs to be carried a short distance?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cradle method",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carrying piggy back",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pulling or lifting method",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carrying on a two-hand chair",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pulling or lifting method"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the main objective of first aid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To cure the disease completely.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To prevent death, prevent deterioration, and start rehabilitation.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To replace professional medical help.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To diagnose the exact injury.",
+          "is_correct": false
+        }
+      ],
+      "answer": "To prevent death, prevent deterioration, and start rehabilitation."
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of the following is a principle of solid waste management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Increase production",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Reuse",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Discard immediately",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Use more plastic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reuse"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the '3 R mantra' in waste management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Read, Remember, Recite",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Reduce, Reuse, Recycle",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Run, Rest, Relax",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Regulate, Research, Report",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reduce, Reuse, Recycle"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the science that studies the inter-relationships between air components, natural cycles, geological movements, and climate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Geology",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Meteorology",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ecology",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Biology",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meteorology"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What was one of the main reasons behind the serious flood calamity in Mumbai on 26th July 2005?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heavy snowfall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Improper solid waste management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Volcanic eruption",
+          "is_correct": false
+        }
+      ],
+      "answer": "Improper solid waste management"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of these is a harmful effect of solid waste accumulation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Improved air quality",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water pollution",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Increase in biodiversity",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Soil enrichment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water pollution"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the primary purpose of a 'safe landfill site' in waste management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To burn waste openly.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To dump waste into rivers.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To store and isolate waste to prevent environmental contamination.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To grow crops on top of waste.",
+          "is_correct": false
+        }
+      ],
+      "answer": "To store and isolate waste to prevent environmental contamination."
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which method of waste management involves using earthworms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Incineration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vermi-composting",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pyrolysis",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Land-fill",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vermi-composting"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What does the 'Refuse' principle in solid waste management mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To refuse to use non-degradable articles like plastic.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To refuse to recycle.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To refuse to throw anything away.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To refuse to reduce consumption.",
+          "is_correct": false
+        }
+      ],
+      "answer": "To refuse to use non-degradable articles like plastic."
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the main focus of disaster management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only providing immediate relief.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preventing losses, improving tolerance, providing relief, and organizing rehabilitation.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Studying weather patterns only.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Building more hospitals.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preventing losses, improving tolerance, providing relief, and organizing rehabilitation."
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which date is observed as 'World Meteorological Day'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5th June",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "23rd March",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "22nd April",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1st January",
+          "is_correct": false
+        }
+      ],
+      "answer": "23rd March"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of 'Electronic Waste'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Banana peelings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Broken cell phones and computers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Animal dung",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Plastic bags",
+          "is_correct": false
+        }
+      ],
+      "answer": "Broken cell phones and computers"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does 'CPR' stand for in first aid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cardio-Pulmonary Resuscitation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cardiac Pressure Relief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chest Pain Recovery",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Circulatory Pulse Regulation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cardio-Pulmonary Resuscitation"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which method is suggested for carrying a patient who cannot use their hands but can hold their body upright?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cradle method",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carrying on a two-hand chair",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Human crutch method",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Piggy back",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carrying on a two-hand chair"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the benefit of applying an ice-pack to an injured part (as per RICE)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To increase blood flow.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To reduce swelling and pain.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To sterilize the wound.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To help in bone setting.",
+          "is_correct": false
+        }
+      ],
+      "answer": "To reduce swelling and pain."
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is the first step (Airway) in the ABC of first aid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Give mouth-to-mouth resuscitation.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Press the chest to restart circulation.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ensure the respiratory passage is open by tilting the head back.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Apply pressure to a bleeding wound.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ensure the respiratory passage is open by tilting the head back."
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which country is mentioned as the largest producer of electricity from solid waste?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Japan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "India",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "America",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Germany",
+          "is_correct": false
+        }
+      ],
+      "answer": "America"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which of the following is a key component of disaster management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Increasing waste production",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Prevention of losses and improving tolerance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring early warnings",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Avoiding rehabilitation efforts",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prevention of losses and improving tolerance"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the term for waste that includes radioactive materials like Strontium-90?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Industrial waste",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Radioactive waste",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Biomedical waste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Farm waste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Radioactive waste"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the primary reason for categorizing waste as degradable and non-degradable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To increase the amount of waste.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To apply appropriate disposal and treatment methods.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To make waste look organized.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To encourage littering.",
+          "is_correct": false
+        }
+      ],
+      "answer": "To apply appropriate disposal and treatment methods."
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What does the 'Rethink' principle in solid waste management encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rethinking our habits and the consequences of using daily articles.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thinking about buying more things.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Forgetting about waste problems.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Throwing everything away without thought.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rethinking our habits and the consequences of using daily articles."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the primary difference between weather and climate?",
+      "answer": "Weather is the atmospheric condition at a specific time and place, while climate is the long-term average of weather conditions for a region."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name three weather-related or climatic factors.",
+      "answer": "Temperature, Atmospheric pressure, Humidity, Rainfall, Sunlight, Clouds, Visibility. (Any three)"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What does IMD stand for?",
+      "answer": "India Meteorological Department."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Which UN organization is responsible for meteorology?",
+      "answer": "World Meteorological Organization (WMO)."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is solid waste?",
+      "answer": "Waste materials generated through various daily human activities."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Give an example of biodegradable waste.",
+      "answer": "Kitchen waste (spoiled food, fruit and vegetable peelings), leaves, dung."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Give an example of non-biodegradable waste.",
+      "answer": "Plastic bags, metal cans, glass."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What does the '3 R mantra' refer to?",
+      "answer": "Reduce, Reuse, Recycle."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the first step in providing first aid for someone who is not breathing?",
+      "answer": "Ensure the airway is open (Airway), then give artificial ventilation (Breathing)."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What does CPR stand for?",
+      "answer": "Cardio-Pulmonary Resuscitation."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the RICE remedy used for?",
+      "answer": "For injuries like sprains, twisting, and contusions."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one method of transporting an unconscious patient.",
+      "answer": "Pulling or lifting method, or using a stretcher."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the main goal of disaster management?",
+      "answer": "To prevent losses, improve tolerance, provide relief, and organize rehabilitation."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which day is observed as World Meteorological Day?",
+      "answer": "23rd March."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is e-waste?",
+      "answer": "Electronic waste like non-functional TVs, cell phones, computers, and their parts."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is vermi-composting?",
+      "answer": "A method of composting organic waste using earthworms."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is a primary harmful effect of solid waste accumulation?",
+      "answer": "Water pollution, air pollution, or spread of diseases."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does the 'Refuse' principle mean?",
+      "answer": "Refusing to use articles made from non-degradable materials like plastic."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which model integrates outcomes from various prediction models?",
+      "answer": "The Holistic model."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the role of the Param supercomputer in meteorology?",
+      "answer": "To mathematically analyze data about current climatic parameters for predictions."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the significance of climate for an agrarian country?",
+      "answer": "Climate directly influences agricultural production, which is the mainstay of the economy."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a meteorological observatory?",
+      "answer": "An establishment equipped with modern instruments to record various climatic factors."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one region where the IMD has a regional office.",
+      "answer": "Mumbai, Kolkata, Chennai, Guwahati, Nagpur, or New Delhi."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the purpose of separating waste at source?",
+      "answer": "To facilitate proper disposal, recycling, and treatment based on the type of waste."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What should be done if a victim has a bleeding wound?",
+      "answer": "Cover the wound with an antiseptic pad and apply pressure for 5 minutes."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the 'Human crutch method' used for?",
+      "answer": "To support a victim with an injured leg, minimizing load on the other leg."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is it important to complete a full course of first aid training?",
+      "answer": "To effectively provide life-saving assistance and prevent deterioration until professional help arrives."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is pyrolysis in waste management?",
+      "answer": "A process of energy production by burning waste at high temperatures (e.g., biogas, bioelectricity)."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the main cause of degradation of natural beauty due to solid waste?",
+      "answer": "Accumulation of garbage in open areas, creating visual pollution and bad odor."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the historical significance of Athens in waste management?",
+      "answer": "In 320 BCE, Athens enacted a law making it an offence to throw garbage in the open."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the difference between weather and climate with suitable examples.",
+      "answer": "Weather refers to the atmospheric conditions at a specific time and place, such as 'It is raining heavily in Mumbai today.' It is short-term and can change rapidly. Climate, on the other hand, is the long-term average of weather patterns observed over many years for a particular region. For example, saying 'Rajasthan has a hot and dry climate' means that over decades, the average conditions there are characterized by high temperatures and low rainfall. Weather is about immediate conditions (like today's temperature), while climate describes the typical pattern expected in a season or year."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the importance of meteorology in human life and list the sectors that benefit from weather forecasts.",
+      "answer": "Meteorology is crucial for human life as it helps us understand and predict atmospheric phenomena, which directly impact our survival and activities. Its importance includes: 1) Agriculture: Farmers rely on weather forecasts for sowing, irrigation, and harvesting. 2) Disaster Management: Early warnings for storms, floods, and cyclones save lives and property. 3) Aviation and Shipping: Safe air and sea travel depend on accurate weather information. 4) Water Resource Management: Planning for rainfall and droughts. 5) Daily Life: Influences clothing, travel plans, and outdoor events. 6) Construction: Climate factors are considered for building bridges, runways, and skyscrapers. Thus, meteorology supports economic activities, safety, and day-to-day decision-making."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Explain the role and functions of the India Meteorological Department (IMD).",
+      "answer": "The India Meteorological Department (IMD), founded in 1875, is the national agency responsible for meteorological observations, weather forecasting, and seismology. Its key functions include: 1) Weather Forecasting: It prepares and publishes weather maps twice daily, providing predictions for the general public and specific sectors. 2) Research: Continuous research on climatic instruments, radar predictions, satellite rainfall estimates, and air pollution. 3) Disaster Warnings: It issues warnings for calamities like cyclones, heavy rainfall, heatwaves, cold waves, and tsunamis. 4) Sectoral Services: Provides vital weather information to aviation, shipping, agriculture, irrigation, and marine oil exploration. 5) Monsoon Prediction: Develops and uses various models (statistical, dynamical, holistic) to predict the Indian monsoon. With its headquarters in New Delhi and regional offices across India, IMD plays a pivotal role in the nation's safety and economic planning."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Compare and contrast the three types of monsoon prediction models mentioned in the chapter: Statistical, Mathematical (Dynamic), and Holistic.",
+      "answer": "The chapter describes three main approaches to monsoon prediction: 1) Statistical Model: This model compares current climatic observations (like ocean temperature, atmospheric pressure) with historical data from past years. Using statistical methods, it identifies patterns to predict the monsoon for the current conditions. It is based on past relationships. 2) Mathematical (Dynamic) Model: This model uses complex mathematical equations to simulate the physical processes in the atmosphere and oceans. It takes current weather data and uses supercomputers (like Param) to calculate future states. It is based on the laws of physics. 3) Holistic Model: This is not a separate model but an integrated approach. It combines the predictions from various statistical and dynamical models, selecting the most impactful parameters to produce a collective, more reliable forecast. It leverages the strengths of multiple models to improve accuracy. While statistical models rely on history, dynamic models rely on physics, and holistic models rely on synthesis."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "What is solid waste management? Explain its necessity and list its key principles (the 'R' principles).",
+      "answer": "Solid waste management refers to the systematic collection, transport, processing, recycling, and disposal of solid waste materials in a way that minimizes their impact on health and the environment. It is necessary because: 1) To prevent environmental pollution (air, water, soil). 2) To conserve natural resources by recycling and reusing. 3) To produce energy (biogas, electricity) and compost from waste. 4) To protect public health by preventing disease spread. 5) To maintain cleanliness and natural beauty. The key principles, often called the 'R' principles, include: Reuse (using items again), Refuse (saying no to non-degradables like plastic), Recycle (converting waste into new products), Rethink (reconsidering our consumption habits), Reduce (minimizing waste generation), Research (finding new ways to reuse materials), and Regulation & Public Awareness (following rules and educating others)."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Classify the different types of solid waste with examples as given in the chapter's table.",
+      "answer": "The chapter classifies solid waste into several categories based on their source: 1) Domestic Waste: e.g., leftover food, paper, plastic bags, vegetable waste, glass. 2) Industrial Waste: e.g., chemicals, pigments, sludge, ash, metals. 3) Hazardous Waste: e.g., industrial chemicals, radioactive materials, explosives, infectious substances. 4) Farm/Garden Waste: e.g., leaves, branches, crop residues (straw), animal dung, pesticide remains. 5) Electronic Waste (E-waste): e.g., non-functional TVs, cell phones, computers. 6) Biomedical Waste: e.g., bandages, needles, medicine bottles, test tubes, body parts from hospitals. 7) Urban Waste: e.g., waste from shops, markets, construction sites (carry bags, glass, metal). 8) Radioactive Waste: e.g., Strontium-90, heavy water from nuclear plants. 9) Mining Waste: e.g., residues of heavy metals like lead, arsenic from mines."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the harmful effects of improper solid waste management on the environment and human health.",
+      "answer": "Improper solid waste management has severe consequences: Environmental Effects: 1) Water Pollution: Leachate from garbage dumps contaminates groundwater and surface water bodies. 2) Air Pollution: Burning waste releases toxic gases (like dioxins) and particulate matter. Decomposing waste produces methane, a greenhouse gas, and foul odors. 3) Soil Pollution: Non-biodegradable plastics and chemicals degrade soil quality and fertility. 4) Degradation of Natural Beauty: Littered landscapes and overflowing bins spoil scenic beauty. 5) Harm to Biodiversity: Animals can ingest or get entangled in waste, leading to injury or death. Human Health Effects: 1) Disease Spread: Garbage piles attract flies, mosquitoes, and rats, which are vectors for diseases like cholera, dengue, and plague. 2) Respiratory Issues: Inhaling polluted air from burning waste causes asthma and other lung diseases. 3) Toxic Exposure: Direct contact with hazardous or biomedical waste can cause infections, poisoning, and long-term illnesses. 4) Mental Stress: Living near waste sites affects quality of life and well-being."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Describe the basic principles of first aid (ABC) and the RICE remedy for minor injuries.",
+      "answer": "The basic principles of first aid for a serious situation are summarized as ABC: 1) Airway: Ensure the victim's airway is clear. Tilt the head back or lift the chin to open the respiratory passage. 2) Breathing: If the victim is not breathing, provide artificial ventilation through mouth-to-mouth resuscitation. 3) Circulation: If there is no pulse, perform Cardio-Pulmonary Resuscitation (CPR). After two breaths, press hard on the center of the chest with both palms (chest compressions) about 15 times, alternating with breaths to restore circulation. For minor injuries like sprains, twists, or contusions, the RICE remedy is applied: Rest: Stop activity and rest the injured part. Ice: Apply an ice-pack (wrapped in cloth) to the area for 15-20 minutes to reduce swelling and pain. Compression: After icing, gently bandage or wrap the area to provide support and reduce swelling. Elevate: Keep the injured part raised above heart level to minimize swelling."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What is disaster management? Outline the key steps or components involved in the disaster management cycle.",
+      "answer": "Disaster management is a systematic process of planning, organizing, coordinating, and implementing measures to prevent, prepare for, respond to, and recover from disasters. Its key components or steps include: 1) Prevention/Mitigation: Actions taken to reduce the risk or impact of disasters (e.g., building flood barriers, enforcing building codes). 2) Preparedness: Planning and training to ensure an effective response (e.g., conducting drills, stockpiling supplies). 3) Response: Immediate actions during and after a disaster to save lives and meet basic needs (e.g., search and rescue, first aid, evacuation). 4) Recovery: Short-term and long-term efforts to restore normalcy (e.g., clearing debris, providing temporary shelter, rebuilding infrastructure). 5) Rehabilitation: Supporting affected communities to rebuild their lives and livelihoods. 6) Assessment: Evaluating the damage and the effectiveness of the response to improve future plans. This cycle aims to minimize loss of life, property, and environmental damage."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain the relationship between weather forecasting and disaster management with suitable examples.",
+      "answer": "Weather forecasting and disaster management are intrinsically linked. Accurate weather forecasts are the foundation for effective disaster preparedness and response. Forecasting provides early warnings that allow authorities and the public to take preventive actions. For example: 1) Cyclones: IMD's cyclone track predictions enable the evacuation of coastal populations, saving thousands of lives. 2) Floods: Heavy rainfall forecasts allow for the release of dam water in a controlled manner and alerting communities in flood-prone areas. 3) Heatwaves/Cold Waves: Advance warnings help set up shelters and health advisories to protect vulnerable populations. 4) Droughts: Long-term monsoon predictions guide agricultural planning and water resource management to mitigate famine. Thus, meteorology feeds critical information into the disaster management cycle, transforming potential calamities into manageable events through timely action."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Why is e-waste considered harmful? Express your opinion on its management.",
+      "answer": "E-waste (electronic waste) is harmful for several reasons: 1) Toxic Components: It contains hazardous materials like lead, mercury, cadmium, and brominated flame retardants. If not disposed of properly, these toxins can leach into soil and groundwater, causing severe pollution. 2) Health Risks: Informal recycling in developing countries often involves burning wires to extract copper, releasing toxic fumes that cause respiratory diseases, skin ailments, and neurological damage in workers. 3) Resource Waste: E-waste also contains valuable metals like gold, silver, and copper. Dumping it represents a loss of finite resources. 4) Non-biodegradable: Most electronic components are non-biodegradable and persist in the environment for centuries. In my opinion, managing e-waste requires a multi-pronged approach: a) Strict enforcement of laws for proper collection and recycling. b) Encouraging manufacturers to design longer-lasting, easily recyclable products (Extended Producer Responsibility). c) Setting up formal, safe recycling facilities. d) Creating public awareness about the dangers of improper disposal and promoting drop-off points for old electronics. Individual responsibility, like repairing devices instead of replacing them, is also key."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "How can an individual participate in solid waste management? List specific habits mentioned in the chapter.",
+      "answer": "An individual can actively participate in solid waste management by adopting responsible habits: 1) Follow the 3 R Mantra: Consciously Reduce waste generation, Reuse items where possible, and segregate waste for Recycling. 2) Proper Disposal: Always throw wrappers, packets, etc., into dustbins and avoid littering. 3) Avoid Plastic: Use cloth bags or bags made from old clothes instead of plastic bags. 4) Wise Paper Use: Write on both sides of paper and reuse greeting cards and gift wraps. 5) Personal Items: Use a handkerchief instead of tissue paper. 6) Battery Choice: Use rechargeable batteries over disposable ones. 7) Avoid 'Use and Throw': Refuse single-use items like plastic pens, tetra-packs, and disposable cutlery. 8) Educate and Encourage: Implement waste management practices at home and educate family and neighbors. 9) Segregate Waste: Separate wet (biodegradable) and dry (non-biodegradable) waste at source. 10) Compost: Convert kitchen waste into compost for plants. These small actions collectively lead to significant environmental benefits."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Describe the scientific and eco-friendly methods of waste management illustrated in figure 9.5.",
+      "answer": "Figure 9.5 illustrates two key aspects of scientific and eco-friendly waste management: A) Proper Storage: It shows a method of storing waste in a clean, covered bin, preventing scattering and bad odor. This is the first step—containment. B) Segregation at Source: It shows specific colored dustbins for different types of waste: Paper, Glass, Plastic, Metal. This segregation is crucial for effective recycling and treatment. Eco-friendly methods extend from this point: 1) Composting: Biodegradable waste (like food scraps) is converted into nutrient-rich compost. 2) Vermi-composting: Using earthworms to accelerate composting. 3) Recycling: Sending segregated dry waste (paper, glass, plastic, metal) to recycling units to make new products. 4) Safe Landfill: For non-recyclable inert waste, using engineered landfill sites to prevent contamination. 5) Incineration/Pyrolysis: Burning specific types of waste (like biomedical) under controlled conditions to generate energy (biogas, electricity). These methods minimize environmental impact and recover resources."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain the importance of climate in the living world with examples from the chapter.",
+      "answer": "Climate is a fundamental determinant of life on Earth, influencing ecosystems and human societies in profound ways: 1) Development of Organisms: The natural environment (land, water, plants, animals), which is shaped by climate, is responsible for the evolution and survival of species. 2) Human Lifestyle: Climate dictates diet, clothing, housing, and occupations. For example, Kashmiris have a lifestyle adapted to cold climates (woollen clothing, specific housing), while Rajasthanis are adapted to hot, arid conditions. 3) Oceanic Processes: Salinity of seawater, formation of ocean currents, and the global water cycle are all driven by climatic factors like temperature and wind. 4) Weathering: Climate factors (rain, temperature fluctuations) break down rocks, initiating soil formation. 5) Soil Enrichment: Climate affects microbial activity in the soil, which is vital for decomposing organic matter and creating fertile soil. 6) Agriculture: As an agrarian country, India's food security is directly tied to monsoon patterns and seasonal climates. Thus, climate is the invisible hand that shapes the physical and biological world."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "What are the key considerations and methods for safely transporting injured victims as described in the chapter?",
+      "answer": "Safely transporting an injured victim is critical to prevent further injury. The chapter describes several methods, each suited to different conditions: 1) Cradle Method: For children or lightweight victims; carry them in your arms. 2) Piggy Back: For carrying an unconscious person; the victim is carried on the rescuer's back. 3) Human Crutch Method: If one leg is injured, the victim leans on the rescuer's shoulder, minimizing weight on the good leg. 4) Pulling or Lifting Method: For short distances, drag or lift an unconscious victim carefully, supporting the head and neck. 5) Four-Hand Chair: Two rescuers interlock hands to create a seat, useful when support below the waist is needed. 6) Two-Hand Chair: Two rescuers use their hands to form a seat for a victim who cannot use their hands but can sit upright. 7) Stretcher: The ideal method for serious injuries. If a proper stretcher isn't available, improvise with bamboo poles and a blanket. Key considerations: Always prioritize spinal immobilization if a back injury is suspected, move the victim as little as possible, and ensure the airway remains open during transport."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Write short notes on: a) Meteorology, b) Climatic factors, c) Industrial waste.",
+      "answer": "a) Meteorology: It is the scientific study of the atmosphere, focusing on weather processes and forecasting. It examines the inter-relationships between air components, natural cycles (like water and carbon cycles), geological movements, and climate. Meteorologists study phenomena like storms, clouds, rainfall, thunder, and lightning. The field is essential for providing weather forecasts that benefit agriculture, aviation, shipping, disaster management, and daily life. b) Climatic Factors: These are the measurable elements that define the climate of a region. They include temperature, atmospheric pressure, humidity, rainfall, sunlight, cloud cover, and wind speed/direction. These factors interact complexly over long periods to establish the characteristic climate of an area, influencing ecosystems, human activities, and economic development. c) Industrial Waste: This is waste generated by manufacturing and industrial processes. It includes a wide range of materials like chemicals, pigments, ash, sludge, scrap metal, and other by-products. Industrial waste can be hazardous (toxic chemicals) or non-hazardous. Improper disposal leads to severe pollution of air, water, and soil, posing risks to human health and the environment. Proper management involves treatment, safe disposal, and recycling where possible."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Write short notes on: a) Monsoon model, b) Plastic waste, c) Principles of first aid.",
+      "answer": "a) Monsoon Model: A monsoon model is a scientific framework or set of rules used to predict the behavior of the monsoon season. The chapter mentions three types: Statistical (based on historical data comparisons), Mathematical/Dynamic (based on physical laws and computer simulations), and Holistic (integrating outputs from multiple models). These models use parameters like ocean temperature, atmospheric pressure, and Himalayan snowfall to forecast rainfall patterns, which is vital for India's agriculture and water planning. b) Plastic Waste: This is a type of non-biodegradable solid waste consisting of discarded plastic items like bags, bottles, and packaging. It is a major environmental pollutant because it does not decompose for centuries (some bags can take 10 lakh years). It clogs drains, contaminates soil and water, harms wildlife that ingest it, and when burned, releases toxic gases. Management focuses on the 3 Rs: Reduce usage, Reuse bags, and Recycle plastic into new products. c) Principles of First Aid: The core principles are to preserve life, prevent further harm, and promote recovery. The ABC rule is fundamental: Airway (ensure it's open), Breathing (provide artificial respiration if needed), and Circulation (perform CPR if no pulse). Other principles include controlling bleeding, treating for shock, immobilizing fractures, and applying the RICE remedy for sprains. First aid is immediate, temporary care until professional medical help arrives."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Discuss the statement: 'Human progress is related to a conducive climate and geography.'",
+      "answer": "This statement highlights that the advancement of human civilizations has historically been deeply intertwined with favorable climatic and geographical conditions. A conducive climate provides reliable rainfall, moderate temperatures, and fertile soil, which are essential for agriculture—the foundation of settled societies. For example, ancient civilizations like the Indus Valley and Mesopotamia flourished near rivers (geography) with predictable climates that supported farming. Geography provides natural resources (water, minerals, forests), trade routes, and defensible locations. A harsh climate (extreme cold, drought) or difficult geography (deserts, mountains) poses challenges that can slow development. While modern technology allows humans to adapt to some extent, even today, economic activities, population distribution, and lifestyle are heavily influenced by climate (e.g., tourism in pleasant climates, agriculture in fertile plains) and geography (e.g., ports on coasts, cities near water sources). Thus, while human ingenuity can overcome some limitations, a conducive natural environment has been and remains a significant catalyst for progress."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Explain how microbes in the soil are related to climatic factors, as mentioned in the chapter.",
+      "answer": "The chapter states that microbes in the soil play an important role in the formation of organic materials (humus), and this process depends upon various climatic factors. Soil microbes (bacteria, fungi) are decomposers that break down dead plant and animal matter. Their activity is highly sensitive to climate: 1) Temperature: Microbial activity increases in warm conditions and slows down or stops in cold temperatures. 2) Moisture (Rainfall/Humidity): Microbes need water to function. Adequate moisture promotes decomposition, while drought conditions inhibit it. 3) Aeration: Wind and soil structure (influenced by climate) affect oxygen availability, which is crucial for aerobic microbes. Therefore, the rate at which organic matter is decomposed and converted into nutrient-rich humus—a process vital for soil fertility and the carbon cycle—is directly regulated by the local climate. In a conducive climate, efficient microbial activity enriches soil, supporting plant growth, which in turn supports entire ecosystems."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Based on the degradation times given in the table, why is managing plastic and thermocol waste a critical environmental challenge?",
+      "answer": "The table shows that certain plastic bags can take up to 10 lakh (1 million) years to degrade naturally, and thermocol (styrofoam) cups have an infinite degradation period. This makes managing these wastes a critical environmental challenge for several reasons: 1) Persistent Pollution: These materials do not break down for centuries, accumulating in landfills and natural environments (oceans, forests) indefinitely. 2) Physical Harm: They break into microplastics that are ingested by wildlife, causing internal blockages, starvation, and entering the food chain. 3) Chemical Leaching: Over time, some plastics leach toxic additives (like phthalates, BPA) into soil and water. 4) Visual Blight: Littered plastic and thermocol spoil landscapes and water bodies, degrading natural beauty and affecting tourism. 5) Resource Drain: They are made from non-renewable petroleum, and their long life means the embedded resources are locked away as waste. 6) Inefficiency of Landfills: They occupy valuable landfill space for millennia. This persistence demands urgent action: drastic reduction in use, innovation in biodegradable alternatives, strict recycling, and effective cleanup efforts."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How does the 'Research' principle in solid waste management contribute to sustainability?",
+      "answer": "The 'Research' principle in solid waste management involves conducting studies to find new ways to reuse materials that are temporarily out of use or considered waste. This contributes to sustainability in multiple ways: 1) Innovation in Recycling: Research can develop more efficient and cost-effective methods to recycle complex materials (like multi-layer packaging or e-waste), diverting them from landfills. 2) Creating Value from Waste: Research can transform waste into valuable products—for example, turning banana peels into paper or threads (as done in Japan), converting plastic waste into construction materials, or generating biofuels from organic waste. 3) Designing for Sustainability: Research into materials science can lead to the development of new, biodegradable, or more easily recyclable materials to replace persistent pollutants like conventional plastics. 4) Improving Processes: Research can optimize waste collection, segregation, and treatment processes to reduce energy consumption and environmental footprint. 5) Policy Support: Scientific research provides the data needed to formulate effective waste management policies and regulations. By continuously seeking knowledge and innovation, research closes the loop in a circular economy, turning waste into resources and promoting long-term environmental and economic sustainability."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Describe the 'Regulation and public awareness' principle of solid waste management and its importance.",
+      "answer": "The 'Regulation and public awareness' principle has two interconnected parts crucial for effective waste management. Regulation refers to the establishment and enforcement of laws, rules, and policies by governments and local authorities. For example, bans on single-use plastics, mandates for waste segregation, and penalties for illegal dumping. These regulations provide a legal framework that compels industries and citizens to adopt responsible practices. Public Awareness involves educating and motivating individuals and communities about the importance of waste management, the rules in place, and how they can contribute. This includes campaigns, school programs, and informational signage. The importance of this combined principle is immense: 1) Ensures Compliance: Laws alone are ineffective without public cooperation. Awareness bridges this gap. 2) Promotes Behavioral Change: Long-term solutions require a shift in public mindset—from 'throw-away' to 'reduce and recycle.' Awareness campaigns foster this change. 3) Empowers Citizens: Informed citizens can make better choices, demand better services from municipalities, and hold polluters accountable. 4) Enhances Effectiveness: When people segregate waste at home, recycling programs become more efficient and cost-effective. 5) Creates a Culture of Responsibility: Together, regulation and awareness build a societal norm where proper waste disposal is seen as a civic duty, essential for a clean and healthy environment."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How can weather forecasts help in minimizing the adverse effects of climate on human activities? Provide examples.",
+      "answer": "Weather forecasts provide advance information about atmospheric conditions, allowing individuals, communities, and industries to adapt their plans and take precautionary measures, thereby minimizing adverse effects. Examples: 1) Agriculture: A forecast for heavy rain can prompt a farmer to delay harvesting to prevent crop damage, or a forecast for drought can guide irrigation scheduling. 2) Aviation and Shipping: Pilots and ship captains use forecasts to avoid turbulent weather, storms, or fog, ensuring passenger safety and preventing accidents. 3) Construction: Forecasts for high winds or extreme temperatures can lead to work stoppages on skyscrapers or bridges, protecting workers. 4) Energy Sector: Electricity grids can prepare for increased demand during heatwaves or cold spells. 5) Daily Commute: People can plan their travel, carrying umbrellas or wearing appropriate clothing based on the day's forecast, reducing discomfort and health risks. 6) Event Planning: Outdoor events like weddings or sports can be rescheduled based on rain forecasts. 7) Health: Warnings about heatwaves or cold waves allow public health officials to issue advisories and open shelters. Thus, forecasts transform climate from a potential disruptor into a manageable variable."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What are the key lessons from the historical example of Athens (320 BCE) regarding garbage disposal?",
+      "answer": "The historical mention of Athens in 320 BCE enacting a law against throwing garbage in the open teaches several key lessons that remain relevant today: 1) Early Recognition of the Problem: Ancient societies recognized that open dumping of waste was a public nuisance and health hazard, proving that waste management is not a modern concern but a perennial human challenge. 2) The Role of Law: It shows that legislation has been a tool for environmental management for millennia. Laws are necessary to set standards and deter antisocial behavior. 3) Civic Responsibility: The law implied that maintaining cleanliness was a civic duty. It established that public spaces should not be treated as private dumping grounds. 4) Urban Planning: As one of the early major cities, Athens' law indicates that organized waste management is a cornerstone of urban civilization and public health. 5) Prevention Over Cure: The law aimed to prevent littering rather than just cleaning up afterwards, a principle central to modern waste management (like the 'Reduce' principle). This ancient example underscores that a clean environment requires conscious effort, collective rules, and civic discipline—lessons that are the foundation of today's solid waste management policies."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'geographic favourability' in the context of human development and climate.",
+      "answer": "The term 'geographic favourability' (mentioned in an exercise) refers to the advantageous natural conditions of a location that support human settlement and development. In the context of climate, it means having a climate that is conducive to human health, agriculture, and economic activities. A geographically favorable area typically has: 1) A Temperate Climate: Moderate temperatures that are neither too hot nor too cold, reducing the energy needed for heating or cooling and allowing year-round outdoor work. 2) Adequate and Reliable Rainfall: Sufficient precipitation for agriculture without causing destructive floods. 3) Fertile Soil: Often a result of the climate and geology, supporting crop cultivation. 4) Access to Fresh Water: From rivers or consistent rainfall. 5) Natural Resources: Forests, minerals, and favorable conditions for trade (like navigable rivers or coastlines). Regions with these features, such as river valleys (Indus, Nile), have historically been cradles of civilization. Conversely, geographically challenging areas like deserts, polar regions, or high mountains have slower development due to climatic extremes. Thus, geographic favourability, heavily influenced by climate, has been a primary driver in the distribution of human populations and the pace of their progress."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "How do the principles of 'Reduce' and 'Reuse' specifically help in managing solid waste?",
+      "answer": "The principles of 'Reduce' and 'Reuse' are proactive strategies that tackle the waste problem at its source, making management more effective and sustainable. Reduce: This means minimizing the amount of waste generated in the first place. It involves conscious consumption—buying only what is needed, choosing products with less packaging, and avoiding single-use items. For example, using a reusable water bottle eliminates the need for countless plastic bottles. By reducing consumption, we directly decrease the volume of waste that needs to be collected, transported, and disposed of, thereby saving resources and reducing pollution from waste processing. Reuse: This means finding another use for an item instead of throwing it away after its initial purpose. It extends the life of products. Examples include using old jars for storage, donating old clothes, or using both sides of paper. Reuse delays an item's entry into the waste stream, reduces the demand for new products (and the resources/energy to make them), and decreases the frequency of waste disposal. Together, 'Reduce' and 'Reuse' are more environmentally friendly than recycling because they prevent waste generation altogether and conserve the maximum amount of energy and raw materials."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "What is the significance of the monsoon for India, and how has the approach to predicting it evolved?",
+      "answer": "The monsoon is of paramount significance to India because it provides about 70-90% of the country's annual rainfall, crucial for agriculture, which employs a large portion of the population and ensures food security. It recharges rivers, lakes, and groundwater, supporting drinking water supplies, industry, and hydropower. The economy and livelihoods are deeply tied to its timeliness and distribution. The approach to predicting the monsoon has evolved significantly: 1) Early Beginnings (Late 1800s): After the 1877 famine, H.F. Blanford of IMD made the first prediction using Himalayan snowfall as a parameter. 2) Statistical Era (1930s): Sir Gilbert Walker identified worldwide teleconnections (like the Southern Oscillation) affecting the monsoon, leading to statistical models based on historical data. 3) Dynamic Modeling (Late 20th Century): With the advent of supercomputers, mathematical models simulating atmospheric physics were developed. Dr Vasantrao Govarikar's 16-parameter model (1990-2002) was a landmark. 4) Holistic & High-Tech Present: Current IMD forecasts use an ensemble of statistical and dynamic models (holistic approach), aided by advanced technology like the Param supercomputer, satellites, and radar systems. This evolution reflects a move from simple correlations to complex, technology-driven science for more accurate and reliable forecasts."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "In the context of disaster management, what is the importance of the 'assessment of damages' phase?",
+      "answer": "The 'assessment of damages' phase is a critical component of disaster management that occurs after the immediate response. Its importance lies in several key functions: 1) Informing Relief Allocation: It provides accurate data on the extent and location of damage to life, property, and infrastructure. This ensures that relief resources (food, medicine, tents) are distributed efficiently and equitably to the areas most in need. 2) Planning Rehabilitation and Reconstruction: A thorough assessment forms the basis for rebuilding plans. It helps prioritize which roads, bridges, schools, or hospitals need to be rebuilt first and estimates the cost and materials required. 3) Facilitating Insurance and Aid: Detailed damage reports are necessary for victims to claim insurance and for governments to request financial aid from national or international agencies. 4) Improving Future Preparedness: By analyzing what was damaged and why, authorities can identify vulnerabilities in buildings, infrastructure, or warning systems. This 'lessons learned' approach helps in updating building codes, land-use planning, and disaster response plans to mitigate future risks. 5) Psychological and Social Recovery: Documenting losses also has a symbolic value, acknowledging the suffering of communities and marking the beginning of the long-term recovery process. Thus, damage assessment bridges the gap between emergency response and sustainable recovery."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Discuss the potential of solid waste as a 'valuable source of energy' and the methods to harness it.",
+      "answer": "Solid waste, often seen as a problem, has significant potential as a valuable source of energy, turning a liability into a resource. This is primarily because waste contains organic matter (biomass) and materials with high calorific value. Methods to harness energy from waste include: 1) Incineration (Waste-to-Energy): Burning non-recyclable waste at high temperatures in special facilities to generate steam, which drives turbines to produce electricity. This reduces landfill volume by up to 90%. 2) Pyrolysis/Gasification: Thermochemical processes that decompose organic waste in the absence of oxygen, producing synthetic gas (syngas) or bio-oil, which can be used as fuel or to generate electricity. 3) Biogas Production: Anaerobic digestion of wet organic waste (like food scraps, animal dung) by bacteria produces methane-rich biogas. This biogas can be used for cooking, heating, or generating electricity. The leftover digestate is a nutrient-rich fertilizer. 4) Landfill Gas Recovery: Even in landfills, decomposing organic waste produces landfill gas (mainly methane). Wells are drilled to capture this gas, which is then purified and used as fuel. Harnessing energy from waste addresses two issues simultaneously: it provides a renewable energy source and reduces the environmental burden of waste disposal. Countries like America are leaders in waste-to-energy production."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Integrating concepts from the chapter, explain how responsible environmental management is a collective responsibility involving science, policy, and individual action.",
+      "answer": "Responsible environmental management, as illustrated by topics like meteorology, solid waste management, and disaster management, is a complex challenge that cannot be addressed by any single entity. It requires a synergistic effort combining science, policy, and individual action. Science (e.g., Meteorology, Environmental Science) provides the foundational knowledge. It helps us understand climate systems, predict weather extremes, analyze waste composition, and develop technologies for recycling and renewable energy. Science identifies problems and offers technical solutions. Policy (Government and Regulation) translates scientific understanding into actionable frameworks. It establishes laws for emissions control, waste segregation, and disaster preparedness plans. Policies create incentives for green technologies and penalties for pollution, setting the rules for society. Individual Action is the final, crucial layer. Laws and technologies fail without public participation. Every person must adopt sustainable habits—reducing waste, conserving water, following weather advisories, and participating in disaster drills. Individual choices drive market demand for eco-friendly products and create political will for stronger policies. For instance, managing solid waste effectively requires scientific methods (composting, pyrolysis), regulatory measures (plastic bans, landfill standards), and individual cooperation (segregation, reuse). Similarly, mitigating disaster impacts relies on scientific forecasts, government early warning systems, and citizens heeding evacuation orders. Thus, environmental management is a triad where science informs policy, policy enables and guides individuals, and individual compliance and innovation make the system work, ensuring a sustainable future for all."
+    }
+  ]
+}

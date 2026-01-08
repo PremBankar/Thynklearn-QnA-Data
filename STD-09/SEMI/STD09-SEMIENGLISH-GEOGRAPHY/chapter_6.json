@@ -1,0 +1,1771 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.06",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "सागरजलाचे गुणधर्म"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "सागरजलाचे पृष्ठीय तापमान विषुववृत्ताकडून ध्रुवाकडे कसे होत जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाढत जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी कमी होत जाते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर राहते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनियमित असते",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी कमी होत जाते"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "विषुववृत्तीय प्रदेशात सागरजलाचे सरासरी पृष्ठीय तापमान किती असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२° से.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१६° से.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२५° से.",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "३५° से.",
+          "is_correct": false
+        }
+      ],
+      "answer": "२५° से."
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सागरजलाचे तापमान साधारणपणे किती खोलीपर्यंत सूर्याच्या उष्णतेने प्रभावित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "५०० मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१००० मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२००० मीटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "४००० मीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "२००० मीटर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "किती खोलीच्या पलीकडे सागरजलाचे तापमान सर्वत्र सारखेच (सुमारे ४° से.) असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "५०० मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१००० मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२००० मीटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "३००० मीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "२००० मीटर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सागरजलाची क्षारता मोजण्यासाठी सामान्यतः कोणते प्रमाण वापरले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "टक्केवारी (%)",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दर हजारी (‰)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "किलोग्रॅम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मिलीमीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "दर हजारी (‰)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "महासागरांच्या पाण्याची सरासरी क्षारता किती असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२५ ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "३५ ‰",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "४५ ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "५५ ‰",
+          "is_correct": false
+        }
+      ],
+      "answer": "३५ ‰"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कोणत्या कटिबंधात बाष्पीभवनाचा वेग जास्त आणि पर्जन्यमान कमी असल्यामुळे क्षारता सर्वाधिक आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विषुववृत्तीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण कटिबंध (कर्क व मकरवृत्ताजवळ)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शीत कटिबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्रुवीय प्रदेश",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्ण कटिबंध (कर्क व मकरवृत्ताजवळ)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "जगातील सर्वात जास्त क्षारता असलेल्या समुद्रांपैकी एक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अरबी समुद्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बंगालचा उपसागर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मृत समुद्र (Dead Sea)",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कॅस्पियन समुद्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "मृत समुद्र (Dead Sea)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मृत समुद्राची क्षारता सुमारे किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "३५ ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१०० ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "३३२ ‰",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "५०० ‰",
+          "is_correct": false
+        }
+      ],
+      "answer": "३३२ ‰"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सागरजलाच्या तापमानावर आणि क्षारतेवर खालीलपैकी कोणता तिसरा महत्त्वाचा गुणधर्म अवलंबून असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घनता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवाह",
+          "is_correct": false
+        }
+      ],
+      "answer": "घनता"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पाण्याचे तापमान कमी झाल्यास घनतेवर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घनता कमी होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घनता वाढते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घनता स्थिर राहते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही बदल होत नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "घनता वाढते"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "क्षारता वाढल्यास सागरजलाच्या घनतेवर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घनता वाढते",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घनता कमी होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घनता बदलत नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घनता शून्यावर येते",
+          "is_correct": false
+        }
+      ],
+      "answer": "घनता वाढते"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "विषुववृत्तावर मोठ्या प्रमाणात पर्जन्यमान असल्यामुळे सागरजलाच्या क्षारतेवर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्षारता वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्षारता कमी होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्षारता मध्यम राहते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्षारता अनिश्चित असते",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्षारता कमी होते"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "बंगालच्या उपसागराची क्षारता अरबी समुद्रापेक्षा कमी असण्याचे मुख्य कारण काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तिथे ऊन जास्त आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोठ्या नद्यांनी येणारा गोड्या पाण्याचा पुरवठा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्राची खोली जास्त आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिथे वारे जास्त वाहतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोठ्या नद्यांनी येणारा गोड्या पाण्याचा पुरवठा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सागरजलाच्या वितरणात 'तापमान-क्षारता' यांच्यामुळे निर्माण होणाऱ्या प्रवाहामुळे काय घडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भूकंप",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जागतिक जलभिसरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वावटळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भरती-ओहोटी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जागतिक जलभिसरण"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सागरजलाचे तापमान मोजण्यासाठी कोणत्या एककाचा वापर केला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मिलीमीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अंश सेल्सिअस (° से.)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "टक्के",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंश सेल्सिअस (° से.)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "खुला समुद्र आणि भूवेष्टित समुद्र यांपैकी कोणाची क्षारता बाष्पीभवन जास्त असल्यास जास्त असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खुला समुद्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूवेष्टित समुद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोघांची सारखीच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नदीचे पाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "भूवेष्टित समुद्र"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भूमध्य समुद्राची सरासरी क्षारता सुमारे किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "३५ ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "३९ ‰",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२० ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "८ ‰",
+          "is_correct": false
+        }
+      ],
+      "answer": "३९ ‰"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "सागरजलाची क्षारता वाढवण्यास कोणता घटक कारणीभूत ठरतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त पर्जन्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नद्यांचा गोडा पाणी पुरवठा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेगाने होणारे बाष्पीभवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हिमवृष्टी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेगाने होणारे बाष्पीभवन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या समुद्राची क्षारता कमी आहे कारण तिथे गोड्या पाण्याचा पुरवठा जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तांबडा समुद्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूमध्य समुद्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बाल्टिक समुद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अरबी समुद्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "बाल्टिक समुद्र"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या कोणत्या भागात सागरजलाचे पृष्ठीय तापमान सर्वात कमी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विषुववृत्तीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण कटिबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्रुवीय प्रदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "समशीतोष्ण कटिबंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्रुवीय प्रदेश"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाण्याची घनता सर्वाधिक कोणत्या तापमानाला असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "०° से.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "४° से.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "१००° से.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२५° से.",
+          "is_correct": false
+        }
+      ],
+      "answer": "४° से."
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सागरजलाच्या घनतेवर परिणाम करणारा सर्वात प्रभावी घटक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्षारता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तापमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तापमान"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सागरजलाची क्षारता वाढल्यास त्याचे गोठणबिंदू (Freezing point) काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर राहते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य होते",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी होते"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "अक्षांशानुसार सागरजलाच्या तापमानातील बदलाला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्षैतिज वितरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उर्ध्व वितरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आयत वितरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिरपे वितरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्षैतिज वितरण"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "सागरजलाची क्षारता दर हजारी ३५ (३५ ‰) म्हणजे १ किलो पाण्यात किती ग्रॅम क्षार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "३.५ ग्रॅम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "३५ ग्रॅम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "३५० ग्रॅम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "०.३५ ग्रॅम",
+          "is_correct": false
+        }
+      ],
+      "answer": "३५ ग्रॅम"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "अरबी समुद्राची सरासरी क्षारता किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "३० ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "३६ ‰",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "४० ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२५ ‰",
+          "is_correct": false
+        }
+      ],
+      "answer": "३६ ‰"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "बंगालच्या उपसागराची सरासरी क्षारता किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "३२ ‰",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "३६ ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "४० ‰",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२० ‰",
+          "is_correct": false
+        }
+      ],
+      "answer": "३२ ‰"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सागरजलाच्या गुणधर्मांमध्ये खालीलपैकी कशाचा समावेश होत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्षारता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आर्द्रता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्द्रता"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "समुद्राच्या किती खोलीपर्यंत तापमानात मोठी घट दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "५०० मीटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१००० मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "३००० मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "५००० मीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "५०० मीटर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "सागरजलाची क्षारता प्रामुख्याने कशावर अवलंबून असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाण्याचे बाष्पीभवन आणि गोड्या पाण्याचा पुरवठा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "माशांच्या संख्येवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्राच्या रंगावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चंद्र आणि सूर्याच्या आकर्षणावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाण्याचे बाष्पीभवन आणि गोड्या पाण्याचा पुरवठा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "सागरजलाच्या तापमानावर परिणाम करणारा प्रमुख घटक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अक्षांश",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रेखांश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नद्यांची लांबी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रातील गाळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "अक्षांश"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "सागरजलाच्या क्षारतेमुळे पाण्याची काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लावकता (Buoyancy)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पारदर्शकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्लावकता (Buoyancy)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "ध्रुवीय प्रदेशात सागरजलाचे पृष्ठीय तापमान सुमारे किती असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२° से.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१०° से.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "२०° से.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "-५०° से.",
+          "is_correct": false
+        }
+      ],
+      "answer": "२° से."
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "क्षारतेचे वितरण नकाशावर कशाच्या साहाय्याने दाखवले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समताप रेषा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समक्षार रेषा (Isohalines)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समदाब रेषा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुच्च रेषा",
+          "is_correct": false
+        }
+      ],
+      "answer": "समक्षार रेषा (Isohalines)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "सागरजलाच्या तापमानातील बदलासाठी खालीलपैकी कोणता घटक कारणीभूत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सौरऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सागरी प्रवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्जन्यमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खडक प्रकार",
+          "is_correct": true
+        }
+      ],
+      "answer": "खडक प्रकार"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "महासागरांच्या कोणत्या भागात क्षारता सर्वात कमी आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्कवृत्ताजवळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ध्रुवीय प्रदेशात (बर्फ वितळल्यामुळे)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मकरवृत्ताजवळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूमध्य समुद्रात",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्रुवीय प्रदेशात (बर्फ वितळल्यामुळे)"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "सागरजलाचे तापमान खोलवर गेल्यावर एका मर्यादेनंतर का बदलत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तिथे सूर्यप्रकाश पोहोचत नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तिथे पाणी नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तिथे मासे जास्त असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिथे दाब कमी असतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "तिथे सूर्यप्रकाश पोहोचत नाही"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सागरी जलाच्या घनतेवर दाब (Pressure) केव्हा परिणाम करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पृष्ठभागावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अति खोलीवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नदीच्या मुखाशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रकिनारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अति खोलीवर"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या क्रियेमुळे सागरजलाची क्षारता वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाण्याचे बाष्पीभवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पर्जन्यमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नदीचे आगमन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाण्याचे बाष्पीभवन"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "सागरजलाचे तापमान मोजण्यासाठी कोणत्या उपकरणाचा वापर करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्जन्यमापक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आर्द्रतामापक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सागरी तापमापक (Marine Thermometer)",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बॅरोमीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सागरी तापमापक (Marine Thermometer)"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "क्षारतेचा सजीवांवर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सजीव मरतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विशिष्ट क्षारतेनुसार सजीवांचे अनुकूलन असते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काहीही परिणाम होत नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सजीव गोड्या पाण्यात जातात",
+          "is_correct": false
+        }
+      ],
+      "answer": "विशिष्ट क्षारतेनुसार सजीवांचे अनुकूलन असते"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सागरजलाच्या पृष्ठीय तापमानावर खालीलपैकी कशाचा परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चक्रीवादळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सागरी प्रवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अक्षांश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मृत समुद्रात माणूस बुडत नाही, कारण काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी खूप खोल नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अति क्षारतेमुळे पाण्याची घनता जास्त आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिथे मासे माणसाला वाचवतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिथे वारे माणसाला उचलतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "अति क्षारतेमुळे पाण्याची घनता जास्त आहे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "समुद्राच्या तळाशी पाण्याचे तापमान किती असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "०° से.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुमारे ४° से.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२५° से.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "-१०° से.",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुमारे ४° से."
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांच्या निर्मितीचे मूळ कारण काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान आणि घनतेतील फरक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समुद्रातील लाटा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्राचा निळा रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भरती आणि ओहोटी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तापमान आणि घनतेतील फरक"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "क्षारतेमुळे पाण्याचे काय होणे कठीण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बाष्पीभवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गोठणे (Freezing)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उकळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "गोठणे (Freezing)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "सागरी जलातील मुख्य क्षार कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोडिअम क्लोराईड (मीठ)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कॅल्शिअम कार्बोनेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मॅग्नेशिअम सल्फेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोटॅशिअम क्लोराईड",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोडिअम क्लोराईड (मीठ)"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "सागरजलाची घनता कशामध्ये मोजली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ग्रॅम/घनसेंमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "किलोग्रॅम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मिलीमीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मीटर/सेकंद",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रॅम/घनसेंमी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "सागरजलाच्या गुणधर्मांचा अभ्यास केल्यामुळे आपल्याला काय समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सागरी परिसंस्था आणि हवामानातील बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त मासेमारीची ठिकाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जहाजांचा वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताऱ्यांची स्थिती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सागरी परिसंस्था आणि हवामानातील बदल"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सागरजलाचे तीन मुख्य गुणधर्म कोणते?",
+      "answer": "तापमान, क्षारता आणि घनता हे सागरजलाचे तीन मुख्य गुणधर्म आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सागरजलाचे पृष्ठीय तापमान विषुववृत्ताकडून ध्रुवाकडे कसे बदलते?",
+      "answer": "सागरजलाचे पृष्ठीय तापमान विषुववृत्ताकडून ध्रुवाकडे कमी कमी होत जाते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "विषुववृत्तीय प्रदेशात सागरजलाचे सरासरी तापमान किती असते?",
+      "answer": "विषुववृत्तीय प्रदेशात सागरजलाचे सरासरी तापमान २५° से. असते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ध्रुवीय प्रदेशात सागरजलाचे तापमान किती असते?",
+      "answer": "ध्रुवीय प्रदेशात सागरजलाचे तापमान सुमारे २° से. असते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सागरजलाच्या तापमानावर परिणाम करणारे घटक कोणते?",
+      "answer": "अक्षांश, सागरी प्रवाह, चक्रीवादळे, पर्जन्यमान, सागरी लाटा इत्यादी घटक सागरजलाच्या तापमानावर परिणाम करतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "खोलीनुसार सागरजलाच्या तापमानात काय बदल होतो?",
+      "answer": "साधारणपणे खोलीनुसार सागरजलाचे तापमान कमी होत जाते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "किती खोलीपर्यंत सूर्याची उष्णता सागरजलात पोहोचू शकते?",
+      "answer": "सूर्याची उष्णता सागरजलात सुमारे २००० मीटर खोलीपर्यंत पोहोचू शकते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "२००० मीटर खोलीच्या खाली सागरजलाचे तापमान किती असते?",
+      "answer": "२००० मीटर खोलीच्या खाली सागरजलाचे तापमान सर्वत्र सुमारे ४° से. असते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सागरजलाची क्षारता म्हणजे काय?",
+      "answer": "सागरजलात विरघळलेल्या क्षारांच्या एकूण प्रमाणाला 'क्षारता' म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "क्षारता मोजण्याचे एकक कोणते?",
+      "answer": "क्षारता 'दर हजारी' (‰) या एककात मोजली जाते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "जागतिक स्तरावर महासागरांच्या पाण्याची सरासरी क्षारता किती आहे?",
+      "answer": "महासागरांच्या पाण्याची सरासरी क्षारता ३५ ‰ इतकी आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कोणत्या कटिबंधात क्षारता सर्वाधिक आढळते?",
+      "answer": "उष्ण कटिबंधातील २५° ते ३५° उत्तर व दक्षिण अक्षांशांदरम्यान क्षारता सर्वाधिक आढळते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "विषुववृत्तावर क्षारता कमी का असते?",
+      "answer": "विषुववृत्तावर वर्षभर पाऊस (पर्जन्यमान) जास्त असल्यामुळे तिथे क्षारता कमी असते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "भूवेष्टित समुद्राची क्षारता जास्त का असते?",
+      "answer": "भूवेष्टित समुद्रात बाष्पीभवनाचा वेग जास्त असतो आणि गोड्या पाण्याचा पुरवठा मर्यादित असतो, म्हणून तिथे क्षारता जास्त असते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "भूमध्य समुद्राची सरासरी क्षारता किती आहे?",
+      "answer": "भूमध्य समुद्राची सरासरी क्षारता ३९ ‰ आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "मृत समुद्राची क्षारता किती आहे?",
+      "answer": "मृत समुद्राची क्षारता ३३२ ‰ आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "मृत समुद्राला 'मृत' का म्हणतात?",
+      "answer": "अति क्षारतेमुळे तिथे सजीव सृष्टी टिकू शकत नाही, म्हणून त्यास 'मृत समुद्र' म्हणतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "घनता कशावर अवलंबून असते?",
+      "answer": "घनता प्रामुख्याने तापमान आणि क्षारता या दोन घटकांवर अवलंबून असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "तापमान आणि घनता यांत कोणता संबंध असतो?",
+      "answer": "तापमान कमी झाल्यास पाण्याची घनता वाढते (व्यस्त संबंध)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "क्षारता आणि घनता यांत कोणता संबंध असतो?",
+      "answer": "क्षारता वाढल्यास पाण्याची घनता वाढते (थेट संबंध)."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांची निर्मिती कशामुळे होते?",
+      "answer": "तापमान, क्षारता आणि घनतेतील फरकामुळे सागरी प्रवाहांची निर्मिती होते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "क्षारतेचा सजीवांवर काय परिणाम होतो?",
+      "answer": "क्षारतेमुळे समुद्रातील प्लावकता वाढते, ज्याचा उपयोग सागरी सजीवांना पोहण्यासाठी होतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "खुला समुद्र म्हणजे काय?",
+      "answer": "ज्या समुद्राला सर्व बाजूंनी जमिनीचा वेढा नसतो, त्याला 'खुला समुद्र' म्हणतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "बाल्टिक समुद्राची क्षारता कमी का आहे?",
+      "answer": "बाल्टिक समुद्र शीत कटिबंधात असून तिथे बाष्पीभवन कमी आणि बर्फ वितळल्यामुळे गोड्या पाण्याचा पुरवठा जास्त असतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कॅस्पियन समुद्राची क्षारता किती आहे?",
+      "answer": "कॅस्पियन समुद्राची क्षारता १५.५ ‰ आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "तांबड्या समुद्राची क्षारता किती आहे?",
+      "answer": "तांबड्या समुद्राची सरासरी क्षारता ४१ ‰ आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "क्षारतेमुळे गोठणबिंदूवर काय परिणाम होतो?",
+      "answer": "क्षारता वाढल्यास पाण्याचा गोठणबिंदू खाली जातो (कमी होतो)."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "सागरी जलाचा रंग निळा का दिसतो?",
+      "answer": "सूर्यप्रकाशाच्या विखुरण्यामुळे (Scattering) आणि निळ्या रंगाच्या परावर्तनामुळे समुद्र निळा दिसतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "सर्वात जास्त क्षारता असणारा भूवेष्टित समुद्र कोणता?",
+      "answer": "मृत समुद्र हा सर्वात जास्त क्षारता असणारा भूवेष्टित समुद्र आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "थर्मोहॅलिन अभिसरण म्हणजे काय?",
+      "answer": "तापमान (Thermo) आणि क्षारता (Haline) यांच्यातील फरकामुळे होणाऱ्या जागतिक जलभिसरणाला थर्मोहॅलिन अभिसरण म्हणतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "नदीच्या मुखापाशी क्षारता कमी का असते?",
+      "answer": "नदीतून समुद्रात गोड्या पाण्याचा मोठ्या प्रमाणावर पुरवठा होत असल्याने मुखापाशी क्षारता कमी असते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "क्षारतेमुळे मिठागरे कोठे आढळतात?",
+      "answer": "ज्या किनारी भागात क्षारता जास्त आणि बाष्पीभवन वेगवान असते, तिथे मिठागरे आढळतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "विषुववृत्तावर बाष्पीभवन जास्त असूनही क्षारता मध्यम का असते?",
+      "answer": "कारण तिथे ढगाळ आकाश आणि दररोज पडणारा मुसळधार पाऊस क्षारता कमी करतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "सागरजलाचा दाब खोलीनुसार काय होतो?",
+      "answer": "सागरजलाचा दाब खोलीनुसार वाढत जातो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सागरजलाच्या कोणत्या भागात सर्वात जास्त सौरऊर्जा शोषली जाते?",
+      "answer": "सागरजलाच्या वरच्या (पृष्ठीय) थरात सर्वात जास्त सौरऊर्जा शोषली जाते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अति खोलीवर पाण्याचे तापमान ४° से. का असते?",
+      "answer": "कारण ४° से. ला पाण्याची घनता सर्वाधिक असते आणि ते जड पाणी तळाला साचते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "बंगालच्या उपसागराची क्षारता किती आहे?",
+      "answer": "बंगालच्या उपसागराची सरासरी क्षारता ३२ ‰ आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "अरबी समुद्राची क्षारता किती आहे?",
+      "answer": "अरबी समुद्राची सरासरी क्षारता ३६ ‰ आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "क्षारता जास्त असल्यास पाण्याचे बाष्पीभवन काय होते?",
+      "answer": "क्षारता जास्त असल्यास बाष्पीभवनाचा वेग थोडा कमी होतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "उष्ण सागरी प्रवाह कोठून कोठे वाहतात?",
+      "answer": "उष्ण सागरी प्रवाह विषुववृत्ताकडून ध्रुवांकडे वाहतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शीत सागरी प्रवाह कोठून कोठे वाहतात?",
+      "answer": "शीत सागरी प्रवाह ध्रुवांकडून विषुववृत्ताकडे वाहतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "क्षारतेचा मानवी आरोग्यावर काय परिणाम होतो?",
+      "answer": "सागरी जलातील क्षारांपासून आपल्याला आयोडीन आणि मीठ मिळते, जे आरोग्यासाठी आवश्यक असते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "समक्षार रेषा म्हणजे काय?",
+      "answer": "नकाशावर समान क्षारता असलेली ठिकाणे जोडणाऱ्या रेषांना 'समक्षार रेषा' म्हणतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सागरजलात सर्वाधिक प्रमाणात आढळणारा क्षार कोणता?",
+      "answer": "सोडिअम क्लोराईड (Sodium Chloride) हा सर्वात जास्त आढळणारा क्षार आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "सागरजलाच्या गुणधर्मांचा हवामानावर काय परिणाम होतो?",
+      "answer": "सागरजलाचे तापमान आणि बाष्पीभवन पृथ्वीवरील पावसाचे प्रमाण आणि वाऱ्यांची दिशा ठरवते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "बर्फाच्या निर्मितीमुळे क्षारतेवर काय परिणाम होतो?",
+      "answer": "पाणी गोठून बर्फ तयार होताना क्षार पाण्यातच राहतात, त्यामुळे उर्वरित पाण्याची क्षारता वाढते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "खोलीनुसार क्षारतेत होणारा बदल कोठे अधिक जाणवतो?",
+      "answer": "खोलीनुसार क्षारतेतील बदल प्रामुख्याने पृष्ठीय थरात (५०० मीटरपर्यंत) अधिक जाणवतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "मध्य अक्षवृत्तीय पट्ट्यात क्षारता जास्त का असते?",
+      "answer": "कारण तिथे पाऊस कमी आणि बाष्पीभवनाचा वेग जास्त असतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "सागरजलाच्या अभ्यासाला काय म्हणतात?",
+      "answer": "सागरजलाच्या अभ्यासाला 'सागरशास्त्र' (Oceanography) म्हणतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "सागरी पाण्याची घनता मोजण्याचे एकक काय?",
+      "answer": "सागरी पाण्याची घनता 'ग्रॅम प्रति घन सेंटीमीटर' (g/cm³) मध्ये मोजली जाते."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "सागरजलाच्या पृष्ठीय तापमानावर परिणाम करणारे घटक सविस्तर स्पष्ट करा.",
+      "answer": "१) अक्षवृत्त: सागरजलाचे पृष्ठीय तापमान विषुववृत्ताकडून ध्रुवांकडे कमी होत जाते. २) सागरी प्रवाह: ज्या किनारपट्टीवरून उष्ण प्रवाह वाहतात तिथे तापमान वाढते, तर शीत प्रवाहांच्या भागात ते कमी होते. ३) चक्रीवादळे व पर्जन्यमान: यांमुळे पृष्ठीय तापमानात स्थानिक बदल होतात. ४) बाष्पीभवन: बाष्पीभवनाच्या प्रक्रियेमुळे पाण्याची उष्णता कमी होते. ५) इतर घटक: ढगांचे आच्छादन, जमिनीचे सानिध्य आणि सागरी लाटा यांमुळेही पृष्ठीय तापमानात भिन्नता आढळते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "खोलीनुसार सागरजलाच्या तापमानात होणारा बदल स्पष्ट करा.",
+      "answer": "१) सागरजलाचे तापमान खोलीनुसार कमी होत जाते, कारण सूर्याची उष्णता ठराविक खोलीपर्यंतच पोहोचते. २) पृष्ठभागापासून ५०० मीटर खोलीपर्यंत तापमानात वेगाने घट होते. ३) ५०० ते २००० मीटर या दरम्यान तापमानातील घट मध्यम स्वरूपाची असते. ४) २००० मीटर खोलीच्या खाली सागरजलाचे तापमान सर्वत्र स्थिर (सुमारे ४° से.) असते. ५) ४° से. ला पाण्याची घनता सर्वाधिक असते, त्यामुळे जड पाणी तळाला साचते. ६) ध्रुवीय प्रदेशात पृष्ठभागाचे तापमान २° से. असले तरी तळाशी ते ४° से. च असते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "सागरजलाच्या क्षारतेवर परिणाम करणारे घटक सविस्तर स्पष्ट करा.",
+      "answer": "१) बाष्पीभवन: ज्या ठिकाणी बाष्पीभवनाचा वेग जास्त असतो, तिथे क्षारता जास्त आढळते. २) गोड्या पाण्याचा पुरवठा: नद्यांचा गोडा पाणीपुरवठा किंवा बर्फ वितळल्यामुळे होणारा पुरवठा क्षारता कमी करतो. ३) पर्जन्यमान: मुसळधार पावसाच्या प्रदेशात क्षारता कमी असते. ४) समुद्राचे स्वरूप: भूवेष्टित समुद्रात क्षारता जास्त असते, कारण पाण्याचे मिश्रण मर्यादित असते. ५) अक्षांश: कर्क व मकर वृत्तावर बाष्पीभवन जास्त असल्याने तिथे क्षारता सर्वाधिक असते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "तापमान आणि घनता यांचा सागरजलाच्या बाबतीत काय संबंध आहे ते स्पष्ट करा.",
+      "answer": "१) तापमान आणि घनता यांचा व्यस्त संबंध असतो. २) जेव्हा पाण्याचे तापमान कमी होते, तेव्हा पाण्याची घनता वाढते. ३) थंड पाणी जड असल्यामुळे ते तळाकडे जाते. ४) ४° से. ला पाण्याची घनता सर्वाधिक असते. ५) ज्या प्रदेशात तापमान जास्त असते, तिथे घनता कमी असते, जर क्षारता समान असेल तर. ६) सागरजलाच्या उभ्या व आडव्या हालचालींमध्ये तापमानामुळे निर्माण झालेला घनतेतील फरक अत्यंत महत्त्वाचा असतो."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "क्षारता आणि घनता यांमधील सहसंबंध स्पष्ट करा.",
+      "answer": "१) क्षारता आणि घनता यांचा थेट संबंध असतो. २) पाण्यात क्षारांचे प्रमाण वाढल्यास पाण्याची घनता वाढते. ३) जास्त क्षारता असलेले पाणी जड असते आणि ते कमी क्षारता असलेल्या पाण्याखाली जाते. ४) मृता समुद्रात क्षारता खूप जास्त (३३२ ‰) असल्याने पाण्याची घनता प्रचंड आहे. ५) बाष्पीभवन वाढून क्षारता वाढल्यास घनताही वाढते. ६) या संबंधामुळेच जास्त क्षारतेचे जड पाणी खोल समुद्राच्या हालचालींवर परिणाम करते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "जागतिक जलभिसरण (Thermohaline Circulation) म्हणजे काय? ते कसे घडते?",
+      "answer": "१) तापमान आणि क्षारता यांच्यातील फरकामुळे सागरी जलाच्या घनतेत बदल होतो. २) घनतेतील या फरकामुळे सागराच्या पृष्ठापासून तळापर्यंत पाण्याचे वहन होते. ३) ध्रुवीय प्रदेशातील थंड आणि जास्त क्षारतेचे पाणी जड असल्यामुळे तळाकडे जाते आणि विषुववृत्ताकडे वाहू लागते. ४) विषुववृत्ताकडील उष्ण पाणी पृष्ठभागावरून ध्रुवांकडे वाहते. ५) या प्रक्रियेमुळे एक जागतिक स्तरावरील चक्र तयार होते, ज्याला 'कन्व्हेयर बेल्ट' म्हणतात. ६) यामुळे पृथ्वीवरील उष्णतेचे वितरण संतुलित राहते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "भूवेष्टित आणि खुल्या समुद्राच्या क्षारतेत कोणता फरक आढळतो? उदाहरणासह स्पष्ट करा.",
+      "answer": "१) भूवेष्टित समुद्र जमिनीने वेढलेले असल्याने तिथे बाष्पीभवनाचा प्रभाव जास्त आणि जलमिश्रण कमी असते. २) उदाहरणार्थ, भूमध्य समुद्राची क्षारता ३९ ‰ आहे. ३) खुल्या समुद्रात महासागराच्या पाण्याचे सतत मिश्रण होत असल्याने क्षारता सरासरी ३५ ‰ च्या आसपास राहते. ४) जर भूवेष्टित समुद्र शीत प्रदेशात असेल तर क्षारता कमी असू शकते (उदा. बाल्टिक समुद्र ७ ‰). ५) तांबड्या समुद्रात बाष्पीभवन जास्त असल्याने क्षारता ४१ ‰ इतकी जास्त आढळते. ६) थोडक्यात, भूवेष्टित समुद्रात स्थानिक हवामानाचा प्रभाव जास्त असतो."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "मृता समुद्राच्या गुणधर्मांविषयी माहिती देऊन तिथे माणूस का बुडत नाही ते सांगा.",
+      "answer": "१) मृता समुद्राची क्षारता ३३२ ‰ असून ती जगातील सर्वाधिक क्षारतेपैकी एक आहे. २) प्रचंड क्षारतेमुळे या पाण्याची घनता खूप जास्त झाली आहे. ३) आर्किमिडीजच्या तत्त्वानुसार, जेव्हा पाण्याची घनता मानवी शरीराच्या सरासरी घनतेपेक्षा जास्त असते, तेव्हा शरीर तरंगते. ४) या नैसर्गिक प्लावकतेमुळे (Buoyancy) माणूस या पाण्यात बुडत नाही. ५) इतक्या क्षारतेत सजीव जगू शकत नाहीत म्हणून याला 'मृत' समुद्र म्हणतात. ६) येथे बसल्यासारख्या स्थितीतही व्यक्ती सहज तरंगू शकते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "अरबी समुद्र आणि बंगालचा उपसागर यांच्या क्षारतेतील तफावत स्पष्ट करा.",
+      "answer": "१) अरबी समुद्राची क्षारता ३६ ‰ आहे, कारण तिथे बाष्पीभवन जास्त आणि गोड्या पाण्याचा पुरवठा कमी आहे. २) बंगालच्या उपसागराची क्षारता ३२ ‰ इतकी कमी आहे. ३) बंगालच्या उपसागरात गंगा, ब्रह्मपुत्रा यांसारख्या मोठ्या नद्या प्रचंड प्रमाणात गोड्या पाण्याचा पुरवठा करतात. ४) बंगालच्या उपसागरात पावसाचे प्रमाणही अरबी समुद्रापेक्षा जास्त असते. ५) गोड्या पाण्याचे अधिक प्रमाण क्षारता कमी करण्यास कारणीभूत ठरते. ६) अरबी समुद्रात मोठ्या नद्यांचा अभाव असल्याने तिथली क्षारता टिकून राहते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "सागरजलाच्या गुणधर्मांचा मानवी जीवनावर आणि पर्यावरणावर काय परिणाम होतो?",
+      "answer": "१) सागरी जलातील क्षारांपासून आपल्याला मीठ आणि आयोडीन मिळते. २) सागरी प्रवाहांच्या तापमानामुळे किनारपट्टीच्या हवामानात बदल होतात (उदा. बंदरे हिवाळ्यात उघडी राहणे). ३) बाष्पीभवनामुळे पृथ्वीवर पाऊस पडतो, जो शेतीसाठी महत्त्वाचा आहे. ४) विशिष्ट क्षारता आणि तापमानामुळे माशांची पैदास मोठ्या प्रमाणात होते, ज्यावर मासेमारी व्यवसाय अवलंबून असतो. ५) सागरजलाच्या गुणधर्मांमुळे जागतिक हवामान संतुलित राहते. ६) क्षारांमुळे पाण्याची घनता वाढते, जे जहाज वाहतुकीसाठी फायदेशीर असते."
+    }
+  ]
+}

@@ -1,0 +1,1771 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.11",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "वाहतूक व संदेशवहन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वाहतूक ही कोणत्या प्रकारची सुविधा मानली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पायाभूत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुय्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खाजगी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पायाभूत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचा कोणता मार्ग द्रव पदार्थांच्या वाहतुकीसाठी सर्वाधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोहमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवाईमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नळमार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जलमार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नळमार्ग"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "भारतात 'रो-रो' (Ro-Ro) वाहतुकीची सुरुवात कोणत्या रेल्वे मार्गावर झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मध्य रेल्वे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिम रेल्वे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोकण रेल्वे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण रेल्वे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोकण रेल्वे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अतिशय जलद आणि आपत्कालीन स्थितीत उपयुक्त असणारा वाहतुकीचा मार्ग कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जलमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवाईमार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रस्तेमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोहमार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवाईमार्ग"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मृत व्यक्तीचे अवयव गरजू रुग्णापर्यंत तातडीने पोहोचवण्यासाठी कोणता मार्ग वापरला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नळमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हरित छन्नमार्ग (Green Corridor)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जलमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रो-रो वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "हरित छन्नमार्ग (Green Corridor)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आधुनिक युगातील संदेशवहनाचे अत्यंत प्रभावी साधन कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तमानपत्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "टपाल सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृत्रिम उपग्रह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आकाशवाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृत्रिम उपग्रह"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ज्या भागात डोंगरदऱ्या व उंचसखल जमीन असते, तिथे वाहतुकीच्या मार्गांचे जाळे कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गडद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "विरळ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मालाची किंमत ठरवताना उत्पादन खर्चासोबत कोणता खर्च विचारात घेतला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जाहिरात खर्च",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक खर्च",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन खर्च",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडवली खर्च",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक खर्च"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सायबर गुन्ह्यांमध्ये खालीलपैकी कशाचा समावेश होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रस्ते चोरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेबसाइट हॅकिंग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपघात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाणी चोरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेबसाइट हॅकिंग"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कोकणातील हापूस आंबा अरब देशांत पाठवण्यासाठी कोणता मार्ग योग्य ठरेल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नळमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोहमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हवाईमार्ग किंवा जलमार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रस्तेमार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवाईमार्ग किंवा जलमार्ग"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भारत सरकारने ऑनलाइन पेमेंटसाठी कोणते अॅप विकसित केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इंस्टाग्राम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीम (BHIM)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फेसबुक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्हॉट्सॲप",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीम (BHIM)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "एकाच वेळेस अनेक व्यक्तींशी बोलण्यासाठी आधुनिक काळात कशाचा वापर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्हिडिओ कॉन्फरन्सिंग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "टेलिग्राम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकाशवाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्हिडिओ कॉन्फरन्सिंग"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचा कोणता मार्ग सर्वाधिक स्वस्त असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवाईमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जलमार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रस्तेमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नळमार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "जलमार्ग"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठावरील साधनसंपत्तीचा अभ्यास करण्यासाठी कोणत्या तंत्राचा वापर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुदूरसंवेदन (Remote Sensing)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "टायपिंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मुद्रण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुदूरसंवेदन (Remote Sensing)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "वाहतूक व्यवस्थेतील सुधारणांमुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रदेशाची चलनक्षमता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ प्रदूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वस्तूंची किंमत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कामाचा वेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रदेशाची चलनक्षमता"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "नळमार्गातून प्रामुख्याने कशाची वाहतूक केली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अन्नधान्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खनिज तेल व वायू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कपडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "यंत्रसामग्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "खनिज तेल व वायू"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचा कोणता मार्ग घरपोच सेवा देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जलमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रस्तेमार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवाईमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोहमार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "रस्तेमार्ग"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "हवामानाची अद्ययावत माहिती मिळवण्यासाठी कशाची मदत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पोत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृत्रिम उपग्रह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "होकायंत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थर्मामीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृत्रिम उपग्रह"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "वाहतूक खर्च कमी झाल्यास मालाची किंमत ______ राखता येते.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अमर्याद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "जागतिक आंतरजालावर होणाऱ्या युद्धाला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शीतयुद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सायबर युद्ध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "छापा मारणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गनिमी कावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सायबर युद्ध"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सातारा जिल्ह्याच्या कोणत्या भागात वाहतुकीच्या मार्गांचे जाळे विरळ आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मध्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "सातारा जिल्ह्यातील 'शिवसागर' हा जलाशय कोणत्या धरणाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धोम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोयना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कण्हेर",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोयना"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वाहतूक मार्गांची निवड करताना खालीलपैकी कोणती बाब महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राकृतिक रचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ रंगाचा विचार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोकांची नावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त दिवसाची वेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राकृतिक रचना"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मालाची जलद आणि सुरक्षित वाहतूक करण्यासाठी कशाचा विकास आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेतीचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पायाभूत सुविधांचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजनाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोककलेचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "पायाभूत सुविधांचा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आंतरजालावर आपली व्यक्तिगत माहिती कोणाला द्यावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रत्येक अनोळखी व्यक्तीला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खात्री केल्याशिवाय कोणालाही देऊ नये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सर्व सोशल मीडियावर टाकावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ब्लॉगवर लिहावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "खात्री केल्याशिवाय कोणालाही देऊ नये"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "रो-रो वाहतुकीमुळे कशाची बचत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ वेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इंधन व वेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रस्त्यांची रुंदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कचरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "इंधन व वेळ"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "वाहतूक हे कोणत्या क्षेत्राचे उदाहरण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक (सेवा)",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चतुर्थक",
+          "is_correct": false
+        }
+      ],
+      "answer": "तृतीयक (सेवा)"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "संदेशवहनासाठी वापरले जाणारे पारंपारिक साधन कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ई-मेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "टपाल सेवा (पत्र)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मोबाइल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्हिडिओ कॉलिंग",
+          "is_correct": false
+        }
+      ],
+      "answer": "टपाल सेवा (पत्र)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचा कोणता मार्ग हवामानावर सर्वाधिक अवलंबून असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नळमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवाईमार्ग व जलमार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोहमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूमिगत मार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवाईमार्ग व जलमार्ग"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हरित छन्नमार्ग (Green Corridor) प्रामुख्याने कशासाठी तयार केला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यटनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवयव वाहतुकीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खाजगी गाड्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वनीकरणासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवयव वाहतुकीसाठी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ऑनलाइन ट्रेडिंग आणि मनी ट्रान्स्फर कशाचा भाग आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राचीन व्यापाराचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डिजिटल अर्थव्यवस्थेचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कौटुंबिक व्यवहाराचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृषी उत्पादनाचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "डिजिटल अर्थव्यवस्थेचा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "वाहतुकीच्या मार्गांच्या विकासावर कशाचा परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राकृतिक रचना (डोंगर, नद्या)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ लोकसंख्येची नावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळेचा गणवेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तपत्राचा आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राकृतिक रचना (डोंगर, नद्या)"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "सातारा जिल्ह्यातील कोणत्या भागात लोहमार्ग आढळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्गम पश्चिम भागात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्य व पूर्व भागात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त कोयना धरण परिसरात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोठेही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मध्य व पूर्व भागात"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कमी कालावधीत जास्त अंतराचा प्रवास करण्यासाठी कोणता मार्ग निवडावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जलमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवाईमार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रस्तेमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बैलगाडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवाईमार्ग"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "नकाशातील वाहतुकीचे 'विरळ' जाळे काय दर्शवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सखल प्रदेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगररांगा किंवा अडथळ्यांचा प्रदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शहरी भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "औद्योगिक केंद्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोंगररांगा किंवा अडथळ्यांचा प्रदेश"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "टपाल कार्यालयातून दिली जाणारी जलद टपाल सेवा कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साधे पत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्पीडपोस्ट (Speed Post)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वर्तमानपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पार्सल",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पीडपोस्ट (Speed Post)"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कोकण रेल्वे मार्ग कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अतिशय रुंद रस्त्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्गम भागात विकसित केलेल्या उत्कृष्ट अभियांत्रिकीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ बैलगाडी वाहतुकीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विमानतळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुर्गम भागात विकसित केलेल्या उत्कृष्ट अभियांत्रिकीसाठी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "वस्तूंची 'स्थल उपयोगिता' कशामुळे वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादनामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतुकीमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "साठवणुकीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खर्चामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतुकीमुळे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते संदेशवहनाचे साधन 'एकमार्गी' आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दूरध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकाशवाणी (रेडिओ)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्हिडिओ कॉल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इंटरनेट चॅटिंग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकाशवाणी (रेडिओ)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचे मार्ग कशाचा पाया मानले जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ मनोरंजनाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आर्थिक विकासाचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामानाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रीडा क्षेत्राचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्थिक विकासाचा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "ई-मेल हॅकिंग आणि माहितीची चोरी हा कोणत्या प्रकारचा गुन्हा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फौजदारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सायबर गुन्हा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिवाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राजकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सायबर गुन्हा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "भारतातील 'ग्रीन कॉरिडॉर' कशाच्या वाहतुकीशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरणपूरक गाड्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी अवयव दान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जंगलातील रस्ते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कमी इंधन वापर",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी अवयव दान"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "वाहतूक आणि संदेशवहन हे दोन्ही कशाचे प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राकृतिक भूरूपांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पायाभूत सुविधांचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ मनोरंजनाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवामानाचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पायाभूत सुविधांचे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "नकाशा वाचन करताना 'गडद जाळे' काय सुचवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतुकीची सुगमता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रस्ते नसलेला भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ जंगलाचा भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतुकीची सुगमता"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "सोशल मीडियावर माहिती टाकताना कोणती दक्षता घ्यावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व माहिती सार्वजनिक करावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संवेदनशील माहिती टाकू नये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पासवर्ड सर्वांना सांगावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खूप माहिती शेअर करावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशील माहिती टाकू नये"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचे मार्ग प्रदेशातील कशाचा दुवा मानले जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्षेत्रीय दुवा (Regional Link)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धार्मिक दुवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ पर्यटनाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अडथळा",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्षेत्रीय दुवा (Regional Link)"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "लोहमार्ग आणि रस्तेमार्ग एकत्र कोठे आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त नदीपात्रात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी व सखल प्रदेशात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अतिउंच पर्वतांवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खोल दऱ्यात",
+          "is_correct": false
+        }
+      ],
+      "answer": "मैदानी व सखल प्रदेशात"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "भारतात 'डिजिटल इंडिया' मोहिमे अंतर्गत कशावर भर दिला जात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ छपाईवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऑनलाइन व्यवहार व संदेशवहनावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बैलगाडी वाहतुकीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जुन्या टपाल सेवांवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑनलाइन व्यवहार व संदेशवहनावर"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "वाहतुकीमुळे प्रदेशाचे ______ वाढते.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ कर्ज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दरडोई उत्पन्न व GDP",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्षेत्रफळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "दरडोई उत्पन्न व GDP"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "विमानतळ असणारी महाराष्ट्रातील शहरे कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त वाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुंबई, पुणे, नागपूर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त गावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अकोले",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुंबई, पुणे, नागपूर"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे मुख्य मार्ग कोणते आहेत?",
+      "answer": "रस्तेमार्ग, लोहमार्ग, जलमार्ग, हवाईमार्ग आणि नळमार्ग हे वाहतुकीचे मुख्य मार्ग आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या मार्गांची निवड करताना कोणत्या बाबी विचारात घ्याव्या लागतात?",
+      "answer": "वाहतुकीसाठी लागणारे अंतर, प्राकृतिक रचना, कालावधी, मार्ग, साधने, खर्च आणि हवामान या बाबी विचारात घ्याव्या लागतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "रस्ते वाहतुकीचा सर्वात मोठा फायदा कोणता?",
+      "answer": "रस्ते वाहतूक ही एकमेव अशी वाहतूक आहे जी घरापर्यंत (Door-to-Door) सेवा देऊ शकते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "लोहमार्गाचे महत्त्व काय आहे?",
+      "answer": "जड माल आणि प्रवाशांची मोठ्या प्रमाणावर व लांब पल्ल्याची वाहतूक करण्यासाठी लोहमार्ग अत्यंत सोयीचे आणि स्वस्त असतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "जलमार्ग हा वाहतुकीचा सर्वात स्वस्त पर्याय का मानला जातो?",
+      "answer": "जलमार्गासाठी नैसर्गिक मार्ग उपलब्ध असतात आणि लोहमार्ग किंवा रस्तेमार्गाप्रमाणे त्यांच्या बांधणीवर व देखभालीवर जास्त खर्च करावा लागत नाही."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "हवाई वाहतूक कोणत्या परिस्थितीत सर्वाधिक उपयुक्त ठरते?",
+      "answer": "दुर्गम भाग, युद्धजन्य परिस्थिती, आपत्ती निवारण आणि अतिशय जलद प्रवासासाठी हवाई वाहतूक उपयुक्त ठरते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "नळमार्गाद्वारे प्रामुख्याने कशाची वाहतूक केली जाते?",
+      "answer": "नळमार्गाद्वारे प्रामुख्याने पाणी, खनिज तेल, नैसर्गिक वायू आणि काही ठिकाणी कोळशाची भुकटी (Slurry) यांची वाहतूक केली जाते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "संदेशवहन म्हणजे काय?",
+      "answer": "माहितीचे किंवा विचारांचे एका ठिकाणाहून दुसऱ्या ठिकाणी आदान-प्रदान करणे म्हणजे संदेशवहन होय."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कृत्रिम उपग्रहांचा संदेशवहनात काय उपयोग होतो?",
+      "answer": "कृत्रिम उपग्रहांद्वारे जगभरात टेलिव्हिजन प्रक्षेपण, इंटरनेट सेवा आणि हवामानाचा अंदाज मिळवणे सहज शक्य होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "रो-रो (Ro-Ro) वाहतूक म्हणजे काय?",
+      "answer": "ज्या वाहतूक पद्धतीत ट्रक किंवा मालवाहू वाहने थेट रेल्वेच्या वॅगनवर चढवून एका ठिकाणाहून दुसऱ्या ठिकाणी नेली जातात, तिला 'रो-रो' वाहतूक म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचा विकास कशावर अवलंबून असतो?",
+      "answer": "वाहतुकीचा विकास हा प्रदेशाची प्राकृतिक रचना, आर्थिक विकास आणि उपलब्ध तंत्रज्ञान यावर अवलंबून असतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नकाशातील वाहतुकीचे जाळे काय दर्शवते?",
+      "answer": "नकाशातील वाहतुकीचे जाळे त्या प्रदेशातील दळणवळणाची सुलभता आणि आर्थिक सुबत्ता दर्शवते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "हरित छन्नमार्ग (Green Corridor) का निर्माण केला जातो?",
+      "answer": "मृत व्यक्तीचे अवयव विनाअडथळा आणि कमीत कमी वेळात गरजू रुग्णापर्यंत पोहोचवण्यासाठी हरित छन्नमार्ग निर्माण केला जातो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आंतरजाल (Internet) ही संदेशवहनातील क्रांती कशी आहे?",
+      "answer": "इंटरनेटमुळे ईमेल, व्हिडिओ कॉल आणि सोशल मीडियाद्वारे जगातील कोणत्याही कोपऱ्यात संवाद साधणे त्वरित शक्य झाले आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सायबर गुन्हे म्हणजे काय?",
+      "answer": "संगणक आणि इंटरनेटचा वापर करून केलेली आर्थिक फसवणूक, वेबसाइट हॅकिंग किंवा माहितीची चोरी म्हणजे सायबर गुन्हे होत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "वाहतूक खर्च कमी करण्यासाठी कोणते प्रयत्न केले जातात?",
+      "answer": "कार्यक्षम इंधन वापर, उत्तम रस्ते आणि रो-रो सारख्या आधुनिक वाहतूक पद्धतींचा वापर करून वाहतूक खर्च कमी केला जातो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "दुर्गम भागात वाहतुकीचा कोणता मार्ग सर्वात प्रभावी ठरतो?",
+      "answer": "दुर्गम भागात रस्ते किंवा लोहमार्ग बांधणे कठीण असल्याने हवाई मार्ग (हेलिकॉप्टर) सर्वात प्रभावी ठरतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सातारा जिल्ह्याच्या पश्चिम भागात वाहतुकीचे मार्ग विरळ का आहेत?",
+      "answer": "सह्याद्रीच्या डोंगररांगा आणि कोयना जलाशयाचा विस्तार यामुळे या भागात वाहतुकीचे मार्ग विरळ आहेत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "संदेशवहनाचे सर्वात जुने साधन कोणते?",
+      "answer": "दूत पाठवणे, चिठ्ठ्या किंवा टपाल सेवा (पत्रव्यवहार) ही संदेशवहनाची जुनी साधने आहेत."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "डिजिटल इंडिया मोहिमेचे महत्त्व काय?",
+      "answer": "डिजिटल इंडियामुळे सरकारी सेवा ऑनलाइन उपलब्ध झाल्या असून माहितीचे दळणवळण जलद आणि पारदर्शक झाले आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे वस्तूंच्या किमतीवर काय परिणाम होतो?",
+      "answer": "वाहतूक खर्च कमी असल्यास वस्तूंच्या किमती नियंत्रित राहतात आणि मालाची स्पर्धात्मकता वाढते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सागरी वाहतुकीचे महत्त्व सांगा.",
+      "answer": "सागरी वाहतूक ही आंतरराष्ट्रीय व्यापाराचा कणा असून कच्च्या मालाची आयात-निर्यात करण्यासाठी ती अत्यंत उपयुक्त आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "व्हिडिओ कॉन्फरन्सिंगचा फायदा काय?",
+      "answer": "प्रवास न करता एकाच वेळी अनेक व्यक्तींशी समोरासमोर संवाद साधणे व्हिडिओ कॉन्फरन्सिंगमुळे शक्य होते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचा विकास हा आर्थिक प्रगतीचा निर्देशांक का मानला जातो?",
+      "answer": "वाहतूक मार्गांमुळे शेती, उद्योग आणि व्यापाराला चालना मिळते, ज्यामुळे राष्ट्राचे उत्पन्न वाढते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "GPS तंत्रज्ञानाचा वाहतुकीत काय उपयोग होतो?",
+      "answer": "GPS मुळे प्रवासाचा अचूक मार्ग शोधणे, अंतर मोजणे आणि वाहनाचे नेमके स्थान समजणे सोपे होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "नळमार्गाचे एक वैशिष्ट्य सांगा.",
+      "answer": "नळमार्गामुळे द्रव पदार्थांची गळती न होता आणि हवामानाचा अडथळा न येता निरंतर वाहतूक करता येते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "जीआयएस (GIS) म्हणजे काय?",
+      "answer": "भौगोलिक माहिती प्रणाली (Geographical Information System) याद्वारे नकाशात विविध भौगोलिक माहिती साठवली आणि विश्लेषित केली जाते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "ई-लर्निंग (E-learning) संदेशवहनावर कसे अवलंबून आहे?",
+      "answer": "इंटरनेटच्या माध्यमातून शैक्षणिक माहिती आणि व्हिडिओ विद्यार्थ्यांपर्यंत पोहोचवण्यासाठी संदेशवहन महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वाहतूक करताना सुरक्षितता का महत्त्वाची आहे?",
+      "answer": "प्रवासी आणि माल यांची कोणतीही हानी न होता इच्छित स्थळी पोहोचण्यासाठी सुरक्षितता आवश्यक आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "स्पीड पोस्ट (Speed Post) म्हणजे काय?",
+      "answer": "टपाल खात्याची ही एक जलद सेवा असून याद्वारे कागदपत्रे कमी वेळात वितरित केली जातात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे प्रदेशाचा चेहरामोहरा कसा बदलतो?",
+      "answer": "वाहतूक मार्गांच्या विकासामुळे तिथे बाजारपेठा, शहरे आणि उद्योगांची निर्मिती होऊन विकास होतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सोशल मीडिया वापरताना कोणती दक्षता घ्यावी?",
+      "answer": "अनोळखी व्यक्तींशी संवाद टाळावा आणि आपली संवेदनशील माहिती शेअर करू नये."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "हवाई वाहतुकीचा एक तोटा कोणता?",
+      "answer": "हवाई वाहतूक ही इतर वाहतूक मार्गांच्या तुलनेत अत्यंत खर्चिक असते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचा कोणता मार्ग निसर्गावर अधिक अवलंबून असतो?",
+      "answer": "हवाई मार्ग आणि जलमार्ग हे पावसाळा, धुके किंवा चक्रीवादळ यांसारख्या नैसर्गिक घटकांवर अधिक अवलंबून असतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "भीम (BHIM) अॅपचा उद्देश काय आहे?",
+      "answer": "भारतात रोख विरहित (Cashless) व्यवहारांना चालना देणे आणि मोबाइलद्वारे सुरक्षित पैसे पाठवणे हा याचा उद्देश आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "आकाशवाणी (Radio) हे संदेशवहनाचे कोणते साधन आहे?",
+      "answer": "आकाशवाणी हे श्राव्य आणि एकमार्गी समूह संदेशवहनाचे साधन आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "लोहमार्ग आणि रस्तेमार्गातील मुख्य फरक काय?",
+      "answer": "लोहमार्ग हे ठराविक रुळांवरून जातात, तर रस्तेमार्ग कोणत्याही भूभागावर लवचिकपणे तयार करता येतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "ई-कॉमर्स (E-commerce) मध्ये वाहतुकीची भूमिका काय?",
+      "answer": "ऑनलाइन मागवलेल्या वस्तू ग्राहकापर्यंत वेळेत पोहोचवण्यासाठी कार्यक्षम वाहतूक व्यवस्था आवश्यक असते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "पायाभूत सुविधा म्हणजे काय?",
+      "answer": "प्रदेशाच्या विकासासाठी आवश्यक असलेल्या रस्ते, वीज, पाणी आणि संदेशवहन यांसारख्या मूलभूत सोयी."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सांस्कृतिक देवाणघेवाणीत वाहतुकीची मदत कशी होते?",
+      "answer": "वाहतुकीमुळे एका प्रदेशातील लोक दुसऱ्या प्रदेशात सहज प्रवास करू शकतात, ज्यामुळे विचारांची आणि संस्कृतीची देवाणघेवाण होते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "जगातील सर्वात लांब लोहमार्ग कोणता?",
+      "answer": "ट्रान्स-सायबेरियन लोहमार्ग हा जगातील सर्वात लांब लोहमार्ग मानला जातो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "वाहतूक कोंडी टाळण्यासाठी कोणता उपाय करता येईल?",
+      "answer": "सार्वजनिक वाहतूक व्यवस्थेचा (बस, ट्रेन) वापर वाढवणे हा वाहतूक कोंडी टाळण्याचा उत्तम उपाय आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "दूरचित्रवाणी (TV) हे कशाचे साधन आहे?",
+      "answer": "दूरचित्रवाणी हे दृक्-श्राव्य समूह संदेशवहनाचे प्रभावी साधन आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "स्मार्टफोनमुळे संदेशवहन कसे सोपे झाले आहे?",
+      "answer": "स्मार्टफोनमध्ये कॉल, मेसेज, इंटरनेट आणि कॅमेरा या सर्व सुविधा एकत्र असल्याने संदेशवहन गतिमान झाले आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'रस्त्यांचे जाळे' काय स्पष्ट करते?",
+      "answer": "रस्त्यांचे जाळे त्या प्रदेशातील लोकवस्ती आणि दळणवळणाची घनता स्पष्ट करते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या साधनात 'मेट्रो रेल्वे'चे स्थान काय आहे?",
+      "answer": "मेट्रो रेल्वे हे शहरातील अंतर्गत जलद प्रवासाचे एक अत्याधुनिक आणि प्रदूषणमुक्त साधन आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "ऑनलाइन बँकिंगचे दोन फायदे सांगा.",
+      "answer": "वेळेची बचत आणि बँकेत न जाता कोणत्याही ठिकाणाहून व्यवहार करण्याची सुविधा हे ऑनलाइन बँकिंगचे फायदे आहेत."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या कोणत्या मार्गावर अपघात होण्याचे प्रमाण सर्वाधिक असते?",
+      "answer": "वाहतुकीच्या रस्तेमार्गावर अपघात होण्याचे प्रमाण इतर मार्गांच्या तुलनेत सर्वाधिक असते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "संदेशवहनासाठी उपग्रहांची झेप कोणी घेतली?",
+      "answer": "भारताच्या 'इस्रो' (ISRO) या संस्थेने संदेशवहनासाठी अनेक कृत्रिम उपग्रहांची यशस्वी झेप घेतली आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "वाहतूक आणि संदेशवहन ही कोणत्या प्रकारची साधने आहेत?",
+      "answer": "ही मानवी विकासाची आणि आधुनिक जगाला जोडणारी प्रगत तांत्रिक साधने आहेत."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "वाहतुकीचे महत्त्व स्पष्ट करा आणि वाहतुकीच्या विकासावर परिणाम करणारे घटक सांगा.",
+      "answer": "वाहतूक ही कोणत्याही देशाच्या विकासासाठी महत्त्वाची पायाभूत सुविधा आहे. १. महत्त्व: वाहतुकीमुळे वस्तूंची स्थल उपयोगिता वाढते, व्यापाराला गती मिळते, औद्योगिकीकरण होते आणि रोजगाराच्या संधी निर्माण होतात. तसेच, आपत्कालीन परिस्थितीत मदत कार्यासाठी वाहतूक आवश्यक असते. २. परिणाम करणारे घटक: अ) प्राकृतिक रचना: पर्वत, नद्या आणि दऱ्यांमुळे मार्ग तयार करणे कठीण होते. ब) आर्थिक विकास: प्रगत अर्थव्यवस्था असेल तर वाहतूक मार्गांचे जाळे दाट असते. क) हवामान: अतिवृष्टी, बर्फवृष्टी किंवा धुक्यामुळे वाहतुकीवर मर्यादा येतात. ड) तंत्रज्ञान: आधुनिक तंत्रज्ञानामुळे कोकण रेल्वेसारखे दुर्गम मार्ग बांधणे शक्य झाले आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "नळमार्ग वाहतुकीची वैशिष्ट्ये आणि त्याचे फायदे-तोटे स्पष्ट करा.",
+      "answer": "नळमार्ग हा द्रव आणि वायुरूप पदार्थांच्या वाहतुकीचा आधुनिक मार्ग आहे. १. वैशिष्ट्ये: हा मार्ग प्रामुख्याने पाणी, खनिज तेल आणि नैसर्गिक वायू यांच्या वाहतुकीसाठी वापरला जातो. २. फायदे: अ) वाहतूक निरंतर सुरू राहते, हवामानाचा अडथळा येत नाही. ब) मालाची गळती किंवा चोरी होण्याचे प्रमाण नगण्य असते. क) हा मार्ग पर्यावरणास पूरक असून यामुळे इंधनाची बचत होते. ३. तोटे: अ) हा मार्ग अत्यंत खर्चिक असून एकदा बसवल्यानंतर त्यात बदल करणे कठीण असते. ब) नळमार्गाला गळती लागल्यास ती शोधणे आणि दुरुस्त करणे अवघड असते. क) यातून फक्त ठराविक पदार्थांचीच वाहतूक करता येते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "हवाई वाहतुकीचे फायदे आणि मर्यादा सविस्तर स्पष्ट करा.",
+      "answer": "हवाई वाहतूक हा आधुनिक काळातील सर्वात जलद मार्ग आहे. १. फायदे: अ) हा मार्ग अतिशय जलद असल्याने वेळ वाचवतो. ब) दुर्गम भाग, पर्वत किंवा वाळवंटी प्रदेशात जिथे रस्ते पोहोचू शकत नाहीत, तिथे हवाई वाहतूक उपयुक्त ठरते. क) नैसर्गिक आपत्तीच्या वेळी (उदा. पूर, भूकंप) मदत आणि बचाव कार्यासाठी हा सर्वोत्तम मार्ग आहे. २. मर्यादा: अ) हवाई वाहतूक इतर मार्गांच्या तुलनेत अत्यंत महागडी असते. ब) प्रतिकूल हवामान (धुके, वादळ) असल्यास उड्डाणे रद्द करावी लागतात. क) यातून जड आणि अवजड मालाची वाहतूक करणे मर्यादित असते. ड) यासाठी धावपट्ट्या आणि विमानतळ यांसारख्या महागड्या पायाभूत सुविधांची गरज असते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "कोकण रेल्वेचे महत्त्व आणि वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "कोकण रेल्वे हे भारतीय अभियांत्रिकीचे एक उत्तम उदाहरण मानले जाते. १. पार्श्वभूमी: भारताच्या पश्चिम किनारपट्टीवर सह्याद्री पर्वत आणि अनेक नद्या असल्यामुळे तिथे रेल्वे मार्ग बांधणे मोठे आव्हान होते. २. वैशिष्ट्ये: अ) या मार्गावर अनेक मोठे पूल आणि लांब बोगदे आहेत. ब) रत्नागिरी जवळचा 'करबुडे' बोगदा हा सर्वात लांब बोगद्यांपैकी एक आहे. ३. महत्त्व: अ) कोकण रेल्वेमुळे मुंबई ते मंगळूर या प्रवासाचा वेळ निम्म्याने कमी झाला. ब) या मार्गामुळे कोकणातील फळप्रक्रिया उद्योग आणि पर्यटनाला मोठी चालना मिळाली. क) 'रो-रो' वाहतुकीचा यशस्वी प्रयोग सर्वात आधी याच मार्गावर झाला, ज्यामुळे ट्रकची रेल्वेवरून वाहतूक करणे शक्य झाले."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "संदेशवहनातील आधुनिक साधनांचे महत्त्व आणि त्यांचे फायदे सांगा.",
+      "answer": "माहिती तंत्रज्ञानाच्या युगात संदेशवहनाची साधने अत्यंत प्रगत झाली आहेत. १. कृत्रिम उपग्रह: उपग्रहांमुळे टेलिव्हिजन, फोन आणि इंटरनेट सेवा जगभर पोहोचल्या आहेत. हवामानाचा अंदाज वर्तवणे उपग्रहांमुळे शक्य झाले आहे. २. स्मार्टफोन व इंटरनेट: याद्वारे ईमेल, व्हॉट्सॲप आणि व्हिडिओ कॉलिंगच्या मदतीने जग जवळ आले आहे. ३. फायदे: अ) माहितीचे दळणवळण जलद झाले आहे. ब) बँकिंग, शिक्षण (E-learning) आणि आरोग्य (Tele-medicine) क्षेत्रात मोठी क्रांती झाली आहे. क) घरबसल्या खरेदी-विक्री (E-commerce) करणे सोपे झाले आहे. ड) प्रशासकीय कामात पारदर्शकता आली आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "सायबर गुन्हे म्हणजे काय? ते टाळण्यासाठी कोणत्या खबरदाऱ्या घ्याव्यात?",
+      "answer": "इंटरनेट आणि संगणकाचा वापर करून केलेल्या बेकायदेशीर कृत्यांना सायबर गुन्हे म्हणतात. १. स्वरूप: यात बँकेची आर्थिक फसवणूक, वेबसाइट हॅकिंग, वैयक्तिक माहितीची चोरी, सोशल मीडियावर बदनामी करणे आणि ई-मेलद्वारे व्हायरस पसरवणे यांचा समावेश होतो. २. घ्यायची खबरदारी: अ) आपला कोणताही पासवर्ड (बँक, सोशल मीडिया) कोणालाही सांगू नये. ब) अज्ञात व्यक्तीने पाठवलेल्या संशयास्पद लिंक्स किंवा ई-मेलवर क्लिक करू नये. क) ऑनलाइन व्यवहार करताना खात्रीशीर वेबसाइटचाच वापर करावा. ड) संगणक किंवा मोबाइलमध्ये अँटी-व्हायरस सॉफ्टवेअर असावे. ई) आपली संवेदनशील माहिती सार्वजनिक स्वरूपात शेअर करू नये."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "वाहतूक आणि संदेशवहन यांचा एकमेकांशी काय संबंध आहे?",
+      "answer": "वाहतूक आणि संदेशवहन या एकाच नाण्याच्या दोन बाजू आहेत. १. पूरक सेवा: संदेशवहनामुळे वाहतूक व्यवस्था अधिक सुरक्षित आणि कार्यक्षम होते (उदा. विमानांचे उड्डाण किंवा रेल्वेचे सिग्नलिंग उपग्रहांद्वारे नियंत्रित केले जाते). २. व्यापारातील भूमिका: इंटरनेटद्वारे (संदेशवहन) मालाची ऑर्डर दिली जाते आणि प्रत्यक्ष माल पोहोचवण्यासाठी वाहतूक मार्गांचा वापर केला जातो. ३. पर्यायी व्यवस्था: काही बाबतीत संदेशवहन हे वाहतुकीला पर्याय ठरते. उदा. कामासाठी प्रत्यक्ष जाण्याऐवजी 'वर्क फ्रॉम होम' किंवा व्हिडिओ कॉन्फरन्सिंगमुळे प्रवासाची गरज कमी होते, ज्यामुळे वाहतुकीवरील ताण आणि इंधनाचा वापर कमी होतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "रो-रो (Ro-Ro) वाहतुकीवर सविस्तर टिप लिहा.",
+      "answer": "रो-रो म्हणजे 'रोल-ऑन रोल-ऑफ' वाहतूक होय. १. संकल्पना: या पद्धतीत माल भरलेले ट्रक रेल्वेच्या खुल्या वॅगनवर चढवले जातात आणि रेल्वेने ते लांब अंतरावर नेले जातात. २. कारण: रस्त्यावरील वाहतूक कोंडी, घाट मार्गातील धोके आणि अपघातांचे प्रमाण टाळण्यासाठी ही पद्धत वापरली जाते. ३. फायदे: अ) ट्रक चालकांचे श्रम कमी होतात. ब) इंधनाची मोठी बचत होते आणि प्रदूषण कमी होते. क) माल रस्ते वाहतुकीपेक्षा वेगाने इच्छित स्थळी पोहोचतो. ४. उदाहरण: भारतात कोकण रेल्वेवर ही सेवा मोठ्या प्रमाणावर यशस्वी झाली आहे, कारण तिथे घाट आणि वळणावळणाचे रस्ते आहेत."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "वाहतुकीचा विकास हा प्रादेशिक विकासाचा निर्देशांक कसा ठरतो?",
+      "answer": "कोणत्याही प्रदेशाचा विकास हा तिथल्या वाहतूक व्यवस्थेवर अवलंबून असतो. १. औद्योगिकीकरण: ज्या भागात रस्ते आणि रेल्वेचे जाळे चांगले असते, तिथे उद्योग लवकर आकर्षित होतात. २. बाजारपेठ: शेतीमाल वेळेवर बाजारपेठेत पोहोचवण्यासाठी चांगल्या वाहतुकीची गरज असते. ३. शहरीकरण: वाहतुकीच्या सोयीमुळे गावे शहरांना जोडली जातात, ज्यामुळे शिक्षणाचे आणि आरोग्याचे स्तर उंचावतात. ४. चलनक्षमता: वाहतुकीमुळे लोकांची आणि मालाची हालचाल वाढते, ज्याचा परिणाम प्रदेशाच्या जीडीपी (GDP) वाढीवर होतो. थोडक्यात, विकसित वाहतूक म्हणजे विकसित प्रदेश असे समीकरण मानले जाते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "हरित छन्नमार्ग (Green Corridor) आणि त्याचे सामाजिक महत्त्व स्पष्ट करा.",
+      "answer": "हरित छन्नमार्ग ही आपत्कालीन परिस्थितीत वापरली जाणारी एक विशेष वाहतूक व्यवस्था आहे. १. व्याख्या: जेव्हा एखाद्या मृत व्यक्तीचे अवयव (हृदय, यकृत इ.) दुसऱ्या गरजू रुग्णापर्यंत पोहोचवायचे असतात, तेव्हा रस्ते वाहतूक पोलीस पूर्ण मार्गावरील वाहतूक थांबवून त्या रुग्णवाहिकेला विनाअडथळा मार्ग करून देतात, त्याला 'हरित छन्नमार्ग' म्हणतात. २. वैशिष्ट्ये: हा मार्ग अत्यंत नियोजित असतो आणि यात वेळेचा एक-एक सेकंद महत्त्वाचा असतो. ३. महत्त्व: अ) यामुळे मानवी जीवन वाचवणे शक्य होते. ब) अवयवदानाची चळवळ यामुळे यशस्वी होते. क) हे मानवी संवेदना आणि प्रशासकीय तत्परता यांचे उत्तम उदाहरण आहे."
+    }
+  ]
+}

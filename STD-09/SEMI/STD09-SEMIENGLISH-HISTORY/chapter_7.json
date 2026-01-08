@@ -1,0 +1,893 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Semi-English.07",
+    "standard": "9",
+    "subject": "History",
+    "medium": "Semi-English",
+    "chapter_name": "महिला व अन्य दुर्बल घटकांचे सशक्तीकरण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारतीय बनावटीची ध्रुव अणुभट्टी कोणत्या वर्षी सुरू झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९७४", "is_correct": false },
+        { "option_id": 2, "text": "१९८५", "is_correct": true },
+        { "option_id": 3, "text": "१९८७", "is_correct": false },
+        { "option_id": 4, "text": "१९७९", "is_correct": false }
+      ],
+      "answer": "१९८५"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अप्सरा ही भारताची पहिली अणुभट्टी कोणत्या वर्षी कार्यान्वित झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९६१", "is_correct": false },
+        { "option_id": 2, "text": "१९५६", "is_correct": false },
+        { "option_id": 3, "text": "१९४८", "is_correct": false },
+        { "option_id": 4, "text": "१९५६", "is_correct": true }
+      ],
+      "answer": "१९५६"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "न्यूक्लिअर पॉवर कॉर्पोरेशन ऑफ इंडिया (NPCIL) कोणत्या वर्षी स्थापन झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९८७", "is_correct": true },
+        { "option_id": 2, "text": "१९८५", "is_correct": false },
+        { "option_id": 3, "text": "१९९४", "is_correct": false },
+        { "option_id": 4, "text": "१९९९", "is_correct": false }
+      ],
+      "answer": "१९८७"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पहिली पोखरण अणुचाचणी कोणत्या दिवशी घेण्यात आली?",
+      "options": [
+        { "option_id": 1, "text": "११ मे १९९८", "is_correct": false },
+        { "option_id": 2, "text": "१८ मे १९७४", "is_correct": true },
+        { "option_id": 3, "text": "१० ऑगस्ट १९४८", "is_correct": false },
+        { "option_id": 4, "text": "१५ ऑगस्ट १९६९", "is_correct": false }
+      ],
+      "answer": "१८ मे १९७४"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अणुशक्ती केंद्र तारापूर येथे कोणत्या वर्षी स्थापन झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९६९", "is_correct": true },
+        { "option_id": 2, "text": "१९७३", "is_correct": false },
+        { "option_id": 3, "text": "१९७२", "is_correct": false },
+        { "option_id": 4, "text": "१९८३", "is_correct": false }
+      ],
+      "answer": "१९६९"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "चीनच्या अण्वस्त्रसज्जतेमुळे भारताला कोणता निर्णय घ्यावा लागला?",
+      "options": [
+        { "option_id": 1, "text": "शेती सुधारणा", "is_correct": false },
+        { "option_id": 2, "text": "क्षेपणास्त्र विकास", "is_correct": true },
+        { "option_id": 3, "text": "औद्योगिक धोरण", "is_correct": false },
+        { "option_id": 4, "text": "बँक राष्ट्रीयीकरण", "is_correct": false }
+      ],
+      "answer": "क्षेपणास्त्र विकास"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पोखरण येथील अणुचाचणीचा निर्णय कोणत्या प्रधानमंत्र्यांनी घेतला?",
+      "options": [
+        { "option_id": 1, "text": "पं. नेहरू", "is_correct": false },
+        { "option_id": 2, "text": "अटलबिहारी वाजपेयी", "is_correct": false },
+        { "option_id": 3, "text": "इंदिरा गांधी", "is_correct": true },
+        { "option_id": 4, "text": "डॉ. कलाम", "is_correct": false }
+      ],
+      "answer": "इंदिरा गांधी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पृथ्वी क्षेपणास्त्राची चाचणी कोणत्या वर्षी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९८८", "is_correct": true },
+        { "option_id": 2, "text": "१९८९", "is_correct": false },
+        { "option_id": 3, "text": "१९९०", "is_correct": false },
+        { "option_id": 4, "text": "१९९५", "is_correct": false }
+      ],
+      "answer": "१९८८"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अग्नी क्षेपणास्त्राची पहिली यशस्वी चाचणी केव्हा झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९८८", "is_correct": false },
+        { "option_id": 2, "text": "१९८९", "is_correct": true },
+        { "option_id": 3, "text": "१९९४", "is_correct": false },
+        { "option_id": 4, "text": "१९९९", "is_correct": false }
+      ],
+      "answer": "१९८९"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "IGMDP या कार्यक्रमाचा संबंध कशाशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "महिला शिक्षण", "is_correct": false },
+        { "option_id": 2, "text": "क्षेपणास्त्र विकास", "is_correct": true },
+        { "option_id": 3, "text": "रेल्वे आरक्षण", "is_correct": false },
+        { "option_id": 4, "text": "बँकिंग सुधारणा", "is_correct": false }
+      ],
+      "answer": "क्षेपणास्त्र विकास"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "DRDO संस्थेचे नेतृत्व क्षेपणास्त्र विकासात कोणी केले?",
+      "options": [
+        { "option_id": 1, "text": "सॅम पित्रोदा", "is_correct": false },
+        { "option_id": 2, "text": "ई. श्रीधरन", "is_correct": false },
+        { "option_id": 3, "text": "डॉ. ए.पी.जे. अब्दुल कलाम", "is_correct": true },
+        { "option_id": 4, "text": "राजा रामण्णा", "is_correct": false }
+      ],
+      "answer": "डॉ. ए.पी.जे. अब्दुल कलाम"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "आकाश क्षेपणास्त्राची निर्मिती कोणत्या वर्षी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९९०", "is_correct": true },
+        { "option_id": 2, "text": "१९८८", "is_correct": false },
+        { "option_id": 3, "text": "१९८३", "is_correct": false },
+        { "option_id": 4, "text": "१९९५", "is_correct": false }
+      ],
+      "answer": "१९९०"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "नाग क्षेपणास्त्र कोणत्या उद्देशासाठी तयार करण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "उपग्रह प्रक्षेपण", "is_correct": false },
+        { "option_id": 2, "text": "रणगाडे नष्ट करणे", "is_correct": true },
+        { "option_id": 3, "text": "इंटरनेट सेवा", "is_correct": false },
+        { "option_id": 4, "text": "रेल्वे विकास", "is_correct": false }
+      ],
+      "answer": "रणगाडे नष्ट करणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "थुंबा येथे पहिल्या भारतीय अग्निबाणाचे प्रक्षेपण कोणत्या वर्षी झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९६१", "is_correct": true },
+        { "option_id": 2, "text": "१९६७", "is_correct": false },
+        { "option_id": 3, "text": "१९७५", "is_correct": false },
+        { "option_id": 4, "text": "१९८१", "is_correct": false }
+      ],
+      "answer": "१९६१"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आर्यभट्ट हा भारताचा पहिला कृत्रिम उपग्रह कोणत्या वर्षी प्रक्षेपित झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९७५", "is_correct": true },
+        { "option_id": 2, "text": "१९६९", "is_correct": false },
+        { "option_id": 3, "text": "१९७९", "is_correct": false },
+        { "option_id": 4, "text": "१९८३", "is_correct": false }
+      ],
+      "answer": "१९७५"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "इस्रो (ISRO) संस्था कोणत्या शहरात मुख्यालय असलेली आहे?",
+      "options": [
+        { "option_id": 1, "text": "मुंबई", "is_correct": false },
+        { "option_id": 2, "text": "अहमदाबाद", "is_correct": false },
+        { "option_id": 3, "text": "बंगळूरू", "is_correct": true },
+        { "option_id": 4, "text": "दिल्ली", "is_correct": false }
+      ],
+      "answer": "बंगळूरू"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "भास्कर-१ हा उपग्रह कोणत्या प्रकारचा उपग्रह होता?",
+      "options": [
+        { "option_id": 1, "text": "दूरसंवेदन उपग्रह", "is_correct": true },
+        { "option_id": 2, "text": "हवामान उपग्रह", "is_correct": false },
+        { "option_id": 3, "text": "संशोधन उपग्रह", "is_correct": false },
+        { "option_id": 4, "text": "दूरसंचार उपग्रह", "is_correct": false }
+      ],
+      "answer": "दूरसंवेदन उपग्रह"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ॲपल (APPLE) हा भारताचा पहिला दूरसंचार उपग्रह कोठून प्रक्षेपित करण्यात आला?",
+      "options": [
+        { "option_id": 1, "text": "श्रीहरीकोटा", "is_correct": false },
+        { "option_id": 2, "text": "फ्रेंच गियाना", "is_correct": true },
+        { "option_id": 3, "text": "तारापूर", "is_correct": false },
+        { "option_id": 4, "text": "कल्पकम", "is_correct": false }
+      ],
+      "answer": "फ्रेंच गियाना"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "इन्सॅट-१ बी उपग्रह कोणत्या वर्षी यशस्वी प्रक्षेपित झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९८३", "is_correct": true },
+        { "option_id": 2, "text": "१९८१", "is_correct": false },
+        { "option_id": 3, "text": "१९८७", "is_correct": false },
+        { "option_id": 4, "text": "१९९४", "is_correct": false }
+      ],
+      "answer": "१९८३"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "अरवी येथे उपग्रहीय दूरसंचार भूकेंद्र कोणत्या दशकात उभारण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "१९६१-७०", "is_correct": true },
+        { "option_id": 2, "text": "१९७१-८०", "is_correct": false },
+        { "option_id": 3, "text": "१९८१-९०", "is_correct": false },
+        { "option_id": 4, "text": "१९९१-२०००", "is_correct": false }
+      ],
+      "answer": "१९६१-७०"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "देवनागरी लिपीत टेलेक्स सेवा प्रथम कोणत्या शहरात सुरू झाली?",
+      "options": [
+        { "option_id": 1, "text": "दिल्ली", "is_correct": true },
+        { "option_id": 2, "text": "मुंबई", "is_correct": false },
+        { "option_id": 3, "text": "कोलकाता", "is_correct": false },
+        { "option_id": 4, "text": "पुणे", "is_correct": false }
+      ],
+      "answer": "दिल्ली"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भारताने दुसरी अणुचाचणी कोणत्या वर्षी घेतली?",
+      "options": [
+        { "option_id": 1, "text": "१९९८", "is_correct": true },
+        { "option_id": 2, "text": "१९७४", "is_correct": false },
+        { "option_id": 3, "text": "१९८८", "is_correct": false },
+        { "option_id": 4, "text": "१९९५", "is_correct": false }
+      ],
+      "answer": "१९९८"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पोखरण अणुचाचणीसाठी कोणते राज्य निवडण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "तमिळनाडू", "is_correct": false },
+        { "option_id": 2, "text": "आंध्र प्रदेश", "is_correct": false },
+        { "option_id": 3, "text": "राजस्थान", "is_correct": true },
+        { "option_id": 4, "text": "महाराष्ट्र", "is_correct": false }
+      ],
+      "answer": "राजस्थान"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "भारतात पिनकोड पद्धती कोणत्या वर्षी सुरू झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९७२", "is_correct": true },
+        { "option_id": 2, "text": "१९७५", "is_correct": false },
+        { "option_id": 3, "text": "१९८३", "is_correct": false },
+        { "option_id": 4, "text": "१९९४", "is_correct": false }
+      ],
+      "answer": "१९७२"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रासाठी पिनकोडमधील पहिले दोन आकडे कोणते आहेत?",
+      "options": [
+        { "option_id": 1, "text": "४० ते ४४", "is_correct": true },
+        { "option_id": 2, "text": "५० ते ५४", "is_correct": false },
+        { "option_id": 3, "text": "३० ते ३४", "is_correct": false },
+        { "option_id": 4, "text": "६० ते ६४", "is_correct": false }
+      ],
+      "answer": "४० ते ४४"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कोकण रेल्वे मार्गाची एकूण लांबी सुमारे किती आहे?",
+      "options": [
+        { "option_id": 1, "text": "७६० किमी", "is_correct": true },
+        { "option_id": 2, "text": "३५० किमी", "is_correct": false },
+        { "option_id": 3, "text": "१००० किमी", "is_correct": false },
+        { "option_id": 4, "text": "२०६५ किमी", "is_correct": false }
+      ],
+      "answer": "७६० किमी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कोकण रेल्वे मार्ग किती राज्यांत पसरलेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": false },
+        { "option_id": 3, "text": "चार", "is_correct": true },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ई. श्रीधरन कोणत्या टोपण नावाने प्रसिद्ध आहेत?",
+      "options": [
+        { "option_id": 1, "text": "मिसाईल मॅन", "is_correct": false },
+        { "option_id": 2, "text": "मेट्रोमॅन", "is_correct": true },
+        { "option_id": 3, "text": "स्पीडमॅन", "is_correct": false },
+        { "option_id": 4, "text": "रेल्वेमॅन", "is_correct": false }
+      ],
+      "answer": "मेट्रोमॅन"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कोकण रेल्वे मार्गावर एकूण किती बोगदे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "९२", "is_correct": true },
+        { "option_id": 2, "text": "८२", "is_correct": false },
+        { "option_id": 3, "text": "१८१९", "is_correct": false },
+        { "option_id": 4, "text": "१७९", "is_correct": false }
+      ],
+      "answer": "९२"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कोकण रेल्वे कोणत्या वर्षी सुरू झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९९८", "is_correct": true },
+        { "option_id": 2, "text": "२०००", "is_correct": false },
+        { "option_id": 3, "text": "१९८८", "is_correct": false },
+        { "option_id": 4, "text": "१९८३", "is_correct": false }
+      ],
+      "answer": "१९९८"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कोकण रेल्वे मार्गावर किती छोटे पूल आहेत?",
+      "options": [
+        { "option_id": 1, "text": "१८१९", "is_correct": true },
+        { "option_id": 2, "text": "१८१", "is_correct": false },
+        { "option_id": 3, "text": "१७९", "is_correct": false },
+        { "option_id": 4, "text": "८५०", "is_correct": false }
+      ],
+      "answer": "१८१९"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भारत सरकारने विज्ञान दिन म्हणून कोणता दिवस साजरा करण्याचे ठरवले?",
+      "options": [
+        { "option_id": 1, "text": "२८ फेब्रुवारी", "is_correct": true },
+        { "option_id": 2, "text": "१५ ऑगस्ट", "is_correct": false },
+        { "option_id": 3, "text": "१० ऑगस्ट", "is_correct": false },
+        { "option_id": 4, "text": "१८ मे", "is_correct": false }
+      ],
+      "answer": "२८ फेब्रुवारी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "अरवी येथे भूकेंद्र कोणत्या वर्षी उभारण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "१९७०", "is_correct": true },
+        { "option_id": 2, "text": "१९७२", "is_correct": false },
+        { "option_id": 3, "text": "१९६३", "is_correct": false },
+        { "option_id": 4, "text": "१९७६", "is_correct": false }
+      ],
+      "answer": "१९७०"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "IIT आणि IIM संस्थांमुळे कोणत्या क्षेत्राला चालना मिळाली?",
+      "options": [
+        { "option_id": 1, "text": "उच्च शिक्षण", "is_correct": true },
+        { "option_id": 2, "text": "प्राथमिक शिक्षण", "is_correct": false },
+        { "option_id": 3, "text": "कृषी शिक्षण", "is_correct": false },
+        { "option_id": 4, "text": "महिला आयोग", "is_correct": false }
+      ],
+      "answer": "उच्च शिक्षण"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "BSNL संस्था कोणत्या वर्षी स्थापन झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९९४", "is_correct": false },
+        { "option_id": 2, "text": "२०००", "is_correct": true },
+        { "option_id": 3, "text": "१९८७", "is_correct": false },
+        { "option_id": 4, "text": "१९७६", "is_correct": false }
+      ],
+      "answer": "२०००"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "ONGC ची स्थापना कोणत्या वर्षी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९५६", "is_correct": true },
+        { "option_id": 2, "text": "१९६३", "is_correct": false },
+        { "option_id": 3, "text": "१९६९", "is_correct": false },
+        { "option_id": 4, "text": "१९९०", "is_correct": false }
+      ],
+      "answer": "१९५६"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "सागरसम्राट या ड्रीलशीपद्वारे बॉम्बे हाय येथे तेलविहीर कोणत्या वर्षी खोदण्यास सुरुवात झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९७४", "is_correct": false },
+        { "option_id": 2, "text": "१९७५", "is_correct": true },
+        { "option_id": 3, "text": "१९७९", "is_correct": false },
+        { "option_id": 4, "text": "१९८३", "is_correct": false }
+      ],
+      "answer": "१९७५"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "१९९४ मध्ये भारतात कोणती सेवा सुरू झाली?",
+      "options": [
+        { "option_id": 1, "text": "स्पीड पोस्ट", "is_correct": false },
+        { "option_id": 2, "text": "मोबाइल सेवा", "is_correct": true },
+        { "option_id": 3, "text": "टेलेक्स सेवा", "is_correct": false },
+        { "option_id": 4, "text": "INSAT", "is_correct": false }
+      ],
+      "answer": "मोबाइल सेवा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "IIT संस्था कोणत्या क्षेत्राशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "व्यवस्थापन", "is_correct": false },
+        { "option_id": 2, "text": "अभियांत्रिकी", "is_correct": true },
+        { "option_id": 3, "text": "वैद्यक", "is_correct": false },
+        { "option_id": 4, "text": "कृषी", "is_correct": false }
+      ],
+      "answer": "अभियांत्रिकी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "IIM संस्था कशासाठी प्रसिद्ध आहेत?",
+      "options": [
+        { "option_id": 1, "text": "अणु संशोधन", "is_correct": false },
+        { "option_id": 2, "text": "व्यवस्थापन शिक्षण", "is_correct": true },
+        { "option_id": 3, "text": "अंतराळ संशोधन", "is_correct": false },
+        { "option_id": 4, "text": "रेल्वे तंत्रज्ञान", "is_correct": false }
+      ],
+      "answer": "व्यवस्थापन शिक्षण"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "INSAT प्रणालीमुळे कोणते लाभ झाले?",
+      "options": [
+        { "option_id": 1, "text": "दूरसंचार क्रांती", "is_correct": true },
+        { "option_id": 2, "text": "जंगल संरक्षण", "is_correct": false },
+        { "option_id": 3, "text": "दारूबंदी", "is_correct": false },
+        { "option_id": 4, "text": "स्पर्धा परीक्षा", "is_correct": false }
+      ],
+      "answer": "दूरसंचार क्रांती"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "रोहिणी-७५ अग्निबाणाचे प्रक्षेपण कोणत्या वर्षी झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९६७", "is_correct": true },
+        { "option_id": 2, "text": "१९६३", "is_correct": false },
+        { "option_id": 3, "text": "१९७५", "is_correct": false },
+        { "option_id": 4, "text": "१९८१", "is_correct": false }
+      ],
+      "answer": "१९६७"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "पहिला दूरसंवेदन उपग्रह भास्कर-१ कोणत्या देशातून पाठवला गेला?",
+      "options": [
+        { "option_id": 1, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 2, "text": "सोव्हिएत रशिया", "is_correct": true },
+        { "option_id": 3, "text": "फ्रान्स", "is_correct": false },
+        { "option_id": 4, "text": "जर्मनी", "is_correct": false }
+      ],
+      "answer": "सोव्हिएत रशिया"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "१९७६ मध्ये कोणत्या शहराशी थेट दूरध्वनी संपर्क साध्य झाला?",
+      "options": [
+        { "option_id": 1, "text": "मुंबई व दिल्ली", "is_correct": false },
+        { "option_id": 2, "text": "मुंबई व लंडन", "is_correct": true },
+        { "option_id": 3, "text": "दिल्ली व लंडन", "is_correct": false },
+        { "option_id": 4, "text": "पुणे व लंडन", "is_correct": false }
+      ],
+      "answer": "मुंबई व लंडन"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "स्पीड पोस्ट सेवा कोणत्या वर्षी सुरू झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९८६", "is_correct": true },
+        { "option_id": 2, "text": "१९७२", "is_correct": false },
+        { "option_id": 3, "text": "१९९४", "is_correct": false },
+        { "option_id": 4, "text": "१९९९", "is_correct": false }
+      ],
+      "answer": "१९८६"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "INSAT-१ बी उपग्रहामुळे किती आकाशवाणी केंद्रे जोडता आली?",
+      "options": [
+        { "option_id": 1, "text": "२०७", "is_correct": true },
+        { "option_id": 2, "text": "९२", "is_correct": false },
+        { "option_id": 3, "text": "३५०", "is_correct": false },
+        { "option_id": 4, "text": "७६०", "is_correct": false }
+      ],
+      "answer": "२०७"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कोकण रेल्वे मार्गावर सर्वांत उंच पूल कोणत्या नदीवर आहे?",
+      "options": [
+        { "option_id": 1, "text": "शरावती नदी", "is_correct": false },
+        { "option_id": 2, "text": "पनवल नदी", "is_correct": true },
+        { "option_id": 3, "text": "खंबायत आखात", "is_correct": false },
+        { "option_id": 4, "text": "गंगा नदी", "is_correct": false }
+      ],
+      "answer": "पनवल नदी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "भारताने अवकाश संशोधनासाठी आर्यभट्ट उपग्रह कोणत्या वर्षी पाठवला?",
+      "options": [
+        { "option_id": 1, "text": "१९७५", "is_correct": true },
+        { "option_id": 2, "text": "१९७४", "is_correct": false },
+        { "option_id": 3, "text": "१९७९", "is_correct": false },
+        { "option_id": 4, "text": "१९८१", "is_correct": false }
+      ],
+      "answer": "१९७५"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "VSNL संस्थेने इंटरनेट सेवा कोणत्या दशकात सुरू केली?",
+      "options": [
+        { "option_id": 1, "text": "१९९० नंतर", "is_correct": true },
+        { "option_id": 2, "text": "१९८० नंतर", "is_correct": false },
+        { "option_id": 3, "text": "१९७० नंतर", "is_correct": false },
+        { "option_id": 4, "text": "१९६० नंतर", "is_correct": false }
+      ],
+      "answer": "१९९० नंतर"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "भारतीय अणुचाचणीमध्ये महत्त्वाचा वाटा कोणाचा होता?",
+      "options": [
+        { "option_id": 1, "text": "ई. श्रीधरन", "is_correct": false },
+        { "option_id": 2, "text": "सॅम पित्रोदा", "is_correct": false },
+        { "option_id": 3, "text": "डॉ. होमी सेठना व डॉ. राजा रामण्णा", "is_correct": true },
+        { "option_id": 4, "text": "शिक्षण मंत्री", "is_correct": false }
+      ],
+      "answer": "डॉ. होमी सेठना व डॉ. राजा रामण्णा"
+    },
+    
+{ "question_id": 51, "question_type": "SHORT", "question": "विज्ञान व तंत्रज्ञान प्रकरणाचा मुख्य उद्देश काय आहे?", "answer": "या प्रकरणाचा मुख्य उद्देश भारतातील विज्ञान व तंत्रज्ञान क्षेत्रातील प्रगती समजावणे हा आहे." },
+{ "question_id": 52, "question_type": "SHORT", "question": "अप्सरा ही अणुभट्टी केव्हा सुरू झाली?", "answer": "अप्सरा ही भारताची पहिली अणुभट्टी १९५६ साली सुरू झाली." },
+{ "question_id": 53, "question_type": "SHORT", "question": "ध्रुव अणुभट्टी कोणत्या वर्षी कार्यान्वित झाली?", "answer": "ध्रुव अणुभट्टी १९८५ साली कार्यान्वित झाली." },
+{ "question_id": 54, "question_type": "SHORT", "question": "पोखरण अणुचाचणी कोणत्या वर्षी झाली?", "answer": "पोखरण अणुचाचणी १९७४ साली झाली." },
+{ "question_id": 55, "question_type": "SHORT", "question": "क्षेपणास्त्र विकास कार्यक्रमाचे नाव काय होते?", "answer": "क्षेपणास्त्र विकास कार्यक्रमाचे नाव IGMDP असे होते." },
+{ "question_id": 56, "question_type": "SHORT", "question": "पृथ्वी क्षेपणास्त्राची पहिली चाचणी केव्हा झाली?", "answer": "पृथ्वी क्षेपणास्त्राची पहिली चाचणी १९८८ साली झाली." },
+{ "question_id": 57, "question_type": "SHORT", "question": "अग्नी क्षेपणास्त्राची चाचणी कोणत्या वर्षी झाली?", "answer": "अग्नी क्षेपणास्त्राची चाचणी १९८९ साली झाली." },
+{ "question_id": 58, "question_type": "SHORT", "question": "आकाश क्षेपणास्त्र कोणत्या उद्देशासाठी तयार झाले?", "answer": "आकाश क्षेपणास्त्र हवाई संरक्षणासाठी तयार करण्यात आले." },
+{ "question_id": 59, "question_type": "SHORT", "question": "नाग क्षेपणास्त्र कशासाठी वापरले जाते?", "answer": "नाग क्षेपणास्त्र रणगाडे नष्ट करण्यासाठी वापरले जाते." },
+{ "question_id": 60, "question_type": "SHORT", "question": "ISRO चे मुख्यालय कोणत्या शहरात आहे?", "answer": "ISRO चे मुख्यालय बंगळूरू येथे आहे." },
+{ "question_id": 61, "question_type": "SHORT", "question": "आर्यभट्ट उपग्रह कोणत्या वर्षी प्रक्षेपित झाला?", "answer": "आर्यभट्ट हा भारताचा पहिला उपग्रह १९७५ साली प्रक्षेपित झाला." },
+{ "question_id": 62, "question_type": "SHORT", "question": "भास्कर-१ कोणत्या प्रकारचा उपग्रह होता?", "answer": "भास्कर-१ हा दूरसंवेदन प्रकारचा उपग्रह होता." },
+{ "question_id": 63, "question_type": "SHORT", "question": "APPLE उपग्रह कोठून प्रक्षेपित झाला?", "answer": "APPLE उपग्रह फ्रेंच गियाना येथून प्रक्षेपित झाला." },
+{ "question_id": 64, "question_type": "SHORT", "question": "INSAT-१ बी उपग्रह कोणत्या वर्षी यशस्वी झाला?", "answer": "INSAT-१ बी उपग्रह १९८३ साली यशस्वी प्रक्षेपित झाला." },
+{ "question_id": 65, "question_type": "SHORT", "question": "भारत सरकारने पिनकोड पद्धती केव्हा सुरू केली?", "answer": "भारत सरकारने पिनकोड पद्धती १९७२ साली सुरू केली." },
+{ "question_id": 66, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा कोणत्या वर्षी सुरू झाली?", "answer": "स्पीड पोस्ट सेवा १९८६ साली सुरू करण्यात आली." },
+{ "question_id": 67, "question_type": "SHORT", "question": "BSNL ची स्थापना कोणत्या वर्षी झाली?", "answer": "BSNL संस्था २००० साली स्थापन झाली." },
+{ "question_id": 68, "question_type": "SHORT", "question": "कोकण रेल्वे कोणत्या वर्षी सुरू झाली?", "answer": "कोकण रेल्वे १९९८ साली सुरू झाली." },
+{ "question_id": 69, "question_type": "SHORT", "question": "कोकण रेल्वे मार्गाची लांबी सुमारे किती आहे?", "answer": "कोकण रेल्वे मार्गाची लांबी सुमारे ७६० किलोमीटर आहे." },
+{ "question_id": 70, "question_type": "SHORT", "question": "कोकण रेल्वे मार्ग किती राज्यांतून जातो?", "answer": "कोकण रेल्वे मार्ग चार राज्यांतून जातो." },
+
+{ "question_id": 71, "question_type": "SHORT", "question": "कोकण रेल्वे मार्गावर एकूण किती बोगदे आहेत?", "answer": "कोकण रेल्वे मार्गावर एकूण ९२ बोगदे आहेत." },
+{ "question_id": 72, "question_type": "SHORT", "question": "कोकण रेल्वे मार्गावर किती छोटे पूल आहेत?", "answer": "कोकण रेल्वे मार्गावर सुमारे १८१९ छोटे पूल आहेत." },
+{ "question_id": 73, "question_type": "SHORT", "question": "पोस्ट खात्याने कोणती आधुनिक सेवा सुरू केली?", "answer": "पोस्ट खात्याने स्पीड पोस्ट ही आधुनिक सेवा सुरू केली." },
+{ "question_id": 74, "question_type": "SHORT", "question": "अरवी येथील दूरसंचार भूकेंद्र कोणत्या दशकात उभारले?", "answer": "अरवी येथील दूरसंचार भूकेंद्र १९६० च्या दशकात उभारले गेले." },
+{ "question_id": 75, "question_type": "SHORT", "question": "क्षेपणास्त्र विकासात डॉ. कलाम यांची भूमिका काय होती?", "answer": "डॉ. कलाम यांनी क्षेपणास्त्र विकास कार्यक्रमाचे नेतृत्व केले." },
+{ "question_id": 76, "question_type": "SHORT", "question": "INSAT प्रणालीचा मुख्य लाभ कोणता आहे?", "answer": "INSAT प्रणालीचा मुख्य लाभ दूरसंचार सेवा सशक्त होणे हा आहे." },
+{ "question_id": 77, "question_type": "SHORT", "question": "भास्कर-१ उपग्रहाचा उपयोग कशासाठी झाला?", "answer": "भास्कर-१ उपग्रहाचा उपयोग पृथ्वीवरील संसाधनांचा अभ्यास करण्यासाठी झाला." },
+{ "question_id": 78, "question_type": "SHORT", "question": "NPCIL संस्था केव्हा स्थापन झाली?", "answer": "NPCIL संस्था १९८७ साली स्थापन झाली." },
+{ "question_id": 79, "question_type": "SHORT", "question": "तारापूर अणुशक्ती केंद्र कोणत्या वर्षी उभारले गेले?", "answer": "तारापूर अणुशक्ती केंद्र १९६९ साली उभारले गेले." },
+{ "question_id": 80, "question_type": "SHORT", "question": "पहिली अणुचाचणी केव्हा झाली?", "answer": "पहिली अणुचाचणी १९७४ साली पोखरण येथे झाली." },
+{ "question_id": 81, "question_type": "SHORT", "question": "अग्नी क्षेपणास्त्र कोणत्या वर्षी विकसित झाले?", "answer": "अग्नी क्षेपणास्त्र १९८९ साली विकसित करण्यात आले." },
+{ "question_id": 82, "question_type": "SHORT", "question": "कोकण रेल्वे मार्ग कोणत्या जिल्ह्यातून जातो?", "answer": "कोकण रेल्वे मार्ग महाराष्ट्रातील रत्नागिरी व सिंधुदुर्ग जिल्ह्यातून जातो." },
+{ "question_id": 83, "question_type": "SHORT", "question": "अरवी भूकेंद्र कोणत्या सेवेसाठी उभारले गेले?", "answer": "अरवी भूकेंद्र उपग्रहीय दूरसंचार सेवेसाठी उभारले गेले." },
+{ "question_id": 84, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवेमुळे काय साध्य झाले?", "answer": "स्पीड पोस्ट सेवेमुळे टपाल जलद पोहोचवणे शक्य झाले." },
+{ "question_id": 85, "question_type": "SHORT", "question": "INSAT-१ बी उपग्रहामुळे कोणती केंद्रे जोडली गेली?", "answer": "INSAT-१ बी उपग्रहामुळे सुमारे २०७ आकाशवाणी केंद्रे जोडली गेली." },
+{ "question_id": 86, "question_type": "SHORT", "question": "APPLE उपग्रह कोणत्या प्रकारचा उपग्रह होता?", "answer": "APPLE हा भारताचा पहिला दूरसंचार उपग्रह होता." },
+{ "question_id": 87, "question_type": "SHORT", "question": "ISRO संस्थेची स्थापना कोणत्या वर्षी झाली?", "answer": "ISRO संस्थेची स्थापना १९६९ साली झाली." },
+{ "question_id": 88, "question_type": "SHORT", "question": "पोखरण अणुचाचणीचे नेतृत्व कोणाकडे होते?", "answer": "पोखरण अणुचाचणीचे नेतृत्व डॉ. राजा रामण्णा यांच्याकडे होते." },
+{ "question_id": 89, "question_type": "SHORT", "question": "अग्नीबाण प्रक्षेपण केंद्र थुंबा येथे कोणत्या वर्षी सुरू झाले?", "answer": "अग्नीबाण प्रक्षेपण केंद्र थुंबा येथे १९६१ साली सुरू झाले." },
+{ "question_id": 90, "question_type": "SHORT", "question": "DRDO संस्था कशासाठी कार्य करते?", "answer": "DRDO संस्था संरक्षण क्षेत्रातील संशोधनासाठी कार्य करते." },
+
+{ "question_id": 91, "question_type": "SHORT", "question": "आकाश क्षेपणास्त्र कोणत्या संस्थेने तयार केले?", "answer": "आकाश क्षेपणास्त्र DRDO संस्थेने तयार केले." },
+{ "question_id": 92, "question_type": "SHORT", "question": "कोकण रेल्वे मार्गावर किती मोठे पूल आहेत?", "answer": "कोकण रेल्वे मार्गावर सुमारे १७९ मोठे पूल आहेत." },
+{ "question_id": 93, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा कोणत्या विभागाशी संबंधित आहे?", "answer": "स्पीड पोस्ट सेवा भारतीय टपाल विभागाशी संबंधित आहे." },
+{ "question_id": 94, "question_type": "SHORT", "question": "भास्कर-२ उपग्रह कोणत्या वर्षी प्रक्षेपित झाला?", "answer": "भास्कर-२ उपग्रह १९८१ साली प्रक्षेपित झाला." },
+{ "question_id": 95, "question_type": "SHORT", "question": "अग्नी क्षेपणास्त्राचा उपयोग कशासाठी होतो?", "answer": "अग्नी क्षेपणास्त्र दूर अंतरावर मारा करण्यासाठी उपयोगी आहे." },
+{ "question_id": 96, "question_type": "SHORT", "question": "IIT संस्था कोणत्या क्षेत्रात योगदान देते?", "answer": "IIT संस्था अभियांत्रिकी आणि तंत्रज्ञान शिक्षणात योगदान देते." },
+{ "question_id": 97, "question_type": "SHORT", "question": "IIM संस्था कोणत्या शिक्षणासाठी प्रसिद्ध आहेत?", "answer": "IIM संस्था व्यवस्थापन शिक्षणासाठी प्रसिद्ध आहेत." },
+{ "question_id": 98, "question_type": "SHORT", "question": "APPLE उपग्रहामुळे कोणता बदल घडला?", "answer": "APPLE उपग्रहामुळे दूरसंचार सेवा अधिक मजबूत झाली." },
+{ "question_id": 99, "question_type": "SHORT", "question": "INSAT उपग्रह प्रणालीचा उपयोग कोणत्या क्षेत्रात झाला?", "answer": "INSAT प्रणालीचा उपयोग दूरसंचार, हवामान आणि शिक्षण क्षेत्रात झाला." },
+{ "question_id": 100, "question_type": "SHORT", "question": "भारताने १९९८ मध्ये कोणती अणुचाचणी घेतली?", "answer": "१९९८ मध्ये भारताने दुसरी अणुचाचणी पोखरण येथे घेतली." },
+
+{ "question_id": 101, "question_type": "SHORT", "question": "ध्रुव अणुभट्टी कोणत्या शहरात आहे?", "answer": "ध्रुव अणुभट्टी मुंबईजवळील ट्रॉम्बे येथे आहे." },
+{ "question_id": 102, "question_type": "SHORT", "question": "कोकण रेल्वे मार्गाचे महत्त्व काय आहे?", "answer": "कोकण रेल्वे मार्गामुळे पश्चिम किनारपट्टीवरील वाहतूक सुलभ झाली." },
+{ "question_id": 103, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवेमुळे टपाल विभाग कसा सक्षम झाला?", "answer": "स्पीड पोस्टमुळे टपाल जलद आणि विश्वासार्ह बनले." },
+{ "question_id": 104, "question_type": "SHORT", "question": "APPLE उपग्रह केव्हा प्रक्षेपित झाला?", "answer": "APPLE उपग्रह १९८१ साली प्रक्षेपित झाला." },
+{ "question_id": 105, "question_type": "SHORT", "question": "भास्कर उपग्रह मालिकेचा मुख्य उपयोग कोणता?", "answer": "भास्कर उपग्रह मालिकेचा उपयोग पृथ्वी निरीक्षण व संसाधन अभ्यास हा होता." },
+{ "question_id": 106, "question_type": "SHORT", "question": "DRDO चे पूर्ण नाव काय आहे?", "answer": "DRDO चे पूर्ण नाव Defence Research and Development Organisation आहे." },
+{ "question_id": 107, "question_type": "SHORT", "question": "IIT संस्थांची स्थापना कशासाठी करण्यात आली?", "answer": "IIT संस्थांची स्थापना उच्च दर्जाचे तांत्रिक मनुष्यबळ तयार करण्यासाठी करण्यात आली." },
+{ "question_id": 108, "question_type": "SHORT", "question": "ISRO संस्था कोणत्या क्षेत्राशी संबंधित आहे?", "answer": "ISRO संस्था अंतराळ संशोधन क्षेत्राशी संबंधित आहे." },
+{ "question_id": 109, "question_type": "SHORT", "question": "पोखरण अणुचाचणीचे वर्ष कोणते?", "answer": "पोखरण अणुचाचणीचे वर्ष १९७४ आहे." },
+{ "question_id": 110, "question_type": "SHORT", "question": "क्षेपणास्त्र विकास कार्यक्रमामुळे कोणता फायदा झाला?", "answer": "क्षेपणास्त्र विकासामुळे भारताची संरक्षण सज्जता वाढली." },
+
+{ "question_id": 111, "question_type": "SHORT", "question": "INSAT-१ बी उपग्रहाचे महत्त्व कोणते?", "answer": "INSAT-१ बी उपग्रहामुळे दूरसंचार आणि प्रसारण सेवा आधुनिक झाल्या." },
+{ "question_id": 112, "question_type": "SHORT", "question": "कोकण रेल्वे कोणत्या किनाऱ्यावरून जाते?", "answer": "कोकण रेल्वे पश्चिम किनारपट्टीवरून जाते." },
+{ "question_id": 113, "question_type": "SHORT", "question": "APPLE उपग्रहाच्या प्रक्षेपणात कोणत्या देशाची मदत झाली?", "answer": "APPLE उपग्रहाच्या प्रक्षेपणात फ्रान्स देशाची मदत झाली." },
+{ "question_id": 114, "question_type": "SHORT", "question": "IIM संस्थांमुळे कोणते कौशल्य विकसित झाले?", "answer": "IIM संस्थांमुळे व्यवस्थापन क्षेत्रातील कौशल्य विकसित झाले." },
+{ "question_id": 115, "question_type": "SHORT", "question": "DRDO संस्था कोणत्या क्षेत्रात काम करते?", "answer": "DRDO संस्था संरक्षण तंत्रज्ञान क्षेत्रात काम करते." },
+{ "question_id": 116, "question_type": "SHORT", "question": "ध्रुव अणुभट्टी कोणत्या प्रकारची अणुभट्टी आहे?", "answer": "ध्रुव अणुभट्टी संशोधन प्रकारची अणुभट्टी आहे." },
+{ "question_id": 117, "question_type": "SHORT", "question": "पोखरण अणुचाचणीचा उद्देश काय होता?", "answer": "पोखरण अणुचाचणीचा उद्देश शांततापूर्ण अणुशक्तीचा वापर सिद्ध करणे हा होता." },
+{ "question_id": 118, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा का सुरू करण्यात आली?", "answer": "टपाल जलद पोहोचण्यासाठी स्पीड पोस्ट सेवा सुरू करण्यात आली." },
+{ "question_id": 119, "question_type": "SHORT", "question": "भास्कर-२ उपग्रह कोणत्या वर्षी पाठवला गेला?", "answer": "भास्कर-२ उपग्रह १९८१ साली पाठवला गेला." },
+{ "question_id": 120, "question_type": "SHORT", "question": "ISRO संस्थेमुळे कोणती क्रांती झाली?", "answer": "ISRO संस्थेमुळे भारतात अंतराळ तंत्रज्ञानाची क्रांती झाली." },
+
+{ "question_id": 121, "question_type": "SHORT", "question": "IIT संस्था विद्यार्थ्यांना कशात मदत करतात?", "answer": "IIT संस्था विद्यार्थ्यांना उच्च तांत्रिक शिक्षणात मदत करतात." },
+{ "question_id": 122, "question_type": "SHORT", "question": "IIM संस्था कोणत्या विषयात मार्गदर्शन देतात?", "answer": "IIM संस्था व्यवस्थापन विषयात मार्गदर्शन देतात." },
+{ "question_id": 123, "question_type": "SHORT", "question": "DRDO कोणत्या प्रकारचे संशोधन करते?", "answer": "DRDO संरक्षणाशी संबंधित वैज्ञानिक संशोधन करते." },
+{ "question_id": 124, "question_type": "SHORT", "question": "APPLE उपग्रह कोणत्या केंद्राशी संबंधित आहे?", "answer": "APPLE उपग्रह दूरसंचार प्रसारण केंद्राशी संबंधित आहे." },
+{ "question_id": 125, "question_type": "SHORT", "question": "INSAT-१ बी उपग्रहामुळे शिक्षण प्रसार कसा झाला?", "answer": "INSAT-१ बी उपग्रहामुळे शैक्षणिक प्रसारण सुलभ झाले." },
+{ "question_id": 126, "question_type": "SHORT", "question": "कोकण रेल्वे मार्गाचा विकास कोणामुळे शक्य झाला?", "answer": "ई. श्रीधरन यांच्या नेतृत्वामुळे कोकण रेल्वे मार्गाचा विकास शक्य झाला." },
+{ "question_id": 127, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा कोणत्या वर्षी सुरू झाली?", "answer": "स्पीड पोस्ट सेवा १९८६ साली सुरू झाली." },
+{ "question_id": 128, "question_type": "SHORT", "question": "पोखरण अणुचाचणी कोणत्या महिन्यात झाली?", "answer": "पोखरण अणुचाचणी मे महिन्यात १९७४ मध्ये झाली." },
+{ "question_id": 129, "question_type": "SHORT", "question": "ISRO संस्थेचा उपयोग कोणाला झाला?", "answer": "ISRO संस्थेचा उपयोग भारतीय वैज्ञानिक आणि विद्यार्थ्यांना झाला." },
+{ "question_id": 130, "question_type": "SHORT", "question": "भास्कर-१ उपग्रहामुळे कोणत्या क्षेत्राचा अभ्यास झाला?", "answer": "भास्कर-१ उपग्रहामुळे पृथ्वीवरील नैसर्गिक साधनसंपत्तीचा अभ्यास झाला." },
+
+{ "question_id": 131, "question_type": "SHORT", "question": "DRDO संस्थेची स्थापना केव्हा झाली?", "answer": "DRDO संस्थेची स्थापना १९५८ साली झाली." },
+{ "question_id": 132, "question_type": "SHORT", "question": "IIT संस्था कोणत्या प्रकारचे मनुष्यबळ तयार करतात?", "answer": "IIT संस्था कुशल तांत्रिक मनुष्यबळ तयार करतात." },
+{ "question_id": 133, "question_type": "SHORT", "question": "IIM संस्था कोणत्या क्षेत्रात तज्ज्ञ तयार करतात?", "answer": "IIM संस्था व्यवस्थापन क्षेत्रात तज्ज्ञ तयार करतात." },
+{ "question_id": 134, "question_type": "SHORT", "question": "APPLE उपग्रहामुळे दूरध्वनी सेवा कशी सुधारली?", "answer": "APPLE उपग्रहामुळे भारतातील दूरध्वनी सेवा अधिक जलद आणि सक्षम झाली." },
+{ "question_id": 135, "question_type": "SHORT", "question": "INSAT प्रणालीचा लाभ ग्रामीण भागाला कसा झाला?", "answer": "INSAT प्रणालीमुळे ग्रामीण भागात प्रसारण व दूरसंचार सुलभ झाले." },
+{ "question_id": 136, "question_type": "SHORT", "question": "अग्नी क्षेपणास्त्राचा मुख्य उद्देश कोणता?", "answer": "अग्नी क्षेपणास्त्राचा मुख्य उद्देश दूर अंतरावर मारा करणे हा आहे." },
+{ "question_id": 137, "question_type": "SHORT", "question": "पोखरण अणुचाचणीचे नेतृत्व कोणी केले?", "answer": "पोखरण अणुचाचणीचे नेतृत्व डॉ. होमी सेठना व डॉ. राजा रामण्णा यांनी केले." },
+{ "question_id": 138, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवेमुळे कोणती सुविधा मिळाली?", "answer": "स्पीड पोस्ट सेवेमुळे टपाल जलद पोहोचण्याची सुविधा मिळाली." },
+{ "question_id": 139, "question_type": "SHORT", "question": "ISRO संस्था कोणत्या क्षेत्राशी संबंधित आहे?", "answer": "ISRO संस्था अंतराळ तंत्रज्ञान व संशोधनाशी संबंधित आहे." },
+{ "question_id": 140, "question_type": "SHORT", "question": "भास्कर उपग्रह मालिकेचा मुख्य उपयोग कोणता होता?", "answer": "भास्कर उपग्रह मालिकेचा मुख्य उपयोग दूरसंवेदन तंत्रज्ञानाचा विकास हा होता." },
+
+{ "question_id": 141, "question_type": "SHORT", "question": "कोकण रेल्वे मार्ग किती राज्यांत पसरलेला आहे?", "answer": "कोकण रेल्वे मार्ग चार राज्यांत पसरलेला आहे." },
+{ "question_id": 142, "question_type": "SHORT", "question": "पोखरण अणुचाचणी केव्हा झाली?", "answer": "पोखरण अणुचाचणी १९७४ साली झाली." },
+{ "question_id": 143, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा कोणत्या विभागाने सुरू केली?", "answer": "स्पीड पोस्ट सेवा भारतीय टपाल विभागाने सुरू केली." },
+{ "question_id": 144, "question_type": "SHORT", "question": "APPLE उपग्रह कोणत्या वर्षी प्रक्षेपित झाला?", "answer": "APPLE उपग्रह १९८१ साली प्रक्षेपित झाला." },
+{ "question_id": 145, "question_type": "SHORT", "question": "INSAT-१ बी उपग्रहामुळे किती केंद्रे जोडली गेली?", "answer": "INSAT-१ बी उपग्रहामुळे सुमारे २०७ केंद्रे जोडली गेली." },
+{ "question_id": 146, "question_type": "SHORT", "question": "ISRO चे मुख्यालय कोठे आहे?", "answer": "ISRO चे मुख्यालय बंगळूरू येथे आहे." },
+{ "question_id": 147, "question_type": "SHORT", "question": "भास्कर-१ कोणत्या प्रकारचा उपग्रह होता?", "answer": "भास्कर-१ हा दूरसंवेदन प्रकारचा उपग्रह होता." },
+{ "question_id": 148, "question_type": "SHORT", "question": "DRDO संस्था कशासाठी कार्य करते?", "answer": "DRDO संस्था संरक्षण तंत्रज्ञान विकासासाठी कार्य करते." },
+{ "question_id": 149, "question_type": "SHORT", "question": "पोखरण अणुचाचणीचे महत्त्व कोणते होते?", "answer": "पोखरण अणुचाचणीमुळे भारताची संरक्षण सज्जता वाढली." },
+{ "question_id": 150, "question_type": "SHORT", "question": "स्पीड पोस्ट सेवा कोणत्या वर्षी सुरू झाली?", "answer": "स्पीड पोस्ट सेवा १९८६ साली सुरू झाली." }
+,
+{ "question_id": 151, "question_type": "LONG", "question": "स्वातंत्र्यानंतर भारताने विज्ञान व तंत्रज्ञान क्षेत्रात कोणते महत्त्वाचे टप्पे गाठले?", "answer": "स्वातंत्र्यानंतर भारताने विज्ञान व तंत्रज्ञान क्षेत्रात अनेक महत्त्वाचे टप्पे गाठले. अणुशक्ती संशोधन कार्यक्रम सुरू करण्यात आला. अवकाश संशोधनासाठी ISRO संस्थेची स्थापना झाली. दूरसंवेदन उपग्रह प्रक्षेपित करण्यात आले. संरक्षण क्षेत्रात DRDO ने क्षेपणास्त्र विकास केला. दूरसंचार क्षेत्रात आधुनिक सेवा सुरू झाल्या. संगणक तंत्रज्ञानाचा प्रसार वाढला. या सर्व प्रगतीमुळे भारत अधिक सक्षम राष्ट्र बनला." },
+{ "question_id": 152, "question_type": "LONG", "question": "अप्सरा अणुभट्टीचे महत्त्व स्पष्ट करा.", "answer": "अप्सरा ही भारताची पहिली अणुभट्टी होती. ती १९५६ साली कार्यान्वित झाली. या अणुभट्टीमुळे भारतीय वैज्ञानिकांना अणु संशोधनाची संधी मिळाली. अणु तंत्रज्ञानाचा पाया तयार झाला. ऊर्जा निर्मितीचे नवे मार्ग खुले झाले. भविष्यातील अणुशक्ती केंद्रांसाठी अनुभव मिळाला. त्यामुळे अप्सरा अणुभट्टी भारतासाठी ऐतिहासिकदृष्ट्या महत्त्वाची ठरली." },
+{ "question_id": 153, "question_type": "LONG", "question": "ध्रुव अणुभट्टीचे कार्य आणि उपयोग लिहा.", "answer": "ध्रुव अणुभट्टी १९८५ साली सुरू झाली. ही अणुभट्टी पूर्णपणे भारतीय बनावटीची आहे. या अणुभट्टीतून विविध प्रकारचे अणु संशोधन केले जाते. रेडिओ आयसोटोप तयार करण्यात येतात. वैद्यकीय आणि औद्योगिक क्षेत्रात त्यांचा उपयोग होतो. विद्यार्थ्यांना आणि संशोधकांना प्रशिक्षण मिळते. म्हणून ध्रुव अणुभट्टी देशाच्या विकासात महत्त्वाची भूमिका बजावते." },
+{ "question_id": 154, "question_type": "LONG", "question": "पोखरण अणुचाचणी १९७४ चे वर्णन करा.", "answer": "पोखरण अणुचाचणी १८ मे १९७४ रोजी झाली. ही भारताची पहिली यशस्वी अणुचाचणी होती. या चाचणीचा उद्देश शांततापूर्ण अणुशक्तीचा वापर सिद्ध करणे हा होता. या चाचणीचे नेतृत्व डॉ. राजा रामण्णा यांनी केले. इंदिरा गांधी यांनी या निर्णयाला राजकीय पाठिंबा दिला. या घटनेमुळे भारत अणुशक्ती राष्ट्र म्हणून पुढे आला. त्यामुळे संरक्षण क्षेत्रात नवा आत्मविश्वास निर्माण झाला." },
+{ "question_id": 155, "question_type": "LONG", "question": "NPCIL संस्थेची स्थापना का करण्यात आली?", "answer": "NPCIL संस्था १९८७ साली स्थापन करण्यात आली. अणुशक्ती केंद्रांचे व्यवस्थापन करणे हा तिचा उद्देश होता. अणु विद्युत निर्मितीला गती देणे आवश्यक होते. विविध प्रकल्पांचे नियोजन आणि अंमलबजावणी करणे गरजेचे होते. या संस्थेमुळे ऊर्जा निर्मिती अधिक सुसूत्र झाली. तांत्रिक मनुष्यबळाचे योग्य व्यवस्थापन झाले. म्हणून NPCIL ची स्थापना महत्त्वाची ठरली." },
+{ "question_id": 156, "question_type": "LONG", "question": "INSAT उपग्रह प्रणालीचे महत्त्व स्पष्ट करा.", "answer": "INSAT ही भारताची उपग्रहीय दूरसंचार प्रणाली आहे. या प्रणालीमुळे देशभर दूरध्वनी संपर्क सुलभ झाला. आकाशवाणी आणि दूरदर्शन केंद्रे जोडली गेली. हवामान अंदाज अधिक अचूक झाले. शैक्षणिक प्रसारणास मदत झाली. ग्रामीण भागात माहिती क्रांती घडली. म्हणून INSAT प्रणाली देशाच्या विकासात अत्यंत महत्त्वाची ठरली." },
+{ "question_id": 157, "question_type": "LONG", "question": "आर्यभट्ट उपग्रहाच्या प्रक्षेपणाचे परिणाम लिहा.", "answer": "आर्यभट्ट हा भारताचा पहिला कृत्रिम उपग्रह १९७५ साली प्रक्षेपित झाला. या प्रक्षेपणामुळे भारताने अवकाश तंत्रज्ञानात प्रवेश केला. वैज्ञानिक संशोधनाला प्रोत्साहन मिळाले. उपग्रह निर्मितीचा आत्मविश्वास वाढला. भविष्यातील अनेक उपग्रह प्रकल्पांचा मार्ग मोकळा झाला. दूरसंवेदन आणि दूरसंचार क्षेत्रात नवे उपयोग सुरू झाले. त्यामुळे भारताचा तांत्रिक दर्जा उंचावला." },
+{ "question_id": 158, "question_type": "LONG", "question": "ISRO संस्थेचे कार्यक्षेत्र लिहा.", "answer": "ISRO संस्था अंतराळ संशोधनासाठी स्थापन झाली. उपग्रह प्रक्षेपण करणे हे तिचे मुख्य कार्य आहे. रॉकेट आणि उपग्रहांची निर्मिती केली जाते. दूरसंवेदन तंत्रज्ञान विकसित केले जाते. संचार आणि हवामान क्षेत्रात मदत दिली जाते. विद्यार्थ्यांना प्रशिक्षण दिले जाते. म्हणून ISRO भारताच्या वैज्ञानिक विकासात मोलाची भूमिका बजावते." },
+{ "question_id": 159, "question_type": "LONG", "question": "DRDO संस्थेची क्षेपणास्त्र विकासातील भूमिका स्पष्ट करा.", "answer": "DRDO संस्था संरक्षण संशोधनासाठी कार्य करते. या संस्थेने भारतात क्षेपणास्त्र विकास कार्यक्रम सुरू केला. पृथ्वी आणि अग्नी क्षेपणास्त्रे विकसित झाली. भारतीय वैज्ञानिकांचे कौशल्य वापरले गेले. आधुनिक शस्त्रास्त्र तंत्रज्ञान तयार झाले. देशाची संरक्षण सज्जता वाढली. म्हणून DRDO ची भूमिका अत्यंत महत्त्वाची आहे." },
+{ "question_id": 160, "question_type": "LONG", "question": "स्पीड पोस्ट सेवा सुरू करण्यामागील कारणे लिहा.", "answer": "भारतीय टपाल विभागाने स्पीड पोस्ट सेवा १९८६ साली सुरू केली. टपाल जलद पोहोचवणे ही काळाची गरज होती. ग्राहकांना विश्वासार्ह सेवा देणे आवश्यक होते. आधुनिक तंत्रज्ञानाचा उपयोग करणे गरजेचे होते. या सेवेमुळे टपाल वितरणाचा वेग वाढला. व्यावसायिक क्षेत्राला मोठा लाभ झाला. म्हणून ही सेवा महत्त्वाची ठरली." },
+
+{ "question_id": 161, "question_type": "LONG", "question": "दूरसंवेदन उपग्रह भारतासाठी का महत्त्वाचे आहेत?", "answer": "दूरसंवेदन उपग्रहामुळे पृथ्वीवरील नैसर्गिक संसाधनांचा अभ्यास करणे शक्य होते. भारतात भौगोलिक विविधता मोठी आहे. शेती, जंगल आणि जलसंपत्ती यांचे नियोजन करणे आवश्यक असते. उपग्रह तंत्रज्ञानामुळे माहिती अचूक मिळते. आपत्ती व्यवस्थापनात मदत होते. वैज्ञानिक संशोधन वाढते. म्हणून दूरसंवेदन उपग्रह भारतासाठी महत्त्वाचे ठरतात." },
+{ "question_id": 162, "question_type": "LONG", "question": "पोखरण अणुचाचणीमुळे भारताच्या आंतरराष्ट्रीय प्रतिमेवर काय परिणाम झाला?", "answer": "पोखरण अणुचाचणीमुळे भारत अणुशक्ती राष्ट्र म्हणून पुढे आला. आंतरराष्ट्रीय स्तरावर भारताची दखल घेतली गेली. काही देशांनी निर्बंध घातले. तरीही भारताचा आत्मविश्वास वाढला. संरक्षण धोरण अधिक स्पष्ट झाले. विज्ञान व तंत्रज्ञान क्षमता अधोरेखित झाली. म्हणून प्रतिमेवर दूरगामी परिणाम झाला." },
+{ "question_id": 163, "question_type": "LONG", "question": "कोकण रेल्वे मार्गाचा विकास विज्ञान व तंत्रज्ञानाचा आविष्कार कसा आहे?", "answer": "कोकण रेल्वे मार्ग हा अत्यंत अवघड भौगोलिक प्रदेशातून तयार करण्यात आला. या प्रकल्पात आधुनिक अभियांत्रिकी तंत्रज्ञान वापरले गेले. अनेक बोगदे आणि पूल बांधण्यात आले. संगणकीय नियोजन पद्धती वापरल्या गेल्या. या मार्गामुळे दळणवळण सुलभ झाले. आर्थिक आणि सामाजिक विकासास गती मिळाली. म्हणून हा मार्ग विज्ञान व तंत्रज्ञानाचा आविष्कार आहे." },
+{ "question_id": 164, "question_type": "LONG", "question": "IIT संस्थांमुळे भारतात कोणते बदल झाले?", "answer": "IIT संस्थांमुळे भारतात उच्च दर्जाचे तांत्रिक शिक्षण सुरू झाले. कुशल अभियंते तयार झाले. संशोधन क्षेत्राला प्रोत्साहन मिळाले. औद्योगिक विकासास मदत झाली. विद्यार्थ्यांना आंतरराष्ट्रीय दर्जाचे शिक्षण मिळाले. तंत्रज्ञानातील नवकल्पना वाढल्या. म्हणून IIT संस्थांचे योगदान मोठे आहे." },
+{ "question_id": 165, "question_type": "LONG", "question": "IIM संस्थांचे व्यवस्थापन शिक्षणातील महत्त्व लिहा.", "answer": "IIM संस्थांनी भारतात व्यवस्थापन शिक्षणाचा पाया मजबूत केला. व्यावसायिक दृष्टिकोन विकसित झाला. उद्योगांना कुशल व्यवस्थापक मिळाले. संशोधन आणि प्रशिक्षण कार्यक्रम सुरू झाले. विद्यार्थ्यांना करिअर संधी वाढल्या. अर्थव्यवस्थेला गती मिळाली. म्हणून IIM संस्थांचे महत्त्व मोठे आहे." },
+
+{ "question_id": 166, "question_type": "LONG", "question": "INSAT-१ बी उपग्रहामुळे प्रसारण सेवा कशा सुधारल्या?", "answer": "INSAT-१ बी उपग्रह १९८३ साली यशस्वी झाला. या उपग्रहामुळे देशभर दूरदर्शन संपर्क साधता आला. आकाशवाणी केंद्रे जोडली गेली. बातम्या आणि शैक्षणिक कार्यक्रम व्यापक झाले. ग्रामीण भागात माहिती पोहोचली. प्रसारणाचा दर्जा सुधारला. म्हणून सेवा अधिक सक्षम झाल्या." },
+{ "question_id": 167, "question_type": "LONG", "question": "भारताच्या दूरसंचार क्रांतीत उपग्रहांचे योगदान लिहा.", "answer": "भारताच्या दूरसंचार क्रांतीत उपग्रहांचे योगदान अत्यंत महत्त्वाचे आहे. APPLE हा पहिला दूरसंचार उपग्रह होता. INSAT प्रणालीमुळे देशभर संपर्क वाढला. डिजिटल सेवा सुरू झाल्या. टेलेक्स आणि टेलिफोन सेवा आधुनिक झाल्या. शिक्षण प्रसारण सुलभ झाले. म्हणून उपग्रहांचे योगदान मोठे आहे." },
+{ "question_id": 168, "question_type": "LONG", "question": "भास्कर उपग्रह मालिकेचा उपयोग कोणत्या क्षेत्रात झाला?", "answer": "भास्कर उपग्रह मालिकेचा मुख्य उपयोग दूरसंवेदन क्षेत्रात झाला. पृथ्वी निरीक्षण करणे शक्य झाले. नैसर्गिक साधनसंपत्तीचा अभ्यास करता आला. शेती आणि जलनियोजन सुधारले. पर्यावरण रक्षणास मदत झाली. आपत्ती व्यवस्थापन सुलभ झाले. म्हणून ही मालिका महत्त्वाची ठरली." },
+{ "question_id": 169, "question_type": "LONG", "question": "स्पीड पोस्ट सेवेमुळे टपाल विभागाला काय फायदा झाला?", "answer": "स्पीड पोस्ट सेवेमुळे टपाल जलद वितरण शक्य झाले. ग्राहकांचा विश्वास वाढला. व्यावसायिक टपाल सेवा विकसित झाली. आधुनिक तंत्रज्ञानाचा वापर वाढला. ग्रामीण आणि शहरी भाग जोडले गेले. स्पर्धात्मक सेवा देता आली. म्हणून टपाल विभाग अधिक सक्षम झाला." },
+{ "question_id": 170, "question_type": "LONG", "question": "अग्नी क्षेपणास्त्राच्या विकासाचे महत्त्व लिहा.", "answer": "अग्नी क्षेपणास्त्र भारताच्या संरक्षण सज्जतेसाठी महत्त्वाचे आहे. १९८९ साली त्याची यशस्वी चाचणी झाली. या विकासामुळे लांब पल्ल्याच्या माऱ्याची क्षमता मिळाली. स्वदेशी तंत्रज्ञान विकसित झाले. वैज्ञानिक संशोधन वाढले. भारत अणुशक्ती राष्ट्र म्हणून अधिक सुरक्षित झाला. म्हणून हा विकास महत्त्वाचा ठरला." },
+
+{ "question_id": 171, "question_type": "LONG", "question": "पोखरण अणुचाचणी आणि १९९८ च्या अणुचाचणीतील फरक स्पष्ट करा.", "answer": "पहिली पोखरण अणुचाचणी १९७४ साली झाली. दुसरी अणुचाचणी १९९८ साली झाली. पहिली चाचणी शांततापूर्ण उद्देशासाठी होती. दुसरी चाचणी संरक्षण सज्जतेसाठी होती. १९९८ च्या चाचणीमुळे आंतरराष्ट्रीय निर्बंध वाढले. तरीही भारताचा आत्मविश्वास उंचावला. म्हणून दोन्ही चाचण्यांचे स्वरूप वेगळे होते." },
+{ "question_id": 172, "question_type": "LONG", "question": "ISRO संस्थेच्या स्थापनेमागील उद्देश लिहा.", "answer": "ISRO संस्थेची स्थापना १९६९ साली झाली. अवकाश संशोधन करणे हा तिचा मुख्य उद्देश होता. स्वदेशी उपग्रह प्रक्षेपण क्षमता विकसित करणे आवश्यक होते. वैज्ञानिकांना नवे कार्यक्षेत्र मिळावे हा हेतू होता. या संस्थेमुळे दूरसंवेदन आणि दूरसंचार क्षेत्र सुधारले. विद्यार्थ्यांना प्रशिक्षण मिळाले. म्हणून उद्देश महत्त्वाचा ठरला." },
+{ "question_id": 173, "question_type": "LONG", "question": "DRDO संस्था विद्यार्थ्यांसाठी कशी प्रेरणादायी ठरते?", "answer": "DRDO संस्था संरक्षण संशोधनाचे कार्य करते. या संस्थेत भारतीय वैज्ञानिकांना मोठ्या संधी मिळाल्या. क्षेपणास्त्र विकास कार्यक्रम यशस्वी झाला. विद्यार्थ्यांना संशोधन क्षेत्राची प्रेरणा मिळते. विज्ञान शिक्षणाबद्दल आवड निर्माण होते. देशसेवेची भावना विकसित होते. म्हणून DRDO प्रेरणादायी ठरते." },
+{ "question_id": 174, "question_type": "LONG", "question": "APPLE उपग्रह प्रक्षेपणाचे महत्त्व लिहा.", "answer": "APPLE हा भारताचा पहिला दूरसंचार उपग्रह होता. तो १९८१ साली प्रक्षेपित झाला. या प्रक्षेपणामुळे भारतात दूरसंचार सेवा सुरू झाल्या. उपग्रहीय प्रसारणाचा पाया तयार झाला. टेलिफोन संपर्क अधिक जलद झाला. आंतरराष्ट्रीय स्तरावर भारताची तांत्रिक क्षमता दिसून आली. म्हणून हा उपग्रह महत्त्वाचा ठरला." },
+{ "question_id": 175, "question_type": "LONG", "question": "कोकण रेल्वे मार्गावर विज्ञान तंत्रज्ञानाचा उपयोग कसा झाला?", "answer": "कोकण रेल्वे मार्गावर अनेक बोगदे आणि पूल बांधण्यात आले. अवघड भौगोलिक प्रदेशात अभियांत्रिकी तंत्रज्ञान वापरले गेले. संगणकीय नियोजन पद्धती वापरल्या गेल्या. आधुनिक यंत्रसामग्रीचा वापर झाला. सुरक्षित आणि जलद मार्ग तयार झाला. त्यामुळे प्रवास सुलभ झाला. म्हणून विज्ञान तंत्रज्ञानाचा योग्य उपयोग झाला." },
+
+{ "question_id": 176, "question_type": "LONG", "question": "मध्यान्ह भोजन योजनेचे वर्णन करा.", "answer": "मध्यान्ह भोजन योजना १९९५ साली सुरू करण्यात आली. गरीब विद्यार्थ्यांचे पोषण सुधारणे हा उद्देश होता. या योजनेमुळे विद्यार्थ्यांची उपस्थिती वाढली. मुलींची शाळेतील गळती कमी झाली. सामाजिक समतेला चालना मिळाली. शिक्षण प्रसारास मदत झाली. म्हणून योजना महत्त्वाची ठरली." },
+{ "question_id": 177, "question_type": "LONG", "question": "पोखरण अणुचाचणीमुळे भारताला कोणती दिशा मिळाली?", "answer": "पोखरण अणुचाचणीमुळे भारताने अणुशक्तीचा यशस्वी वापर सिद्ध केला. संरक्षण क्षेत्रात आत्मविश्वास वाढला. स्वदेशी संशोधन कार्यक्रमांना गती मिळाली. क्षेपणास्त्र विकासाची गरज स्पष्ट झाली. आंतरराष्ट्रीय स्तरावर भारताची तांत्रिक प्रतिमा उंचावली. त्यामुळे देशाला नवी दिशा मिळाली." },
+{ "question_id": 178, "question_type": "LONG", "question": "भास्कर-१ उपग्रहाचे महत्त्व लिहा.", "answer": "भास्कर-१ हा भारताचा पहिला दूरसंवेदन उपग्रह होता. तो १९७९ साली सोव्हिएत रशियातून प्रक्षेपित झाला. या उपग्रहामुळे पृथ्वी निरीक्षण शक्य झाले. नैसर्गिक संसाधनांचा अभ्यास सुलभ झाला. शेती आणि जलनियोजनात मदत झाली. म्हणून हा उपग्रह महत्त्वाचा ठरला." },
+{ "question_id": 179, "question_type": "LONG", "question": "INSAT प्रणालीमुळे शिक्षण प्रसार कसा साध्य झाला?", "answer": "INSAT प्रणालीमुळे दूरदर्शन आणि आकाशवाणी केंद्रे जोडली गेली. शैक्षणिक कार्यक्रम प्रसारित करता आले. ग्रामीण विद्यार्थ्यांपर्यंत माहिती पोहोचली. शिक्षक प्रशिक्षण सुलभ झाले. डिजिटल वर्गखोल्यांची संकल्पना पुढे आली. म्हणून शिक्षण प्रसार साध्य झाला." },
+{ "question_id": 180, "question_type": "LONG", "question": "स्पीड पोस्ट सेवा का लोकप्रिय झाली?", "answer": "स्पीड पोस्ट सेवा १९८६ साली सुरू झाली. या सेवेमुळे टपाल जलद पोहोचू लागले. ग्राहकांचा विश्वास वाढला. व्यावसायिक टपाल सेवा मिळू लागली. आधुनिक तंत्रज्ञानाचा वापर झाला. सेवा वेळेत मिळत असल्याने लोकप्रियता वाढली. म्हणून ती लोकप्रिय झाली." },
+
+{ "question_id": 181, "question_type": "LONG", "question": "अग्नी क्षेपणास्त्राच्या विकासात कोणत्या संस्थेचा वाटा आहे?", "answer": "अग्नी क्षेपणास्त्राच्या विकासात DRDO संस्थेचा मुख्य वाटा आहे. ISRO ने प्रक्षेपण तंत्रज्ञानात मदत केली. भारतीय वैज्ञानिकांचे कौशल्य वापरले गेले. १९८९ साली पहिली यशस्वी चाचणी झाली. या विकासामुळे भारताची लांब पल्ल्याच्या माऱ्याची क्षमता वाढली. म्हणून संस्थांचा वाटा महत्त्वाचा ठरतो." },
+{ "question_id": 182, "question_type": "LONG", "question": "ISRO संस्थेच्या योगदानामुळे भारताला कोणते लाभ झाले?", "answer": "ISRO संस्थेच्या योगदानामुळे भारताने अवकाश तंत्रज्ञानात प्रगती केली. उपग्रह प्रक्षेपण क्षमता विकसित झाली. दूरसंवेदन तंत्रज्ञान सुधारले. संचार सेवा अधिक सक्षम झाल्या. हवामान अंदाज अचूक झाले. विद्यार्थ्यांना संशोधनाच्या संधी मिळाल्या. म्हणून भारताला मोठे लाभ झाले." },
+{ "question_id": 183, "question_type": "LONG", "question": "DRDO संस्थेचे कार्यक्षेत्र स्पष्ट करा.", "answer": "DRDO संस्था संरक्षण संशोधन क्षेत्रात काम करते. आधुनिक शस्त्रास्त्रे विकसित केली जातात. क्षेपणास्त्र विकास कार्यक्रम राबवला जातो. वैज्ञानिक प्रयोगशाळा चालवल्या जातात. विद्यार्थ्यांना प्रशिक्षण दिले जाते. राष्ट्रीय सुरक्षितता मजबूत करणे हा उद्देश असतो. म्हणून DRDO चे कार्यक्षेत्र व्यापक आहे." },
+{ "question_id": 184, "question_type": "LONG", "question": "भास्कर उपग्रह मालिकेमुळे ग्रामीण विकासास कशी मदत झाली?", "answer": "भास्कर उपग्रह मालिकेमुळे पृथ्वी निरीक्षण शक्य झाले. शेती आणि जलसंपत्तीचा अभ्यास करता आला. जंगल आणि जमीन उपयोगाचे नियोजन सुधारले. आपत्ती व्यवस्थापनात मदत झाली. ग्रामीण भागासाठी अचूक माहिती मिळू लागली. म्हणून ग्रामीण विकासास मदत झाली." },
+{ "question_id": 185, "question_type": "LONG", "question": "INSAT प्रणालीचा सामाजिक विकासात कसा सहभाग आहे?", "answer": "INSAT प्रणालीमुळे दूरसंचार संपर्क वाढला. दूरदर्शन प्रसारण सुलभ झाले. शैक्षणिक कार्यक्रम प्रसारित करता आले. हवामान अंदाज अचूक झाले. ग्रामीण भागात माहिती क्रांती घडली. लोकशाही आणि प्रशासन अधिक सक्षम झाले. म्हणून सामाजिक विकासात सहभाग मोठा आहे." },
+
+{ "question_id": 186, "question_type": "LONG", "question": "पोखरण अणुचाचणीमुळे महिलांच्या सशक्तीकरणाशी संबंधित कोणती जाणीव वाढली?", "answer": "पोखरण अणुचाचणी हा विज्ञान तंत्रज्ञानाचा महत्त्वाचा टप्पा होता. या घटनेमुळे वैज्ञानिक क्षेत्रातील महिलांनाही प्रेरणा मिळाली. शिक्षण प्रसाराच्या गरजा स्पष्ट झाल्या. तंत्रज्ञान क्षेत्रात महिलांचा सहभाग वाढवणे आवश्यक वाटू लागले. त्यामुळे महिलांच्या सशक्तीकरणाबद्दल व्यापक जाणीव वाढली." },
+
+{ "question_id": 187, "question_type": "LONG", "question": "स्थानिक शासन आरक्षणामुळे लोकशाही कशी मजबूत झाली?", "answer": "महिलांना आरक्षणामुळे सत्तेत प्रतिनिधित्व मिळाले. निर्णय प्रक्रियेत नवे नेतृत्व आले. सामाजिक प्रश्न अधिक चांगल्या पद्धतीने सुटू लागले. ग्रामीण विकासात महिलांचा सहभाग वाढला. लोकशाही अधिक समताधिष्ठित झाली. त्यामुळे भारतीय लोकशाही व्यवस्था मजबूत झाली." },
+
+{ "question_id": 188, "question_type": "LONG", "question": "पोखरण १९९८ अणुचाचणीचे महत्त्व लिहा.", "answer": "पोखरण १९९८ अणुचाचणी ही भारताची दुसरी अणुचाचणी होती. या चाचणीमुळे संरक्षण सज्जता वाढली. स्वदेशी तंत्रज्ञानाचा आत्मविश्वास उंचावला. क्षेपणास्त्र विकासाला गती मिळाली. आंतरराष्ट्रीय स्तरावर भारताची दखल घेतली गेली. म्हणून ही चाचणी महत्त्वाची ठरली." },
+
+{ "question_id": 189, "question_type": "LONG", "question": "IIT आणि IIM या संस्था महिला व दुर्बल घटकांसाठी कशा उपयुक्त ठरतात?", "answer": "या संस्था उच्च शिक्षणाच्या संधी उपलब्ध करून देतात. महिलांना आणि ग्रामीण विद्यार्थ्यांना प्रवेश मिळतो. कुशल मनुष्यबळ तयार होते. आर्थिक स्वावलंबन वाढते. सामाजिक प्रतिष्ठा सुधारते. म्हणून या संस्था सशक्तीकरणासाठी उपयुक्त ठरतात." },
+
+{ "question_id": 190, "question_type": "LONG", "question": "अणुशक्ती संशोधन कार्यक्रमाचा भारताच्या ऊर्जा विकासात कसा सहभाग आहे?", "answer": "अणुशक्ती संशोधनामुळे भारतात विद्युत निर्मितीचे नवे पर्याय तयार झाले. तारापूर आणि कल्पकम येथे केंद्रे उभारली गेली. स्वदेशी अणुभट्ट्या विकसित झाल्या. ऊर्जा टंचाईवर उपाय मिळाले. औद्योगिक विकासास मदत झाली. म्हणून ऊर्जा विकासात अणुशक्तीचा सहभाग मोठा आहे." },
+
+{ "question_id": 191, "question_type": "LONG", "question": "डिजिटल तंत्रज्ञानामुळे शिक्षण क्षेत्रात कोणते बदल झाले?", "answer": "डिजिटल तंत्रज्ञानामुळे शिक्षण अधिक सुलभ झाले. इंटरनेटद्वारे माहिती सहज उपलब्ध झाली. ऑनलाईन शिक्षणाची संकल्पना पुढे आली. दूरदर्शनवरील शैक्षणिक कार्यक्रम व्यापक झाले. ग्रामीण विद्यार्थ्यांपर्यंत शिक्षण पोहोचले. म्हणून शिक्षण क्षेत्रात मोठे बदल झाले." },
+
+{ "question_id": 192, "question_type": "LONG", "question": "महिला आयोग आणि मानवाधिकार आयोग यांची तुलना करा.", "answer": "महिला आयोग महिलांच्या प्रश्नावर काम करतो. मानवाधिकार आयोग सर्व नागरिकांच्या हक्कांचे संरक्षण करतो. दोन्ही आयोग तक्रारींचे निवारण करतात. सरकारला धोरण सल्ला देतात. अन्यायाविरुद्ध कायदेशीर दाद देतात. म्हणून दोन्ही आयोग महत्त्वाचे आहेत." },
+
+{ "question_id": 193, "question_type": "LONG", "question": "भटक्या जमातींच्या सशक्तीकरणासाठी शिक्षण का महत्त्वाचे आहे?", "answer": "भटक्या जमातींमध्ये साक्षरतेचे प्रमाण कमी होते. शिक्षणामुळे त्यांना नवी दिशा मिळते. रोजगाराच्या संधी वाढतात. सामाजिक प्रतिष्ठा सुधारते. महिलांमध्ये आत्मविश्वास वाढतो. म्हणून शिक्षण महत्त्वाचे ठरते." },
+
+{ "question_id": 194, "question_type": "LONG", "question": "सामाजिक समतेत महिलांच्या सहभागाचे महत्त्व लिहा.", "answer": "महिलांचा सहभाग सामाजिक आंदोलनांत वाढला. त्यांनी अहिंसक मार्गाने प्रश्न मांडले. शासनाला धोरण बदल करावे लागले. कुटुंबव्यवस्था सुधारली. ग्रामीण विकासास मदत झाली. म्हणून सामाजिक समतेत महिलांचा सहभाग महत्त्वाचा आहे." },
+
+{ "question_id": 195, "question_type": "LONG", "question": "तंत्रज्ञान विकास आणि दुर्बल घटकांचे सशक्तीकरण यांचा संबंध स्पष्ट करा.", "answer": "तंत्रज्ञान विकासामुळे माहिती प्रसारण सुलभ होते. शिक्षणाच्या संधी वाढतात. दूरस्थ शिक्षण शक्य होते. महिलांना आणि ग्रामीण विद्यार्थ्यांना लाभ होतो. आर्थिक स्वावलंबन वाढते. म्हणून तंत्रज्ञानाचा सशक्तीकरणाशी थेट संबंध आहे." },
+
+{ "question_id": 196, "question_type": "LONG", "question": "महाराष्ट्र मुक्त विद्यापीठाची स्थापना महिलांसाठी कशी उपयुक्त ठरली?", "answer": "मुक्त विद्यापीठामुळे दूरस्थ शिक्षणाच्या संधी मिळाल्या. नोकरी करणाऱ्या महिलांना शिक्षण घेता आले. विविध अभ्यासक्रम उपलब्ध झाले. ग्रामीण भागातील महिलांनाही प्रवेश मिळाला. शिक्षणाचा प्रसार वाढला. म्हणून ही स्थापना महिलांसाठी उपयुक्त ठरली." },
+
+{ "question_id": 197, "question_type": "LONG", "question": "पोखरण अणुचाचणीसाठी राजस्थान राज्य का निवडले गेले?", "answer": "राजस्थान हा वाळवंटी आणि विरळ लोकसंख्येचा प्रदेश आहे. तेथे सुरक्षा व्यवस्था राखणे सोपे होते. भौगोलिकदृष्ट्या तो दूरस्थ भाग होता. चाचणीसाठी आवश्यक सुविधा उपलब्ध होत्या. म्हणून पोखरणसाठी राजस्थान राज्य निवडले गेले." },
+
+{ "question_id": 198, "question_type": "LONG", "question": "१९९० नंतर इंटरनेट सेवेमुळे कोणते बदल झाले?", "answer": "१९९० नंतर VSNL संस्थेने इंटरनेट सेवा सुरू केली. माहिती जलद मिळू लागली. शैक्षणिक आणि व्यावसायिक क्षेत्र जोडले गेले. डिजिटल व्यवहार वाढले. जागतिक संपर्क सुलभ झाला. म्हणून समाजात मोठे बदल झाले." },
+
+{ "question_id": 199, "question_type": "LONG", "question": "स्पीड पोस्ट सेवा आणि उपग्रहीय दूरसंचार सेवा यांचा विकासात कसा सहभाग आहे?", "answer": "स्पीड पोस्ट सेवा १९८६ साली सुरू झाली. उपग्रहीय दूरसंचार सेवा १९८१ साली सुरू झाली. या दोन्हीमुळे संपर्क व्यवस्था सुधारली. माहिती आणि टपाल जलद पोहोचले. ग्रामीण व शहरी भाग जोडले गेले. आर्थिक विकासास गती मिळाली. म्हणून दोन्ही सेवांचा सहभाग महत्त्वाचा आहे." },
+
+{ "question_id": 200, "question_type": "LONG", "question": "भारतातील विज्ञान व तंत्रज्ञान प्रगतीचा विद्यार्थ्यांच्या जीवनावर कसा प्रभाव पडला?", "answer": "विज्ञान व तंत्रज्ञान प्रगतीमुळे विद्यार्थ्यांना नवी साधने उपलब्ध झाली. डिजिटल माहिती सहज मिळू लागली. शैक्षणिक प्रसारण सुलभ झाले. करिअरच्या संधी वाढल्या. संशोधनाबद्दल आवड निर्माण झाली. म्हणून विद्यार्थ्यांच्या जीवनावर मोठा सकारात्मक प्रभाव पडला." },
+
+{ "question_id": 201, "question_type": "LONG", "question": "पोखरण अणुचाचणीमुळे भारताला स्वदेशी तंत्रज्ञानाची गरज कशी समजली?", "answer": "पोखरण अणुचाचणी हा स्वदेशी संशोधनाचा महत्त्वाचा टप्पा होता. या घटनेमुळे इतर क्षेत्रांतही स्वदेशी तंत्रज्ञान विकसित करणे आवश्यक वाटले. संरक्षण उपकरणे परदेशावर अवलंबून न ठेवणे गरजेचे होते. म्हणून स्वदेशी तंत्रज्ञानाची गरज समजली." },
+
+{ "question_id": 202, "question_type": "LONG", "question": "चिपको आंदोलन आणि पर्यावरण संरक्षण यांचा संबंध लिहा.", "answer": "चिपको आंदोलन १९७३ साली सुरू झाले. महिलांनी झाडांना मिठी मारून जंगलतोड थांबवली. या आंदोलनामुळे पर्यावरण संरक्षणाचा संदेश मिळाला. शासनाला नियम करावे लागले. म्हणून चिपको आंदोलन आणि पर्यावरण संरक्षण यांचा थेट संबंध आहे." },
+
+{ "question_id": 203, "question_type": "LONG", "question": "स्थानिक शासन आरक्षणाचा महिलांच्या सामाजिक प्रतिष्ठेवर कसा परिणाम झाला?", "answer": "आरक्षणामुळे महिलांना राजकीय प्रतिनिधित्व मिळाले. नेतृत्वगुण विकसित झाले. सार्वजनिक जीवनात सहभाग वाढला. महिलांचे प्रश्न अधिक प्रभावीपणे मांडता आले. त्यामुळे सामाजिक प्रतिष्ठा वाढली." },
+
+{ "question_id": 204, "question_type": "LONG", "question": "NPCIL संस्था ऊर्जा विकासात कशी उपयुक्त ठरली?", "answer": "NPCIL संस्था १९८७ साली स्थापन झाली. अणु विद्युत केंद्रांचे व्यवस्थापन सुसूत्र झाले. नवीन प्रकल्पांचे नियोजन करता आले. ऊर्जा निर्मितीचा वेग वाढला. तांत्रिक मनुष्यबळाचा योग्य वापर झाला. म्हणून ऊर्जा विकासात NPCIL उपयुक्त ठरली." },
+
+{ "question_id": 205, "question_type": "LONG", "question": "IIT आणि DRDO यांचा तंत्रज्ञान विकासात संबंध स्पष्ट करा.", "answer": "IIT संस्थांमधून कुशल अभियंते तयार होतात. हे अभियंते DRDO सारख्या संस्थांत काम करतात. संशोधन आणि नवकल्पनांना प्रोत्साहन मिळते. संरक्षण तंत्रज्ञान अधिक आधुनिक बनते. म्हणून IIT आणि DRDO यांचा तंत्रज्ञान विकासात महत्त्वाचा संबंध आहे." },
+
+{ "question_id": 206, "question_type": "LONG", "question": "१९९८ च्या अणुचाचणीमुळे संरक्षण सज्जता कशी वाढली?", "answer": "१९९८ मध्ये भारताने पोखरण येथे अणुचाचणी घेतली. या चाचणीमुळे भारताची लष्करी ताकद अधोरेखित झाली. क्षेपणास्त्र विकास कार्यक्रमांना गती मिळाली. स्वदेशी शस्त्रास्त्र निर्मितीचा आत्मविश्वास वाढला. म्हणून संरक्षण सज्जता वाढली." },
+
+{ "question_id": 207, "question_type": "LONG", "question": "INSAT प्रणालीचा शिक्षण क्षेत्रातील उपयोग लिहा.", "answer": "INSAT प्रणालीमुळे शैक्षणिक कार्यक्रम दूरदर्शनवर प्रसारित करता आले. ग्रामीण विद्यार्थ्यांपर्यंत शिक्षण पोहोचले. शिक्षक प्रशिक्षण सुलभ झाले. डिजिटल वर्गखोल्या तयार करता आल्या. म्हणून शिक्षण क्षेत्रातील उपयोग अत्यंत महत्त्वाचा आहे." },
+
+{ "question_id": 208, "question_type": "LONG", "question": "भास्कर-२ उपग्रहाच्या प्रक्षेपणाचे महत्त्व लिहा.", "answer": "भास्कर-२ उपग्रह १९८१ साली प्रक्षेपित झाला. हा उपग्रह दूरसंवेदन क्षेत्रातील दुसरा टप्पा होता. पृथ्वी निरीक्षण अधिक सखोल झाले. संसाधन नियोजन सुधारले. वैज्ञानिकांना नवे अनुभव मिळाले. म्हणून हा उपग्रह महत्त्वाचा ठरला." },
+
+{ "question_id": 209, "question_type": "LONG", "question": "स्पीड पोस्ट सेवा आणि ई-गव्हर्नन्स यांचा संबंध स्पष्ट करा.", "answer": "स्पीड पोस्ट सेवा आधुनिक टपाल प्रणालीचा भाग आहे. इंटरनेट सेवेमुळे ई-गव्हर्नन्स संकल्पना पुढे आली. नागरिकांचे अर्ज आणि कागदपत्रे जलद पाठवता येतात. प्रशासन आणि जनता जोडले जातात. म्हणून दोन्हींचा विकासात संबंध आहे." },
+
+{ "question_id": 210, "question_type": "LONG", "question": "महाराष्ट्रातील पिनकोड पद्धतीचे महत्त्व लिहा.", "answer": "पिनकोड पद्धती १९७२ साली सुरू झाली. महाराष्ट्रासाठी ४० ते ४४ हे पहिले दोन आकडे निश्चित झाले. टपाल वर्गीकरण सोपे झाले. वितरण जलद झाले. प्रशासन अधिक सक्षम झाले. म्हणून पिनकोड पद्धती महत्त्वाची आहे." },
+
+{ "question_id": 211, "question_type": "LONG", "question": "APPLE उपग्रहामुळे भारताचा आंतरराष्ट्रीय संपर्क कसा वाढला?", "answer": "APPLE हा भारताचा पहिला दूरसंचार उपग्रह १९८१ साली प्रक्षेपित झाला. फ्रान्स देशातून त्याचे प्रक्षेपण झाले. या उपग्रहामुळे लंडन आणि मुंबई दरम्यान थेट संपर्क साधता आला. प्रसारण आणि दूरध्वनी सेवा जलद झाल्या. म्हणून आंतरराष्ट्रीय संपर्क वाढला." },
+
+{ "question_id": 212, "question_type": "LONG", "question": "DRDO संस्थेमुळे संरक्षण क्षेत्रात कोणते बदल झाले?", "answer": "DRDO संस्थेमुळे स्वदेशी शस्त्रास्त्र विकास सुरू झाला. क्षेपणास्त्र निर्मिती यशस्वी झाली. भारतीय वैज्ञानिकांना संधी मिळाली. आधुनिक तंत्रज्ञान विकसित झाले. देशाची सुरक्षितता मजबूत झाली. म्हणून मोठे बदल झाले." },
+
+{ "question_id": 213, "question_type": "LONG", "question": "IIT संस्थांचे संशोधन क्षेत्रातील महत्त्व लिहा.", "answer": "IIT संस्थांनी तंत्रज्ञान शिक्षणाचा दर्जा उंचावला. संशोधन प्रयोगशाळा तयार झाल्या. नवे शोध लागले. औद्योगिक क्षेत्राला मदत झाली. महिलांना आणि दुर्बल विद्यार्थ्यांनाही संधी मिळाली. म्हणून संशोधन क्षेत्रातील महत्त्व मोठे आहे." },
+
+{ "question_id": 214, "question_type": "LONG", "question": "NPCIL संस्था आणि ऊर्जा टंचाई यांचा संबंध लिहा.", "answer": "NPCIL संस्था १९८७ साली स्थापन झाली. अणु विद्युत निर्मितीचे प्रकल्प सुसूत्र झाले. ऊर्जा निर्मितीचा वेग वाढला. टंचाईवर उपाय मिळू लागले. स्वदेशी तंत्रज्ञानाचा वापर झाला. म्हणून ऊर्जा टंचाई कमी होण्यास मदत झाली." },
+
+{ "question_id": 215, "question_type": "LONG", "question": "APPLE आणि INSAT उपग्रह यांची तुलना करा.", "answer": "APPLE उपग्रह १९८१ साली प्रक्षेपित झाला. INSAT-१ बी १९८३ साली यशस्वी झाला. APPLE हा पहिला दूरसंचार टप्पा होता. INSAT प्रणाली अधिक व्यापक होती. दोन्ही उपग्रहांतून भारताचा संपर्क मजबूत झाला. म्हणून तुलना करता येते." },
+
+{ "question_id": 216, "question_type": "LONG", "question": "१९९८ च्या अणुचाचणीमुळे महिलांच्या सहभागाशी संबंधित कोणती प्रेरणा मिळाली?", "answer": "१९९८ च्या अणुचाचणी हा विज्ञान तंत्रज्ञानाचा महत्त्वाचा टप्पा होता. या प्रगतीमुळे तंत्रज्ञान शिक्षणाची जाणीव वाढली. महिलांनाही वैज्ञानिक क्षेत्रात पुढे येण्याची प्रेरणा मिळाली. म्हणून प्रेरणा व्यापक स्वरूपाची होती." },
+
+{ "question_id": 217, "question_type": "LONG", "question": "INSAT प्रणालीमुळे ग्रामीण महिलांना कसा लाभ होतो?", "answer": "INSAT प्रणालीमुळे दूरदर्शन आणि रेडिओ प्रसारण सुलभ होते. महिलांसाठी शैक्षणिक कार्यक्रम प्रसारित करता येतात. आरोग्य आणि अधिकारांची माहिती मिळते. आत्मविश्वास वाढतो. म्हणून ग्रामीण महिलांना लाभ होतो." },
+
+{ "question_id": 218, "question_type": "LONG", "question": "स्पीड पोस्ट सेवा आणि महिलांचे आर्थिक सशक्तीकरण यांचा संबंध लिहा.", "answer": "स्पीड पोस्ट सेवा १९८६ साली सुरू झाली. इंटरनेट सेवा १९९० नंतर सुरू झाली. या दोन्हीमुळे महिलांना व्यवसाय संपर्क सुलभ झाला. बचत गट आणि उद्योगांना कागदपत्रे पाठवणे सोपे झाले. म्हणून आर्थिक सशक्तीकरणाशी संबंध आहे." },
+
+{ "question_id": 219, "question_type": "LONG", "question": "चिपको आंदोलनातून महिलांचे नेतृत्वगुण कसे विकसित झाले?", "answer": "चिपको आंदोलन १९७३ साली सुरू झाले. महिलांनी अहिंसक पद्धतीने विरोध केला. झाडांना मिठी मारून प्रतीकात्मक तंत्र वापरले. समाजात त्यांची प्रतिष्ठा वाढली. सार्वजनिक जीवनात आत्मविश्वास वाढला. म्हणून नेतृत्वगुण विकसित झाले." },
+
+{ "question_id": 220, "question_type": "LONG", "question": "NPCIL संस्था आणि शैक्षणिक प्रसारण यांचा संबंध लिहा.", "answer": "NPCIL संस्था अणु विद्युत केंद्रांचे व्यवस्थापन करते. INSAT प्रणालीमुळे प्रसारण सुलभ झाले. अणु तंत्रज्ञान शिक्षणाचे कार्यक्रम प्रसारित करता येतात. विद्यार्थ्यांना माहिती मिळते. म्हणून दोन्हींचा शैक्षणिक विकासात संबंध आहे." },
+
+{ "question_id": 221, "question_type": "LONG", "question": "भटक्या जमातींच्या महिलांना शिक्षणासाठी कोणती आव्हाने होती?", "answer": "भटक्या जमातींमध्ये साक्षरता कमी होती. आर्थिक परिस्थिती कमजोर होती. मुलींची शाळेतील उपस्थिती कमी होती. माहितीचा अभाव होता. म्हणून शिक्षणाबद्दल अनेक आव्हाने होती." },
+
+{ "question_id": 222, "question_type": "LONG", "question": "IIT संस्थांमध्ये महिला आरक्षण नसले तरी महिलांचा सहभाग कसा वाढतो?", "answer": "IIT संस्था गुणवत्ता आधारित प्रवेश देतात. महिलांनी उच्च शिक्षणात प्रगती केल्याने त्यांचा प्रवेश वाढला. सरकारी शिष्यवृत्ती मिळू लागल्या. सामाजिक जाणीव वाढली. म्हणून सहभाग हळूहळू वाढतो." },
+
+{ "question_id": 223, "question_type": "LONG", "question": "INSAT प्रणाली आणि आपत्ती व्यवस्थापन यांचा संबंध लिहा.", "answer": "INSAT उपग्रह प्रणालीमुळे हवामान अंदाज अचूक होतात. आपत्तीपूर्व सूचना देता येतात. प्रशासनाला जलद संपर्क साधता येतो. नागरिकांचे संरक्षण होते. म्हणून आपत्ती व्यवस्थापनाशी थेट संबंध आहे." },
+
+{ "question_id": 224, "question_type": "LONG", "question": "पोखरण अणुचाचणीमुळे देशातील महिलांना विज्ञान शिक्षणाबद्दल कशी जाणीव झाली?", "answer": "पोखरण अणुचाचणी हा स्वदेशी संशोधनाचा महत्त्वाचा टप्पा होता. या घटनेमुळे विज्ञान तंत्रज्ञानाचे महत्त्व अधोरेखित झाले. मुलींनाही शिक्षणाची गरज समजली. शाळांमधील प्रसारण कार्यक्रम सुरू झाले. म्हणून जाणीव वाढली." },
+
+{ "question_id": 225, "question_type": "LONG", "question": "स्पीड पोस्ट सेवा ग्रामीण भागासाठी का महत्त्वाची ठरते?", "answer": "स्पीड पोस्ट सेवेमुळे टपाल जलद वितरण शक्य होते. ग्रामीण ग्राहकांना वेळेत सेवा मिळते. व्यावसायिक संपर्क सुलभ होतो. आधुनिक तंत्रज्ञानाचा वापर होतो. म्हणून ग्रामीण भागासाठी महत्त्वाची ठरते." },
+
+{ "question_id": 226, "question_type": "LONG", "question": "ISRO संस्थेमुळे महिलांसाठी कोणत्या करिअर संधी तयार झाल्या?", "answer": "ISRO संस्था अंतराळ संशोधनाचे कार्य करते. या क्षेत्रात शिक्षित महिलांना नोकरीची संधी मिळते. वैज्ञानिक, अभियंता आणि तांत्रिक क्षेत्र खुले झाले. त्यामुळे महिलांसाठी आधुनिक करिअर संधी तयार झाल्या." },
+
+{ "question_id": 227, "question_type": "LONG", "question": "NPCIL संस्था आणि औद्योगिक विकास यांचा संबंध लिहा.", "answer": "NPCIL संस्थेमुळे अणु विद्युत निर्मिती वाढली. उद्योगांना आवश्यक ऊर्जा उपलब्ध झाली. स्वदेशी तंत्रज्ञान विकसित झाले. प्रकल्प व्यवस्थापन सुधारले. त्यामुळे औद्योगिक विकासास गती मिळाली." },
+
+{ "question_id": 228, "question_type": "LONG", "question": "चिपको आंदोलनामुळे ग्रामीण महिलांमध्ये कोणते सामाजिक बदल झाले?", "answer": "महिलांनी जंगल संरक्षणासाठी संघटित लढा दिला. अहिंसक मार्गाने विरोध केला. समाजात त्यांची प्रतिष्ठा वाढली. पर्यावरण जाणीव निर्माण झाली. सार्वजनिक सहभाग वाढला. म्हणून सामाजिक बदल झाले." },
+
+{ "question_id": 229, "question_type": "LONG", "question": "अरक विरोधी आंदोलनातून महिलांना कोणती नवी दिशा मिळाली?", "answer": "महिलांनी दारूविक्रीविरुद्ध संघटित विरोध केला. दुकाने बंद करण्यास भाग पाडले. सामाजिक प्रश्नावर प्रभाव निर्माण झाला. आत्मविश्वास वाढला. म्हणून महिलांना नवी दिशा मिळाली." },
+
+{ "question_id": 230, "question_type": "LONG", "question": "INSAT प्रणालीमुळे शिक्षण आणि आरोग्य क्षेत्र कसे जोडले गेले?", "answer": "INSAT प्रणालीमुळे दूरदर्शन प्रसारण सुलभ झाले. शैक्षणिक कार्यक्रम प्रसारित करता आले. आरोग्यविषयक माहितीही पोहोचली. ग्रामीण विद्यार्थ्यांना लाभ झाला. म्हणून दोन्ही क्षेत्र जोडले गेले." },
+
+{ "question_id": 231, "question_type": "LONG", "question": "IIT संस्थांच्या स्थापनेमागील सामाजिक उद्देश लिहा.", "answer": "IIT संस्थांची स्थापना उच्च दर्जाचे तांत्रिक मनुष्यबळ तयार करण्यासाठी झाली. देशाचा औद्योगिक विकास साध्य करणे हा हेतू होता. विद्यार्थ्यांना आंतरराष्ट्रीय दर्जाचे शिक्षण देणे आवश्यक होते. म्हणून हा सामाजिक उद्देश महत्त्वाचा होता." },
+
+{ "question_id": 232, "question_type": "LONG", "question": "स्पीड पोस्ट सेवा आणि महिला बचत गट यांचा संबंध लिहा.", "answer": "महिला बचत गटांनी छोटे व्यवसाय सुरू केले. टपाल सेवा जलद असणे गरजेचे होते. स्पीड पोस्टमुळे कागदपत्रे आणि वस्तू जलद पाठवता आल्या. म्हणून बचत गटांना मोठी मदत झाली." },
+
+{ "question_id": 233, "question_type": "LONG", "question": "भटक्या जमातींच्या महिलांना कायदेशीर संरक्षणाची गरज का होती?", "answer": "भटक्या जमातींमध्ये महिलांचे शैक्षणिक प्रमाण कमी होते. आर्थिक परिस्थिती कमजोर होती. अन्यायाविरुद्ध आवाज नव्हता. म्हणून कायदेशीर संरक्षणाची गरज निर्माण झाली." },
+
+{ "question_id": 234, "question_type": "LONG", "question": "NPCIL संस्थेमुळे ग्रामीण विकासास कसा लाभ होतो?", "answer": "NPCIL संस्थेमुळे अणु विद्युत निर्मिती वाढते. या ऊर्जेचा लाभ ग्रामीण भागातील उद्योगांना होतो. प्रसारण आणि संचार सेवा अधिक सक्षम होतात. शिक्षण प्रसारास मदत होते. म्हणून ग्रामीण विकासास लाभ होतो." },
+
+{ "question_id": 235, "question_type": "LONG", "question": "INSAT प्रणालीमुळे महिलांच्या शिक्षणाबद्दल कोणते कार्यक्रम प्रसारित करता आले?", "answer": "INSAT प्रणालीमुळे कंट्रिवाइड क्लासरूम कार्यक्रम प्रसारित झाले. मुलींच्या शिक्षणाबद्दल माहिती पोहोचली. शिक्षक प्रशिक्षण कार्यक्रम घेता आले. सामाजिक जाणीव निर्माण झाली. म्हणून अनेक कार्यक्रम प्रसारित करता आले." },
+
+{ "question_id": 236, "question_type": "LONG", "question": "स्पीड पोस्ट सेवेमुळे समाजातील दुर्बल घटकांना कोणते लाभ झाले?", "answer": "स्पीड पोस्ट सेवेमुळे टपाल जलद पोहोचू लागले. सरकारी अर्ज वेळेत पाठवता येऊ लागले. ग्रामीण आणि वंचित घटकांना विश्वासार्ह सेवा मिळाली. व्यावसायिक संधी वाढल्या. म्हणून लाभ झाले." },
+
+{ "question_id": 237, "question_type": "LONG", "question": "चिपको आंदोलनातून महिलांची संघटना कशी मजबूत झाली?", "answer": "महिलांनी एकत्र येऊन अहिंसक लढा दिला. झाडांना मिठी मारून जंगलतोड थांबवली. शासनाला धोरण बदल करावे लागले. महिलांमध्ये आत्मविश्वास वाढला. म्हणून संघटना मजबूत झाली." },
+
+{ "question_id": 238, "question_type": "LONG", "question": "अरक विरोधी आंदोलन आणि हुंडाबंदी कायदा यांची तुलना करा.", "answer": "अरक विरोधी आंदोलन १९९२ साली झाले. हुंडाबंदी कायदा १९६१ साली संमत झाला. पहिले आंदोलन सामाजिक प्रश्नावर होते. दुसरा कायदेशीर उपाय होता. दोन्हीमध्ये महिलांचे संरक्षण आणि सबलीकरण हा हेतू होता." },
+
+{ "question_id": 239, "question_type": "LONG", "question": "INSAT प्रणाली आणि इंटरनेट सेवा यांचा फरक लिहा.", "answer": "INSAT प्रणाली १९८१ साली सुरू झाली. इंटरनेट सेवा १९९० नंतर सुरू झाली. INSAT प्रसारणासाठी उपयुक्त होती. इंटरनेट माहिती देवाणघेवाणीसाठी उपयुक्त आहे. दोन्ही आधुनिक तंत्रज्ञानाचे टप्पे आहेत." },
+
+{ "question_id": 240, "question_type": "LONG", "question": "IIT संस्थांमध्ये महिलांचा सहभाग वाढण्यासाठी कोणते घटक कारणीभूत ठरले?", "answer": "मुलींमध्ये साक्षरतेचे प्रमाण वाढले. उच्च शिक्षणाबद्दल जाणीव वाढली. सरकारी शिष्यवृत्ती उपलब्ध झाल्या. सामाजिक दृष्टिकोन बदलला. त्यामुळे IIT संस्थांमध्ये महिलांचा सहभाग वाढू लागला." },
+
+{ "question_id": 241, "question_type": "LONG", "question": "NPCIL संस्था आणि रोजगार संधी यांचा संबंध लिहा.", "answer": "NPCIL संस्थेत अणु विद्युत केंद्रांचे प्रकल्प राबवले जातात. या प्रकल्पांसाठी कुशल अभियंते लागतात. विद्यार्थ्यांना रोजगाराच्या संधी मिळतात. महिलांनाही तांत्रिक क्षेत्र खुले झाले. म्हणून संबंध महत्त्वाचा आहे." },
+
+{ "question_id": 242, "question_type": "LONG", "question": "INSAT प्रणालीमुळे ग्रामीण भागातील महिलांना कोणती माहिती मिळू लागली?", "answer": "दूरदर्शन प्रसारण घराघरात पोहोचले. महिलांसाठी शैक्षणिक कार्यक्रम दिसू लागले. आरोग्य, अधिकार आणि योजनांची माहिती मिळू लागली. आत्मविश्वास वाढला. म्हणून माहिती मिळू लागली." },
+
+{ "question_id": 243, "question_type": "LONG", "question": "हुंडाबंदी कायदा महिलांसाठी कसा संरक्षण देतो?", "answer": "हुंडाबंदी कायदा १९६१ साली संमत झाला. १९८४ साली त्यात सुधारणा झाली. हा कायदा हुंडा घेणे गुन्हा मानतो. फौजदारी कारवाईची तरतूद आहे. महिलांवरील अत्याचाराला प्रतिबंध होतो. म्हणून संरक्षण मिळते." },
+
+{ "question_id": 244, "question_type": "LONG", "question": "चिपको आंदोलन आणि ग्रामीण विकास यांचा संबंध लिहा.", "answer": "चिपको आंदोलनामुळे जंगल संरक्षण झाले. पर्यावरण संतुलन राखले गेले. महिलांचा सहभाग वाढला. शासकीय नियम तयार झाले. त्यामुळे शेती आणि जलनियोजन सुधारले. म्हणून ग्रामीण विकासाशी संबंध आहे." },
+
+{ "question_id": 245, "question_type": "LONG", "question": "अरक विरोधी आंदोलनामुळे महिलांना कोणते कायदेशीर बळ मिळाले?", "answer": "महिलांनी अरक दुकाने बंद करण्याची मागणी केली. शासनाला दखल घ्यावी लागली. दारूबंदी धोरण अधिक कठोर झाले. महिलांचे प्रश्न समाजासमोर मांडता आले. म्हणून कायदेशीर बळ मिळाले." },
+
+{ "question_id": 246, "question_type": "LONG", "question": "INSAT प्रणालीमुळे शिक्षणातील गळती कशी कमी झाली?", "answer": "INSAT प्रणालीमुळे शैक्षणिक प्रसारण सुलभ झाले. विद्यार्थ्यांना घरीही शिक्षण मिळू लागले. शिक्षक प्रशिक्षण कार्यक्रम सुरू झाले. माहिती सर्वांपर्यंत पोहोचली. म्हणून शिक्षणातील गळती कमी झाली." },
+
+{ "question_id": 247, "question_type": "LONG", "question": "NPCIL संस्था आणि ISRO संस्था यांची तुलना करा.", "answer": "NPCIL संस्था अणु ऊर्जा क्षेत्रात काम करते. ISRO संस्था अवकाश संशोधन क्षेत्रात काम करते. दोन्ही संस्था तंत्रज्ञान विकासासाठी महत्त्वाच्या आहेत. विद्यार्थ्यांना रोजगार संधी मिळतात. सामाजिक विकासास मदत होते." },
+
+{ "question_id": 248, "question_type": "LONG", "question": "स्पीड पोस्ट सेवा आणि इंटरनेट सेवा यांचा विकासात कसा सहभाग आहे?", "answer": "स्पीड पोस्टमुळे टपाल जलद पोहोचले. इंटरनेट सेवेमुळे माहिती जलद मिळाली. ग्रामीण भाग जोडले गेले. महिलांनाही लाभ झाला. प्रशासन अधिक सक्षम झाले. म्हणून दोन्हींचा विकासात सहभाग आहे." },
+
+{ "question_id": 249, "question_type": "LONG", "question": "चिपको आंदोलनातून महिलांची भूमिका कशी स्पष्ट झाली?", "answer": "महिलांनी जंगल संरक्षणासाठी अहिंसक विरोध केला. त्यांनी झाडांना मिठी मारली. शासनाला धोरण बदल करावे लागले. समाजात त्यांची प्रतिष्ठा वाढली. म्हणून महिलांची भूमिका स्पष्ट झाली." },
+
+{ "question_id": 250, "question_type": "LONG", "question": "महिला आणि अन्य दुर्बल घटकांचे सशक्तीकरणासाठी कोणते घटक आवश्यक आहेत?", "answer": "शिक्षण, कायदे आणि योजना हे मुख्य घटक आहेत. सामाजिक जाणीव वाढवणे गरजेचे आहे. तंत्रज्ञानाचा प्रसार आवश्यक आहे. महिलांचा राजकीय सहभाग वाढवणे आवश्यक आहे. म्हणून हे घटक महत्त्वाचे आहेत." }
+
+
+
+  ]
+}

@@ -1,0 +1,1771 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.10",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "नागरीकरण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "नागरीकरण ही प्रामुख्याने कशामुळे घडून येणारी प्रक्रिया आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेती विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकसंख्या वाढ आणि स्थलांतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वन संवर्धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नद्यांचे प्रदूषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकसंख्या वाढ आणि स्थलांतर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारतीय जनगणना कार्यालयानुसार, नागरी वस्तीत किती टक्के पुरुष बिगरशेती व्यवसायात असणे आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२५%",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "५०%",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "७५%",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१००%",
+          "is_correct": false
+        }
+      ],
+      "answer": "७५%"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "नागरी वस्तीसाठी लोकसंख्येची घनता दर चौ.किमी.ला किमान किती असावी लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१०० व्यक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२०० व्यक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "४०० व्यक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "५०० व्यक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "४०० व्यक्ती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "नागरीकरणाला चालना देणारा प्रमुख घटक कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "औद्योगिकीकरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पशुपालन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृक्षलागड",
+          "is_correct": false
+        }
+      ],
+      "answer": "औद्योगिकीकरण"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शहरात रोजगाराच्या संधी शोधण्यासाठी ग्रामीण भागातून लोक काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थलांतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थलांतर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "शेतीमध्ये कोणत्या बदलामुळे ग्रामीण भागातील मजूर बेरोजगार झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यंत्रिकीकरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विहीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "यंत्रिकीकरण"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रातील लोणावळा-खंडाळा ही शहरे कशामुळे विकसित झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खाणकाम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मासेमारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यटन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नागरी भागात जागेच्या कमतरतेमुळे कोणती समस्या निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झोपडपट्ट्यांची निर्मिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अतिवृष्टी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृक्षवाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माती प्रदूषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "झोपडपट्ट्यांची निर्मिती"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शहरांमध्ये वाहतूक कोंडी कशामुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खासगी वाहनांची संख्या वाढल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सार्वजनिक वाहनांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सायकलमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रस्ते रुंद झाल्यामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "खासगी वाहनांची संख्या वाढल्यामुळे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "नागरीकरणात विविध जाती, धर्म आणि पंथांचे लोक एकत्र राहिल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सामाजिक ऐक्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "जातीयवाद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अंधश्रद्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विभक्तता",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामाजिक ऐक्य"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कचरा व्यवस्थापनाची समस्या प्रामुख्याने कोठे जाणवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शहरी भागात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रामीण भागात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगाळ भागात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "शहरी भागात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "नागरी भागात बेरोजगारीमुळे कोणती गंभीर समस्या वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुन्हेगारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "साक्षरता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वच्छता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रामाणिकपणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुन्हेगारी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "हवा, पाणी आणि ध्वनी प्रदूषण ही शहरे वाढल्यामुळे उद्भवणारी कोणती समस्या आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरणीय समस्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आर्थिक समस्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सांस्कृतिक समस्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राजकीय समस्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरणीय समस्या"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नागरीकरणाचा सकारात्मक परिणाम खालीलपैकी कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आधुनिकीकरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झोपडपट्ट्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहतूक कोंडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रदूषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "आधुनिकीकरण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रातील नागपूर हे शहर कोणत्या पिकाच्या व्यापारासाठी प्रसिद्ध आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संत्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आंबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कापूस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काजू",
+          "is_correct": false
+        }
+      ],
+      "answer": "संत्री"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ग्रामीण भागातून शहरी भागात लोक प्रामुख्याने कशासाठी स्थलांतर करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेती करण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रोजगाराच्या संधी आणि चांगल्या राहणीमानासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वनांच्या जवळ राहण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रोजगाराच्या संधी आणि चांगल्या राहणीमानासाठी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "नागरीकरणात 'नियोजित शहरे' कोणत्या गोष्टीसाठी ओळखली जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनियंत्रित वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आखीव रस्ते आणि सोईसुविधांचे योग्य नियोजन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "झोपडपट्ट्यांचे प्रमाण जास्त असणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ शेतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आखीव रस्ते आणि सोईसुविधांचे योग्य नियोजन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "नागरी भागात वाहतूक व्यवस्था कशामुळे विस्कळीत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सायकलचा वापर वाढल्याने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रस्त्यांवरील वाहनांच्या वाढत्या संख्येमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रस्ते रुंद असल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रेल्वेच्या अभावामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "रस्त्यांवरील वाहनांच्या वाढत्या संख्येमुळे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "शहरात राहण्यासाठी जागा कमी पडल्यामुळे लोक कोठे राहण्यास भाग पडतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जंगलात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "झोपडपट्ट्यांमध्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मोठ्या बंगल्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गावात परत जातात",
+          "is_correct": false
+        }
+      ],
+      "answer": "झोपडपट्ट्यांमध्ये"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "नागरीकरणाचा एक मुख्य सामाजिक फायदा कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रदूषण वाढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सांस्कृतिक देवाणघेवाण आणि आधुनिकीकरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गुन्हेगारीत घट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसंख्या घटणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सांस्कृतिक देवाणघेवाण आणि आधुनिकीकरण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "नागरी वस्तीसाठी भारतीय जनगणना आयोगाच्या अटींपैकी कोणती अट बरोबर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकसंख्येची घनता दर चौ.किमी ५००० पेक्षा जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वस्तीची लोकसंख्या ५००० पेक्षा जास्त असणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ शेती व्यवसाय",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तीची लोकसंख्या ५००० पेक्षा जास्त असणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "शहरात कचरा व्यवस्थापनाचा प्रश्न कशामुळे गंभीर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कचरा कमी असल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रचंड लोकसंख्या आणि कचऱ्याचे अयोग्य विल्हेवाट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पुनर्वापरामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पावसामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रचंड लोकसंख्या आणि कचऱ्याचे अयोग्य विल्हेवाट"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "हवा प्रदूषण शहरी भागात कशामुळे जास्त होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहने आणि कारखान्यांच्या धुरामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झाडे लावल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहतूक कोंडी नसल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सायकल चालवल्यामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहने आणि कारखान्यांच्या धुरामुळे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "नागरीकरणात शिक्षणाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ साक्षरता वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उच्च शिक्षणाच्या सोई उपलब्ध झाल्याने कौशल्यात वाढ होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शेती शिकणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पदवी मिळवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "उच्च शिक्षणाच्या सोई उपलब्ध झाल्याने कौशल्यात वाढ होणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "शहरांमधील गुन्हेगारी रोखण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त तुरुंग वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रभावी पोलीस यंत्रणा आणि रोजगाराच्या संधी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शहरे बंद करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोकांना गावात पाठवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रभावी पोलीस यंत्रणा आणि रोजगाराच्या संधी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ज्या वस्तीत नगरपालिका किंवा महानगरपालिका असते, तिला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ग्रामपंचायत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नागरी वस्ती / शहर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाडा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जिल्हा",
+          "is_correct": false
+        }
+      ],
+      "answer": "नागरी वस्ती / शहर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "नागरीकरणामुळे समाजात कोणत्या पद्धतीचा प्रसार होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जुन्या रूढी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आधुनिक विचार आणि जीवनशैली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त शेती पद्धती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंधश्रद्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आधुनिक विचार आणि जीवनशैली"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "नागरीकरणासाठी व्यापार कसा कारणीभूत ठरतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "व्यापारामुळे लोक शेतात जातात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मालाची चढ-उतार व सेवांच्या केंद्रांमुळे शहरे वाढतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारामुळे लोकसंख्या कमी होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यापाराचा संबंध नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मालाची चढ-उतार व सेवांच्या केंद्रांमुळे शहरे वाढतात"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "शहरांमधील सांडपाण्याच्या समस्येमुळे काय धोक्यात येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त रस्ते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सार्वजनिक आरोग्य आणि जलस्रोत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विजेचा पुरवठा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सार्वजनिक आरोग्य आणि जलस्रोत"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "स्थलांतरामुळे शहरांमधील लिंग गुणोत्तरावर काय परिणाम होऊ शकतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काहीही नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुरुषांचे प्रमाण स्त्रियांच्या तुलनेत वाढू शकते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्त्रियांची संख्या प्रचंड वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दोन्ही समान राहतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुरुषांचे प्रमाण स्त्रियांच्या तुलनेत वाढू शकते"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "नागरीकरणात 'उपनगर' म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुख्य शहरापासून दूरचे गाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुख्य शहराच्या सीमेवर वाढलेली वस्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शहराचा मध्यभाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ औद्योगिक वसाहत",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुख्य शहराच्या सीमेवर वाढलेली वस्ती"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "नागरी भागात कोणत्या सोईसुविधांची वानवा असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "करमणूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परवडणारी घरे आणि पिण्याचे शुद्ध पाणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मोठे रस्ते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठ्या बँका",
+          "is_correct": false
+        }
+      ],
+      "answer": "परवडणारी घरे आणि पिण्याचे शुद्ध पाणी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "औद्योगिकीकरणामुळे कोणत्या प्रकारचे प्रदूषण प्रामुख्याने वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ मृदा प्रदूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवा, जल आणि ध्वनी प्रदूषण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अवकाश प्रदूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवा, जल आणि ध्वनी प्रदूषण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "नागरीकरणामुळे लोकांच्या राहणीमानात काय बदल होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दर्जा सुधारतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दर्जा खालावतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीही फरक पडत नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोक शेतीकडे वळतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "दर्जा सुधारतो"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "शहरात राहण्यासाठी येणारे मजूर सुरुवातीला कोठे राहतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पंचतारांकित हॉटेलमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोकळ्या जागा किंवा झोपडपट्ट्यांमध्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सरकारी निवासस्थानात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोकळ्या जागा किंवा झोपडपट्ट्यांमध्ये"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "नागरीकरणात 'कचरा कुंड्या' वाढवल्याने कोणता प्रश्न सुटू शकतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक कोंडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्य आणि स्वच्छता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गुन्हेगारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्य आणि स्वच्छता"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "स्थलांतराचा ग्रामीण भागावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काम करणाऱ्या तरुणांची संख्या कमी होऊ शकते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शेतीचे उत्पादन प्रचंड वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "काम करणाऱ्या तरुणांची संख्या कमी होऊ शकते"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "नागरीकरणामुळे कोणत्या सुविधांचे जाळे निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विहीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक आणि दळणवळण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त बैलगाडी रस्ते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ मातीचे बांध",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक आणि दळणवळण"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कोणत्या क्रांतीमुळे लोकसंख्या शहरांकडे ओढली गेली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माहिती तंत्रज्ञान क्रांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "औद्योगिक क्रांती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धवल क्रांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निळी क्रांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "औद्योगिक क्रांती"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "शहरात 'ध्वनी प्रदूषण' कशामुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाण्याच्या प्रवाहामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहनांचे हॉर्न आणि कारखान्यांच्या आवाजामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पाखरांच्या किलबिलाटामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शांततेमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहनांचे हॉर्न आणि कारखान्यांच्या आवाजामुळे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "नागरीकरणामुळे समाजात कोणत्या गोष्टीचा अभाव जाणवतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुविधांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोकळ्या हवेचा आणि शांततेचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बँकांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रस्त्यांचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोकळ्या हवेचा आणि शांततेचा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "नागरीकरणामुळे जमिनीच्या वापरात कोणता बदल होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेतीखालील जमीन वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शेती जमिनीचे रूपांतर निवासी व औद्योगिक क्षेत्रात होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जमीन रिकामी राहते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वने वाढतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "शेती जमिनीचे रूपांतर निवासी व औद्योगिक क्षेत्रात होते"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "शहरात राहणाऱ्या लोकांची मानसिकता कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ पारंपरिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक पुरोगामी आणि आधुनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बदल स्वीकारण्यास नकार देणारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ धार्मिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक पुरोगामी आणि आधुनिक"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "नागरीकरणात 'सार्वजनिक वाहतूक' का महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खासगी गाड्या वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक कोंडी आणि प्रदूषण कमी करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ घालवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक कोंडी आणि प्रदूषण कमी करण्यासाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रातील मुंबई हे शहर कशाचे प्रमुख केंद्र आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आर्थिक, व्यावसायिक आणि औद्योगिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन संवर्धन",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्थिक, व्यावसायिक आणि औद्योगिक"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "नागरी भागात पाण्याचा वापर कशामुळे वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाऊस जास्त पडल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाढती लोकसंख्या आणि जीवनशैलीतील बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पाणी फुकट मिळाल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाढती लोकसंख्या और जीवनशैलीतील बदल"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "नागरीकरणात 'झोपडपट्टी निर्मूलन' कशासाठी आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शहरे श्रीमंत दिसण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी आरोग्य आणि सन्मानाने जगण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ रस्ते बांधण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतुकीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी आरोग्य आणि सन्मानाने जगण्यासाठी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "स्थलांतरामुळे शहरांवरील कोणत्या व्यवस्थेवर ताण येतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त करमणूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पायाभूत सुविधा (पाणी, वीज, घर)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ मंदिरे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पायाभूत सुविधा (पाणी, वीज, घर)"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "नागरीकरणाचा प्रभाव कोणत्या क्षेत्रावर प्रामुख्याने दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ धार्मिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आर्थिक आणि सामाजिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्थिक आणि सामाजिक"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "नागरीकरण ही अखंड चालणारी ______ आहे.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रक्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घटना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रक्रिया"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "नागरीकरण म्हणजे काय?",
+      "answer": "ग्रामीण वस्तीच्या लोकसंख्येत वाढ होऊन तिचे रूपांतर नागरी वस्तीत होण्याच्या प्रक्रियेला नागरीकरण म्हणतात. यात प्रामुख्याने बिगरशेती व्यवसायांची वाढ होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "औद्योगिकीकरणामुळे नागरीकरण कसे होते?",
+      "answer": "उद्योगधंद्यांच्या वाढीमुळे रोजगाराच्या संधी निर्माण होतात, ज्यामुळे ग्रामीण भागातील लोक कामासाठी अशा ठिकाणी येतात आणि लोकसंख्या वाढून शहरांचा विकास होतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "नागरीकरणात व्यापाराचे महत्त्व काय आहे?",
+      "answer": "ज्या ठिकाणी मालाची चढ-उतार, साठवणूक आणि वितरण होते, तिथे व्यापारामुळे पूरक सेवांची वाढ होऊन त्या ठिकाणाचे रूपांतर नागरी वस्तीत होते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "यांत्रिकीकरणामुळे नागरीकरणाला कशी चालना मिळते?",
+      "answer": "शेतीमध्ये यंत्रांचा वापर वाढल्याने शेतमजूर बेरोजगार झाले आणि हे मजूर कामाच्या शोधात शहरांकडे वळले, ज्यामुळे नागरीकरण वेगाने झाले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "स्थलांतर म्हणजे काय?",
+      "answer": "एखाद्या व्यक्तीने किंवा समूहाने एका ठिकाणाहून दुसऱ्या ठिकाणी कायमस्वरूपी किंवा अल्पकाळासाठी राहण्यास जाणे म्हणजे स्थलांतर होय."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "नागरीकरणामुळे समाजात कोणते सकारात्मक बदल होतात?",
+      "answer": "नागरीकरणामुळे सामाजिक ऐक्य वाढते, लोकांच्या विचारांत आधुनिकीकरण येते आणि विविध सेवा-सुविधांची उपलब्धता वाढते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "शहरांमधील झोपडपट्ट्यांची समस्या का निर्माण होते?",
+      "answer": "शहरात राहण्यासाठी जागेची कमतरता आणि घरांच्या वाढलेल्या किमतींमुळे कमी उत्पन्न असणारे लोक मोकळ्या जागेत तात्पुरती घरे बांधून राहतात, यातून झोपडपट्ट्या निर्माण होतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वाहतूक कोंडीची समस्या शहरात का उद्भवते?",
+      "answer": "शहरांचा विस्तार हा बाह्यभागात झाल्यामुळे लोक दूर राहतात आणि कामासाठी स्वतःची वाहने वापरतात, ज्यामुळे रस्त्यांवरील वाहनांची संख्या वाढून कोंडी होते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "नागरीकरणाचा पर्यावरणावर काय परिणाम होतो?",
+      "answer": "प्रचंड लोकसंख्येमुळे हवा, पाणी आणि ध्वनी प्रदूषणात वाढ होते. तसेच कचऱ्याची विल्हेवाट लावण्याची गंभीर समस्या निर्माण होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "नागरी भागातील गुन्हेगारीचे प्रमुख कारण काय आहे?",
+      "answer": "स्थलांतरित लोकांना शहरात रोजगार न मिळाल्यास ते अवैध मार्गाने पैसे कमवण्याकडे वळतात, ज्यामुळे गुन्हेगारी वाढते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "नागरी वस्तीसाठी भारतीय जनगणना आयोगाची कोणतीही एक अट सांगा.",
+      "answer": "त्या वस्तीतील ७५% पेक्षा जास्त पुरुष बिगरशेती व्यवसायात कार्यरत असावेत, ही एक मुख्य अट आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शहरांमधील आरोग्य सुविधांचे फायदे कोणते?",
+      "answer": "नागरी भागात अत्याधुनिक रुग्णालये आणि वैद्यकीय तज्ज्ञ उपलब्ध असल्यामुळे नागरिकांना वेळेवर आणि दर्जेदार उपचार मिळतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "नागरीकरणामुळे 'सामाजिक ऐक्य' कसे वाढते?",
+      "answer": "शहरात विविध जाती, धर्म आणि पंथांचे लोक एकत्र राहतात, ज्यामुळे त्यांच्यात सांस्कृतिक देवाणघेवाण होऊन सामाजिक सलोखा वाढतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "नागरी भागातील कचरा व्यवस्थापनाचे आव्हान काय आहे?",
+      "answer": "शहरात रोज तयार होणाऱ्या प्रचंड कचऱ्याचे वर्गीकरण आणि त्याची योग्य विल्हेवाट लावण्यासाठी पुरेशी यंत्रणा उभी करणे हे मोठे आव्हान आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "शिक्षणाच्या संदर्भात शहरांचे महत्त्व काय?",
+      "answer": "शहरांमध्ये उच्च शिक्षणासाठी महाविद्यालये, विद्यापीठे आणि विविध व्यावसायिक कोर्सेस उपलब्ध असतात, जे ग्रामीण भागात दुर्मिळ असतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "शहरातील वाहतूक व्यवस्था विस्कळीत होण्याची कारणे सांगा.",
+      "answer": "सार्वजनिक वाहतूक व्यवस्थेचा अभाव, रस्त्यांची कमी रुंदी आणि खासगी वाहनांचा अतिवापर यामुळे वाहतूक विस्कळीत होते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "नागरीकरणात 'नियोजित शहरे' का महत्त्वाची असतात?",
+      "answer": "नियोजित शहरांमुळे भविष्यातील लोकसंख्या वाढ लक्षात घेऊन रस्ते, सांडपाणी आणि पाणीपुरवठा यांचे योग्य व्यवस्थापन करणे सोपे जाते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "झोपडपट्ट्यांमुळे आरोग्यावर काय परिणाम होतात?",
+      "answer": "झोपडपट्ट्यांमध्ये स्वच्छतेचा अभाव आणि दाटीवाटीच्या वस्तीमुळे संसर्गजन्य आजार वेगाने पसरण्याची भीती असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "नागरी भागात पाण्याचे दुर्भिक्ष्य का जाणवते?",
+      "answer": "वाढती लोकसंख्या आणि जलस्रोतांचे प्रदूषण यामुळे पाण्याची मागणी पुरवठ्यापेक्षा जास्त होते, म्हणून टंचाई जाणवते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "शहरांमधील ध्वनी प्रदूषणाचे स्त्रोत कोणते?",
+      "answer": "वाहनांचे हॉर्न, कारखान्यांचे आवाज आणि सण-उत्सवांतील ध्वनिक्षेपक हे नागरी भागातील ध्वनी प्रदूषणाचे मुख्य स्त्रोत आहेत."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "नागरीकरणात 'संवाद' साधनांचे महत्त्व काय?",
+      "answer": "इंटरनेट, टेलिफोन आणि प्रसारमाध्यमांमुळे शहरात माहितीचे दळणवळण जलद होते, जे व्यापारासाठी पोषक ठरते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "शहरातील जमिनीच्या वापराचे स्वरूप कसे असते?",
+      "answer": "शहरात जमिनीचा वापर शेतीऐवजी प्रामुख्याने निवास, व्यापार, उद्योग आणि सार्वजनिक सोयींसाठी केला जातो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "नागरीकरणाची प्रक्रिया कधी सुरू झाली?",
+      "answer": "प्रामुख्याने औद्योगिक क्रांतीनंतर यंत्रांचा वापर वाढल्यामुळे नागरीकरणाची प्रक्रिया जागतिक स्तरावर वेगाने सुरू झाली."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "शहरात सार्वजनिक सुरक्षिततेची गरज का असते?",
+      "answer": "प्रचंड लोकसंख्या आणि विविध स्तरांतील लोक एकत्र असल्याने शांतता राखण्यासाठी आणि गुन्ह्यांना आळा घालण्यासाठी पोलीस यंत्रणेची गरज असते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "नागरीकरणाचा 'प्रशासकीय' फायदा कोणता?",
+      "answer": "मोठ्या लोकसंख्येसाठी एकाच ठिकाणी सोयीसुविधा पुरवणे प्रशासकीयदृष्ट्या सोपे आणि किफायतशीर ठरू शकते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "शहरातील वाहतूक कोंडीमुळे कोणत्या हानी होतात?",
+      "answer": "वाहतूक कोंडीमुळे वेळेचा अपव्यय होतो, इंधन वाया जाते आणि हवेच्या प्रदूषणात प्रचंड वाढ होते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "नागरीकरणात 'पायाभूत सुविधा' म्हणजे काय?",
+      "answer": "रस्ते, वीज, पाणीपुरवठा, सांडपाणी निचरा आणि दळणवळण यांसारख्या शहराच्या विकासासाठी आवश्यक असणाऱ्या मूलभूत सोयी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "शहरांमधील 'हवेचा दर्जा' का खालावतो?",
+      "answer": "कारखाने आणि वाहनांमधून निघणारा धूर यामुळे हवेतील कार्बन डायऑक्साइड आणि इतर घातक वायूंचे प्रमाण वाढते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "नागरीकरणामुळे 'रूढी' कशा कमी होतात?",
+      "answer": "शिक्षण आणि विज्ञानाच्या प्रसारामुळे लोकांची विचारसरणी बदलते, ज्यामुळे जुन्या आणि घातक सामाजिक रूढींचा प्रभाव कमी होतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "शहरातील 'मोकळ्या जागा' कशासाठी आवश्यक आहेत?",
+      "answer": "उद्याने आणि मैदाने शहराच्या पर्यावरणाला जिवंत ठेवतात आणि नागरिकांना शारीरिक-मानसिक आरोग्य जपण्यास मदत करतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "नागरीकरणामुळे कोणत्या व्यवसायांची वाढ होते?",
+      "answer": "शहरात प्रामुख्याने बँकिंग, विमा, व्यापार, हॉटेलिंग आणि माहिती तंत्रज्ञान यांसारख्या सेवा व्यवसायांची मोठी वाढ होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "झोपडपट्ट्यांचे 'पुनर्वसन' म्हणजे काय?",
+      "answer": "झोपडपट्टीत राहणाऱ्या लोकांना पक्क्या घरात स्थलांतरित करून तिथे सोयीसुविधा पुरवणे म्हणजे पुनर्वसन होय."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "नागरीकरणात 'लोकसंख्येची घनता' वाढण्याचे कारण काय?",
+      "answer": "कमी जागेत रोजगाराच्या ओघाने मोठ्या प्रमाणात लोक येऊन राहिल्यामुळे तिथे घनता वाढते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "शहरात सांडपाण्याची समस्या कशी सोडवता येईल?",
+      "answer": "सांडपाणी प्रक्रीया प्रकल्प (STP) उभारून आणि पाण्याचा पुनर्वापर करून ही समस्या कमी करता येते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "नागरीकरणात 'तंत्रज्ञानाचा' वापर कोठे होतो?",
+      "answer": "ऑनलाइन सेवा, स्मार्ट ट्रॅफिक सिग्नल आणि सीसीटीव्ही द्वारे सुरक्षितता राखण्यासाठी तंत्रज्ञानाचा वापर होतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शहरातील 'ध्वनी प्रदूषणाचे' आरोग्यावर होणारे परिणाम सांगा.",
+      "answer": "अति आवाजामुळे बहिरेपणा, चिडचिड, निद्रानाश आणि मानसिक ताण यांसारखे विकार जडू शकतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "नागरीकरण आणि 'ग्रामीण विकास' यांचा काय संबंध आहे?",
+      "answer": "शहरात उत्पादित मालाला ग्रामीण भागात बाजारपेठ मिळते आणि ग्रामीण भागातील कच्चा माल शहरात विकला जातो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "शहरातील 'स्मार्ट सिटी' अभियानाचा मुख्य उद्देश काय?",
+      "answer": "नागरिकांना दर्जेदार सोयीसुविधा पुरवणे, शाश्वत विकास साधणे आणि प्रशासनात पारदर्शकता आणणे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "नागरीकरणात 'स्थलांतरितांचे प्रश्न' कोणते असतात?",
+      "answer": "राहण्याची जागा शोधणे, भाषेची अडचण, कौशल्याचा अभाव आणि नवीन वातावरणाशी जुळवून घेणे हे मुख्य प्रश्न असतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "शहरात 'सार्वजनिक वाहतूक' का वाढवावी?",
+      "answer": "रस्त्यांवरील खासगी वाहनांची गर्दी कमी करण्यासाठी आणि पर्यावरणाचे रक्षण करण्यासाठी सार्वजनिक वाहतूक उत्तम पर्याय आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "नागरीकरणामुळे 'कुटुंब पद्धतीत' काय बदल झाला?",
+      "answer": "ग्रामीण भागातील एकत्र कुटुंब पद्धतीऐवजी शहरात विभक्त (लहान) कुटुंब पद्धतीचे प्रमाण वाढले आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "शहरातील 'पाणीपुरवठा' व्यवस्था कशी असते?",
+      "answer": "मोठ्या धरणांमधून पाणी आणून, त्यावर शुद्धीकरण प्रक्रिया करून नळाद्वारे घराघरात पुरवले जाते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "नागरीकरणात 'वृक्षारोपणाचे' महत्त्व काय?",
+      "answer": "शहरातील कार्बन उत्सर्जन कमी करण्यासाठी आणि उष्णता कमी करण्यासाठी मोठ्या प्रमाणावर वृक्षारोपण आवश्यक असते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "शहरातील 'बँकिंग' सेवांचा काय फायदा होतो?",
+      "answer": "व्यापारी आणि उद्योजकांना भांडवल उपलब्ध करून देऊन आर्थिक विकासाला गती मिळते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "नागरीकरणाचा 'सांस्कृतिक' परिणाम सांगा.",
+      "answer": "विविध प्रांतातील सण, उत्सव आणि खाद्यान्न शहरात एकत्र आल्यामुळे एक संमिश्र संस्कृती तयार होते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "शहरातील 'महानगरपालिका' कोणती कामे करते?",
+      "answer": "स्वच्छता राखणे, पाणीपुरवठा करणे, रस्त्यांचे नियोजन आणि आरोग्य सेवा पुरवणे ही कामे महानगरपालिका करते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "नागरीकरणात 'गुन्हेगारी' रोखण्यासाठी उपाय काय?",
+      "answer": "रोजगाराच्या संधी निर्माण करणे, पोलीस गस्त वाढवणे आणि सीसीटीव्ही यंत्रणेचा वापर करणे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शहरात 'परवडणारी घरे' ही संकल्पना काय आहे?",
+      "answer": "कमी आणि मध्यम उत्पन्न असणाऱ्या लोकांसाठी त्यांच्या बजेटमध्ये मिळणारी सर्व सोयींनी युक्त घरे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "नागरीकरण ही 'अखंड प्रक्रिया' कशी आहे?",
+      "answer": "लोकसंख्येची वाढ आणि नवनवीन तंत्रज्ञानामुळे शहरांच्या सीमा सतत विस्तारत राहतात, म्हणून ही अखंड प्रक्रिया आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "शहरात 'आपत्ती व्यवस्थापन' का आवश्यक आहे?",
+      "answer": "गर्दी आणि गुंतागुंतीच्या इमारतींमुळे आग, पूर किंवा साथीचे आजार यांसारख्या आपत्तींचा धोका जास्त असतो, म्हणून नियोजन आवश्यक आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "नागरीकरण म्हणजे काय आणि नागरीकरणाला कारणीभूत ठरणारे प्रमुख घटक स्पष्ट करा.",
+      "answer": "ग्रामीण वस्तीचे रूपांतर नागरी वस्तीत होण्याच्या प्रक्रियेला नागरीकरण म्हणतात. लोकसंख्या वाढ आणि स्थलांतर हे याचे मुख्य आधार आहेत. नागरीकरणाला कारणीभूत ठरणारे घटक खालीलप्रमाणे आहेत: १. औद्योगिकीकरण: एखाद्या प्रदेशात उद्योगधंद्यांचा विकास झाल्यामुळे रोजगारासाठी लोक तिथे येतात, ज्यामुळे नागरीकरण होते. २. व्यापार: मालाची चढ-उतार आणि वितरण केंद्रांमुळे सेवांची वाढ होऊन शहरे विकसित होतात. ३. यांत्रिकीकरण: शेतीमध्ये यंत्रांचा वापर वाढल्याने शेतमजूर बेरोजगार झाले आणि ते कामाच्या शोधात शहरांकडे वळले. ४. वाहतूक व दळणवळण: ज्या ठिकाणी वाहतुकीचे मार्ग एकत्र येतात किंवा विकसित होतात, तिथे नागरीकरण वेगाने होते. ५. पर्यटन आणि प्रशासन: काही ठिकाणी केवळ पर्यटन किंवा प्रशासकीय केंद्र असल्यामुळे शहरांचा विकास होतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "नागरीकरणामुळे समाजात कोणते सकारात्मक परिणाम दिसून येतात?",
+      "answer": "नागरीकरणामुळे अनेक चांगले बदल घडून येतात: १. सामाजिक ऐक्य: शहरात विविध जाती, धर्म आणि पंथांचे लोक एकत्र राहतात. त्यांच्यात सांस्कृतिक देवाणघेवाण होऊन सामाजिक सलोखा वाढतो. २. आधुनिकीकरण: शहरांमध्ये शिक्षणाच्या आणि माहितीच्या सोयींमुळे लोकांच्या विचारांत बदल होतो. लोक आधुनिक तंत्रज्ञान आणि नवीन जीवनशैलीचा स्वीकार करतात. ३. सोईसुविधांमध्ये वाढ: शहरात आरोग्य, शिक्षण, वाहतूक, बँकिंग आणि करमणुकीच्या अत्याधुनिक सोयी उपलब्ध होतात. ४. कार्यक्षमता: प्रगत सोयीसुविधांमुळे कामाची गती वाढते आणि लोकांचे जीवनमान उंचावते. ५. रोजगाराच्या संधी: नागरीकरणामुळे तृतीयक व्यवसायांत (सेवा क्षेत्र) वाढ होऊन तरुणांना मोठ्या प्रमाणावर रोजगार उपलब्ध होतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "नागरी भागातील झोपडपट्ट्यांची समस्या सविस्तर स्पष्ट करा.",
+      "answer": "झोपडपट्टी ही नागरीकरणातील एक गंभीर समस्या आहे. १. कारणे: शहरात स्थलांतरित होणाऱ्या लोकांपैकी बहुतेकांची आर्थिक स्थिती कमकुवत असते. शहरात घरांच्या किमती आणि भाडे जास्त असल्यामुळे त्यांना पक्की घरे परवडत नाहीत. २. स्वरूप: हे लोक शहरात उपलब्ध असलेल्या मोकळ्या जागांवर किंवा सरकारी जमिनीवर तात्पुरती आणि कच्ची घरे बांधून राहतात. या वस्त्या अनधिकृत असतात. ३. समस्या: झोपडपट्ट्यांमध्ये रस्ते, वीज आणि शुद्ध पाणी यांसारख्या मूलभूत सोयींचा अभाव असतो. ४. परिणाम: दाटीवाटीची वस्ती असल्यामुळे तिथे आरोग्याच्या समस्या निर्माण होतात आणि सामाजिक असुरक्षितता वाढते. अशा वस्त्यांचे पुनर्वसन करणे हे प्रशासनापुढील मोठे आव्हान असते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "शहरांमधील वाहतूक कोंडीची कारणे आणि त्यावरील उपाय सांगा.",
+      "answer": "वाहतूक कोंडी ही आजच्या शहरांची मोठी समस्या आहे. १. कारणे: शहरांचा विस्तार बाह्य भागात झाल्यामुळे लोक उपनगरांत राहतात. सार्वजनिक वाहतूक व्यवस्था अपुरी असल्यामुळे लोक स्वतःच्या खासगी वाहनांचा वापर करतात. यामुळे रस्त्यांवर वाहनांची संख्या प्रचंड वाढते. २. परिणाम: यामुळे हवेचे आणि ध्वनीचे प्रदूषण वाढते, वेळेचा अपव्यय होतो आणि इंधन वाया जाते. ३. उपाय: अ) सार्वजनिक वाहतूक व्यवस्था (उदा. मेट्रो, बस) सक्षम करणे. ब) सायकल ट्रॅक आणि पादचाऱ्यांसाठी स्वतंत्र फूटपाथ विकसित करणे. क) उड्डाणपूल आणि रुंद रस्त्यांचे नियोजन करणे. ड) कार-पूलिंग सारख्या संकल्पनांचा वापर करणे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "नागरीकरणातील पर्यावरणीय समस्यांवर सविस्तर माहिती लिहा.",
+      "answer": "नागरीकरणामुळे पर्यावरणावर ताण येतो आणि खालील समस्या निर्माण होतात: १. प्रदूषण: वाहने आणि कारखान्यांमुळे हवेचे प्रदूषण वाढते. सांडपाणी नदीत सोडल्यामुळे जलप्रदूषण होते आणि गर्दीमुळे ध्वनी प्रदूषण वाढते. २. कचरा व्यवस्थापन: शहरात रोज हजारो टन कचरा निर्माण होतो. या कचऱ्याची योग्य विल्हेवाट न लावल्यास आरोग्यास धोका निर्माण होतो. ३. उष्णता वाढणे: सिमेंट-काँक्रीटच्या बांधकामामुळे शहरांमधील तापमान ग्रामीण भागापेक्षा जास्त राहते (Urban Heat Island). ४. नैसर्गिक साधनसंपत्तीचा ऱ्हास: शहरांच्या विस्तारासाठी शेतजमीन आणि वने नष्ट केली जातात, ज्यामुळे जैवविविधतेवर परिणाम होतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "नागरी भागातील गुन्हेगारी वाढण्याची कारणे स्पष्ट करा.",
+      "answer": "नागरी भागात गुन्हेगारी वाढण्यामागे प्रामुख्याने आर्थिक आणि सामाजिक कारणे असतात: १. बेरोजगारी: शहरात येणाऱ्या प्रत्येक व्यक्तीला रोजगार मिळतोच असे नाही. उत्पन्नाचे साधन नसल्यामुळे काही लोक चोरी किंवा फसवणुकीच्या मार्गाकडे वळतात. २. आर्थिक विषमता: शहरात श्रीमंत आणि गरीब यांच्यातील दरी मोठी असते, ज्यामुळे गरिबांमध्ये असंतोष निर्माण होतो. ३. दाटीवाटीची वस्ती: झोपडपट्ट्यांसारख्या भागात सामाजिक नियंत्रण कमी असते, ज्यामुळे गुन्हेगारी टोळ्यांना पोषक वातावरण मिळते. ४. व्यसनाधीनता: बेरोजगारी आणि वैफल्यातून लोक व्यसनांच्या आहारी जातात, ज्यामुळे गुन्हेगारी वाढते. ५. अपुरी पोलीस यंत्रणा: लोकसंख्येच्या तुलनेत पोलिसांची संख्या कमी असल्यास गुन्हेगारांवर वचक बसवणे कठीण होते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "भारतीय जनगणना कार्यालयानुसार 'नागरी वस्ती' ठरवण्याचे निकष कोणते आहेत?",
+      "answer": "जनगणना कार्यालयानुसार नागरी वस्तीसाठी खालील निकष लावले जातात: १. लोकसंख्या: त्या वस्तीची एकूण लोकसंख्या किमान ५००० पेक्षा जास्त असणे आवश्यक आहे. २. लोकसंख्येची घनता: वस्तीतील लोकसंख्येची घनता दर चौरस किलोमीटरला किमान ४०० व्यक्ती इतकी असावी लागते. ३. व्यवसाय: काम करणाऱ्या एकूण पुरुषांपैकी किमान ७५% पुरुष हे बिगरशेती व्यवसायात (उद्योग, व्यापार, सेवा) कार्यरत असावेत. ४. प्रशासन: ज्या ठिकाणी नगरपालिका, नगरपरिषद किंवा महानगरपालिका यांसारख्या स्थानिक संस्था प्रशासन पाहतात, त्या वस्तीला नागरी वस्ती मानले जाते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "नागरीकरणामुळे ग्रामीण भागावर कोणते परिणाम होतात?",
+      "answer": "नागरीकरणाचा प्रभाव फक्त शहरांवरच नाही तर ग्रामीण भागावरही होतो: १. रोजगारासाठी स्थलांतर: गावातील तरुण आणि कामकरी वर्ग शहराकडे गेल्यामुळे गावात मजुरांची टंचाई निर्माण होते. २. शेतीतील बदल: शहरांमधील मागणी पूर्ण करण्यासाठी ग्रामीण भागात नगदी पिके, भाजीपाला आणि दूध उत्पादनाकडे शेतकरी वळतात. ३. आधुनिकीकरण: शहराशी संपर्क वाढल्यामुळे ग्रामीण भागातील लोकांच्या विचारांत आणि जीवनशैलीत बदल होतो. ४. पायाभूत सुविधा: शहरांना जोडण्यासाठी ग्रामीण भागात रस्ते आणि वीज यांसारख्या सुविधा पोहोचतात. ५. आर्थिक सुधारणा: शहरात गेलेली माणसे गावी पैसे पाठवतात, ज्यामुळे ग्रामीण कुटुंबांची आर्थिक स्थिती सुधारते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "शहरांमधील सांडपाणी आणि कचरा ही एक मोठी समस्या का बनली आहे?",
+      "answer": "प्रचंड लोकसंख्येमुळे ही समस्या बिकट झाली आहे: १. कचरा: शहरात दरडोई कचरा निर्मितीचे प्रमाण जास्त आहे. या कचऱ्याचे ओला आणि सुका असे वर्गीकरण न केल्यामुळे त्याचे डोंगर साचतात, ज्यातून दुर्गंधी आणि रोगराई पसरते. २. सांडपाणी: घरगुती आणि औद्योगिक सांडपाणी वाहून नेणारी ड्रेनेज यंत्रणा अनेकदा अपुरी पडते. प्रक्रिया न केलेले सांडपाणी नद्यांत किंवा समुद्रात सोडल्यामुळे जलप्रदूषण होते. ३. उपाय: यावर उपाय म्हणून सांडपाणी प्रक्रिया केंद्र (STP) उभारणे आणि कचऱ्यापासून खत किंवा ऊर्जा निर्मिती करणे आवश्यक आहे. नागरिकांमध्ये स्वच्छतेबाबत जनजागृती करणे देखील तितकेच महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "नागरी नियोजनाचे (Urban Planning) महत्त्व सविस्तर लिहा.",
+      "answer": "नागरीकरण ही अटळ प्रक्रिया असली तरी ती नियोजित असणे गरजेचे आहे: १. भविष्यातील गरज: लोकसंख्या वाढीचा वेग लक्षात घेऊन रस्ते, पाणी आणि वीज यांचे नियोजन आधीच करता येते. २. सुव्यवस्था: नियोजित शहरांमध्ये वाहतूक कोंडी आणि झोपडपट्ट्यांची समस्या कमी असते (उदा. चंदीगड किंवा नवी मुंबई). ३. आरोग्य: नियोजित शहरांत मोकळी मैदाने, उद्याने आणि हॉस्पिटलसाठी स्वतंत्र जागा असते, ज्यामुळे नागरिकांचे आरोग्य सुधारते. ४. आर्थिक विकास: चांगले नियोजन असलेल्या शहरांमध्ये गुंतवणूक आणि उद्योग आकर्षित होतात, ज्यामुळे आर्थिक प्रगती होते. ५. आपत्ती व्यवस्थापन: आग किंवा पूर यांसारख्या आपत्तींच्या वेळी मदत कार्य करणे नियोजित शहरांमध्ये सोपे असते."
+    }
+  ]
+}

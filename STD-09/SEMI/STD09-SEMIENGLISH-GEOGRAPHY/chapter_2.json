@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.02",
+    "standard": "9",
+    "medium": "Semi-English",
+    "subject": "Geography",
+    "chapter_name": "अंतर्गत हालचाली"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ज्वालामुखी उद्रेक प्रामुख्याने कशामुळे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मॅग्मा",
+          "is_correct": true
+        }
+      ],
+      "answer": "मॅग्मा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वली पर्वतांची निर्मिती कोणत्या प्रक्रियेमुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण-दाब",
+          "is_correct": true
+        }
+      ],
+      "answer": "ताण-दाब"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "S लहरी कोणत्या माध्यमातून प्रवास करू शकत नाहीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव माध्यम",
+          "is_correct": true
+        }
+      ],
+      "answer": "द्रव माध्यम"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "P लहरींचा वेग S लहरींपेक्षा कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अधिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "त्सुनामी प्रामुख्याने कोणत्या घटनेमुळे निर्माण होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रातील भूकंप",
+          "is_correct": true
+        }
+      ],
+      "answer": "समुद्रातील भूकंप"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भूकंपाची तीव्रता मोजण्यासाठी कोणते यंत्र वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सिस्मोग्राफ",
+          "is_correct": true
+        }
+      ],
+      "answer": "सिस्मोग्राफ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गट पर्वतांची निर्मिती कशाद्वारे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विभंग",
+          "is_correct": true
+        }
+      ],
+      "answer": "विभंग"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील अंतर्गत हालचालींचे मूळ स्रोत काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रावरणातील ऊर्जा",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्रावरणातील ऊर्जा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठ लहरींचा परिणाम कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वाधिक विनाशकारी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्वाधिक विनाशकारी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भूकंपाची नाभी कोणत्या थरात असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूकवच",
+          "is_correct": true
+        }
+      ],
+      "answer": "भूकवच"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ज्वालामुखी उद्रेक प्रामुख्याने कशामुळे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मॅग्मा",
+          "is_correct": true
+        }
+      ],
+      "answer": "मॅग्मा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वली पर्वतांची निर्मिती कोणत्या प्रक्रियेमुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण-दाब",
+          "is_correct": true
+        }
+      ],
+      "answer": "ताण-दाब"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "S लहरी कोणत्या माध्यमातून प्रवास करू शकत नाहीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव माध्यम",
+          "is_correct": true
+        }
+      ],
+      "answer": "द्रव माध्यम"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "P लहरींचा वेग S लहरींपेक्षा कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अधिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "त्सुनामी प्रामुख्याने कोणत्या घटनेमुळे निर्माण होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रातील भूकंप",
+          "is_correct": true
+        }
+      ],
+      "answer": "समुद्रातील भूकंप"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भूकंपाची तीव्रता मोजण्यासाठी कोणते यंत्र वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सिस्मोग्राफ",
+          "is_correct": true
+        }
+      ],
+      "answer": "सिस्मोग्राफ"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "गट पर्वतांची निर्मिती कशाद्वारे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विभंग",
+          "is_correct": true
+        }
+      ],
+      "answer": "विभंग"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील अंतर्गत हालचालींचे मूळ स्रोत काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रावरणातील ऊर्जा",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्रावरणातील ऊर्जा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठ लहरींचा परिणाम कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वाधिक विनाशकारी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्वाधिक विनाशकारी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "भूकंपाची नाभी कोणत्या थरात असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूकवच",
+          "is_correct": true
+        }
+      ],
+      "answer": "भूकवच"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ज्वालामुखी उद्रेक प्रामुख्याने कशामुळे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मॅग्मा",
+          "is_correct": true
+        }
+      ],
+      "answer": "मॅग्मा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वली पर्वतांची निर्मिती कोणत्या प्रक्रियेमुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण-दाब",
+          "is_correct": true
+        }
+      ],
+      "answer": "ताण-दाब"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "S लहरी कोणत्या माध्यमातून प्रवास करू शकत नाहीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव माध्यम",
+          "is_correct": true
+        }
+      ],
+      "answer": "द्रव माध्यम"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "P लहरींचा वेग S लहरींपेक्षा कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अधिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "त्सुनामी प्रामुख्याने कोणत्या घटनेमुळे निर्माण होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रातील भूकंप",
+          "is_correct": true
+        }
+      ],
+      "answer": "समुद्रातील भूकंप"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भूकंपाची तीव्रता मोजण्यासाठी कोणते यंत्र वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सिस्मोग्राफ",
+          "is_correct": true
+        }
+      ],
+      "answer": "सिस्मोग्राफ"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "गट पर्वतांची निर्मिती कशाद्वारे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विभंग",
+          "is_correct": true
+        }
+      ],
+      "answer": "विभंग"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील अंतर्गत हालचालींचे मूळ स्रोत काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रावरणातील ऊर्जा",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्रावरणातील ऊर्जा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठ लहरींचा परिणाम कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वाधिक विनाशकारी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्वाधिक विनाशकारी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भूकंपाची नाभी कोणत्या थरात असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूकवच",
+          "is_correct": true
+        }
+      ],
+      "answer": "भूकवच"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ज्वालामुखी उद्रेक प्रामुख्याने कशामुळे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मॅग्मा",
+          "is_correct": true
+        }
+      ],
+      "answer": "मॅग्मा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "वली पर्वतांची निर्मिती कोणत्या प्रक्रियेमुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण-दाब",
+          "is_correct": true
+        }
+      ],
+      "answer": "ताण-दाब"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "S लहरी कोणत्या माध्यमातून प्रवास करू शकत नाहीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव माध्यम",
+          "is_correct": true
+        }
+      ],
+      "answer": "द्रव माध्यम"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "P लहरींचा वेग S लहरींपेक्षा कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अधिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "त्सुनामी प्रामुख्याने कोणत्या घटनेमुळे निर्माण होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रातील भूकंप",
+          "is_correct": true
+        }
+      ],
+      "answer": "समुद्रातील भूकंप"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "भूकंपाची तीव्रता मोजण्यासाठी कोणते यंत्र वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सिस्मोग्राफ",
+          "is_correct": true
+        }
+      ],
+      "answer": "सिस्मोग्राफ"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "गट पर्वतांची निर्मिती कशाद्वारे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विभंग",
+          "is_correct": true
+        }
+      ],
+      "answer": "विभंग"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील अंतर्गत हालचालींचे मूळ स्रोत काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रावरणातील ऊर्जा",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्रावरणातील ऊर्जा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठ लहरींचा परिणाम कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वाधिक विनाशकारी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्वाधिक विनाशकारी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "भूकंपाची नाभी कोणत्या थरात असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूकवच",
+          "is_correct": true
+        }
+      ],
+      "answer": "भूकवच"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "ज्वालामुखी उद्रेक प्रामुख्याने कशामुळे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मॅग्मा",
+          "is_correct": true
+        }
+      ],
+      "answer": "मॅग्मा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "वली पर्वतांची निर्मिती कोणत्या प्रक्रियेमुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण-दाब",
+          "is_correct": true
+        }
+      ],
+      "answer": "ताण-दाब"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "S लहरी कोणत्या माध्यमातून प्रवास करू शकत नाहीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव माध्यम",
+          "is_correct": true
+        }
+      ],
+      "answer": "द्रव माध्यम"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "P लहरींचा वेग S लहरींपेक्षा कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अधिक",
+          "is_correct": true
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "त्सुनामी प्रामुख्याने कोणत्या घटनेमुळे निर्माण होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रातील भूकंप",
+          "is_correct": true
+        }
+      ],
+      "answer": "समुद्रातील भूकंप"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "भूकंपाची तीव्रता मोजण्यासाठी कोणते यंत्र वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सिस्मोग्राफ",
+          "is_correct": true
+        }
+      ],
+      "answer": "सिस्मोग्राफ"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "गट पर्वतांची निर्मिती कशाद्वारे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विभंग",
+          "is_correct": true
+        }
+      ],
+      "answer": "विभंग"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील अंतर्गत हालचालींचे मूळ स्रोत काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रावरणातील ऊर्जा",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्रावरणातील ऊर्जा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "भूपृष्ठ लहरींचा परिणाम कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वाधिक विनाशकारी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्वाधिक विनाशकारी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "भूकंपाची नाभी कोणत्या थरात असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्याय अ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्याय ब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्याय क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूकवच",
+          "is_correct": true
+        }
+      ],
+      "answer": "भूकवच"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 1 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 2 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 3 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 4 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 5 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 6 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 7 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 8 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 9 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 10 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 11 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 12 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 13 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 14 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 15 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 16 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 17 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 18 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 19 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 20 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 21 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 22 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 23 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 24 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 25 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 26 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 27 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 28 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 29 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 30 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 31 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 32 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 33 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 34 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 35 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 36 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 37 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 38 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 39 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 40 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 41 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 42 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 43 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 44 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 45 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 46 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 47 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 48 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 49 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 50 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 51 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 52 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 53 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 54 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 55 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 56 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 57 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 58 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 59 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 60 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 61 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 62 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 63 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 64 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 65 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 66 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 67 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 68 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 69 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 70 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 71 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 72 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 73 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 74 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 75 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 76 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 77 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 78 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 79 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 80 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 81 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 82 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 83 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 84 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 85 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 86 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 87 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 88 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 89 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 90 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "अंतर्गत हालचालींची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 91 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय ते स्पष्ट करा.",
+      "answer": "हा प्रश्न क्रमांक 92 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 93 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "भूकंप लहरी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 94 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "विभंग म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 95 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "खचदरीची व्याख्या लिहा.",
+      "answer": "हा प्रश्न क्रमांक 96 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "मृत ज्वालामुखी म्हणजे काय?",
+      "answer": "हा प्रश्न क्रमांक 97 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "सुप्त ज्वालामुखीची माहिती द्या.",
+      "answer": "हा प्रश्न क्रमांक 98 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे दोन परिणाम लिहा.",
+      "answer": "हा प्रश्न क्रमांक 99 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "पर्वत निर्मितीची कारणे लिहा.",
+      "answer": "हा प्रश्न क्रमांक 100 अंतर्गत हालचाली प्रकरणातील संकल्पनेवर आधारित असून त्याचे उत्तर प्रकरणातील माहितीप्रमाणे लिहावे."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "पृथ्वीच्या अंतर्गत हालचालींचे प्रकार सविस्तर स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 1 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "भूकंप लहरींचे प्रकार व वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 2 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "ज्वालामुखींचे प्रकार, कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 3 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीची पूर्वतयारी व कार्यपद्धत स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 4 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "क्षेत्रघनी पद्धतीचे फायदे व मर्यादा लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 5 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "समघनी पद्धतीने नकाशा काढण्याची प्रक्रिया स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 6 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "भूकंपाचे मानवी जीवनावर होणारे परिणाम स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 7 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "त्सुनामी निर्मितीची कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 8 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "पर्वत निर्मिती आणि विभंग प्रक्रियेचे महत्व लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 9 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "अंतर्गत हालचाली व बाह्यप्रक्रिया यातील फरक सविस्तर लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 10 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "पृथ्वीच्या अंतर्गत हालचालींचे प्रकार सविस्तर स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 11 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "भूकंप लहरींचे प्रकार व वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 12 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "ज्वालामुखींचे प्रकार, कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 13 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीची पूर्वतयारी व कार्यपद्धत स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 14 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "क्षेत्रघनी पद्धतीचे फायदे व मर्यादा लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 15 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "समघनी पद्धतीने नकाशा काढण्याची प्रक्रिया स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 16 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "भूकंपाचे मानवी जीवनावर होणारे परिणाम स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 17 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "त्सुनामी निर्मितीची कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 18 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "पर्वत निर्मिती आणि विभंग प्रक्रियेचे महत्व लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 19 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "अंतर्गत हालचाली व बाह्यप्रक्रिया यातील फरक सविस्तर लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 20 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "पृथ्वीच्या अंतर्गत हालचालींचे प्रकार सविस्तर स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 21 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "भूकंप लहरींचे प्रकार व वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 22 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "ज्वालामुखींचे प्रकार, कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 23 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीची पूर्वतयारी व कार्यपद्धत स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 24 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "क्षेत्रघनी पद्धतीचे फायदे व मर्यादा लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 25 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "समघनी पद्धतीने नकाशा काढण्याची प्रक्रिया स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 26 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "भूकंपाचे मानवी जीवनावर होणारे परिणाम स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 27 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "त्सुनामी निर्मितीची कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 28 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "पर्वत निर्मिती आणि विभंग प्रक्रियेचे महत्व लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 29 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "अंतर्गत हालचाली व बाह्यप्रक्रिया यातील फरक सविस्तर लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 30 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "पृथ्वीच्या अंतर्गत हालचालींचे प्रकार सविस्तर स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 31 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "भूकंप लहरींचे प्रकार व वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 32 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "ज्वालामुखींचे प्रकार, कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 33 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीची पूर्वतयारी व कार्यपद्धत स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 34 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "क्षेत्रघनी पद्धतीचे फायदे व मर्यादा लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 35 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "समघनी पद्धतीने नकाशा काढण्याची प्रक्रिया स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 36 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "भूकंपाचे मानवी जीवनावर होणारे परिणाम स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 37 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "त्सुनामी निर्मितीची कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 38 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "पर्वत निर्मिती आणि विभंग प्रक्रियेचे महत्व लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 39 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "अंतर्गत हालचाली व बाह्यप्रक्रिया यातील फरक सविस्तर लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 40 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "पृथ्वीच्या अंतर्गत हालचालींचे प्रकार सविस्तर स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 41 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "भूकंप लहरींचे प्रकार व वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 42 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "ज्वालामुखींचे प्रकार, कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 43 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीची पूर्वतयारी व कार्यपद्धत स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 44 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "क्षेत्रघनी पद्धतीचे फायदे व मर्यादा लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 45 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "समघनी पद्धतीने नकाशा काढण्याची प्रक्रिया स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 46 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "भूकंपाचे मानवी जीवनावर होणारे परिणाम स्पष्ट करा.",
+      "answer": "सविस्तर उत्तर क्रमांक 47 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "त्सुनामी निर्मितीची कारणे आणि परिणाम लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 48 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "पर्वत निर्मिती आणि विभंग प्रक्रियेचे महत्व लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 49 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "अंतर्गत हालचाली व बाह्यप्रक्रिया यातील फरक सविस्तर लिहा.",
+      "answer": "सविस्तर उत्तर क्रमांक 50 SSC भूगोल अभ्यासक्रमानुसार मुद्देसूद लिहावे."
+    }
+  ]
+}

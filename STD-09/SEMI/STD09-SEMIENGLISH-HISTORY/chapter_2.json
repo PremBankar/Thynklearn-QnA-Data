@@ -1,0 +1,223 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Semi-English.02",
+    "standard": "9",
+    "subject": "History",
+    "medium": "Semi-English",
+    "chapter_name": "भारत : १९६० नंतरच्या घडामोडी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारत कोणत्या वर्षी स्वतंत्र झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९४५", "is_correct": false },
+        { "option_id": 2, "text": "१९४६", "is_correct": false },
+        { "option_id": 3, "text": "१९४७", "is_correct": true },
+        { "option_id": 4, "text": "१९४८", "is_correct": false }
+      ],
+      "answer": "१९४७"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारतात संविधानाचा स्वीकार कोणत्या वर्षी झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९४७", "is_correct": false },
+        { "option_id": 2, "text": "१९४९", "is_correct": false },
+        { "option_id": 3, "text": "१९५०", "is_correct": true },
+        { "option_id": 4, "text": "१९६०", "is_correct": false }
+      ],
+      "answer": "१९५०"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आर्थिक विकासासाठी कोणती संस्था निर्माण करण्यात आली?",
+      "options": [
+        { "option_id": 1, "text": "महिला आयोग", "is_correct": false },
+        { "option_id": 2, "text": "नियोजन आयोग", "is_correct": true },
+        { "option_id": 3, "text": "अभिलेखागार", "is_correct": false },
+        { "option_id": 4, "text": "सांस्कृतिक विभाग", "is_correct": false }
+      ],
+      "answer": "नियोजन आयोग"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "१९६० च्या दशकात मुक्त झालेले प्रदेश कोणते?",
+      "options": [
+        { "option_id": 1, "text": "काश्मीर", "is_correct": false },
+        { "option_id": 2, "text": "गोवा, दमण आणि दीव", "is_correct": true },
+        { "option_id": 3, "text": "सिक्कीम", "is_correct": false },
+        { "option_id": 4, "text": "कारगिल", "is_correct": false }
+      ],
+      "answer": "गोवा, दमण आणि दीव"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भारत आणि चीन यांच्यातील सीमारेषा युद्ध कोणत्या वर्षी झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९६०", "is_correct": false },
+        { "option_id": 2, "text": "१९६१", "is_correct": false },
+        { "option_id": 3, "text": "१९६२", "is_correct": true },
+        { "option_id": 4, "text": "१९६५", "is_correct": false }
+      ],
+      "answer": "१९६२"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मॅकमोहन रेषेच्या क्षेत्रात कोणत्या देशांमध्ये युद्ध झाले?",
+      "options": [
+        { "option_id": 1, "text": "भारत-पाकिस्तान", "is_correct": false },
+        { "option_id": 2, "text": "भारत-चीन", "is_correct": true },
+        { "option_id": 3, "text": "भारत-रशिया", "is_correct": false },
+        { "option_id": 4, "text": "चीन-पाकिस्तान", "is_correct": false }
+      ],
+      "answer": "भारत-चीन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "डॉ. एम. एस. स्वामीनाथन कोणत्या क्रांतीचे जनक होते?",
+      "options": [
+        { "option_id": 1, "text": "धवलक्रांती", "is_correct": false },
+        { "option_id": 2, "text": "हरितक्रांती", "is_correct": true },
+        { "option_id": 3, "text": "औद्योगिक क्रांती", "is_correct": false },
+        { "option_id": 4, "text": "अवकाश क्रांती", "is_correct": false }
+      ],
+      "answer": "हरितक्रांती"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "दुग्धोत्पादनातील सहकारी चळवळीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "हरितक्रांती", "is_correct": false },
+        { "option_id": 2, "text": "धवलक्रांती", "is_correct": true },
+        { "option_id": 3, "text": "जागतिकीकरण", "is_correct": false },
+        { "option_id": 4, "text": "आरक्षण धोरण", "is_correct": false }
+      ],
+      "answer": "धवलक्रांती"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भारताने पहिला उपग्रह कोणत्या वर्षी सोडला?",
+      "options": [
+        { "option_id": 1, "text": "१९७१", "is_correct": false },
+        { "option_id": 2, "text": "१९७४", "is_correct": false },
+        { "option_id": 3, "text": "१९७५", "is_correct": true },
+        { "option_id": 4, "text": "१९८०", "is_correct": false }
+      ],
+      "answer": "१९७५"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पोवाडे कोणत्या साधन प्रकारात मोडतात?",
+      "options": [
+        { "option_id": 1, "text": "भौतिक साधने", "is_correct": false },
+        { "option_id": 2, "text": "लिखित साधने", "is_correct": false },
+        { "option_id": 3, "text": "मौखिक साधने", "is_correct": true },
+        { "option_id": 4, "text": "दृक्-श्राव्य साधने", "is_correct": false }
+      ],
+      "answer": "मौखिक साधने"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भारताने स्वतःला अण्वस्त्रधारी राष्ट्र म्हणून केव्हा घोषित केले?",
+      "options": [
+        { "option_id": 1, "text": "१९७४", "is_correct": false },
+        { "option_id": 2, "text": "१९८४", "is_correct": false },
+        { "option_id": 3, "text": "१९९८", "is_correct": true },
+        { "option_id": 4, "text": "१९९१", "is_correct": false }
+      ],
+      "answer": "१९९८"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "हुंडा प्रतिबंध कायदा कोणत्या क्षेत्राशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "आर्थिक सुधारणा", "is_correct": false },
+        { "option_id": 2, "text": "महिला सक्षमीकरण", "is_correct": true },
+        { "option_id": 3, "text": "अवकाश संशोधन", "is_correct": false },
+        { "option_id": 4, "text": "भौतिक साधने", "is_correct": false }
+      ],
+      "answer": "महिला सक्षमीकरण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "स्थानिक शासन संस्थांमध्ये स्त्रियांसाठी राखीव जागा कोणत्या संविधान दुरुस्तीने ठेवण्यात आल्या?",
+      "options": [
+        { "option_id": 1, "text": "७३ व ७४ वी", "is_correct": true },
+        { "option_id": 2, "text": "७५ वी", "is_correct": false },
+        { "option_id": 3, "text": "८९ वी", "is_correct": false },
+        { "option_id": 4, "text": "५३ वी", "is_correct": false }
+      ],
+      "answer": "७३ व ७४ वी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "काकासाहेब कालेलकर आयोग कोणत्या वर्षी स्थापन झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९५३", "is_correct": true },
+        { "option_id": 2, "text": "१९६६", "is_correct": false },
+        { "option_id": 3, "text": "१९७८", "is_correct": false },
+        { "option_id": 4, "text": "१९८९", "is_correct": false }
+      ],
+      "answer": "१९५३"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "१९८९ मध्ये संमत झालेला अत्याचार विरोधी कायदा कोणासाठी होता?",
+      "options": [
+        { "option_id": 1, "text": "उद्योगांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "महिलांसाठी", "is_correct": false },
+        { "option_id": 3, "text": "अनुसूचित जाती व जमातींसाठी", "is_correct": true },
+        { "option_id": 4, "text": "विद्यार्थ्यांसाठी", "is_correct": false }
+      ],
+      "answer": "अनुसूचित जाती व जमातींसाठी"
+    },
+    
+{ "question_id": 21, "question_type": "SHORT", "question": "लिखित साधने म्हणजे काय?", "answer": "लिखित साधने म्हणजे कागदपत्रे व छापील मजकूर ज्यांच्या आधारे इतिहास अभ्यासता येतो." },
+{ "question_id": 22, "question_type": "SHORT", "question": "वृत्तपत्रे कोणत्या विषयांची माहिती देतात?", "answer": "वृत्तपत्रे राजकारण, कला, क्रीडा, साहित्य आणि सांस्कृतिक घटनांची माहिती देतात." },
+{ "question_id": 23, "question_type": "SHORT", "question": "इतिहास अभ्यासण्यासाठी किती प्रकारची साधने आहेत?", "answer": "इतिहास अभ्यासासाठी चार प्रकारची साधने आहेत." },
+{ "question_id": 24, "question_type": "SHORT", "question": "प्रेस ट्रस्ट ऑफ इंडिया कोणत्या प्रकारचे स्रोत आहे?", "answer": "प्रेस ट्रस्ट ऑफ इंडिया हा लिखित माहिती पुरवणारा राष्ट्रीय स्तरावरील स्रोत आहे." },
+{ "question_id": 25, "question_type": "SHORT", "question": "भौतिक साधने कोणती?", "answer": "भौतिक साधने म्हणजे नाणी, अलंकार, इमारती आणि संग्रहालये होत." },
+{ "question_id": 26, "question_type": "SHORT", "question": "पेजर हे साधन कशाचे उदाहरण आहे?", "answer": "पेजर हे आधुनिक संपर्क साधनांच्या बदलाचे उदाहरण आहे." },
+{ "question_id": 27, "question_type": "SHORT", "question": "सरकारी गॅझेट म्हणजे काय?", "answer": "सरकारी गॅझेट हे अधिकृत लिखित साधन आहे ज्यातून सरकारी निर्णय समजतात." },
+{ "question_id": 28, "question_type": "SHORT", "question": "FTII ची स्थापना केव्हा झाली?", "answer": "FTII ची स्थापना १९६० साली पुणे येथे झाली." },
+{ "question_id": 29, "question_type": "SHORT", "question": "मौखिक साधनांमध्ये कोणत्या गोष्टी मोडतात?", "answer": "मौखिक साधनांमध्ये लोककथा, लोकगीते, म्हणी आणि ओव्या मोडतात." },
+{ "question_id": 30, "question_type": "SHORT", "question": "इंटरनेट माहितीचा उपयोग करताना काय करावे लागते?", "answer": "इंटरनेट माहितीची सत्यता तपासूनच उपयोग करावा लागतो." },
+
+{
+  "question_id": 31,
+  "question_type": "LONG",
+  "question": "लिखित साधनांचे महत्त्व स्पष्ट करा.",
+  "answer": "लिखित साधने आधुनिक इतिहास अभ्यासासाठी मुख्य आधार आहेत. वृत्तपत्रे आणि ग्रंथ घटनांचे तपशीलवार वर्णन करतात. पत्रव्यवहारातून वैयक्तिक माहिती मिळते. सरकारी गॅझेट अधिकृत निर्णयांची माहिती देतात. या साधनांमुळे तथ्यांची खात्री होते. इंटरनेटचा प्रसार झाला तरी छापील साधने कायम प्रभावी आहेत. त्यामुळे इतिहास लेखन अचूक आणि विश्वसनीय बनते."
+},
+{
+  "question_id": 32,
+  "question_type": "LONG",
+  "question": "प्रेस ट्रस्ट ऑफ इंडियाची भूमिका स्पष्ट करा.",
+  "answer": "प्रेस ट्रस्ट ऑफ इंडिया हा १९५३ नंतरचा महत्त्वाचा राष्ट्रीय स्रोत आहे. या संस्थेने वृत्तपत्रांना प्राथमिक तपशील पुरवले. छायाचित्रे, वैज्ञानिक लेख आणि आर्थिक माहिती दिली. १९९०च्या दशकात उपग्रह तंत्र स्वीकारले. त्यामुळे माहिती प्रसारण वेगवान झाले. आधुनिक भारताच्या घडामोडींचा तपशील जतन झाला. म्हणूनच पीटीआय आधुनिक इतिहासासाठी अत्यंत महत्त्वाचे साधन ठरले."
+},
+{
+  "question_id": 33,
+  "question_type": "LONG",
+  "question": "भौतिक साधनांचे स्वरूप आणि महत्त्व लिहा.",
+  "answer": "भौतिक साधने ही प्रत्यक्ष वस्तूंवर आधारित असतात. नाणी, इमारती, अलंकार आणि संग्रहालये यात मोडतात. या साधनांमधून इतिहासाचे ठोस पुरावे मिळतात. इमारतींवरून स्थापत्यशैली समजते. नाण्यांवरील संदेश सामाजिक जाणीवा दर्शवतात. संग्रहालये वस्तू सुरक्षित ठेवतात. त्यामुळे भविष्यातील संशोधन शक्य होते. म्हणून भौतिक साधने इतिहास अभ्यासात अनिवार्य आहेत."
+}
+
+
+  ]
+}

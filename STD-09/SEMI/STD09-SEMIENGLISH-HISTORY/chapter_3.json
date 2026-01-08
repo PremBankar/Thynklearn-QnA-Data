@@ -1,0 +1,131 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Semi-English.03",
+    "standard": "9",
+    "subject": "History",
+    "medium": "Semi-English",
+    "chapter_name": "भारतातील अंतर्गत आव्हाने"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या पाठात आपण कोणत्या प्रकारच्या आव्हानांचा अभ्यास करणार आहोत?",
+      "options": [
+        { "option_id": 1, "text": "आर्थिक आव्हाने", "is_correct": false },
+        { "option_id": 2, "text": "सांस्कृतिक घडामोडी", "is_correct": false },
+        { "option_id": 3, "text": "अंतर्गत आव्हाने", "is_correct": true },
+        { "option_id": 4, "text": "परराष्ट्र धोरण", "is_correct": false }
+      ],
+      "answer": "अंतर्गत आव्हाने"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पंजाबमध्ये असंतोषाचे वातावरण कोणत्या ठरावामुळे निर्माण झाले?",
+      "options": [
+        { "option_id": 1, "text": "आसाम करार", "is_correct": false },
+        { "option_id": 2, "text": "आनंदपूर साहिब ठराव", "is_correct": true },
+        { "option_id": 3, "text": "नेफा करार", "is_correct": false },
+        { "option_id": 4, "text": "नागा करार", "is_correct": false }
+      ],
+      "answer": "आनंदपूर साहिब ठराव"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खलिस्तान चळवळ कोणत्या वर्षी तीव्र झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९६५", "is_correct": false },
+        { "option_id": 2, "text": "१९७१", "is_correct": false },
+        { "option_id": 3, "text": "१९८०", "is_correct": true },
+        { "option_id": 4, "text": "१९९८", "is_correct": false }
+      ],
+      "answer": "१९८०"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ऑपरेशन ब्लू स्टार मोहीम कोणत्या स्थळी राबवली गेली?",
+      "options": [
+        { "option_id": 1, "text": "चंदीगढ", "is_correct": false },
+        { "option_id": 2, "text": "सुवर्णमंदिर, अमृतसर", "is_correct": true },
+        { "option_id": 3, "text": "नक्षलबारी", "is_correct": false },
+        { "option_id": 4, "text": "गुवाहाटी", "is_correct": false }
+      ],
+      "answer": "सुवर्णमंदिर, अमृतसर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "विशिष्ट उद्दिष्ट ठेवून केलेल्या लष्करी कारवाईला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "रणनिती", "is_correct": false },
+        { "option_id": 2, "text": "ऑपरेशन", "is_correct": true },
+        { "option_id": 3, "text": "करार", "is_correct": false },
+        { "option_id": 4, "text": "ठराव", "is_correct": false }
+      ],
+      "answer": "ऑपरेशन"
+    },
+
+    { "question_id": 6, "question_type": "MCQ", "question": "ऑपरेशन ब्लॅक थंडर कोणत्या वर्षी झाले?", "options": [ { "option_id": 1, "text": "१९८४", "is_correct": false }, { "option_id": 2, "text": "१९८५", "is_correct": false }, { "option_id": 3, "text": "१९८६", "is_correct": true }, { "option_id": 4, "text": "१९८७", "is_correct": false } ], "answer": "१९८६" },
+
+    { "question_id": 7, "question_type": "MCQ", "question": "ईशान्य भारतातील राज्यांचा समूह किती आहे?", "options": [ { "option_id": 1, "text": "पाच", "is_correct": false }, { "option_id": 2, "text": "सात", "is_correct": false }, { "option_id": 3, "text": "आठ", "is_correct": true }, { "option_id": 4, "text": "नऊ", "is_correct": false } ], "answer": "आठ" },
+
+    { "question_id": 8, "question_type": "MCQ", "question": "नक्षलवादी चळवळ प्रथम कोणत्या ठिकाणी सुरू झाली?", "options": [ { "option_id": 1, "text": "मुंबई", "is_correct": false }, { "option_id": 2, "text": "पुणे", "is_correct": false }, { "option_id": 3, "text": "नक्षलबारी", "is_correct": true }, { "option_id": 4, "text": "दिल्ली", "is_correct": false } ], "answer": "नक्षलबारी" },
+
+    { "question_id": 9, "question_type": "MCQ", "question": "धर्माचा संकुचित अभिमान वाढल्यास काय निर्माण होते?", "options": [ { "option_id": 1, "text": "जागतिकीकरण", "is_correct": false }, { "option_id": 2, "text": "प्रदेशवाद", "is_correct": false }, { "option_id": 3, "text": "जमातवाद", "is_correct": true }, { "option_id": 4, "text": "औद्योगिकरण", "is_correct": false } ], "answer": "जमातवाद" },
+
+    { "question_id": 10, "question_type": "MCQ", "question": "भारतातील अंतर्गत सुरक्षा कोणत्या चळवळीमुळे धोक्यात आली?", "options": [ { "option_id": 1, "text": "हरितक्रांती", "is_correct": false }, { "option_id": 2, "text": "नक्षलवाद", "is_correct": true }, { "option_id": 3, "text": "उदारीकरण", "is_correct": false }, { "option_id": 4, "text": "संविधान निर्मिती", "is_correct": false } ], "answer": "नक्षलवाद" },
+
+    { "question_id": 11, "question_type": "MCQ", "question": "१९७१ साली ईशान्य भारताच्या विकासासाठी कोणता कायदा झाला?", "options": [ { "option_id": 1, "text": "ईशान्यीय परिषद कायदा", "is_correct": true }, { "option_id": 2, "text": "आसाम करार", "is_correct": false }, { "option_id": 3, "text": "ब्लू स्टार", "is_correct": false }, { "option_id": 4, "text": "ब्लॅक थंडर", "is_correct": false } ], "answer": "ईशान्यीय परिषद कायदा" },
+
+    { "question_id": 12, "question_type": "MCQ", "question": "जमातवादावर नियंत्रण मिळवण्यासाठी कोणत्या गोष्टी आवश्यक आहेत?", "options": [ { "option_id": 1, "text": "सामाजिक एकता", "is_correct": true }, { "option_id": 2, "text": "युद्ध", "is_correct": false }, { "option_id": 3, "text": "लष्करी राजवट", "is_correct": false }, { "option_id": 4, "text": "प्रदेशवाद", "is_correct": false } ], "answer": "सामाजिक एकता" },
+
+    { "question_id": 13, "question_type": "MCQ", "question": "भारतापुढील अंतर्गत आव्हाने कोणत्या क्षेत्राशी संबंधित आहेत?", "options": [ { "option_id": 1, "text": "देशांतर्गत समस्या", "is_correct": true }, { "option_id": 2, "text": "परदेशी व्यापार", "is_correct": false }, { "option_id": 3, "text": "अवकाश संशोधन", "is_correct": false }, { "option_id": 4, "text": "नैसर्गिक आपत्ती", "is_correct": false } ], "answer": "देशांतर्गत समस्या" },
+
+    { "question_id": 14, "question_type": "MCQ", "question": "अंतर्गत आव्हाने कमी करण्यासाठी कोणती गोष्ट आवश्यक नाही?", "options": [ { "option_id": 1, "text": "लोकशाही मूल्ये", "is_correct": false }, { "option_id": 2, "text": "कायद्याचे राज्य", "is_correct": false }, { "option_id": 3, "text": "सांस्कृतिक एकात्मता", "is_correct": false }, { "option_id": 4, "text": "हिंसक चळवळी", "is_correct": true } ], "answer": "हिंसक चळवळी" },
+
+    { "question_id": 15, "question_type": "MCQ", "question": "१९८५ मध्ये आसाममध्ये शांतता कोणत्या करारामुळे प्रस्थापित झाली?", "options": [ { "option_id": 1, "text": "आसाम करार", "is_correct": true }, { "option_id": 2, "text": "मिझोरम करार", "is_correct": false }, { "option_id": 3, "text": "नागा करार", "is_correct": false }, { "option_id": 4, "text": "नेफा करार", "is_correct": false } ], "answer": "आसाम करार" },
+
+    { "question_id": 16, "question_type": "MCQ", "question": "स्वर्णमंदिरातील लष्करी कारवाईने कोणती चळवळ कमकुवत झाली?", "options": [ { "option_id": 1, "text": "खलिस्तान चळवळ", "is_correct": true }, { "option_id": 2, "text": "नक्षलवाद", "is_correct": false }, { "option_id": 3, "text": "प्रदेशवाद", "is_correct": false }, { "option_id": 4, "text": "औद्योगिकरण", "is_correct": false } ], "answer": "खलिस्तान चळवळ" },
+
+    { "question_id": 17, "question_type": "MCQ", "question": "MNF संघटना कोणत्या राज्याशी संबंधित होती?", "options": [ { "option_id": 1, "text": "आसाम", "is_correct": false }, { "option_id": 2, "text": "नागालँड", "is_correct": false }, { "option_id": 3, "text": "मिझोरम", "is_correct": true }, { "option_id": 4, "text": "पंजाब", "is_correct": false } ], "answer": "मिझोरम" },
+
+    { "question_id": 18, "question_type": "MCQ", "question": "ऑपरेशन ब्लॅक थंडर ही कारवाई कोणत्या स्थळी झाली?", "options": [ { "option_id": 1, "text": "सुवर्णमंदिर, अमृतसर", "is_correct": true }, { "option_id": 2, "text": "नक्षलबारी", "is_correct": false }, { "option_id": 3, "text": "दिल्ली", "is_correct": false }, { "option_id": 4, "text": "चंदीगढ", "is_correct": false } ], "answer": "सुवर्णमंदिर, अमृतसर" },
+
+    { "question_id": 19, "question_type": "MCQ", "question": "१९६३ मध्ये कोणते ईशान्य भारतातील राज्य अस्तित्वात आले?", "options": [ { "option_id": 1, "text": "नागालँड", "is_correct": true }, { "option_id": 2, "text": "मिझोरम", "is_correct": false }, { "option_id": 3, "text": "आसाम", "is_correct": false }, { "option_id": 4, "text": "त्रिपुरा", "is_correct": false } ], "answer": "नागालँड" },
+
+    { "question_id": 20, "question_type": "MCQ", "question": "जमातवाद आणि दहशतवाद रोखण्यासाठी कोणती मूल्ये महत्त्वाची आहेत?", "options": [ { "option_id": 1, "text": "राष्ट्रीय एकता", "is_correct": true }, { "option_id": 2, "text": "हिंसा", "is_correct": false }, { "option_id": 3, "text": "प्रदेशवाद", "is_correct": false }, { "option_id": 4, "text": "बंडखोरी", "is_correct": false } ], "answer": "राष्ट्रीय एकता" },
+
+    { "question_id": 21, "question_type": "SHORT", "question": "अंतर्गत आव्हाने म्हणजे काय?", "answer": "अंतर्गत आव्हाने म्हणजे देशाच्या एकात्मता व सुरक्षिततेसमोरील समस्या." },
+
+    { "question_id": 22, "question_type": "SHORT", "question": "१९८० च्या दशकात पंजाबमध्ये कोणती चळवळ सुरू होती?", "answer": "१९८० च्या दशकात पंजाबमध्ये खलिस्तानवादी चळवळ सुरू होती." },
+
+    { "question_id": 23, "question_type": "SHORT", "question": "नक्षलवाद म्हणजे काय?", "answer": "नक्षलवाद ही देशातील कायदा व सुव्यवस्थेला धोक्यात आणणारी हिंसक चळवळ आहे." },
+
+    { "question_id": 24, "question_type": "SHORT", "question": "ऑपरेशन ब्लू स्टार म्हणजे काय?", "answer": "ऑपरेशन ब्लू स्टार ही सुवर्णमंदिरातील दहशतवादी चळवळ रोखण्यासाठी केलेली लष्करी कारवाई होती." },
+
+    { "question_id": 25, "question_type": "SHORT", "question": "आसाम करार केव्हा झाला?", "answer": "आसाम करार १९८५ साली झाला." },
+
+    { "question_id": 26, "question_type": "SHORT", "question": "मौखिक साधने कोणती?", "answer": "लोककथा, लोकगीते, म्हणी आणि ओव्या ही मौखिक साधने आहेत." },
+
+    { "question_id": 27, "question_type": "SHORT", "question": "जमातवाद का निर्माण होतो?", "answer": "धर्माचा संकुचित अभिमान वाढल्याने जमातवाद निर्माण होतो." },
+
+    { "question_id": 28, "question_type": "SHORT", "question": "ईशान्यीय परिषद कायदा केव्हा झाला?", "answer": "ईशान्यीय परिषद कायदा १९७१ साली झाला." },
+
+    { "question_id": 29, "question_type": "SHORT", "question": "PLGA संघटना कोणत्या राज्यात कार्यरत होती?", "answer": "PLGA संघटना आसाम राज्यात कार्यरत होती." },
+
+    { "question_id": 30, "question_type": "SHORT", "question": "भौतिक साधनांचे महत्त्व काय?", "answer": "भौतिक साधने प्रत्यक्ष वस्तूंच्या माध्यमातून इतिहास समजण्यास मदत करतात." },
+
+    { "question_id": 31, "question_type": "LONG", "question": "भारतापुढील अंतर्गत आव्हाने कशी निर्माण झाली ते स्पष्ट करा.", "answer": "स्वातंत्र्यानंतर भारताने लोकशाही व्यवस्था स्वीकारली. तरीही विविध प्रादेशिक, सामाजिक व राजकीय समस्या पुढे आल्या. पंजाबमधील खलिस्तानवादी चळवळ हे त्याचे प्रमुख उदाहरण होते. काही भागांत जमातवाद वाढला. ग्रामीण क्षेत्रात नक्षलवादी चळवळ निर्माण झाली. या चळवळींनी आंतरिक सुरक्षा धोक्यात आली. सरकारने करार आणि लष्करी कारवाईने परिस्थिती नियंत्रणात आणण्याचा प्रयत्न केला. म्हणूनच अंतर्गत आव्हाने हा आधुनिक भारतासाठी गंभीर प्रश्न ठरला." },
+
+    { "question_id": 32, "question_type": "LONG", "question": "दहशतवाद आणि जमातवाद यांवर नियंत्रण मिळवण्यासाठी काय करावे लागते?", "answer": "दहशतवाद आणि जमातवाद ही भारतासमोरील प्रमुख अंतर्गत आव्हाने आहेत. त्यांवर नियंत्रण मिळवण्यासाठी राष्ट्रीय एकता महत्त्वाची असते. कायद्याचे राज्य दृढ करावे लागते. सामाजिक सलोखा वाढवावा लागतो. लोकशाही मूल्यांचा आदर करणे आवश्यक आहे. हिंसक चळवळी रोखाव्या लागतात. जनजातींना मुख्य प्रवाहात आणावे लागते. अशा प्रयत्नांनीच अंतर्गत सुरक्षा मजबूत होते." },
+
+    { "question_id": 33, "question_type": "LONG", "question": "ईशान्य भारतातील आव्हाने आणि त्यावरील उपाय लिहा.", "answer": "ईशान्य भारतात स्वातंत्र्यानंतर अनेक प्रादेशिक समस्या निर्माण झाल्या. नागा आणि मिझो युवक संघटनांनी स्वतंत्र अस्तित्वाची मागणी केली. या भागातील लोकांचे प्रश्न विकासाशी संबंधित होते. पं. नेहरू यांनी त्यांना मुख्य प्रवाहात जोडण्याचे प्रयत्न केले. १९६३ मध्ये नागालँड राज्य अस्तित्वात आले. १९८५ मध्ये आसाम करारामुळे शांतता प्रस्थापित झाली. सरकारने विविध करारांद्वारे असंतोष कमी करण्याचा प्रयत्न केला. त्यामुळे ईशान्य भारतातील परिस्थिती हळूहळू नियंत्रणात आली." },
+
+    { "question_id": 34, "question_type": "LONG", "question": "नक्षलवादी चळवळ का सुरू झाली ते स्पष्ट करा.", "answer": "पश्चिम बंगालमधील नक्षलबारी येथे नक्षलवादी चळवळ सुरू झाली. ग्रामीण भागातील गरिबी आणि अन्याय हे या चळवळीचे प्रमुख कारण होते. युवकांमध्ये असंतोष वाढत गेला. त्यांनी सरकारविरुद्ध हिंसक मार्ग स्वीकारला. ही चळवळ देशातील इतर राज्यांतही पसरली. त्यामुळे आंतरिक सुरक्षा धोक्यात आली. सरकारने कायद्याचे राज्य प्रस्थापित करण्याचे प्रयत्न केले. तरीही नक्षलवाद हे आधुनिक भारतासाठी गंभीर आव्हान ठरले." },
+
+    { "question_id": 35, "question_type": "LONG", "question": "जमातवादाचा देशाच्या एकात्मतेवर कसा परिणाम होतो ते लिहा.", "answer": "जमातवाद ही भारतासमोरील प्रमुख अंतर्गत समस्या आहे. धर्माचा संकुचित अभिमान वाढल्याने समाजात फूट पडते. विविध जमाती एकमेकांविरुद्ध उभ्या राहतात. यामुळे सामाजिक सलोखा बिघडतो. काही वेळा हिंसक घटना घडतात. देशाची एकात्मता धोक्यात येते. लोकशाही व्यवस्था कमकुवत होते. म्हणून जमातवाद रोखणे हे सरकारचे महत्त्वाचे कर्तव्य ठरते. राष्ट्रीय एकता वाढवूनच या समस्येवर उपाय मिळतो." }
+  ]
+}

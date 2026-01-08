@@ -1,0 +1,1861 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Semi-English.05",
+    "standard": "9",
+    "subject": "Civics",
+    "medium": "Semi-English",
+    "chapter_name": "भारत व शेजारी राष्ट्रे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आशिया खंडात भारताचे स्थान कसे मानले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमहत्त्वाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "महत्त्वाचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुय्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "महत्त्वाचे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारताच्या शेजारी राष्ट्रांमध्ये कोणत्या देशाचा समावेश होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जपान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नेपाळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऑस्ट्रेलिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जर्मनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नेपाळ"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दक्षिण आशियातील सर्वांत मोठा देश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्रीलंका",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बांगलादेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भारत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मालदीव",
+          "is_correct": false
+        }
+      ],
+      "answer": "भारत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भारताच्या पूर्वेला असणारे प्रवेशद्वार कोणते राष्ट्र आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "म्यानमार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पाकिस्तान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नेपाळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "म्यानमार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भारताच्या दक्षिणेला सागरी सीमांचे रक्षण कोण करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भूदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायुदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नौदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पोलीस",
+          "is_correct": false
+        }
+      ],
+      "answer": "नौदल"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भारताने शीतयुद्धकालीन संघटनांना कशाप्रकारे विरोध केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सक्रिय पाठिंबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लष्करी सहभाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विरोध",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अलिप्तता",
+          "is_correct": false
+        }
+      ],
+      "answer": "विरोध"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भारत-पाकिस्तान संघर्ष सोडवण्याचा प्रयत्न कोणत्या कराराने केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताश्कंद करार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सिमला करार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अटलांटिक चार्टर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सार्क करार",
+          "is_correct": false
+        }
+      ],
+      "answer": "सिमला करार"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "१९४७ मध्ये भारताची फाळणी होऊन कोणता देश निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रशिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पाकिस्तान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भूटान",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाकिस्तान"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "काश्मीर प्रश्नामुळे पहिले भारत-पाकिस्तान युद्ध कधी झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९६२",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१९६५",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "१९७१",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९९९",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९६५"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भारत-पाकिस्तान संबंधांवर किती प्रमुख समस्यांचा प्रभाव आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भारताने १९७२ साली कोणत्या तत्त्वावर आधारित करार केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दहशतवाद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्‌विपक्षीय तत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वर्चस्ववाद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अलिप्ततावाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्‌विपक्षीय तत्त्व"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "१९९९ मध्ये कोणत्या क्षेत्रातील घुसखोरीमुळे भारत-पाकिस्तान संघर्ष निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तिबेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कारगिल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सर क्रीक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताश्कंद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कारगिल"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भारत आणि चीन यांच्यातील प्रमुख सीमावाद कोणत्या प्रदेशाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अक्साई चीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दिल्ली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूटान सीमा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अक्साई चीन"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मॅकमोहन रेषा ही आंतरराष्ट्रीय सीमारेषा आहे हे चीन कसे मानतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मान्य करतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मान्य करत नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पूर्ण पाठिंबा देतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ राहतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "मान्य करत नाही"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "भारत-चीन संघर्षात तिबेटचा दर्जा कोणत्या गोष्टीमुळे महत्त्वाचा ठरतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दलाई लामांचा भारतातील राजाश्रय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सार्क",
+          "is_correct": false
+        }
+      ],
+      "answer": "दलाई लामांचा भारतातील राजाश्रय"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सीमा सुरक्षा दलाचे वय मर्यादा किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१८ ते २५",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२० ते ३५",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "३० ते ४०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१५ ते २०",
+          "is_correct": false
+        }
+      ],
+      "answer": "२० ते ३५"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "तालिबान वर्चस्वामुळे कोणत्या देशात राजकीय अस्थिरता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अफगाणिस्तान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नेपाळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भूटान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मालदीव",
+          "is_correct": false
+        }
+      ],
+      "answer": "अफगाणिस्तान"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भारताने अफगाणिस्तानला कोणत्या क्षेत्रांत मदत दिली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रस्ते, शाळा, आरोग्य, सिंचन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ अणुतंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यटन निर्बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "रस्ते, शाळा, आरोग्य, सिंचन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भारत-पाकिस्तान यांच्यातील सागरी सीमावाद कोणत्या क्षेत्राशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर क्रीक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कारगिल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अक्साई चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिबेट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर क्रीक"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "१९९८ साली भारत आणि पाकिस्तानने काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणुचाचण्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सार्क सोडले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नाटोमध्ये प्रवेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताश्कंद करार",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणुचाचण्या"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भारताच्या दक्षिणेला असणारे छोटे राष्ट्र कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मालदीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नेपाळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भूटान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "म्यानमार",
+          "is_correct": false
+        }
+      ],
+      "answer": "मालदीव"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भारत आणि मालदीव यांच्यातील संबंध कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तणावपूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरुवातीपासून मैत्रीपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अलिप्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्षपूर्ण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरुवातीपासून मैत्रीपूर्ण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "भारताने २०१५ मध्ये नेपाळला कोणत्या प्रसंगी मदत केली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कारगिल संघर्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूकंप",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निवडणुका",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अणुकरार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भूकंप"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "भारत-नेपाळ मैत्री करार कोणत्या वर्षी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९५०",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१९७१",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९८५",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९९९",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९५०"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "नेपाळमधील नागरिकांना भारतात कोणत्या संधी उपलब्ध आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरकारी नोकरी व उद्योग",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ लष्करी सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतीही संधी नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरकारी नोकरी व उद्योग"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भूटानच्या संरक्षणाची जबाबदारी कोणावर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भारत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नेपाळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बांगलादेश",
+          "is_correct": false
+        }
+      ],
+      "answer": "भारत"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भूटानमध्ये कोणत्या स्रोताचा मोठा साठा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खनिज तेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नैसर्गिक वायू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युरेनियम",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सार्क संघटना कोणत्या क्षेत्राशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युरोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दक्षिण आशिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पश्चिम आशिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आफ्रिका",
+          "is_correct": false
+        }
+      ],
+      "answer": "दक्षिण आशिया"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सार्क संघटना कोणत्या वर्षी स्थापन झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९८५",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१९९१",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९७२",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९९९",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९८५"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सार्कचे एकूण किती सदस्य देश आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आठ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सहा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पाच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पंधरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आठ"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ताश्कंद करार कोणत्या देशांमध्ये झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारत व चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भारत व पाकिस्तान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भारत व अमेरिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नेपाळ व भूटान",
+          "is_correct": false
+        }
+      ],
+      "answer": "भारत व पाकिस्तान"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भारताचे पश्चिम आशियाई राष्ट्रांशी संबंध कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पारंपरिक व मैत्रीपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तणावपूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अलिप्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघटनात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "पारंपरिक व मैत्रीपूर्ण"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "भारत खनिज तेलासाठी कोणत्या खंडावर अवलंबून आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आफ्रिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिम आशिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "युरोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अमेरिका",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम आशिया"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "भारताला शेतीसाठी आधुनिक तंत्रज्ञान कोणत्या देशाकडून मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इराण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इस्राएल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पाकिस्तान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नेपाळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "इस्राएल"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारत-अाफ्रिका शिखर परिषद कोणत्या वर्षी झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२०१५",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१९९१",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९८५",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२००५",
+          "is_correct": false
+        }
+      ],
+      "answer": "२०१५"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कृती करा हे धोरण कोणत्या दिशेशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्वेकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिमेकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर दिशेला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण दिशेला",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्वेकडे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "इंडो-पॅसिफिक क्षेत्रात कोणत्या देशांचा समावेश होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाकिस्तान व चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जपान व ऑस्ट्रेलिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रशिया",
+          "is_correct": false
+        }
+      ],
+      "answer": "जपान व ऑस्ट्रेलिया"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "सागरी क्षेत्र विकासासाठी भारताला कोणत्या देशाने मदत मान्य केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रशिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जपान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अमेरिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नेपाळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "जपान"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "भारत आणि युरोपीय राष्ट्रांमध्ये कोणते संबंध प्रामुख्याने आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लष्करी संघर्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यापारी संबंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अलिप्तता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेही संबंध नाहीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यापारी संबंध"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "भारताच्या विकासासाठी युरोपीय राष्ट्रांचे सहकार्य कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमहत्त्वाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अत्यंत महत्त्वाचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त सांस्कृतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मर्यादित",
+          "is_correct": false
+        }
+      ],
+      "answer": "अत्यंत महत्त्वाचे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "भारताने अण्वस्त्रांचा जबाबदारीने वापर करेल असा विश्वास अमेरिकेला कधी वाटला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९९८ नंतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१९६२ नंतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९७१ नंतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९८५ नंतर",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९९८ नंतर"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "सिमला करार कोणत्या तत्त्वावर आधारित होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी सुरक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्‌विपक्षीय चर्चा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अणुकरार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वर्चस्ववाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्‌विपक्षीय चर्चा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "भारताने कोणत्या देशाशी मुक्त व्यापारावर भर दिला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमेरिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाकिस्तान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नेपाळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "श्रीलंका",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमेरिका"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वारसा जतनासाठी भारत कोणत्या संघटनेशी करार करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "UNICEF",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "UNESCO",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "SAARC",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "NATO",
+          "is_correct": false
+        }
+      ],
+      "answer": "UNESCO"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "भारताला सायबर सुरक्षा संदर्भात कोणत्या देशांशी सहकार्य करावे लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त नेपाळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अमेरिका व युरोप",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ पाकिस्तान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमेरिका व युरोप"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "भारताच्या पूर्वेकडे पहा धोरणाचा बदल कोणत्या वर्षी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९९१",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२०१४",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "१९७२",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२००५",
+          "is_correct": false
+        }
+      ],
+      "answer": "२०१४"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पश्चिम आशियाकडून भारत प्रामुख्याने कोणत्या गोष्टींची आयात करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खनिज तेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धान्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तंत्रज्ञान निर्बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "खनिज तेल"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "१९७२ मधील सिमला कराराने काय घडले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संघर्ष संपला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवा आराखडा तयार झाला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अणुकरार झाला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेही परिवर्तन नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवा आराखडा तयार झाला"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "भारत आणि रशिया यांच्यातील संबंध कोणत्या काळात दृढ झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९९१ नंतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शीतयुद्ध काळात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२००५ नंतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९६५ नंतर",
+          "is_correct": false
+        }
+      ],
+      "answer": "शीतयुद्ध काळात"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणाचा प्रमुख उद्देश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संघर्ष वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्व राष्ट्रांशी मैत्रीपूर्ण संबंध राखणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लष्करी संघटनात प्रवेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निर्बंध लादणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व राष्ट्रांशी मैत्रीपूर्ण संबंध राखणे"
+    },
+    {
+      "question_id": 1,
+      "question_type": "SHORT",
+      "question": "परराष्ट्र धोरण म्हणजे काय?",
+      "answer": "परराष्ट्र धोरण म्हणजे स्वतंत्र राष्ट्राने इतर देशांशी संबंध ठेवण्यासाठी ठरवलेली दिशा व रणनीती होय."
+    },
+    {
+      "question_id": 2,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणावर कोणत्या घटकांचा प्रभाव असतो?",
+      "answer": "भारताच्या परराष्ट्र धोरणावर भौगोलिकता, इतिहास आणि राष्ट्रीय हितसंबंध यांचा प्रभाव असतो."
+    },
+    {
+      "question_id": 3,
+      "question_type": "SHORT",
+      "question": "भारताचे स्थान आशिया खंडात कसे आहे?",
+      "answer": "भारताचे स्थान आशिया खंडात अत्यंत महत्त्वाचे व मध्यवर्ती आहे."
+    },
+    {
+      "question_id": 4,
+      "question_type": "SHORT",
+      "question": "भारताच्या पूर्वेला कोणते राष्ट्र आहे?",
+      "answer": "भारताच्या पूर्वेला म्यानमार हे राष्ट्र आहे."
+    },
+    {
+      "question_id": 5,
+      "question_type": "SHORT",
+      "question": "भारताचे CTBT बाबत मत काय होते?",
+      "answer": "भारताने CTBT करारातील भेदभावपूर्ण अटींमुळे या करारावर सही करण्यास नकार दिला."
+    },
+    {
+      "question_id": 6,
+      "question_type": "SHORT",
+      "question": "भारताने NPT करारावर सही का केली नाही?",
+      "answer": "NPT करारातील अन्यायकारक व भेदभावपूर्ण अटींमुळे भारताने या करारावर सही केली नाही."
+    },
+    {
+      "question_id": 7,
+      "question_type": "SHORT",
+      "question": "भारताचे पाकिस्तानशी संबंध कसे आहेत?",
+      "answer": "भारताचे पाकिस्तानशी संबंध सुरुवातीपासून तणावपूर्ण व संघर्षपूर्ण राहिले आहेत."
+    },
+    {
+      "question_id": 8,
+      "question_type": "SHORT",
+      "question": "भारत-नेपाळ मैत्री करार कधी झाला?",
+      "answer": "भारत-नेपाळ मैत्री करार १९५० साली झाला."
+    },
+    {
+      "question_id": 9,
+      "question_type": "SHORT",
+      "question": "नेपाळमधील नागरिकांना भारतात कोणत्या संधी उपलब्ध आहेत?",
+      "answer": "नेपाळमधील नागरिकांना भारतात सरकारी नोकरी व उद्योग व्यवसायाच्या संधी उपलब्ध आहेत."
+    },
+    {
+      "question_id": 10,
+      "question_type": "SHORT",
+      "question": "भूटान कोणत्या बाबतीत भारतावर अवलंबून आहे?",
+      "answer": "भूटान आपल्या संरक्षण आणि परराष्ट्र धोरणाबाबत भारतावर अवलंबून आहे."
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "भारत-चीन सीमावाद कोणत्या प्रदेशाशी संबंधित आहे?",
+      "answer": "भारत-चीन सीमावाद प्रामुख्याने अक्साई चीन आणि मॅकमोहन रेषेशी संबंधित आहे."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "मॅकमोहन रेषा चीन का मान्य करत नाही?",
+      "answer": "मॅकमोहन रेषा ही आंतरराष्ट्रीय सीमा आहे हे चीन मान्य करत नाही."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "भारत-मालदीव संबंध कसे आहेत?",
+      "answer": "भारत-मालदीव संबंध सुरुवातीपासून मैत्रीपूर्ण व सहकार्याचे राहिले आहेत."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "मालदीवमध्ये राजकीय अस्थिरता निर्माण झाल्यास भारत काय करतो?",
+      "answer": "मालदीवमध्ये राजकीय अस्थिरता निर्माण झाल्यास भारत त्या देशास तातडीने मदत करतो."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "श्रीलंका कोणत्या कारणामुळे भारतासाठी महत्त्वाचा देश आहे?",
+      "answer": "भारत-श्रीलंका दरम्यान असणाऱ्या पारंपरिक व्यापारी संबंधांमुळे श्रीलंका भारतासाठी महत्त्वाचा देश आहे."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "भारत खनिज तेलासाठी कोणत्या क्षेत्रावर अवलंबून आहे?",
+      "answer": "भारत खनिज तेलासाठी प्रामुख्याने पश्चिम आशियावर अवलंबून आहे."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "भारताला आधुनिक कृषी तंत्रज्ञान कोणत्या देशाकडून मिळते?",
+      "answer": "भारताला आधुनिक कृषी तंत्रज्ञान इस्राएलकडून मिळते."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "सार्क संघटना कोणत्या देशांची बनलेली आहे?",
+      "answer": "सार्क संघटना दक्षिण आशियातील सार्वभौम राष्ट्रांची बनलेली आहे."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "सार्कचे मुख्य उद्देश कोणते आहेत?",
+      "answer": "सार्कचे मुख्य उद्देश आर्थिक, सामाजिक आणि सांस्कृतिक सहकार्य वाढवणे हे आहेत."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "भारत-अफगाणिस्तान संबंधात कोणते क्षेत्र महत्त्वाचे आहे?",
+      "answer": "भारत-अफगाणिस्तान संबंधात रस्ते, शाळा, आरोग्य व सिंचन प्रकल्प ही क्षेत्रे महत्त्वाची आहेत."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "भारत-रशिया संबंध कोणत्या काळात दृढ झाले?",
+      "answer": "भारत-रशिया संबंध शीतयुद्ध काळात अधिक दृढ झाले."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "लोकशाहीत कोणते नेतृत्व श्रेष्ठ मानले जाते?",
+      "answer": "लोकशाहीत नागरी नेतृत्व श्रेष्ठ मानले जाते."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "अण्वस्त्र कपात का आवश्यक मानली जाते?",
+      "answer": "शस्त्रस्पर्धेमुळे असुरक्षिततेची भावना वाढत असल्याने अण्वस्त्र कपात आवश्यक मानली जाते."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "परस्परावलंबन वाढल्याने शांतता का निर्माण होते?",
+      "answer": "परस्परावलंबन वाढल्याने राष्ट्रांमधील संवाद आणि विश्वास वाढतो म्हणून शांतता निर्माण होते."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "भारताचे अमेरिका सोबतचे संबंध कसे आहेत?",
+      "answer": "१९९८ नंतर भारताचे अमेरिका सोबतचे संबंध अधिक सुधारले आहेत."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "संयुक्त राष्ट्र संघटनेची स्थापना कधी झाली?",
+      "answer": "संयुक्त राष्ट्र संघटनेची स्थापना २४ ऑक्टोबर १९४५ रोजी झाली."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "भारताने वर्णद्वेषाविरुद्ध आवाज कधी उठवला?",
+      "answer": "भारताने १९४६ मध्ये वर्णद्वेषाविरुद्ध आंतरराष्ट्रीय व्यासपीठावर आवाज उठवला."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "विकास प्रकल्पात UN ची मदत का महत्त्वाची आहे?",
+      "answer": "विकास प्रकल्पात UN ची मदत आर्थिक आणि तांत्रिक सहकार्यासाठी महत्त्वाची आहे."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "भारत-पाकिस्तान दरम्यान पहिला करार कोणता होता?",
+      "answer": "भारत-पाकिस्तान दरम्यान ताश्कंद करार हा पहिला महत्त्वाचा करार होता."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "कारगिल संघर्ष कधी झाला?",
+      "answer": "कारगिल संघर्ष १९९९ साली झाला."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "भारत-नेपाळ सीमावाद कसा सोडवला जातो?",
+      "answer": "भारत-नेपाळ सीमावाद द्विपक्षीय चर्चा आणि तडजोड यांच्या माध्यमातून सोडवला जातो."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "भारताचे मालदीवमध्ये कोणते प्रशिक्षण शिबिर आयोजित होते?",
+      "answer": "भारताच्या मदतीने मालदीवमध्ये सुरक्षा आणि आपत्ती व्यवस्थापन प्रशिक्षण शिबिर आयोजित होतात."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "भारतासाठी इंडो-पॅसिफिक क्षेत्र का महत्त्वाचे आहे?",
+      "answer": "भारतासाठी इंडो-पॅसिफिक क्षेत्र सागरी व्यापार मार्गांमुळे महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "संयुक्त राष्ट्र संघटनेचे किती प्रमुख अंग आहेत?",
+      "answer": "संयुक्त राष्ट्र संघटनेचे सहा प्रमुख अंग आहेत."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "सुरक्षा परिषदेत एकूण किती सदस्य असतात?",
+      "answer": "सुरक्षा परिषदेत एकूण १५ सदस्य असतात."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "वेटो सत्ता म्हणजे काय?",
+      "answer": "वेटो सत्ता म्हणजे कायम सदस्यांना एखादा ठराव रोखण्याचा विशेष अधिकार होय."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "अफगाणिस्तानला भारताने कोणत्या प्रकारची मदत दिली?",
+      "answer": "अफगाणिस्तानला भारताने पायाभूत सुविधा आणि मानवी सुरक्षा क्षेत्रात मदत दिली."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "श्रीलंकेत भारतीय नागरिकांना कसे सहकार्य मिळते?",
+      "answer": "श्रीलंकेत भारतीय नागरिकांना पारंपरिक व्यापारी आणि सांस्कृतिक सहकार्य मिळते."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "BRICS मध्ये किती देशांचा समावेश आहे?",
+      "answer": "BRICS मध्ये पाच देशांचा समावेश आहे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "भारत CTBT आणि NPT करारांना कसा मानतो?",
+      "answer": "भारत CTBT आणि NPT करारांना भेदभावपूर्ण करार मानतो."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "भारत-भूटान संबंधात पाणीस्रोतांचे महत्त्व काय?",
+      "answer": "भारत-भूटान संबंधात जलविद्युत निर्मितीसाठी पाणीस्रोतांचे महत्त्व आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "संयुक्त राष्ट्र संघटनेचे सचिवालय काय काम करते?",
+      "answer": "संयुक्त राष्ट्र संघटनेचे सचिवालय प्रशासकीय कामे करते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "भारत-चीन संबंधांत तणावाचे मुख्य कारण काय?",
+      "answer": "भारत-चीन संबंधांत तणावाचे मुख्य कारण सीमावाद आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षा कशासाठी केंद्रस्थानी ठेवली जाते?",
+      "answer": "राष्ट्रीय सुरक्षा ही अंतिमतः माणसांसाठी असल्याने मानवी सुरक्षा केंद्रस्थानी ठेवली जाते."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "भारताने सार्कमध्ये कोणत्या तत्त्वाला प्राधान्य दिले?",
+      "answer": "भारताने सार्कमध्ये शांतता आणि सहकार्य या तत्त्वाला प्राधान्य दिले."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "भारत-अमेरिका अणुकरार का महत्त्वाचा आहे?",
+      "answer": "भारत-अमेरिका अणुकरार तांत्रिक व ऊर्जा सुरक्षेसाठी महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "भारत-मालदीव संबंधात कोणते सहकार्य असते?",
+      "answer": "भारत-मालदीव संबंधात आर्थिक आणि आपत्ती व्यवस्थापन सहकार्य असते."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "भारत-नेपाळ संबंधात कोणते घटक महत्त्वाचे आहेत?",
+      "answer": "भारत-नेपाळ संबंधात ऐतिहासिक आणि भौगोलिक घटक महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "भारताला सागरी सुरक्षा कशासाठी आवश्यक आहे?",
+      "answer": "भारताला सागरी व्यापार आणि किनारपट्टी रक्षणासाठी सागरी सुरक्षा आवश्यक आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "भारत-पाकिस्तान दरम्यान १९७१ नंतर कोणता करार झाला?",
+      "answer": "१९७१ नंतर भारत-पाकिस्तान दरम्यान सिमला करार झाला."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर कोणत्या देशांशी भारताचे संबंध सुधारले?",
+      "answer": "शीतयुद्धानंतर अमेरिका व युरोपीय देशांशी भारताचे संबंध सुधारले."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भारताला आंतरराष्ट्रीय करारांबाबत कोणते तत्त्व महत्त्वाचे वाटते?",
+      "answer": "भारताला राष्ट्रीय हितसंबंध जपण्याचे तत्त्व महत्त्वाचे वाटते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "संरक्षण दलांचे आधुनिकीकरण का आवश्यक आहे?",
+      "answer": "धोक्यांचा सामना करण्यासाठी संरक्षण दलांचे आधुनिकीकरण आवश्यक आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भारत-चीन युद्ध कधी झाले?",
+      "answer": "भारत-चीन युद्ध १९६२ साली झाले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "भारतासाठी नेपाळचे राजकीय स्थैर्य का महत्त्वाचे आहे?",
+      "answer": "नेपाळचे राजकीय स्थैर्य सीमावर्ती सुरक्षेसाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "भारत-भूटान दरम्यान कोणते सहकार्य प्रामुख्याने असते?",
+      "answer": "भारत-भूटान दरम्यान आर्थिक आणि जलविद्युत सहकार्य प्रामुख्याने असते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "संयुक्त राष्ट्र संघटनेत प्रत्येक देशास किती मते असतात?",
+      "answer": "संयुक्त राष्ट्र संघटनेत प्रत्येक देशास एक मत असते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "भारत कोणत्या प्रकारचे परराष्ट्र धोरण स्वीकारतो?",
+      "answer": "भारत शांततापूर्ण व अलिप्ततावादी परराष्ट्र धोरण स्वीकारतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "भारतासाठी पश्चिम आशियाचे आर्थिक महत्त्व काय?",
+      "answer": "पश्चिम आशिया भारतासाठी तेल आयात आणि व्यापारासाठी महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "अफगाणिस्तानात शाळा पुन्हा सुरू करण्यास कोणती संघटना मदत करते?",
+      "answer": "अफगाणिस्तानात शाळा पुन्हा सुरू करण्यास संयुक्त राष्ट्र संघटना मदत करते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भारतासाठी अफगाणिस्तानचे स्थैर्य का आवश्यक आहे?",
+      "answer": "अफगाणिस्तानचे स्थैर्य भारताच्या पूर्व सीमावर्ती सुरक्षेसाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भारताने कोणत्या करारांना भेदभावपूर्ण मानले आहे?",
+      "answer": "भारताने NPT आणि CTBT या करारांना भेदभावपूर्ण मानले आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "भारतासाठी इंडो-पॅसिफिक क्षेत्रातील राष्ट्रे कोणती आहेत?",
+      "answer": "भारतासाठी इंडो-पॅसिफिक क्षेत्रातील राष्ट्रे जपान, ऑस्ट्रेलिया आणि आग्नेय आशियाई राष्ट्रे आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "भारत-अमेरिका व्यापारी संबंध का वाढले?",
+      "answer": "मुक्त अर्थव्यवस्था धोरण स्वीकारल्याने भारत-अमेरिका व्यापारी संबंध वाढले."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "भारतासाठी अणु तंत्रज्ञान का महत्त्वाचे ठरते?",
+      "answer": "ऊर्जा सुरक्षा आणि तंत्रज्ञान विकासासाठी भारतासाठी अणु तंत्रज्ञान महत्त्वाचे ठरते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "भारताने शीतयुद्धकालीन संघटनांना कसा विरोध केला?",
+      "answer": "भारताने शीतयुद्धकालीन लष्करी संघटनांना ठामपणे विरोध केला."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भारत-मालदीव संरक्षण सहकार्य कधी सुरू झाले?",
+      "answer": "भारत-मालदीव संरक्षण सहकार्य 2006 नंतर सुरू झाले."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "भारत-रशिया करार कोणत्या वर्षी झाला?",
+      "answer": "भारत-रशिया मैत्री करार 1971 साली झाला."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भारतासाठी सागरी चाचेगिरी का धोकादायक आहे?",
+      "answer": "सागरी व्यापार मार्गांना धोका निर्माण होत असल्याने भारतासाठी सागरी चाचेगिरी धोकादायक आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "भारतासाठी Act East धोरणाचा हेतू काय आहे?",
+      "answer": "Act East धोरणाचा हेतू आग्नेय आशियाई राष्ट्रांशी व्यापारी संबंध वाढवणे हा आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "भारत-अफगाणिस्तान दरम्यान कोणते सहकार्य आहे?",
+      "answer": "भारत-अफगाणिस्तान दरम्यान पायाभूत सुविधा आणि तंत्रज्ञान क्षेत्रात सहकार्य आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "भारतासाठी तिबेटचा प्रश्न का महत्त्वाचा आहे?",
+      "answer": "दलाई लामा यांना दिलेला राजाश्रय आणि चीनचा दावा यांमुळे भारतासाठी तिबेटचा प्रश्न महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "भारतासाठी नेपाळचे आर्थिक महत्त्व काय आहे?",
+      "answer": "नेपाळचे आर्थिक महत्त्व ऊर्जा आयात आणि सीमावर्ती व्यापाराशी संबंधित आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भारताने श्रीलंकेला कोणत्या क्षेत्रांत मदत केली?",
+      "answer": "भारताने श्रीलंकेला सागरी सुरक्षा आणि आपत्ती व्यवस्थापन क्षेत्रांत मदत केली."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "भारतासाठी पाकिस्तानचा शस्त्रपुरवठा का चिंतेचा विषय आहे?",
+      "answer": "पाकिस्तानचा भारतविरोधी दृष्टिकोन आणि दहशतवादास पाठिंबा यांमुळे शस्त्रपुरवठा भारतासाठी चिंतेचा विषय आहे."
+    }
+  ]
+}

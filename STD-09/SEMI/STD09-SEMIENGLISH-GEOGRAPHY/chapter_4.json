@@ -1,0 +1,1174 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Geography.04",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "बाह्यप्रक्रिया भाग-२"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "नदीचे कार्य प्रामुख्याने कोणत्या घटकावर अवलंबून असते?",
+      "options": [
+        { "option_id": 1, "text": "हवेचा दाब", "is_correct": false },
+        { "option_id": 2, "text": "भूप्रदेशाचा उतार", "is_correct": true },
+        { "option_id": 3, "text": "समुद्राची खोली", "is_correct": false },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "भूप्रदेशाचा उतार"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "नदीच्या खनन कार्यामुळे खालीलपैकी कोणते भूरूप तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "त्रिभुज प्रदेश", "is_correct": false },
+        { "option_id": 2, "text": "पूरमैदान", "is_correct": false },
+        { "option_id": 3, "text": "घळई", "is_correct": true },
+        { "option_id": 4, "text": "नागामोडी वळणे", "is_correct": false }
+      ],
+      "answer": "घळई"
+    },
+    
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "नदीचा वेग कमी झाल्यावर कोणत्या कार्याला सुरुवात होते?",
+      "options": [
+        { "option_id": 1, "text": "खनन", "is_correct": false },
+        { "option_id": 2, "text": "अपक्षरण", "is_correct": false },
+        { "option_id": 3, "text": "संचयन", "is_correct": true },
+        { "option_id": 4, "text": "बाष्पीभवन", "is_correct": false }
+      ],
+      "answer": "संचयन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पर्वताच्या पायथ्याशी गाळाचे संचयन होऊन कोणते भूरूप तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "पंखाकृती मैदान", "is_correct": true },
+        { "option_id": 2, "text": "पुळण", "is_correct": false },
+        { "option_id": 3, "text": "हिमगव्हर", "is_correct": false },
+        { "option_id": 4, "text": "गिरीशृंग", "is_correct": false }
+      ],
+      "answer": "पंखाकृती मैदान"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मैदानी प्रदेशात नदीचा वेग कमी झाल्यामुळे ती कशी वाहू लागते?",
+      "options": [
+        { "option_id": 1, "text": "सरळ रेषेत", "is_correct": false },
+        { "option_id": 2, "text": "नागामोडी वळणाने", "is_correct": true },
+        { "option_id": 3, "text": "वेगाने", "is_correct": false },
+        { "option_id": 4, "text": "उर्ध्व दिशेने", "is_correct": false }
+      ],
+      "answer": "नागामोडी वळणाने"
+    },
+    
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "नदीच्या मुखाशी गाळाचे संचयन होऊन तयार होणाऱ्या भूरूपास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "खाजण", "is_correct": false },
+        { "option_id": 2, "text": "वाळूचा दांडा", "is_correct": false },
+        { "option_id": 3, "text": "त्रिभुज प्रदेश", "is_correct": true },
+        { "option_id": 4, "text": "हिमगव्हर", "is_correct": false }
+      ],
+      "answer": "त्रिभुज प्रदेश"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बर्फाचा प्रचंड ढिगारा गुरुत्वाकर्षणामुळे उताराच्या दिशेने सरकतो, त्यास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "नदी", "is_correct": false },
+        { "option_id": 2, "text": "हिमनदी", "is_correct": true },
+        { "option_id": 3, "text": "पूर", "is_correct": false },
+        { "option_id": 4, "text": "ओढा", "is_correct": false }
+      ],
+      "answer": "हिमनदी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "हिमनदीच्या खनन कार्यामुळे खालीलपैकी कोणते भूरूप तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "यू (U) आकाराची दरी", "is_correct": true },
+        { "option_id": 2, "text": "व्ही (V) आकाराची दरी", "is_correct": false },
+        { "option_id": 3, "text": "पुळण", "is_correct": false },
+        { "option_id": 4, "text": "बारखाण", "is_correct": false }
+      ],
+      "answer": "यू (U) आकाराची दरी"
+    },
+    
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हिमनदीने वाहून आणलेल्या गाळाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "लोएस", "is_correct": false },
+        { "option_id": 2, "text": "हिमोढ", "is_correct": true },
+        { "option_id": 3, "text": "वाळू", "is_correct": false },
+        { "option_id": 4, "text": "पुळण", "is_correct": false }
+      ],
+      "answer": "हिमोढ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हिमनदीच्या प्रवाहाच्या कडेला साचणाऱ्या हिमोढाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मध्य हिमोढ", "is_correct": false },
+        { "option_id": 2, "text": "अंतिम हिमोढ", "is_correct": false },
+        { "option_id": 3, "text": "पाचर्वी हिमोढ", "is_correct": true },
+        { "option_id": 4, "text": "तळ हिमोढ", "is_correct": false }
+      ],
+      "answer": "पाचर्वी हिमोढ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "वाऱ्याचे कार्य प्रामुख्याने कोणत्या प्रदेशात प्रभावी असते?",
+      "options": [
+        { "option_id": 1, "text": "दमट हवामान", "is_correct": false },
+        { "option_id": 2, "text": "वाळवंटी किंवा शुष्क हवामान", "is_correct": true },
+        { "option_id": 3, "text": "बर्फाच्छादित प्रदेश", "is_correct": false },
+        { "option_id": 4, "text": "सदाहरित वने", "is_correct": false }
+      ],
+      "answer": "वाळवंटी किंवा शुष्क हवामान"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वाऱ्याच्या खनन कार्यामुळे तयार होणाऱ्या खडकाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "चुनखडी", "is_correct": false },
+        { "option_id": 2, "text": "भूछत्र खडक", "is_correct": true },
+        { "option_id": 3, "text": "वालुकागिरी", "is_correct": false },
+        { "option_id": 4, "text": "हिमोढ", "is_correct": false }
+      ],
+      "answer": "भूछत्र खडक"
+    },
+    
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चंद्रकोरीच्या आकाराच्या वाळूच्या टेकडीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सैफ", "is_correct": false },
+        { "option_id": 2, "text": "बारखाण", "is_correct": true },
+        { "option_id": 3, "text": "लोएस मैदान", "is_correct": false },
+        { "option_id": 4, "text": "पुळण", "is_correct": false }
+      ],
+      "answer": "बारखाण"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सागरी लाटांचे कार्य कोणत्या भागात सर्वात जास्त प्रभावी असते?",
+      "options": [
+        { "option_id": 1, "text": "नदीच्या पात्रात", "is_correct": false },
+        { "option_id": 2, "text": "समुद्रकिनारपट्टीवर", "is_correct": true },
+        { "option_id": 3, "text": "पर्वताच्या शिखरावर", "is_correct": false },
+        { "option_id": 4, "text": "वाळवंटात", "is_correct": false }
+      ],
+      "answer": "समुद्रकिनारपट्टीवर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सागरी लाटांच्या खनन कार्यामुळे तयार होणाऱ्या गुहेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सागरी गुहा", "is_correct": true },
+        { "option_id": 2, "text": "पाचर्वी गुहा", "is_correct": false },
+        { "option_id": 3, "text": "चुनखडीची गुहा", "is_correct": false },
+        { "option_id": 4, "text": "विलय विवर", "is_correct": false }
+      ],
+      "answer": "सागरी गुहा"
+    },
+    
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सागरी लाटांच्या संचयन कार्यामुळे तयार होणाऱ्या वाळूच्या किनारपट्टीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सागरी कडा", "is_correct": false },
+        { "option_id": 2, "text": "पुळण (Beach)", "is_correct": true },
+        { "option_id": 3, "text": "खाजण", "is_correct": false },
+        { "option_id": 4, "text": "कुंभगर्ता", "is_correct": false }
+      ],
+      "answer": "पुळण (Beach)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "जमिनीत मुरलेले पाणी खडकांच्या भेगांमधून खाली जाते, त्यास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सागरी जल", "is_correct": false },
+        { "option_id": 2, "text": "भूजल", "is_correct": true },
+        { "option_id": 3, "text": "नदी", "is_correct": false },
+        { "option_id": 4, "text": "हिमजल", "is_correct": false }
+      ],
+      "answer": "भूजल"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भूजलाच्या संचयन कार्यामुळे जमिनीतून वर वाढणाऱ्या खांबांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अधोमुखी लवणस्तंभ", "is_correct": false },
+        { "option_id": 2, "text": "ऊर्ध्वमुखी लवणस्तंभ", "is_correct": true },
+        { "option_id": 3, "text": "विलय विवर", "is_correct": false },
+        { "option_id": 4, "text": "कुंभगर्ता", "is_correct": false }
+      ],
+      "answer": "ऊर्ध्वमुखी लवणस्तंभ"
+    },
+
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "चुनखडीच्या प्रदेशात भूजलामुळे खडकात पडलेल्या विवरांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "विलय विवर", "is_correct": true },
+        { "option_id": 2, "text": "कुंभगर्ता", "is_correct": false },
+        { "option_id": 3, "text": "हिमगव्हर", "is_correct": false },
+        { "option_id": 4, "text": "घळई", "is_correct": false }
+      ],
+      "answer": "विलय विवर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कोणत्या कारकाची गती कमी झाल्यावर संचयन कार्य सुरू होते?",
+      "options": [
+        { "option_id": 1, "text": "सर्व बाह्य कारके", "is_correct": true },
+        { "option_id": 2, "text": "केवळ वारा", "is_correct": false },
+        { "option_id": 3, "text": "केवळ नदी", "is_correct": false },
+        { "option_id": 4, "text": "केवळ भूजल", "is_correct": false }
+      ],
+      "answer": "सर्व बाह्य कारके"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "नदीच्या पात्रात खडकांच्या घर्षणामुळे तयार होणाऱ्या गोलाकार खड्ड्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कुंभगर्ता (Potholes)", "is_correct": true },
+        { "option_id": 2, "text": "विलय विवर", "is_correct": false },
+        { "option_id": 3, "text": "हिमगव्हर", "is_correct": false },
+        { "option_id": 4, "text": "खाजण", "is_correct": false }
+      ],
+      "answer": "कुंभगर्ता (Potholes)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "हिमनदीचा वेग सर्वात जास्त कोठे असतो?",
+      "options": [
+        { "option_id": 1, "text": "मध्यभागी", "is_correct": true },
+        { "option_id": 2, "text": "दोन्ही काठांवर", "is_correct": false },
+        { "option_id": 3, "text": "तळभागावर", "is_correct": false },
+        { "option_id": 4, "text": "वेगाचे प्रमाण सर्वत्र सारखे असते", "is_correct": false }
+      ],
+      "answer": "मध्यभागी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वाऱ्याने वाहून आणलेली अतिशय बारीक वाळू दूरवर साचल्याने कोणते मैदान तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "लोएस मैदान", "is_correct": true },
+        { "option_id": 2, "text": "पूर मैदान", "is_correct": false },
+        { "option_id": 3, "text": "पंखाकृती मैदान", "is_correct": false },
+        { "option_id": 4, "text": "त्रिभुज प्रदेश", "is_correct": false }
+      ],
+      "answer": "लोएस मैदान"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सागरी लाटांच्या संचयन कार्यामुळे वाळूचा दांडा आणि समुद्रकिनारा यांच्यामध्ये अडकलेल्या खाऱ्या पाण्याच्या साठ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "खाजण (Lagoon)", "is_correct": true },
+        { "option_id": 2, "text": "सागरी कडा", "is_correct": false },
+        { "option_id": 3, "text": "पुळण", "is_correct": false },
+        { "option_id": 4, "text": "कुंभगर्ता", "is_correct": false }
+      ],
+      "answer": "खाजण (Lagoon)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "नदीच्या पात्रातील उंच भागावरून पाणी खाली पडते, तेव्हा त्यास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "धबधबा", "is_correct": true },
+        { "option_id": 2, "text": "नागामोडी वळण", "is_correct": false },
+        { "option_id": 3, "text": "पूरमैदान", "is_correct": false },
+        { "option_id": 4, "text": "घळई", "is_correct": false }
+      ],
+      "answer": "धबधबा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "वारा जेव्हा वाहत असताना अडथळा येतो, तेव्हा कशाची निर्मिती होते?",
+      "options": [
+        { "option_id": 1, "text": "वाळूच्या टेकड्या", "is_correct": true },
+        { "option_id": 2, "text": "भूछत्र खडक", "is_correct": false },
+        { "option_id": 3, "text": "सागरी गुहा", "is_correct": false },
+        { "option_id": 4, "text": "हिमगव्हर", "is_correct": false }
+      ],
+      "answer": "वाळूच्या टेकड्या"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "हिमनदीचे संचयन कार्य कोणत्या स्वरूपाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "लोएस", "is_correct": false },
+        { "option_id": 2, "text": "हिमोढ", "is_correct": true },
+        { "option_id": 3, "text": "पुळण", "is_correct": false },
+        { "option_id": 4, "text": "गाळाचा पंखा", "is_correct": false }
+      ],
+      "answer": "हिमोढ"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "नदीच्या दोन्ही बाजूंना गाळ साचून काय तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "पूरतट आणि पूरमैदान", "is_correct": true },
+        { "option_id": 2, "text": "सागरी कडा", "is_correct": false },
+        { "option_id": 3, "text": "बारखाण", "is_correct": false },
+        { "option_id": 4, "text": "लवणस्तंभ", "is_correct": false }
+      ],
+      "answer": "पूरतट आणि पूरमैदान"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "ज्या गुहेत चुनखडीचे छताकडून खाली पाणी गळते, तिथे कोणते स्तंभ तयार होतात?",
+      "options": [
+        { "option_id": 1, "text": "अधोमुखी लवणस्तंभ (Stalactites)", "is_correct": true },
+        { "option_id": 2, "text": "ऊर्ध्वमुखी लवणस्तंभ", "is_correct": false },
+        { "option_id": 3, "text": "वाळूचा दांडा", "is_correct": false },
+        { "option_id": 4, "text": "हिमगव्हर", "is_correct": false }
+      ],
+      "answer": "अधोमुखी लवणस्तंभ (Stalactites)"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी जमिनीवर पडल्यावर त्याचा काही भाग जमिनीखाली मुरतो, त्यास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पृष्ठभागावरील पाणी", "is_correct": false },
+        { "option_id": 2, "text": "भूजल", "is_correct": true },
+        { "option_id": 3, "text": "हिमनदी", "is_correct": false },
+        { "option_id": 4, "text": "सागरी जल", "is_correct": false }
+      ],
+      "answer": "भूजल"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वाळवंटी प्रदेशात वाऱ्याच्या खनन कार्यामुळे खडकाचा कोणता भाग जास्त झिजतो?",
+      "options": [
+        { "option_id": 1, "text": "वरचा भाग", "is_correct": false },
+        { "option_id": 2, "text": "तळभाग", "is_correct": true },
+        { "option_id": 3, "text": "मध्य भाग", "is_correct": false },
+        { "option_id": 4, "text": "खडक झिजत नाही", "is_correct": false }
+      ],
+      "answer": "तळभाग"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "हिमनदी जेथे संपते, तिथे कोणत्या हिमोढाची निर्मिती होते?",
+      "options": [
+        { "option_id": 1, "text": "पाचर्वी हिमोढ", "is_correct": false },
+        { "option_id": 2, "text": "अंतिम हिमोढ", "is_correct": true },
+        { "option_id": 3, "text": "मध्य हिमोढ", "is_correct": false },
+        { "option_id": 4, "text": "तळ हिमोढ", "is_correct": false }
+      ],
+      "answer": "अंतिम हिमोढ"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "सागरी लाटांच्या खनन कार्यामुळे तयार होणाऱ्या उभ्या कड्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सागरी कडा", "is_correct": true },
+        { "option_id": 2, "text": "पुळण", "is_correct": false },
+        { "option_id": 3, "text": "खाजण", "is_correct": false },
+        { "option_id": 4, "text": "वाळूचा दांडा", "is_correct": false }
+      ],
+      "answer": "सागरी कडा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "भूजल कोणत्या खडकाच्या प्रदेशात सर्वात जास्त कार्य करते?",
+      "options": [
+        { "option_id": 1, "text": "ग्रॅनाईट", "is_correct": false },
+        { "option_id": 2, "text": "बॅसाल्ट", "is_correct": false },
+        { "option_id": 3, "text": "चुनखडी", "is_correct": true },
+        { "option_id": 4, "text": "संगमरवर", "is_correct": false }
+      ],
+      "answer": "चुनखडी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "नदीच्या वहन क्षमतेवर खालीलपैकी कोणत्या घटकाचा परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचे प्रमाण", "is_correct": true },
+        { "option_id": 2, "text": "हवेतील आद्रता", "is_correct": false },
+        { "option_id": 3, "text": "सूर्याचा प्रकाश", "is_correct": false },
+        { "option_id": 4, "text": "आजूबाजूची झाडे", "is_correct": false }
+      ],
+      "answer": "पाण्याचे प्रमाण"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "वाळवंटी प्रदेशात वारा आणि वाळू यांच्या संचयनामुळे तयार होणाऱ्या लांबच लांब टेकड्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सैफ (Seif)", "is_correct": true },
+        { "option_id": 2, "text": "बारखाण", "is_correct": false },
+        { "option_id": 3, "text": "भूछत्र खडक", "is_correct": false },
+        { "option_id": 4, "text": "पुळण", "is_correct": false }
+      ],
+      "answer": "सैफ (Seif)"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हिमनदीच्या खनन कार्यामुळे डोंगराच्या बाजूला तयार होणाऱ्या खुर्चीसारख्या आकाराच्या भूरूपास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "हिमगव्हर (Cirque)", "is_correct": true },
+        { "option_id": 2, "text": "गिरीशृंग", "is_correct": false },
+        { "option_id": 3, "text": "लोबती दरी", "is_correct": false },
+        { "option_id": 4, "text": "हिमोढ", "is_correct": false }
+      ],
+      "answer": "हिमगव्हर (Cirque)"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "समुद्रकिनाऱ्याला समांतर तयार होणाऱ्या वाळूच्या संचयनाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वाळूचा दांडा", "is_correct": true },
+        { "option_id": 2, "text": "पुळण", "is_correct": false },
+        { "option_id": 3, "text": "सागरी कडा", "is_correct": false },
+        { "option_id": 4, "text": "सागरी गुहा", "is_correct": false }
+      ],
+      "answer": "वाळूचा दांडा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "भूजलाचे कार्य प्रामुख्याने कोणत्या प्रक्रियेवर आधारित असते?",
+      "options": [
+        { "option_id": 1, "text": "विद्राव्यता (Solubility)", "is_correct": true },
+        { "option_id": 2, "text": "घर्षण", "is_correct": false },
+        { "option_id": 3, "text": "तापमान वाढ", "is_correct": false },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "विद्राव्यता (Solubility)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "नदी जेव्हा डोंगरावरून मैदानी प्रदेशात येते, तेव्हा तयार होणारे भूरूप कोणते?",
+      "options": [
+        { "option_id": 1, "text": "गाळाचा पंखा", "is_correct": true },
+        { "option_id": 2, "text": "त्रिभुज प्रदेश", "is_correct": false },
+        { "option_id": 3, "text": "सागरी गुहा", "is_correct": false },
+        { "option_id": 4, "text": "हिमगव्हर", "is_correct": false }
+      ],
+      "answer": "गाळाचा पंखा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "वाऱ्याच्या वहन कार्यात वाळूच्या कणांचा आकार कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "खूप मोठे खडक", "is_correct": false },
+        { "option_id": 2, "text": "लहान व हलके कण", "is_correct": true },
+        { "option_id": 3, "text": "जड दगड", "is_correct": false },
+        { "option_id": 4, "text": "गोलाकार धोंडे", "is_correct": false }
+      ],
+      "answer": "लहान व हलके कण"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "हिमनदीच्या तळाशी साचणाऱ्या हिमोढाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "तळ हिमोढ", "is_correct": true },
+        { "option_id": 2, "text": "पाचर्वी हिमोढ", "is_correct": false },
+        { "option_id": 3, "text": "मध्य हिमोढ", "is_correct": false },
+        { "option_id": 4, "text": "अंतिम हिमोढ", "is_correct": false }
+      ],
+      "answer": "तळ हिमोढ"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सागरी लाटांच्या आघातामुळे कड्याच्या पायथ्याशी तयार होणाऱ्या सपाट भागाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "तरंग घर्षित मंच", "is_correct": true },
+        { "option_id": 2, "text": "पुळण", "is_correct": false },
+        { "option_id": 3, "text": "सागरी कमान", "is_correct": false },
+        { "option_id": 4, "text": "खाजण", "is_correct": false }
+      ],
+      "answer": "तरंग घर्षित मंच"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "अधोमुखी आणि ऊर्ध्वमुखी लवणस्तंभ एकत्र येऊन काय तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "लवण स्तंभ (Pillar)", "is_correct": true },
+        { "option_id": 2, "text": "विलय विवर", "is_correct": false },
+        { "option_id": 3, "text": "कुंभगर्ता", "is_correct": false },
+        { "option_id": 4, "text": "घळई", "is_correct": false }
+      ],
+      "answer": "लवण स्तंभ (Pillar)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "नदीच्या प्रवाहाची लांबी वाढल्यास खालीलपैकी काय घडते?",
+      "options": [
+        { "option_id": 1, "text": "गाळाचे प्रमाण वाढते", "is_correct": true },
+        { "option_id": 2, "text": "पाणी कमी होते", "is_correct": false },
+        { "option_id": 3, "text": "उतार वाढतो", "is_correct": false },
+        { "option_id": 4, "text": "खनन कार्य थांबते", "is_correct": false }
+      ],
+      "answer": "गाळाचे प्रमाण वाढते"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "वाऱ्याच्या खनन कार्यामुळे खडकाचे पृष्ठभाग गुळगुळीत होतात, या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अपघर्षण", "is_correct": true },
+        { "option_id": 2, "text": "संचयन", "is_correct": false },
+        { "option_id": 3, "text": "वहन", "is_correct": false },
+        { "option_id": 4, "text": "द्रावण", "is_correct": false }
+      ],
+      "answer": "अपघर्षण"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "दोन हिमनद्या एकत्र येतात, तिथे कोणत्या हिमोढाची निर्मिती होते?",
+      "options": [
+        { "option_id": 1, "text": "मध्य हिमोढ", "is_correct": true },
+        { "option_id": 2, "text": "तळ हिमोढ", "is_correct": false },
+        { "option_id": 3, "text": "अंतिम हिमोढ", "is_correct": false },
+        { "option_id": 4, "text": "पाचर्वी हिमोढ", "is_correct": false }
+      ],
+      "answer": "मध्य हिमोढ"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "दोन सागरी गुहा समोरासमोरून एकमेकींना मिळाल्यास कोणते भूरूप तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "सागरी कमान (Sea Arch)", "is_correct": true },
+        { "option_id": 2, "text": "सागरी स्तंभ", "is_correct": false },
+        { "option_id": 3, "text": "सागरी कडा", "is_correct": false },
+        { "option_id": 4, "text": "पुळण", "is_correct": false }
+      ],
+      "answer": "सागरी कमान (Sea Arch)"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "भूजल साठवण्यासाठी खडकामध्ये कोणते गुणधर्म असणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "सच्छिद्रता आणि सलगता", "is_correct": true },
+        { "option_id": 2, "text": "कठोरता", "is_correct": false },
+        { "option_id": 3, "text": "उष्णता", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "सच्छिद्रता आणि सलगता"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "बाहेरील कारकांमुळे भूपृष्ठात होणाऱ्या बदलांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बाह्य प्रक्रिया", "is_correct": true },
+        { "option_id": 2, "text": "अंतर्गत प्रक्रिया", "is_correct": false },
+        { "option_id": 3, "text": "ज्वालामुखी", "is_correct": false },
+        { "option_id": 4, "text": "भूकंप", "is_correct": false }
+      ],
+      "answer": "बाह्य प्रक्रिया"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "नदी म्हणजे काय?",
+      "answer": "नैसर्गिकरीत्या एकत्रित झालेला पाण्याचा ओघ गुरुत्वाकर्षणशक्तीच्या प्रभावामुळे भूपृष्ठावर उताराच्या दिशेने वाहू लागतो, त्यास नदी म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "नदीचे कार्य कोणत्या तीन टप्प्यांत चालते?",
+      "answer": "नदीचे कार्य खनन (अपक्षरण), वहन आणि संचयन या तीन टप्प्यांत चालते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "नदीच्या खनन कार्यामुळे कोणती मुख्य भूरूपे तयार होतात?",
+      "answer": "घळई, ‘V’ आकाराची दरी आणि धबधबा ही नदीच्या खनन कार्यामुळे तयार होणारी मुख्य भूरूपे आहेत."
+    },
+    
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पंखाकृती मैदाने कोठे तयार होतात?",
+      "answer": "नदी जेव्हा पर्वतीय भागातून मैदानी प्रदेशात येते, तेव्हा पर्वताच्या पायथ्याशी पंखाकृती मैदाने तयार होतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "नागामोडी वळणे (Meanders) कशामुळे तयार होतात?",
+      "answer": "मैदानी प्रदेशात नदीचा वेग कमी झाल्यामुळे आणि जमिनीच्या उतारामुळे नदी नागमोडी वळणे घेत वाहते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "त्रिभुज प्रदेशाची (Delta) व्याख्या काय?",
+      "answer": "नदीच्या मुखाशी गाळाचे संचयन होऊन तयार होणाऱ्या त्रिकोणी आकाराच्या प्रदेशाला त्रिभुज प्रदेश म्हणतात."
+    },
+
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हिमनदी म्हणजे काय?",
+      "answer": "जास्त पर्जन्यमान (हिमवृष्टी) असलेल्या प्रदेशात साचलेला बर्फाचा प्रचंड ढिगारा गुरुत्वाकर्षणामुळे उताराच्या दिशेने सरकू लागतो, त्यास हिमनदी म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "हिमनदीच्या खनन कार्यामुळे कोणती भूरूपे तयार होतात?",
+      "answer": "हिमगव्हर, गिरिशृंग, 'U' आकाराची दरी आणि लोबती दरी ही हिमनदीच्या खनन कार्यामुळे तयार होणारी भूरूपे आहेत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हिमोढ (Moraine) म्हणजे काय?",
+      "answer": "हिमनदी आपल्यासोबत जो गाळ वाहून आणते, त्यास हिमोढ म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हिमोढाचे चार मुख्य प्रकार सांगा.",
+      "answer": "पाचर्वी हिमोढ, मध्य हिमोढ, तळ हिमोढ आणि अंतिम हिमोढ हे हिमोढाचे चार प्रकार आहेत."
+    },
+    
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वाऱ्याचे कार्य कोणत्या प्रदेशात सर्वाधिक असते?",
+      "answer": "वाऱ्याचे कार्य वाळवंटी किंवा कमी पावसाच्या शुष्क प्रदेशात सर्वाधिक असते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वाऱ्याच्या खनन कार्यामुळे तयार होणाऱ्या दोन भूरूपांची नावे सांगा.",
+      "answer": "भूछत्र खडक आणि यारदांग ही वाऱ्याच्या खनन कार्यामुळे तयार होणारी भूरूपे आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "बारखाण म्हणजे काय?",
+      "answer": "वाऱ्याच्या संचयन कार्यामुळे तयार होणाऱ्या चंद्रकोरीच्या आकाराच्या वाळूच्या टेकडीला बारखाण म्हणतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लोएस मैदान कसे तयार होते?",
+      "answer": "वाऱ्याने वाहून आणलेली अतिशय बारीक वाळू वाळवंटाबाहेरील प्रदेशात विस्तीर्ण क्षेत्रात साचल्यामुळे लोएस मैदान तयार होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सागरी लाटांच्या खनन कार्यामुळे कोणती भूरूपे तयार होतात?",
+      "answer": "सागरी कडा, सागरी गुहा, सागरी कमान आणि सागरी स्तंभ ही भूरूपे तयार होतात."
+    },
+    
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पुळण (Beach) म्हणजे काय?",
+      "answer": "सागरी लाटांनी वाहून आणलेली वाळू आणि इतर पदार्थ दोन भूशिरांच्या दरम्यान असलेल्या सखल भागात साचल्यामुळे तयार होणाऱ्या किनाऱ्याला पुळण म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "खाजण (Lagoon) म्हणजे काय?",
+      "answer": "वाळूचा दांडा आणि मुख्य जमीन यांच्या दरम्यान अडकलेल्या खाऱ्या पाण्याच्या साठ्याला खाजण म्हणतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "भूजल (Groundwater) कशास म्हणतात?",
+      "answer": "जमिनीत मुरलेले पावसाचे पाणी सच्छिद्र खडकांमधून किंवा खडकांच्या भेगांमधून खाली जाऊन जमिनीखाली साचते, त्यास भूजल म्हणतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "विलय विवर (Sinkhole) कोठे तयार होतात?",
+      "answer": "चुनखडीच्या प्रदेशात भूजलाच्या द्रावण कार्यामुळे जमिनीवर पडलेल्या विवरांना विलय विवर म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "अधोमुखी लवणस्तंभ (Stalactites) म्हणजे काय?",
+      "answer": "चुनखडीच्या गुहेत छताकडून खाली चुनखडीचे अवक्षेपण होऊन तयार होणाऱ्या स्तंभांना अधोमुखी लवणस्तंभ म्हणतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ऊर्ध्वमुखी लवणस्तंभ (Stalagmites) म्हणजे काय?",
+      "answer": "गुहेच्या जमिनीकडून छताच्या दिशेने वाढणाऱ्या चुनखडीच्या स्तंभांना ऊर्ध्वमुखी लवणस्तंभ म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कुंभगर्ता (Pothole) कोठे पाहायला मिळतात?",
+      "answer": "नदीच्या पात्रात जिथे पाण्याचा वेग जास्त असतो आणि खडक मऊ असतात, तिथे कुंभगर्ता पाहायला मिळतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "हिमनदीचा वेग सर्वात कमी कोठे असतो?",
+      "answer": "हिमनदीचा वेग तळाला आणि दोन्ही काठांवर घर्षणामुळे सर्वात कमी असतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "सैफ (Seif) टेकडीचे वैशिष्ट्य काय?",
+      "answer": "या टेकड्या आकाराने अरुंद आणि अनेक किलोमीटर लांब पसरलेल्या असतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सागरी कमान कालांतराने कशी नष्ट होते?",
+      "answer": "कमान अधिक झिजल्यामुळे तिचा वरचा भाग कोसळतो आणि केवळ सागरी स्तंभ उरतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "नदीच्या वहन कार्यात गाळाचा आकार कसा बदलतो?",
+      "answer": "गाळ जसजसा पुढे वाहतो, तसतसे घर्षणामुळे त्याचे रूपांतर बारीक वाळू किंवा चिखलात होते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "धबधब्याच्या पायथ्याशी तयार होणाऱ्या खड्ड्याला काय म्हणतात?",
+      "answer": "धबधब्याच्या पायथ्याशी तयार होणाऱ्या मोठ्या खड्ड्याला 'प्रपात कुंड' म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "हिमनदीच्या उगमस्थानी कोणते भूरूप तयार होते?",
+      "answer": "हिमनदीच्या उगमस्थानी अर्धवर्तुळाकार 'हिमगव्हर' तयार होते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वाळूचा दांडा (Sand bar) कशामुळे तयार होतो?",
+      "answer": "सागरी लाटांच्या संचयन कार्यामुळे किनाऱ्याला समांतर वाळू साचून वाळूचा दांडा तयार होतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "भूजलाचा साठा कशावर अवलंबून असतो?",
+      "answer": "भूजलाचा साठा पावसाचे प्रमाण आणि खडकाची सच्छिद्रता यावर अवलंबून असतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "नदीचे पात्र कधी रुंदावते?",
+      "answer": "जेव्हा नदी मैदानी प्रदेशात येते आणि तिची बाजूची झीज (lateral erosion) वाढते, तेव्हा पात्र रुंदावते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "हिमशिखर किंवा गिरीशृंग (Horn) कसे तयार होतात?",
+      "answer": "अनेक हिमगव्हर एकमेकांकडे झिजत गेल्यावर मधला डोंगर शिखरासारखा टोकदार होतो, त्याला गिरीशृंग म्हणतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "लोबती दरी (Hanging Valley) म्हणजे काय?",
+      "answer": "मुख्य हिमनदीला येऊन मिळणाऱ्या उपहिमनदीची दरी उंचावर असते, जी मुख्य दरीवर लोबल्यासारखी दिसते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "यारदांग म्हणजे काय?",
+      "answer": "वाळवंटात कठीण आणि मृदू खडकांच्या थरांच्या असमान झिजेमुळे तयार होणाऱ्या लांबच लांब समांतर रांगांना यारदांग म्हणतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "तरंग घर्षित मंच (Wave-cut platform) कोठे असतो?",
+      "answer": "सागरी कड्याच्या पायथ्याशी लाटांच्या आघातामुळे तयार झालेल्या सपाट खडकाळ भागाला तरंग घर्षित मंच म्हणतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "नदीच्या 'V' आकाराच्या दरीचे रूपांतर हिमनदीमुळे कशात होते?",
+      "answer": "हिमनदीमुळे 'V' आकाराच्या दरीचे रूपांतर 'U' आकाराच्या दरीत होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "नदीचा गाळ मुखाजवळ का साचतो?",
+      "answer": "मुखजवळ जमिनीचा उतार अत्यंत मंद असतो आणि नदीचा वेग खूप कमी झालेला असतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "वाऱ्याच्या संचयनाचे सर्वात मोठे भूरूप कोणते?",
+      "answer": "वाळूच्या टेकड्या किंवा वालुकागिरी हे वाऱ्याच्या संचयनाचे सर्वात मोठे भूरूप आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "भूजल खननाचे कार्य कोणत्या क्रियेने करते?",
+      "answer": "भूजल प्रामुख्याने द्रावण (Solution) क्रियेने खननाचे कार्य करते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "नदीचा उगम कोठे होतो?",
+      "answer": "नदीचा उगम सहसा समुद्रसपाटीपासून खूप उंचावर डोंगराळ भागात होतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "हिमनदीचे वहन कार्य अतिशय मंद का असते?",
+      "answer": "बर्फ घन स्वरूपात असतो आणि त्याचे वजन जास्त असल्यामुळे घर्षण अधिक होते, म्हणून हिमनदीचा वेग मंद असतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "नदीच्या पूरमैदानाचे वैशिष्ट्य काय?",
+      "answer": "पूरमैदान हे अत्यंत सुपीक गाळाने बनलेले असते, जे शेतीसाठी उत्तम असते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "भूछत्र खडकाचा आकार छत्रीसारखा का होतो?",
+      "answer": "खडकाचा तळभाग वाऱ्यातील वाळूच्या कणांमुळे जास्त झिजतो आणि वरचा भाग कमी झिजल्यामुळे त्याला छत्रीसारखा आकार येतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सागरी स्तंभाचे (Sea Stack) उदाहरण सांगा.",
+      "answer": "महाराष्ट्रातील कोकण किनाऱ्यावर अनेक ठिकाणी सागरी स्तंभ पाहायला मिळतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "नदीच्या मुखाशी असलेल्या वितरिका (Distributaries) म्हणजे काय?",
+      "answer": "गाळाच्या अडथळ्यामुळे नदीचा मुख्य प्रवाह अनेक लहान उपवाहिन्यांत विभागला जातो, त्यांना वितरिका म्हणतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "अंतिम हिमोढ कोठे आढळतो?",
+      "answer": "जिथे हिमनदी संपते आणि बर्फाचे पाण्यात रूपांतर होते, त्या जागी अंतिम हिमोढ आढळतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "लोएस मैदानाचे सर्वात प्रसिद्ध उदाहरण कोणते?",
+      "answer": "चीनमधील लोएस मैदान हे जगातील सर्वात मोठे उदाहरण आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्रात लवणस्तंभ कोठे आढळतात?",
+      "answer": "महाराष्ट्रात अहमदनगर जिल्ह्यातील 'कानूर' जवळच्या 'वडगाव दर्या' येथे लवणस्तंभ आढळतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कारकांची गती कमी झाल्यावर काय घडते?",
+      "answer": "कारकांची गती कमी झाल्यावर त्यांनी वाहून आणलेल्या गाळाचे संचयन होते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "नदी, वारा आणि सागरी लाटा यांच्यात सामायिक गोष्ट कोणती?",
+      "answer": "हे तिन्ही बाह्य कारके आहेत जे भूपृष्ठाचे खनन, वहन आणि संचयन करून भूरूपात बदल करतात."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "नदीचे कार्य कोणत्या घटकांवर अवलंबून असते आणि नदीच्या खनन कार्यामुळे तयार होणारी भूरूपे स्पष्ट करा.",
+      "answer": "नदीचे कार्य भूप्रदेशाचा उतार, खडकाचा प्रकार, पाण्याचे प्रमाण, वेग आणि प्रवाहाची लांबी यांवर अवलंबून असते. खनन कार्यामुळे तयार होणारी भूरूपे: १) घळई: तीव्र उतारामुळे नदी तळभागाचे वेगाने खनन करते, ज्यामुळे अरुंद व खोल दरी तयार होते. २) 'V' आकाराची दरी: पात्राच्या काठांपेक्षा तळाचे खनन जास्त झाल्याने या दरीला इंग्रजी 'V' सारखा आकार प्राप्त होतो. ३) धबधबा: नदीच्या मार्गात कठीण व मृदू खडक लागल्यास मृदू खडकाची झीज होऊन उंचावरून पाणी खाली पडते."
+    },
+    
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "नदीच्या संचयन कार्यामुळे निर्माण होणारी भूरूपे सविस्तर लिहा.",
+      "answer": "जेव्हा नदी मैदानी प्रदेशात येते, तेव्हा तिचा वेग मंदावतो आणि गाळाचे संचयन सुरू होते. १) पंखाकृती मैदान: पर्वताच्या पायथ्याशी गाळ साचून पंख्यासारखा आकार तयार होतो. २) पूरमैदान व पूरतट: पावसाळ्यात नदीचे पाणी पात्राबाहेर जाते आणि काठावर गाळ साचून पूरमैदान व नैसर्गिक पूरतट तयार होतात. ३) नागमोडी वळणे: मंद उतारामुळे नदी वळणे घेत वाहते. ४) त्रिभुज प्रदेश: नदी जेव्हा समुद्राला मिळते, तेव्हा मुखाशी गाळाचे विस्तीर्ण संचयन होऊन त्रिभुज प्रदेश तयार होतो."
+    },
+    
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "हिमनदीचे कार्य आणि त्यातून निर्माण होणारी खनन भूरूपे स्पष्ट करा.",
+      "answer": "बर्फाचा प्रचंड ढिगारा गुरुत्वाकर्षणामुळे उतारावरून सरकतो, त्यास हिमनदी म्हणतात. हिमनदीच्या खनन कार्यामुळे खालील भूरूपे तयार होतात: १) हिमगव्हर: हिमनदीच्या उगमापाशी बर्फाच्या दाबामुळे डोंगराचा भाग झिजून आरामखुर्चीसारखा आकार तयार होतो. २) गिरीशृंग: अनेक हिमगव्हर जवळ आल्यास डोंगराचे शिखर टोकदार होते. ३) 'U' आकाराची दरी: हिमनदी दरीचा तळ व काठ दोन्ही समान झिजवते, ज्यामुळे दरीला 'U' आकार येतो. ४) लोबती दरी: मुख्य हिमनदीच्या दरीपेक्षा उपहिमनदीची दरी उंचावर राहते."
+    },
+    
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "हिमोढ म्हणजे काय? हिमोढाचे विविध प्रकार आकृतीच्या आधारे स्पष्ट करा.",
+      "answer": "हिमनदीने वाहून आणलेल्या गाळाला हिमोढ म्हणतात. त्याचे चार प्रकार आहेत: १) पाचर्वी हिमोढ: हिमनदीच्या दोन्ही कडांवर साचलेला गाळ. २) मध्य हिमोढ: दोन हिमनद्या एकत्र येतात, तिथे त्यांच्या आतील बाजूचा गाळ एकत्र येऊन मध्य हिमोढ तयार होतो. ३) तळ हिमोढ: हिमनदीच्या तळाशी साचलेला गाळ. ४) अंतिम हिमोढ: जिथे हिमनदीचा शेवट होतो, तिथे साचलेला गाळाचा ढिगारा."
+    },
+    
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "वाऱ्याच्या वहन व संचयन कार्यामुळे वाळवंटात कोणती भूरूपे तयार होतात?",
+      "answer": "वाऱ्याचा वेग कमी झाल्यावर किंवा अडथळा आल्यावर संचयन कार्य घडते. १) वाळूच्या टेकड्या (बारखाण): वाऱ्याच्या दिशेने चंद्रकोरीच्या आकाराच्या टेकड्या तयार होतात. २) सैफ: या टेकड्या आकाराने अरुंद व लांब असतात. ३) लोएस मैदान: वाऱ्याने वाहून आणलेली अतिशय बारीक वाळू वाळवंटाबाहेर विस्तीर्ण प्रदेशात साचल्याने ही मैदाने तयार होतात. ४) वाळूचा दांडा: वाळूच्या संचयनामुळे लांबच लांब दांडे तयार होतात."
+    },
+    
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "सागरी लाटांच्या खनन कार्यामुळे तयार होणारी भूरूपे स्पष्ट करा.",
+      "answer": "सागरी लाटा किनाऱ्यावरील खडकांवर सतत आघात करतात. १) सागरी कडा: खडकाळ किनाऱ्यावर लाटांच्या माऱ्यामुळे उभा कडा तयार होतो. २) सागरी गुहा: खडकाच्या मऊ भागात लाटांच्या माऱ्याने पोकळी तयार होते. ३) सागरी कमान: कड्याच्या दोन्ही बाजूंनी गुहा तयार होऊन त्या एकमेकींना मिळाल्यास कमान तयार होते. ४) सागरी स्तंभ: कमान कोसळल्यावर उरलेला खडकाचा उभा भाग म्हणजे सागरी स्तंभ. ५) तरंग घर्षित मंच: कड्याच्या पायथ्याशी तयार झालेला सपाट भाग."
+    },
+    
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "भूजल म्हणजे काय? भूजलाच्या कार्यामुळे चुनखडीच्या प्रदेशात कोणती भूरूपे निर्माण होतात?",
+      "answer": "जमिनीत मुरलेले पावसाचे पाणी खडकांच्या भेगांत साचते, त्यास भूजल म्हणतात. १) विलय विवर: चुनखडीच्या प्रदेशात भूजलामुळे खडकाचे द्रावण होऊन जमिनीवर विवरे तयार होतात. २) चुनखडीच्या गुहा: भूजलाच्या द्रावण कार्यामुळे जमिनीखाली मोठ्या पोकळ्या तयार होतात. ३) अधोमुखी लवणस्तंभ: गुहेच्या छतातून चुनखडीचे पाणी झिरपून छताला तयार होणारे स्तंभ. ४) ऊर्ध्वमुखी लवणस्तंभ: जमिनीवर चुनखडी साचून वरच्या दिशेने वाढणारे स्तंभ. ५) लवणस्तंभ: दोन्ही स्तंभ एकमेकांना मिळाल्यास पूर्ण स्तंभ तयार होतो."
+    },
+    
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "नदी आणि हिमनदी यांच्या कार्यांमधील फरक स्पष्ट करा.",
+      "answer": "१) नदी प्रवाही जल स्वरूपात असते, तर हिमनदी बर्फाच्या घन स्वरूपात असते. २) नदीचा वेग हिमनदीपेक्षा खूप जास्त असतो. ३) नदी 'V' आकाराची दरी तयार करते, तर हिमनदी 'U' आकाराची दरी तयार करते. ४) नदीचा गाळ हा पाणी व गाळ मिश्रित असतो, तर हिमनदीचा गाळ (हिमोढ) हा केवळ बर्फाने वाहून आणलेला असतो. ५) नदी प्रामुख्याने भूप्रदेशाच्या उतारानुसार वाहते, तर हिमनदी गुरुत्वाकर्षण आणि बर्फाच्या प्रचंड दाबाने सरकते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "वाऱ्याच्या खनन कार्यामुळे निर्माण होणारी भूरूपे स्पष्ट करा.",
+      "answer": "वाळवंटी प्रदेशात वारा वाळूच्या कणांद्वारे खडकांचे खनन करतो. १) भूछत्र खडक: वाऱ्यातील वाळूचे कण खडकाच्या खालच्या भागावर जास्त आघात करतात, ज्यामुळे खडकाचा तळ भाग अरुंद होतो आणि वरचा भाग छत्रीसारखा दिसतो. २) यारदांग: कठीण आणि मृदू खडकांचे थर एकाआड एक असल्यास मृदू खडकाची झीज होऊन समांतर रांगा आणि खोलगट भाग तयार होतात, त्यास यारदांग म्हणतात."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "सागरी लाटांच्या संचयन कार्यामुळे तयार होणारी भूरूपे स्पष्ट करा.",
+      "answer": "१) पुळण (Beach): लाटांनी वाहून आणलेली वाळू, शंख-शिंपले दोन भूशिरांच्या मधील सखल भागात साचल्यामुळे पुळण तयार होते. २) वाळूचा दांडा: किनाऱ्याला समांतर वाळू साचत गेल्यास वाळूचा दांडा तयार होतो. ३) खाजण (Lagoon): वाळूचा दांडा आणि मुख्य जमीन यांच्या दरम्यान तयार झालेल्या खाऱ्या पाण्याच्या साठ्याला खाजण म्हणतात. ४) पुळण हे पर्यटनाच्या दृष्टीने महत्त्वाचे असते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "नदीच्या वहन क्षमतेवर परिणाम करणारे घटक सविस्तर स्पष्ट करा.",
+      "answer": "नदीची वहन क्षमता खालील घटकांवर अवलंबून असते: १) पाण्याचे प्रमाण: नदीत जितके जास्त पाणी असेल, तितका मोठा गाळ ती वाहून नेऊ शकते. २) पाण्याचा वेग: तीव्र उतारामुळे पाण्याचा वेग वाढतो आणि वहन कार्य अधिक कार्यक्षम होते. ३) गाळाचे स्वरूप: वाळू आणि मातीचे सूक्ष्म कण लांबवर वाहून नेले जातात, तर मोठे दगड-गोटे कमी अंतरापर्यंत जातात. ४) नदीच्या पात्राची लांबी: नदी जेवढी जास्त लांब प्रवास करते, तेवढ्या मोठ्या प्रमाणात गाळ जमा होतो. ५) पात्राचा उतार: डोंगराळ भागात उतार तीव्र असल्याने वहन कार्य जलद होते, तर मैदानी भागात वेग मंदावल्याने वहन क्षमता कमी होते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "हिमनदीच्या खनन कार्यातून तयार होणाऱ्या 'लोबती दरी'ची (Hanging Valley) निर्मिती स्पष्ट करा.",
+      "answer": "१) मुख्य हिमनदीचे पात्र मोठे आणि खोल असते, कारण तिथे बर्फाचे प्रमाण जास्त असते. २) मुख्य हिमनदीला मिळणाऱ्या उपहिमनदीत बर्फाचे प्रमाण कमी असल्याने तिचे खनन कार्य तुलनेने कमी होते. ३) यामुळे उपहिमनदीची दरी मुख्य दरीपेक्षा कमी खोल राहते. ४) जेव्हा दोन्ही दऱ्यांमधील बर्फ वितळतो, तेव्हा उपहिमनदीची दरी मुख्य दरीवर उंचावर लोबल्यासारखी दिसते. ५) अशा दऱ्यांमधून अनेकदा धबधबे उगम पावतात."
+    },
+    
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "वाळूच्या टेकड्यांच्या (Sand Dunes) निर्मितीची प्रक्रिया आणि प्रमुख प्रकार स्पष्ट करा.",
+      "answer": "वाऱ्यासोबत वाहणाऱ्या वाळूच्या मार्गात अडथळा आल्यास संचयन होऊन टेकड्या तयार होतात. १) बारखाण: हे चंद्रकोरीच्या आकाराचे असतात. वाऱ्याच्या दिशेकडील उतार मंद असतो, तर विरुद्ध बाजूचा उतार तीव्र असतो. २) सैफ: हे आकाराने लांब आणि अरुंद असतात. ते वाऱ्याच्या दिशेला समांतर पसरलेले असतात. ३) निर्मितीसाठी वाऱ्याचा वेग, वाळूचा पुरवठा आणि अडथळ्याची उपस्थिती हे घटक महत्त्वाचे असतात."
+    },
+    
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "सागरी लाटांच्या कार्यामुळे 'सागरी कमान' (Sea Arch) आणि 'सागरी स्तंभ' (Sea Stack) कसे तयार होतात?",
+      "answer": "१) जेव्हा समुद्रातील एखादा खडकाळ भाग पुढे आलेला असतो, तेव्हा लाटा दोन्ही बाजूंनी त्यावर आघात करतात. २) यामुळे दोन्ही बाजूंनी सागरी गुहा तयार होतात. ३) कालांतराने या गुहा एकमेकींना मिळाल्यास मधला भाग आरपार जातो आणि 'सागरी कमान' तयार होते. ४) लाटांच्या सततच्या माऱ्यामुळे कमानीचा वरचा भाग कोसळतो. ५) त्यानंतर समुद्रात केवळ खडकाचा उभा खांब शिल्लक राहतो, ज्याला 'सागरी स्तंभ' म्हणतात."
+    },
+    
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "लवणस्तंभाची निर्मिती प्रक्रिया सविस्तर स्पष्ट करा.",
+      "answer": "१) चुनखडीच्या प्रदेशात भूजल खडकातील क्षार विरघळवते. २) हे चुनखडीमिश्रित पाणी जेव्हा गुहेच्या छतातून झिरपते, तेव्हा उष्णतेमुळे पाण्याचे बाष्पीभवन होते. ३) उरलेल्या क्षारांचे अवक्षेपण होऊन छताला लोंबणारे स्तंभ तयार होतात, त्यांना 'अधोमुखी लवणस्तंभ' म्हणतात. ४) छतातून खाली पडणाऱ्या थेंबांमधील क्षार जमिनीवर साचून वरच्या दिशेने वाढणारे स्तंभ तयार होतात, त्यांना 'ऊर्ध्वमुखी लवणस्तंभ' म्हणतात. ५) कालांतराने हे दोन्ही स्तंभ एकमेकांना मिळून एक पूर्ण 'लवण स्तंभ' तयार होतो."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "नदीच्या मुखाशी 'त्रिभुज प्रदेश' (Delta) का तयार होतात? त्यासाठी आवश्यक अटी सांगा.",
+      "answer": "१) नदी जेव्हा समुद्राला मिळते, तेव्हा तिचा वेग अत्यंत कमी झालेला असतो. २) नदीने वाहून आणलेल्या गाळाचे संचयन मुखापाशी सुरू होते. ३) गाळाच्या अडथळ्यामुळे नदी अनेक उपवाहिन्यांत (वितरिका) विभागली जाते. ४) आवश्यक अटी: नदीच्या प्रवाहात गाळाचे प्रमाण जास्त असणे, नदीची लांबी मोठी असणे, मुखापाशी जमिनीचा उतार मंद असणे आणि समुद्रात लाटांचा वेग कमी असणे. यामुळे त्रिकोणी आकाराचा सुपीक प्रदेश तयार होतो."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "हिमोढाचे प्रकार स्पष्ट करून त्यांच्या स्थानांचे वर्णन करा.",
+      "answer": "हिमोढ म्हणजे हिमनदीने वाहून आणलेला गाळ. १) पाचर्वी हिमोढ: हिमनदीच्या दोन्ही काठांवर साचलेला गाळ. २) मध्य हिमोढ: दोन हिमनद्या एकत्र येतात तेव्हा त्यांच्या आतील काठांचा पाचर्वी हिमोढ एकत्र येऊन प्रवाहाच्या मध्यभागी सरकतो. ३) तळ हिमोढ: हिमनदीच्या तळाला जमिनीशी घर्षण होऊन साचलेला गाळ. ४) अंतिम हिमोढ: हिमनदी जिथे संपते, तिथे अर्धवर्तुळाकार स्वरूपात साचलेला गाळ. हे प्रकार हिमनदीच्या प्रवाहातील गाळाच्या स्थानावरून ठरवले जातात."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "वाऱ्याच्या वहन कार्यात कोणत्या प्रक्रियांचा समावेश होतो?",
+      "answer": "वारा वाळूचे कण तीन प्रकारे वाहून नेतो: १) उड्डाण (Saltation): मध्यम आकाराचे कण वाऱ्याच्या धक्क्याने जमिनीवर उड्या मारत पुढे जातात. २) निलंबन (Suspension): अतिशय बारीक धूलिकण हवेत तरंगत खूप लांब अंतरापर्यंत वाहून नेले जातात. ३) पृष्ठसर्पण (Surface Creep): वाळूचे मोठे आणि जड कण जमिनीवरून घरंगळत किंवा सरकत पुढे जातात. वाऱ्याचा वेग जितका जास्त, तितके वहन कार्य प्रभावी असते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "सागरी लाटांच्या संचयन कार्यामुळे तयार होणाऱ्या 'पुळण' (Beach) आणि 'वाळूचा दांडा' (Sand Bar) यातील फरक स्पष्ट करा.",
+      "answer": "१) पुळण: लाटांनी वाहून आणलेली वाळू आणि शंख-शिंपले थेट समुद्रकिनाऱ्यावर सखल भागात साचतात, त्याला पुळण म्हणतात. २) वाळूचा दांडा: लाटांनी आणलेली वाळू किनाऱ्यापासून थोड्या अंतरावर समुद्रात किनाऱ्याला समांतर साचत जाते, तेव्हा वाळूचा दांडा तयार होतो. ३) पुळण हे जमिनीला लागून असते, तर वाळूचा दांडा अनेकदा समुद्राच्या पाण्यात स्वतंत्र भिंतीसारखा दिसतो. ४) दांड्यामुळे समुद्राचे पाणी मुख्य जमिनीपासून वेगळे झाल्यास 'खाजण' तयार होते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "भूपृष्ठात होणाऱ्या बदलांमध्ये बाह्य कारकांची भूमिका स्पष्ट करा.",
+      "answer": "१) बाह्य कारके (नदी, वारा, हिमनदी इ.) भूपृष्ठावर सतत कार्यरत असतात. २) ती अंतर्गत हालचालींमुळे निर्माण झालेल्या उंचवटा आणि दऱ्यांचे स्वरूप बदलतात. ३) खनन प्रक्रियेमुळे पर्वतांची उंची कमी होते, तर संचयन प्रक्रियेमुळे सकल भाग भरले जाऊन मैदाने तयार होतात. ४) ही कारके प्राथमिक व द्वितीयक भूरूपांचे विच्छेदन करून तृतीयक भूरूपे निर्माण करतात. ५) या प्रक्रियांमुळे पृथ्वीच्या पृष्ठभागाचे पुनरुज्जीवन आणि समतलीकरण होण्यास मदत होते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "नदीच्या नागमोडी वळणांमुळे (Meanders) कालांतराने 'नालकृती सरोवर' (Ox-bow Lake) कसे तयार होते?",
+      "answer": "१) मैदानी प्रदेशात नदीचा वेग मंद असल्याने ती जमिनीच्या उतारानुसार वळणे घेत वाहते. २) वळणांच्या बाहेरील बाजूस नदीचे खनन कार्य होते, तर आतील बाजूस संचयन होते. ३) यामुळे वळण अधिक तीव्र होत जाते. ४) पुराच्या वेळी नदी आपले वळण सोडून सरळ मार्गाने वाहू लागते. ५) मूळ वळणाचा भाग मुख्य प्रवाहापासून वेगळा पडतो आणि तिथे साचलेल्या पाण्याचे 'नालकृती सरोवर' तयार होते."
+    },
+    
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "हिमनदीच्या खनन कार्यामुळे तयार होणाऱ्या 'गिरीशृंग' (Horn) ची निर्मिती स्पष्ट करा.",
+      "answer": "१) जेव्हा एखाद्या डोंगराच्या वेगवेगळ्या बाजूंनी अनेक हिमनद्या उगम पावतात, तेव्हा तिथे अनेक 'हिमगव्हर' तयार होतात. २) ही हिमगव्हर मागे मागे झिजत गेल्यामुळे डोंगराचा मधला भाग अतिशय अरुंद आणि टोकदार होतो. ३) या टोकदार शिखरास 'गिरीशृंग' म्हणतात. ४) स्वित्झर्लंडमधील आल्प्स पर्वतातील 'मॅटरहॉर्न' हे याचे जगात प्रसिद्ध उदाहरण आहे."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "वाळवंटी प्रदेशात 'भूछत्र खडक' (Mushroom Rock) केवळ खालच्या भागातच का झिजतो?",
+      "answer": "१) वाऱ्यासोबत वाहणारे वाळूचे कण हे जड असतात, त्यामुळे ते जमिनीपासून ठराविक उंचीपर्यंतच (सहसा १-२ मीटर) वाहू शकतात. २) वाळूच्या कणांचे घर्षण या मर्यादित उंचीवर सर्वाधिक असते. ३) वाऱ्याचा वेग खालच्या स्तरावर घर्षण करण्यासाठी पुरेसा असतो, पण वरच्या भागात वाळूचे कण कमी असल्याने झीज कमी होते. ४) यामुळे खडकाचा पाया अरुंद होतो आणि वरचा भाग मोठ्या छत्रीसारखा राहतो."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "सागरी लाटांच्या कार्यावर परिणाम करणाऱ्या घटकांचे वर्णन करा.",
+      "answer": "१) वाऱ्याचा वेग: वारा जेवढा वेगाने वहेल, तेवढ्या मोठ्या लाटा निर्माण होतात. २) पाण्याची खोली: उथळ पाण्यात लाटांचे स्वरूप बदलते. ३) किनाऱ्याचा प्रकार: खडकाळ किनाऱ्यावर खनन जास्त होते, तर रेताड किनाऱ्यावर संचयन. ४) समुद्राची खोली: खोली जास्त असल्यास लाटांची ऊर्जा अधिक असते. ५) भरती-ओहोटी: यामुळे लाटांच्या माऱ्याची उंची बदलत राहते. ६) भूशिरे आणि उपसागर: किनाऱ्याची रचना लाटांच्या कार्याची दिशा ठरवते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "भूजलाच्या कार्यामुळे तयार होणाऱ्या 'विलय विवरांचे' (Sinkholes) महत्त्व स्पष्ट करा.",
+      "answer": "१) चुनखडीच्या प्रदेशात पावसाचे पाणी कार्बन डायऑक्साइड मिसळून जमिनीवर पडते. २) हे आम्लयुक्त पाणी चुनखडीशी रासायनिक प्रक्रिया करून तिला विरघळवते. ३) जमिनीवर ठिकठिकाणी खड्डे किंवा विवरे तयार होतात, ज्यातून पाणी जमिनीखाली झिरपते. ४) या विवरांना 'विलय विवर' म्हणतात. ५) यामुळे पृष्ठभागावरील पाणी कमी होऊन भूजलाचा साठा वाढण्यास मदत होते, मात्र यामुळे जमिनीचा पृष्ठभाग कमकुवत होऊ शकतो."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "नदीच्या 'V' आकाराच्या दरीची वैशिष्ट्ये सांगा.",
+      "answer": "१) ही दरी नदीच्या उगम क्षेत्रात किंवा डोंगराळ भागात तयार होते. २) तीव्र उतारामुळे नदी तळभागाचे खनन वेगाने करते. ३) पात्राच्या बाजूंची झीज तळाच्या तुलनेत कमी होते. ४) यामुळे या दरीचा आकार इंग्रजी 'V' अक्षरासारखा दिसतो. ५) या दऱ्या खोल आणि अरुंद असतात. ६) नदीचा वेग आणि ऊर्जा या भागात सर्वाधिक असते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "हिमनदीचे संचयन कार्य नदीच्या संचयन कार्यापेक्षा कसे वेगळे आहे?",
+      "answer": "१) नदीचा गाळ पाण्याचे प्रमाण आणि वेगानुसार वाहून नेला जातो, तर हिमनदीचा गाळ बर्फाच्या हालचालीवर अवलंबून असतो. २) नदीचा गाळ प्रामुख्याने मुखाशी किंवा पात्राच्या कडेला साचतो, तर हिमनदीचा गाळ (हिमोढ) तळाला, कडेला आणि शेवटीही साचतो. ३) नदीच्या गाळाचे कण आकाराने लहान आणि गुळगुळीत असतात, तर हिमोढामध्ये वेगवेगळ्या आकाराचे अणकुचीदार दगड आणि माती यांचे मिश्रण असते. ४) हिमनदीचे संचयन कार्य नदीच्या तुलनेत अत्यंत मंद असते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "वाऱ्याच्या वहन कार्यावर मर्यादा आणणारे घटक कोणते?",
+      "answer": "१) वनस्पतींचे आच्छादन: झाडे आणि गवत वाऱ्याचा वेग कमी करतात आणि वाळू धरून ठेवतात. २) जमिनीतील ओलावा: ओल्या मातीचे कण जड होतात आणि वाऱ्यासोबत उडू शकत नाहीत. ३) खडकांचा प्रकार: कठीण खडक सहजासहजी झिजत नाहीत, त्यामुळे गाळाचा पुरवठा कमी होतो. ४) अडथळे: पर्वत किंवा इमारती वाऱ्याचा मार्ग बदलतात किंवा वेग रोखतात. ५) वाऱ्याचा वेग: वेग कमी झाल्यास वहन थांबून संचयन सुरू होते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "सागरी लाटांमुळे तयार होणाऱ्या 'तरंग घर्षित मंचाचे' (Wave-cut Platform) वर्णन करा.",
+      "answer": "१) सागरी कड्याच्या पायथ्याशी लाटांचे सतत आघात होतात. २) यामुळे कड्याचा खालचा भाग झिजतो आणि कडा मागे सरकतो. ३) कड्याच्या पायथ्याशी एक सपाट खडकाळ भाग तयार होतो, जो ओहोटीच्या वेळी उघडा पडतो. ४) याला 'तरंग घर्षित मंच' म्हणतात. ५) हा मंच लाटांच्या खनन कार्याचा उत्तम पुरावा आहे. ६) भारतातील पश्चिम किनाऱ्यावर असे मंच अनेक ठिकाणी आढळतात."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "भूजल संवर्धनाचे महत्त्व बाह्यप्रक्रियांच्या संदर्भात स्पष्ट करा.",
+      "answer": "१) भूजल हे एक महत्त्वाचे नैसर्गिक संसाधन आहे जे बाह्यप्रक्रियांमुळे साठवले जाते. २) सच्छिद्र खडक आणि विलय विवरे पावसाचे पाणी जमिनीत मुरवण्यास मदत करतात. ३) भूजल खननामुळे तयार होणाऱ्या गुहा आणि लवणस्तंभ हे पर्यटन आणि भूशास्त्रीय अभ्यासासाठी महत्त्वाचे आहेत. ४) भूजलाचा उपसा जास्त झाल्यास जमिनीखालील पोकळ्या खचू शकतात. ५) बाह्यप्रक्रियांद्वारे होणारे भूजल पुनर्भरण पर्यावरणाचे संतुलन राखण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "नदीच्या उगम ते मुखापर्यंतच्या प्रवासातील बदलांचे वर्णन करा.",
+      "answer": "१) उगम: उंचावर, तीव्र उतार, वेगाने वाहणारे पाणी, प्रामुख्याने खनन कार्य. २) मध्य प्रवाह: उतार थोडा कमी, वहन आणि संचयन कार्याची सुरुवात, पात्र रुंदावणे. ३) अंतिम प्रवाह (मुख): मंद उतार, अत्यंत कमी वेग, प्रामुख्याने संचयन कार्य. ४) भूरूपे: डोंगराळ भागात घळई, मैदानी भागात नागामोडी वळणे आणि मुखाशी त्रिभुज प्रदेश तयार होतात. ५) पाण्याचे प्रमाण आणि गाळाचे प्रमाण मुखाकडे जाताना वाढत जाते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "हिमनदीच्या 'U' आकाराच्या दरीची निर्मिती सविस्तर सांगा.",
+      "answer": "१) हिमनदी जेव्हा आधीच्या नदीने तयार केलेल्या 'V' आकाराच्या दरीतून वाहते, तेव्हा ती दरीचे स्वरूप बदलते. २) बर्फाचा प्रचंड दाब आणि वजनामुळे हिमनदी दरीचा तळभाग तसेच दोन्ही बाजूंचे कडे समान रीतीने झिजवते. ३) यामुळे दरीचे काठ तीव्र उताराचे आणि तळभाग सपाट व रुंद होतो. ४) या दरीचा आकार इंग्रजी 'U' अक्षरासारखा दिसतो. ५) ही दरी नदीच्या दरीपेक्षा खूप मोठी आणि भव्य असते."
+    },
+    
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "वाळवंटात 'यारदांग' (Yardang) कसे तयार होतात?",
+      "answer": "१) ज्या प्रदेशात कठीण आणि मृदू खडकांचे थर उभ्या किंवा तिरप्या स्थितीत एकाआड एक असतात, तिथे ही भूरूपे तयार होतात. २) वारा मृदू खडकांची झीज वेगाने करतो, तर कठीण खडक कमी झिजतात. ३) यामुळे मृदू खडकांच्या जागी खोलगट नळ्या किंवा दऱ्या तयार होतात. ४) कठीण खडकाचे भाग वर उचलल्यासारखे किंवा समांतर भिंतींसारखे उरतात. ५) या संरचनेला 'यारदांग' म्हणतात. हे वाऱ्याच्या दिशा समांतर असतात."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "सागरी लाटांच्या कार्यामुळे निर्माण होणाऱ्या 'सागरी गुहा' (Sea Caves) स्पष्ट करा.",
+      "answer": "१) सागरी लाटा जेव्हा कड्याच्या पायथ्याशी आदळतात, तेव्हा तिथे हवेचा दाब वाढतो आणि खडकांना तडे जातात. २) जर खडकाचा काही भाग मऊ असेल, तर लाटांच्या माऱ्यामुळे तिथे पोकळी निर्माण होते. ३) सततच्या खननामुळे ही पोकळी मोठी होत जाते आणि गुहेचे स्वरूप धारण करते. ४) याला 'सागरी गुहा' म्हणतात. ५) अशा गुहांची खोली लाटांच्या शक्तीवर आणि खडकाच्या संरचनेवर अवलंबून असते."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "चुनखडीच्या प्रदेशातील 'अधोमुखी' आणि 'ऊर्ध्वमुखी' लवणस्तंभांमधील फरक स्पष्ट करा.",
+      "answer": "१) अधोमुखी स्तंभ गुहेच्या छताला लटकलेले असतात, तर ऊर्ध्वमुखी स्तंभ जमिनीवरून वर वाढतात. २) अधोमुखी स्तंभांचे टोक खालच्या दिशेला असते, तर ऊर्ध्वमुखी स्तंभांचे टोक वरच्या दिशेला असते. ३) अधोमुखी स्तंभ छतातून झिरपणाऱ्या पाण्यातील क्षारांमुळे तयार होतात, तर ऊर्ध्वमुखी स्तंभ जमिनीवर पडणाऱ्या थेंबांमुळे तयार होतात. ४) अनेकदा अधोमुखी स्तंभ अरुंद असतात, तर ऊर्ध्वमुखी स्तंभ तळाला जाड असतात."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "नदीच्या 'पूरतट' (Levees) आणि 'पूरमैदान' (Flood Plain) निर्मितीची प्रक्रिया लिहा.",
+      "answer": "१) पावसाळ्यात नदीला जेव्हा महापूर येतो, तेव्हा पाणी पात्राबाहेर पसरते. २) पात्राच्या अगदी जवळ जड गाळाचे (वाळू, दगड) संचयन होते, ज्यामुळे नैसर्गिक भिंतीसारखे बांध तयार होतात, त्यांना 'पूरतट' म्हणतात. ३) हलका गाळ (माती) लांबवर पसरला जातो, ज्यामुळे सपाट प्रदेश तयार होतो, त्याला 'पूरमैदान' म्हणतात. ४) ही मैदाने शेतीसाठी अत्यंत सुपीक असतात कारण दरवर्षी तिथे नवीन गाळाचा थर साचतो."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "हिमनदीच्या 'हिमगव्हर' (Cirque) ची वैशिष्ट्ये सांगा.",
+      "answer": "१) हिमनदीच्या उगमस्थानी डोंगराच्या उतारावर बर्फाच्या दाबामुळे मोठा खड्डा तयार होतो. २) याचा आकार खुर्चीसारखा किंवा अर्धवर्तुळाकार असतो. ३) याच्या तीन बाजू उंच आणि उभ्या कड्याच्या असतात. ४) मधला भाग खोलगट असतो. ५) बर्फ वितळल्यावर अनेकदा या हिमगव्हरमध्ये तलाव तयार होतात, ज्यांना 'टार्न' (Tarn) म्हणतात."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "वाऱ्याच्या वहन कार्यात 'लोएस' (Loess) मैदानांचे महत्त्व काय?",
+      "answer": "१) वाळवंटातील अतिशय बारीक पिवळसर माती वाऱ्यासोबत शेकडो किलोमीटर लांब वाहून नेली जाते. २) वाळवंटाबाहेरील प्रदेशात जिथे वारा मंदावतो, तिथे या मातीचे मोठे थर साचतात. ३) याला 'लोएस मैदान' म्हणतात. ४) ही माती अत्यंत सुपीक असते आणि पाणी धरून ठेवण्याची क्षमता चांगली असते. ५) चीनमधील ह्वांग-हो नदीच्या खोऱ्यात ही मैदाने मोठ्या प्रमाणावर आढळतात."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "सागरी लाटांच्या वहन कार्यात 'वाळूचे वहन' कसे होते?",
+      "answer": "१) सागरी लाटा किनाऱ्यावर तिरप्या येऊन आदळतात तेव्हा त्यासोबत वाळू पुढे जाते. २) पाणी मागे सरकताना (Backwash) वाळू थेट समुद्राच्या दिशेने ओढली जाते. ३) या प्रक्रियेमुळे वाळू किनाऱ्याला समांतर झिग-झॅग पद्धतीने पुढे सरकते. ४) यालाच 'किनाऱ्यालगतचे वहन' (Longshore Drift) म्हणतात. ५) यामुळे एका ठिकाणची वाळू दुसऱ्या ठिकाणी साचून पुळण किंवा दांडे तयार होतात."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "बाह्यप्रक्रिया मानवी जीवनावर कसा प्रभाव टाकतात?",
+      "answer": "१) बाह्यप्रक्रियांमुळे सुपीक मैदाने तयार होतात, जी शेतीसाठी आधार आहेत. २) नद्यांमुळे जलवाहतूक आणि पिण्याच्या पाण्याचा पुरवठा होतो. ३) विदारण आणि संचयनामुळे विविध खनिजे पृष्ठभागावर येतात. ४) पर्यटनासाठी निसर्गरम्य भूरूपे (धबधबे, पुळण, लेण्या) तयार होतात. ५) मात्र, पूर, दरडी कोसळणे किंवा भूस्खलन यांसारख्या बाह्यप्रक्रियांमुळे मनुष्यहानी आणि वित्तहानी देखील होऊ शकते."
+    }
+  ]
+}
+  

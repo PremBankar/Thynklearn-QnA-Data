@@ -1,0 +1,791 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Biology.17",
+    "standard": "9",
+    "subject": "Biology",
+    "medium": "English",
+    "chapter_name": "Introduction to Biotechnology"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the smallest structural and functional unit of living organisms?",
+      "options": [
+        { "option_id": 1, "text": "Tissue", "is_correct": false },
+        { "option_id": 2, "text": "Organ", "is_correct": false },
+        { "option_id": 3, "text": "Cell", "is_correct": true },
+        { "option_id": 4, "text": "Organelle", "is_correct": false }
+      ],
+      "answer": "Cell"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is a simple tissue in animals?",
+      "options": [
+        { "option_id": 1, "text": "Blood", "is_correct": false },
+        { "option_id": 2, "text": "Xylem", "is_correct": false },
+        { "option_id": 3, "text": "Epithelial tissue", "is_correct": true },
+        { "option_id": 4, "text": "Nervous tissue", "is_correct": false }
+      ],
+      "answer": "Epithelial tissue"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What type of epithelial tissue is found in the inner surface of the mouth and esophagus?",
+      "options": [
+        { "option_id": 1, "text": "Stratified epithelium", "is_correct": false },
+        { "option_id": 2, "text": "Squamous epithelium", "is_correct": true },
+        { "option_id": 3, "text": "Columnar epithelium", "is_correct": false },
+        { "option_id": 4, "text": "Glandular epithelium", "is_correct": false }
+      ],
+      "answer": "Squamous epithelium"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which connective tissue is responsible for the transport of oxygen and nutrients?",
+      "options": [
+        { "option_id": 1, "text": "Cartilage", "is_correct": false },
+        { "option_id": 2, "text": "Bone", "is_correct": false },
+        { "option_id": 3, "text": "Blood", "is_correct": true },
+        { "option_id": 4, "text": "Lymph", "is_correct": false }
+      ],
+      "answer": "Blood"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which type of muscle is found in the heart?",
+      "options": [
+        { "option_id": 1, "text": "Striated muscle", "is_correct": false },
+        { "option_id": 2, "text": "Non-striated muscle", "is_correct": false },
+        { "option_id": 3, "text": "Cardiac muscle", "is_correct": true },
+        { "option_id": 4, "text": "Skeletal muscle", "is_correct": false }
+      ],
+      "answer": "Cardiac muscle"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the main function of nervous tissue?",
+      "options": [
+        { "option_id": 1, "text": "Support and protection", "is_correct": false },
+        { "option_id": 2, "text": "Contraction and movement", "is_correct": false },
+        { "option_id": 3, "text": "Transport of materials", "is_correct": false },
+        { "option_id": 4, "text": "Response to stimuli", "is_correct": true }
+      ],
+      "answer": "Response to stimuli"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which tissue is responsible for increasing the length of roots and stems in plants?",
+      "options": [
+        { "option_id": 1, "text": "Intercalary meristem", "is_correct": false },
+        { "option_id": 2, "text": "Lateral meristem", "is_correct": false },
+        { "option_id": 3, "text": "Apical meristem", "is_correct": true },
+        { "option_id": 4, "text": "Permanent tissue", "is_correct": false }
+      ],
+      "answer": "Apical meristem"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which plant tissue is made up of dead, fibrous cells with lignin in their cell walls?",
+      "options": [
+        { "option_id": 1, "text": "Parenchyma", "is_correct": false },
+        { "option_id": 2, "text": "Collenchyma", "is_correct": false },
+        { "option_id": 3, "text": "Sclerenchyma", "is_correct": true },
+        { "option_id": 4, "text": "Epidermis", "is_correct": false }
+      ],
+      "answer": "Sclerenchyma"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which complex permanent tissue in plants transports water and minerals upward?",
+      "options": [
+        { "option_id": 1, "text": "Phloem", "is_correct": false },
+        { "option_id": 2, "text": "Xylem", "is_correct": true },
+        { "option_id": 3, "text": "Epidermis", "is_correct": false },
+        { "option_id": 4, "text": "Parenchyma", "is_correct": false }
+      ],
+      "answer": "Xylem"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the term 'totipotent' refer to in biology?",
+      "options": [
+        { "option_id": 1, "text": "Ability to conduct impulses", "is_correct": false },
+        { "option_id": 2, "text": "Ability to contract and relax", "is_correct": false },
+        { "option_id": 3, "text": "Ability to produce a new organism from a single cell", "is_correct": true },
+        { "option_id": 4, "text": "Ability to photosynthesize", "is_correct": false }
+      ],
+      "answer": "Ability to produce a new organism from a single cell"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which technique involves the ex vivo growth of cells in a nutrient-rich medium?",
+      "options": [
+        { "option_id": 1, "text": "Genetic engineering", "is_correct": false },
+        { "option_id": 2, "text": "Tissue culture", "is_correct": true },
+        { "option_id": 3, "text": "Hybridization", "is_correct": false },
+        { "option_id": 4, "text": "Sericulture", "is_correct": false }
+      ],
+      "answer": "Tissue culture"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the full form of GM crops?",
+      "options": [
+        { "option_id": 1, "text": "Generally Modified crops", "is_correct": false },
+        { "option_id": 2, "text": "Genetically Managed crops", "is_correct": false },
+        { "option_id": 3, "text": "Genetically Modified crops", "is_correct": true },
+        { "option_id": 4, "text": "Growth Modified crops", "is_correct": false }
+      ],
+      "answer": "Genetically Modified crops"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which scientist proved that a single cell from a carrot root could produce a new plant?",
+      "options": [
+        { "option_id": 1, "text": "Gregor Mendel", "is_correct": false },
+        { "option_id": 2, "text": "Frederick Campion Steward", "is_correct": true },
+        { "option_id": 3, "text": "Louis Pasteur", "is_correct": false },
+        { "option_id": 4, "text": "Robert Hooke", "is_correct": false }
+      ],
+      "answer": "Frederick Campion Steward"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is a benefit of GM crops?",
+      "options": [
+        { "option_id": 1, "text": "Decreased resistance to pests", "is_correct": false },
+        { "option_id": 2, "text": "Increased use of pesticides", "is_correct": false },
+        { "option_id": 3, "text": "Improved nutritive value", "is_correct": true },
+        { "option_id": 4, "text": "Reduced growth in adverse conditions", "is_correct": false }
+      ],
+      "answer": "Improved nutritive value"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the purpose of a bioreactor in biotechnology?",
+      "options": [
+        { "option_id": 1, "text": "To store seeds", "is_correct": false },
+        { "option_id": 2, "text": "To grow cells on a large scale in a nutritive medium", "is_correct": true },
+        { "option_id": 3, "text": "To harvest crops", "is_correct": false },
+        { "option_id": 4, "text": "To cross-pollinate plants", "is_correct": false }
+      ],
+      "answer": "To grow cells on a large scale in a nutritive medium"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of an agro-complementary occupation?",
+      "options": [
+        { "option_id": 1, "text": "Computer programming", "is_correct": false },
+        { "option_id": 2, "text": "Animal husbandry", "is_correct": true },
+        { "option_id": 3, "text": "Architecture", "is_correct": false },
+        { "option_id": 4, "text": "Teaching", "is_correct": false }
+      ],
+      "answer": "Animal husbandry"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the rearing of egg and meat-yielding chickens called?",
+      "options": [
+        { "option_id": 1, "text": "Sericulture", "is_correct": false },
+        { "option_id": 2, "text": "Apiculture", "is_correct": false },
+        { "option_id": 3, "text": "Poultry farming", "is_correct": true },
+        { "option_id": 4, "text": "Horticulture", "is_correct": false }
+      ],
+      "answer": "Poultry farming"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which stage of the silk moth's life cycle is transferred to boiling water in sericulture?",
+      "options": [
+        { "option_id": 1, "text": "Egg", "is_correct": false },
+        { "option_id": 2, "text": "Larva", "is_correct": false },
+        { "option_id": 3, "text": "Pupa", "is_correct": true },
+        { "option_id": 4, "text": "Adult moth", "is_correct": false }
+      ],
+      "answer": "Pupa"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the primary reason for transferring cocoons to boiling water in sericulture?",
+      "options": [
+        { "option_id": 1, "text": "To kill the pupa and loosen silk fibers", "is_correct": true },
+        { "option_id": 2, "text": "To feed the larvae", "is_correct": false },
+        { "option_id": 3, "text": "To hatch the eggs", "is_correct": false },
+        { "option_id": 4, "text": "To dye the silk", "is_correct": false }
+      ],
+      "answer": "To kill the pupa and loosen silk fibers"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT typically a component of an agritourism center?",
+      "options": [
+        { "option_id": 1, "text": "Butterfly garden", "is_correct": false },
+        { "option_id": 2, "text": "Medicinal plant garden", "is_correct": false },
+        { "option_id": 3, "text": "Industrial factory", "is_correct": true },
+        { "option_id": 4, "text": "Organic vegetable farm", "is_correct": false }
+      ],
+      "answer": "Industrial factory"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Define tissue.",
+      "answer": "A group of cells having the same origin, same structure, and same function is called a tissue."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name the four main types of animal tissues.",
+      "answer": "Epithelial tissue, connective tissue, muscular tissue, and nervous tissue."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Where is squamous epithelium located?",
+      "answer": "Inner surface of mouth, esophagus, blood vessels, and alveoli."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What is the function of columnar epithelium?",
+      "answer": "Secretion of digestive juice and absorption of nutrients."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why is blood considered a connective tissue?",
+      "answer": "Because it circulates in the body and transports materials like oxygen, nutrients, and waste."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the function of adipose tissue?",
+      "answer": "Insulation, supply of energy, and storage of fats."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What are tendons and ligaments?",
+      "answer": "Tendons join muscles to bones; ligaments join two bones to each other."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Name the three types of muscular tissues.",
+      "answer": "Striated muscles, non-striated muscles, and cardiac muscles."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the function of nervous tissue?",
+      "answer": "It enables the body to respond to stimuli like touch, sound, and odor."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Where is meristematic tissue located in plants?",
+      "answer": "At the tips of roots and stems (apical), at the base of leaves and branches (intercalary), and on the lateral sides of roots and stems (lateral)."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is the main function of meristematic tissue?",
+      "answer": "To bring about plant growth."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Name the three types of simple permanent tissues in plants.",
+      "answer": "Parenchyma, collenchyma, and sclerenchyma."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the function of xylem?",
+      "answer": "To conduct water and minerals upward from roots to other parts of the plant."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Define biotechnology.",
+      "answer": "The techniques of bringing about improvements in living organisms by artificial genetic changes and hybridization for human welfare."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is tissue culture?",
+      "answer": "Ex vivo growth of cells or tissues in an aseptic and nutrient-rich medium."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Name one GM crop variety mentioned in the chapter.",
+      "answer": "Bt cotton or Golden Rice."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the advantage of producing plantlets through tissue culture?",
+      "answer": "Plants can be grown on a large scale in a shorter time, even without seeds or pollination."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is agritourism?",
+      "answer": "A business that combines agriculture and tourism, where people visit farms or centers with attractions like fruit orchards, gardens, and organic produce."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What are the two main products obtained from poultry farming?",
+      "answer": "Eggs and meat."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is sericulture?",
+      "answer": "The rearing of silkworms (moths) for the production of silk."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Name the four stages in the life cycle of a silk moth.",
+      "answer": "Egg, larva, pupa, and adult moth."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the role of a bioreactor in plantlet production?",
+      "answer": "To grow cells in a nutritive medium on a very large scale, protected from pathogens."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why are plants produced by tissue culture often disease-free?",
+      "answer": "Because plantlets produced from meristem culture are virus-free."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the purpose of vaccinating cattle in animal husbandry?",
+      "answer": "To protect them from diseases and ensure good health for high milk yield."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Name one Indian and one exotic variety of cow kept for milk.",
+      "answer": "Indian: Sahiwal; Exotic: Jersey."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the main food for silkworm larvae?",
+      "answer": "Mulberry leaves."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "How does the cuticle on plant epidermis help the plant?",
+      "answer": "It helps retain water in the underlying parts of the plant."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the difference between simple and complex tissues?",
+      "answer": "Simple tissues are made up of only one type of cell, while complex tissues are made up of more than one type of cell."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the function of phloem?",
+      "answer": "To conduct sugar and amino acids from leaves to various parts of the plant in both upward and downward directions."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why are epithelial tissues called simple tissues?",
+      "answer": "Because they are made up of only one type of cell."
+    },
+    {
+      "question_id": 51,
+      "question_type": "LONG",
+      "question": "Explain the concept of a 'tissue' and its importance in multicellular organisms.",
+      "answer": "A tissue is a group of cells with the same origin, structure, and function. In multicellular organisms, millions of cells are organized into different tissues, each performing a specific function. This division of labor allows for efficient and specialized processes, such as movement by muscular tissue, transport by conducting tissues in plants, and protection by epithelial tissue. Without tissues, complex bodily functions would not be possible."
+    },
+    {
+      "question_id": 52,
+      "question_type": "LONG",
+      "question": "Compare and contrast the growth patterns in plants and animals.",
+      "answer": "Plant growth occurs only at specific parts of the body where meristematic tissue is present, such as the tips of roots and stems. Animals, however, exhibit uniform growth throughout their bodies. Plants have separate dividing (meristematic) and non-dividing (permanent) tissues, while animals do not have such distinct tissue types for growth. This difference is due to the sedentary nature of plants and the greater energy needs of animals for movement."
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "Describe the structure and function of epithelial tissue with examples.",
+      "answer": "Epithelial tissue forms protective coverings in the animal body. Its cells are closely packed and form continuous layers. Examples include the skin, the mucous layer of the mouth, and the inner surface of blood vessels. Types include squamous epithelium for selective transport, stratified epithelium for protection, glandular epithelium for secretion, columnar epithelium for absorption and secretion, ciliated epithelium for moving mucus, and cuboidal epithelium for reabsorption and secretion. It acts as a barrier and is involved in absorption, secretion, and protection."
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "Explain the role of connective tissue in the body and list its different types with one function each.",
+      "answer": "Connective tissues join different parts of the body and provide support, transport, and insulation. Types include: 1) Blood – transports oxygen, nutrients, and waste; 2) Lymph – protects against infections; 3) Areolar tissue – supports internal organs; 4) Adipose tissue – stores fat and insulates; 5) Cartilage – gives support and shape; 6) Bone – supports and protects organs; 7) Tendons and ligaments – connect muscles to bones and bones to each other, respectively."
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "Differentiate between striated, non-striated, and cardiac muscles based on structure and function.",
+      "answer": "Striated muscles are long, cylindrical, multinucleate, and have dark and light bands. They are attached to bones and are voluntary, enabling movements like running. Non-striated muscles are short, spindle-shaped, uninucleate, lack bands, and are involuntary, found in the alimentary canal and blood vessels for movements like peristalsis. Cardiac muscles are cylindrical, uninucleate, branched, have bands, and are involuntary, found only in the heart for rhythmic contraction and relaxation."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "Describe the structure of a neuron and explain how nervous tissue functions.",
+      "answer": "A neuron consists of a cell body (containing the nucleus and cytoplasm), dendrites (small branched fibers that receive signals), and an axon (a long fiber that conducts signals away from the cell body). Nervous tissue, made up of neurons, enables the body to respond to stimuli. When excited, neurons conduct electrical impulses from one part of the body to another, allowing for coordinated actions and responses through the brain, spinal cord, and nerves."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "Explain the experiment with onions to demonstrate root growth. What does it show about plant growth?",
+      "answer": "In the experiment, two onions are placed with their roots dipped in water. Root lengths are measured daily. On day 4, 1 cm of roots is cut from onion B. Observations show that onion A continues growing, while onion B's roots stop growing. This demonstrates that root growth occurs only at the tips where meristematic tissue is located. Cutting the tips removes this tissue, halting growth, which highlights the localized nature of plant growth."
+    },
+    {
+      "question_id": 58,
+      "question_type": "LONG",
+      "question": "What are meristematic tissues? Describe their types and locations in plants.",
+      "answer": "Meristematic tissues are plant tissues responsible for growth. They have cells with thick cytoplasm, conspicuous nuclei, thin cell walls, and no vacuoles. Types include: 1) Apical meristem – located at root and stem tips, increases length; 2) Intercalary meristem – found at leaf bases and branches, promotes growth of branches and flowers; 3) Lateral meristem – on lateral sides of roots and stems, increases girth. These tissues enable plants to grow in specific regions."
+    },
+    {
+      "question_id": 59,
+      "question_type": "LONG",
+      "question": "Compare simple permanent tissues and complex permanent tissues in plants.",
+      "answer": "Simple permanent tissues are made of one cell type and include parenchyma (storage and support), collenchyma (flexibility), and sclerenchyma (strength). Complex permanent tissues consist of multiple cell types: xylem (dead cells for upward water transport) and phloem (living cells for bidirectional transport of sugars and amino acids). Simple tissues perform basic functions, while complex tissues are specialized for conduction."
+    },
+    {
+      "question_id": 60,
+      "question_type": "LONG",
+      "question": "What is biotechnology? Explain its two main techniques.",
+      "answer": "Biotechnology involves techniques to improve living organisms through artificial genetic changes and hybridization for human welfare. The two main techniques are: 1) Genetic engineering – altering DNA to introduce new traits, such as pest resistance in crops; 2) Tissue culture – growing cells or tissues ex vivo in a nutrient medium to produce whole organisms or plantlets. These techniques enable the production of GM crops, vaccines, and disease-free plants."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "Describe the process and benefits of tissue culture in agriculture.",
+      "answer": "Tissue culture involves growing cells or tissues in a sterile, nutrient-rich medium. The process includes primary treatment, subculturing, rooting, and hardening. Benefits include: large-scale production of plantlets in short time, disease-free plants (especially from meristem culture), ability to grow plants without seeds (e.g., orchids), conservation of rare species, and uniformity in crop quality. It revolutionizes farming by enabling rapid propagation and genetic consistency."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "How have GM crops impacted agricultural management? Give examples.",
+      "answer": "GM crops have transformed agriculture by introducing traits not found naturally. Impacts include: 1) Resistance to pests and diseases, reducing pesticide use (e.g., Bt cotton); 2) Enhanced ability to withstand environmental stresses like drought; 3) Improved nutritive value (e.g., Golden Rice with beta-carotene); 4) Higher yields and reduced crop loss. Examples: MON 810 maize, Amflora potato, and Vaishali tomato. These crops support food security and sustainable farming."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "Explain the significance of Frederick Campion Steward's work in biotechnology.",
+      "answer": "Frederick Campion Steward demonstrated that cells and tissues could be grown ex vivo. By isolating cells from a carrot root and culturing them in a nutrient medium, he proved that a single cell could regenerate into a whole plant. This work established the principle of totipotency and laid the foundation for modern tissue culture techniques, enabling advancements in plant propagation, genetic engineering, and agricultural biotechnology."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "What are the applications of biotechnology in floriculture and forestry?",
+      "answer": "In floriculture and forestry, biotechnology enables: 1) Large-scale production of high-quality flower and ornamental plants via tissue culture; 2) Rapid propagation of trees for afforestation; 3) Conservation of rare and endangered species; 4) Production of disease-free plantlets using meristem culture; 5) Use of bioreactors for mass plantlet production. These applications enhance biodiversity, support reforestation, and meet commercial demand efficiently."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "Describe the concept and potential of agritourism as a business.",
+      "answer": "Agritourism combines agriculture and tourism, where visitors engage in farm-based activities. A center may include fruit orchards, medicinal gardens, butterfly gardens, and organic produce. Potential benefits: additional income from selling plantlets, fruits, and vegetables; educational opportunities; promotion of rural tourism; and conservation of local flora. It attracts people seeking relaxation and nature, making it a sustainable and profitable venture that supports local economies."
+    },
+    {
+      "question_id": 66,
+      "question_type": "LONG",
+      "question": "What are the key practices in animal husbandry for high milk yield?",
+      "answer": "Key practices include: 1) Providing a balanced diet with fiber-rich fodder and sufficient water; 2) Maintaining clean, dry, and ventilated cattle sheds; 3) Regular vaccination to prevent diseases; 4) Breeding high-yield varieties like Sahiwal (Indian) or Jersey (exotic). Proper care ensures animal health, cleanliness, and optimal milk production, contributing to dairy farming success and economic benefits."
+    },
+    {
+      "question_id": 67,
+      "question_type": "LONG",
+      "question": "Explain the process of sericulture from egg to silk production.",
+      "answer": "Sericulture begins with silk moth eggs, which are artificially incubated. Larvae hatch and feed on mulberry leaves. After 3–4 days, they secrete silk from salivary glands and spin cocoons. Before pupae develop into adults, cocoons are transferred to boiling water to kill pupae and loosen silk fibers. Fibers are unwound, processed, and reeled into silk threads for weaving fabric. This process yields high-quality silk for textiles."
+    },
+    {
+      "question_id": 68,
+      "question_type": "LONG",
+      "question": "Why is tissue culture considered a vital tool for conserving endangered plants?",
+      "answer": "Tissue culture allows propagation of endangered plants from small tissue samples without harming the parent plant. It enables rapid multiplication in controlled conditions, producing many disease-free plantlets. Seeds or pollination methods may be unavailable for such plants, but tissue culture bypasses these limitations. Additionally, it helps preserve genetic material and restore populations in the wild, playing a crucial role in biodiversity conservation."
+    },
+    {
+      "question_id": 69,
+      "question_type": "LONG",
+      "question": "Discuss the role of biotechnology in addressing food security challenges.",
+      "answer": "Biotechnology addresses food security by developing high-yielding, stress-tolerant, and nutrient-enhanced crops. GM varieties resist pests and diseases, reducing crop losses and chemical use. Tissue culture enables rapid propagation of uniform, disease-free plants. Techniques like genetic engineering improve crop adaptability to climate change. Examples include drought-resistant maize and vitamin-rich rice. These innovations increase agricultural productivity, ensure stable food supplies, and support growing populations sustainably."
+    },
+    {
+      "question_id": 70,
+      "question_type": "LONG",
+      "question": "How can a student set up a butterfly garden as an activity? What steps are involved?",
+      "answer": "To set up a butterfly garden, a student should: 1) Research local butterfly species and their host plants; 2) Select a sunny, sheltered area; 3) Plant nectar-rich flowers (e.g., marigold) and host plants (e.g., milkweed for caterpillars); 4) Provide water sources and flat stones for basking; 5) Avoid pesticides; 6) Maintain the garden regularly. This activity promotes biodiversity, offers educational value, and enhances the school environment."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "What are the environmental and ethical considerations surrounding GM crops?",
+      "answer": "Environmental considerations include potential cross-breeding with wild plants, unintended harm to non-target organisms, and loss of biodiversity. Ethically, concerns involve patenting of seeds, corporate control over food supply, and long-term health effects on consumers. While GM crops offer benefits like increased yields and reduced pesticides, careful regulation, risk assessment, and public dialogue are needed to ensure sustainable and equitable use."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the importance of agro-complementary occupations in rural economies.",
+      "answer": "Agro-complementary occupations, such as animal husbandry, poultry farming, and sericulture, diversify income sources in rural areas. They utilize agricultural by-products (e.g., fodder), create employment, and enhance food production. These activities reduce dependency on单一crop farming, improve livelihoods, and promote sustainable land use. They also support ancillary industries like dairy processing and silk weaving, strengthening local economies and contributing to rural development."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "How does the structure of xylem and phloem relate to their functions in plants?",
+      "answer": "Xylem consists of dead, thick-walled cells (tracheids and vessels) forming hollow tubes, ideal for upward water and mineral transport via capillary action and transpiration pull. Phloem contains living sieve tubes and companion cells, allowing bidirectional flow of sugars and amino acids through active transport and pressure flow. Their structures are specialized for efficient conduction: xylem for unidirectional water movement, phloem for nutrient distribution throughout the plant."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain how muscular and nervous tissues work together to produce movement.",
+      "answer": "Nervous tissue receives stimuli and generates electrical impulses via neurons. These impulses travel to muscular tissue, where they trigger contraction of muscle fibers. For example, when touching a hot object, sensory neurons send signals to the spinal cord, which relays motor impulses to arm muscles, causing withdrawal. This integration allows coordinated, rapid responses, enabling voluntary actions like walking and involuntary reflexes, ensuring survival and adaptability."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "What are the future prospects of biotechnology in medicine and conservation?",
+      "answer": "In medicine, biotechnology promises advanced vaccines, gene therapy for genetic disorders, lab-grown organs (e.g., artificial skin), and personalized medicine. In conservation, it aids in preserving endangered species through cloning, DNA banking, and assisted reproduction. Tissue culture helps restore plant populations. These innovations could revolutionize healthcare by curing diseases and protect biodiversity by preventing extinctions, highlighting biotechnology's expanding role in sustaining life."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "How can tissue culture techniques be used in schools for practical learning?",
+      "answer": "Schools can use tissue culture to demonstrate plant propagation, sterility techniques, and growth observation. Activities include culturing carrot cells or mint stems in agar medium, observing root and shoot development, and comparing growth rates. This hands-on approach teaches concepts like totipotency, aseptic conditions, and biotechnology applications. It fosters scientific skills, curiosity, and understanding of modern agriculture, making biology education engaging and relevant."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Analyze the impact of the 'White Revolution' on Indian dairy farming.",
+      "answer": "The White Revolution, led by Dr. Verghese Kurien, transformed Indian dairy farming through Operation Flood. It established cooperative societies, improved cattle breeds, and introduced modern processing and marketing. Impacts include increased milk production, self-sufficiency in dairy, enhanced farmer incomes, and empowerment of rural women. It made India the world's largest milk producer, ensured fair prices for farmers, and provided nutritious milk to consumers, revolutionizing the dairy sector socio-economically."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Why is it important to balance economic benefits with ecological care in agritourism?",
+      "answer": "Balancing economic benefits with ecological care ensures sustainability. Over-commercialization can lead to habitat destruction, pollution, and loss of biodiversity. Ecologically sensitive practices, like organic farming, native plant use, and waste management, preserve natural resources and attract eco-conscious tourists. This balance maintains long-term viability, protects ecosystems, and enhances the educational and recreational value of agritourism, benefiting both the environment and local communities."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe the steps involved in primary hardening during tissue culture.",
+      "answer": "Primary hardening involves acclimatizing tissue-cultured plantlets to external conditions. Steps include: 1) Transferring plantlets to a sterile soil mix in a controlled environment; 2) Gradually reducing humidity and increasing light exposure; 3) Providing mild nutrients and avoiding stress; 4) Monitoring for disease and ensuring proper watering. This process strengthens plantlets, prepares them for field conditions, and increases survival rates before secondary hardening and final planting."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "How can biotechnology contribute to sustainable agriculture?",
+      "answer": "Biotechnology promotes sustainable agriculture by developing crops that require fewer pesticides (e.g., pest-resistant GM varieties), conserve water (drought-tolerant plants), and improve soil health (nitrogen-fixing plants). Tissue culture reduces land use through efficient propagation. These innovations lower environmental impact, increase yield stability, and reduce chemical runoff. By enhancing resource efficiency and resilience, biotechnology supports long-term food production without compromising ecological balance."
+    },
+    {
+      "question_id": 81,
+      "question_type": "MCQ",
+      "question": "Which tissue in plants is responsible for flexibility and support at the base of leaves?",
+      "options": [
+        { "option_id": 1, "text": "Parenchyma", "is_correct": false },
+        { "option_id": 2, "text": "Sclerenchyma", "is_correct": false },
+        { "option_id": 3, "text": "Collenchyma", "is_correct": true },
+        { "option_id": 4, "text": "Epidermis", "is_correct": false }
+      ],
+      "answer": "Collenchyma"
+    },
+    {
+      "question_id": 82,
+      "question_type": "MCQ",
+      "question": "What is the primary function of the cuticle on plant epidermis?",
+      "options": [
+        { "option_id": 1, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 2, "text": "Water retention", "is_correct": true },
+        { "option_id": 3, "text": "Nutrient absorption", "is_correct": false },
+        { "option_id": 4, "text": "Gas exchange", "is_correct": false }
+      ],
+      "answer": "Water retention"
+    },
+    {
+      "question_id": 83,
+      "question_type": "MCQ",
+      "question": "Which of the following is a characteristic of meristematic cells?",
+      "options": [
+        { "option_id": 1, "text": "Large vacuoles", "is_correct": false },
+        { "option_id": 2, "text": "Thin cytoplasm", "is_correct": false },
+        { "option_id": 3, "text": "Thick cell wall", "is_correct": false },
+        { "option_id": 4, "text": "Conspicuous nucleus", "is_correct": true }
+      ],
+      "answer": "Conspicuous nucleus"
+    },
+    {
+      "question_id": 84,
+      "question_type": "MCQ",
+      "question": "What is the purpose of intercalary meristem in plants?",
+      "options": [
+        { "option_id": 1, "text": "Increase root length", "is_correct": false },
+        { "option_id": 2, "text": "Increase stem girth", "is_correct": false },
+        { "option_id": 3, "text": "Promote growth of branches and flowers", "is_correct": true },
+        { "option_id": 4, "text": "Produce leaves", "is_correct": false }
+      ],
+      "answer": "Promote growth of branches and flowers"
+    },
+    {
+      "question_id": 85,
+      "question_type": "MCQ",
+      "question": "Which part of a neuron receives signals from other neurons?",
+      "options": [
+        { "option_id": 1, "text": "Axon", "is_correct": false },
+        { "option_id": 2, "text": "Cell body", "is_correct": false },
+        { "option_id": 3, "text": "Dendrites", "is_correct": true },
+        { "option_id": 4, "text": "Nucleus", "is_correct": false }
+      ],
+      "answer": "Dendrites"
+    },
+    {
+      "question_id": 86,
+      "question_type": "MCQ",
+      "question": "What is the medium used in tissue culture typically made from?",
+      "options": [
+        { "option_id": 1, "text": "Sand", "is_correct": false },
+        { "option_id": 2, "text": "Agar", "is_correct": true },
+        { "option_id": 3, "text": "Clay", "is_correct": false },
+        { "option_id": 4, "text": "Water only", "is_correct": false }
+      ],
+      "answer": "Agar"
+    },
+    {
+      "question_id": 87,
+      "question_type": "MCQ",
+      "question": "Which GM crop is known for being enriched with beta-carotene?",
+      "options": [
+        { "option_id": 1, "text": "Bt cotton", "is_correct": false },
+        { "option_id": 2, "text": "Golden Rice", "is_correct": true },
+        { "option_id": 3, "text": "Amflora potato", "is_correct": false },
+        { "option_id": 4, "text": "MON 810 maize", "is_correct": false }
+      ],
+      "answer": "Golden Rice"
+    },
+    {
+      "question_id": 88,
+      "question_type": "MCQ",
+      "question": "What is the main advantage of using bioreactors in plantlet production?",
+      "options": [
+        { "option_id": 1, "text": "Reduced cost", "is_correct": false },
+        { "option_id": 2, "text": "Large-scale, controlled growth", "is_correct": true },
+        { "option_id": 3, "text": "No need for nutrients", "is_correct": false },
+        { "option_id": 4, "text": "Automatic harvesting", "is_correct": false }
+      ],
+      "answer": "Large-scale, controlled growth"
+    },
+    {
+      "question_id": 89,
+      "question_type": "MCQ",
+      "question": "Which of the following is a layer in poultry farming?",
+      "options": [
+        { "option_id": 1, "text": "Broiler", "is_correct": false },
+        { "option_id": 2, "text": "Leghorn", "is_correct": true },
+        { "option_id": 3, "text": "Aseel", "is_correct": false },
+        { "option_id": 4, "text": "Brahma", "is_correct": false }
+      ],
+      "answer": "Leghorn"
+    },
+    {
+      "question_id": 90,
+      "question_type": "MCQ",
+      "question": "What is the silk thread secreted by silkworm larvae made from?",
+      "options": [
+        { "option_id": 1, "text": "Salivary gland secretion", "is_correct": true },
+        { "option_id": 2, "text": "Digestive juice", "is_correct": false },
+        { "option_id": 3, "text": "Blood plasma", "is_correct": false },
+        { "option_id": 4, "text": "Skin cells", "is_correct": false }
+      ],
+      "answer": "Salivary gland secretion"
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the function of cartilage?",
+      "answer": "To lubricate bone surfaces, give support, and shape to organs like the nose and ear."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Name one location where cuboidal epithelium is found.",
+      "answer": "Tubules of the kidney (nephron) or salivary glands."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the role of lymph in the body?",
+      "answer": "To protect the body from infections by circulating leucocytes in a fluid medium."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why are striated muscles called voluntary muscles?",
+      "answer": "Because their movements are under the control of our will."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the difference between tendons and ligaments?",
+      "answer": "Tendons join muscles to bones; ligaments join two bones to each other."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is aerenchyma and its function?",
+      "answer": "Aerenchyma is a type of parenchyma with air spaces that helps aquatic plants float."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Name one use of biotechnology in medicine.",
+      "answer": "Vaccine production or artificial skin production."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the main objective of developing hybrid chicken varieties?",
+      "answer": "To produce good quality chickens in large numbers that can withstand high temperatures."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why are cocoons boiled in sericulture?",
+      "answer": "To kill the pupa inside and loosen the silk fibers for unwinding."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is one benefit of agritourism for farmers?",
+      "answer": "Additional income from selling plantlets, fruits, and vegetables to visitors."
+    }
+  ]
+}

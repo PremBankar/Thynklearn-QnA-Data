@@ -1,0 +1,1573 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.07",
+    "standard": "9",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "आंतरराष्ट्रीय वाररेषा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "जागतिक प्रमाणवेळ (GMT) कोणत्या रेखावृत्तावरून ठरवली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१८०° रेखावृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "९०° पूर्व रेखावृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "०° रेखावृत्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "८२° ३०' पूर्व रेखावृत्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "०° रेखावृत्त"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पृथ्वीला एक परिवलन पूर्ण करण्यासाठी किती वेळ लागतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१२ तास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२४ तास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "३६ तास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "४८ तास",
+          "is_correct": false
+        }
+      ],
+      "answer": "२४ तास"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दोन लगतच्या १° अंतरावरील रेखावृत्तांच्या स्थानिक वेळेत किती मिनिटांचा फरक असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१ मिनिट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "४ मिनिटे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "१५ मिनिटे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "६० मिनिटे",
+          "is_correct": false
+        }
+      ],
+      "answer": "४ मिनिटे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषा साधारणपणे कोणत्या रेखावृत्ताच्या अनुषंगाने आखली गेली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "०°",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "९०° पूर्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१८०°",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "९०° पश्चिम",
+          "is_correct": false
+        }
+      ],
+      "answer": "१८०°"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवर दिवस आंतरराष्ट्रीय वाररेषेच्या कोणत्या दिशेला सुरू होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषा कोणत्या महासागरातून जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अटलांटिक महासागर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिंदी महासागर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रशांत (पॅसिफिक) महासागर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आर्क्टिक महासागर",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रशांत (पॅसिफिक) महासागर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "१८०° रेखावृत्तावर मध्यरात्रीचे १२ वाजले असता, ०° रेखावृत्तावर किती वाजले असतील?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सकाळचे ६",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुपारचे १२",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संध्याकाळचे ६",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मध्यरात्रीचे १२",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुपारचे १२"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषा ओलांडताना कशामध्ये बदल करणे आवश्यक असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ वेळेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ मिनिटांत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तारीख व वारात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हवामानात",
+          "is_correct": false
+        }
+      ],
+      "answer": "तारीख व वारात"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पश्चिमेकडून पूर्वेकडे (उदा. जपानकडून अमेरिकेकडे) वाररेषा ओलांडल्यास काय करावे लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक दिवस पुढे जावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तोच वार व तीच तारीख धरावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "एक तास मागे घ्यावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही बदलू नये",
+          "is_correct": false
+        }
+      ],
+      "answer": "तोच वार व तीच तारीख धरावी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषा कोणत्या सामुद्रधुनीतून जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मलबारची सामुद्रधुनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाकची सामुद्रधुनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बेरिंगची सामुद्रधुनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जिब्राल्टरची सामुद्रधुनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेरिंगची सामुद्रधुनी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषा पूर्णपणे सरळ का नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तांत्रिक चुकीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकाच बेटावर दोन वार होऊ नयेत म्हणून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्राच्या प्रवाहामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विमानांच्या दिशेमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकाच बेटावर दोन वार होऊ नयेत म्हणून"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या परिवलनाची दिशा कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्वेकडून पश्चिमेकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिमेकडून पूर्वेकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तरेकडून दक्षिणेकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिणेकडून उत्तरेकडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिमेकडून पूर्वेकडे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पूर्वेकडून पश्चिमेकडे (उदा. अमेरिकेकडून आशियाकडे) वाररेषा ओलांडताना काय करावे लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक दिवस मागे घ्यावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एक दिवस पुढे जावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ १२ तास मागे घ्यावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही बदलू नये",
+          "is_correct": false
+        }
+      ],
+      "answer": "एक दिवस पुढे जावा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषेमुळे जगभरात कशामध्ये सुसूत्रता येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान अंदाजात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक व दळणवळण वेळापत्रकात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सागरी प्रवाहात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसंख्या मोजणीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहतूक व दळणवळण वेळापत्रकात"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषा कोणत्या वर्षी निश्चित करण्यात आली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१८८४",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१९४७",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९००",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१८५०",
+          "is_correct": false
+        }
+      ],
+      "answer": "१८८४"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "प्रवास करताना वाररेषा ओलांडल्यावर वारात बदल करण्याची गरज कोणाला भासते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थानिक रहिवाशांना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आंतरराष्ट्रीय प्रवाशांना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ वैज्ञानिकांना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणालाही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "आंतरराष्ट्रीय प्रवाशांना"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मूळ रेखावृत्तावर दुपारी १२ वाजले असतील, तर ३०° पूर्व रेखावृत्तावर वेळ काय असेल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुपारचे २",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सकाळचे १०",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुपारचे १",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संध्याकाळचे ४",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुपारचे २"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पृथ्वी एका तासात किती रेखावृत्ते फिरते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१°",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१५°",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "३०°",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "४°",
+          "is_correct": false
+        }
+      ],
+      "answer": "१५°"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "IDL हे कशाचे संक्षिप्त रूप आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "International Distance Line",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "International Date Line",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Indian Date Line",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Internal Date Line",
+          "is_correct": false
+        }
+      ],
+      "answer": "International Date Line"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "वाररेषा ओलांडताना पश्चिमेकडे जाताना वार ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाढवावा लागतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कमी करावा लागतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर ठेवावा लागतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "४ तास मागे जातो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाढवावा लागतो"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "१८०° रेखावृत्ताच्या पश्चिमेस कोणता गोलार्ध येतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम गोलार्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व गोलार्ध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर गोलार्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण गोलार्ध",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्व गोलार्ध"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "१८०° रेखावृत्ताच्या पूर्वेस कोणता गोलार्ध येतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम गोलार्ध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व गोलार्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर गोलार्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण गोलार्ध",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम गोलार्ध"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वाररेषा आखताना कोणत्या बाबी विचारात घेतल्या आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ रेखावृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रवासाची दिशा आणि वेळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्राची खोली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूकंप प्रवण क्षेत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रवासाची दिशा आणि वेळ"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ग्रीनिच रेखावृत्तापासून १८०° रेखावृत्त किती तासांच्या अंतरावर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "६ तास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१२ तास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२४ तास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१८ तास",
+          "is_correct": false
+        }
+      ],
+      "answer": "१२ तास"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या परिवलनामुळे पश्चिमेकडील ठिकाणांची वेळ पूर्वेकडील ठिकाणांपेक्षा ____ असते.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुढे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मागे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१२ तास पुढे",
+          "is_correct": false
+        }
+      ],
+      "answer": "मागे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "एका रेखावृत्तावरून दुसऱ्या रेखावृत्तावर जाताना वेळेत होणारा बदल मोजण्यासाठी कोणत्या सूत्राचा वापर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रेखावृत्त फरक × ४ मिनिटे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रेखावृत्त फरक ÷ १५",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेखावृत्त फरक + ६०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रेखावृत्त फरक - ४",
+          "is_correct": false
+        }
+      ],
+      "answer": "रेखावृत्त फरक × ४ मिनिटे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "वाररेषा ओलांडताना पूर्वेकडे जाताना (उदा. जपान ते अमेरिका) वार ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक दिवस कमी करावा लागतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एक दिवस वाढवावा लागतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन दिवस मागे जातो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही बदलत नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "एक दिवस कमी करावा लागतो"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते शहर १८०° रेखावृत्ताच्या सर्वात जवळ आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लंडन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न्यू यॉर्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "टोकियो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुवा (फिजी)",
+          "is_correct": true
+        }
+      ],
+      "answer": "सुवा (फिजी)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "१८०° रेखावृत्त ओलांडताना होणारा गोंधळ टाळण्यासाठी कशाची निर्मिती केली गेली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थानिक वेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रमाण वेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आंतरराष्ट्रीय वाररेषा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अक्षवृत्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "आंतरराष्ट्रीय वाररेषा"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "०° रेखावृत्ताला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आंतरराष्ट्रीय वाररेषा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मूळ रेखावृत्त (Prime Meridian)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विषुववृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मकरवृत्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "मूळ रेखावृत्त (Prime Meridian)"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या परिवलनामुळे सूर्य प्रथम कोणत्या गोलार्धात उगवतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "जागतिक व्यवहारात वेळेशी संबंधित गोंधळ टाळण्यासाठी २४ कालविभाग कोणी पाडले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संयुक्त राष्ट्र संघ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१८८४ ची वॉशिंग्टन परिषद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "युनेस्को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डब्ल्यूएचओ",
+          "is_correct": false
+        }
+      ],
+      "answer": "१८८४ ची वॉशिंग्टन परिषद"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "विमानाने १८०° रेखावृत्त ओलांडताना प्रवाशाला काय करावे लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घड्याळ ४ मिनिटे पुढे लावावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घड्याळाची तारीख व वार बदलावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काहीही करण्याची गरज नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विमान थांबवावे लागते",
+          "is_correct": false
+        }
+      ],
+      "answer": "घड्याळाची तारीख व वार बदलावा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "बेरिंगची सामुद्रधुनी कोणत्या दोन खंडांच्या दरम्यान आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आफ्रिका व युरोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशिया व उत्तर अमेरिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऑस्ट्रेलिया व आशिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण अमेरिका व अंटार्क्टिका",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशिया व उत्तर अमेरिका"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "जर तुम्ही सोमवारी सकाळी १० वाजता जपानहून अमेरिकेकडे वाररेषा ओलांडली, तर तिथे कोणता वार असेल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मंगळवार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोमवार (पुन्हा तोच वार)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रविवार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शनिवार",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोमवार (पुन्हा तोच वार)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषा पृथ्वीवरील कोणत्याही भूभागावरून का जात नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तिथे डोंगर आहेत म्हणून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकाच गावात दोन भिन्न वार पाळावे लागतील म्हणून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जमिनीवर रेषा ओढता येत नाही म्हणून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिथे समुद्र नाही म्हणून",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकाच गावात दोन भिन्न वार पाळावे लागतील म्हणून"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "१८०° रेखावृत्ताला अनुसरून वाररेषा आखताना ती पश्चिमेकडे कोठे वळवण्यात आली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अलूशियन बेटांजवळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फिजी बेटांजवळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हवाई बेटांजवळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूझीलंड जवळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "अलूशियन बेटांजवळ"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषा आखताना कोणत्या बाबीची अचूकता राखली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ वेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ वार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तारीख आणि वार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हवामान",
+          "is_correct": false
+        }
+      ],
+      "answer": "तारीख आणि वार"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "प्रशांत महासागरातील बेटांचे वार ठरवण्यासाठी वाररेषा कोठे वळवली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्वेकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिमेकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तरेकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिणेकडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्वेकडे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवर सर्वात शेवटी सूर्यास्त कोठे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाररेषेच्या पश्चिमेला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाररेषेच्या पूर्वेला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विषुववृत्तावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्तर ध्रुवावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाररेषेच्या पूर्वेला"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "०° ते १८०° पूर्व रेखावृत्तांदरम्यानच्या भागाला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम गोलार्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व गोलार्ध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर गोलार्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण गोलार्ध",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्व गोलार्ध"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "०° ते १८०° पश्चिम रेखावृत्तांदरम्यानच्या भागाला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम गोलार्ध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व गोलार्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर गोलार्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण गोलार्ध",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम गोलार्ध"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "विमानाचे वेळापत्रक चुकणार नाही यासाठी वैमानिकाला कशाचा आधार घ्यावा लागतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अक्षवृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आंतरराष्ट्रीय वाररेषा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सागरी लाटा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाऱ्याची गती",
+          "is_correct": false
+        }
+      ],
+      "answer": "आंतरराष्ट्रीय वाररेषा"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "वाररेषा ओलांडताना एक दिवस पुढे जाणे म्हणजे ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुढचा वार व तारीख धरणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मागील वार व तारीख धरणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ १२ तास मागे घेणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीही न करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुढचा वार व तारीख धरणे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "प्रशांत महासागरातील वाररेषा कोणत्या सामुद्रधुनीतून दक्षिण दिशेला सरकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बेरिंगची सामुद्रधुनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "जिब्राल्टरची सामुद्रधुनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पाकची सामुद्रधुनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "होर्मुझची सामुद्रधुनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेरिंगची सामुद्रधुनी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषेच्या संदर्भात 'पूर्व' गोलार्ध वाररेषेच्या कोणत्या बाजूला असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उजव्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डाव्या (पश्चिमेला)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वरच्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खालच्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "डाव्या (पश्चिमेला)"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कोणत्या रेखावृत्तावर नवीन दिवसाची सुरुवात होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "०°",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१८०°",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "९०°",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "३६०°",
+          "is_correct": false
+        }
+      ],
+      "answer": "१८०°"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "वाररेषा ओलांडताना एक दिवस मागे जाणे म्हणजे ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तोच वार व तारीख पुन्हा अनुभवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पुढचा दिवस धरणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ शून्य करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घड्याळ बंद करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "तोच वार व तारीख पुन्हा अनुभवणे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषा पूर्णपणे सरळ रेखावृत्तावर का नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तांत्रिक समस्यांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राजकीय सीमा पाळण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नकाशे सुंदर दिसण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुकीच्या नोंदींमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "राजकीय सीमा पाळण्यासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय वाररेषेचे मुख्य कार्य काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान मोजणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वारा व तारखेतील सुसूत्रता राखणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्राची क्षारता मोजणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जमिनीची सीमा निश्चित करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वारा व तारखेतील सुसूत्रता राखणे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय वाररेषा म्हणजे काय?",
+      "answer": "ज्या रेखावृत्तावर तारीख आणि वारात बदल केला जातो, त्या १८०° रेखावृत्ताला अनुसरून आखलेल्या काल्पनिक रेषेला आंतरराष्ट्रीय वाररेषा म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय वाररेषा पूर्णपणे १८०° रेखावृत्तावर का नाही?",
+      "answer": "जर ही रेषा सरळ असती, तर ती काही बेटांवरून किंवा भूभागावरून गेली असती. यामुळे एकाच देशात दोन भिन्न वार आणि तारखा पाळाव्या लागल्या असत्या. हा गोंधळ टाळण्यासाठी ती समुद्रातून नागमोडी वळवण्यात आली आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वाररेषा ओलांडताना पश्चिमेकडून पूर्वेकडे गेल्यास काय करावे लागते?",
+      "answer": "पश्चिमेकडून पूर्वेकडे (उदा. आशियातून अमेरिकेकडे) जाताना तोच वार आणि तीच तारीख पुन्हा धरली जाते, म्हणजेच एक दिवस मागे घेतला जातो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वाररेषा ओलांडताना पूर्वेकडून पश्चिमेकडे गेल्यास कोणता बदल होतो?",
+      "answer": "पूर्वेकडून पश्चिमेकडे (उदा. अमेरिकेकडून आशियाकडे) जाताना एक दिवस पुढे वाढवावा लागतो, म्हणजेच पुढचा वार आणि पुढची तारीख धरली जाते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय वाररेषा कोणत्या महासागरातून नेण्यात आली आहे आणि का?",
+      "answer": "ही रेषा पॅसिफिक महासागरातून नेण्यात आली आहे, कारण तिथे मानवी वस्ती विरळ आहे आणि विस्तीर्ण जलभाग असल्याने वार बदलणे सोयीचे ठरते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बेरिंगची सामुद्रधुनी वाररेषेच्या संदर्भात का महत्त्वाची आहे?",
+      "answer": "आंतरराष्ट्रीय वाररेषा बेरिंगच्या सामुद्रधुनीतून जाते. ही सामुद्रधुनी आशिया आणि उत्तर अमेरिका खंडांना विभागते, तिथे रेषेला नागमोडी वळण दिले आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "१८०° रेखावृत्ताच्या पूर्वेस आणि पश्चिमेस कोणते गोलार्ध आहेत?",
+      "answer": "१८०° रेखावृत्ताच्या पूर्वेस पश्चिम गोलार्ध (अमेरिका खंड) आणि पश्चिमेस पूर्व गोलार्ध (आशिया, ऑस्ट्रेलिया खंड) आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय वाररेषा कोणत्या परिषदेत निश्चित करण्यात आली?",
+      "answer": "ही रेषा इ.स. १८८४ मध्ये अमेरिकेतील वॉशिंग्टन येथे भरलेल्या आंतरराष्ट्रीय मेरिडियन परिषदेत निश्चित करण्यात आली."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पृथ्वीला ३६०° परिवलनासाठी किती वेळ लागतो आणि १° साठी किती?",
+      "answer": "पृथ्वीला पूर्ण परिवलनासाठी २४ तास लागतात, तर प्रत्येक १° फिरण्यासाठी ४ मिनिटे लागतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ग्रीनिच रेखावृत्त आणि १८०° रेखावृत्त यात किती तासांचा फरक आहे?",
+      "answer": "ग्रीनिच (०°) आणि १८०° रेखावृत्त यात नेमका १२ तासांचा फरक असतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आय.डी.एल. (IDL) मुळे जागतिक दळणवळणात काय फायदा होतो?",
+      "answer": "विमान आणि जहाजांच्या वेळापत्रकात तारीख आणि वारात होणारा जागतिक गोंधळ टाळण्यासाठी IDL मुळे सुसूत्रता येते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवरील नवीन दिवसाची सुरुवात कोठे होते असे मानले जाते?",
+      "answer": "पृथ्वीवरील नवीन दिवसाची सुरुवात आंतरराष्ट्रीय वाररेषेच्या पश्चिमेला (म्हणजेच पूर्व गोलार्धात) होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "अलूशियन बेटांजवळ वाररेषा पश्चिमेकडे का वळवली आहे?",
+      "answer": "अलूशियन बेटे अमेरिकेच्या अलास्का राज्याचा भाग असल्याने तिथे रशियापेक्षा वेगळा वार येऊ नये म्हणून रेषा पश्चिमेकडे वळवली आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "फिजी आणि टोंगा बेटांजवळ वाररेषा कोणत्या दिशेला वळवली आहे?",
+      "answer": "या बेटांना एकाच वारात आणि एकाच तारखेच्या छत्राखाली आणण्यासाठी वाररेषा तिथे पूर्वेकडे वळवण्यात आली आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वाररेषा ओलांडताना प्रवाशाला नेमका कोणता बदल करावा लागतो?",
+      "answer": "प्रवाशाला आपल्या घड्याळातील वेळ न बदलता केवळ तारीख आणि वारात प्रवासाच्या दिशेनुसार बदल करावा लागतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "१५° रेखावृत्ताचा प्रवास केल्यास वेळेत किती फरक पडतो?",
+      "answer": "१५° रेखावृत्ताचा प्रवास केल्यास स्थानिक वेळेत नेमका १ तासाचा फरक पडतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "वाररेषा जमिनीवरून का नेली नाही?",
+      "answer": "जमिनीवरून नेल्यास एकाच प्रशासकीय भागात किंवा गावात दोन भिन्न वार आणि तारखा पाळाव्या लागल्या असत्या, जे व्यवहारतः गोंधळाचे ठरले असते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "जागतिक प्रमाणवेळ (GMT) कोणत्या शहरावरून मोजली जाते?",
+      "answer": "जागतिक प्रमाणवेळ इंग्लंडमधील ग्रीनिच (Greenwich) शहरावरून जाणाऱ्या ०° रेखावृत्तावरून मोजली जाते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "१८०° रेखावृत्ताला 'आंतरराष्ट्रीय वाररेषा' का मानले जाते?",
+      "answer": "कारण हे रेखावृत्त ०° च्या अगदी विरुद्ध बाजूला आहे आणि ते ओलांडल्यास बरोबर २४ तासांचा फरक पूर्ण होतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "विमान वाहतुकीसाठी वाररेषेचे महत्त्व काय आहे?",
+      "answer": "लांब पल्ल्याच्या प्रवासात विमाने एका गोलार्धातून दुसऱ्या गोलार्धात जाताना या रेषेमुळे प्रवाशांना अचूक वार आणि तारखेचे नियोजन करता येते."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय वाररेषेची गरज का निर्माण झाली ते सविस्तर स्पष्ट करा.",
+      "answer": "१) पृथ्वीच्या परिवलनामुळे वेगवेगळ्या रेखावृत्तांवर सूर्योदय, मध्यान्ह आणि सूर्यास्त वेगवेगळ्या वेळी होतात. २) ग्रीनिच (०°) पासून १८०° रेखावृत्तावर जाताना वेळेत १२ तासांचा फरक पडतो. ३) १८०° रेखावृत्ताच्या एका बाजूला एक वार आणि दुसऱ्या बाजूला दुसरा वार अशी स्थिती निर्माण होते. ४) विमाने आणि जहाजे जेव्हा एका गोलार्धातून दुसऱ्या गोलार्धात प्रवास करतात, तेव्हा तारीख आणि वारात गोंधळ होऊ शकतो. ५) हा गोंधळ टाळण्यासाठी आणि जागतिक स्तरावर वेळेची सुसूत्रता राखण्यासाठी वाररेषेची गरज निर्माण झाली. ६) या रेषेमुळे प्रवाशांना आपल्या प्रवासाच्या दिशेनुसार तारीख बदलण्याचा एक निश्चित संकेत मिळाला आहे."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय वाररेषा १८०° रेखावृत्तासारखी सरळ का नाही? भौगोलिक स्पष्टीकरण द्या.",
+      "answer": "१) आंतरराष्ट्रीय वाररेषा १८०° रेखावृत्ताला अनुसरून आखलेली असली तरी ती पूर्णपणे सरळ नाही. २) १८०° रेखावृत्त हे काही ठिकाणी जमिनीवरून किंवा बेटांच्या समूहावरून जाते. ३) जर ही रेषा सरळ असती, तर एकाच देशात किंवा बेटावर दोन भिन्न वार आणि दोन भिन्न तारखा पाळाव्या लागल्या असत्या. ४) यामुळे स्थानिक प्रशासकीय कामे, शाळा आणि बाजारपेठांमध्ये मोठा गोंधळ उडाला असता. ५) हा गोंधळ टाळण्यासाठी ही रेषा जिथे जमिनीचा भाग येतो, तिथे वळवून पूर्णपणे समुद्रातून नेली आहे. ६) बेरिंगची सामुद्रधुनी, फिजी बेटे आणि अलूशियन बेटांजवळ हे बदल प्रामुख्याने दिसतात."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय वाररेषा ओलांडताना प्रवासाच्या दिशेनुसार होणारे बदल स्पष्ट करा.",
+      "answer": "१) आंतरराष्ट्रीय वाररेषा ओलांडताना 'प्रवासाची दिशा' हा सर्वात महत्त्वाचा घटक ठरतो. २) जेव्हा एखादा प्रवासी पश्चिमेकडून पूर्वेकडे (उदा. जपानकडून अमेरिकेकडे) प्रवास करतो, तेव्हा तो वाररेषा ओलांडताना एक दिवस मागे जातो. ३) अशा प्रवासात प्रवाशाला तोच वार आणि तीच तारीख पुन्हा अनुभवायला मिळते, ज्याला 'दिवस मिळवणे' म्हणतात. ४) याउलट, जेव्हा प्रवास पूर्वेकडून पश्चिमेकडे (उदा. अमेरिकेकडून आशियाकडे) होतो, तेव्हा प्रवाशाला एक दिवस पुढे जावा लागतो. ५) यामध्ये प्रवाशाचा एक दिवस (तारीख) पूर्णपणे वगळला जातो. ६) हे बदल केल्यामुळेच जागतिक वेळापत्रके आणि स्थानिक वेळा यांचा ताळमेळ अचूक राहतो."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय वाररेषा आखताना कोणत्या महत्त्वाच्या बाबी विचारात घेतल्या गेल्या आहेत?",
+      "answer": "१) ही रेषा १८८४ मध्ये वॉशिंग्टन येथील परिषदेत निश्चित करताना ती १८०° रेखावृत्ताच्या जवळ असावी हे ठरले. २) ही रेषा पूर्णपणे पॅसिफिक महासागराच्या जलभागावरून जाईल याची काळजी घेतली गेली. ३) रेषेच्या दोन्ही बाजूला वार आणि तारखेत नेमका २४ तासांचा फरक असावा हा मुख्य निकष होता. ४) राजकीय सीमांचा विचार करून ती काही बेटांजवळ पूर्वेकडे किंवा पश्चिमेकडे वळवण्यात आली. ५) विमानांच्या आणि जहाजांच्या प्रवासाचा मार्ग सुकर होईल अशा पद्धतीने तिची आखणी केली गेली. ६) पृथ्वीच्या स्वतःभोवती फिरण्याच्या गतीमुळे (परिवलन) निर्माण होणारा वेळेचा फरक संतुलित करणे हा यामागील मुख्य उद्देश होता."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय वाररेषेचे महत्त्व आधुनिक युगात का वाढले आहे?",
+      "answer": "१) आधुनिक युगात जागतिक दळणवळण आणि विमान वाहतूक प्रचंड वाढल्यामुळे वाररेषेचे महत्त्व अनन्यसाधारण झाले आहे. २) आंतरराष्ट्रीय बँकिंग व्यवहार आणि शेअर मार्केटच्या अचूक नोंदींसाठी एका निश्चित तारखेची गरज असते. ३) विमानांच्या जागतिक वेळापत्रकांमध्ये सुसूत्रता राखण्यासाठी या रेषेचा आधार घेतला जातो. ४) इंटरनेट आणि माहिती तंत्रज्ञानाच्या काळात जग जवळ आल्याने वेळेचा ताळमेळ राखणे आवश्यक ठरते. ५) जर ही रेषा नसती, तर एका देशातून दुसऱ्या देशात जाताना डिजिटल नोंदींमध्ये मोठी त्रुटी निर्माण झाली असती. ६) थोडक्यात, जागतिक अर्थकारण आणि सामाजिक संपर्कासाठी वाररेषा हे एक महत्त्वाचे साधन आहे."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "१८०° रेखावृत्त आणि आंतरराष्ट्रीय वाररेषा यांच्यातील संबंध आणि फरक स्पष्ट करा.",
+      "answer": "१) १८०° रेखावृत्त हे भूमितीय दृष्ट्या ०° रेखावृत्ताच्या बरोबर विरुद्ध बाजूला असणारे रेखावृत्त आहे. २) आंतरराष्ट्रीय वाररेषा ही १८०° रेखावृत्ताचा आधार घेऊन तयार केली असली तरी ती पूर्णपणे रेखावृत्तावर नाही. ३) १८०° रेखावृत्त सरळ आहे, तर वाररेषा नागमोडी आहे. ४) रेखावृत्त हे केवळ स्थान निश्चितीसाठी वापरले जाते, तर वाररेषा ही तारीख बदलण्यासाठी वापरली जाते. ५) १८०° रेखावृत्त जमिनीवरून आणि समुद्रावरून दोन्हीकडून जाते, पण वाररेषा जाणीवपूर्वक केवळ समुद्रावरून नेण्यात आली आहे. ६) या दोन्हीमधील संबंध असा की, वाररेषा या रेखावृत्ताच्या १०-१५ अंशांच्या कक्षेतच राहते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "एका उदाहरणाद्वारे वाररेषेमुळे वारात होणारा बदल स्पष्ट करा.",
+      "answer": "१) समजा एखाद्या जहाजाचा प्रवास अमेरिकेतून (पश्चिम गोलार्ध) आशियाकडे (पूर्व गोलार्ध) होत आहे. २) प्रवासाला सुरुवात करताना अमेरिकेत रविवार आणि तारीख १५ मे आहे असे मानू. ३) जेव्हा हे जहाज पॅसिफिक महासागरातील आंतरराष्ट्रीय वाररेषा ओलांडेल, तेव्हा जहाजावर थेट मंगळवार आणि तारीख १७ मे होईल. ४) या प्रवासात प्रवाशाचा सोमवार हा दिवस पूर्णपणे वगळला जाईल. ५) याउलट जर जहाज आशियातून अमेरिकेकडे परतत असेल आणि वाररेषा ओलांडली, तर प्रवाशाला पुन्हा तोच रविवार आणि तीच १५ मे तारीख अनुभवायला मिळेल. ६) अशा प्रकारे पृथ्वी गोल असल्यामुळे होणारा २४ तासांचा फरक या बदलांमुळे भरून निघतो."
+    }
+  ]
+}
